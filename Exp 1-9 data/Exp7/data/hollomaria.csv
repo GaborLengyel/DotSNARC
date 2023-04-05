@@ -1,0 +1,2167 @@
+{'delay': u'0', 'dateStr': u'05_15_1026', 'task': u'line', 'participant': u'hollomaria', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+hollomaria SNARC line dot DC 0 up 35 num_decimal 1.52231680246
+hollomaria SNARC line dot DC 0 up 40 num_decimal 1.27357326764
+hollomaria SNARC line dot DC 0 up 45 num_decimal 1.28617239112
+hollomaria SNARC line dot DC 0 up 20 num_decimal 1.13064858136
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.995901199018
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.919169418857
+hollomaria SNARC line dot DC 0 up 35 num_decimal 1.16699324321
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.651450731271
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.702809981448
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.719480258596
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.615261104332
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.594768499287
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.530531902719
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.530844772261
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.55855192497
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.73795531005
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.726864189772
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.491901613377
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.454885016943
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.495312031374
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.575694656125
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.739303378817
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.758828328062
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.622789571435
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.671162562325
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.543097779431
+hollomaria SNARC line dot DC 0 down 45 lctrl 1.03030180012
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.414881111324
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.667546014395
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.62696291516
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.662917015028
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.579713664874
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.694716669333
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.738776330125
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.658943151884
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.690053373304
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.69063081709
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.598644721937
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.7032449891
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.578738309825
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.550025704998
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.659748423491
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.487988644306
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.723161900189
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.563539989382
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.602972400637
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.495227339618
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.466885698676
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.627435719132
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.58732367404
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.519109714669
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.506770965846
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.658452849615
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.421692848202
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.410504437393
+hollomaria SNARC line dot DC 0 down 20 lctrl 1.02770400302
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.639360458259
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.7152460208
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.399578501033
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.667378730681
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.650827091983
+hollomaria SNARC line dot DC 0 down 10 num_decimal 0.443373937546
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.776864522239
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.594783897787
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.434562845307
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.694777213438
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.74228053899
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.722942821517
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.823593023219
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.747086971083
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.727593518771
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.5588074001
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.702892223441
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.727437433966
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.687273593916
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.622427706663
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.899207012197
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.727197707303
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.558707309843
+hollomaria SNARC line dot DC 0 up 5 num_decimal 1.34308910028
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.799805838901
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.715822064722
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.647374328109
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.631460677303
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.595097467262
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.755284923013
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.64288566508
+hollomaria SNARC line dot DC 0 down 45 lctrl 1.15027747049
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.614801599065
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.62220862799
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.682597699114
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.554161602367
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.727509526948
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.73120831687
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.791464750907
+hollomaria SNARC line dot DC 0 down 40 lctrl 1.6108525835
+hollomaria SNARC line dot DC 0 down 30 lctrl 1.02605706334
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.934843692966
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.555076063345
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.627033258312
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.670820295644
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.774173984163
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.650954479581
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.776022154243
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.495948969367
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.871629696849
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.621282618137
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.439443120213
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.599197318141
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.622899110772
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.630836338082
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.463219455586
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.714705673403
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.678316565883
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.559192362623
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.567099492864
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.815053504541
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.791314265556
+hollomaria SNARC line dot DC 0 down 40 lctrl 1.64310054416
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.962921809562
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.670943133686
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.655320654534
+hollomaria SNARC line dot DC 0 down 5 lctrl 1.031422741
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.659000196331
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.638863156672
+hollomaria SNARC line dot DC 0 down 5 lctrl 1.36718460458
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.670544872457
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.691880895395
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.715841662814
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.46771021841
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.527754223126
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.503462387936
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.519706056615
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.495114650589
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.663293228405
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.562545736173
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.61440123804
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.606727885041
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.753244621636
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.718792225577
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.614816297633
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.683387922186
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.563110231219
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.851253980425
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.515530613095
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.583192326228
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.434995053231
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.574357436304
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.967185094531
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.502901042583
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.450885956252
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.526359258926
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.535124155664
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.379883468344
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.571195494118
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.487894853436
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.795278329654
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.631314391544
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.675103178705
+hollomaria SNARC line dot DC 0 down 15 num_decimal 0.623323619446
+hollomaria SNARC line dot DC 0 up 25 num_decimal 1.17504350951
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.695178274394
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.730961590889
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.77867909559
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.651052470042
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.498742047462
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.727096567149
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.751950097658
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.595756103144
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.703043758691
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.618823407541
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.623624590146
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.755208280473
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.66343636447
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.662494956116
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.790871208687
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.741712194318
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.866553091057
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.635227010651
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.863361401768
+hollomaria SNARC line dot DC 0 up 30 num_decimal 1.1233055962
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.734809116333
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.847709175512
+hollomaria SNARC line dot DC 0 up 35 num_decimal 1.2628300135
+hollomaria SNARC line dot DC 0 down 25 lctrl 1.07096224183
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.895396583142
+hollomaria SNARC line dot DC 0 down 10 lctrl 1.17912446223
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.770477294035
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.678449552935
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.595236753702
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.783780198997
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.655835104452
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.867346463821
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.578863597629
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.579479537667
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.790798415775
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.522656619379
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.575295344998
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.575162357944
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.698936208561
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.502769805359
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.570597752308
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.535973872943
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.727398237781
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.667351433338
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.519542972492
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.615249555455
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.5908145842
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.882845405
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.583009993978
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.69099548159
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.497419526209
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.507887707131
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.703104652762
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.691138967622
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.5997873607
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.682862623324
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.451055689728
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.550841125617
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.614966083052
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.639623282673
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.48653908542
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.703186894756
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.619064184102
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.55858972129
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.550290979173
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.531027804444
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.514907323772
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.479995422446
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.507233270841
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.451614235354
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.523472389963
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.559271104958
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.342756982608
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.454590695595
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.53866616085
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.447488486996
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.459279539136
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.459188198029
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.699141638562
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.494791632034
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.550402968272
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.63182464187
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.639087484833
+hollomaria SNARC line dot DC 0 down 15 lctrl 1.19971995726
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.579182066625
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.450931451824
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.875101358883
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.495102051816
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.539206508246
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.498843887547
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.431313411639
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.587013954191
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.446527830516
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.450330210354
+hollomaria SNARC line dot DC 0 down 45 num_decimal 0.383128702421
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.630044015214
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.603256572973
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.711230861676
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.507465648219
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.443268247836
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.474832725034
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.599533985367
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.490703330031
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.45910210641
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.494707290245
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.73117227038
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.551569754685
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.510701433216
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.442176704098
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.691619470844
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.439743041014
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.599838805692
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.571668998023
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.714855108855
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.414676381254
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.623347067162
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.527577490331
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.542602927605
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.635257807653
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.590762789242
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.54217071968
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.782067115766
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.415811320768
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.648934476229
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.65178284894
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.57084097863
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.554736946358
+hollomaria SNARC line dot DC 0 down 30 lctrl 1.23504341852
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.479477122902
+hollomaria SNARC line dot DC 0 down 30 num_decimal 0.562810310416
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.67482845545
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.398397715982
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.57083502921
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.546878461382
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.65843605125
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.95176804538
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.514954219207
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.455439362978
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.702851277429
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.599697419456
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.402839133611
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.590827882906
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.606974611022
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.60320862764
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.53442177404
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.442483624219
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.690592670803
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.542883950247
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.522139719698
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.695048087069
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.547446106121
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.475412268615
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.991759002261
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.58302259275
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.555471524846
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.639056687832
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.607190889967
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.675305109048
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.623211980313
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.47873939472
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.622494900122
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.518131909858
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.519506926001
+hollomaria SNARC line dot DC 0 down 35 lctrl 0.639163427441
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.52690765554
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.423151856167
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.59541663619
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.739320177181
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.507240970092
+hollomaria SNARC line dot DC 0 down 40 lctrl 0.882686870433
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.615166963496
+hollomaria SNARC line dot DC 0 up 40 num_decimal 0.570481563619
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.651783548871
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.558271952225
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.65095202982
+hollomaria SNARC line dot DC 0 up 25 num_decimal 0.511470658332
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.47170087992
+hollomaria SNARC line dot DC 0 up 35 num_decimal 0.991208155886
+hollomaria SNARC line dot DC 0 up 20 num_decimal 0.531402967921
+hollomaria SNARC line dot DC 0 down 25 lctrl 0.767197763298
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.655546732525
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.550522306653
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.527472150586
+hollomaria SNARC line dot DC 0 up 5 num_decimal 0.631398383367
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.962920759664
+hollomaria SNARC line dot DC 0 down 15 lctrl 0.53489737774
+hollomaria SNARC line dot DC 0 up 15 num_decimal 0.718930112153
+hollomaria SNARC line dot DC 0 down 5 lctrl 0.728063872983
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.723380278931
+hollomaria SNARC line dot DC 0 up 45 num_decimal 0.502954937337
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.854920923448
+hollomaria SNARC line dot DC 0 up 30 num_decimal 0.688368987279
+hollomaria SNARC line dot DC 0 down 25 lctrl 1.10321580194
+hollomaria SNARC line dot DC 0 down 20 lctrl 0.555240197367
+hollomaria SNARC line dot DC 0 down 30 lctrl 0.482397238628
+hollomaria SNARC line dot DC 0 down 45 lctrl 0.47849686833
+hollomaria SNARC line dot DC 0 up 10 num_decimal 0.731158271742
+hollomaria SNARC line dot DC 0 down 10 lctrl 0.499080464517
+hollomaria SNARC line dot DC 0 down 25 lctrl 1.13473968309
+{'delay': u'0', 'dateStr': u'05_15_1035', 'task': u'line', 'participant': u'hollomaria', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 1.21969041314
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.723810387059
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.813713834958
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.632791597738
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.702232537663
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.501711858351
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.613813295276
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.504460140805
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.620198773649
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.520025925476
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.590362778184
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.497185748967
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.537042318931
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.489001095743
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.784943835717
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.576853393321
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.805931992521
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.56043369178
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.55264345016
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.472546047643
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.536474674191
+hollomaria SNARC line arabic DC 0 down 1 lctrl 1.13639397205
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.440302636538
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.5612645109
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.537203303258
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.569127545434
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.912784640415
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.648951974526
+hollomaria SNARC line arabic DC 0 down 6 lctrl 1.0887951058
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.544754518148
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.512667191849
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.520584471102
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.496591856782
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.672517280443
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.712410596829
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.638406451132
+hollomaria SNARC line arabic DC 0 down 2 lctrl 1.24922088835
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.457193742189
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.529064845538
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.50499558868
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.704936024478
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.512815577404
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.552736891063
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.584694030036
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.608353476789
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.656546235224
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.672475634497
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.576354341905
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.624298274563
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.689175308784
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.609204943898
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.60908875521
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.673006532814
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.472597142669
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.624900915896
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.77646451118
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.504640373259
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.568748182364
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.456559603923
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.416068195761
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.528417058599
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.624341670338
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.696951901732
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.681297225715
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.569164641822
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.873037959755
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.600996143025
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.408895644009
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.424871588751
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.648747244456
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.584669882387
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.480331739705
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.496555460326
+hollomaria SNARC line arabic DC 0 down 4 num_decimal 0.632458430172
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.549421313835
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.496315033732
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.553215994423
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.5772285568
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.75320822518
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.83302250526
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.832637542735
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.664850926762
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.536697952454
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.488697675281
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.520603369262
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.488521992384
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.584455353272
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.600448446344
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.41633836946
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.624957610376
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.785278753113
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.537173556154
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.609043259639
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.536962876664
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.504863301558
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.5368186907
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 1.22477051859
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.7526276317
+hollomaria SNARC line arabic DC 0 down 5 lctrl 1.17621519545
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.680446458538
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 1.42435783876
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.504156020412
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.681260479293
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.577136865726
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.689023073604
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 1.02501556473
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.528901761414
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.792480352038
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.928682192788
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.536625159541
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.480524220967
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.41647940573
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.568430413299
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.416339769324
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.393230119048
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.369258502685
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.432853961667
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.377063442874
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.33701089199
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.976549132942
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.648854683996
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.616738310526
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.776710187263
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.424597915393
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.504582628881
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.608181293552
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.552406173259
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.576298347356
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.473221481889
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.521256055723
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.489161030174
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.449026937227
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.489014394449
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.824964539703
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.432510295123
+hollomaria SNARC line arabic DC 0 down 8 num_decimal 0.440789789114
+hollomaria SNARC line arabic DC 0 down 6 num_decimal 0.80075109688
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 1.0726235301
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.576539123917
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.544422050513
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.624350069521
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.720296729113
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.873194744492
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.560171567297
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.641097339174
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.544978496343
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 1.24094279422
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.936535778242
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.568710036077
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.608619800862
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.976559981886
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.576481729503
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.516680951109
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.592340435659
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.77728238156
+hollomaria SNARC line arabic DC 0 down 7 lctrl 1.28120147504
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.913017367759
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.704954572673
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.872818881082
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.552673897196
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.528729928142
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.55263400108
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.688599614828
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.648499118611
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.560399045153
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.632341191585
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.584283869965
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.600983544252
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.57715366409
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.689060169992
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.672931990071
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.800879184411
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.632859841095
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.984718387665
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.40064694702
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.624577897342
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.600199620567
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.608445167863
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.688336090481
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.55223154026
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.521256405689
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.577143865044
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.625041952167
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.529013400545
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.504616925542
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.640521295252
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.624794526252
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.448664022558
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.504573179801
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.552582206123
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.456486111078
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.472408511031
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.400353325604
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.58526482447
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.53691248157
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.505222366603
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.553067258902
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.656972843694
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.672830149985
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.520839946231
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.648734645682
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.69671042524
+hollomaria SNARC line arabic DC 0 down 9 lctrl 1.73661284074
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 1.40020703984
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.760272637459
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.649290391581
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.665231689695
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.785130717525
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.521037327016
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.688940481644
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.504839503875
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.952815843378
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.872421319785
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.640587088847
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.664518109163
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.576461081513
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.480432879859
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.528312418786
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.633228705186
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.601235169756
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.553168749023
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.576750853304
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.560956540881
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.536892883478
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.512814877472
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.608765036724
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.712609027511
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.77659959803
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.640509046444
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.624406414036
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.560035430552
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.464213008863
+hollomaria SNARC line arabic DC 0 down 1 lctrl 0.497249442767
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.953176308287
+hollomaria SNARC line arabic DC 0 down 7 lctrl 1.08095796874
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 1.14496358779
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.616873397375
+hollomaria SNARC line arabic DC 0 down 1 lctrl 1.57679074942
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.592626707789
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.520227505852
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.512528255374
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.592405879287
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.656345004813
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.664254934782
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.593221999839
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.569182490085
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.921052585531
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.592944476855
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.49655336053
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.536774944959
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.664688892536
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.504647022613
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.600572334283
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.472513850777
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.472499852139
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.520447284457
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.65627571156
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.840112115086
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.457104850842
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.56906595143
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.63297288009
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.592918229411
+hollomaria SNARC line arabic DC 0 down 7 lctrl 1.19288372277
+hollomaria SNARC line arabic DC 0 down 5 lctrl 1.07270192247
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.608591103656
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.592598010584
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.552181145165
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.528464304
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.696336661626
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.720304428363
+hollomaria SNARC line arabic DC 0 down 5 lctrl 1.00122803045
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.705086159862
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.640995849054
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.768965091249
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.600839008323
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.688457178694
+hollomaria SNARC line arabic DC 0 down 8 lctrl 1.56870478659
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.416481155559
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.584485100376
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 2.65649234047
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.488233970424
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.465185914151
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.585187831965
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.505020086294
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.496650651059
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.560876748648
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.448780911179
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.704713796112
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.496734642883
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.648619506891
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.54452984002
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.488493645144
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.632030771805
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.495926571549
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.657252116506
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.513156094255
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.609141950031
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.401058856921
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.752939451344
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.552864628628
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.552849230127
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.472764076418
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.480339088989
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.504586828471
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.392483991684
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.416510202732
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.680322570598
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.576308846334
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.76120914629
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.625222884552
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.569094998602
+hollomaria SNARC line arabic DC 0 down 2 lctrl 0.456674742713
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.328948726841
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.480889585398
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.4088207513
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.640784469631
+hollomaria SNARC line arabic DC 0 up 4 num_decimal 0.568707586316
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.432606535754
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.48056446705
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.464499280995
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.472077443261
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.440357931155
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.504305455865
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.441207998401
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.577180961433
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.569017656131
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.640952103312
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.536911781638
+hollomaria SNARC line arabic DC 0 up 9 num_decimal 0.400881774159
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.504512635695
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.424764849142
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.440615156115
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.45660369963
+hollomaria SNARC line arabic DC 0 down 4 lctrl 0.440494067903
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.680406562421
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.456390570378
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.776322774977
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.513251634953
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.424888737082
+hollomaria SNARC line arabic DC 0 down 6 lctrl 0.577053223869
+hollomaria SNARC line arabic DC 0 down 8 lctrl 0.608941769519
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.856918179014
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.632832893717
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.504768110824
+hollomaria SNARC line arabic DC 0 up 3 num_decimal 0.520685611255
+hollomaria SNARC line arabic DC 0 up 7 num_decimal 0.528679183082
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.512561852104
+hollomaria SNARC line arabic DC 0 down 3 lctrl 0.93614031674
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.56044314086
+hollomaria SNARC line arabic DC 0 up 2 num_decimal 0.512383019513
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.432280017541
+hollomaria SNARC line arabic DC 0 down 7 lctrl 0.561184368702
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.513173242585
+hollomaria SNARC line arabic DC 0 down 4 num_decimal 0.433077939862
+hollomaria SNARC line arabic DC 0 up 8 num_decimal 0.64805886147
+hollomaria SNARC line arabic DC 0 up 5 num_decimal 0.616909443866
+hollomaria SNARC line arabic DC 0 down 9 lctrl 0.520461983026
+hollomaria SNARC line arabic DC 0 down 5 lctrl 0.448770762167
+hollomaria SNARC line arabic DC 0 up 6 num_decimal 0.52871033005
+hollomaria SNARC line arabic DC 0 up 1 num_decimal 0.616600073983
+{'delay': u'0', 'dateStr': u'05_15_1046', 'task': u'line', 'participant': u'hollomaria', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+hollomaria SNARC line dot CD 0 up 5 lctrl 1.39493550303
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.645031306202
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.611102809142
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.635210212286
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.694709320047
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.502474084147
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.494863025085
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.538331593419
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.472087242307
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.399904319315
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.507412103432
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.619050185464
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.590907675138
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.654686866234
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.643361268781
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.627483664465
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.639330361189
+hollomaria SNARC line dot CD 0 down 15 num_decimal 2.45507329861
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.662362668994
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.502730959141
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.451495596903
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.678492598746
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.575387036072
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.427724161053
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.447023032308
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.371684816483
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.422807839657
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.435348168855
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.382733590885
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.383124152863
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.363185543887
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.402595907289
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.358511048949
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.442757997509
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.435084294544
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.41470087887
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.359971106813
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.347673304003
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.347501820697
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.403121906083
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.411566933959
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.323430114078
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.487619780214
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.411299909953
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.34311534772
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.46683985314
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.410700418315
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.446895994675
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.483112568992
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.654602174479
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.402420574357
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.567831621592
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.799349483327
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.483416689385
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.375095584445
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.40354011537
+hollomaria SNARC line dot CD 0 down 45 lctrl 0.494652345594
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.494390571078
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.470871110698
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.462826793811
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.45912100457
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.323172189187
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.446358796971
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.39121396532
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.391159370635
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.538534223693
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.354948745739
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.507098533957
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.559714161826
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.379229731985
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.483137066606
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.419157694998
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.379419763486
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.38688628662
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.351455735785
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.339279021187
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.379027451678
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.391311955781
+hollomaria SNARC line dot CD 0 up 30 lctrl 1.77875748796
+hollomaria SNARC line dot CD 0 down 20 num_decimal 1.02685323584
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.407497180149
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.407411438497
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.455273129161
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.419324278781
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.494968364829
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.374233268391
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.398942262971
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.395326414974
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.435045098359
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.367321441257
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.423313890393
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.383063608758
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.49887643438
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.418858124161
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.430594231651
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.407998331363
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.431374305711
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.38742978371
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.331698059194
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.525895554068
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.367202452841
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.670786348948
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.430616279506
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.438638898503
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.450338959502
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.670569020106
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.527203376751
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.391021834025
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.446327300037
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.366708650913
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.359370215309
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.33198993078
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.422899180765
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.439208293073
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.38727159911
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.426919589378
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.439472517351
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.543137325581
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.434659085938
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.394724123606
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.43917154665
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.439135150193
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.422965324326
+hollomaria SNARC line dot CD 0 up 15 num_decimal 0.414979101784
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.702889073748
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.387334592978
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.351977185021
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.315813105594
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.486931397229
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.359504602227
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.358681832324
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.406732154624
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.399419966466
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.511146939845
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.431192323427
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.430774814072
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.439269887076
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.570299931302
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.422806439793
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.418517257345
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.379327722446
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.487989694204
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.355824710465
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.431159076664
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.479169502849
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.379020102393
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.403293389389
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.478916127515
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.358944656738
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.423233048262
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.711183266309
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.434733278715
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.390859799799
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.34219948688
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.350861493634
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.443906235728
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.371388745306
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.447910195942
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.36780544414
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.467029884641
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.331018425356
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.483323948414
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.411185821061
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.37255203206
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.595292398286
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.395246972707
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.319098235786
+hollomaria SNARC line dot CD 0 down 10 lctrl 0.291114959959
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.471224226321
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.374952448379
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.430369203557
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.395472000801
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.443791446903
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.475339475702
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.415217778549
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.398839372987
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.479113508301
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.494988662853
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.583173428067
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.57070519185
+hollomaria SNARC line dot CD 0 down 40 num_decimal 1.94627008061
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.479157604007
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.434549546601
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.622246774276
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.3877524523
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.491299671977
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.687885684329
+hollomaria SNARC line dot CD 0 up 20 num_decimal 0.47542136773
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.614032723915
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.387415085142
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.523553932025
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.37107097624
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.375114832571
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.603290869634
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.521501031875
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.36243276717
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.507095384264
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.442567966009
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.435750979643
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.611462924085
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.679985553406
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.411706920332
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.495404072414
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.539185160324
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.463286649045
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.575594565869
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.59950353833
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.486472241927
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.455349071768
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.630351985234
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.394484396944
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.478311736352
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.479453325219
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.306669895686
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.407391140472
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.491640888759
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.531064550866
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.591535863984
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.387182007832
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.434889013554
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.523149721374
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.574875035915
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.535370531679
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.359158485921
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.351066223703
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.491083742997
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.430448645824
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.519885239171
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.523322604544
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.695798064059
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.999253872636
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.539064072113
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.511503205163
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.419330928134
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.39097913818
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.481933883737
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.463059521156
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.518488525143
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.423226398911
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.43879743307
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.454936461935
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.48670076968
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.847429552733
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.488870908417
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.418775182236
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.3435531551
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.415515599557
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.462800546366
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.526976598829
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.406541423192
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.587311425233
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.470960002043
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.490911209794
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.450506943149
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.526801265897
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.378983705936
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.499502523429
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.455401216692
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.435646339829
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.511376867462
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.43097709438
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.366728249005
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.319602886659
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.499285894518
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.427406042021
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.64272153106
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.666724644356
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.462844642074
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.722918673867
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.498648256592
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.431799164352
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.303378816072
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.515463769601
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.471085289847
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.363196042866
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.574740299032
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.511524553085
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.899115321124
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.430932648706
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.49911546111
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.423174953919
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.414500348391
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.36679054294
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.4908926616
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.582398253529
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.570601601935
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.384997170526
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.631933481276
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.439339180331
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.522966339227
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.391136622849
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.354974293252
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.571393574836
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.431234319339
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.374431699074
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.527101186699
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.45057133688
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.550778131748
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.434349016123
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.338553541812
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.419454816074
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.415426358244
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.41511278877
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.459645253534
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.331088068577
+hollomaria SNARC line dot CD 0 down 15 lctrl 0.303400163994
+hollomaria SNARC line dot CD 0 down 15 num_decimal 0.422455423964
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.447192415819
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.338637883602
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.335027985026
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.739070301506
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.371132220278
+hollomaria SNARC line dot CD 0 up 25 num_decimal 0.318816163246
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.52291874386
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.49051329853
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.408018629387
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.367990226151
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.415593991925
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.503783306694
+hollomaria SNARC line dot CD 0 up 15 lctrl 0.439558958935
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.375314663118
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.359633039723
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.398628343531
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.322760629253
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.387417534903
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.363018610138
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.555108260211
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.44725505972
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.462747351546
+hollomaria SNARC line dot CD 0 down 35 num_decimal 0.446407442236
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.488025390729
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.407457284034
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.511900066528
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.375076686284
+hollomaria SNARC line dot CD 0 up 5 num_decimal 0.527801468526
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.554026515519
+hollomaria SNARC line dot CD 0 down 20 num_decimal 0.483360344871
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.498784043373
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.37890251384
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.5586327671
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.411058433461
+hollomaria SNARC line dot CD 0 up 45 lctrl 0.430378652639
+hollomaria SNARC line dot CD 0 up 5 lctrl 0.383206394858
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.54275726258
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.44304601947
+hollomaria SNARC line dot CD 0 up 40 lctrl 0.515302085342
+hollomaria SNARC line dot CD 0 up 35 lctrl 0.502364544811
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.411361503958
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.48744899684
+hollomaria SNARC line dot CD 0 down 45 num_decimal 0.398775329221
+hollomaria SNARC line dot CD 0 down 30 num_decimal 0.515170148185
+hollomaria SNARC line dot CD 0 up 20 lctrl 0.915288996616
+hollomaria SNARC line dot CD 0 down 40 num_decimal 0.506830110089
+hollomaria SNARC line dot CD 0 down 5 num_decimal 0.503509983303
+hollomaria SNARC line dot CD 0 down 10 num_decimal 0.371209562749
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.707128561035
+hollomaria SNARC line dot CD 0 down 25 num_decimal 0.534872530159
+hollomaria SNARC line dot CD 0 up 30 lctrl 0.442472775275
+hollomaria SNARC line dot CD 0 up 25 lctrl 0.726650710553
+hollomaria SNARC line dot CD 0 up 10 lctrl 0.403962524249
+{'delay': u'0', 'dateStr': u'05_15_1056', 'task': u'line', 'participant': u'hollomaria', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+{'delay': u'0', 'dateStr': u'05_15_1057', 'task': u'line', 'participant': u'hollomaria', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+hollomaria SNARC line arabic CD 0 up 4 lctrl 1.12341793526
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.492213433023
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.41441530667
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.384947825329
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.380247082947
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.384938026282
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.454093044042
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.526084885636
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.388361393019
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.406376939205
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.440367730202
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.416573896531
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.560565978902
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.424505524388
+hollomaria SNARC line arabic CD 0 up 3 num_decimal 0.472413760521
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.55526924454
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.625184388298
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.473241429947
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.478338333764
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.888998505996
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.472937659519
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.808879755556
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.480776196437
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.384762693353
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.352618322606
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.408094921959
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.40050241109
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.57618705819
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.512342773431
+hollomaria SNARC line arabic CD 0 down 3 lctrl 0.472303171286
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.608232388577
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.425153311326
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.625177388982
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.513017857711
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.448907598846
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.520896990678
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.806894398831
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.584680731332
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.672641868314
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.464516429325
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.728541576478
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.568370569126
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.528341465957
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.440304386368
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.625239682917
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.792938107475
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.521059374869
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.529020399863
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.53689358341
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.528771224121
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.416757628645
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.584724477072
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.440647003014
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.504545532493
+hollomaria SNARC line arabic CD 0 down 2 lctrl 0.448239163918
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.672445537426
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.47229512207
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.73735161882
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.672265304973
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.609178346487
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.841016077084
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.408988384981
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.65688640211
+hollomaria SNARC line arabic CD 0 up 7 lctrl 1.07249684243
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.616711363149
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.424643760929
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.42459231594
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.480430080132
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.592364583308
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.584318516592
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.600367954181
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.42423430079
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.632819595012
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.401147748265
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.673025081009
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.512963263027
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.584893860583
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.63282414457
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.696742972072
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.576729855349
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.552615102921
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.568240031833
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.448398748382
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.400327428126
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.392334906197
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.512215735798
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.521253605961
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.729171865119
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.641042744488
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.488941951502
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.536582463696
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.400741087855
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.472718580846
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.528692481786
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.784637265562
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.560532032208
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.624407113968
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.656364602906
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.448208016949
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.520815098649
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.633214006617
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.704594807696
+hollomaria SNARC line arabic CD 0 down 9 lctrl 0.441041764583
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.567858219003
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.480828341362
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.456760484367
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.664735088039
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.352681316474
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.792267222785
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.44053396402
+hollomaria SNARC line arabic CD 0 up 7 lctrl 1.08044141903
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.568312824747
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.552469867058
+hollomaria SNARC line arabic CD 0 up 1 num_decimal 0.521168214274
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 1.27928891122
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.441014117276
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.504932594811
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.56860154664
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.592787692118
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.496329382335
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.464603220877
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.384553413725
+hollomaria SNARC line arabic CD 0 down 7 lctrl 0.328542066431
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.600398751181
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.680363866577
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.616318001443
+hollomaria SNARC line arabic CD 0 up 3 num_decimal 0.599939245914
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.656198019122
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.433042593302
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.352992786153
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.392968694498
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.304849722879
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.560847351511
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.440830385161
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.512746284148
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.728330896987
+hollomaria SNARC line arabic CD 0 up 8 lctrl 1.05654049578
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 1.21648367531
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.504347801741
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.400287182043
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.609210893319
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.609204593933
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.665063706047
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.560906145787
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.855908877271
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.592823038678
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.664780583611
+hollomaria SNARC line arabic CD 0 up 5 lctrl 2.28068457536
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.448538034823
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.712370350746
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.352387695058
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.744302292171
+hollomaria SNARC line arabic CD 0 up 1 lctrl 2.77722218742
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.485170018699
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.841023776335
+hollomaria SNARC line arabic CD 0 up 1 num_decimal 0.368875289991
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.663824826652
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.752713023387
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.344646098702
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.392616278805
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.560288105953
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.576490828618
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.544406652012
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.480329989876
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.472291972377
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.376204276514
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.441145704466
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.577017877311
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.536725949729
+hollomaria SNARC line arabic CD 0 up 7 lctrl 1.0808659277
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.544802113514
+hollomaria SNARC line arabic CD 0 up 8 num_decimal 0.384775992057
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.544665976768
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.496521163665
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.46452377861
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.56049213609
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.624356018941
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.487880504832
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.408230708739
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.449219068523
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.377214278189
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.633017325765
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.520965234035
+hollomaria SNARC line arabic CD 0 up 3 lctrl 1.42493388268
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 1.34446481635
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.600624479208
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.424329491523
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.488478246643
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.38447992088
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.440369130065
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.536262594836
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.457247636943
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.473195584409
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.577154014056
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.769016186274
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.528640686829
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.496893527414
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.504746762903
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.528694931549
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.536644057702
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.576601067887
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.440529064495
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.384499169006
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.480405582515
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.472049445987
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.504249111349
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.625238633018
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.473138539963
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.513051804406
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.448994740362
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.496923274519
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.560859600319
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.480797894324
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.432324463214
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.568603646434
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.408558626817
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.368469329511
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.536460325588
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.688347989324
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.448290258944
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.440129053437
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.433214776542
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.480802093916
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.441034765265
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.304971511025
+hollomaria SNARC line arabic CD 0 down 1 lctrl 0.480864387853
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.65584910309
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.568759731239
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.480706203252
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.472572995019
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.488582186525
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.544207871364
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.448431295214
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.480375835414
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.528256424237
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.817137901626
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.913167503144
+hollomaria SNARC line arabic CD 0 up 2 num_decimal 0.545026091711
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.720015706471
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.504936794403
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.424562218868
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.392763614462
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.368692607775
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.76866307065
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.432523593827
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.368380088199
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.440459771242
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.67234894683
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.432240121423
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.416902514542
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.52915058719
+hollomaria SNARC line arabic CD 0 down 6 lctrl 0.473018151682
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.695949249341
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.488639230971
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.728769054333
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.512822926688
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.840716506247
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.496590456918
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.527544943499
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.440462570969
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.400436617496
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.416286924468
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.568312824746
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.489268119749
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.441181750955
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.585153885269
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.440939574533
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.432557540522
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.448874702048
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.512781980673
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.400768385198
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.488674927496
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.720581601381
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.520473881868
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.608451467249
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.488372906897
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.416079044704
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.512232534164
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.657260865655
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.625171789527
+hollomaria SNARC line arabic CD 0 up 4 lctrl 0.752970948279
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.480967977768
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.464921689874
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.4728998632
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.560726963231
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.624389265704
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.384631806093
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.536501621567
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.408473935062
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.592357234023
+hollomaria SNARC line arabic CD 0 up 8 num_decimal 0.360381966815
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.544264565844
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.537203653224
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.401159997075
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.472808172124
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.44098367024
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.424950331086
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.392835707444
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.352840201007
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.304700637393
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.584661833171
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.384594359739
+hollomaria SNARC line arabic CD 0 up 7 lctrl 0.648515217043
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.512183188966
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.56038889614
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.51230497711
+hollomaria SNARC line arabic CD 0 up 3 lctrl 0.528245925259
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.441248244482
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.48921037537
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.393006140854
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.433017395755
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.44889255031
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.432551241136
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.440785589522
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.448722466866
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.456615248506
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.424580417095
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.456515508215
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.440423724749
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.49637452794
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.576336493643
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.463994630123
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.489235222953
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.45718079345
+hollomaria SNARC line arabic CD 0 down 9 num_decimal 0.353049480633
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.457002310826
+hollomaria SNARC line arabic CD 0 down 1 num_decimal 0.408990484777
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.456889621795
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.44887715181
+hollomaria SNARC line arabic CD 0 up 1 num_decimal 0.392786712213
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.560380846924
+hollomaria SNARC line arabic CD 0 down 8 num_decimal 0.488615433287
+hollomaria SNARC line arabic CD 0 down 2 num_decimal 0.456553304535
+hollomaria SNARC line arabic CD 0 up 1 lctrl 1.12844764562
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.720366722298
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.416252977773
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.809231471316
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.841181960937
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.465056776722
+hollomaria SNARC line arabic CD 0 down 7 num_decimal 0.496674098777
+hollomaria SNARC line arabic CD 0 up 4 num_decimal 0.376933955478
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.463757003256
+hollomaria SNARC line arabic CD 0 up 2 lctrl 0.384687100712
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.464733408204
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.440710346847
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.384628306436
+hollomaria SNARC line arabic CD 0 up 6 num_decimal 0.376582239718
+hollomaria SNARC line arabic CD 0 down 4 num_decimal 0.512437264233
+hollomaria SNARC line arabic CD 0 up 8 lctrl 0.632037071191
+hollomaria SNARC line arabic CD 0 down 3 num_decimal 0.456257583324
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.665269486015
+hollomaria SNARC line arabic CD 0 up 6 lctrl 0.505172671441
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.481142960733
+hollomaria SNARC line arabic CD 0 down 5 num_decimal 0.457016309461
+hollomaria SNARC line arabic CD 0 up 1 lctrl 0.480955728961
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.600906551748
+hollomaria SNARC line arabic CD 0 up 5 lctrl 0.464789402751
+hollomaria SNARC line arabic CD 0 down 5 lctrl 0.480453177883
+hollomaria SNARC line arabic CD 0 down 6 num_decimal 0.687634758755
+hollomaria SNARC line arabic CD 0 up 9 lctrl 0.496570158895
+{'participant': u'hollomaria', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_15_1105', 'autopilot': False, 'exp_id': u'SNARC'}
+hollomaria SNARC_only DC 3 lctrl 1.31092268168
+hollomaria SNARC_only DC 7 lctrl 0.628239940843
+hollomaria SNARC_only DC 3 lctrl 0.552907324471
+hollomaria SNARC_only DC 3 lctrl 0.464836648152
+hollomaria SNARC_only DC 3 lctrl 0.408725910533
+hollomaria SNARC_only DC 2 num_decimal 0.541723113256
+hollomaria SNARC_only DC 3 lctrl 0.560601675428
+hollomaria SNARC_only DC 2 num_decimal 0.753551541757
+hollomaria SNARC_only DC 1 lctrl 0.685450621382
+hollomaria SNARC_only DC 7 lctrl 0.537428681317
+hollomaria SNARC_only DC 7 lctrl 0.44138088157
+hollomaria SNARC_only DC 6 num_decimal 0.646543159022
+hollomaria SNARC_only DC 6 num_decimal 0.473267677391
+hollomaria SNARC_only DC 6 num_decimal 0.496888977857
+hollomaria SNARC_only DC 4 num_decimal 0.518403133456
+hollomaria SNARC_only DC 9 lctrl 0.676713021987
+hollomaria SNARC_only DC 9 lctrl 0.464948987215
+hollomaria SNARC_only DC 5 lctrl 0.686007767143
+hollomaria SNARC_only DC 7 lctrl 0.544756617943
+hollomaria SNARC_only DC 8 num_decimal 0.669836891379
+hollomaria SNARC_only DC 9 lctrl 0.537605414112
+hollomaria SNARC_only DC 8 num_decimal 1.01729706613
+hollomaria SNARC_only DC 2 num_decimal 0.585532898373
+hollomaria SNARC_only DC 9 lctrl 0.657337158229
+hollomaria SNARC_only DC 9 lctrl 0.481262649082
+hollomaria SNARC_only DC 3 lctrl 0.713233016766
+hollomaria SNARC_only DC 6 num_decimal 0.545171677537
+hollomaria SNARC_only DC 8 lctrl 0.513056353964
+hollomaria SNARC_only DC 3 lctrl 0.717041695991
+hollomaria SNARC_only DC 2 num_decimal 0.568940663627
+hollomaria SNARC_only DC 6 num_decimal 0.640555591914
+hollomaria SNARC_only DC 2 num_decimal 0.456739836378
+hollomaria SNARC_only DC 5 lctrl 0.592701250533
+hollomaria SNARC_only DC 2 num_decimal 0.617645072252
+hollomaria SNARC_only DC 4 num_decimal 0.649599061531
+hollomaria SNARC_only DC 8 num_decimal 0.545502745308
+hollomaria SNARC_only DC 3 lctrl 1.08137477816
+hollomaria SNARC_only DC 9 lctrl 1.24933672707
+hollomaria SNARC_only DC 5 lctrl 0.615317448846
+hollomaria SNARC_only DC 8 num_decimal 0.553134802327
+hollomaria SNARC_only DC 7 lctrl 0.553028412683
+hollomaria SNARC_only DC 2 num_decimal 0.56897741005
+hollomaria SNARC_only DC 4 num_decimal 0.688912834335
+hollomaria SNARC_only DC 3 lctrl 0.560860650216
+hollomaria SNARC_only DC 9 lctrl 0.840787549332
+hollomaria SNARC_only DC 8 num_decimal 0.56869533751
+hollomaria SNARC_only DC 1 lctrl 0.680603943207
+hollomaria SNARC_only DC 4 num_decimal 0.633251802938
+hollomaria SNARC_only DC 2 num_decimal 0.553463420336
+hollomaria SNARC_only DC 1 lctrl 0.673368747553
+hollomaria SNARC_only DC 6 num_decimal 0.601211022107
+hollomaria SNARC_only DC 9 lctrl 0.585192031554
+hollomaria SNARC_only DC 8 num_decimal 0.513144895343
+hollomaria SNARC_only DC 1 lctrl 0.553034712071
+hollomaria SNARC_only DC 5 lctrl 0.568962011548
+hollomaria SNARC_only DC 1 lctrl 0.584886511298
+hollomaria SNARC_only DC 8 num_decimal 0.496590456918
+hollomaria SNARC_only DC 5 lctrl 0.480741549811
+hollomaria SNARC_only DC 4 num_decimal 0.560693716468
+hollomaria SNARC_only DC 4 num_decimal 0.48066840693
+hollomaria SNARC_only DC 2 num_decimal 0.553585908412
+hollomaria SNARC_only DC 7 lctrl 1.02555766196
+hollomaria SNARC_only DC 1 lctrl 0.409355149275
+hollomaria SNARC_only DC 7 lctrl 0.393344557908
+hollomaria SNARC_only DC 4 num_decimal 0.553275488632
+hollomaria SNARC_only DC 4 num_decimal 0.448905149084
+hollomaria SNARC_only DC 1 lctrl 0.577095569746
+hollomaria SNARC_only DC 4 num_decimal 0.473076945958
+hollomaria SNARC_only DC 8 num_decimal 0.505026385681
+hollomaria SNARC_only DC 5 lctrl 0.480911283286
+hollomaria SNARC_only DC 1 lctrl 0.536836538962
+hollomaria SNARC_only DC 4 num_decimal 0.616781706301
+hollomaria SNARC_only DC 7 lctrl 0.552757539053
+hollomaria SNARC_only DC 5 lctrl 0.67262506995
+hollomaria SNARC_only DC 9 lctrl 0.625227784076
+hollomaria SNARC_only DC 4 num_decimal 0.561536434428
+hollomaria SNARC_only DC 8 num_decimal 0.489387108166
+hollomaria SNARC_only DC 7 lctrl 0.60130621284
+hollomaria SNARC_only DC 3 lctrl 0.593262595885
+hollomaria SNARC_only DC 5 lctrl 0.545167127981
+hollomaria SNARC_only DC 8 num_decimal 0.545141230501
+hollomaria SNARC_only DC 7 lctrl 0.569035504393
+hollomaria SNARC_only DC 6 lctrl 0.664981814021
+hollomaria SNARC_only DC 1 lctrl 0.600628678798
+hollomaria SNARC_only DC 4 num_decimal 0.544730720465
+hollomaria SNARC_only DC 7 lctrl 0.45671113917
+hollomaria SNARC_only DC 8 num_decimal 0.416662787879
+hollomaria SNARC_only DC 7 lctrl 0.552647649753
+hollomaria SNARC_only DC 5 lctrl 0.577555424979
+hollomaria SNARC_only DC 2 num_decimal 0.553500516726
+hollomaria SNARC_only DC 2 num_decimal 0.393389703513
+hollomaria SNARC_only DC 3 lctrl 0.585321868915
+hollomaria SNARC_only DC 6 num_decimal 0.88894216148
+hollomaria SNARC_only DC 9 lctrl 0.969187599587
+hollomaria SNARC_only DC 9 lctrl 0.497039463207
+hollomaria SNARC_only DC 3 lctrl 0.376997649279
+hollomaria SNARC_only DC 6 num_decimal 0.664938068279
+hollomaria SNARC_only DC 2 num_decimal 0.488903105283
+hollomaria SNARC_only DC 5 num_decimal 0.512779880879
+hollomaria SNARC_only DC 9 lctrl 0.632718454859
+hollomaria SNARC_only DC 1 lctrl 0.528667634206
+hollomaria SNARC_only DC 3 lctrl 0.408224409353
+hollomaria SNARC_only DC 6 lctrl 0.60953951133
+hollomaria SNARC_only DC 2 num_decimal 0.528014597779
+hollomaria SNARC_only DC 6 num_decimal 0.561424095364
+hollomaria SNARC_only DC 3 lctrl 0.673313802901
+hollomaria SNARC_only DC 2 num_decimal 0.529248227685
+hollomaria SNARC_only DC 2 num_decimal 0.545142630364
+hollomaria SNARC_only DC 1 lctrl 0.593106161115
+hollomaria SNARC_only DC 4 num_decimal 0.561056631137
+hollomaria SNARC_only DC 9 lctrl 0.576656362504
+hollomaria SNARC_only DC 6 num_decimal 0.584848365012
+hollomaria SNARC_only DC 6 num_decimal 0.432802866642
+hollomaria SNARC_only DC 7 lctrl 0.512666841883
+hollomaria SNARC_only DC 5 lctrl 0.968645502362
+hollomaria SNARC_only DC 3 lctrl 0.561572830884
+hollomaria SNARC_only DC 6 num_decimal 0.729540029279
+hollomaria SNARC_only DC 5 lctrl 0.529333619372
+hollomaria SNARC_only DC 3 lctrl 0.505360253179
+hollomaria SNARC_only DC 8 num_decimal 0.464952136908
+hollomaria SNARC_only DC 9 lctrl 0.505195419226
+hollomaria SNARC_only DC 3 lctrl 0.577141415282
+hollomaria SNARC_only DC 2 num_decimal 0.577064772744
+hollomaria SNARC_only DC 9 lctrl 0.55296506885
+hollomaria SNARC_only DC 8 num_decimal 0.600856856587
+hollomaria SNARC_only DC 8 num_decimal 0.560833702839
+hollomaria SNARC_only DC 1 lctrl 0.512791079789
+hollomaria SNARC_only DC 2 num_decimal 0.560735712379
+hollomaria SNARC_only DC 8 num_decimal 0.592315238111
+hollomaria SNARC_only DC 1 lctrl 0.545547540947
+hollomaria SNARC_only DC 1 lctrl 0.432512394918
+hollomaria SNARC_only DC 9 lctrl 1.00137676597
+hollomaria SNARC_only DC 4 num_decimal 0.505290959925
+hollomaria SNARC_only DC 6 num_decimal 0.569198938483
+hollomaria SNARC_only DC 8 num_decimal 0.433183279607
+hollomaria SNARC_only DC 6 num_decimal 0.433090888602
+hollomaria SNARC_only DC 3 num_decimal 0.4490713829
+hollomaria SNARC_only DC 9 lctrl 0.552666547912
+hollomaria SNARC_only DC 3 lctrl 0.392870004105
+hollomaria SNARC_only DC 5 num_decimal 0.440862931993
+hollomaria SNARC_only DC 8 num_decimal 0.704786938992
+hollomaria SNARC_only DC 9 lctrl 0.536659806168
+hollomaria SNARC_only DC 2 num_decimal 0.552615452885
+hollomaria SNARC_only DC 4 num_decimal 0.505549234782
+hollomaria SNARC_only DC 3 lctrl 0.505414147932
+hollomaria SNARC_only DC 3 lctrl 0.433434905111
+hollomaria SNARC_only DC 3 lctrl 0.352297403848
+hollomaria SNARC_only DC 6 num_decimal 0.545326362479
+hollomaria SNARC_only DC 2 num_decimal 0.585263774572
+hollomaria SNARC_only DC 4 num_decimal 0.42515121153
+hollomaria SNARC_only DC 3 lctrl 0.625058750531
+hollomaria SNARC_only DC 8 lctrl 0.465037878563
+hollomaria SNARC_only DC 7 lctrl 0.608955768157
+hollomaria SNARC_only DC 2 num_decimal 0.544870706835
+hollomaria SNARC_only DC 8 num_decimal 0.75284776027
+hollomaria SNARC_only DC 5 lctrl 0.533279485242
+hollomaria SNARC_only DC 5 lctrl 0.432671279452
+hollomaria SNARC_only DC 8 num_decimal 0.632586517702
+hollomaria SNARC_only DC 9 lctrl 0.553537613114
+hollomaria SNARC_only DC 7 lctrl 0.465449438498
+hollomaria SNARC_only DC 5 lctrl 0.785372893948
+hollomaria SNARC_only DC 3 lctrl 0.409266957862
+hollomaria SNARC_only DC 4 lctrl 0.976976091377
+hollomaria SNARC_only DC 6 num_decimal 0.761190248129
+hollomaria SNARC_only DC 4 lctrl 0.54500894338
+hollomaria SNARC_only DC 5 lctrl 0.608913072314
+hollomaria SNARC_only DC 1 lctrl 0.544887505202
+hollomaria SNARC_only DC 2 num_decimal 0.568845122927
+hollomaria SNARC_only DC 6 num_decimal 1.12075854416
+hollomaria SNARC_only DC 3 lctrl 0.672690513578
+hollomaria SNARC_only DC 8 num_decimal 0.728297650225
+hollomaria SNARC_only DC 8 num_decimal 0.41758109848
+hollomaria SNARC_only DC 3 lctrl 0.857321689733
+hollomaria SNARC_only DC 7 lctrl 1.4813312424
+hollomaria SNARC_only DC 4 num_decimal 0.937175165998
+hollomaria SNARC_only DC 6 num_decimal 0.513108498888
+hollomaria SNARC_only DC 9 lctrl 1.42500387587
+hollomaria SNARC_only DC 2 num_decimal 0.808931550513
+hollomaria SNARC_only DC 3 lctrl 2.25681759881
+hollomaria SNARC_only DC 3 lctrl 0.392386351188
+hollomaria SNARC_only DC 9 num_decimal 0.545577987983
+hollomaria SNARC_only DC 7 lctrl 0.504525934401
+hollomaria SNARC_only DC 1 lctrl 0.513487511989
+hollomaria SNARC_only DC 5 lctrl 0.505348004372
+hollomaria SNARC_only DC 6 num_decimal 0.673370147417
+hollomaria SNARC_only DC 7 lctrl 0.5532275433
+hollomaria SNARC_only DC 1 lctrl 0.737140589363
+hollomaria SNARC_only DC 5 lctrl 0.489058490155
+hollomaria SNARC_only DC 3 lctrl 0.560710514832
+hollomaria SNARC_only DC 2 num_decimal 0.744960928054
+hollomaria SNARC_only DC 4 num_decimal 0.472917361494
+hollomaria SNARC_only DC 1 lctrl 0.592776493209
+hollomaria SNARC_only DC 9 lctrl 0.576709907291
+hollomaria SNARC_only DC 6 lctrl 0.504577379392
+hollomaria SNARC_only DC 4 num_decimal 0.576599668022
+hollomaria SNARC_only DC 9 lctrl 0.67352378246
+hollomaria SNARC_only DC 9 lctrl 0.481390036679
+hollomaria SNARC_only DC 5 lctrl 0.561028283895
+hollomaria SNARC_only DC 8 num_decimal 0.521329548568
+hollomaria SNARC_only DC 1 lctrl 0.633118465918
+hollomaria SNARC_only DC 9 lctrl 0.737123091067
+hollomaria SNARC_only DC 7 lctrl 0.52105412538
+hollomaria SNARC_only DC 9 lctrl 0.544950849035
+hollomaria SNARC_only DC 8 num_decimal 0.512932815991
+hollomaria SNARC_only DC 8 num_decimal 0.496844182218
+hollomaria SNARC_only DC 3 lctrl 1.02481783398
+hollomaria SNARC_only DC 5 lctrl 0.832316623977
+hollomaria SNARC_only DC 7 lctrl 0.95354412248
+hollomaria SNARC_only DC 4 num_decimal 0.793552647649
+hollomaria SNARC_only DC 5 lctrl 0.609442570767
+hollomaria SNARC_only DC 6 num_decimal 0.657331908738
+hollomaria SNARC_only DC 3 lctrl 0.569214686951
+hollomaria SNARC_only DC 6 lctrl 0.617189766575
+hollomaria SNARC_only DC 5 lctrl 0.536057164834
+hollomaria SNARC_only DC 1 lctrl 0.577024526663
+hollomaria SNARC_only DC 8 num_decimal 0.760677898006
+hollomaria SNARC_only DC 2 num_decimal 0.600866655632
+hollomaria SNARC_only DC 7 lctrl 0.944791474549
+hollomaria SNARC_only DC 1 lctrl 1.27269380326
+hollomaria SNARC_only DC 5 lctrl 0.512579350399
+hollomaria SNARC_only DC 7 lctrl 0.449536487624
+hollomaria SNARC_only DC 6 num_decimal 0.569192639095
+hollomaria SNARC_only DC 5 lctrl 0.593409231611
+hollomaria SNARC_only DC 9 num_decimal 0.449367104111
+hollomaria SNARC_only DC 7 lctrl 0.479960075887
+hollomaria SNARC_only DC 1 lctrl 0.513147695072
+hollomaria SNARC_only DC 1 lctrl 0.329112860863
+hollomaria SNARC_only DC 8 num_decimal 0.545058638541
+hollomaria SNARC_only DC 1 lctrl 0.58500339992
+hollomaria SNARC_only DC 7 lctrl 0.408849448506
+hollomaria SNARC_only DC 8 num_decimal 0.672883694771
+hollomaria SNARC_only DC 2 num_decimal 0.568797527561
+hollomaria SNARC_only DC 5 lctrl 0.616719762331
+hollomaria SNARC_only DC 7 lctrl 0.488302213778
+hollomaria SNARC_only DC 6 num_decimal 0.585524499189
+hollomaria SNARC_only DC 6 num_decimal 0.472810971853
+hollomaria SNARC_only DC 3 lctrl 0.641421057659
+hollomaria SNARC_only DC 9 lctrl 0.465329750148
+hollomaria SNARC_only DC 5 lctrl 0.489208975507
+hollomaria SNARC_only DC 5 lctrl 0.369225955852
+hollomaria SNARC_only DC 6 num_decimal 0.553114854269
+hollomaria SNARC_only DC 4 num_decimal 0.457069154319
+hollomaria SNARC_only DC 8 num_decimal 0.424697305718
+hollomaria SNARC_only DC 2 num_decimal 0.600912151203
+hollomaria SNARC_only DC 8 num_decimal 0.424834142395
+hollomaria SNARC_only DC 1 lctrl 0.456734236923
+hollomaria SNARC_only DC 1 lctrl 0.352753759422
+hollomaria SNARC_only DC 7 lctrl 0.352664168144
+hollomaria SNARC_only DC 9 lctrl 0.433593789645
+hollomaria SNARC_only DC 9 lctrl 0.377566343916
+hollomaria SNARC_only DC 2 num_decimal 0.55358345865
+hollomaria SNARC_only DC 7 lctrl 0.601062636551
+hollomaria SNARC_only DC 8 num_decimal 1.4013363799
+hollomaria SNARC_only DC 3 lctrl 0.65717267424
+hollomaria SNARC_only DC 6 num_decimal 0.625178788845
+hollomaria SNARC_only DC 7 lctrl 0.944985355676
+hollomaria SNARC_only DC 9 lctrl 0.520457083503
+hollomaria SNARC_only DC 4 lctrl 0.696819964576
+hollomaria SNARC_only DC 7 lctrl 0.664782333439
+hollomaria SNARC_only DC 3 lctrl 0.632660360514
+hollomaria SNARC_only DC 1 lctrl 0.503676917051
+hollomaria SNARC_only DC 6 num_decimal 0.592581562185
+hollomaria SNARC_only DC 8 num_decimal 0.369618967594
+hollomaria SNARC_only DC 5 lctrl 0.593506872106
+hollomaria SNARC_only DC 8 num_decimal 0.521410740665
+hollomaria SNARC_only DC 4 num_decimal 0.457302231627
+hollomaria SNARC_only DC 5 lctrl 0.577284901316
+hollomaria SNARC_only DC 3 lctrl 0.4011792452
+hollomaria SNARC_only DC 2 num_decimal 0.489124983684
+hollomaria SNARC_only DC 1 lctrl 0.600787563331
+hollomaria SNARC_only DC 4 num_decimal 0.745009223352
+hollomaria SNARC_only DC 2 num_decimal 0.488873358179
+hollomaria SNARC_only DC 7 lctrl 0.816832031402
+hollomaria SNARC_only DC 5 lctrl 0.43271782492
+hollomaria SNARC_only DC 8 num_decimal 0.50465577176
+hollomaria SNARC_only DC 4 num_decimal 0.441616058675
+hollomaria SNARC_only DC 8 num_decimal 0.393602132832
+hollomaria SNARC_only DC 1 num_decimal 0.44157791239
+hollomaria SNARC_only DC 2 num_decimal 0.488105532926
+hollomaria SNARC_only DC 8 num_decimal 0.465367896435
+hollomaria SNARC_only DC 1 lctrl 0.473340820272
+hollomaria SNARC_only DC 1 lctrl 0.393170974805
+hollomaria SNARC_only DC 9 num_decimal 0.545118832682
+hollomaria SNARC_only DC 7 lctrl 0.601066486177
+hollomaria SNARC_only DC 4 num_decimal 0.544983745833
+hollomaria SNARC_only DC 7 lctrl 0.656871703539
+hollomaria SNARC_only DC 2 num_decimal 0.536865586135
+hollomaria SNARC_only DC 5 lctrl 0.80847169528
+hollomaria SNARC_only DC 9 lctrl 0.61669071516
+hollomaria SNARC_only DC 5 lctrl 0.440597307852
+hollomaria SNARC_only DC 1 lctrl 0.577099769336
+hollomaria SNARC_only DC 2 num_decimal 0.62544231319
+hollomaria SNARC_only DC 7 lctrl 0.50545299415
+hollomaria SNARC_only DC 5 lctrl 0.609293485279
+hollomaria SNARC_only DC 5 lctrl 0.441239495336
+hollomaria SNARC_only DC 6 num_decimal 0.585202530534
+hollomaria SNARC_only DC 4 num_decimal 0.496750391349
+hollomaria SNARC_only DC 5 lctrl 0.617067978432
+hollomaria SNARC_only DC 7 lctrl 0.568909166694
+hollomaria SNARC_only DC 7 lctrl 0.37690735807
+hollomaria SNARC_only DC 2 num_decimal 0.544490643835
+hollomaria SNARC_only DC 4 num_decimal 0.520766453385
+hollomaria SNARC_only DC 4 num_decimal 0.496724493871
+hollomaria SNARC_only DC 8 num_decimal 0.975675967944
+hollomaria SNARC_only DC 9 lctrl 0.417581798412
+hollomaria SNARC_only DC 4 num_decimal 0.529178584466
+hollomaria SNARC_only DC 8 num_decimal 0.441378781774
+hollomaria SNARC_only DC 6 num_decimal 0.505358853316
+hollomaria SNARC_only DC 8 num_decimal 0.385245996304
+hollomaria SNARC_only DC 6 num_decimal 0.457197941781
+hollomaria SNARC_only DC 7 lctrl 0.537114411911
+hollomaria SNARC_only DC 3 lctrl 0.505045283842
+hollomaria SNARC_only DC 1 lctrl 0.481003674291
+hollomaria SNARC_only DC 3 lctrl 0.480855638703
+hollomaria SNARC_only DC 2 num_decimal 0.520508528496
+hollomaria SNARC_only DC 1 lctrl 0.632776199238
+hollomaria SNARC_only DC 6 num_decimal 0.576729505383
+hollomaria SNARC_only DC 2 num_decimal 0.560609024711
+hollomaria SNARC_only DC 5 lctrl 0.609526912554
+hollomaria SNARC_only DC 2 num_decimal 0.577523578078
+hollomaria SNARC_only DC 9 lctrl 0.561473440561
+hollomaria SNARC_only DC 1 lctrl 0.449316359052
+hollomaria SNARC_only DC 1 lctrl 0.441265042849
+hollomaria SNARC_only DC 3 lctrl 0.552922373008
+hollomaria SNARC_only DC 9 lctrl 0.473117192041
+hollomaria SNARC_only DC 7 lctrl 0.393025738944
+hollomaria SNARC_only DC 6 lctrl 0.393027138809
+hollomaria SNARC_only DC 9 lctrl 0.528886362912
+hollomaria SNARC_only DC 4 num_decimal 0.464848546993
+hollomaria SNARC_only DC 1 lctrl 0.408689164109
+hollomaria SNARC_only DC 2 num_decimal 0.480638659827
+hollomaria SNARC_only DC 6 num_decimal 0.480661057645
+hollomaria SNARC_only DC 3 lctrl 0.608287333229
+hollomaria SNARC_only DC 4 num_decimal 0.585539547727
+hollomaria SNARC_only DC 1 lctrl 0.449455645494
+hollomaria SNARC_only DC 2 num_decimal 0.705399729337
+hollomaria SNARC_only DC 6 num_decimal 0.537279945796
+hollomaria SNARC_only DC 5 num_decimal 0.393215770446
+hollomaria SNARC_only DC 2 num_decimal 0.52821827795
+hollomaria SNARC_only DC 4 num_decimal 0.577085770701
+hollomaria SNARC_only DC 7 lctrl 0.52904734724
+hollomaria SNARC_only DC 9 lctrl 0.440595558022
+hollomaria SNARC_only DC 6 num_decimal 0.520907489656
+hollomaria SNARC_only DC 5 lctrl 0.50483565425
+hollomaria SNARC_only DC 9 lctrl 0.624679737428
+hollomaria SNARC_only DC 4 num_decimal 0.672712561432
+hollomaria SNARC_only DC 4 num_decimal 0.512558352446
+hollomaria SNARC_only DC 3 lctrl 1.1855316385
+hollomaria SNARC_only DC 1 lctrl 0.82546184129
+hollomaria SNARC_only DC 2 num_decimal 0.60135170841
+hollomaria SNARC_only DC 4 num_decimal 0.424984277781
+hollomaria SNARC_only DC 6 num_decimal 0.489230323426
+hollomaria SNARC_only DC 6 num_decimal 0.417158339636
+hollomaria SNARC_only DC 1 lctrl 0.457085252752
+hollomaria SNARC_only DC 4 num_decimal 0.544949799138
+hollomaria SNARC_only DC 9 lctrl 1.05681241931
+hollomaria SNARC_only DC 4 num_decimal 0.536798392677
+hollomaria SNARC_only DC 7 lctrl 0.896727853544
+hollomaria SNARC_only DC 7 lctrl 0.504634773804
+hollomaria SNARC_only DC 5 num_decimal 0.528297720217
+{'participant': u'hollomaria', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_15_1115', 'autopilot': False, 'exp_id': u'SNARC'}
+hollomaria SNARC_only CD 2 lctrl 0.726685707146
+hollomaria SNARC_only CD 3 num_decimal 0.45255459381
+hollomaria SNARC_only CD 6 num_decimal 0.534474968861
+hollomaria SNARC_only CD 5 num_decimal 0.543558684562
+hollomaria SNARC_only CD 3 lctrl 0.504967591405
+hollomaria SNARC_only CD 9 num_decimal 1.62962790572
+hollomaria SNARC_only CD 6 lctrl 0.592899681216
+hollomaria SNARC_only CD 5 num_decimal 0.568869620542
+hollomaria SNARC_only CD 3 num_decimal 0.59282093888
+hollomaria SNARC_only CD 9 num_decimal 0.520825597629
+hollomaria SNARC_only CD 2 lctrl 0.568703736692
+hollomaria SNARC_only CD 4 lctrl 0.542607477162
+hollomaria SNARC_only CD 9 num_decimal 0.761292438181
+hollomaria SNARC_only CD 4 lctrl 0.625460161453
+hollomaria SNARC_only CD 7 num_decimal 0.692722213491
+hollomaria SNARC_only CD 5 num_decimal 0.513239736112
+hollomaria SNARC_only CD 5 num_decimal 0.465171215581
+hollomaria SNARC_only CD 5 num_decimal 0.417169538547
+hollomaria SNARC_only CD 6 lctrl 0.617029132214
+hollomaria SNARC_only CD 8 lctrl 0.733972697759
+hollomaria SNARC_only CD 4 lctrl 0.53662270978
+hollomaria SNARC_only CD 9 num_decimal 0.592833537656
+hollomaria SNARC_only CD 7 num_decimal 0.488771518092
+hollomaria SNARC_only CD 7 num_decimal 0.408688114212
+hollomaria SNARC_only CD 3 num_decimal 0.600667525016
+hollomaria SNARC_only CD 5 num_decimal 0.529626890822
+hollomaria SNARC_only CD 6 lctrl 0.625521405491
+hollomaria SNARC_only CD 1 num_decimal 0.711011783002
+hollomaria SNARC_only CD 3 num_decimal 0.577306249237
+hollomaria SNARC_only CD 9 num_decimal 0.424970979077
+hollomaria SNARC_only CD 4 lctrl 0.561179819144
+hollomaria SNARC_only CD 1 num_decimal 0.593120509719
+hollomaria SNARC_only CD 4 lctrl 0.745030221309
+hollomaria SNARC_only CD 9 num_decimal 1.00898887493
+hollomaria SNARC_only CD 7 num_decimal 0.576901338654
+hollomaria SNARC_only CD 6 lctrl 0.5607252134
+hollomaria SNARC_only CD 2 lctrl 0.464699811475
+hollomaria SNARC_only CD 2 lctrl 0.40870806227
+hollomaria SNARC_only CD 3 lctrl 0.35969953325
+hollomaria SNARC_only CD 3 num_decimal 0.528635087376
+hollomaria SNARC_only CD 3 num_decimal 0.401501213857
+hollomaria SNARC_only CD 2 lctrl 0.577421737993
+hollomaria SNARC_only CD 4 lctrl 0.617271308638
+hollomaria SNARC_only CD 1 num_decimal 0.625278879101
+hollomaria SNARC_only CD 3 num_decimal 0.593110010741
+hollomaria SNARC_only CD 1 num_decimal 0.361102546667
+hollomaria SNARC_only CD 4 lctrl 0.6410056481
+hollomaria SNARC_only CD 2 lctrl 0.752639180577
+hollomaria SNARC_only CD 5 num_decimal 0.584890010958
+hollomaria SNARC_only CD 6 num_decimal 0.520765403488
+hollomaria SNARC_only CD 4 lctrl 0.552718692834
+hollomaria SNARC_only CD 2 lctrl 0.536653856747
+hollomaria SNARC_only CD 6 lctrl 0.665972917537
+hollomaria SNARC_only CD 5 num_decimal 0.616564027492
+hollomaria SNARC_only CD 1 num_decimal 0.577426637516
+hollomaria SNARC_only CD 5 num_decimal 0.489342312525
+hollomaria SNARC_only CD 4 lctrl 0.672997083733
+hollomaria SNARC_only CD 6 lctrl 0.601239719314
+hollomaria SNARC_only CD 3 num_decimal 0.569180740255
+hollomaria SNARC_only CD 5 num_decimal 0.441064162404
+hollomaria SNARC_only CD 5 num_decimal 0.425037122635
+hollomaria SNARC_only CD 7 num_decimal 0.464923089738
+hollomaria SNARC_only CD 8 lctrl 0.600881004235
+hollomaria SNARC_only CD 4 lctrl 0.400762785743
+hollomaria SNARC_only CD 8 lctrl 0.648764392787
+hollomaria SNARC_only CD 3 num_decimal 0.624002553352
+hollomaria SNARC_only CD 5 num_decimal 0.505568132941
+hollomaria SNARC_only CD 8 num_decimal 0.449437447265
+hollomaria SNARC_only CD 7 num_decimal 0.504434943257
+hollomaria SNARC_only CD 4 lctrl 0.593372485188
+hollomaria SNARC_only CD 2 lctrl 0.48929296733
+hollomaria SNARC_only CD 5 num_decimal 0.561261711171
+hollomaria SNARC_only CD 9 num_decimal 0.665129849609
+hollomaria SNARC_only CD 1 num_decimal 0.584424906236
+hollomaria SNARC_only CD 9 num_decimal 0.408709112167
+hollomaria SNARC_only CD 1 num_decimal 0.456926368219
+hollomaria SNARC_only CD 6 lctrl 0.600931049363
+hollomaria SNARC_only CD 6 lctrl 0.376758622548
+hollomaria SNARC_only CD 9 lctrl 0.344710842399
+hollomaria SNARC_only CD 1 num_decimal 0.496679698232
+hollomaria SNARC_only CD 3 num_decimal 0.441604509801
+hollomaria SNARC_only CD 5 num_decimal 0.409591376279
+hollomaria SNARC_only CD 4 lctrl 0.641550895021
+hollomaria SNARC_only CD 7 num_decimal 0.681073247519
+hollomaria SNARC_only CD 4 lctrl 0.633334044931
+hollomaria SNARC_only CD 7 num_decimal 0.457251836533
+hollomaria SNARC_only CD 7 num_decimal 0.39304078748
+hollomaria SNARC_only CD 8 lctrl 0.60107663519
+hollomaria SNARC_only CD 7 num_decimal 0.489064439576
+hollomaria SNARC_only CD 7 num_decimal 0.473012902194
+hollomaria SNARC_only CD 6 lctrl 0.896903886407
+hollomaria SNARC_only CD 4 lctrl 0.536819040666
+hollomaria SNARC_only CD 9 num_decimal 0.520471782072
+hollomaria SNARC_only CD 6 num_decimal 0.408682514757
+hollomaria SNARC_only CD 1 num_decimal 0.72094031646
+hollomaria SNARC_only CD 7 num_decimal 0.672601972197
+hollomaria SNARC_only CD 8 lctrl 0.545530392616
+hollomaria SNARC_only CD 7 num_decimal 0.505426746708
+hollomaria SNARC_only CD 4 lctrl 0.569301828466
+hollomaria SNARC_only CD 3 num_decimal 0.617270958672
+hollomaria SNARC_only CD 9 num_decimal 0.513193890576
+hollomaria SNARC_only CD 1 num_decimal 0.552672497333
+hollomaria SNARC_only CD 7 num_decimal 0.449004889375
+hollomaria SNARC_only CD 7 num_decimal 0.48099352528
+hollomaria SNARC_only CD 4 lctrl 0.792859365141
+hollomaria SNARC_only CD 1 num_decimal 0.584354213117
+hollomaria SNARC_only CD 7 num_decimal 0.504729614571
+hollomaria SNARC_only CD 8 lctrl 0.544637979494
+hollomaria SNARC_only CD 8 lctrl 0.393574835491
+hollomaria SNARC_only CD 3 num_decimal 0.521605321721
+hollomaria SNARC_only CD 1 num_decimal 0.513150844767
+hollomaria SNARC_only CD 2 lctrl 0.585381363126
+hollomaria SNARC_only CD 1 lctrl 0.44130703876
+hollomaria SNARC_only CD 7 num_decimal 0.52027405132
+hollomaria SNARC_only CD 6 lctrl 0.705161052572
+hollomaria SNARC_only CD 3 num_decimal 0.673077925863
+hollomaria SNARC_only CD 9 num_decimal 0.481062818533
+hollomaria SNARC_only CD 6 num_decimal 0.39297604378
+hollomaria SNARC_only CD 8 lctrl 0.560908245581
+hollomaria SNARC_only CD 7 num_decimal 0.504521384844
+hollomaria SNARC_only CD 9 num_decimal 0.496729043427
+hollomaria SNARC_only CD 1 lctrl 0.52865258567
+hollomaria SNARC_only CD 1 num_decimal 1.28053793963
+hollomaria SNARC_only CD 4 lctrl 0.561549383166
+hollomaria SNARC_only CD 2 lctrl 0.505432696125
+hollomaria SNARC_only CD 1 lctrl 0.425300297016
+hollomaria SNARC_only CD 7 num_decimal 0.584325865877
+hollomaria SNARC_only CD 2 lctrl 1.1532346826
+hollomaria SNARC_only CD 7 num_decimal 0.8247909566
+hollomaria SNARC_only CD 6 lctrl 1.40896843692
+hollomaria SNARC_only CD 2 lctrl 0.832889868172
+hollomaria SNARC_only CD 6 lctrl 0.560772458801
+hollomaria SNARC_only CD 4 lctrl 1.20866368659
+hollomaria SNARC_only CD 9 num_decimal 0.528644186488
+hollomaria SNARC_only CD 3 num_decimal 0.521533578707
+hollomaria SNARC_only CD 3 num_decimal 0.497589609651
+hollomaria SNARC_only CD 5 num_decimal 0.465463787101
+hollomaria SNARC_only CD 1 num_decimal 0.536973025675
+hollomaria SNARC_only CD 6 num_decimal 0.497288988918
+hollomaria SNARC_only CD 4 lctrl 0.584200928039
+hollomaria SNARC_only CD 1 num_decimal 0.649111908955
+hollomaria SNARC_only CD 7 num_decimal 0.497069560277
+hollomaria SNARC_only CD 5 num_decimal 0.416974257556
+hollomaria SNARC_only CD 1 num_decimal 0.584939356155
+hollomaria SNARC_only CD 1 num_decimal 0.472848418207
+hollomaria SNARC_only CD 1 num_decimal 0.344849778874
+hollomaria SNARC_only CD 8 lctrl 0.559640319014
+hollomaria SNARC_only CD 3 num_decimal 0.608633099569
+hollomaria SNARC_only CD 2 lctrl 0.649592412179
+hollomaria SNARC_only CD 6 lctrl 0.473549399965
+hollomaria SNARC_only CD 9 num_decimal 0.441568813276
+hollomaria SNARC_only CD 1 num_decimal 1.00938223664
+hollomaria SNARC_only CD 5 num_decimal 0.409305104149
+hollomaria SNARC_only CD 7 num_decimal 0.385217299096
+hollomaria SNARC_only CD 6 lctrl 0.593138707947
+hollomaria SNARC_only CD 8 lctrl 0.453616390445
+hollomaria SNARC_only CD 3 num_decimal 0.641023846329
+hollomaria SNARC_only CD 1 num_decimal 0.464906991305
+hollomaria SNARC_only CD 3 num_decimal 0.448863503138
+hollomaria SNARC_only CD 7 num_decimal 0.352848600189
+hollomaria SNARC_only CD 9 num_decimal 1.2968166049
+hollomaria SNARC_only CD 9 num_decimal 0.392682072401
+hollomaria SNARC_only CD 7 num_decimal 0.489400756836
+hollomaria SNARC_only CD 5 num_decimal 0.953461880486
+hollomaria SNARC_only CD 2 num_decimal 0.561454192433
+hollomaria SNARC_only CD 3 num_decimal 0.56831772427
+hollomaria SNARC_only CD 1 num_decimal 0.553279688223
+hollomaria SNARC_only CD 6 lctrl 0.769023535559
+hollomaria SNARC_only CD 8 lctrl 0.649143055924
+hollomaria SNARC_only CD 3 num_decimal 0.569077150338
+hollomaria SNARC_only CD 2 lctrl 0.52871382971
+hollomaria SNARC_only CD 7 num_decimal 0.472969506418
+hollomaria SNARC_only CD 8 num_decimal 0.54482136164
+hollomaria SNARC_only CD 7 num_decimal 0.456727587569
+hollomaria SNARC_only CD 8 num_decimal 0.384662603095
+hollomaria SNARC_only CD 5 num_decimal 0.504663121044
+hollomaria SNARC_only CD 3 num_decimal 0.585606041252
+hollomaria SNARC_only CD 8 lctrl 0.913490171732
+hollomaria SNARC_only CD 5 num_decimal 0.545417003654
+hollomaria SNARC_only CD 9 num_decimal 0.57704097506
+hollomaria SNARC_only CD 9 num_decimal 0.4412244468
+hollomaria SNARC_only CD 6 lctrl 0.545181826548
+hollomaria SNARC_only CD 1 num_decimal 0.601125280455
+hollomaria SNARC_only CD 2 lctrl 0.728966435117
+hollomaria SNARC_only CD 7 num_decimal 0.696938253061
+hollomaria SNARC_only CD 1 num_decimal 1.79291710952
+hollomaria SNARC_only CD 9 num_decimal 0.496769989441
+hollomaria SNARC_only CD 3 num_decimal 0.824674417947
+hollomaria SNARC_only CD 6 lctrl 0.537238299852
+hollomaria SNARC_only CD 9 num_decimal 0.577601270517
+hollomaria SNARC_only CD 5 num_decimal 0.833865573186
+hollomaria SNARC_only CD 2 lctrl 0.584296468738
+hollomaria SNARC_only CD 5 num_decimal 0.585233677501
+hollomaria SNARC_only CD 4 lctrl 0.593186303313
+hollomaria SNARC_only CD 5 num_decimal 0.617119773389
+hollomaria SNARC_only CD 3 num_decimal 0.513075252124
+hollomaria SNARC_only CD 4 num_decimal 0.43295265206
+hollomaria SNARC_only CD 3 num_decimal 0.840576869841
+hollomaria SNARC_only CD 3 num_decimal 0.504870650842
+hollomaria SNARC_only CD 2 lctrl 0.536743448025
+hollomaria SNARC_only CD 6 num_decimal 0.584677581637
+hollomaria SNARC_only CD 5 num_decimal 0.536602411756
+hollomaria SNARC_only CD 2 lctrl 0.609613704106
+hollomaria SNARC_only CD 5 num_decimal 0.545513944218
+hollomaria SNARC_only CD 1 num_decimal 0.673472687435
+hollomaria SNARC_only CD 6 lctrl 0.6973960085
+hollomaria SNARC_only CD 7 num_decimal 0.520901890201
+hollomaria SNARC_only CD 7 num_decimal 0.48125844949
+hollomaria SNARC_only CD 6 lctrl 0.929070654971
+hollomaria SNARC_only CD 1 num_decimal 0.600962546296
+hollomaria SNARC_only CD 1 num_decimal 0.464930089056
+hollomaria SNARC_only CD 3 num_decimal 0.528843667069
+hollomaria SNARC_only CD 3 num_decimal 0.392841656865
+hollomaria SNARC_only CD 9 num_decimal 0.456707639512
+hollomaria SNARC_only CD 4 num_decimal 0.424630812191
+hollomaria SNARC_only CD 6 lctrl 0.632257549727
+hollomaria SNARC_only CD 7 num_decimal 0.609535661702
+hollomaria SNARC_only CD 2 lctrl 0.62539156813
+hollomaria SNARC_only CD 8 lctrl 0.641298219618
+hollomaria SNARC_only CD 8 lctrl 0.433324315878
+hollomaria SNARC_only CD 6 lctrl 0.63317586033
+hollomaria SNARC_only CD 8 lctrl 1.86475251634
+hollomaria SNARC_only CD 3 num_decimal 0.576972031773
+hollomaria SNARC_only CD 1 num_decimal 0.520975033081
+hollomaria SNARC_only CD 2 lctrl 0.616482835396
+hollomaria SNARC_only CD 5 num_decimal 0.552689995629
+hollomaria SNARC_only CD 8 lctrl 0.600650026719
+hollomaria SNARC_only CD 6 lctrl 0.441648955473
+hollomaria SNARC_only CD 2 lctrl 0.417541202363
+hollomaria SNARC_only CD 9 num_decimal 0.457563656179
+hollomaria SNARC_only CD 5 num_decimal 0.46542774061
+hollomaria SNARC_only CD 6 lctrl 0.665379725284
+hollomaria SNARC_only CD 9 num_decimal 0.561319105584
+hollomaria SNARC_only CD 3 num_decimal 0.68090456394
+hollomaria SNARC_only CD 5 num_decimal 0.513178842039
+hollomaria SNARC_only CD 7 num_decimal 0.385103910134
+hollomaria SNARC_only CD 2 lctrl 0.528996952147
+hollomaria SNARC_only CD 2 lctrl 0.480957478789
+hollomaria SNARC_only CD 4 lctrl 0.408844199017
+hollomaria SNARC_only CD 3 num_decimal 0.672827700222
+hollomaria SNARC_only CD 7 num_decimal 0.544722321283
+hollomaria SNARC_only CD 8 lctrl 0.640654282306
+hollomaria SNARC_only CD 4 lctrl 0.600270313684
+hollomaria SNARC_only CD 8 lctrl 0.553546712228
+hollomaria SNARC_only CD 3 num_decimal 0.60949996518
+hollomaria SNARC_only CD 3 num_decimal 0.481360989508
+hollomaria SNARC_only CD 2 num_decimal 0.897224105234
+hollomaria SNARC_only CD 7 num_decimal 0.480178454627
+hollomaria SNARC_only CD 6 lctrl 0.609069507083
+hollomaria SNARC_only CD 7 num_decimal 0.513114448309
+hollomaria SNARC_only CD 7 num_decimal 0.440898628518
+hollomaria SNARC_only CD 2 lctrl 0.528602190576
+hollomaria SNARC_only CD 5 num_decimal 0.528817069659
+hollomaria SNARC_only CD 7 num_decimal 1.44874696448
+hollomaria SNARC_only CD 8 lctrl 0.720607848825
+hollomaria SNARC_only CD 5 num_decimal 0.657573035265
+hollomaria SNARC_only CD 6 lctrl 0.913445726059
+hollomaria SNARC_only CD 5 lctrl 0.577360843921
+hollomaria SNARC_only CD 8 lctrl 0.656340805222
+hollomaria SNARC_only CD 3 num_decimal 0.58524662624
+hollomaria SNARC_only CD 8 lctrl 0.600171623291
+hollomaria SNARC_only CD 4 lctrl 1.07311313244
+hollomaria SNARC_only CD 8 lctrl 0.697035893556
+hollomaria SNARC_only CD 4 lctrl 0.680973857194
+hollomaria SNARC_only CD 9 num_decimal 0.704849582893
+hollomaria SNARC_only CD 8 lctrl 1.00073667828
+hollomaria SNARC_only CD 2 lctrl 1.15264184032
+hollomaria SNARC_only CD 3 num_decimal 0.937588475763
+hollomaria SNARC_only CD 3 num_decimal 0.4655747263
+hollomaria SNARC_only CD 6 lctrl 0.561122074765
+hollomaria SNARC_only CD 8 lctrl 0.881338801668
+hollomaria SNARC_only CD 1 num_decimal 0.673230511009
+hollomaria SNARC_only CD 9 num_decimal 0.441183850753
+hollomaria SNARC_only CD 8 lctrl 0.577102569065
+hollomaria SNARC_only CD 2 lctrl 0.56103318342
+hollomaria SNARC_only CD 9 num_decimal 0.552955619771
+hollomaria SNARC_only CD 1 num_decimal 0.95289388578
+hollomaria SNARC_only CD 2 lctrl 1.60076691534
+hollomaria SNARC_only CD 9 num_decimal 1.22439675498
+hollomaria SNARC_only CD 7 num_decimal 0.497609907676
+hollomaria SNARC_only CD 8 lctrl 1.64153129693
+hollomaria SNARC_only CD 5 num_decimal 1.47333032129
+hollomaria SNARC_only CD 8 lctrl 0.433177680154
+hollomaria SNARC_only CD 4 lctrl 0.529165285758
+hollomaria SNARC_only CD 5 num_decimal 0.544794414263
+hollomaria SNARC_only CD 5 num_decimal 0.37701654744
+hollomaria SNARC_only CD 2 lctrl 0.512903418852
+hollomaria SNARC_only CD 4 lctrl 0.720565152982
+hollomaria SNARC_only CD 1 num_decimal 0.600806461491
+hollomaria SNARC_only CD 6 lctrl 0.640993749259
+hollomaria SNARC_only CD 9 num_decimal 0.488668978074
+hollomaria SNARC_only CD 9 num_decimal 0.401617752512
+hollomaria SNARC_only CD 2 lctrl 0.466030731908
+hollomaria SNARC_only CD 6 lctrl 0.600433397809
+hollomaria SNARC_only CD 6 lctrl 0.345393275964
+hollomaria SNARC_only CD 6 lctrl 0.385215899232
+hollomaria SNARC_only CD 5 num_decimal 0.503350398838
+hollomaria SNARC_only CD 1 num_decimal 0.657136277783
+hollomaria SNARC_only CD 1 num_decimal 0.441096009303
+hollomaria SNARC_only CD 9 num_decimal 0.50508587989
+hollomaria SNARC_only CD 5 num_decimal 0.417020103094
+hollomaria SNARC_only CD 9 num_decimal 0.448940145678
+hollomaria SNARC_only CD 2 lctrl 0.472818671104
+hollomaria SNARC_only CD 4 lctrl 0.480759748038
+hollomaria SNARC_only CD 1 lctrl 0.464673564029
+hollomaria SNARC_only CD 8 lctrl 0.552333730311
+hollomaria SNARC_only CD 2 lctrl 0.473583696627
+hollomaria SNARC_only CD 5 num_decimal 0.553551611751
+hollomaria SNARC_only CD 1 num_decimal 0.553413725174
+hollomaria SNARC_only CD 7 num_decimal 0.409348849889
+hollomaria SNARC_only CD 7 num_decimal 0.433363162096
+hollomaria SNARC_only CD 2 lctrl 0.753193876577
+hollomaria SNARC_only CD 8 lctrl 0.577162063273
+hollomaria SNARC_only CD 9 num_decimal 0.553079157744
+hollomaria SNARC_only CD 8 num_decimal 0.408701062952
+hollomaria SNARC_only CD 2 lctrl 0.51295521381
+hollomaria SNARC_only CD 4 lctrl 0.544872806633
+hollomaria SNARC_only CD 8 lctrl 0.416786325852
+hollomaria SNARC_only CD 8 lctrl 0.408688114212
+hollomaria SNARC_only CD 2 lctrl 0.488643430561
+hollomaria SNARC_only CD 4 lctrl 0.377582092382
+hollomaria SNARC_only CD 9 num_decimal 0.593571965768
+hollomaria SNARC_only CD 8 lctrl 0.665532660396
+hollomaria SNARC_only CD 2 lctrl 0.512979011493
+hollomaria SNARC_only CD 4 lctrl 0.473294974734
+hollomaria SNARC_only CD 2 lctrl 0.50524756415
+hollomaria SNARC_only CD 8 lctrl 0.489158930379
+hollomaria SNARC_only CD 9 num_decimal 0.585088441641
+hollomaria SNARC_only CD 6 lctrl 0.793022799231
+hollomaria SNARC_only CD 6 lctrl 0.432916605569
+hollomaria SNARC_only CD 1 num_decimal 0.608857427729
+hollomaria SNARC_only CD 5 num_decimal 0.568833924019
+hollomaria SNARC_only CD 1 num_decimal 0.600492892017
+hollomaria SNARC_only CD 4 lctrl 0.576601067885
+hollomaria SNARC_only CD 9 num_decimal 0.56158437976
+hollomaria SNARC_only CD 5 num_decimal 0.545600385803
+hollomaria SNARC_only CD 4 lctrl 0.721476814231
+hollomaria SNARC_only CD 4 lctrl 0.473313522929
+hollomaria SNARC_only CD 4 lctrl 0.337285265279
+hollomaria SNARC_only CD 3 num_decimal 0.593245097589
+hollomaria SNARC_only CD 4 lctrl 0.75312983281
+hollomaria SNARC_only CD 6 num_decimal 0.43274617216
+hollomaria SNARC_only CD 8 lctrl 0.51295346398
+hollomaria SNARC_only CD 9 num_decimal 0.520948785635
+hollomaria SNARC_only CD 4 lctrl 0.504817805986
+hollomaria SNARC_only CD 4 lctrl 0.376789769516
+hollomaria SNARC_only CD 2 lctrl 0.544681025303
+hollomaria SNARC_only CD 3 num_decimal 0.576660562094
+hollomaria SNARC_only CD 6 lctrl 0.657620980597
+hollomaria SNARC_only CD 8 lctrl 0.537592115406
+hollomaria SNARC_only CD 9 num_decimal 0.697211576453
+hollomaria SNARC_only CD 9 num_decimal 0.505357803417
+hollomaria SNARC_only CD 9 num_decimal 0.393316210666
+hollomaria SNARC_only CD 5 num_decimal 0.577253054416
+hollomaria SNARC_only CD 7 num_decimal 0.529193982966
+hollomaria SNARC_only CD 3 num_decimal 0.649081111955
+hollomaria SNARC_only CD 2 lctrl 0.721006460022
+hollomaria SNARC_only CD 8 lctrl 0.512938765412
+hollomaria SNARC_only CD 4 lctrl 0.53685998668
+hollomaria SNARC_only CD 1 num_decimal 0.608454266978

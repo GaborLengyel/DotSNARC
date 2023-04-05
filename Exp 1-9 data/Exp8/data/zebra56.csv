@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_15_1550', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'zebra56', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+zebra56 SNARC line dot CD 0 up 40 lctrl 1.3652741909
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.464630842209
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.458021879196
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.452950954437
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.461843013763
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.456377029419
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.522655963898
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.433104991913
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.458131074905
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.662230968475
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.597774028778
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.610274076462
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.631177902222
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.647155046463
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.521190881729
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.519779920578
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.447336912155
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.76242685318
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.5529088974
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.645213842392
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.662302017212
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.456508874893
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.576653003693
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.550884962082
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.547641038895
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.511829137802
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.537708044052
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.49612903595
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.519860029221
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.431700944901
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.497849225998
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.538568019867
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.673287153244
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.537082910538
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.623670101166
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.53847193718
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.528175830841
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.575613021851
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.525122880936
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.589406967163
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.825048923492
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.611541986465
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.518738985062
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.684633970261
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.725652217865
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.730643987656
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.616452932358
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.499399900436
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.539973974228
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.47408413887
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.476324796677
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.453341007233
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.526715993881
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.499943971634
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.443245887756
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.59916806221
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.434733867645
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.395756006241
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.506070137024
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.642217159271
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.475594043732
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.509985923767
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.38258600235
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.500154018402
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.636669874191
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.812851905823
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.511443138123
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.573719978333
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.578627109528
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.759772062302
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.668282032013
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.763431072235
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.537493944168
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.565946102142
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.58069896698
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.64068198204
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.546408176422
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.505711078644
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.569056987762
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.550722837448
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.524318933487
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.594209909439
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.527871131897
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.486377954483
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.519295930862
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.600050926208
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.514995098114
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.531098842621
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.594470977783
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.623517036438
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.459395170212
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.517332077026
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.676815986633
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.558012008667
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.539669036865
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.553255081177
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.577426195145
+zebra56 SNARC line dot CD 0 down 10 num_delete 1.35836005211
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.505750179291
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.738126993179
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.677308082581
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.588953018188
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.65629696846
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.538568019867
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.617094039917
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.650851964951
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.667314052582
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.80414891243
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.919538021088
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.861453056335
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.822668075562
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.542803764343
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.494296073914
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.581887960434
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.60860991478
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.685284852982
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.516508102417
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.548378944397
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.473578929901
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.497263908386
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.521442174911
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.519868850708
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.463120937347
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.456607103348
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.489341020584
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.466583013535
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.506089925766
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.418041944504
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.566185951233
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.929297924042
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.567245960236
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.661651849747
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.567826986313
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.508367061615
+zebra56 SNARC line dot CD 0 down 40 lctrl 0.635384082794
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.755193948746
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.574549913406
+zebra56 SNARC line dot CD 0 down 5 num_delete 1.30124783516
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.531219005585
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.519629955292
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.639003992081
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.607256174088
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.600391864777
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.668827056885
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.52405500412
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.546844959259
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.570112943649
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.686065912247
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.636538982391
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.468272924423
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.59846997261
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.474112987518
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.627257823944
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.564683914185
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.497922897339
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.496145009995
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.496499061584
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.488612890244
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.56147480011
+zebra56 SNARC line dot CD 0 down 45 num_delete 1.49349498749
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.546396970749
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.594459056854
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.759068012238
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.548590898514
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.538902044296
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.449432134628
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.490973949432
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.46936416626
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.629509925842
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.568435907364
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.542198181152
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.50714302063
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.683166980743
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.520764112473
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.543174982071
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.622663021088
+zebra56 SNARC line dot CD 0 up 5 lctrl 1.06743597984
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.539083957672
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.562375068665
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.497287988663
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.560424804688
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.501703023911
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.878672838211
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.848050117493
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.618147134781
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.566205024719
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.436522960663
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.6555788517
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.552967071533
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.597418069839
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.586478948593
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.551687002182
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.620330095291
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.495291948318
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.577008008957
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.695649147034
+zebra56 SNARC line dot CD 0 down 30 num_delete 1.75890517235
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.648406028748
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.639639854431
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.553355932236
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.59805393219
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.69093298912
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.490320920944
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.498328924179
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.95476102829
+zebra56 SNARC line dot CD 0 down 30 num_delete 1.1023440361
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.708080053329
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.779386997223
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.485965967178
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.46279501915
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.535099983215
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.436764001846
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.511678218842
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.544809818268
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.632086992264
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.651427984238
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.718308925629
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.539533138275
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.727923870087
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.798660993576
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.552956819534
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.693624973297
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.492319107056
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.587899923325
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.4571621418
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.661072969437
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.533025026321
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.507326126099
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.513630867004
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.489412069321
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.577502965927
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.726838827133
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.446717023849
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.609173059464
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.469118833542
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.444967031479
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.55290389061
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.464695930481
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.553551197052
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.645720005035
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.574459075928
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.644002914429
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.772686004639
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.504997968674
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.497554063797
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.456284046173
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.554913043976
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.433719873428
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.502196073532
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.438762903214
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.535502910614
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.502231121063
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.574121952057
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.569841146469
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.624438047409
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.682491064072
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.537659883499
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.662738084793
+zebra56 SNARC line dot CD 0 down 35 lctrl 0.487356901169
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.622168064117
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.617656946182
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.651109933853
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.836627006531
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.518513202667
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.584218025208
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.556475877762
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.657395839691
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.555944919586
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.607419967651
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.876065015793
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.613204956055
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.809889793396
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.486479043961
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.535835981369
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.518472909927
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.727141857147
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.54052400589
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.603500127792
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.494619846344
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.750805854797
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.786967992783
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.517174005508
+zebra56 SNARC line dot CD 0 up 40 lctrl 1.07626914978
+zebra56 SNARC line dot CD 0 down 10 num_delete 1.08364701271
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.706794023514
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.697237014771
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.704894065857
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.769505977631
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.638203144073
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.479359149933
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.503600120544
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.535134077072
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.622831821442
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.552774190903
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.542522192001
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.683840990067
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.605263948441
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.538056135178
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.638821840286
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.626626014709
+zebra56 SNARC line dot CD 0 down 30 num_delete 0.587874174118
+zebra56 SNARC line dot CD 0 up 5 lctrl 1.01034498215
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.698514938354
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.665291070938
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.794620037079
+zebra56 SNARC line dot CD 0 down 5 num_delete 1.03918409348
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.927555084229
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.85512304306
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.822564125061
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.794575214386
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.5496571064
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.667921066284
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.717929840088
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.563922166824
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.657696962357
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.626887083054
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.835741043091
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.517822980881
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.467298030853
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.532696962357
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.777791976929
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.542872905731
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.495829105377
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.455427885056
+zebra56 SNARC line dot CD 0 up 25 lctrl 0.481505155563
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.513919830322
+zebra56 SNARC line dot CD 0 up 45 lctrl 0.614976882935
+zebra56 SNARC line dot CD 0 up 5 lctrl 0.524186134338
+zebra56 SNARC line dot CD 0 up 15 lctrl 0.619631052017
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.494100093842
+zebra56 SNARC line dot CD 0 down 20 lctrl 0.43163394928
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.593531847
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.620740175247
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.534998178482
+zebra56 SNARC line dot CD 0 down 35 num_delete 0.564335107803
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.744881868362
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.549272060394
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.714720010757
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.624686002731
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.562390804291
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.575655937195
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.645511865616
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.557368040085
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.539144039154
+zebra56 SNARC line dot CD 0 down 20 num_delete 0.449745893478
+zebra56 SNARC line dot CD 0 up 40 lctrl 0.587154150009
+zebra56 SNARC line dot CD 0 up 30 lctrl 0.582134008408
+zebra56 SNARC line dot CD 0 up 10 lctrl 0.619675159454
+zebra56 SNARC line dot CD 0 down 45 num_delete 0.564571142197
+zebra56 SNARC line dot CD 0 down 5 num_delete 1.06712007523
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.579091072083
+zebra56 SNARC line dot CD 0 down 25 num_delete 0.80782699585
+zebra56 SNARC line dot CD 0 down 10 num_delete 0.539575815201
+zebra56 SNARC line dot CD 0 up 35 lctrl 0.761569023132
+zebra56 SNARC line dot CD 0 down 30 num_delete 1.4700551033
+zebra56 SNARC line dot CD 0 down 15 num_delete 0.492919921875
+zebra56 SNARC line dot CD 0 down 40 num_delete 0.475938081741
+zebra56 SNARC line dot CD 0 down 5 num_delete 0.750982046127
+zebra56 SNARC line dot CD 0 up 25 lctrl 1.15622615814
+zebra56 SNARC line dot CD 0 up 20 lctrl 0.544491052628
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_15_1600', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'zebra56', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+zebra56 SNARC line arabic CD 0 down 8 num_delete 1.17845892906
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.735811948776
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.967112064362
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.803942918777
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.800160169601
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.653170108795
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.703741073608
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.592478990555
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.502628087997
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.752410173416
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.614223957062
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.626815795898
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.519353866577
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.560130834579
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.495278120041
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.945021152496
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.8721139431
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.697682857513
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.506701946259
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.668066978455
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.766371965408
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.636866807938
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.599885940552
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.685565948486
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.559056997299
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.509803056717
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.759443998337
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.550090074539
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.50897192955
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.751196146011
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.669353961945
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.919209957123
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.63857293129
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.698714971542
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.45191192627
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.69514799118
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.936589956284
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.679161071777
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.584941864014
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.534719944
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.606630086899
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.636408805847
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.511590957642
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.545013904572
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.64063501358
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.436872005463
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.60882806778
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.901866912842
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.493945121765
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.584139108658
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.686459064484
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.439828157425
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.692159175873
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.47691321373
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.528518199921
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.496688842773
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.602725982666
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.583924055099
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.733643770218
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.596979856491
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.522776842117
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.682827949524
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.533301115036
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.589378833771
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.730703830719
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.627311944962
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.527440786362
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.576256036758
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.54296708107
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.510806083679
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.575609922409
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.598117113113
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.571968793869
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.593889951706
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.655627012253
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.731126070023
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.4591319561
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.614719867706
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.530529022217
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.651001930237
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.533222913742
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.54172706604
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.469729185104
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.544811010361
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.488780021667
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.554315090179
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.577641010284
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.568331003189
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.438851118088
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.426918983459
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.568436145782
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.446347951889
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.77111697197
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.640527009964
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.540468931198
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.54821395874
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.515596866608
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.620062828064
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.59290099144
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.590805053711
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.532459020615
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.516036987305
+zebra56 SNARC line arabic CD 0 down 9 num_delete 1.0209839344
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.519655942917
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.512351989746
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.738262891769
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.577830076218
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.58341383934
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.581913948059
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.635367155075
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.799771785736
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.564218044281
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.497889041901
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.539342880249
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.611702919006
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.441078186035
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.708507061005
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.605451822281
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.538475036621
+zebra56 SNARC line arabic CD 0 down 1 num_delete 1.17847299576
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.479609966278
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.722245931625
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.522297859192
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.499078989029
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.508574008942
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.493391036987
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.575463056564
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.454942941666
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.721678972244
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.466248035431
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.612359046936
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.522181034088
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.595101118088
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.640193939209
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.652143955231
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.591143131256
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.701053857803
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.717599868774
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.629398107529
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.722287893295
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.450121164322
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.589420080185
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.699095010757
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.635838031769
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.535907030106
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.61548781395
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.476459980011
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.551158189774
+zebra56 SNARC line arabic CD 0 down 7 lctrl 0.470213890076
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.664685964584
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.442613840103
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.454640865326
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.594472885132
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.49582195282
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.714891910553
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.72242307663
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.618323087692
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.526820898056
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.695113897324
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.512681007385
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.458825111389
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.734081983566
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.732903957367
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.588236093521
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.626176118851
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.454863071442
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.690405130386
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.539824962616
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.523504018784
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.723786115646
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.924633979797
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.63556599617
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.663982868195
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.626794099808
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.663089990616
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.602010965347
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.591020107269
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.524677038193
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.50096988678
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.710438013077
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.559580087662
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.830713033676
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.665900945663
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.860734939575
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.647108078003
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.618229866028
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.534596920013
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.582401990891
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.86892414093
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.758502006531
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.717114925385
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.621643066406
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.777619123459
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.503343820572
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.744363069534
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.744079113007
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.551021099091
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.662539958954
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.529204845428
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.802252054214
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.558922052383
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.47761297226
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.528277158737
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.529443979263
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.65812587738
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.572690010071
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.571161985397
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.522083997726
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.44276714325
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.486648797989
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.673609018326
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.539021968842
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.627516031265
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.647490978241
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.547029018402
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.603771924973
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.456564903259
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.731844902039
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.538706064224
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.482705116272
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.557304859161
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.540135145187
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.548162937164
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.603682041168
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.616682052612
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.485396146774
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.559417009354
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.590254068375
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.796413183212
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.553509950638
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.457021951675
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.547950983047
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.499293088913
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.564606189728
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.547147989273
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.467862844467
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.653877019882
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.585291147232
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.623133182526
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.499736070633
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.548837184906
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.443662881851
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.472282886505
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.554966926575
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.506702899933
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.451992988586
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.591071128845
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.47755408287
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.480126857758
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.570478916168
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.777010202408
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.630913972855
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.586994171143
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.448464870453
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.468788146973
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.527157783508
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.543336868286
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.431562185287
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.451574802399
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.623461008072
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.731834888458
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.570886850357
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.762264966965
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.520081996918
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.889005899429
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.658071994781
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.612864017487
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.618040800095
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.670347929001
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.496138811111
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.722961187363
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.650734901428
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.50952911377
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.598214864731
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.619694948196
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.528131961823
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.537199020386
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.577430009842
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.623587846756
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.699506044388
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.628264904022
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.688786029816
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.530199050903
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.563362121582
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.49809384346
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.412014007568
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.409703016281
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.591323852539
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.685302972794
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.438254117966
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.466777801514
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.541330099106
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.59775018692
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.530123949051
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.667637825012
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.685631036758
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.463314056396
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.714284896851
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.667042016983
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.677886009216
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.471513986588
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.666923046112
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.653124809265
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.752033948898
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.854570865631
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.664429187775
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.539131879807
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.507086038589
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.604385137558
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.481492042542
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.524084091187
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.476267814636
+zebra56 SNARC line arabic CD 0 down 2 num_delete 0.486534118652
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.513330936432
+zebra56 SNARC line arabic CD 0 down 9 lctrl 0.54646897316
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.634489059448
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.461693048477
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.569396018982
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.513564825058
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.594758987427
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.569360017776
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.655989170074
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.522805929184
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.643443107605
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.533361911774
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.579971075058
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.475140094757
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.517390966415
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.637918949127
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.482242107391
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.48387503624
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.654460906982
+zebra56 SNARC line arabic CD 0 down 6 num_delete 0.513199090958
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.562235116959
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.57004904747
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.688037872314
+zebra56 SNARC line arabic CD 0 up 9 lctrl 0.642220020294
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.605031967163
+zebra56 SNARC line arabic CD 0 up 5 lctrl 0.514856100082
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.531078100204
+zebra56 SNARC line arabic CD 0 down 8 num_delete 0.595311880112
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.561022043228
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.503931045532
+zebra56 SNARC line arabic CD 0 up 6 lctrl 0.465897798538
+zebra56 SNARC line arabic CD 0 up 4 lctrl 0.580419063568
+zebra56 SNARC line arabic CD 0 up 3 lctrl 0.634525060654
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.573867082596
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.604017019272
+zebra56 SNARC line arabic CD 0 up 1 lctrl 0.593668937683
+zebra56 SNARC line arabic CD 0 up 7 lctrl 0.63911485672
+zebra56 SNARC line arabic CD 0 up 8 lctrl 0.762976884842
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.657801151276
+zebra56 SNARC line arabic CD 0 down 7 num_delete 0.612405061722
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.617417097092
+zebra56 SNARC line arabic CD 0 down 5 num_delete 0.661712169647
+zebra56 SNARC line arabic CD 0 down 3 num_delete 0.640617132187
+zebra56 SNARC line arabic CD 0 down 9 num_delete 0.572335958481
+zebra56 SNARC line arabic CD 0 up 2 lctrl 0.435229063034
+zebra56 SNARC line arabic CD 0 down 1 num_delete 0.695185899734
+zebra56 SNARC line arabic CD 0 down 4 num_delete 0.512650966644
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_15_1609', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'zebra56', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+zebra56 SNARC line dot DC 0 up 5 num_delete 1.15296387672
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.461706876755
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.441448926926
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.531144142151
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.528599023819
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.670722961426
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.431554079056
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.505278110504
+zebra56 SNARC line dot DC 0 up 25 num_delete 1.0410490036
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.698605060577
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.873625993729
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.633459806442
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.475118160248
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.643908977509
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.567183971405
+zebra56 SNARC line dot DC 0 up 35 lctrl 0.563586950302
+zebra56 SNARC line dot DC 0 down 15 lctrl 1.2728741169
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.53534913063
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.709964990616
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.61354804039
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.761765956879
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.56544303894
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.563214063644
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.720012903214
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.518891811371
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.437427997589
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.553594827652
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.48687005043
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.525185108185
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.779474020004
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.577086925507
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.534052848816
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.515733957291
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.570597887039
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.887725114822
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.548901081085
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.601330041885
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.796350002289
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.606992006302
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.537285089493
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.576851844788
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.533252000809
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.553647041321
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.615128040314
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.568395853043
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.694135904312
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.652595996857
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.622539043427
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.753059148788
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.565489053726
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.690311908722
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.529920101166
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.496399879456
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.535774946213
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.437926054001
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.464334011078
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.594535112381
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.502405881882
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.567864179611
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.579511880875
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.463069915771
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.570765018463
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.744309186935
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.54159784317
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.524853944778
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.629551887512
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.575047016144
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.684636116028
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.684986114502
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.667263031006
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.501353979111
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.645399093628
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.607111930847
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.569447040558
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.591109991074
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.602798938751
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.53374004364
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.514930009842
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.513800859451
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.793961048126
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.539252996445
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.57129406929
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.815695047379
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.841965913773
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.556048870087
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.586090087891
+zebra56 SNARC line dot DC 0 up 40 num_delete 1.53257894516
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.520451068878
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.494470119476
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.535225152969
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.572412967682
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.43351817131
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.457774877548
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.524240016937
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.449958086014
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.594362974167
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.493520021439
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.596371889114
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.529214859009
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.721074104309
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.430979013443
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.496795892715
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.699238061905
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.528917074203
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.584980010986
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.581461906433
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.641897916794
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.508130073547
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.61895108223
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.7506711483
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.922788858414
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.863839864731
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.494582891464
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.455344200134
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.59272313118
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.756154060364
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.667064189911
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.594405174255
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.549174070358
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.562785863876
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.48820400238
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.482661008835
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.563871860504
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.514415979385
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.410370111465
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.676595926285
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.534111976624
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.627994060516
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.495694875717
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.473495006561
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.690242052078
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.530691862106
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.576885938644
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.525068998337
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.473958969116
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.572707891464
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.472275018692
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.513491153717
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.507308006287
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.546401023865
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.537160158157
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.525648117065
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.414268016815
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.434467077255
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.518296957016
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.460473060608
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.53458404541
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.477149009705
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.558386087418
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.445073843002
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.437762022018
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.696342945099
+zebra56 SNARC line dot DC 0 up 30 num_delete 1.15946006775
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.627918958664
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.509021997452
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.724972963333
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.539117097855
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.603296041489
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.502713918686
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.59156703949
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.490741014481
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.578275918961
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.488350868225
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.591774940491
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.468851089478
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.493876934052
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.541846036911
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.51412320137
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.706546783447
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.496860027313
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.482362985611
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.796795845032
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.449548006058
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.548359155655
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.45857000351
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.557873010635
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.537683963776
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.848640203476
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.583196878433
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.491258859634
+zebra56 SNARC line dot DC 0 down 5 num_delete 0.549468040466
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.53724694252
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.584367990494
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.493091106415
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.485455989838
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.533471822739
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.485248088837
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.422187805176
+zebra56 SNARC line dot DC 0 up 5 lctrl 0.499514102936
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.778594017029
+zebra56 SNARC line dot DC 0 down 20 lctrl 1.07891702652
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.47664308548
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.764488935471
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.529320001602
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.470293998718
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.487649917603
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.576294898987
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.550070047379
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.46818614006
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.533720016479
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.539818048477
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.47562289238
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.731779098511
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.562566041946
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.537976980209
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.625529050827
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.533915996552
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.466141939163
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.563158988953
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.414901971817
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.402950763702
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.541152954102
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.749800920486
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.47292804718
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.46569609642
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.682353973389
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.506844043732
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.528568983078
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.502329826355
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.486968994141
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.591871976852
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.59654211998
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.487079143524
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.4813580513
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.531152963638
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.714062929153
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.522302865982
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.426038980484
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.70881986618
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.764772891998
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.41828417778
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.442258834839
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.43106007576
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.521778106689
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.529661178589
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.559635877609
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.435431003571
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.606799125671
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.457350969315
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.513620853424
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.465627908707
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.858923912048
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.565030097961
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.457885026932
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.613086938858
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.633942127228
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.513648033142
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.442651987076
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.469773054123
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.430604934692
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.441274881363
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.491633176804
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.627948999405
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.478746175766
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.456010103226
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.490998983383
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.540560007095
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.513669967651
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.442138910294
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.637287139893
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.463771104813
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.49759888649
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.482855796814
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.468299865723
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.764575958252
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.456032037735
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.972088098526
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.488228082657
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.72967004776
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.591861009598
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.467138051987
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.644638061523
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.90198302269
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.629062175751
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.863227844238
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.525470018387
+zebra56 SNARC line dot DC 0 down 25 lctrl 0.525345087051
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.674936056137
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.474983930588
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.402995109558
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.374737024307
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.484601974487
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.396435022354
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.457218170166
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.427666902542
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.70396900177
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.534198045731
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.586838006973
+zebra56 SNARC line dot DC 0 down 20 num_delete 0.799593925476
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.44137096405
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.540897130966
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.586426973343
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.544461965561
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.525521039963
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.467329978943
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.46186709404
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.552662134171
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.511521100998
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.656608104706
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.571527004242
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.449336051941
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.516675949097
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.585926771164
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.528203010559
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.6323158741
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.569940090179
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.549757003784
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.779761075974
+zebra56 SNARC line dot DC 0 down 5 lctrl 0.770222902298
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.46203494072
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.432533979416
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.684633970261
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.492316007614
+zebra56 SNARC line dot DC 0 down 15 lctrl 0.454022884369
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.558202028275
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.378505945206
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.505759954453
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.465045928955
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.659384012222
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.837085008621
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.486933946609
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.606247186661
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.89675116539
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.496304035187
+zebra56 SNARC line dot DC 0 up 5 num_delete 0.458696842194
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.468084096909
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.404841899872
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.488815069199
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.439908027649
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.649988889694
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.382915019989
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.481656074524
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.594438076019
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.598510980606
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.4646961689
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.49041891098
+zebra56 SNARC line dot DC 0 down 25 num_delete 0.450443029404
+zebra56 SNARC line dot DC 0 up 10 num_delete 0.573657035828
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.410191059113
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.596889972687
+zebra56 SNARC line dot DC 0 up 35 num_delete 0.576470851898
+zebra56 SNARC line dot DC 0 down 30 lctrl 0.437309980392
+zebra56 SNARC line dot DC 0 up 40 num_delete 0.734250068665
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.467631816864
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.507050037384
+zebra56 SNARC line dot DC 0 down 20 lctrl 0.819237947464
+zebra56 SNARC line dot DC 0 up 30 num_delete 0.468223810196
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.540055990219
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.633529901505
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.61155796051
+zebra56 SNARC line dot DC 0 up 25 num_delete 0.679186105728
+zebra56 SNARC line dot DC 0 up 20 num_delete 0.687885046005
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.598139047623
+zebra56 SNARC line dot DC 0 down 40 lctrl 0.768248081207
+zebra56 SNARC line dot DC 0 down 10 lctrl 0.685600996017
+zebra56 SNARC line dot DC 0 down 45 lctrl 0.491384983063
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.530699014664
+zebra56 SNARC line dot DC 0 down 35 lctrl 0.48849105835
+zebra56 SNARC line dot DC 0 up 45 num_delete 0.694605112076
+zebra56 SNARC line dot DC 0 up 15 num_delete 0.503320932388
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_15_1619', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'zebra56', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+zebra56 SNARC line arabic DC 0 up 4 num_delete 1.24254083633
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.444149017334
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.384734153748
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.487307071686
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.392925024033
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.447621107101
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.467166185379
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.381918907166
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.444797992706
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.656991004944
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.435941934586
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.623789072037
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.476517915726
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.511338949203
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.496869087219
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.482377052307
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.660887956619
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.567706108093
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.50234079361
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.431830883026
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.532026052475
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.475834846497
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.670714855194
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.521054029465
+zebra56 SNARC line arabic DC 0 down 2 lctrl 1.08180999756
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.418628931046
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.511580944061
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.481283187866
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.386818885803
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.457267045975
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.741438865662
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.460946083069
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.504078149796
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.601706027985
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.518429994583
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.471100091934
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.393598794937
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.520155906677
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.576732158661
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.575814008713
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.422204017639
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.586752891541
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.952799081802
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.655026912689
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.433907032013
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.645789861679
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.61751294136
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.542725086212
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.517452001572
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.438520908356
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.483219861984
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.613065004349
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.497993946075
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.475534915924
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.718463182449
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.566772937775
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.572771072388
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.507209062576
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.517053127289
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.501803874969
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.454802036285
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.618489980698
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.423046112061
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.484021902084
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.533741950989
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.541573047638
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.549496173859
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.613398075104
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.698287010193
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.730835914612
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.48278594017
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.525051832199
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.566113948822
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.54816699028
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.515348911285
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.492225885391
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.486160039902
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.48860502243
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.442517995834
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.447151184082
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.474349975586
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.597121953964
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.458873033524
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.493929862976
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.568694829941
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.647576093674
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.490597009659
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.443935871124
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.528697013855
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.633067846298
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.517069101334
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.565665006638
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.412119150162
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.609952926636
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.950980901718
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.524827957153
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.589699029922
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.595144987106
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.56951880455
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.43904209137
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.524197101593
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.468279123306
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.43935585022
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.451678991318
+zebra56 SNARC line arabic DC 0 up 1 num_delete 1.03904294968
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.521472930908
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.48228597641
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.572694063187
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.778660058975
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.672763109207
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.531304121017
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.547076940536
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.611458778381
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.520262002945
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.536468029022
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.632286071777
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.532292127609
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.596592903137
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.641764163971
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.43784403801
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.497890949249
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.763308048248
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.578144073486
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.800307035446
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.524733066559
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.533884048462
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.661561965942
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.536642074585
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.688485860825
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.697983980179
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.578397035599
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.529125928879
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.618305921555
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.462445020676
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.538398981094
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.530089855194
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.410363912582
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.512402057648
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.817762136459
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.493763923645
+zebra56 SNARC line arabic DC 0 up 4 lctrl 0.503833055496
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.576037883759
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.366584062576
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.558056116104
+zebra56 SNARC line arabic DC 0 down 8 lctrl 1.07741212845
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.509939193726
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.719216823578
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.575381040573
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.574308872223
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.612432003021
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.713593006134
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.522352933884
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.530921936035
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.450956106186
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.654755115509
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.53750705719
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.480971097946
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.459542036057
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.759168863297
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.51011300087
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.719415903091
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.558950901031
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.414654970169
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.563336133957
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.602500915527
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.495847940445
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.570163011551
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.536973953247
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.464447975159
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.738813877106
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.489834070206
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.548866987228
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.604526996613
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.489049196243
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.56313085556
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.458255052567
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.533885002136
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.510078907013
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.608206987381
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.876158952713
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.517887115479
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.68683719635
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.52073097229
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.552612066269
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.495913028717
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.450574159622
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.509806156158
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.519179105759
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.543894767761
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.551567792892
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.575172901154
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.89314699173
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.598174095154
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.691606044769
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.8131980896
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.505739927292
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.706797838211
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.820015907288
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.575483083725
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.846132040024
+zebra56 SNARC line arabic DC 0 up 5 num_delete 1.01715898514
+zebra56 SNARC line arabic DC 0 down 1 lctrl 1.08413100243
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.476130008698
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.727275848389
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.511188983917
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.472721099854
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.523941993713
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.619918107986
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.416386127472
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.557550907135
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.764450073242
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.499466896057
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.516839981079
+zebra56 SNARC line arabic DC 0 down 2 num_delete 0.493237018585
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.519816160202
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.400354862213
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.50154209137
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.479283094406
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.418391942978
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.710704088211
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.487666130066
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.521962881088
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.482667922974
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.556954860687
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.668078899384
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.541639089584
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.541919946671
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.445703983307
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.538228034973
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.523076057434
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.562814950943
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.466466188431
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.412800073624
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.418890953064
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.623651981354
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.524005889893
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.476567983627
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.415486097336
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.556828975677
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.588067054749
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.498013973236
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.81085896492
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.631662130356
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.698868989944
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.500194072723
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.453763008118
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.385078191757
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.719511032104
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.551150083542
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.59046292305
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.516639947891
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.533106088638
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.365630865097
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.508050918579
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.541310071945
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.541180849075
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.573162078857
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.508007049561
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.469170093536
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.464164972305
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.458806037903
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.566390991211
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.7651450634
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.523276090622
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.571760177612
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.482110023499
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.675973176956
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.550693035126
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.4859790802
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.47987985611
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.658651828766
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.813943147659
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.72228884697
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.530097007751
+zebra56 SNARC line arabic DC 0 up 9 num_delete 1.00222682953
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.390946865082
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.548767089844
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.484250068665
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.406255960464
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.499967098236
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.485316991806
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.520020008087
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.784706115723
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.661673069
+zebra56 SNARC line arabic DC 0 up 4 num_delete 1.04068398476
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.378791809082
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.329956054688
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.427273035049
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.504021883011
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.457381010056
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.541840791702
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.501314878464
+zebra56 SNARC line arabic DC 0 up 3 num_delete 0.558469057083
+zebra56 SNARC line arabic DC 0 up 9 num_delete 0.501528024673
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.471115112305
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.537807941437
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.554113864899
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.537395000458
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.552886009216
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.671977996826
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.443248987198
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.61524605751
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.427118062973
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.576466083527
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.543190002441
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.56653881073
+zebra56 SNARC line arabic DC 0 up 1 num_delete 0.629040002823
+zebra56 SNARC line arabic DC 0 down 8 lctrl 0.554117918015
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.616698980331
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.485416173935
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.903242111206
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.519471883774
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.55193400383
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.543718099594
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.463598966599
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.546159982681
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.569813966751
+zebra56 SNARC line arabic DC 0 up 9 lctrl 0.552826881409
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.672327041626
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.506365060806
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.579720973969
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.626228094101
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.486666202545
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.440661907196
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.461446046829
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.448650836945
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.539819002151
+zebra56 SNARC line arabic DC 0 down 6 lctrl 0.667984008789
+zebra56 SNARC line arabic DC 0 down 9 lctrl 0.49448299408
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.52016210556
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.648476839066
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.603869915009
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.832233905792
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.627722978592
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.656090974808
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.611405849457
+zebra56 SNARC line arabic DC 0 down 5 lctrl 0.896450996399
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.553233146667
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.736223936081
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.623713970184
+zebra56 SNARC line arabic DC 0 up 6 num_delete 0.844009876251
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.5593957901
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.566700935364
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.604722976685
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.754333019257
+zebra56 SNARC line arabic DC 0 up 4 num_delete 0.496477842331
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.562384843826
+zebra56 SNARC line arabic DC 0 down 7 lctrl 0.466500997543
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.573014974594
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.635218858719
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.623180866241
+zebra56 SNARC line arabic DC 0 down 2 lctrl 0.499615907669
+zebra56 SNARC line arabic DC 0 down 4 lctrl 0.517176866531
+zebra56 SNARC line arabic DC 0 up 7 num_delete 0.533092021942
+zebra56 SNARC line arabic DC 0 up 4 lctrl 0.765594005585
+zebra56 SNARC line arabic DC 0 up 2 num_delete 0.426694869995
+zebra56 SNARC line arabic DC 0 up 5 num_delete 0.447963953018
+zebra56 SNARC line arabic DC 0 down 1 lctrl 0.580221891403
+zebra56 SNARC line arabic DC 0 down 3 lctrl 0.522608041763
+zebra56 SNARC line arabic DC 0 up 8 num_delete 0.506963968277
+{'participant': u'zebra56', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_15_1628', 'autopilot': False, 'exp_id': u'SNARC'}
+zebra56 SNARC_only CD 7 num_delete 0.74764084816
+zebra56 SNARC_only CD 8 lctrl 0.54749083519
+zebra56 SNARC_only CD 9 num_delete 0.585703134537
+zebra56 SNARC_only CD 4 lctrl 0.736378908157
+zebra56 SNARC_only CD 8 lctrl 0.768096923828
+zebra56 SNARC_only CD 9 num_delete 0.629260063171
+zebra56 SNARC_only CD 6 lctrl 0.674010038376
+zebra56 SNARC_only CD 6 lctrl 0.555799007416
+zebra56 SNARC_only CD 4 lctrl 0.58750295639
+zebra56 SNARC_only CD 2 lctrl 0.66551399231
+zebra56 SNARC_only CD 2 lctrl 0.475472211838
+zebra56 SNARC_only CD 6 lctrl 0.59045791626
+zebra56 SNARC_only CD 1 num_delete 0.64364695549
+zebra56 SNARC_only CD 7 num_delete 1.04740691185
+zebra56 SNARC_only CD 5 num_delete 1.31381011009
+zebra56 SNARC_only CD 6 lctrl 0.649265050888
+zebra56 SNARC_only CD 1 num_delete 0.939373970032
+zebra56 SNARC_only CD 3 num_delete 0.586091041565
+zebra56 SNARC_only CD 9 num_delete 0.81604886055
+zebra56 SNARC_only CD 6 lctrl 0.636298894882
+zebra56 SNARC_only CD 1 num_delete 0.751564025879
+zebra56 SNARC_only CD 7 num_delete 0.830168008804
+zebra56 SNARC_only CD 1 num_delete 0.657920837402
+zebra56 SNARC_only CD 1 num_delete 0.524868965149
+zebra56 SNARC_only CD 6 lctrl 0.846061944962
+zebra56 SNARC_only CD 3 num_delete 1.04046297073
+zebra56 SNARC_only CD 2 lctrl 0.68337893486
+zebra56 SNARC_only CD 1 num_delete 0.667843103409
+zebra56 SNARC_only CD 9 num_delete 0.726740837097
+zebra56 SNARC_only CD 3 num_delete 1.14274215698
+zebra56 SNARC_only CD 9 num_delete 0.660789966583
+zebra56 SNARC_only CD 5 num_delete 0.815598011017
+zebra56 SNARC_only CD 5 num_delete 0.619462966919
+zebra56 SNARC_only CD 5 num_delete 0.51984000206
+zebra56 SNARC_only CD 4 lctrl 0.67297410965
+zebra56 SNARC_only CD 4 lctrl 0.627279043198
+zebra56 SNARC_only CD 7 num_delete 0.599093914032
+zebra56 SNARC_only CD 3 num_delete 0.804081916809
+zebra56 SNARC_only CD 7 num_delete 0.60866189003
+zebra56 SNARC_only CD 3 num_delete 0.573615789413
+zebra56 SNARC_only CD 4 lctrl 1.23661994934
+zebra56 SNARC_only CD 2 lctrl 0.621767044067
+zebra56 SNARC_only CD 4 lctrl 0.674026012421
+zebra56 SNARC_only CD 7 num_delete 0.491961956024
+zebra56 SNARC_only CD 6 lctrl 0.910316944122
+zebra56 SNARC_only CD 1 num_delete 0.589929819107
+zebra56 SNARC_only CD 5 num_delete 0.796164035797
+zebra56 SNARC_only CD 9 num_delete 0.65700507164
+zebra56 SNARC_only CD 7 num_delete 0.499847888947
+zebra56 SNARC_only CD 3 num_delete 0.653473854065
+zebra56 SNARC_only CD 3 num_delete 0.496456861496
+zebra56 SNARC_only CD 5 num_delete 0.890473842621
+zebra56 SNARC_only CD 1 num_delete 0.891378879547
+zebra56 SNARC_only CD 5 num_delete 0.620384931564
+zebra56 SNARC_only CD 6 lctrl 0.632833957672
+zebra56 SNARC_only CD 7 num_delete 0.675895929337
+zebra56 SNARC_only CD 3 num_delete 0.550494909286
+zebra56 SNARC_only CD 1 num_delete 0.597640037537
+zebra56 SNARC_only CD 3 num_delete 0.651033163071
+zebra56 SNARC_only CD 5 num_delete 0.637921094894
+zebra56 SNARC_only CD 3 num_delete 0.545373916626
+zebra56 SNARC_only CD 9 num_delete 0.72919011116
+zebra56 SNARC_only CD 1 num_delete 0.697134017944
+zebra56 SNARC_only CD 3 num_delete 0.602993011475
+zebra56 SNARC_only CD 4 lctrl 0.688524961472
+zebra56 SNARC_only CD 7 num_delete 0.825348854065
+zebra56 SNARC_only CD 3 num_delete 0.685276985168
+zebra56 SNARC_only CD 2 lctrl 0.550956964493
+zebra56 SNARC_only CD 5 num_delete 0.56602191925
+zebra56 SNARC_only CD 7 num_delete 0.572552204132
+zebra56 SNARC_only CD 2 lctrl 0.939401865005
+zebra56 SNARC_only CD 5 num_delete 0.601879835129
+zebra56 SNARC_only CD 3 num_delete 0.671231031418
+zebra56 SNARC_only CD 1 num_delete 0.496995925903
+zebra56 SNARC_only CD 4 lctrl 0.92337012291
+zebra56 SNARC_only CD 6 lctrl 0.866809844971
+zebra56 SNARC_only CD 1 num_delete 0.644338846207
+zebra56 SNARC_only CD 1 num_delete 0.639813899994
+zebra56 SNARC_only CD 3 num_delete 0.755336999893
+zebra56 SNARC_only CD 2 lctrl 0.690182924271
+zebra56 SNARC_only CD 3 num_delete 0.635486125946
+zebra56 SNARC_only CD 4 lctrl 0.679507017136
+zebra56 SNARC_only CD 6 lctrl 0.770005941391
+zebra56 SNARC_only CD 2 lctrl 0.615776062012
+zebra56 SNARC_only CD 8 lctrl 0.571928024292
+zebra56 SNARC_only CD 3 num_delete 0.578081846237
+zebra56 SNARC_only CD 8 lctrl 0.657253980637
+zebra56 SNARC_only CD 9 num_delete 0.811799049377
+zebra56 SNARC_only CD 8 lctrl 0.872404098511
+zebra56 SNARC_only CD 2 lctrl 0.666162967682
+zebra56 SNARC_only CD 6 lctrl 0.852302074432
+zebra56 SNARC_only CD 7 num_delete 0.550076007843
+zebra56 SNARC_only CD 1 num_delete 0.789557933807
+zebra56 SNARC_only CD 8 lctrl 0.618880987167
+zebra56 SNARC_only CD 1 num_delete 0.686960935593
+zebra56 SNARC_only CD 5 num_delete 0.920495986938
+zebra56 SNARC_only CD 7 num_delete 0.463711023331
+zebra56 SNARC_only CD 3 num_delete 0.67472410202
+zebra56 SNARC_only CD 6 lctrl 0.605525970459
+zebra56 SNARC_only CD 8 lctrl 0.746476888657
+zebra56 SNARC_only CD 4 lctrl 0.52202796936
+zebra56 SNARC_only CD 4 lctrl 0.442165136337
+zebra56 SNARC_only CD 2 lctrl 0.534663915634
+zebra56 SNARC_only CD 1 num_delete 0.494282960892
+zebra56 SNARC_only CD 7 num_delete 0.560431957245
+zebra56 SNARC_only CD 3 num_delete 0.527485847473
+zebra56 SNARC_only CD 5 num_delete 0.736298084259
+zebra56 SNARC_only CD 4 num_delete 0.567636013031
+zebra56 SNARC_only CD 9 num_delete 0.957417011261
+zebra56 SNARC_only CD 8 lctrl 0.524220943451
+zebra56 SNARC_only CD 4 lctrl 0.452402114868
+zebra56 SNARC_only CD 6 lctrl 0.496143102646
+zebra56 SNARC_only CD 1 num_delete 0.649621009827
+zebra56 SNARC_only CD 4 lctrl 0.709140062332
+zebra56 SNARC_only CD 8 lctrl 0.549635887146
+zebra56 SNARC_only CD 7 num_delete 0.620682001114
+zebra56 SNARC_only CD 1 num_delete 0.840762138367
+zebra56 SNARC_only CD 8 lctrl 0.58834195137
+zebra56 SNARC_only CD 7 lctrl 0.538285017014
+zebra56 SNARC_only CD 5 num_delete 0.633881092072
+zebra56 SNARC_only CD 4 lctrl 0.597947835922
+zebra56 SNARC_only CD 6 lctrl 0.619287014008
+zebra56 SNARC_only CD 3 num_delete 0.750824928284
+zebra56 SNARC_only CD 4 lctrl 0.781919956207
+zebra56 SNARC_only CD 5 num_delete 0.946444988251
+zebra56 SNARC_only CD 6 lctrl 0.785758972168
+zebra56 SNARC_only CD 3 num_delete 0.725901842117
+zebra56 SNARC_only CD 2 lctrl 0.767132043839
+zebra56 SNARC_only CD 9 num_delete 0.652513027191
+zebra56 SNARC_only CD 3 num_delete 0.63153386116
+zebra56 SNARC_only CD 2 lctrl 0.611588001251
+zebra56 SNARC_only CD 2 lctrl 0.488527059555
+zebra56 SNARC_only CD 1 num_delete 0.594383001328
+zebra56 SNARC_only CD 9 num_delete 0.640249013901
+zebra56 SNARC_only CD 6 lctrl 0.53213095665
+zebra56 SNARC_only CD 4 lctrl 0.732529163361
+zebra56 SNARC_only CD 8 lctrl 0.659397125244
+zebra56 SNARC_only CD 6 lctrl 0.566595077515
+zebra56 SNARC_only CD 7 num_delete 0.5245449543
+zebra56 SNARC_only CD 1 num_delete 0.573158979416
+zebra56 SNARC_only CD 5 num_delete 0.675757884979
+zebra56 SNARC_only CD 8 lctrl 0.678742170334
+zebra56 SNARC_only CD 7 num_delete 0.576146841049
+zebra56 SNARC_only CD 7 num_delete 0.406808853149
+zebra56 SNARC_only CD 5 num_delete 0.604258060455
+zebra56 SNARC_only CD 5 num_delete 0.425517082214
+zebra56 SNARC_only CD 1 num_delete 0.8704829216
+zebra56 SNARC_only CD 9 num_delete 0.67226600647
+zebra56 SNARC_only CD 3 num_delete 0.770332098007
+zebra56 SNARC_only CD 2 lctrl 0.488083124161
+zebra56 SNARC_only CD 1 num_delete 0.570149183273
+zebra56 SNARC_only CD 6 lctrl 0.704941987991
+zebra56 SNARC_only CD 5 lctrl 0.665946006775
+zebra56 SNARC_only CD 8 lctrl 0.7883040905
+zebra56 SNARC_only CD 5 num_delete 0.401134967804
+zebra56 SNARC_only CD 8 lctrl 0.663056135178
+zebra56 SNARC_only CD 1 num_delete 0.649863004684
+zebra56 SNARC_only CD 5 num_delete 0.636904001236
+zebra56 SNARC_only CD 5 num_delete 0.488312005997
+zebra56 SNARC_only CD 5 num_delete 0.466331005096
+zebra56 SNARC_only CD 3 num_delete 0.588953018188
+zebra56 SNARC_only CD 9 num_delete 0.642912864685
+zebra56 SNARC_only CD 8 lctrl 0.535157203674
+zebra56 SNARC_only CD 5 num_delete 0.582673072815
+zebra56 SNARC_only CD 8 lctrl 0.588903903961
+zebra56 SNARC_only CD 9 num_delete 0.562216997147
+zebra56 SNARC_only CD 6 lctrl 0.68184709549
+zebra56 SNARC_only CD 7 num_delete 0.834679841995
+zebra56 SNARC_only CD 2 lctrl 0.557178020477
+zebra56 SNARC_only CD 3 num_delete 0.773046970367
+zebra56 SNARC_only CD 7 num_delete 0.722975969315
+zebra56 SNARC_only CD 3 num_delete 0.523154973984
+zebra56 SNARC_only CD 9 num_delete 0.55583190918
+zebra56 SNARC_only CD 3 num_delete 0.75493979454
+zebra56 SNARC_only CD 2 lctrl 0.617284059525
+zebra56 SNARC_only CD 1 num_delete 0.662436008453
+zebra56 SNARC_only CD 1 num_delete 0.665094137192
+zebra56 SNARC_only CD 5 num_delete 0.643217086792
+zebra56 SNARC_only CD 4 lctrl 0.535295009613
+zebra56 SNARC_only CD 9 num_delete 0.934752941132
+zebra56 SNARC_only CD 6 lctrl 0.573900938034
+zebra56 SNARC_only CD 4 lctrl 0.532390832901
+zebra56 SNARC_only CD 9 num_delete 0.68421792984
+zebra56 SNARC_only CD 1 num_delete 0.565623998642
+zebra56 SNARC_only CD 9 num_delete 0.491994142532
+zebra56 SNARC_only CD 2 lctrl 0.670298814774
+zebra56 SNARC_only CD 6 lctrl 0.784749031067
+zebra56 SNARC_only CD 8 lctrl 0.765863180161
+zebra56 SNARC_only CD 4 lctrl 0.739796876907
+zebra56 SNARC_only CD 6 lctrl 0.627378940582
+zebra56 SNARC_only CD 8 lctrl 0.591366052628
+zebra56 SNARC_only CD 8 lctrl 0.565522909164
+zebra56 SNARC_only CD 2 lctrl 0.635668992996
+zebra56 SNARC_only CD 4 lctrl 0.648187875748
+zebra56 SNARC_only CD 4 lctrl 0.538378000259
+zebra56 SNARC_only CD 5 num_delete 0.545922994614
+zebra56 SNARC_only CD 5 num_delete 0.497945070267
+zebra56 SNARC_only CD 5 num_delete 0.4352850914
+zebra56 SNARC_only CD 2 lctrl 0.655910015106
+zebra56 SNARC_only CD 2 lctrl 0.522785902023
+zebra56 SNARC_only CD 6 lctrl 0.667522907257
+zebra56 SNARC_only CD 3 num_delete 0.749284982681
+zebra56 SNARC_only CD 9 num_delete 0.66811299324
+zebra56 SNARC_only CD 4 lctrl 0.734428882599
+zebra56 SNARC_only CD 5 num_delete 0.637445926666
+zebra56 SNARC_only CD 3 num_delete 0.600964069366
+zebra56 SNARC_only CD 1 num_delete 0.614305019379
+zebra56 SNARC_only CD 8 lctrl 0.667050123215
+zebra56 SNARC_only CD 6 lctrl 0.645339012146
+zebra56 SNARC_only CD 5 num_delete 0.58496594429
+zebra56 SNARC_only CD 8 lctrl 0.502612113953
+zebra56 SNARC_only CD 6 lctrl 0.744529008865
+zebra56 SNARC_only CD 5 num_delete 0.590924024582
+zebra56 SNARC_only CD 6 lctrl 0.597140073776
+zebra56 SNARC_only CD 5 lctrl 0.459165096283
+zebra56 SNARC_only CD 9 num_delete 0.654156923294
+zebra56 SNARC_only CD 2 lctrl 0.585386037827
+zebra56 SNARC_only CD 8 lctrl 0.703149080276
+zebra56 SNARC_only CD 5 num_delete 0.70379281044
+zebra56 SNARC_only CD 9 num_delete 0.592498064041
+zebra56 SNARC_only CD 7 num_delete 0.590291023254
+zebra56 SNARC_only CD 8 lctrl 0.836395978928
+zebra56 SNARC_only CD 7 num_delete 0.679179191589
+zebra56 SNARC_only CD 3 num_delete 0.641271114349
+zebra56 SNARC_only CD 2 lctrl 0.669272899628
+zebra56 SNARC_only CD 2 lctrl 0.535457134247
+zebra56 SNARC_only CD 1 num_delete 0.54322886467
+zebra56 SNARC_only CD 5 num_delete 0.638938188553
+zebra56 SNARC_only CD 9 num_delete 0.62692117691
+zebra56 SNARC_only CD 9 num_delete 0.647219181061
+zebra56 SNARC_only CD 3 num_delete 0.586730957031
+zebra56 SNARC_only CD 6 lctrl 1.00879907608
+zebra56 SNARC_only CD 9 num_delete 0.756726026535
+zebra56 SNARC_only CD 4 lctrl 0.691421985626
+zebra56 SNARC_only CD 5 num_delete 0.596535921097
+zebra56 SNARC_only CD 3 num_delete 1.12235188484
+zebra56 SNARC_only CD 8 lctrl 0.641235113144
+zebra56 SNARC_only CD 7 num_delete 0.644603013992
+zebra56 SNARC_only CD 8 lctrl 0.712759017944
+zebra56 SNARC_only CD 3 num_delete 0.769366979599
+zebra56 SNARC_only CD 2 lctrl 0.575314044952
+zebra56 SNARC_only CD 5 num_delete 0.733566999435
+zebra56 SNARC_only CD 6 lctrl 0.58145904541
+zebra56 SNARC_only CD 7 num_delete 0.5621509552
+zebra56 SNARC_only CD 6 lctrl 0.506539821625
+zebra56 SNARC_only CD 4 lctrl 0.715786218643
+zebra56 SNARC_only CD 4 lctrl 0.619791030884
+zebra56 SNARC_only CD 8 lctrl 0.592368125916
+zebra56 SNARC_only CD 4 lctrl 0.517986059189
+zebra56 SNARC_only CD 8 lctrl 0.558557033539
+zebra56 SNARC_only CD 7 num_delete 0.541493177414
+zebra56 SNARC_only CD 2 num_delete 0.701457977295
+zebra56 SNARC_only CD 5 num_delete 0.93434715271
+zebra56 SNARC_only CD 3 num_delete 0.636869907379
+zebra56 SNARC_only CD 4 lctrl 0.61705493927
+zebra56 SNARC_only CD 6 lctrl 0.821277141571
+zebra56 SNARC_only CD 9 num_delete 0.737004995346
+zebra56 SNARC_only CD 2 lctrl 0.728631019592
+zebra56 SNARC_only CD 4 lctrl 0.936517000198
+zebra56 SNARC_only CD 2 lctrl 0.727141857147
+zebra56 SNARC_only CD 1 num_delete 0.583165168762
+zebra56 SNARC_only CD 4 lctrl 0.685008049011
+zebra56 SNARC_only CD 3 num_delete 0.942125082016
+zebra56 SNARC_only CD 7 num_delete 0.644539117813
+zebra56 SNARC_only CD 2 lctrl 0.657233953476
+zebra56 SNARC_only CD 1 num_delete 0.891513109207
+zebra56 SNARC_only CD 7 num_delete 0.732242107391
+zebra56 SNARC_only CD 9 num_delete 0.899797916412
+zebra56 SNARC_only CD 1 num_delete 0.676107883453
+zebra56 SNARC_only CD 9 num_delete 0.566088914871
+zebra56 SNARC_only CD 9 num_delete 0.493088960648
+zebra56 SNARC_only CD 9 num_delete 0.462928056717
+zebra56 SNARC_only CD 2 lctrl 0.618730068207
+zebra56 SNARC_only CD 6 lctrl 0.655254840851
+zebra56 SNARC_only CD 6 lctrl 0.497303962708
+zebra56 SNARC_only CD 8 lctrl 0.635285139084
+zebra56 SNARC_only CD 2 lctrl 0.535237073898
+zebra56 SNARC_only CD 7 num_delete 0.686359882355
+zebra56 SNARC_only CD 2 lctrl 0.576591014862
+zebra56 SNARC_only CD 7 num_delete 0.55877995491
+zebra56 SNARC_only CD 3 num_delete 0.661623954773
+zebra56 SNARC_only CD 3 num_delete 0.568664073944
+zebra56 SNARC_only CD 8 lctrl 0.727583169937
+zebra56 SNARC_only CD 2 lctrl 0.599703073502
+zebra56 SNARC_only CD 8 lctrl 0.572662830353
+zebra56 SNARC_only CD 4 lctrl 1.01119422913
+zebra56 SNARC_only CD 6 lctrl 0.879091024399
+zebra56 SNARC_only CD 3 num_delete 0.64860701561
+zebra56 SNARC_only CD 7 num_delete 0.539252996445
+zebra56 SNARC_only CD 6 lctrl 0.604252099991
+zebra56 SNARC_only CD 8 lctrl 0.776656866074
+zebra56 SNARC_only CD 7 num_delete 0.526158094406
+zebra56 SNARC_only CD 5 num_delete 0.598682880402
+zebra56 SNARC_only CD 1 num_delete 0.636059999466
+zebra56 SNARC_only CD 5 num_delete 0.599534988403
+zebra56 SNARC_only CD 6 lctrl 0.709083795547
+zebra56 SNARC_only CD 7 num_delete 0.533201932907
+zebra56 SNARC_only CD 7 num_delete 0.493526935577
+zebra56 SNARC_only CD 2 lctrl 0.583815097809
+zebra56 SNARC_only CD 1 num_delete 0.605452060699
+zebra56 SNARC_only CD 9 num_delete 0.546499013901
+zebra56 SNARC_only CD 8 lctrl 0.843639135361
+zebra56 SNARC_only CD 9 num_delete 0.565373897552
+zebra56 SNARC_only CD 1 num_delete 0.540340900421
+zebra56 SNARC_only CD 7 num_delete 0.676036834717
+zebra56 SNARC_only CD 8 lctrl 0.742441892624
+zebra56 SNARC_only CD 3 num_delete 0.677436113358
+zebra56 SNARC_only CD 6 lctrl 0.62405705452
+zebra56 SNARC_only CD 7 num_delete 0.515333890915
+zebra56 SNARC_only CD 7 num_delete 0.500581979752
+zebra56 SNARC_only CD 7 num_delete 0.478205919266
+zebra56 SNARC_only CD 9 num_delete 0.697121858597
+zebra56 SNARC_only CD 5 num_delete 0.546583175659
+zebra56 SNARC_only CD 3 num_delete 0.522298812866
+zebra56 SNARC_only CD 7 num_delete 0.627218961716
+zebra56 SNARC_only CD 8 lctrl 0.575694084167
+zebra56 SNARC_only CD 1 num_delete 0.613612890244
+zebra56 SNARC_only CD 9 num_delete 0.579014062881
+zebra56 SNARC_only CD 2 lctrl 0.778006076813
+zebra56 SNARC_only CD 1 num_delete 0.551759958267
+zebra56 SNARC_only CD 6 lctrl 0.631191968918
+zebra56 SNARC_only CD 8 lctrl 0.754776000977
+zebra56 SNARC_only CD 9 num_delete 0.673032999039
+zebra56 SNARC_only CD 8 lctrl 0.571504116058
+zebra56 SNARC_only CD 4 lctrl 0.634064912796
+zebra56 SNARC_only CD 7 num_delete 0.55736207962
+zebra56 SNARC_only CD 4 lctrl 0.684900999069
+zebra56 SNARC_only CD 9 num_delete 0.526029109955
+zebra56 SNARC_only CD 6 lctrl 0.655170917511
+zebra56 SNARC_only CD 9 num_delete 0.457591056824
+zebra56 SNARC_only CD 5 num_delete 0.796956062317
+zebra56 SNARC_only CD 4 lctrl 0.690710067749
+zebra56 SNARC_only CD 9 num_delete 0.699750185013
+zebra56 SNARC_only CD 2 lctrl 0.781493186951
+zebra56 SNARC_only CD 4 lctrl 0.562500953674
+zebra56 SNARC_only CD 7 num_delete 0.66513299942
+zebra56 SNARC_only CD 8 lctrl 0.643738985062
+zebra56 SNARC_only CD 4 lctrl 0.615823030472
+zebra56 SNARC_only CD 6 lctrl 0.740167140961
+zebra56 SNARC_only CD 9 num_delete 0.506567001343
+zebra56 SNARC_only CD 9 num_delete 0.452017068863
+zebra56 SNARC_only CD 4 lctrl 0.576117038727
+zebra56 SNARC_only CD 2 lctrl 0.598728895187
+zebra56 SNARC_only CD 2 lctrl 0.547827005386
+zebra56 SNARC_only CD 8 lctrl 0.426740169525
+zebra56 SNARC_only CD 4 lctrl 0.671797990799
+zebra56 SNARC_only CD 1 num_delete 0.705668926239
+zebra56 SNARC_only CD 4 lctrl 0.626499891281
+zebra56 SNARC_only CD 3 num_delete 0.598946094513
+zebra56 SNARC_only CD 8 lctrl 0.636344909668
+zebra56 SNARC_only CD 2 lctrl 0.759937047958
+zebra56 SNARC_only CD 8 lctrl 0.918548107147
+zebra56 SNARC_only CD 1 num_delete 0.541630983353
+zebra56 SNARC_only CD 2 lctrl 0.662594079971
+zebra56 SNARC_only CD 2 lctrl 0.504241943359
+zebra56 SNARC_only CD 4 lctrl 0.673957109451
+zebra56 SNARC_only CD 1 num_delete 0.556177854538
+zebra56 SNARC_only CD 1 num_delete 0.483243942261
+zebra56 SNARC_only CD 9 num_delete 0.549427032471
+zebra56 SNARC_only CD 6 lctrl 0.693028926849
+{'participant': u'zebra56', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_15_1638', 'autopilot': False, 'exp_id': u'SNARC'}
+zebra56 SNARC_only DC 5 lctrl 0.74317908287
+zebra56 SNARC_only DC 7 lctrl 0.462285995483
+zebra56 SNARC_only DC 7 lctrl 0.393805027008
+zebra56 SNARC_only DC 5 lctrl 0.47231388092
+zebra56 SNARC_only DC 9 lctrl 0.562905073166
+zebra56 SNARC_only DC 8 num_delete 0.593862771988
+zebra56 SNARC_only DC 7 lctrl 0.60830283165
+zebra56 SNARC_only DC 8 lctrl 0.733354091644
+zebra56 SNARC_only DC 1 lctrl 0.79606795311
+zebra56 SNARC_only DC 7 lctrl 0.664772033691
+zebra56 SNARC_only DC 4 num_delete 0.523040056229
+zebra56 SNARC_only DC 1 lctrl 0.563877105713
+zebra56 SNARC_only DC 3 num_delete 1.22619199753
+zebra56 SNARC_only DC 4 num_delete 1.0922999382
+zebra56 SNARC_only DC 3 lctrl 0.46924495697
+zebra56 SNARC_only DC 3 lctrl 1.00780200958
+zebra56 SNARC_only DC 7 lctrl 0.611680984497
+zebra56 SNARC_only DC 6 num_delete 0.592414140701
+zebra56 SNARC_only DC 4 num_delete 0.574696063995
+zebra56 SNARC_only DC 8 num_delete 0.644697189331
+zebra56 SNARC_only DC 8 num_delete 0.448631048203
+zebra56 SNARC_only DC 1 lctrl 0.58828997612
+zebra56 SNARC_only DC 1 lctrl 0.610258102417
+zebra56 SNARC_only DC 2 num_delete 0.679023981094
+zebra56 SNARC_only DC 9 lctrl 0.801509857178
+zebra56 SNARC_only DC 7 lctrl 0.645923852921
+zebra56 SNARC_only DC 5 lctrl 0.513622999191
+zebra56 SNARC_only DC 1 lctrl 0.594955921173
+zebra56 SNARC_only DC 2 num_delete 0.528331041336
+zebra56 SNARC_only DC 5 lctrl 0.681433916092
+zebra56 SNARC_only DC 1 lctrl 0.762917995453
+zebra56 SNARC_only DC 2 lctrl 0.6980240345
+zebra56 SNARC_only DC 7 lctrl 1.00225806236
+zebra56 SNARC_only DC 7 lctrl 0.525239944458
+zebra56 SNARC_only DC 8 num_delete 0.454447031021
+zebra56 SNARC_only DC 6 num_delete 0.513884067535
+zebra56 SNARC_only DC 5 lctrl 0.67541885376
+zebra56 SNARC_only DC 9 lctrl 2.5811829567
+zebra56 SNARC_only DC 6 num_delete 0.509075880051
+zebra56 SNARC_only DC 6 num_delete 0.445915937424
+zebra56 SNARC_only DC 9 lctrl 0.538415908813
+zebra56 SNARC_only DC 7 lctrl 0.482405900955
+zebra56 SNARC_only DC 3 lctrl 0.64465713501
+zebra56 SNARC_only DC 2 num_delete 0.647881031036
+zebra56 SNARC_only DC 3 lctrl 0.699196100235
+zebra56 SNARC_only DC 4 num_delete 0.555634021759
+zebra56 SNARC_only DC 5 lctrl 0.715127944946
+zebra56 SNARC_only DC 5 lctrl 0.547292947769
+zebra56 SNARC_only DC 9 lctrl 1.30664491653
+zebra56 SNARC_only DC 1 lctrl 0.704637050629
+zebra56 SNARC_only DC 2 num_delete 0.713721036911
+zebra56 SNARC_only DC 9 lctrl 0.555369138718
+zebra56 SNARC_only DC 6 num_delete 0.51392698288
+zebra56 SNARC_only DC 1 lctrl 0.595124006271
+zebra56 SNARC_only DC 2 num_delete 0.647927045822
+zebra56 SNARC_only DC 1 lctrl 0.907509803772
+zebra56 SNARC_only DC 6 num_delete 0.531337022781
+zebra56 SNARC_only DC 2 lctrl 0.563405036926
+zebra56 SNARC_only DC 2 num_delete 0.570509910583
+zebra56 SNARC_only DC 5 lctrl 0.577222108841
+zebra56 SNARC_only DC 8 num_delete 0.511750936508
+zebra56 SNARC_only DC 2 num_delete 0.57679104805
+zebra56 SNARC_only DC 7 lctrl 0.831780195236
+zebra56 SNARC_only DC 7 lctrl 0.498822927475
+zebra56 SNARC_only DC 4 num_delete 0.491912841797
+zebra56 SNARC_only DC 7 lctrl 0.726665019989
+zebra56 SNARC_only DC 2 num_delete 0.518280982971
+zebra56 SNARC_only DC 1 lctrl 0.511193037033
+zebra56 SNARC_only DC 9 lctrl 0.648632049561
+zebra56 SNARC_only DC 7 lctrl 0.41156411171
+zebra56 SNARC_only DC 1 num_delete 0.536768198013
+zebra56 SNARC_only DC 9 lctrl 0.609079122543
+zebra56 SNARC_only DC 9 lctrl 1.57405400276
+zebra56 SNARC_only DC 1 lctrl 0.545685052872
+zebra56 SNARC_only DC 3 lctrl 0.545658111572
+zebra56 SNARC_only DC 7 lctrl 0.45750617981
+zebra56 SNARC_only DC 2 num_delete 0.516789913177
+zebra56 SNARC_only DC 2 num_delete 0.49366402626
+zebra56 SNARC_only DC 4 num_delete 0.527641057968
+zebra56 SNARC_only DC 3 lctrl 0.616715908051
+zebra56 SNARC_only DC 7 lctrl 0.540946006775
+zebra56 SNARC_only DC 8 num_delete 0.572535991669
+zebra56 SNARC_only DC 3 lctrl 0.587538957596
+zebra56 SNARC_only DC 6 num_delete 0.536737918854
+zebra56 SNARC_only DC 4 num_delete 0.496709108353
+zebra56 SNARC_only DC 5 lctrl 0.739325046539
+zebra56 SNARC_only DC 6 num_delete 0.586391925812
+zebra56 SNARC_only DC 8 num_delete 0.560101032257
+zebra56 SNARC_only DC 2 num_delete 0.607214927673
+zebra56 SNARC_only DC 8 num_delete 0.612316846848
+zebra56 SNARC_only DC 1 lctrl 0.601766109467
+zebra56 SNARC_only DC 1 lctrl 0.534637212753
+zebra56 SNARC_only DC 7 lctrl 0.838748931885
+zebra56 SNARC_only DC 4 num_delete 0.569538116455
+zebra56 SNARC_only DC 3 lctrl 0.824433088303
+zebra56 SNARC_only DC 5 lctrl 0.556057929993
+zebra56 SNARC_only DC 7 lctrl 0.59556889534
+zebra56 SNARC_only DC 9 lctrl 0.609442949295
+zebra56 SNARC_only DC 9 lctrl 0.462108135223
+zebra56 SNARC_only DC 1 lctrl 0.521994113922
+zebra56 SNARC_only DC 3 lctrl 0.658556938171
+zebra56 SNARC_only DC 3 lctrl 0.461537122726
+zebra56 SNARC_only DC 7 lctrl 0.520987987518
+zebra56 SNARC_only DC 6 num_delete 0.561317920685
+zebra56 SNARC_only DC 6 num_delete 0.41671204567
+zebra56 SNARC_only DC 8 num_delete 0.445539951324
+zebra56 SNARC_only DC 5 lctrl 0.626100063324
+zebra56 SNARC_only DC 4 num_delete 0.510051965714
+zebra56 SNARC_only DC 4 num_delete 0.535631895065
+zebra56 SNARC_only DC 9 lctrl 0.664357185364
+zebra56 SNARC_only DC 2 num_delete 0.553603172302
+zebra56 SNARC_only DC 9 lctrl 0.561362028122
+zebra56 SNARC_only DC 1 lctrl 0.552627086639
+zebra56 SNARC_only DC 7 lctrl 0.487981796265
+zebra56 SNARC_only DC 6 num_delete 0.497398138046
+zebra56 SNARC_only DC 5 lctrl 0.691406011581
+zebra56 SNARC_only DC 6 lctrl 0.436841011047
+zebra56 SNARC_only DC 5 lctrl 0.705023050308
+zebra56 SNARC_only DC 5 lctrl 0.505893230438
+zebra56 SNARC_only DC 7 lctrl 0.643238067627
+zebra56 SNARC_only DC 6 num_delete 0.678569793701
+zebra56 SNARC_only DC 5 lctrl 0.593271017075
+zebra56 SNARC_only DC 2 num_delete 0.630414962769
+zebra56 SNARC_only DC 8 num_delete 0.55489897728
+zebra56 SNARC_only DC 6 num_delete 0.577970981598
+zebra56 SNARC_only DC 9 lctrl 0.97718000412
+zebra56 SNARC_only DC 3 lctrl 0.862420797348
+zebra56 SNARC_only DC 6 num_delete 0.920439958572
+zebra56 SNARC_only DC 2 num_delete 0.559649944305
+zebra56 SNARC_only DC 2 num_delete 0.479174137115
+zebra56 SNARC_only DC 2 num_delete 0.473622083664
+zebra56 SNARC_only DC 7 lctrl 0.804929971695
+zebra56 SNARC_only DC 9 lctrl 0.721253156662
+zebra56 SNARC_only DC 1 lctrl 0.569494009018
+zebra56 SNARC_only DC 4 num_delete 0.663594961166
+zebra56 SNARC_only DC 4 num_delete 0.546501874924
+zebra56 SNARC_only DC 8 num_delete 0.930500030518
+zebra56 SNARC_only DC 5 lctrl 1.0181748867
+zebra56 SNARC_only DC 2 num_delete 0.493156909943
+zebra56 SNARC_only DC 2 num_delete 0.455286026001
+zebra56 SNARC_only DC 3 lctrl 0.579268932343
+zebra56 SNARC_only DC 6 num_delete 0.609282970428
+zebra56 SNARC_only DC 1 lctrl 0.534824848175
+zebra56 SNARC_only DC 9 lctrl 0.638771057129
+zebra56 SNARC_only DC 4 num_delete 0.658281087875
+zebra56 SNARC_only DC 7 lctrl 0.589237928391
+zebra56 SNARC_only DC 9 lctrl 0.802942991257
+zebra56 SNARC_only DC 1 lctrl 0.576152086258
+zebra56 SNARC_only DC 9 lctrl 0.838204145432
+zebra56 SNARC_only DC 4 num_delete 0.616918087006
+zebra56 SNARC_only DC 1 lctrl 0.597609996796
+zebra56 SNARC_only DC 9 lctrl 0.722727060318
+zebra56 SNARC_only DC 9 lctrl 0.450640916824
+zebra56 SNARC_only DC 1 lctrl 0.542237997055
+zebra56 SNARC_only DC 7 lctrl 0.622115135193
+zebra56 SNARC_only DC 7 lctrl 0.458295822144
+zebra56 SNARC_only DC 3 lctrl 0.598132133484
+zebra56 SNARC_only DC 6 num_delete 0.762727022171
+zebra56 SNARC_only DC 3 lctrl 0.609601974487
+zebra56 SNARC_only DC 9 lctrl 0.758852005005
+zebra56 SNARC_only DC 5 lctrl 0.573710918427
+zebra56 SNARC_only DC 7 lctrl 0.539988040924
+zebra56 SNARC_only DC 3 lctrl 0.651848077774
+zebra56 SNARC_only DC 8 num_delete 0.606638908386
+zebra56 SNARC_only DC 3 lctrl 0.72402215004
+zebra56 SNARC_only DC 8 num_delete 0.491734027863
+zebra56 SNARC_only DC 6 num_delete 0.629779100418
+zebra56 SNARC_only DC 6 num_delete 0.609982013702
+zebra56 SNARC_only DC 7 lctrl 0.71914100647
+zebra56 SNARC_only DC 5 lctrl 0.559676885605
+zebra56 SNARC_only DC 9 lctrl 0.510842084885
+zebra56 SNARC_only DC 6 num_delete 0.615839958191
+zebra56 SNARC_only DC 3 lctrl 0.61256313324
+zebra56 SNARC_only DC 4 num_delete 0.561378002167
+zebra56 SNARC_only DC 8 num_delete 0.616747140884
+zebra56 SNARC_only DC 2 num_delete 0.596945047379
+zebra56 SNARC_only DC 4 num_delete 0.474723100662
+zebra56 SNARC_only DC 4 num_delete 0.501661062241
+zebra56 SNARC_only DC 3 lctrl 0.791355848312
+zebra56 SNARC_only DC 9 lctrl 0.556586027145
+zebra56 SNARC_only DC 4 num_delete 0.651192903519
+zebra56 SNARC_only DC 8 num_delete 0.749910831451
+zebra56 SNARC_only DC 6 num_delete 0.581046819687
+zebra56 SNARC_only DC 1 lctrl 0.643087148666
+zebra56 SNARC_only DC 9 lctrl 0.57475399971
+zebra56 SNARC_only DC 5 lctrl 1.36531400681
+zebra56 SNARC_only DC 3 lctrl 0.570245981216
+zebra56 SNARC_only DC 6 num_delete 0.639970779419
+zebra56 SNARC_only DC 4 num_delete 0.451593875885
+zebra56 SNARC_only DC 5 lctrl 0.543869972229
+zebra56 SNARC_only DC 4 num_delete 0.52730512619
+zebra56 SNARC_only DC 6 num_delete 0.62399315834
+zebra56 SNARC_only DC 4 num_delete 0.588379859924
+zebra56 SNARC_only DC 8 num_delete 0.554207086563
+zebra56 SNARC_only DC 6 num_delete 0.697525978088
+zebra56 SNARC_only DC 3 num_delete 0.706588983536
+zebra56 SNARC_only DC 4 num_delete 0.563550949097
+zebra56 SNARC_only DC 8 num_delete 0.523290872574
+zebra56 SNARC_only DC 4 num_delete 0.467545986176
+zebra56 SNARC_only DC 4 num_delete 0.486577987671
+zebra56 SNARC_only DC 1 lctrl 0.609199047089
+zebra56 SNARC_only DC 3 lctrl 0.422295093536
+zebra56 SNARC_only DC 1 lctrl 0.523552894592
+zebra56 SNARC_only DC 1 lctrl 0.443629026413
+zebra56 SNARC_only DC 9 lctrl 0.66398191452
+zebra56 SNARC_only DC 7 lctrl 0.498746156693
+zebra56 SNARC_only DC 9 lctrl 0.444406032562
+zebra56 SNARC_only DC 3 lctrl 0.93649315834
+zebra56 SNARC_only DC 2 num_delete 0.438858032227
+zebra56 SNARC_only DC 2 num_delete 0.47512793541
+zebra56 SNARC_only DC 3 lctrl 0.838475942612
+zebra56 SNARC_only DC 8 num_delete 0.625001907349
+zebra56 SNARC_only DC 5 lctrl 0.637689113617
+zebra56 SNARC_only DC 9 lctrl 0.873459100723
+zebra56 SNARC_only DC 5 lctrl 0.674919128418
+zebra56 SNARC_only DC 6 num_delete 0.756876945496
+zebra56 SNARC_only DC 6 num_delete 0.411549806595
+zebra56 SNARC_only DC 2 num_delete 0.689203023911
+zebra56 SNARC_only DC 3 lctrl 0.635073900223
+zebra56 SNARC_only DC 8 num_delete 0.542152881622
+zebra56 SNARC_only DC 9 lctrl 0.846345901489
+zebra56 SNARC_only DC 7 lctrl 0.633465051651
+zebra56 SNARC_only DC 1 lctrl 0.765368938446
+zebra56 SNARC_only DC 4 num_delete 0.602849006653
+zebra56 SNARC_only DC 5 lctrl 0.648134946823
+zebra56 SNARC_only DC 3 lctrl 0.739405870438
+zebra56 SNARC_only DC 8 num_delete 0.642184019089
+zebra56 SNARC_only DC 8 num_delete 0.421702861786
+zebra56 SNARC_only DC 7 lctrl 0.555397033691
+zebra56 SNARC_only DC 1 lctrl 0.57036280632
+zebra56 SNARC_only DC 5 lctrl 0.608876943588
+zebra56 SNARC_only DC 9 lctrl 0.478140115738
+zebra56 SNARC_only DC 6 num_delete 0.592446088791
+zebra56 SNARC_only DC 4 num_delete 0.518142938614
+zebra56 SNARC_only DC 4 num_delete 0.59085893631
+zebra56 SNARC_only DC 5 lctrl 0.573101043701
+zebra56 SNARC_only DC 4 num_delete 0.539258956909
+zebra56 SNARC_only DC 3 lctrl 0.515798091888
+zebra56 SNARC_only DC 3 lctrl 0.619669914246
+zebra56 SNARC_only DC 8 num_delete 0.528393983841
+zebra56 SNARC_only DC 4 num_delete 0.440891981125
+zebra56 SNARC_only DC 2 num_delete 0.485242128372
+zebra56 SNARC_only DC 3 lctrl 0.655709981918
+zebra56 SNARC_only DC 1 lctrl 0.77862405777
+zebra56 SNARC_only DC 2 num_delete 0.52822804451
+zebra56 SNARC_only DC 5 lctrl 0.601433038712
+zebra56 SNARC_only DC 2 num_delete 0.629878044128
+zebra56 SNARC_only DC 4 num_delete 0.658369064331
+zebra56 SNARC_only DC 9 lctrl 0.533570051193
+zebra56 SNARC_only DC 7 lctrl 0.493489980698
+zebra56 SNARC_only DC 2 num_delete 0.583204984665
+zebra56 SNARC_only DC 8 num_delete 0.621311903
+zebra56 SNARC_only DC 6 num_delete 0.537286996841
+zebra56 SNARC_only DC 5 lctrl 0.577832937241
+zebra56 SNARC_only DC 8 num_delete 0.656086921692
+zebra56 SNARC_only DC 3 lctrl 0.915439128876
+zebra56 SNARC_only DC 1 lctrl 0.722575902939
+zebra56 SNARC_only DC 2 num_delete 1.21041297913
+zebra56 SNARC_only DC 3 lctrl 0.65455698967
+zebra56 SNARC_only DC 5 lctrl 1.00096583366
+zebra56 SNARC_only DC 2 num_delete 0.75634098053
+zebra56 SNARC_only DC 6 num_delete 0.642874956131
+zebra56 SNARC_only DC 6 num_delete 0.670479059219
+zebra56 SNARC_only DC 8 num_delete 0.617002010345
+zebra56 SNARC_only DC 9 lctrl 0.629664182663
+zebra56 SNARC_only DC 2 num_delete 0.569498062134
+zebra56 SNARC_only DC 6 num_delete 0.904146909714
+zebra56 SNARC_only DC 2 num_delete 0.560359954834
+zebra56 SNARC_only DC 8 num_delete 0.527476072311
+zebra56 SNARC_only DC 8 num_delete 0.504101037979
+zebra56 SNARC_only DC 5 lctrl 0.674300909042
+zebra56 SNARC_only DC 2 num_delete 0.547785997391
+zebra56 SNARC_only DC 8 num_delete 0.554787874222
+zebra56 SNARC_only DC 5 lctrl 0.610759973526
+zebra56 SNARC_only DC 7 lctrl 0.599987983704
+zebra56 SNARC_only DC 2 num_delete 0.80438709259
+zebra56 SNARC_only DC 8 num_delete 0.448908090591
+zebra56 SNARC_only DC 8 num_delete 0.508409023285
+zebra56 SNARC_only DC 4 num_delete 0.629649162292
+zebra56 SNARC_only DC 4 num_delete 0.442180156708
+zebra56 SNARC_only DC 4 num_delete 0.446424007416
+zebra56 SNARC_only DC 9 lctrl 0.859251976013
+zebra56 SNARC_only DC 4 num_delete 0.485634088516
+zebra56 SNARC_only DC 7 lctrl 0.559595823288
+zebra56 SNARC_only DC 8 num_delete 0.790397882462
+zebra56 SNARC_only DC 7 lctrl 0.612213134766
+zebra56 SNARC_only DC 9 lctrl 0.729001998901
+zebra56 SNARC_only DC 7 lctrl 0.729156970978
+zebra56 SNARC_only DC 8 num_delete 0.872786998749
+zebra56 SNARC_only DC 3 lctrl 0.826903104782
+zebra56 SNARC_only DC 5 lctrl 0.630092144012
+zebra56 SNARC_only DC 6 num_delete 0.554588079453
+zebra56 SNARC_only DC 8 num_delete 0.529752969742
+zebra56 SNARC_only DC 6 num_delete 0.810267925262
+zebra56 SNARC_only DC 9 lctrl 0.743161916733
+zebra56 SNARC_only DC 7 lctrl 0.558537960052
+zebra56 SNARC_only DC 8 num_delete 0.821405887604
+zebra56 SNARC_only DC 3 lctrl 0.784747123718
+zebra56 SNARC_only DC 5 lctrl 0.629928827286
+zebra56 SNARC_only DC 1 lctrl 0.578111886978
+zebra56 SNARC_only DC 9 lctrl 0.632972002029
+zebra56 SNARC_only DC 1 lctrl 0.668778896332
+zebra56 SNARC_only DC 9 lctrl 0.542766094208
+zebra56 SNARC_only DC 9 lctrl 0.534744024277
+zebra56 SNARC_only DC 8 num_delete 1.19030785561
+zebra56 SNARC_only DC 6 num_delete 0.489963054657
+zebra56 SNARC_only DC 6 num_delete 0.468291044235
+zebra56 SNARC_only DC 6 num_delete 0.423123836517
+zebra56 SNARC_only DC 6 num_delete 0.532119989395
+zebra56 SNARC_only DC 1 lctrl 0.53252696991
+zebra56 SNARC_only DC 2 num_delete 0.516022920609
+zebra56 SNARC_only DC 9 lctrl 0.445074081421
+zebra56 SNARC_only DC 1 lctrl 0.569365978241
+zebra56 SNARC_only DC 5 lctrl 0.607926845551
+zebra56 SNARC_only DC 4 num_delete 0.580707073212
+zebra56 SNARC_only DC 2 num_delete 0.554389953613
+zebra56 SNARC_only DC 9 lctrl 0.545827865601
+zebra56 SNARC_only DC 3 lctrl 0.585891962051
+zebra56 SNARC_only DC 3 lctrl 0.49612903595
+zebra56 SNARC_only DC 1 lctrl 0.68985414505
+zebra56 SNARC_only DC 3 lctrl 0.555401802063
+zebra56 SNARC_only DC 4 num_delete 0.538662910461
+zebra56 SNARC_only DC 4 num_delete 0.450539112091
+zebra56 SNARC_only DC 2 num_delete 0.501749992371
+zebra56 SNARC_only DC 2 num_delete 0.479147911072
+zebra56 SNARC_only DC 7 lctrl 0.626353025436
+zebra56 SNARC_only DC 1 lctrl 0.583113908768
+zebra56 SNARC_only DC 5 lctrl 0.580690860748
+zebra56 SNARC_only DC 5 lctrl 0.474298000336
+zebra56 SNARC_only DC 1 lctrl 0.621334075928
+zebra56 SNARC_only DC 3 lctrl 0.54621386528
+zebra56 SNARC_only DC 4 num_delete 0.54475402832
+zebra56 SNARC_only DC 7 lctrl 0.537453174591
+zebra56 SNARC_only DC 3 num_delete 0.441002845764
+zebra56 SNARC_only DC 2 num_delete 0.557435035706
+zebra56 SNARC_only DC 8 num_delete 0.596616029739
+zebra56 SNARC_only DC 5 lctrl 0.586793899536
+zebra56 SNARC_only DC 3 lctrl 0.640575885773
+zebra56 SNARC_only DC 6 num_delete 0.659907102585
+zebra56 SNARC_only DC 6 num_delete 0.486704826355
+zebra56 SNARC_only DC 2 num_delete 0.560730934143
+zebra56 SNARC_only DC 6 num_delete 0.57646894455
+zebra56 SNARC_only DC 7 lctrl 0.831048965454
+zebra56 SNARC_only DC 3 lctrl 0.602872133255
+zebra56 SNARC_only DC 1 lctrl 0.591592073441
+zebra56 SNARC_only DC 5 lctrl 0.573750972748
+zebra56 SNARC_only DC 1 lctrl 0.564180135727
+zebra56 SNARC_only DC 7 lctrl 0.602545022964
+zebra56 SNARC_only DC 1 lctrl 0.567775964737
+zebra56 SNARC_only DC 5 lctrl 0.694123983383
+zebra56 SNARC_only DC 9 lctrl 0.456177949905
+zebra56 SNARC_only DC 1 lctrl 0.539334058762
+zebra56 SNARC_only DC 4 num_delete 0.46616101265
+zebra56 SNARC_only DC 8 num_delete 0.581712961197
+zebra56 SNARC_only DC 8 num_delete 0.50759601593
+zebra56 SNARC_only DC 5 num_delete 0.860651016235
+zebra56 SNARC_only DC 8 num_delete 0.471267223358
+zebra56 SNARC_only DC 5 lctrl 0.546307086945
+zebra56 SNARC_only DC 7 lctrl 0.978592157364
+zebra56 SNARC_only DC 4 num_delete 0.639474153519

@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1407', 'task': u'line', 'participant': u'szkata', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+szkata SNARC line arabic DC 0 up 2 num_delete 0.761623859406
+szkata SNARC line arabic DC 0 up 7 num_delete 0.455837965012
+szkata SNARC line arabic DC 0 down 6 lctrl 0.441411972046
+szkata SNARC line arabic DC 0 down 5 lctrl 0.43932390213
+szkata SNARC line arabic DC 0 down 7 lctrl 0.496876001358
+szkata SNARC line arabic DC 0 up 9 num_delete 0.488337039948
+szkata SNARC line arabic DC 0 down 6 lctrl 0.5134370327
+szkata SNARC line arabic DC 0 up 1 num_delete 0.552805900574
+szkata SNARC line arabic DC 0 down 2 lctrl 0.56881403923
+szkata SNARC line arabic DC 0 down 3 lctrl 0.51854300499
+szkata SNARC line arabic DC 0 up 7 num_delete 0.376566886902
+szkata SNARC line arabic DC 0 up 1 num_delete 0.385194063187
+szkata SNARC line arabic DC 0 down 2 lctrl 0.488664865494
+szkata SNARC line arabic DC 0 up 7 num_delete 0.624802112579
+szkata SNARC line arabic DC 0 up 7 num_delete 0.520717144012
+szkata SNARC line arabic DC 0 up 9 num_delete 0.537645816803
+szkata SNARC line arabic DC 0 up 5 num_delete 0.496213912964
+szkata SNARC line arabic DC 0 down 2 lctrl 0.513108968735
+szkata SNARC line arabic DC 0 down 7 lctrl 0.825298070908
+szkata SNARC line arabic DC 0 down 1 lctrl 0.432631969452
+szkata SNARC line arabic DC 0 up 8 num_delete 0.367582082748
+szkata SNARC line arabic DC 0 down 1 lctrl 0.329715967178
+szkata SNARC line arabic DC 0 down 8 lctrl 0.345249891281
+szkata SNARC line arabic DC 0 down 6 lctrl 0.36879992485
+szkata SNARC line arabic DC 0 down 5 lctrl 0.400978803635
+szkata SNARC line arabic DC 0 down 3 lctrl 0.44979596138
+szkata SNARC line arabic DC 0 up 9 num_delete 0.576699018478
+szkata SNARC line arabic DC 0 down 8 lctrl 1.35301589966
+szkata SNARC line arabic DC 0 up 1 num_delete 0.520615100861
+szkata SNARC line arabic DC 0 up 6 num_delete 0.488876104355
+szkata SNARC line arabic DC 0 down 2 lctrl 0.505293130875
+szkata SNARC line arabic DC 0 up 3 num_delete 0.432093858719
+szkata SNARC line arabic DC 0 down 9 lctrl 0.520807981491
+szkata SNARC line arabic DC 0 down 7 lctrl 0.393491029739
+szkata SNARC line arabic DC 0 down 7 lctrl 0.472728013992
+szkata SNARC line arabic DC 0 down 6 lctrl 0.392528057098
+szkata SNARC line arabic DC 0 down 9 lctrl 0.368344068527
+szkata SNARC line arabic DC 0 up 4 num_delete 0.487679004669
+szkata SNARC line arabic DC 0 up 9 lctrl 1.04939603806
+szkata SNARC line arabic DC 0 down 4 lctrl 1.38704180717
+szkata SNARC line arabic DC 0 down 9 lctrl 1.64133906364
+szkata SNARC line arabic DC 0 up 7 num_delete 0.656378030777
+szkata SNARC line arabic DC 0 up 9 num_delete 0.440032958984
+szkata SNARC line arabic DC 0 down 1 lctrl 0.561995029449
+szkata SNARC line arabic DC 0 up 8 num_delete 0.424789905548
+szkata SNARC line arabic DC 0 up 1 num_delete 0.488614082336
+szkata SNARC line arabic DC 0 up 2 num_delete 0.511699914932
+szkata SNARC line arabic DC 0 up 1 num_delete 0.463391065598
+szkata SNARC line arabic DC 0 down 5 lctrl 0.504843950272
+szkata SNARC line arabic DC 0 up 6 num_delete 0.446369886398
+szkata SNARC line arabic DC 0 up 7 num_delete 0.464838027954
+szkata SNARC line arabic DC 0 down 8 lctrl 0.407868862152
+szkata SNARC line arabic DC 0 up 7 num_delete 0.440711975098
+szkata SNARC line arabic DC 0 down 1 lctrl 1.072524786
+szkata SNARC line arabic DC 0 down 2 lctrl 0.417500972748
+szkata SNARC line arabic DC 0 up 6 num_delete 0.601274013519
+szkata SNARC line arabic DC 0 up 5 num_delete 0.344487905502
+szkata SNARC line arabic DC 0 up 2 num_delete 0.393104076385
+szkata SNARC line arabic DC 0 down 4 lctrl 0.417321920395
+szkata SNARC line arabic DC 0 up 6 num_delete 0.367994070053
+szkata SNARC line arabic DC 0 up 3 num_delete 0.408215999603
+szkata SNARC line arabic DC 0 up 9 num_delete 0.440494060516
+szkata SNARC line arabic DC 0 up 3 num_delete 0.392581939697
+szkata SNARC line arabic DC 0 down 9 lctrl 0.704828023911
+szkata SNARC line arabic DC 0 down 6 lctrl 1.7934319973
+szkata SNARC line arabic DC 0 down 4 lctrl 0.473025083542
+szkata SNARC line arabic DC 0 up 5 num_delete 0.856072902679
+szkata SNARC line arabic DC 0 up 5 num_delete 0.753417015076
+szkata SNARC line arabic DC 0 up 3 num_delete 1.07005906105
+szkata SNARC line arabic DC 0 up 6 num_delete 0.829822063446
+szkata SNARC line arabic DC 0 down 2 lctrl 0.833379030228
+szkata SNARC line arabic DC 0 up 4 num_delete 0.640538215637
+szkata SNARC line arabic DC 0 up 6 num_delete 1.61736106873
+szkata SNARC line arabic DC 0 up 5 num_delete 0.873020172119
+szkata SNARC line arabic DC 0 up 8 num_delete 0.625385046005
+szkata SNARC line arabic DC 0 down 4 lctrl 0.593063116074
+szkata SNARC line arabic DC 0 down 7 lctrl 0.592936992645
+szkata SNARC line arabic DC 0 down 1 lctrl 0.392889022827
+szkata SNARC line arabic DC 0 up 7 num_delete 0.399792909622
+szkata SNARC line arabic DC 0 up 8 num_delete 0.367836952209
+szkata SNARC line arabic DC 0 down 3 lctrl 0.457453012466
+szkata SNARC line arabic DC 0 up 3 num_delete 0.688540935516
+szkata SNARC line arabic DC 0 up 9 num_delete 0.368830919266
+szkata SNARC line arabic DC 0 up 1 lctrl 0.528990030289
+szkata SNARC line arabic DC 0 down 9 lctrl 0.840880155563
+szkata SNARC line arabic DC 0 up 5 num_delete 0.495912075043
+szkata SNARC line arabic DC 0 down 9 lctrl 0.648446083069
+szkata SNARC line arabic DC 0 up 5 num_delete 0.92018198967
+szkata SNARC line arabic DC 0 down 9 lctrl 0.408592939377
+szkata SNARC line arabic DC 0 down 5 lctrl 1.08851599693
+szkata SNARC line arabic DC 0 up 9 num_delete 0.528258085251
+szkata SNARC line arabic DC 0 up 3 num_delete 0.569028139114
+szkata SNARC line arabic DC 0 up 8 num_delete 0.425426006317
+szkata SNARC line arabic DC 0 down 6 lctrl 0.433777093887
+szkata SNARC line arabic DC 0 down 4 lctrl 0.889178991318
+szkata SNARC line arabic DC 0 down 9 lctrl 0.472497940063
+szkata SNARC line arabic DC 0 up 4 num_delete 0.688724040985
+szkata SNARC line arabic DC 0 down 8 lctrl 0.521692037582
+szkata SNARC line arabic DC 0 down 2 lctrl 0.569553852081
+szkata SNARC line arabic DC 0 down 2 lctrl 0.881245851517
+szkata SNARC line arabic DC 0 up 7 num_delete 0.600581884384
+szkata SNARC line arabic DC 0 up 9 num_delete 0.865154981613
+szkata SNARC line arabic DC 0 down 7 lctrl 0.473094940186
+szkata SNARC line arabic DC 0 down 6 lctrl 0.441076040268
+szkata SNARC line arabic DC 0 up 7 num_delete 0.384095191956
+szkata SNARC line arabic DC 0 up 1 num_delete 0.671705007553
+szkata SNARC line arabic DC 0 down 9 lctrl 0.399356126785
+szkata SNARC line arabic DC 0 up 4 num_delete 0.479887962341
+szkata SNARC line arabic DC 0 up 2 num_delete 0.825345993042
+szkata SNARC line arabic DC 0 up 9 num_delete 0.393295049667
+szkata SNARC line arabic DC 0 down 9 lctrl 0.561091899872
+szkata SNARC line arabic DC 0 up 2 num_delete 0.383847951889
+szkata SNARC line arabic DC 0 down 5 lctrl 0.409144878387
+szkata SNARC line arabic DC 0 down 1 lctrl 1.61716198921
+szkata SNARC line arabic DC 0 up 6 num_delete 0.392414093018
+szkata SNARC line arabic DC 0 down 3 lctrl 0.473105192184
+szkata SNARC line arabic DC 0 down 1 num_delete 0.409193992615
+szkata SNARC line arabic DC 0 up 5 num_delete 0.935786008835
+szkata SNARC line arabic DC 0 down 3 lctrl 0.409568786621
+szkata SNARC line arabic DC 0 down 4 lctrl 0.536278963089
+szkata SNARC line arabic DC 0 up 5 num_delete 1.63299298286
+szkata SNARC line arabic DC 0 up 5 num_delete 0.408246994019
+szkata SNARC line arabic DC 0 up 5 num_delete 0.385136842728
+szkata SNARC line arabic DC 0 up 1 num_delete 0.415648937225
+szkata SNARC line arabic DC 0 up 9 num_delete 0.59240603447
+szkata SNARC line arabic DC 0 down 4 lctrl 0.473554849625
+szkata SNARC line arabic DC 0 down 6 lctrl 0.423751831055
+szkata SNARC line arabic DC 0 down 5 lctrl 0.465271949768
+szkata SNARC line arabic DC 0 down 7 lctrl 0.50453710556
+szkata SNARC line arabic DC 0 up 5 num_delete 0.567476987839
+szkata SNARC line arabic DC 0 up 5 num_delete 0.409679174423
+szkata SNARC line arabic DC 0 up 5 num_delete 0.367444038391
+szkata SNARC line arabic DC 0 up 7 num_delete 0.416912078857
+szkata SNARC line arabic DC 0 down 8 lctrl 0.425495862961
+szkata SNARC line arabic DC 0 up 2 num_delete 0.736776828766
+szkata SNARC line arabic DC 0 down 6 lctrl 0.465502023697
+szkata SNARC line arabic DC 0 down 3 lctrl 0.448544979095
+szkata SNARC line arabic DC 0 up 5 num_delete 0.471276044846
+szkata SNARC line arabic DC 0 down 4 lctrl 0.384995937347
+szkata SNARC line arabic DC 0 down 3 lctrl 0.600243091583
+szkata SNARC line arabic DC 0 down 4 lctrl 0.401069879532
+szkata SNARC line arabic DC 0 up 2 num_delete 0.543841123581
+szkata SNARC line arabic DC 0 down 5 lctrl 0.513225078583
+szkata SNARC line arabic DC 0 up 1 num_delete 0.4096159935
+szkata SNARC line arabic DC 0 down 3 lctrl 0.649335861206
+szkata SNARC line arabic DC 0 up 8 num_delete 0.376586914062
+szkata SNARC line arabic DC 0 down 3 lctrl 0.46522808075
+szkata SNARC line arabic DC 0 down 3 lctrl 0.385245084763
+szkata SNARC line arabic DC 0 down 2 lctrl 0.401371955872
+szkata SNARC line arabic DC 0 down 2 lctrl 0.367027044296
+szkata SNARC line arabic DC 0 down 9 lctrl 0.40012216568
+szkata SNARC line arabic DC 0 down 1 lctrl 0.409159898758
+szkata SNARC line arabic DC 0 up 2 num_delete 0.545305013657
+szkata SNARC line arabic DC 0 up 4 num_delete 0.376171112061
+szkata SNARC line arabic DC 0 down 2 lctrl 0.360913038254
+szkata SNARC line arabic DC 0 down 7 lctrl 0.424962043762
+szkata SNARC line arabic DC 0 down 3 lctrl 0.432744026184
+szkata SNARC line arabic DC 0 down 6 lctrl 0.432780981064
+szkata SNARC line arabic DC 0 down 7 lctrl 0.376960039139
+szkata SNARC line arabic DC 0 up 6 num_delete 0.808126926422
+szkata SNARC line arabic DC 0 down 8 lctrl 0.665923833847
+szkata SNARC line arabic DC 0 down 9 lctrl 0.385126829147
+szkata SNARC line arabic DC 0 down 6 lctrl 0.400946855545
+szkata SNARC line arabic DC 0 up 4 num_delete 0.42401599884
+szkata SNARC line arabic DC 0 down 8 lctrl 0.329014062881
+szkata SNARC line arabic DC 0 up 4 num_delete 0.50412106514
+szkata SNARC line arabic DC 0 down 8 lctrl 0.425049066544
+szkata SNARC line arabic DC 0 up 5 num_delete 0.385047912598
+szkata SNARC line arabic DC 0 down 8 lctrl 0.416532993317
+szkata SNARC line arabic DC 0 up 6 num_delete 0.920927047729
+szkata SNARC line arabic DC 0 up 6 num_delete 0.784931898117
+szkata SNARC line arabic DC 0 up 3 num_delete 0.593032121658
+szkata SNARC line arabic DC 0 up 1 num_delete 0.767857074738
+szkata SNARC line arabic DC 0 down 7 lctrl 0.44980096817
+szkata SNARC line arabic DC 0 down 7 lctrl 0.488597154617
+szkata SNARC line arabic DC 0 up 7 num_delete 0.656772851944
+szkata SNARC line arabic DC 0 up 6 num_delete 1.04037189484
+szkata SNARC line arabic DC 0 down 3 lctrl 0.550319910049
+szkata SNARC line arabic DC 0 up 4 num_delete 0.68833398819
+szkata SNARC line arabic DC 0 down 2 lctrl 0.601763010025
+szkata SNARC line arabic DC 0 up 4 num_delete 0.521021842957
+szkata SNARC line arabic DC 0 down 4 lctrl 0.377696990967
+szkata SNARC line arabic DC 0 up 9 num_delete 0.496681928635
+szkata SNARC line arabic DC 0 up 4 num_delete 0.641224861145
+szkata SNARC line arabic DC 0 down 7 lctrl 0.473778009415
+szkata SNARC line arabic DC 0 down 2 lctrl 0.58524107933
+szkata SNARC line arabic DC 0 down 2 lctrl 0.504517793655
+szkata SNARC line arabic DC 0 down 3 lctrl 0.585453987122
+szkata SNARC line arabic DC 0 down 2 lctrl 0.384927034378
+szkata SNARC line arabic DC 0 down 3 lctrl 0.513303041458
+szkata SNARC line arabic DC 0 up 4 num_delete 1.00888991356
+szkata SNARC line arabic DC 0 down 1 lctrl 0.705910921097
+szkata SNARC line arabic DC 0 up 1 num_delete 0.569399118423
+szkata SNARC line arabic DC 0 up 4 num_delete 0.488497972488
+szkata SNARC line arabic DC 0 up 3 num_delete 0.593027830124
+szkata SNARC line arabic DC 0 up 5 num_delete 0.352847099304
+szkata SNARC line arabic DC 0 down 2 lctrl 0.345004081726
+szkata SNARC line arabic DC 0 up 6 num_delete 0.384593009949
+szkata SNARC line arabic DC 0 down 9 lctrl 0.360744953156
+szkata SNARC line arabic DC 0 up 9 num_delete 0.368067979813
+szkata SNARC line arabic DC 0 up 8 num_delete 0.432953119278
+szkata SNARC line arabic DC 0 up 8 num_delete 0.488675832748
+szkata SNARC line arabic DC 0 up 9 num_delete 0.376803874969
+szkata SNARC line arabic DC 0 down 9 lctrl 0.481678009033
+szkata SNARC line arabic DC 0 down 3 lctrl 0.352550029755
+szkata SNARC line arabic DC 0 down 2 lctrl 0.449346065521
+szkata SNARC line arabic DC 0 down 9 lctrl 0.360311031342
+szkata SNARC line arabic DC 0 down 1 lctrl 0.464871883392
+szkata SNARC line arabic DC 0 up 4 num_delete 0.400318145752
+szkata SNARC line arabic DC 0 down 4 lctrl 0.481412887573
+szkata SNARC line arabic DC 0 up 7 num_delete 0.408177137375
+szkata SNARC line arabic DC 0 up 4 num_delete 0.480918884277
+szkata SNARC line arabic DC 0 up 7 num_delete 0.416692972183
+szkata SNARC line arabic DC 0 up 4 num_delete 0.424601078033
+szkata SNARC line arabic DC 0 down 6 lctrl 0.576499938965
+szkata SNARC line arabic DC 0 up 3 num_delete 0.703071117401
+szkata SNARC line arabic DC 0 down 3 lctrl 2.43394899368
+szkata SNARC line arabic DC 0 down 3 lctrl 3.0095179081
+szkata SNARC line arabic DC 0 up 1 num_delete 0.455040931702
+szkata SNARC line arabic DC 0 down 4 lctrl 0.392753839493
+szkata SNARC line arabic DC 0 down 6 lctrl 1.04830598831
+szkata SNARC line arabic DC 0 down 2 num_delete 0.392668008804
+szkata SNARC line arabic DC 0 up 1 num_delete 0.679980993271
+szkata SNARC line arabic DC 0 down 9 lctrl 0.433089017868
+szkata SNARC line arabic DC 0 down 8 lctrl 0.361348152161
+szkata SNARC line arabic DC 0 down 1 lctrl 0.400389909744
+szkata SNARC line arabic DC 0 up 7 num_delete 0.632707118988
+szkata SNARC line arabic DC 0 down 1 lctrl 0.39339017868
+szkata SNARC line arabic DC 0 down 5 lctrl 0.409267187119
+szkata SNARC line arabic DC 0 up 9 num_delete 0.423691987991
+szkata SNARC line arabic DC 0 up 1 num_delete 0.416890859604
+szkata SNARC line arabic DC 0 up 3 num_delete 0.399572134018
+szkata SNARC line arabic DC 0 up 9 num_delete 0.512619972229
+szkata SNARC line arabic DC 0 up 7 num_delete 0.305759191513
+szkata SNARC line arabic DC 0 down 4 lctrl 0.672988891602
+szkata SNARC line arabic DC 0 down 1 lctrl 0.456918001175
+szkata SNARC line arabic DC 0 up 5 num_delete 0.712555885315
+szkata SNARC line arabic DC 0 up 1 num_delete 0.528719902039
+szkata SNARC line arabic DC 0 up 4 num_delete 0.489098787308
+szkata SNARC line arabic DC 0 down 8 lctrl 0.481444835663
+szkata SNARC line arabic DC 0 down 8 lctrl 0.415489196777
+szkata SNARC line arabic DC 0 down 7 lctrl 0.456171989441
+szkata SNARC line arabic DC 0 down 1 lctrl 0.408966064453
+szkata SNARC line arabic DC 0 down 9 lctrl 0.31196308136
+szkata SNARC line arabic DC 0 up 8 lctrl 0.296590089798
+szkata SNARC line arabic DC 0 down 8 lctrl 0.776635885239
+szkata SNARC line arabic DC 0 down 9 lctrl 0.37674498558
+szkata SNARC line arabic DC 0 up 2 num_delete 0.399804115295
+szkata SNARC line arabic DC 0 up 5 num_delete 0.362012863159
+szkata SNARC line arabic DC 0 up 3 num_delete 0.407261133194
+szkata SNARC line arabic DC 0 down 8 lctrl 0.42470908165
+szkata SNARC line arabic DC 0 up 1 num_delete 0.374835014343
+szkata SNARC line arabic DC 0 down 6 lctrl 0.385437011719
+szkata SNARC line arabic DC 0 down 7 lctrl 0.528934001923
+szkata SNARC line arabic DC 0 down 4 lctrl 1.44050812721
+szkata SNARC line arabic DC 0 up 3 num_delete 0.376357078552
+szkata SNARC line arabic DC 0 down 3 lctrl 0.432722091675
+szkata SNARC line arabic DC 0 up 5 num_delete 0.488698959351
+szkata SNARC line arabic DC 0 up 3 num_delete 0.384716033936
+szkata SNARC line arabic DC 0 up 1 num_delete 0.392942905426
+szkata SNARC line arabic DC 0 down 6 lctrl 0.432945966721
+szkata SNARC line arabic DC 0 down 5 lctrl 0.580124139786
+szkata SNARC line arabic DC 0 down 6 lctrl 4.50152206421
+szkata SNARC line arabic DC 0 up 4 num_delete 0.616109848022
+szkata SNARC line arabic DC 0 up 9 num_delete 0.760954856873
+szkata SNARC line arabic DC 0 up 2 num_delete 0.832855939865
+szkata SNARC line arabic DC 0 down 3 lctrl 0.841043949127
+szkata SNARC line arabic DC 0 up 1 num_delete 1.49543499947
+szkata SNARC line arabic DC 0 up 5 num_delete 0.792200088501
+szkata SNARC line arabic DC 0 up 1 num_delete 0.648940086365
+szkata SNARC line arabic DC 0 up 3 num_delete 0.649040937424
+szkata SNARC line arabic DC 0 down 8 lctrl 0.649423122406
+szkata SNARC line arabic DC 0 down 4 lctrl 1.12804889679
+szkata SNARC line arabic DC 0 up 2 num_delete 0.688022851944
+szkata SNARC line arabic DC 0 down 8 lctrl 0.865597009659
+szkata SNARC line arabic DC 0 down 8 lctrl 0.489984035492
+szkata SNARC line arabic DC 0 down 6 lctrl 0.699192047119
+szkata SNARC line arabic DC 0 down 1 lctrl 0.833019971848
+szkata SNARC line arabic DC 0 down 2 lctrl 0.63639497757
+szkata SNARC line arabic DC 0 down 6 lctrl 0.447638034821
+szkata SNARC line arabic DC 0 down 4 lctrl 0.578904151917
+szkata SNARC line arabic DC 0 up 8 num_delete 0.442989826202
+szkata SNARC line arabic DC 0 up 4 num_delete 0.363910198212
+szkata SNARC line arabic DC 0 up 4 num_delete 0.475277900696
+szkata SNARC line arabic DC 0 up 2 num_delete 0.358180999756
+szkata SNARC line arabic DC 0 up 9 num_delete 0.414355993271
+szkata SNARC line arabic DC 0 up 5 num_delete 0.319266796112
+szkata SNARC line arabic DC 0 up 6 num_delete 0.260145187378
+szkata SNARC line arabic DC 0 down 6 lctrl 0.394653081894
+szkata SNARC line arabic DC 0 down 3 lctrl 0.409384012222
+szkata SNARC line arabic DC 0 down 2 lctrl 0.392746925354
+szkata SNARC line arabic DC 0 up 3 num_delete 0.367640972137
+szkata SNARC line arabic DC 0 down 8 lctrl 0.500213861465
+szkata SNARC line arabic DC 0 down 6 lctrl 0.370964050293
+szkata SNARC line arabic DC 0 up 1 num_delete 0.39461016655
+szkata SNARC line arabic DC 0 up 7 num_delete 0.354809999466
+szkata SNARC line arabic DC 0 down 4 lctrl 0.354002952576
+szkata SNARC line arabic DC 0 down 4 lctrl 0.417495012283
+szkata SNARC line arabic DC 0 down 7 lctrl 0.37690615654
+szkata SNARC line arabic DC 0 down 2 lctrl 0.29723906517
+szkata SNARC line arabic DC 0 down 8 lctrl 0.336365938187
+szkata SNARC line arabic DC 0 down 7 lctrl 0.480834007263
+szkata SNARC line arabic DC 0 up 6 num_delete 0.560418128967
+szkata SNARC line arabic DC 0 up 9 num_delete 0.432582139969
+szkata SNARC line arabic DC 0 up 7 num_delete 0.480706930161
+szkata SNARC line arabic DC 0 up 5 num_delete 0.505183935165
+szkata SNARC line arabic DC 0 up 8 num_delete 0.401237010956
+szkata SNARC line arabic DC 0 down 5 num_delete 0.305820941925
+szkata SNARC line arabic DC 0 down 6 lctrl 0.736490011215
+szkata SNARC line arabic DC 0 up 8 num_delete 0.368063926697
+szkata SNARC line arabic DC 0 up 8 num_delete 0.352923154831
+szkata SNARC line arabic DC 0 down 2 lctrl 0.672532081604
+szkata SNARC line arabic DC 0 up 8 num_delete 0.391143083572
+szkata SNARC line arabic DC 0 down 8 lctrl 0.457060813904
+szkata SNARC line arabic DC 0 up 5 num_delete 0.680760145187
+szkata SNARC line arabic DC 0 up 6 num_delete 0.335820913315
+szkata SNARC line arabic DC 0 down 7 lctrl 0.377142906189
+szkata SNARC line arabic DC 0 up 2 num_delete 0.424331188202
+szkata SNARC line arabic DC 0 down 9 lctrl 0.568364143372
+szkata SNARC line arabic DC 0 up 7 num_delete 0.368014097214
+szkata SNARC line arabic DC 0 down 3 lctrl 0.376343011856
+szkata SNARC line arabic DC 0 down 5 lctrl 0.599936008453
+szkata SNARC line arabic DC 0 up 8 num_delete 0.471758127213
+szkata SNARC line arabic DC 0 down 8 lctrl 0.4975669384
+szkata SNARC line arabic DC 0 down 8 lctrl 0.417327880859
+szkata SNARC line arabic DC 0 up 8 num_delete 0.50367307663
+szkata SNARC line arabic DC 0 down 2 lctrl 0.497498035431
+szkata SNARC line arabic DC 0 up 3 num_delete 0.520195007324
+szkata SNARC line arabic DC 0 down 2 lctrl 0.401512145996
+szkata SNARC line arabic DC 0 up 4 num_delete 0.415215969086
+szkata SNARC line arabic DC 0 up 9 num_delete 0.399755954742
+szkata SNARC line arabic DC 0 down 3 lctrl 0.513389110565
+szkata SNARC line arabic DC 0 down 5 lctrl 0.449240207672
+szkata SNARC line arabic DC 0 down 7 lctrl 0.441298007965
+szkata SNARC line arabic DC 0 down 4 lctrl 0.457035064697
+szkata SNARC line arabic DC 0 up 1 num_delete 0.425247192383
+szkata SNARC line arabic DC 0 up 7 num_delete 0.392492055893
+szkata SNARC line arabic DC 0 up 6 num_delete 0.401277065277
+szkata SNARC line arabic DC 0 up 7 num_delete 0.369168996811
+szkata SNARC line arabic DC 0 down 4 lctrl 0.560005903244
+szkata SNARC line arabic DC 0 down 7 lctrl 0.39312505722
+szkata SNARC line arabic DC 0 down 2 lctrl 0.393002986908
+szkata SNARC line arabic DC 0 up 3 num_delete 0.400109052658
+szkata SNARC line arabic DC 0 down 1 lctrl 0.449072122574
+szkata SNARC line arabic DC 0 up 6 num_delete 0.392205953598
+szkata SNARC line arabic DC 0 down 2 lctrl 1.28082990646
+szkata SNARC line arabic DC 0 down 9 lctrl 0.425336122513
+szkata SNARC line arabic DC 0 down 5 lctrl 0.385350942612
+szkata SNARC line arabic DC 0 down 6 lctrl 0.559788942337
+szkata SNARC line arabic DC 0 down 3 lctrl 0.873446941376
+szkata SNARC line arabic DC 0 up 5 num_delete 0.576038122177
+szkata SNARC line arabic DC 0 up 5 num_delete 0.36071395874
+szkata SNARC line arabic DC 0 up 1 num_delete 0.448410987854
+szkata SNARC line arabic DC 0 up 2 num_delete 0.560523986816
+szkata SNARC line arabic DC 0 down 8 lctrl 0.601423025131
+szkata SNARC line arabic DC 0 up 1 num_delete 0.45645904541
+szkata SNARC line arabic DC 0 up 8 num_delete 0.720991134644
+szkata SNARC line arabic DC 0 down 5 lctrl 0.448333978653
+szkata SNARC line arabic DC 0 down 1 lctrl 0.360566139221
+szkata SNARC line arabic DC 0 up 6 lctrl 0.29695391655
+{'delay': u'0', 'dateStr': u'05_18_1419', 'task': u'line', 'participant': u'szkata', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+szkata SNARC line dot DC 0 down 25 lctrl 2.66093993187
+szkata SNARC line dot DC 0 up 25 num_delete 1.1008849144
+szkata SNARC line dot DC 0 down 20 lctrl 0.797117948532
+szkata SNARC line dot DC 0 down 40 lctrl 0.51381111145
+szkata SNARC line dot DC 0 down 20 lctrl 0.324750900269
+szkata SNARC line dot DC 0 up 40 num_delete 0.54542517662
+szkata SNARC line dot DC 0 up 10 num_delete 0.305469036102
+szkata SNARC line dot DC 0 up 40 num_delete 0.441949129105
+szkata SNARC line dot DC 0 up 20 num_delete 0.340844154358
+szkata SNARC line dot DC 0 up 5 num_delete 0.304268121719
+szkata SNARC line dot DC 0 down 45 lctrl 0.435511827469
+szkata SNARC line dot DC 0 down 35 lctrl 0.345234155655
+szkata SNARC line dot DC 0 down 45 lctrl 0.348823070526
+szkata SNARC line dot DC 0 up 20 num_delete 0.54816198349
+szkata SNARC line dot DC 0 up 35 num_delete 0.624469995499
+szkata SNARC line dot DC 0 down 40 lctrl 0.506428956985
+szkata SNARC line dot DC 0 up 45 num_delete 0.41867685318
+szkata SNARC line dot DC 0 down 35 lctrl 2.56976008415
+szkata SNARC line dot DC 0 down 5 lctrl 0.62434387207
+szkata SNARC line dot DC 0 down 45 lctrl 0.746767997742
+szkata SNARC line dot DC 0 up 25 num_delete 1.01158595085
+szkata SNARC line dot DC 0 up 10 num_delete 0.666033983231
+szkata SNARC line dot DC 0 up 45 num_delete 0.852003097534
+szkata SNARC line dot DC 0 up 10 num_delete 0.681515932083
+szkata SNARC line dot DC 0 down 45 lctrl 0.539263963699
+szkata SNARC line dot DC 0 up 10 num_delete 1.32913613319
+szkata SNARC line dot DC 0 down 30 lctrl 0.519239902496
+szkata SNARC line dot DC 0 up 40 num_delete 1.17011594772
+szkata SNARC line dot DC 0 up 15 num_delete 0.60271692276
+szkata SNARC line dot DC 0 up 30 num_delete 0.399373054504
+szkata SNARC line dot DC 0 down 30 lctrl 0.400093078613
+szkata SNARC line dot DC 0 down 15 lctrl 0.474915981293
+szkata SNARC line dot DC 0 down 5 lctrl 0.344349861145
+szkata SNARC line dot DC 0 up 35 num_delete 1.18407607079
+szkata SNARC line dot DC 0 down 20 lctrl 0.660320997238
+szkata SNARC line dot DC 0 up 35 num_delete 0.695885181427
+szkata SNARC line dot DC 0 down 35 lctrl 1.15322899818
+szkata SNARC line dot DC 0 down 15 lctrl 0.723750114441
+szkata SNARC line dot DC 0 down 25 lctrl 0.421386003494
+szkata SNARC line dot DC 0 up 40 num_delete 0.457545042038
+szkata SNARC line dot DC 0 down 35 num_delete 0.888445854187
+szkata SNARC line dot DC 0 up 10 num_delete 0.636077880859
+szkata SNARC line dot DC 0 down 30 lctrl 0.367427825928
+szkata SNARC line dot DC 0 up 35 num_delete 0.399477958679
+szkata SNARC line dot DC 0 down 45 lctrl 0.482506990433
+szkata SNARC line dot DC 0 down 45 lctrl 0.435459852219
+szkata SNARC line dot DC 0 up 45 num_delete 0.434720039368
+szkata SNARC line dot DC 0 down 45 lctrl 0.979513883591
+szkata SNARC line dot DC 0 up 30 num_delete 0.462082862854
+szkata SNARC line dot DC 0 down 25 lctrl 0.798448085785
+szkata SNARC line dot DC 0 up 20 num_delete 7.63489294052
+szkata SNARC line dot DC 0 up 10 num_delete 0.362384796143
+szkata SNARC line dot DC 0 up 10 num_delete 0.42601108551
+szkata SNARC line dot DC 0 up 45 num_delete 0.363620996475
+szkata SNARC line dot DC 0 down 20 lctrl 0.444420814514
+szkata SNARC line dot DC 0 up 20 num_delete 1.05012989044
+szkata SNARC line dot DC 0 up 25 num_delete 0.293664932251
+szkata SNARC line dot DC 0 down 30 lctrl 0.463452100754
+szkata SNARC line dot DC 0 up 15 num_delete 0.393842935562
+szkata SNARC line dot DC 0 down 10 lctrl 0.434528112411
+szkata SNARC line dot DC 0 up 20 num_delete 0.467968940735
+szkata SNARC line dot DC 0 up 45 num_delete 0.891054868698
+szkata SNARC line dot DC 0 up 45 num_delete 0.835808038712
+szkata SNARC line dot DC 0 down 35 lctrl 2.93693399429
+szkata SNARC line dot DC 0 down 40 lctrl 0.441624879837
+szkata SNARC line dot DC 0 up 30 num_delete 0.438944816589
+szkata SNARC line dot DC 0 down 15 lctrl 0.674116849899
+szkata SNARC line dot DC 0 down 5 lctrl 0.839761972427
+szkata SNARC line dot DC 0 up 45 num_delete 0.746949911118
+szkata SNARC line dot DC 0 down 30 lctrl 0.568164110184
+szkata SNARC line dot DC 0 up 35 num_delete 0.552170038223
+szkata SNARC line dot DC 0 up 15 num_delete 0.506974935532
+szkata SNARC line dot DC 0 down 35 lctrl 0.536868095398
+szkata SNARC line dot DC 0 down 40 lctrl 0.617966890335
+szkata SNARC line dot DC 0 up 10 num_delete 0.585865020752
+szkata SNARC line dot DC 0 up 45 num_delete 0.547834873199
+szkata SNARC line dot DC 0 up 30 num_delete 0.574752092361
+szkata SNARC line dot DC 0 down 5 lctrl 0.536245107651
+szkata SNARC line dot DC 0 down 10 lctrl 0.449591875076
+szkata SNARC line dot DC 0 down 5 lctrl 0.336490869522
+szkata SNARC line dot DC 0 down 25 lctrl 0.429691076279
+szkata SNARC line dot DC 0 up 40 num_delete 0.490568876266
+szkata SNARC line dot DC 0 down 15 lctrl 0.722340106964
+szkata SNARC line dot DC 0 up 20 num_delete 0.675957918167
+szkata SNARC line dot DC 0 down 20 lctrl 0.444791078568
+szkata SNARC line dot DC 0 down 35 lctrl 0.385282993317
+szkata SNARC line dot DC 0 up 35 lctrl 0.328505039215
+szkata SNARC line dot DC 0 up 45 num_delete 0.409339904785
+szkata SNARC line dot DC 0 down 45 lctrl 0.507939100266
+szkata SNARC line dot DC 0 down 45 lctrl 1.25910210609
+szkata SNARC line dot DC 0 down 10 lctrl 0.785031080246
+szkata SNARC line dot DC 0 down 35 lctrl 0.369556903839
+szkata SNARC line dot DC 0 up 30 num_delete 0.582252025604
+szkata SNARC line dot DC 0 down 15 lctrl 0.37162399292
+szkata SNARC line dot DC 0 up 30 num_delete 0.310334920883
+szkata SNARC line dot DC 0 down 25 lctrl 0.366863965988
+szkata SNARC line dot DC 0 down 40 lctrl 0.353953838348
+szkata SNARC line dot DC 0 down 15 lctrl 0.371459007263
+szkata SNARC line dot DC 0 up 10 num_delete 0.321300983429
+szkata SNARC line dot DC 0 down 30 lctrl 0.615579843521
+szkata SNARC line dot DC 0 up 20 lctrl 0.412711143494
+szkata SNARC line dot DC 0 up 10 num_delete 0.471551895142
+szkata SNARC line dot DC 0 down 20 lctrl 0.371845006943
+szkata SNARC line dot DC 0 up 30 num_delete 0.365447998047
+szkata SNARC line dot DC 0 up 10 num_delete 0.329746007919
+szkata SNARC line dot DC 0 down 40 lctrl 0.355204105377
+szkata SNARC line dot DC 0 up 30 num_delete 0.494401931763
+szkata SNARC line dot DC 0 up 20 num_delete 0.333070039749
+szkata SNARC line dot DC 0 down 30 num_delete 0.630755901337
+szkata SNARC line dot DC 0 down 25 lctrl 0.902284860611
+szkata SNARC line dot DC 0 down 20 lctrl 0.420080900192
+szkata SNARC line dot DC 0 down 20 lctrl 0.388049840927
+szkata SNARC line dot DC 0 up 30 num_delete 0.358224868774
+szkata SNARC line dot DC 0 down 35 lctrl 0.480838060379
+szkata SNARC line dot DC 0 up 15 num_delete 0.322402000427
+szkata SNARC line dot DC 0 up 5 lctrl 0.465376853943
+szkata SNARC line dot DC 0 up 25 num_delete 0.525010108948
+szkata SNARC line dot DC 0 down 10 lctrl 0.442242860794
+szkata SNARC line dot DC 0 up 25 num_delete 0.429275989532
+szkata SNARC line dot DC 0 down 5 lctrl 2.96911907196
+szkata SNARC line dot DC 0 down 5 lctrl 0.471573114395
+szkata SNARC line dot DC 0 up 25 num_delete 0.629389047623
+szkata SNARC line dot DC 0 up 15 num_delete 0.491427183151
+szkata SNARC line dot DC 0 up 35 num_delete 1.36825704575
+szkata SNARC line dot DC 0 down 15 lctrl 1.59476113319
+szkata SNARC line dot DC 0 down 20 lctrl 0.941760063171
+szkata SNARC line dot DC 0 down 35 lctrl 0.503226995468
+szkata SNARC line dot DC 0 down 15 lctrl 0.435769081116
+szkata SNARC line dot DC 0 up 5 num_delete 0.655261039734
+szkata SNARC line dot DC 0 down 35 lctrl 0.392696142197
+szkata SNARC line dot DC 0 down 30 lctrl 0.455758094788
+szkata SNARC line dot DC 0 up 15 num_delete 0.34753203392
+szkata SNARC line dot DC 0 up 25 num_delete 0.413051128387
+szkata SNARC line dot DC 0 down 25 lctrl 0.455221176147
+szkata SNARC line dot DC 0 up 30 num_delete 0.414942026138
+szkata SNARC line dot DC 0 down 20 lctrl 1.56473994255
+szkata SNARC line dot DC 0 up 35 num_delete 0.44788813591
+szkata SNARC line dot DC 0 down 5 lctrl 0.408102989197
+szkata SNARC line dot DC 0 down 10 lctrl 0.431859970093
+szkata SNARC line dot DC 0 up 30 num_delete 0.374144077301
+szkata SNARC line dot DC 0 up 25 num_delete 0.637685060501
+szkata SNARC line dot DC 0 down 30 lctrl 0.615401983261
+szkata SNARC line dot DC 0 down 10 lctrl 0.377994060516
+szkata SNARC line dot DC 0 down 45 lctrl 0.388319969177
+szkata SNARC line dot DC 0 up 25 num_delete 1.56449890137
+szkata SNARC line dot DC 0 down 15 lctrl 0.363493919373
+szkata SNARC line dot DC 0 up 5 lctrl 0.384248971939
+szkata SNARC line dot DC 0 up 20 num_delete 0.466650009155
+szkata SNARC line dot DC 0 up 35 num_delete 0.544816970825
+szkata SNARC line dot DC 0 up 20 num_delete 0.332857131958
+szkata SNARC line dot DC 0 down 40 lctrl 0.409988880157
+szkata SNARC line dot DC 0 down 10 lctrl 0.417792081833
+szkata SNARC line dot DC 0 down 35 lctrl 0.385366916656
+szkata SNARC line dot DC 0 up 15 num_delete 0.666290044785
+szkata SNARC line dot DC 0 down 10 lctrl 1.10553097725
+szkata SNARC line dot DC 0 up 15 num_delete 0.57763004303
+szkata SNARC line dot DC 0 up 20 num_delete 0.811242103577
+szkata SNARC line dot DC 0 up 15 num_delete 0.714870929718
+szkata SNARC line dot DC 0 up 40 num_delete 0.649615049362
+szkata SNARC line dot DC 0 up 10 num_delete 0.720404863358
+szkata SNARC line dot DC 0 up 5 num_delete 0.600419044495
+szkata SNARC line dot DC 0 up 5 num_delete 0.447938919067
+szkata SNARC line dot DC 0 up 10 num_delete 0.490188121796
+szkata SNARC line dot DC 0 down 5 num_delete 0.360749959946
+szkata SNARC line dot DC 0 up 20 num_delete 0.355694055557
+szkata SNARC line dot DC 0 down 10 lctrl 0.44250202179
+szkata SNARC line dot DC 0 down 10 lctrl 0.489866018295
+szkata SNARC line dot DC 0 up 5 num_delete 0.471926927567
+szkata SNARC line dot DC 0 down 35 lctrl 1.46538901329
+szkata SNARC line dot DC 0 up 10 num_delete 0.520805835724
+szkata SNARC line dot DC 0 up 40 num_delete 3.36188912392
+szkata SNARC line dot DC 0 up 30 num_delete 1.31112980843
+szkata SNARC line dot DC 0 up 25 num_delete 1.00528502464
+szkata SNARC line dot DC 0 up 40 num_delete 0.442416906357
+szkata SNARC line dot DC 0 down 40 lctrl 0.808938980103
+szkata SNARC line dot DC 0 down 45 lctrl 0.730985164642
+szkata SNARC line dot DC 0 down 40 lctrl 0.737004995346
+szkata SNARC line dot DC 0 up 15 num_delete 0.658575057983
+szkata SNARC line dot DC 0 down 15 lctrl 0.556214094162
+szkata SNARC line dot DC 0 down 10 lctrl 0.425839185715
+szkata SNARC line dot DC 0 up 30 num_delete 0.749429941177
+szkata SNARC line dot DC 0 up 20 num_delete 0.420845031738
+szkata SNARC line dot DC 0 down 25 lctrl 0.48593211174
+szkata SNARC line dot DC 0 up 25 num_delete 0.645714044571
+szkata SNARC line dot DC 0 up 25 num_delete 0.622045993805
+szkata SNARC line dot DC 0 down 40 lctrl 0.897705793381
+szkata SNARC line dot DC 0 down 15 lctrl 0.675687074661
+szkata SNARC line dot DC 0 up 10 num_delete 1.18594694138
+szkata SNARC line dot DC 0 down 40 lctrl 4.1610929966
+szkata SNARC line dot DC 0 down 15 lctrl 0.57981300354
+szkata SNARC line dot DC 0 down 45 lctrl 0.626991987228
+szkata SNARC line dot DC 0 down 5 lctrl 0.66473698616
+szkata SNARC line dot DC 0 up 45 num_delete 0.747572898865
+szkata SNARC line dot DC 0 up 15 num_delete 1.27456307411
+szkata SNARC line dot DC 0 down 5 lctrl 3.57648301125
+szkata SNARC line dot DC 0 down 20 lctrl 0.46071100235
+szkata SNARC line dot DC 0 up 5 num_delete 0.592010974884
+szkata SNARC line dot DC 0 down 30 lctrl 1.41598701477
+szkata SNARC line dot DC 0 up 35 lctrl 1.69635891914
+szkata SNARC line dot DC 0 up 35 num_delete 0.528494119644
+szkata SNARC line dot DC 0 down 35 lctrl 2.24953007698
+szkata SNARC line dot DC 0 down 40 lctrl 0.369821071625
+szkata SNARC line dot DC 0 up 35 num_delete 1.42463994026
+szkata SNARC line dot DC 0 down 40 lctrl 1.30571579933
+szkata SNARC line dot DC 0 down 25 lctrl 0.33384513855
+szkata SNARC line dot DC 0 down 25 lctrl 0.494072914124
+szkata SNARC line dot DC 0 down 30 lctrl 0.351912975311
+szkata SNARC line dot DC 0 down 25 lctrl 0.341108083725
+szkata SNARC line dot DC 0 down 15 lctrl 0.339198827744
+szkata SNARC line dot DC 0 up 40 num_delete 1.46565294266
+szkata SNARC line dot DC 0 up 25 num_delete 0.325026035309
+szkata SNARC line dot DC 0 down 45 lctrl 1.46733403206
+szkata SNARC line dot DC 0 up 10 num_delete 1.21735095978
+szkata SNARC line dot DC 0 up 45 num_delete 0.426488876343
+szkata SNARC line dot DC 0 up 35 num_delete 0.327991008759
+szkata SNARC line dot DC 0 up 15 num_delete 0.331341981888
+szkata SNARC line dot DC 0 up 25 num_delete 0.349869012833
+szkata SNARC line dot DC 0 up 15 num_delete 0.315324068069
+szkata SNARC line dot DC 0 up 5 num_delete 0.312762975693
+szkata SNARC line dot DC 0 up 10 num_delete 0.337303161621
+szkata SNARC line dot DC 0 down 5 lctrl 1.5286359787
+szkata SNARC line dot DC 0 up 40 num_delete 1.16660904884
+szkata SNARC line dot DC 0 down 25 lctrl 1.07870101929
+szkata SNARC line dot DC 0 down 15 lctrl 0.474666118622
+szkata SNARC line dot DC 0 down 40 lctrl 0.385305166245
+szkata SNARC line dot DC 0 up 5 num_delete 2.02430891991
+szkata SNARC line dot DC 0 up 35 num_delete 0.471482992172
+szkata SNARC line dot DC 0 up 35 num_delete 0.488730192184
+szkata SNARC line dot DC 0 down 35 lctrl 1.56092691422
+szkata SNARC line dot DC 0 down 5 lctrl 0.38457608223
+szkata SNARC line dot DC 0 down 10 lctrl 0.4264960289
+szkata SNARC line dot DC 0 down 10 lctrl 0.393006086349
+szkata SNARC line dot DC 0 down 40 lctrl 0.441195964813
+szkata SNARC line dot DC 0 up 20 num_delete 0.507776021957
+szkata SNARC line dot DC 0 down 25 lctrl 0.406220912933
+szkata SNARC line dot DC 0 down 45 lctrl 0.474915027618
+szkata SNARC line dot DC 0 up 25 num_delete 0.4459400177
+szkata SNARC line dot DC 0 up 5 num_delete 0.511135816574
+szkata SNARC line dot DC 0 down 35 lctrl 0.432765007019
+szkata SNARC line dot DC 0 up 25 num_delete 0.65407204628
+szkata SNARC line dot DC 0 up 25 num_delete 0.38206410408
+szkata SNARC line dot DC 0 down 20 lctrl 0.572389125824
+szkata SNARC line dot DC 0 up 30 num_delete 0.608037948608
+szkata SNARC line dot DC 0 down 20 num_delete 0.586355924606
+szkata SNARC line dot DC 0 down 45 lctrl 0.419418811798
+szkata SNARC line dot DC 0 up 20 num_delete 0.539201021194
+szkata SNARC line dot DC 0 down 25 lctrl 0.78165102005
+szkata SNARC line dot DC 0 down 45 lctrl 0.42738199234
+szkata SNARC line dot DC 0 up 25 num_delete 0.516834974289
+szkata SNARC line dot DC 0 down 10 lctrl 0.962507963181
+szkata SNARC line dot DC 0 up 5 num_delete 0.424140930176
+szkata SNARC line dot DC 0 down 25 lctrl 0.966580867767
+szkata SNARC line dot DC 0 up 30 num_delete 0.44695186615
+szkata SNARC line dot DC 0 down 5 lctrl 0.449370861053
+szkata SNARC line dot DC 0 down 15 lctrl 0.602728128433
+szkata SNARC line dot DC 0 up 25 num_delete 0.573446989059
+szkata SNARC line dot DC 0 up 5 num_delete 0.552121162415
+szkata SNARC line dot DC 0 down 40 lctrl 0.458777189255
+szkata SNARC line dot DC 0 down 5 lctrl 0.7848508358
+szkata SNARC line dot DC 0 up 20 num_delete 0.96390581131
+szkata SNARC line dot DC 0 up 10 num_delete 0.361736059189
+szkata SNARC line dot DC 0 down 45 lctrl 0.412271022797
+szkata SNARC line dot DC 0 down 20 lctrl 1.02002096176
+szkata SNARC line dot DC 0 up 15 num_delete 0.514517068863
+szkata SNARC line dot DC 0 up 10 num_delete 0.426102876663
+szkata SNARC line dot DC 0 up 20 num_delete 0.372053146362
+szkata SNARC line dot DC 0 down 15 lctrl 0.371789932251
+szkata SNARC line dot DC 0 down 25 num_delete 0.39777302742
+szkata SNARC line dot DC 0 up 30 num_delete 0.390944004059
+szkata SNARC line dot DC 0 up 5 num_delete 0.400367021561
+szkata SNARC line dot DC 0 up 10 num_delete 2.07388997078
+szkata SNARC line dot DC 0 down 15 lctrl 0.875365972519
+szkata SNARC line dot DC 0 up 45 num_delete 0.674747943878
+szkata SNARC line dot DC 0 down 40 lctrl 0.851322889328
+szkata SNARC line dot DC 0 down 40 lctrl 0.80189204216
+szkata SNARC line dot DC 0 down 45 lctrl 0.804072856903
+szkata SNARC line dot DC 0 up 40 num_delete 0.472754955292
+szkata SNARC line dot DC 0 down 10 lctrl 0.72945189476
+szkata SNARC line dot DC 0 down 45 lctrl 0.594680070877
+szkata SNARC line dot DC 0 up 15 num_delete 0.595266103745
+szkata SNARC line dot DC 0 up 5 num_delete 0.512475967407
+szkata SNARC line dot DC 0 up 35 num_delete 22.1448841095
+szkata SNARC line dot DC 0 down 45 lctrl 0.390674114227
+szkata SNARC line dot DC 0 down 35 lctrl 0.401096105576
+szkata SNARC line dot DC 0 down 45 lctrl 0.370796918869
+szkata SNARC line dot DC 0 up 25 num_delete 0.930116176605
+szkata SNARC line dot DC 0 down 30 lctrl 0.406584024429
+szkata SNARC line dot DC 0 up 20 num_delete 0.595498085022
+szkata SNARC line dot DC 0 up 5 num_delete 0.696429014206
+szkata SNARC line dot DC 0 down 45 lctrl 0.427582979202
+szkata SNARC line dot DC 0 down 40 lctrl 0.481533050537
+szkata SNARC line dot DC 0 up 35 num_delete 1.95228600502
+szkata SNARC line dot DC 0 up 40 num_delete 1.27441000938
+szkata SNARC line dot DC 0 up 15 num_delete 0.347053050995
+szkata SNARC line dot DC 0 up 5 num_delete 0.904838085175
+szkata SNARC line dot DC 0 up 10 num_delete 2.62531018257
+szkata SNARC line dot DC 0 down 35 lctrl 1.10477113724
+szkata SNARC line dot DC 0 down 40 lctrl 0.481481075287
+szkata SNARC line dot DC 0 up 45 num_delete 1.8574950695
+szkata SNARC line dot DC 0 up 5 num_delete 0.799268007278
+szkata SNARC line dot DC 0 down 35 lctrl 0.585114955902
+szkata SNARC line dot DC 0 down 15 lctrl 0.403609037399
+szkata SNARC line dot DC 0 up 5 num_delete 0.416657924652
+szkata SNARC line dot DC 0 up 30 num_delete 0.37575006485
+szkata SNARC line dot DC 0 up 35 num_delete 0.528309106827
+szkata SNARC line dot DC 0 down 20 lctrl 0.63712310791
+szkata SNARC line dot DC 0 up 20 num_delete 0.45089507103
+szkata SNARC line dot DC 0 up 15 num_delete 0.612142086029
+szkata SNARC line dot DC 0 up 25 num_delete 0.492937088013
+szkata SNARC line dot DC 0 down 40 lctrl 0.521947145462
+szkata SNARC line dot DC 0 down 30 lctrl 0.463323116302
+szkata SNARC line dot DC 0 up 30 num_delete 0.375529050827
+szkata SNARC line dot DC 0 up 5 num_delete 0.384123086929
+szkata SNARC line dot DC 0 up 45 num_delete 0.330814123154
+szkata SNARC line dot DC 0 down 40 lctrl 0.642058134079
+szkata SNARC line dot DC 0 up 25 num_delete 0.541866064072
+szkata SNARC line dot DC 0 up 30 num_delete 0.335655927658
+szkata SNARC line dot DC 0 down 40 lctrl 0.394040107727
+szkata SNARC line dot DC 0 down 40 lctrl 0.442260980606
+szkata SNARC line dot DC 0 down 20 lctrl 0.42836689949
+szkata SNARC line dot DC 0 down 25 lctrl 0.389168977737
+szkata SNARC line dot DC 0 up 5 num_delete 0.439749956131
+szkata SNARC line dot DC 0 down 5 lctrl 0.400915145874
+szkata SNARC line dot DC 0 up 5 num_delete 0.328263998032
+szkata SNARC line dot DC 0 down 30 lctrl 0.462656021118
+szkata SNARC line dot DC 0 up 30 num_delete 0.557583093643
+szkata SNARC line dot DC 0 down 15 lctrl 0.418706893921
+szkata SNARC line dot DC 0 down 40 lctrl 0.38663482666
+szkata SNARC line dot DC 0 up 10 num_delete 0.337605953217
+szkata SNARC line dot DC 0 up 10 num_delete 0.345623970032
+szkata SNARC line dot DC 0 down 15 lctrl 0.386950969696
+szkata SNARC line dot DC 0 up 15 num_delete 0.418963909149
+szkata SNARC line dot DC 0 up 45 num_delete 0.465843200684
+szkata SNARC line dot DC 0 down 45 lctrl 0.395581960678
+szkata SNARC line dot DC 0 down 20 lctrl 0.436845064163
+szkata SNARC line dot DC 0 up 10 num_delete 0.601298093796
+szkata SNARC line dot DC 0 up 35 num_delete 0.528023958206
+szkata SNARC line dot DC 0 down 40 lctrl 0.450886964798
+szkata SNARC line dot DC 0 up 20 num_delete 0.387567996979
+szkata SNARC line dot DC 0 down 15 lctrl 0.419526100159
+szkata SNARC line dot DC 0 up 25 num_delete 0.381182909012
+szkata SNARC line dot DC 0 down 30 lctrl 0.60843205452
+szkata SNARC line dot DC 0 down 45 lctrl 0.634824037552
+szkata SNARC line dot DC 0 up 10 num_delete 0.689257144928
+szkata SNARC line dot DC 0 up 40 num_delete 0.745637178421
+szkata SNARC line dot DC 0 down 20 num_delete 0.420523166656
+szkata SNARC line dot DC 0 down 30 lctrl 0.383496046066
+szkata SNARC line dot DC 0 up 5 num_delete 0.48730301857
+szkata SNARC line dot DC 0 down 20 lctrl 0.380714893341
+szkata SNARC line dot DC 0 down 40 lctrl 0.370077133179
+szkata SNARC line dot DC 0 down 45 lctrl 0.380125999451
+szkata SNARC line dot DC 0 down 30 lctrl 0.319106817245
+szkata SNARC line dot DC 0 down 30 lctrl 0.33512711525
+szkata SNARC line dot DC 0 up 35 lctrl 0.296766042709
+szkata SNARC line dot DC 0 up 30 num_delete 0.371603965759
+szkata SNARC line dot DC 0 down 15 lctrl 0.683043956757
+szkata SNARC line dot DC 0 up 20 lctrl 0.364084005356
+szkata SNARC line dot DC 0 up 5 num_delete 0.51140499115
+szkata SNARC line dot DC 0 up 30 num_delete 0.390856981277
+szkata SNARC line dot DC 0 up 35 num_delete 0.361036062241
+{'delay': u'0', 'dateStr': u'05_18_1432', 'task': u'line', 'participant': u'szkata', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+szkata SNARC line arabic CD 0 up 1 lctrl 2.73585009575
+szkata SNARC line arabic CD 0 down 9 num_delete 1.15083408356
+szkata SNARC line arabic CD 0 up 5 lctrl 0.592438936234
+szkata SNARC line arabic CD 0 up 3 lctrl 0.440265893936
+szkata SNARC line arabic CD 0 down 9 num_delete 0.416368961334
+szkata SNARC line arabic CD 0 up 9 lctrl 0.441498041153
+szkata SNARC line arabic CD 0 up 3 lctrl 0.382777929306
+szkata SNARC line arabic CD 0 down 4 num_delete 0.559199094772
+szkata SNARC line arabic CD 0 up 8 lctrl 0.471476078033
+szkata SNARC line arabic CD 0 up 5 lctrl 0.424669027328
+szkata SNARC line arabic CD 0 down 4 num_delete 0.400416851044
+szkata SNARC line arabic CD 0 down 7 num_delete 0.630481958389
+szkata SNARC line arabic CD 0 up 7 lctrl 9.96891617775
+szkata SNARC line arabic CD 0 down 7 num_delete 1.42441391945
+szkata SNARC line arabic CD 0 up 1 lctrl 0.512965202332
+szkata SNARC line arabic CD 0 down 2 num_delete 0.479165077209
+szkata SNARC line arabic CD 0 down 4 num_delete 0.416483879089
+szkata SNARC line arabic CD 0 up 2 lctrl 0.617563962936
+szkata SNARC line arabic CD 0 up 5 lctrl 0.49728012085
+szkata SNARC line arabic CD 0 up 5 lctrl 0.823648929596
+szkata SNARC line arabic CD 0 up 7 lctrl 7.56891202927
+szkata SNARC line arabic CD 0 up 4 lctrl 0.473119020462
+szkata SNARC line arabic CD 0 up 2 lctrl 0.328680992126
+szkata SNARC line arabic CD 0 down 4 num_delete 0.585119009018
+szkata SNARC line arabic CD 0 down 9 num_delete 5.08936691284
+szkata SNARC line arabic CD 0 down 1 num_delete 0.624147176743
+szkata SNARC line arabic CD 0 down 5 num_delete 0.537039041519
+szkata SNARC line arabic CD 0 down 5 num_delete 1.69726991653
+szkata SNARC line arabic CD 0 down 2 num_delete 0.401286840439
+szkata SNARC line arabic CD 0 up 2 num_delete 0.360790014267
+szkata SNARC line arabic CD 0 up 8 lctrl 1.17723798752
+szkata SNARC line arabic CD 0 down 8 num_delete 1.5122988224
+szkata SNARC line arabic CD 0 up 3 lctrl 1.44123196602
+szkata SNARC line arabic CD 0 up 4 lctrl 6.2810280323
+szkata SNARC line arabic CD 0 up 8 lctrl 0.423763036728
+szkata SNARC line arabic CD 0 up 6 lctrl 0.479408979416
+szkata SNARC line arabic CD 0 up 2 lctrl 7.28926086426
+szkata SNARC line arabic CD 0 up 7 lctrl 0.649186849594
+szkata SNARC line arabic CD 0 up 3 lctrl 0.433275938034
+szkata SNARC line arabic CD 0 up 4 lctrl 0.368327140808
+szkata SNARC line arabic CD 0 up 4 lctrl 0.409039020538
+szkata SNARC line arabic CD 0 down 4 num_delete 0.551660060883
+szkata SNARC line arabic CD 0 down 4 num_delete 0.392215013504
+szkata SNARC line arabic CD 0 up 9 lctrl 0.417346954346
+szkata SNARC line arabic CD 0 down 7 lctrl 0.40034198761
+szkata SNARC line arabic CD 0 up 5 lctrl 1.12840604782
+szkata SNARC line arabic CD 0 up 4 lctrl 0.417149066925
+szkata SNARC line arabic CD 0 up 1 lctrl 0.377454996109
+szkata SNARC line arabic CD 0 down 1 num_delete 0.376002073288
+szkata SNARC line arabic CD 0 up 4 num_delete 0.872689008713
+szkata SNARC line arabic CD 0 down 5 num_delete 0.77712392807
+szkata SNARC line arabic CD 0 down 4 num_delete 0.471719026566
+szkata SNARC line arabic CD 0 up 7 lctrl 0.353431940079
+szkata SNARC line arabic CD 0 up 3 lctrl 0.288841962814
+szkata SNARC line arabic CD 0 down 2 num_delete 0.369009017944
+szkata SNARC line arabic CD 0 up 1 lctrl 0.472804784775
+szkata SNARC line arabic CD 0 down 5 num_delete 0.41642999649
+szkata SNARC line arabic CD 0 down 3 num_delete 0.416886091232
+szkata SNARC line arabic CD 0 down 9 num_delete 2.18466591835
+szkata SNARC line arabic CD 0 up 2 lctrl 0.441707849503
+szkata SNARC line arabic CD 0 down 9 num_delete 0.35944890976
+szkata SNARC line arabic CD 0 up 3 lctrl 0.415721893311
+szkata SNARC line arabic CD 0 up 1 lctrl 12.6809210777
+szkata SNARC line arabic CD 0 down 5 num_delete 4.19219088554
+szkata SNARC line arabic CD 0 down 5 num_delete 0.344017982483
+szkata SNARC line arabic CD 0 down 7 lctrl 0.425178050995
+szkata SNARC line arabic CD 0 down 1 num_delete 0.591568946838
+szkata SNARC line arabic CD 0 down 8 num_delete 0.456304073334
+szkata SNARC line arabic CD 0 down 1 num_delete 0.42444896698
+szkata SNARC line arabic CD 0 down 9 num_delete 0.332250118256
+szkata SNARC line arabic CD 0 up 4 lctrl 0.433227062225
+szkata SNARC line arabic CD 0 up 8 lctrl 0.345329046249
+szkata SNARC line arabic CD 0 up 2 lctrl 0.408744096756
+szkata SNARC line arabic CD 0 up 1 lctrl 0.416332006454
+szkata SNARC line arabic CD 0 up 9 lctrl 0.375262975693
+szkata SNARC line arabic CD 0 up 2 lctrl 0.328881978989
+szkata SNARC line arabic CD 0 up 3 lctrl 0.416697978973
+szkata SNARC line arabic CD 0 down 9 num_delete 0.769038200378
+szkata SNARC line arabic CD 0 down 4 num_delete 0.416049957275
+szkata SNARC line arabic CD 0 down 1 num_delete 1.21627998352
+szkata SNARC line arabic CD 0 up 2 lctrl 1.19279384613
+szkata SNARC line arabic CD 0 down 4 num_delete 0.560132980347
+szkata SNARC line arabic CD 0 down 4 num_delete 0.408274173737
+szkata SNARC line arabic CD 0 down 7 num_delete 0.487879991531
+szkata SNARC line arabic CD 0 down 9 num_delete 0.416385889053
+szkata SNARC line arabic CD 0 down 7 num_delete 0.353194952011
+szkata SNARC line arabic CD 0 up 1 lctrl 0.681423187256
+szkata SNARC line arabic CD 0 down 4 num_delete 0.455358982086
+szkata SNARC line arabic CD 0 down 5 num_delete 0.456519126892
+szkata SNARC line arabic CD 0 up 8 lctrl 0.490405082703
+szkata SNARC line arabic CD 0 up 2 lctrl 0.457118034363
+szkata SNARC line arabic CD 0 up 5 lctrl 1.10399794579
+szkata SNARC line arabic CD 0 down 2 num_delete 0.856130838394
+szkata SNARC line arabic CD 0 down 2 num_delete 0.496847867966
+szkata SNARC line arabic CD 0 up 7 lctrl 0.505436897278
+szkata SNARC line arabic CD 0 down 4 num_delete 0.352380037308
+szkata SNARC line arabic CD 0 up 1 lctrl 0.505096912384
+szkata SNARC line arabic CD 0 down 9 num_delete 0.286859035492
+szkata SNARC line arabic CD 0 down 1 num_delete 0.51341509819
+szkata SNARC line arabic CD 0 down 5 num_delete 0.392462015152
+szkata SNARC line arabic CD 0 down 5 num_delete 0.528047084808
+szkata SNARC line arabic CD 0 down 2 num_delete 0.441010951996
+szkata SNARC line arabic CD 0 up 3 lctrl 0.57698392868
+szkata SNARC line arabic CD 0 up 8 num_delete 0.304188013077
+szkata SNARC line arabic CD 0 up 9 lctrl 0.416756868362
+szkata SNARC line arabic CD 0 up 3 lctrl 0.37623500824
+szkata SNARC line arabic CD 0 down 7 num_delete 0.58452296257
+szkata SNARC line arabic CD 0 up 3 lctrl 0.841262102127
+szkata SNARC line arabic CD 0 up 7 lctrl 4.72942304611
+szkata SNARC line arabic CD 0 up 4 lctrl 0.360778093338
+szkata SNARC line arabic CD 0 down 8 num_delete 0.440551042557
+szkata SNARC line arabic CD 0 up 9 lctrl 0.353744029999
+szkata SNARC line arabic CD 0 down 6 num_delete 0.47178196907
+szkata SNARC line arabic CD 0 up 2 lctrl 2.11271905899
+szkata SNARC line arabic CD 0 up 6 lctrl 0.335793972015
+szkata SNARC line arabic CD 0 down 6 num_delete 0.39168715477
+szkata SNARC line arabic CD 0 up 6 lctrl 0.608697891235
+szkata SNARC line arabic CD 0 up 1 lctrl 0.400416135788
+szkata SNARC line arabic CD 0 up 1 lctrl 0.408712148666
+szkata SNARC line arabic CD 0 up 8 num_delete 0.384716033936
+szkata SNARC line arabic CD 0 down 7 num_delete 0.743655920029
+szkata SNARC line arabic CD 0 up 6 lctrl 0.369658946991
+szkata SNARC line arabic CD 0 down 5 num_delete 0.400724887848
+szkata SNARC line arabic CD 0 down 6 num_delete 0.383502006531
+szkata SNARC line arabic CD 0 down 8 num_delete 0.38445687294
+szkata SNARC line arabic CD 0 up 9 lctrl 0.448594093323
+szkata SNARC line arabic CD 0 up 8 lctrl 0.456774950027
+szkata SNARC line arabic CD 0 down 7 num_delete 0.543962955475
+szkata SNARC line arabic CD 0 up 3 lctrl 0.992615938187
+szkata SNARC line arabic CD 0 down 8 num_delete 0.527708053589
+szkata SNARC line arabic CD 0 down 3 num_delete 0.425108194351
+szkata SNARC line arabic CD 0 down 8 num_delete 0.39293885231
+szkata SNARC line arabic CD 0 up 9 lctrl 0.808609008789
+szkata SNARC line arabic CD 0 up 1 lctrl 0.464594125748
+szkata SNARC line arabic CD 0 up 5 lctrl 0.497177124023
+szkata SNARC line arabic CD 0 down 6 lctrl 3.8011879921
+szkata SNARC line arabic CD 0 up 8 lctrl 1.18492889404
+szkata SNARC line arabic CD 0 up 1 lctrl 0.401348114014
+szkata SNARC line arabic CD 0 up 3 lctrl 0.344433069229
+szkata SNARC line arabic CD 0 down 4 num_delete 0.328950881958
+szkata SNARC line arabic CD 0 down 4 num_delete 0.392361879349
+szkata SNARC line arabic CD 0 up 7 lctrl 0.457462787628
+szkata SNARC line arabic CD 0 down 9 num_delete 0.583648920059
+szkata SNARC line arabic CD 0 down 6 num_delete 0.51321387291
+szkata SNARC line arabic CD 0 up 6 lctrl 0.465272188187
+szkata SNARC line arabic CD 0 down 7 num_delete 0.512834072113
+szkata SNARC line arabic CD 0 down 2 num_delete 0.529499053955
+szkata SNARC line arabic CD 0 up 5 lctrl 0.472827911377
+szkata SNARC line arabic CD 0 up 4 num_delete 0.943868875504
+szkata SNARC line arabic CD 0 up 4 lctrl 0.592587947845
+szkata SNARC line arabic CD 0 down 5 num_delete 0.392041921616
+szkata SNARC line arabic CD 0 down 5 num_delete 0.359553098679
+szkata SNARC line arabic CD 0 down 4 num_delete 0.376865148544
+szkata SNARC line arabic CD 0 up 7 lctrl 0.488977909088
+szkata SNARC line arabic CD 0 up 6 lctrl 0.512830972672
+szkata SNARC line arabic CD 0 up 8 num_delete 0.600434780121
+szkata SNARC line arabic CD 0 down 8 lctrl 0.16893696785
+szkata SNARC line arabic CD 0 down 9 num_delete 0.727400064468
+szkata SNARC line arabic CD 0 down 2 num_delete 0.393252849579
+szkata SNARC line arabic CD 0 down 2 num_delete 0.383416175842
+szkata SNARC line arabic CD 0 down 9 num_delete 0.336672067642
+szkata SNARC line arabic CD 0 up 8 num_delete 0.313117027283
+szkata SNARC line arabic CD 0 down 6 num_delete 0.536597013474
+szkata SNARC line arabic CD 0 up 7 lctrl 0.672786951065
+szkata SNARC line arabic CD 0 down 6 num_delete 0.375515937805
+szkata SNARC line arabic CD 0 down 4 num_delete 0.392478942871
+szkata SNARC line arabic CD 0 up 7 lctrl 0.44938492775
+szkata SNARC line arabic CD 0 up 3 lctrl 0.464022874832
+szkata SNARC line arabic CD 0 down 3 num_delete 0.38130402565
+szkata SNARC line arabic CD 0 down 3 num_delete 0.439691066742
+szkata SNARC line arabic CD 0 up 7 lctrl 0.632472038269
+szkata SNARC line arabic CD 0 down 9 num_delete 0.456521034241
+szkata SNARC line arabic CD 0 up 7 num_delete 0.35181593895
+szkata SNARC line arabic CD 0 down 2 num_delete 0.464030981064
+szkata SNARC line arabic CD 0 down 9 num_delete 0.376832008362
+szkata SNARC line arabic CD 0 up 3 lctrl 0.505183935165
+szkata SNARC line arabic CD 0 up 5 lctrl 0.712171077728
+szkata SNARC line arabic CD 0 down 2 num_delete 0.389559984207
+szkata SNARC line arabic CD 0 down 7 num_delete 0.576991081238
+szkata SNARC line arabic CD 0 up 2 lctrl 0.433687210083
+szkata SNARC line arabic CD 0 up 6 lctrl 0.753265142441
+szkata SNARC line arabic CD 0 down 5 num_delete 0.392359018326
+szkata SNARC line arabic CD 0 up 8 lctrl 0.312973976135
+szkata SNARC line arabic CD 0 up 8 lctrl 0.408933162689
+szkata SNARC line arabic CD 0 down 8 num_delete 0.4241771698
+szkata SNARC line arabic CD 0 up 7 lctrl 0.360416889191
+szkata SNARC line arabic CD 0 up 7 lctrl 0.320405006409
+szkata SNARC line arabic CD 0 up 7 lctrl 0.272496938705
+szkata SNARC line arabic CD 0 up 9 lctrl 0.367645978928
+szkata SNARC line arabic CD 0 up 1 lctrl 0.304547071457
+szkata SNARC line arabic CD 0 up 2 lctrl 0.488811016083
+szkata SNARC line arabic CD 0 up 6 lctrl 0.367655038834
+szkata SNARC line arabic CD 0 up 8 lctrl 0.281342029572
+szkata SNARC line arabic CD 0 up 8 lctrl 0.289946079254
+szkata SNARC line arabic CD 0 down 4 lctrl 0.36070394516
+szkata SNARC line arabic CD 0 down 5 num_delete 0.502804994583
+szkata SNARC line arabic CD 0 down 5 num_delete 0.464448928833
+szkata SNARC line arabic CD 0 down 2 num_delete 0.512313127518
+szkata SNARC line arabic CD 0 up 6 lctrl 0.46514582634
+szkata SNARC line arabic CD 0 down 8 num_delete 0.377258062363
+szkata SNARC line arabic CD 0 up 3 lctrl 0.296731948853
+szkata SNARC line arabic CD 0 up 7 lctrl 0.392613887787
+szkata SNARC line arabic CD 0 down 6 num_delete 0.392467021942
+szkata SNARC line arabic CD 0 up 6 lctrl 0.360719919205
+szkata SNARC line arabic CD 0 down 2 num_delete 0.559178113937
+szkata SNARC line arabic CD 0 down 1 lctrl 0.633292913437
+szkata SNARC line arabic CD 0 down 1 num_delete 0.528132915497
+szkata SNARC line arabic CD 0 down 1 num_delete 0.345351934433
+szkata SNARC line arabic CD 0 down 1 num_delete 0.345207929611
+szkata SNARC line arabic CD 0 up 9 lctrl 0.409823894501
+szkata SNARC line arabic CD 0 down 6 num_delete 0.551652908325
+szkata SNARC line arabic CD 0 down 1 num_delete 9.61679005623
+szkata SNARC line arabic CD 0 up 5 lctrl 0.497736930847
+szkata SNARC line arabic CD 0 up 6 lctrl 0.350250959396
+szkata SNARC line arabic CD 0 down 3 num_delete 0.82402920723
+szkata SNARC line arabic CD 0 down 1 num_delete 0.457120895386
+szkata SNARC line arabic CD 0 up 7 lctrl 0.625579118729
+szkata SNARC line arabic CD 0 down 8 num_delete 0.496505975723
+szkata SNARC line arabic CD 0 down 5 num_delete 1.2172870636
+szkata SNARC line arabic CD 0 down 8 num_delete 1.14425110817
+szkata SNARC line arabic CD 0 up 3 lctrl 0.570827960968
+szkata SNARC line arabic CD 0 up 4 lctrl 0.703931093216
+szkata SNARC line arabic CD 0 down 9 num_delete 1.80719685555
+szkata SNARC line arabic CD 0 down 8 num_delete 0.377315998077
+szkata SNARC line arabic CD 0 up 8 lctrl 0.401041984558
+szkata SNARC line arabic CD 0 down 5 lctrl 0.384464025497
+szkata SNARC line arabic CD 0 down 2 num_delete 0.255931854248
+szkata SNARC line arabic CD 0 down 3 num_delete 0.385186910629
+szkata SNARC line arabic CD 0 down 4 num_delete 0.353281974792
+szkata SNARC line arabic CD 0 up 5 lctrl 0.424598932266
+szkata SNARC line arabic CD 0 up 9 lctrl 0.424541950226
+szkata SNARC line arabic CD 0 up 3 lctrl 0.359929800034
+szkata SNARC line arabic CD 0 up 3 lctrl 0.50511097908
+szkata SNARC line arabic CD 0 up 3 lctrl 0.393261194229
+szkata SNARC line arabic CD 0 up 6 lctrl 0.360818147659
+szkata SNARC line arabic CD 0 up 6 lctrl 0.400768995285
+szkata SNARC line arabic CD 0 down 1 num_delete 0.472462892532
+szkata SNARC line arabic CD 0 up 8 lctrl 0.393185853958
+szkata SNARC line arabic CD 0 down 6 num_delete 0.551674127579
+szkata SNARC line arabic CD 0 up 4 lctrl 0.569659948349
+szkata SNARC line arabic CD 0 down 4 num_delete 0.703267097473
+szkata SNARC line arabic CD 0 up 8 lctrl 0.488249063492
+szkata SNARC line arabic CD 0 down 8 num_delete 0.584017038345
+szkata SNARC line arabic CD 0 up 6 lctrl 0.737039089203
+szkata SNARC line arabic CD 0 up 7 lctrl 0.425784111023
+szkata SNARC line arabic CD 0 up 9 lctrl 0.472912788391
+szkata SNARC line arabic CD 0 up 9 lctrl 0.599818944931
+szkata SNARC line arabic CD 0 up 7 lctrl 0.320822000504
+szkata SNARC line arabic CD 0 up 7 lctrl 0.433032989502
+szkata SNARC line arabic CD 0 up 8 lctrl 0.768337011337
+szkata SNARC line arabic CD 0 up 6 lctrl 0.360993146896
+szkata SNARC line arabic CD 0 down 1 lctrl 0.320906162262
+szkata SNARC line arabic CD 0 up 3 lctrl 0.472096920013
+szkata SNARC line arabic CD 0 up 1 lctrl 0.520941972733
+szkata SNARC line arabic CD 0 up 1 lctrl 0.392965078354
+szkata SNARC line arabic CD 0 down 7 num_delete 0.424424886703
+szkata SNARC line arabic CD 0 down 9 num_delete 0.504760026932
+szkata SNARC line arabic CD 0 up 2 lctrl 0.497021913528
+szkata SNARC line arabic CD 0 down 4 num_delete 0.415989875793
+szkata SNARC line arabic CD 0 up 9 lctrl 0.368096113205
+szkata SNARC line arabic CD 0 down 7 num_delete 0.480126857758
+szkata SNARC line arabic CD 0 down 9 num_delete 0.71195101738
+szkata SNARC line arabic CD 0 up 3 num_delete 2.48842692375
+szkata SNARC line arabic CD 0 down 5 num_delete 0.512410879135
+szkata SNARC line arabic CD 0 down 3 num_delete 0.448846101761
+szkata SNARC line arabic CD 0 down 3 num_delete 0.327975034714
+szkata SNARC line arabic CD 0 down 7 num_delete 0.30521607399
+szkata SNARC line arabic CD 0 up 6 lctrl 0.344103097916
+szkata SNARC line arabic CD 0 down 5 num_delete 0.359776973724
+szkata SNARC line arabic CD 0 up 5 lctrl 0.624798059464
+szkata SNARC line arabic CD 0 up 3 num_delete 0.297539949417
+szkata SNARC line arabic CD 0 up 5 lctrl 0.375992059708
+szkata SNARC line arabic CD 0 up 8 lctrl 0.344266176224
+szkata SNARC line arabic CD 0 up 9 lctrl 0.320633888245
+szkata SNARC line arabic CD 0 up 6 lctrl 0.29582118988
+szkata SNARC line arabic CD 0 down 2 lctrl 0.326154947281
+szkata SNARC line arabic CD 0 up 3 lctrl 0.391559123993
+szkata SNARC line arabic CD 0 up 2 lctrl 0.368143081665
+szkata SNARC line arabic CD 0 down 1 num_delete 0.384412050247
+szkata SNARC line arabic CD 0 up 3 lctrl 0.304838895798
+szkata SNARC line arabic CD 0 up 6 lctrl 0.313601970673
+szkata SNARC line arabic CD 0 down 6 num_delete 0.392553091049
+szkata SNARC line arabic CD 0 up 6 lctrl 0.328814029694
+szkata SNARC line arabic CD 0 up 5 lctrl 0.489462137222
+szkata SNARC line arabic CD 0 up 8 lctrl 0.329107046127
+szkata SNARC line arabic CD 0 up 1 lctrl 0.325411081314
+szkata SNARC line arabic CD 0 down 2 num_delete 0.455606937408
+szkata SNARC line arabic CD 0 down 2 num_delete 0.321425199509
+szkata SNARC line arabic CD 0 up 1 lctrl 0.361891031265
+szkata SNARC line arabic CD 0 down 9 num_delete 0.39971280098
+szkata SNARC line arabic CD 0 down 6 num_delete 0.52121090889
+szkata SNARC line arabic CD 0 up 6 lctrl 0.473619937897
+szkata SNARC line arabic CD 0 down 5 num_delete 0.312366008759
+szkata SNARC line arabic CD 0 down 6 lctrl 0.313534975052
+szkata SNARC line arabic CD 0 down 9 lctrl 0.390775918961
+szkata SNARC line arabic CD 0 up 4 num_delete 0.311363935471
+szkata SNARC line arabic CD 0 down 2 num_delete 0.5050740242
+szkata SNARC line arabic CD 0 up 2 lctrl 0.593723058701
+szkata SNARC line arabic CD 0 up 2 lctrl 0.328629970551
+szkata SNARC line arabic CD 0 up 1 lctrl 0.384542942047
+szkata SNARC line arabic CD 0 up 8 lctrl 0.353199005127
+szkata SNARC line arabic CD 0 up 3 lctrl 0.344952821732
+szkata SNARC line arabic CD 0 down 2 num_delete 0.464344978333
+szkata SNARC line arabic CD 0 up 2 lctrl 0.352433919907
+szkata SNARC line arabic CD 0 down 9 num_delete 0.568536043167
+szkata SNARC line arabic CD 0 up 3 lctrl 0.705691099167
+szkata SNARC line arabic CD 0 down 9 num_delete 0.43249797821
+szkata SNARC line arabic CD 0 down 5 num_delete 0.512599945068
+szkata SNARC line arabic CD 0 up 5 lctrl 0.369070768356
+szkata SNARC line arabic CD 0 up 6 lctrl 0.360661029816
+szkata SNARC line arabic CD 0 up 8 lctrl 0.328403949738
+szkata SNARC line arabic CD 0 up 5 lctrl 0.264051914215
+szkata SNARC line arabic CD 0 down 1 num_delete 0.35209608078
+szkata SNARC line arabic CD 0 down 1 num_delete 0.352858066559
+szkata SNARC line arabic CD 0 down 7 num_delete 0.456556081772
+szkata SNARC line arabic CD 0 up 1 lctrl 0.65695309639
+szkata SNARC line arabic CD 0 down 4 num_delete 0.336225986481
+szkata SNARC line arabic CD 0 up 6 lctrl 0.584370851517
+szkata SNARC line arabic CD 0 down 3 num_delete 0.568005084991
+szkata SNARC line arabic CD 0 down 7 num_delete 1.21648788452
+szkata SNARC line arabic CD 0 down 3 num_delete 0.448673963547
+szkata SNARC line arabic CD 0 up 6 lctrl 0.537035942078
+szkata SNARC line arabic CD 0 up 3 lctrl 0.329509973526
+szkata SNARC line arabic CD 0 down 5 num_delete 0.392194986343
+szkata SNARC line arabic CD 0 down 7 num_delete 0.448817014694
+szkata SNARC line arabic CD 0 up 9 lctrl 0.673924922943
+szkata SNARC line arabic CD 0 up 6 lctrl 0.400820016861
+szkata SNARC line arabic CD 0 up 3 lctrl 0.449563026428
+szkata SNARC line arabic CD 0 down 8 num_delete 0.455004930496
+szkata SNARC line arabic CD 0 down 5 num_delete 0.384685993195
+szkata SNARC line arabic CD 0 down 1 num_delete 0.400231838226
+szkata SNARC line arabic CD 0 up 7 num_delete 0.288880825043
+szkata SNARC line arabic CD 0 up 2 lctrl 0.672363996506
+szkata SNARC line arabic CD 0 down 8 num_delete 0.416184186935
+szkata SNARC line arabic CD 0 down 1 num_delete 1.18414187431
+szkata SNARC line arabic CD 0 up 9 lctrl 0.545547962189
+szkata SNARC line arabic CD 0 down 4 num_delete 0.480882883072
+szkata SNARC line arabic CD 0 down 9 lctrl 0.736882925034
+szkata SNARC line arabic CD 0 up 6 lctrl 0.736008882523
+szkata SNARC line arabic CD 0 down 2 num_delete 0.479238986969
+szkata SNARC line arabic CD 0 down 9 num_delete 1.16002702713
+szkata SNARC line arabic CD 0 down 7 num_delete 0.641064882278
+szkata SNARC line arabic CD 0 down 9 num_delete 0.296895027161
+szkata SNARC line arabic CD 0 up 2 lctrl 0.46475315094
+szkata SNARC line arabic CD 0 down 3 num_delete 0.616209030151
+szkata SNARC line arabic CD 0 down 8 num_delete 0.336465835571
+szkata SNARC line arabic CD 0 down 6 num_delete 0.32012295723
+szkata SNARC line arabic CD 0 down 3 num_delete 0.376777172089
+szkata SNARC line arabic CD 0 up 2 lctrl 0.447890996933
+szkata SNARC line arabic CD 0 up 4 lctrl 0.512508153915
+szkata SNARC line arabic CD 0 up 5 lctrl 1.36899590492
+szkata SNARC line arabic CD 0 down 4 num_delete 0.352818965912
+szkata SNARC line arabic CD 0 up 1 lctrl 0.328655004501
+szkata SNARC line arabic CD 0 down 1 num_delete 0.296967983246
+szkata SNARC line arabic CD 0 down 4 num_delete 0.552290916443
+szkata SNARC line arabic CD 0 down 4 num_delete 0.40792798996
+szkata SNARC line arabic CD 0 up 7 lctrl 0.408898115158
+szkata SNARC line arabic CD 0 down 8 num_delete 0.310856103897
+szkata SNARC line arabic CD 0 up 4 lctrl 0.327993154526
+szkata SNARC line arabic CD 0 up 6 lctrl 0.609774827957
+{'delay': u'0', 'dateStr': u'05_18_1442', 'task': u'line', 'participant': u'szkata', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+szkata SNARC line dot CD 0 up 40 lctrl 1.30708003044
+szkata SNARC line dot CD 0 down 30 num_delete 0.512223958969
+szkata SNARC line dot CD 0 down 25 num_delete 2.57434988022
+szkata SNARC line dot CD 0 down 5 num_delete 0.479603052139
+szkata SNARC line dot CD 0 down 5 num_delete 0.319370985031
+szkata SNARC line dot CD 0 down 15 num_delete 0.580114126205
+szkata SNARC line dot CD 0 up 10 lctrl 0.36238694191
+szkata SNARC line dot CD 0 up 30 lctrl 0.384016990662
+szkata SNARC line dot CD 0 down 40 num_delete 0.346728801727
+szkata SNARC line dot CD 0 down 40 num_delete 0.30709195137
+szkata SNARC line dot CD 0 up 20 lctrl 0.34942317009
+szkata SNARC line dot CD 0 up 15 lctrl 0.251446008682
+szkata SNARC line dot CD 0 down 30 num_delete 0.27117395401
+szkata SNARC line dot CD 0 up 20 lctrl 0.42947602272
+szkata SNARC line dot CD 0 up 20 num_delete 0.229110956192
+szkata SNARC line dot CD 0 down 45 num_delete 0.400299072266
+szkata SNARC line dot CD 0 down 35 num_delete 0.321712017059
+szkata SNARC line dot CD 0 up 15 lctrl 0.316622972488
+szkata SNARC line dot CD 0 up 20 lctrl 0.342257976532
+szkata SNARC line dot CD 0 down 5 num_delete 0.27965092659
+szkata SNARC line dot CD 0 down 5 num_delete 0.312947034836
+szkata SNARC line dot CD 0 down 40 num_delete 0.283741950989
+szkata SNARC line dot CD 0 down 35 num_delete 0.28864812851
+szkata SNARC line dot CD 0 down 5 num_delete 0.280170917511
+szkata SNARC line dot CD 0 down 30 num_delete 0.320609092712
+szkata SNARC line dot CD 0 up 25 lctrl 0.391059875488
+szkata SNARC line dot CD 0 up 25 lctrl 0.286306858063
+szkata SNARC line dot CD 0 up 5 lctrl 0.27258682251
+szkata SNARC line dot CD 0 up 30 lctrl 0.344060182571
+szkata SNARC line dot CD 0 down 10 num_delete 0.321925878525
+szkata SNARC line dot CD 0 up 20 lctrl 0.525625228882
+szkata SNARC line dot CD 0 up 10 lctrl 0.30534696579
+szkata SNARC line dot CD 0 down 15 num_delete 0.323241949081
+szkata SNARC line dot CD 0 up 35 lctrl 0.418169021606
+szkata SNARC line dot CD 0 up 20 lctrl 0.525316953659
+szkata SNARC line dot CD 0 down 20 num_delete 0.285341024399
+szkata SNARC line dot CD 0 down 45 num_delete 0.285764932632
+szkata SNARC line dot CD 0 down 35 num_delete 0.34637093544
+szkata SNARC line dot CD 0 down 5 num_delete 0.328889846802
+szkata SNARC line dot CD 0 up 5 lctrl 0.408597946167
+szkata SNARC line dot CD 0 down 5 num_delete 0.400749921799
+szkata SNARC line dot CD 0 up 35 lctrl 0.730175971985
+szkata SNARC line dot CD 0 up 15 lctrl 0.340280056
+szkata SNARC line dot CD 0 down 20 num_delete 0.332154989243
+szkata SNARC line dot CD 0 down 35 lctrl 0.353794813156
+szkata SNARC line dot CD 0 up 20 lctrl 0.88517999649
+szkata SNARC line dot CD 0 down 10 num_delete 0.312983036041
+szkata SNARC line dot CD 0 up 30 lctrl 0.312674999237
+szkata SNARC line dot CD 0 up 10 lctrl 0.346284866333
+szkata SNARC line dot CD 0 down 25 lctrl 0.27098608017
+szkata SNARC line dot CD 0 down 15 num_delete 0.323411941528
+szkata SNARC line dot CD 0 down 35 num_delete 0.298163175583
+szkata SNARC line dot CD 0 down 25 num_delete 0.279229164124
+szkata SNARC line dot CD 0 down 30 num_delete 0.432986974716
+szkata SNARC line dot CD 0 down 40 num_delete 0.32364988327
+szkata SNARC line dot CD 0 down 40 num_delete 0.275774002075
+szkata SNARC line dot CD 0 down 35 num_delete 0.386169910431
+szkata SNARC line dot CD 0 down 20 num_delete 0.293128967285
+szkata SNARC line dot CD 0 up 20 num_delete 0.261655092239
+szkata SNARC line dot CD 0 down 20 num_delete 0.309671878815
+szkata SNARC line dot CD 0 down 45 num_delete 0.356389045715
+szkata SNARC line dot CD 0 down 10 num_delete 0.297358036041
+szkata SNARC line dot CD 0 up 25 lctrl 0.343298912048
+szkata SNARC line dot CD 0 up 5 lctrl 0.328907966614
+szkata SNARC line dot CD 0 down 30 num_delete 0.303539991379
+szkata SNARC line dot CD 0 up 15 lctrl 0.291797161102
+szkata SNARC line dot CD 0 up 35 lctrl 0.370559930801
+szkata SNARC line dot CD 0 up 25 lctrl 0.343436002731
+szkata SNARC line dot CD 0 up 25 lctrl 0.342439174652
+szkata SNARC line dot CD 0 up 30 lctrl 0.359755992889
+szkata SNARC line dot CD 0 down 10 num_delete 0.329644918442
+szkata SNARC line dot CD 0 up 25 lctrl 0.407788038254
+szkata SNARC line dot CD 0 down 35 num_delete 0.578106164932
+szkata SNARC line dot CD 0 up 45 lctrl 0.278213977814
+szkata SNARC line dot CD 0 down 20 num_delete 0.260777950287
+szkata SNARC line dot CD 0 down 40 num_delete 0.363215923309
+szkata SNARC line dot CD 0 down 40 num_delete 0.251782178879
+szkata SNARC line dot CD 0 down 25 num_delete 0.262814998627
+szkata SNARC line dot CD 0 up 25 num_delete 0.262674808502
+szkata SNARC line dot CD 0 down 45 num_delete 0.261362075806
+szkata SNARC line dot CD 0 down 10 num_delete 0.290045976639
+szkata SNARC line dot CD 0 down 45 num_delete 0.285644769669
+szkata SNARC line dot CD 0 up 30 num_delete 0.248033046722
+szkata SNARC line dot CD 0 down 30 num_delete 0.344027996063
+szkata SNARC line dot CD 0 up 15 lctrl 0.379806995392
+szkata SNARC line dot CD 0 up 45 lctrl 0.31628203392
+szkata SNARC line dot CD 0 down 40 num_delete 0.314774990082
+szkata SNARC line dot CD 0 up 5 num_delete 0.256453037262
+szkata SNARC line dot CD 0 down 5 num_delete 0.240296125412
+szkata SNARC line dot CD 0 down 35 num_delete 0.29817199707
+szkata SNARC line dot CD 0 up 15 lctrl 0.484785079956
+szkata SNARC line dot CD 0 up 40 lctrl 0.308224201202
+szkata SNARC line dot CD 0 up 35 lctrl 0.265388965607
+szkata SNARC line dot CD 0 down 25 lctrl 0.278826951981
+szkata SNARC line dot CD 0 down 20 num_delete 0.379885911942
+szkata SNARC line dot CD 0 up 15 lctrl 0.275617837906
+szkata SNARC line dot CD 0 up 25 lctrl 0.318817853928
+szkata SNARC line dot CD 0 up 40 lctrl 0.323436975479
+szkata SNARC line dot CD 0 up 45 lctrl 0.3965280056
+szkata SNARC line dot CD 0 up 15 lctrl 0.23623585701
+szkata SNARC line dot CD 0 up 20 lctrl 0.261039972305
+szkata SNARC line dot CD 0 down 5 lctrl 0.217231988907
+szkata SNARC line dot CD 0 up 5 lctrl 0.271165132523
+szkata SNARC line dot CD 0 up 10 lctrl 0.273543119431
+szkata SNARC line dot CD 0 up 45 lctrl 0.28537607193
+szkata SNARC line dot CD 0 up 5 lctrl 0.273023843765
+szkata SNARC line dot CD 0 down 10 num_delete 0.369080781937
+szkata SNARC line dot CD 0 down 15 num_delete 0.307909011841
+szkata SNARC line dot CD 0 down 35 num_delete 0.352834939957
+szkata SNARC line dot CD 0 down 35 num_delete 0.345690011978
+szkata SNARC line dot CD 0 up 35 lctrl 0.328920841217
+szkata SNARC line dot CD 0 down 5 num_delete 0.28040099144
+szkata SNARC line dot CD 0 up 20 lctrl 0.461482048035
+szkata SNARC line dot CD 0 down 20 num_delete 0.277835845947
+szkata SNARC line dot CD 0 up 30 lctrl 0.304306030273
+szkata SNARC line dot CD 0 up 25 num_delete 0.221585035324
+szkata SNARC line dot CD 0 up 45 lctrl 0.523677110672
+szkata SNARC line dot CD 0 up 40 lctrl 0.274840831757
+szkata SNARC line dot CD 0 down 10 num_delete 0.289099931717
+szkata SNARC line dot CD 0 down 20 lctrl 0.261674165726
+szkata SNARC line dot CD 0 down 25 lctrl 0.350952863693
+szkata SNARC line dot CD 0 up 30 lctrl 0.375912904739
+szkata SNARC line dot CD 0 up 40 lctrl 0.379377841949
+szkata SNARC line dot CD 0 up 15 lctrl 0.348160028458
+szkata SNARC line dot CD 0 up 45 lctrl 0.285738945007
+szkata SNARC line dot CD 0 down 30 num_delete 0.312149047852
+szkata SNARC line dot CD 0 up 15 lctrl 0.315476179123
+szkata SNARC line dot CD 0 down 30 num_delete 0.279783010483
+szkata SNARC line dot CD 0 up 10 lctrl 0.24196100235
+szkata SNARC line dot CD 0 down 35 num_delete 0.393239974976
+szkata SNARC line dot CD 0 up 30 lctrl 0.265091896057
+szkata SNARC line dot CD 0 up 10 lctrl 0.433966875076
+szkata SNARC line dot CD 0 up 5 lctrl 0.257578849792
+szkata SNARC line dot CD 0 up 20 num_delete 0.253170967102
+szkata SNARC line dot CD 0 up 15 lctrl 0.3875207901
+szkata SNARC line dot CD 0 up 25 lctrl 0.302274942398
+szkata SNARC line dot CD 0 up 40 lctrl 0.33926486969
+szkata SNARC line dot CD 0 down 30 num_delete 0.336935997009
+szkata SNARC line dot CD 0 up 15 lctrl 0.315753221512
+szkata SNARC line dot CD 0 down 40 num_delete 0.548090934753
+szkata SNARC line dot CD 0 up 10 lctrl 0.378700017929
+szkata SNARC line dot CD 0 up 45 lctrl 0.374094009399
+szkata SNARC line dot CD 0 down 20 num_delete 0.365586996078
+szkata SNARC line dot CD 0 up 35 lctrl 0.322761774063
+szkata SNARC line dot CD 0 down 25 num_delete 0.350435018539
+szkata SNARC line dot CD 0 up 35 lctrl 0.346606969833
+szkata SNARC line dot CD 0 up 20 lctrl 0.300425052643
+szkata SNARC line dot CD 0 down 45 num_delete 0.573904037476
+szkata SNARC line dot CD 0 up 45 lctrl 0.260344028473
+szkata SNARC line dot CD 0 down 5 num_delete 0.352542161942
+szkata SNARC line dot CD 0 down 25 num_delete 0.574604034424
+szkata SNARC line dot CD 0 down 30 num_delete 0.320666074753
+szkata SNARC line dot CD 0 up 40 lctrl 0.523998975754
+szkata SNARC line dot CD 0 down 40 num_delete 0.25905585289
+szkata SNARC line dot CD 0 up 15 lctrl 0.275960922241
+szkata SNARC line dot CD 0 down 35 num_delete 0.242033004761
+szkata SNARC line dot CD 0 down 25 num_delete 0.390354156494
+szkata SNARC line dot CD 0 up 35 lctrl 0.378213167191
+szkata SNARC line dot CD 0 up 45 num_delete 0.260843038559
+szkata SNARC line dot CD 0 up 35 lctrl 0.403142929077
+szkata SNARC line dot CD 0 up 10 lctrl 0.380153179169
+szkata SNARC line dot CD 0 down 35 num_delete 0.352357149124
+szkata SNARC line dot CD 0 up 30 lctrl 0.32846903801
+szkata SNARC line dot CD 0 down 40 lctrl 0.523046970367
+szkata SNARC line dot CD 0 down 10 num_delete 0.497657060623
+szkata SNARC line dot CD 0 down 25 num_delete 0.40732383728
+szkata SNARC line dot CD 0 down 20 num_delete 1.02932596207
+szkata SNARC line dot CD 0 up 35 lctrl 0.317125082016
+szkata SNARC line dot CD 0 down 45 lctrl 0.154536008835
+szkata SNARC line dot CD 0 down 25 num_delete 0.504609107971
+szkata SNARC line dot CD 0 down 45 num_delete 0.342491149902
+szkata SNARC line dot CD 0 up 30 lctrl 0.32143497467
+szkata SNARC line dot CD 0 up 10 lctrl 0.353157043457
+szkata SNARC line dot CD 0 up 45 lctrl 0.58385515213
+szkata SNARC line dot CD 0 down 25 num_delete 0.426956892014
+szkata SNARC line dot CD 0 up 40 lctrl 0.655416965485
+szkata SNARC line dot CD 0 down 35 lctrl 0.537595033646
+szkata SNARC line dot CD 0 up 15 lctrl 0.359236001968
+szkata SNARC line dot CD 0 up 40 lctrl 0.344727039337
+szkata SNARC line dot CD 0 up 30 lctrl 0.282604217529
+szkata SNARC line dot CD 0 down 10 lctrl 0.301038980484
+szkata SNARC line dot CD 0 up 35 lctrl 0.335558176041
+szkata SNARC line dot CD 0 up 5 lctrl 0.344840049744
+szkata SNARC line dot CD 0 down 35 num_delete 0.305106163025
+szkata SNARC line dot CD 0 down 45 num_delete 0.43673491478
+szkata SNARC line dot CD 0 down 40 num_delete 0.48762011528
+szkata SNARC line dot CD 0 up 40 num_delete 0.277437210083
+szkata SNARC line dot CD 0 up 45 lctrl 0.416808128357
+szkata SNARC line dot CD 0 up 15 lctrl 0.322371006012
+szkata SNARC line dot CD 0 down 40 num_delete 0.322409152985
+szkata SNARC line dot CD 0 up 45 lctrl 0.325902938843
+szkata SNARC line dot CD 0 down 40 lctrl 0.37084197998
+szkata SNARC line dot CD 0 up 25 lctrl 0.414352893829
+szkata SNARC line dot CD 0 down 45 num_delete 0.252341985703
+szkata SNARC line dot CD 0 down 15 num_delete 0.354151964188
+szkata SNARC line dot CD 0 up 5 lctrl 0.297137022018
+szkata SNARC line dot CD 0 down 25 num_delete 0.461814165115
+szkata SNARC line dot CD 0 up 40 lctrl 0.266861915588
+szkata SNARC line dot CD 0 up 45 num_delete 2.50087189674
+szkata SNARC line dot CD 0 up 20 num_delete 0.325077056885
+szkata SNARC line dot CD 0 up 30 lctrl 0.296327114105
+szkata SNARC line dot CD 0 down 30 num_delete 0.416325092316
+szkata SNARC line dot CD 0 up 40 lctrl 0.339946985245
+szkata SNARC line dot CD 0 down 30 num_delete 0.175661087036
+szkata SNARC line dot CD 0 down 20 lctrl 0.26225399971
+szkata SNARC line dot CD 0 up 40 lctrl 0.316492080688
+szkata SNARC line dot CD 0 up 5 lctrl 0.343636035919
+szkata SNARC line dot CD 0 up 40 lctrl 0.275571107864
+szkata SNARC line dot CD 0 up 10 lctrl 0.377947092056
+szkata SNARC line dot CD 0 down 10 lctrl 0.248748064041
+szkata SNARC line dot CD 0 up 30 lctrl 0.263145923615
+szkata SNARC line dot CD 0 up 30 lctrl 0.344779014587
+szkata SNARC line dot CD 0 down 10 num_delete 0.361629009247
+szkata SNARC line dot CD 0 down 35 lctrl 0.274178981781
+szkata SNARC line dot CD 0 up 10 lctrl 0.369662046432
+szkata SNARC line dot CD 0 up 35 lctrl 0.36104798317
+szkata SNARC line dot CD 0 up 15 lctrl 0.36248588562
+szkata SNARC line dot CD 0 down 5 num_delete 0.344712972641
+szkata SNARC line dot CD 0 down 30 lctrl 0.248914957047
+szkata SNARC line dot CD 0 down 25 num_delete 0.421112060547
+szkata SNARC line dot CD 0 up 20 lctrl 0.326265096664
+szkata SNARC line dot CD 0 up 30 lctrl 0.31959605217
+szkata SNARC line dot CD 0 up 45 num_delete 0.325343847275
+szkata SNARC line dot CD 0 up 15 lctrl 0.300206899643
+szkata SNARC line dot CD 0 up 5 lctrl 0.336997032166
+szkata SNARC line dot CD 0 down 25 lctrl 0.254554033279
+szkata SNARC line dot CD 0 down 10 num_delete 0.584198951721
+szkata SNARC line dot CD 0 up 15 lctrl 0.332523107529
+szkata SNARC line dot CD 0 down 35 num_delete 0.328402996063
+szkata SNARC line dot CD 0 down 45 lctrl 0.254122018814
+szkata SNARC line dot CD 0 up 15 lctrl 0.803935050964
+szkata SNARC line dot CD 0 up 10 lctrl 0.410195112228
+szkata SNARC line dot CD 0 up 10 lctrl 0.265729188919
+szkata SNARC line dot CD 0 up 15 lctrl 0.339855909348
+szkata SNARC line dot CD 0 down 30 num_delete 0.455350160599
+szkata SNARC line dot CD 0 up 10 lctrl 0.186414957047
+szkata SNARC line dot CD 0 down 20 num_delete 0.397166967392
+szkata SNARC line dot CD 0 down 40 lctrl 0.171076059341
+szkata SNARC line dot CD 0 up 45 lctrl 0.485653877258
+szkata SNARC line dot CD 0 down 20 num_delete 0.436731815338
+szkata SNARC line dot CD 0 up 40 lctrl 0.290903091431
+szkata SNARC line dot CD 0 down 15 num_delete 0.419059038162
+szkata SNARC line dot CD 0 down 45 lctrl 0.24471783638
+szkata SNARC line dot CD 0 down 20 num_delete 0.436932086945
+szkata SNARC line dot CD 0 up 25 lctrl 0.302833795547
+szkata SNARC line dot CD 0 up 40 lctrl 0.339125871658
+szkata SNARC line dot CD 0 down 15 num_delete 0.379144191742
+szkata SNARC line dot CD 0 up 10 lctrl 0.306293964386
+szkata SNARC line dot CD 0 up 15 num_delete 0.283154010773
+szkata SNARC line dot CD 0 down 10 num_delete 0.625752925873
+szkata SNARC line dot CD 0 up 20 lctrl 0.357670068741
+szkata SNARC line dot CD 0 down 40 num_delete 0.514954090118
+szkata SNARC line dot CD 0 up 5 lctrl 0.304748058319
+szkata SNARC line dot CD 0 up 35 lctrl 0.361399888992
+szkata SNARC line dot CD 0 down 15 lctrl 0.292587041855
+szkata SNARC line dot CD 0 down 20 num_delete 0.556756973267
+szkata SNARC line dot CD 0 down 10 num_delete 0.410516023636
+szkata SNARC line dot CD 0 up 35 lctrl 0.281980991364
+szkata SNARC line dot CD 0 down 30 num_delete 0.368589878082
+szkata SNARC line dot CD 0 down 30 num_delete 1.14413619041
+szkata SNARC line dot CD 0 up 25 lctrl 0.391242027283
+szkata SNARC line dot CD 0 down 25 num_delete 0.350905895233
+szkata SNARC line dot CD 0 down 5 num_delete 0.384073019028
+szkata SNARC line dot CD 0 up 15 lctrl 0.516494035721
+szkata SNARC line dot CD 0 up 5 lctrl 0.535608053207
+szkata SNARC line dot CD 0 down 30 num_delete 0.425179004669
+szkata SNARC line dot CD 0 down 40 num_delete 0.563332080841
+szkata SNARC line dot CD 0 up 45 lctrl 0.405375957489
+szkata SNARC line dot CD 0 up 20 lctrl 0.355787038803
+szkata SNARC line dot CD 0 up 10 lctrl 0.265625953674
+szkata SNARC line dot CD 0 up 25 lctrl 0.238106966019
+szkata SNARC line dot CD 0 down 35 num_delete 0.330054044724
+szkata SNARC line dot CD 0 up 10 lctrl 0.234289884567
+szkata SNARC line dot CD 0 up 15 lctrl 0.29886007309
+szkata SNARC line dot CD 0 up 25 lctrl 0.311001062393
+szkata SNARC line dot CD 0 down 40 lctrl 0.29952788353
+szkata SNARC line dot CD 0 down 20 num_delete 0.364645957947
+szkata SNARC line dot CD 0 up 10 lctrl 0.418027877808
+szkata SNARC line dot CD 0 down 40 num_delete 0.210889816284
+szkata SNARC line dot CD 0 down 25 lctrl 0.287894964218
+szkata SNARC line dot CD 0 down 20 num_delete 0.276479005814
+szkata SNARC line dot CD 0 down 40 num_delete 0.427269935608
+szkata SNARC line dot CD 0 up 45 lctrl 0.645044088364
+szkata SNARC line dot CD 0 up 25 num_delete 0.398484945297
+szkata SNARC line dot CD 0 up 30 lctrl 0.319461107254
+szkata SNARC line dot CD 0 up 40 lctrl 0.33105301857
+szkata SNARC line dot CD 0 up 5 lctrl 0.479475975037
+szkata SNARC line dot CD 0 up 5 lctrl 0.288140058517
+szkata SNARC line dot CD 0 down 35 lctrl 0.282428979874
+szkata SNARC line dot CD 0 down 15 num_delete 0.466195106506
+szkata SNARC line dot CD 0 down 30 num_delete 0.376564025879
+szkata SNARC line dot CD 0 down 15 num_delete 0.307462930679
+szkata SNARC line dot CD 0 up 35 lctrl 0.338662147522
+szkata SNARC line dot CD 0 down 5 num_delete 0.328402996063
+szkata SNARC line dot CD 0 up 30 lctrl 0.297162055969
+szkata SNARC line dot CD 0 down 10 num_delete 0.241951942444
+szkata SNARC line dot CD 0 up 10 lctrl 0.634671926498
+szkata SNARC line dot CD 0 up 5 num_delete 0.216121196747
+szkata SNARC line dot CD 0 up 45 lctrl 0.397058010101
+szkata SNARC line dot CD 0 up 5 lctrl 0.280401945114
+szkata SNARC line dot CD 0 up 25 lctrl 0.727223873138
+szkata SNARC line dot CD 0 up 45 lctrl 0.445087909698
+szkata SNARC line dot CD 0 down 35 num_delete 0.393079996109
+szkata SNARC line dot CD 0 down 25 lctrl 0.98393702507
+szkata SNARC line dot CD 0 down 25 num_delete 0.701768875122
+szkata SNARC line dot CD 0 up 45 lctrl 0.652940034866
+szkata SNARC line dot CD 0 up 5 lctrl 1.10449194908
+szkata SNARC line dot CD 0 down 20 num_delete 1.3573319912
+szkata SNARC line dot CD 0 down 25 num_delete 0.454972028732
+szkata SNARC line dot CD 0 down 10 num_delete 1.01692891121
+szkata SNARC line dot CD 0 up 35 num_delete 0.865760087967
+szkata SNARC line dot CD 0 up 15 lctrl 0.212059020996
+szkata SNARC line dot CD 0 up 5 lctrl 0.280754089355
+szkata SNARC line dot CD 0 up 35 lctrl 0.226067066193
+szkata SNARC line dot CD 0 up 20 lctrl 0.246133089066
+szkata SNARC line dot CD 0 down 45 lctrl 0.244531869888
+szkata SNARC line dot CD 0 up 5 lctrl 0.297043800354
+szkata SNARC line dot CD 0 up 25 lctrl 0.36691403389
+szkata SNARC line dot CD 0 down 40 num_delete 0.347212076187
+szkata SNARC line dot CD 0 down 30 lctrl 0.24726319313
+szkata SNARC line dot CD 0 down 45 num_delete 0.387432098389
+szkata SNARC line dot CD 0 down 15 num_delete 0.339735031128
+szkata SNARC line dot CD 0 down 30 num_delete 0.247695922852
+szkata SNARC line dot CD 0 up 35 num_delete 0.305351018906
+szkata SNARC line dot CD 0 up 35 lctrl 0.393867969513
+szkata SNARC line dot CD 0 up 20 lctrl 0.356405973434
+szkata SNARC line dot CD 0 down 45 num_delete 0.364396095276
+szkata SNARC line dot CD 0 down 10 num_delete 0.370630025864
+szkata SNARC line dot CD 0 down 10 num_delete 0.570394039154
+szkata SNARC line dot CD 0 down 35 lctrl 0.314616918564
+szkata SNARC line dot CD 0 down 20 num_delete 0.316598892212
+szkata SNARC line dot CD 0 up 40 lctrl 0.428676128387
+szkata SNARC line dot CD 0 up 15 lctrl 0.435136795044
+szkata SNARC line dot CD 0 down 5 num_delete 0.391690969467
+szkata SNARC line dot CD 0 down 45 num_delete 0.820210933685
+szkata SNARC line dot CD 0 up 5 lctrl 0.473879814148
+szkata SNARC line dot CD 0 down 20 num_delete 0.276552915573
+szkata SNARC line dot CD 0 down 25 lctrl 0.287954807281
+szkata SNARC line dot CD 0 up 5 lctrl 0.344365119934
+szkata SNARC line dot CD 0 up 20 num_delete 0.325088977814
+szkata SNARC line dot CD 0 up 10 lctrl 0.314011096954
+szkata SNARC line dot CD 0 up 40 lctrl 0.308152198792
+szkata SNARC line dot CD 0 down 45 num_delete 0.444643974304
+szkata SNARC line dot CD 0 down 5 lctrl 0.320667028427
+szkata SNARC line dot CD 0 down 45 num_delete 0.396935939789
+szkata SNARC line dot CD 0 down 30 num_delete 0.567109107971
+szkata SNARC line dot CD 0 up 5 lctrl 0.824730873108
+szkata SNARC line dot CD 0 down 10 num_delete 0.385314941406
+szkata SNARC line dot CD 0 down 15 num_delete 0.523652076721
+szkata SNARC line dot CD 0 down 5 num_delete 0.327620029449
+szkata SNARC line dot CD 0 up 45 lctrl 0.677334070206
+szkata SNARC line dot CD 0 up 15 lctrl 0.531291007996
+szkata SNARC line dot CD 0 up 15 lctrl 0.324079990387
+szkata SNARC line dot CD 0 up 10 lctrl 0.465064048767
+szkata SNARC line dot CD 0 up 20 lctrl 1.07713508606
+szkata SNARC line dot CD 0 down 25 num_delete 0.278787136078
+szkata SNARC line dot CD 0 up 30 lctrl 0.231658935547
+szkata SNARC line dot CD 0 down 30 num_delete 0.263798952103
+szkata SNARC line dot CD 0 up 15 lctrl 0.252161979675
+szkata SNARC line dot CD 0 up 45 num_delete 0.196640014648
+{'participant': u'szkata', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1451', 'autopilot': False, 'exp_id': u'SNARC'}
+szkata SNARC_only DC 5 lctrl 1.46520805359
+szkata SNARC_only DC 3 lctrl 0.58535194397
+szkata SNARC_only DC 3 lctrl 0.298368930817
+szkata SNARC_only DC 6 lctrl 0.296764135361
+szkata SNARC_only DC 9 num_delete 0.434818029404
+szkata SNARC_only DC 6 num_delete 0.840723991394
+szkata SNARC_only DC 4 num_delete 0.497222185135
+szkata SNARC_only DC 2 num_delete 0.415606021881
+szkata SNARC_only DC 3 num_delete 0.378266811371
+szkata SNARC_only DC 8 num_delete 1.67082095146
+szkata SNARC_only DC 8 num_delete 0.353484869003
+szkata SNARC_only DC 1 lctrl 0.554091930389
+szkata SNARC_only DC 3 lctrl 0.674111843109
+szkata SNARC_only DC 1 lctrl 0.568740844727
+szkata SNARC_only DC 2 num_delete 0.45792722702
+szkata SNARC_only DC 3 lctrl 0.515063047409
+szkata SNARC_only DC 9 num_delete 0.440326929092
+szkata SNARC_only DC 4 num_delete 0.609341144562
+szkata SNARC_only DC 5 lctrl 0.994542121887
+szkata SNARC_only DC 5 lctrl 0.338343858719
+szkata SNARC_only DC 8 num_delete 1.05709004402
+szkata SNARC_only DC 2 num_delete 0.466045856476
+szkata SNARC_only DC 2 num_delete 0.473574876785
+szkata SNARC_only DC 9 lctrl 0.425920963287
+szkata SNARC_only DC 8 lctrl 0.345362186432
+szkata SNARC_only DC 8 num_delete 0.537249088287
+szkata SNARC_only DC 4 lctrl 0.426151037216
+szkata SNARC_only DC 9 lctrl 1.08937096596
+szkata SNARC_only DC 7 lctrl 0.520507097244
+szkata SNARC_only DC 3 num_delete 0.337104082108
+szkata SNARC_only DC 1 lctrl 0.513292074203
+szkata SNARC_only DC 5 num_delete 0.521476984024
+szkata SNARC_only DC 4 num_delete 0.489407062531
+szkata SNARC_only DC 9 num_delete 0.609138965607
+szkata SNARC_only DC 7 lctrl 0.737191915512
+szkata SNARC_only DC 6 num_delete 0.593228816986
+szkata SNARC_only DC 7 lctrl 1.00249004364
+szkata SNARC_only DC 1 lctrl 0.913453102112
+szkata SNARC_only DC 1 lctrl 0.362298965454
+szkata SNARC_only DC 9 num_delete 0.432820081711
+szkata SNARC_only DC 7 lctrl 1.57708787918
+szkata SNARC_only DC 1 lctrl 0.433429002762
+szkata SNARC_only DC 9 lctrl 0.457364082336
+szkata SNARC_only DC 9 lctrl 0.385427951813
+szkata SNARC_only DC 5 lctrl 0.752823114395
+szkata SNARC_only DC 9 lctrl 0.473812818527
+szkata SNARC_only DC 9 lctrl 0.562241077423
+szkata SNARC_only DC 1 lctrl 0.457123994827
+szkata SNARC_only DC 2 num_delete 0.616453886032
+szkata SNARC_only DC 5 lctrl 0.546514034271
+szkata SNARC_only DC 6 num_delete 0.655923843384
+szkata SNARC_only DC 3 lctrl 0.514412164688
+szkata SNARC_only DC 6 num_delete 0.616689920425
+szkata SNARC_only DC 4 lctrl 0.351822137833
+szkata SNARC_only DC 8 lctrl 0.600654125214
+szkata SNARC_only DC 5 lctrl 1.42566895485
+szkata SNARC_only DC 9 lctrl 0.553232908249
+szkata SNARC_only DC 3 lctrl 0.633774995804
+szkata SNARC_only DC 4 num_delete 0.577502012253
+szkata SNARC_only DC 9 lctrl 0.882324934006
+szkata SNARC_only DC 8 num_delete 0.760890007019
+szkata SNARC_only DC 9 lctrl 1.09825015068
+szkata SNARC_only DC 3 lctrl 0.874163866043
+szkata SNARC_only DC 6 lctrl 0.74656701088
+szkata SNARC_only DC 2 num_delete 0.545047044754
+szkata SNARC_only DC 5 lctrl 0.490500926971
+szkata SNARC_only DC 7 lctrl 0.520285129547
+szkata SNARC_only DC 4 lctrl 0.441748142242
+szkata SNARC_only DC 8 num_delete 0.433223009109
+szkata SNARC_only DC 5 lctrl 0.538009166718
+szkata SNARC_only DC 4 lctrl 0.529772996902
+szkata SNARC_only DC 7 lctrl 0.617765903473
+szkata SNARC_only DC 4 num_delete 1.00981402397
+szkata SNARC_only DC 2 num_delete 0.362116098404
+szkata SNARC_only DC 3 lctrl 0.617735147476
+szkata SNARC_only DC 8 num_delete 0.510195016861
+szkata SNARC_only DC 8 num_delete 0.737192153931
+szkata SNARC_only DC 4 num_delete 0.841372013092
+szkata SNARC_only DC 7 lctrl 0.450443983078
+szkata SNARC_only DC 9 lctrl 0.71351313591
+szkata SNARC_only DC 7 num_delete 0.441159009933
+szkata SNARC_only DC 4 num_delete 0.410244941711
+szkata SNARC_only DC 3 lctrl 0.601619005203
+szkata SNARC_only DC 6 lctrl 0.601847171783
+szkata SNARC_only DC 5 num_delete 0.488351821899
+szkata SNARC_only DC 7 lctrl 0.54560303688
+szkata SNARC_only DC 5 lctrl 0.466089010239
+szkata SNARC_only DC 2 lctrl 0.433365106583
+szkata SNARC_only DC 4 num_delete 0.503254890442
+szkata SNARC_only DC 7 lctrl 0.466187953949
+szkata SNARC_only DC 5 lctrl 0.512742996216
+szkata SNARC_only DC 4 num_delete 0.761340856552
+szkata SNARC_only DC 3 lctrl 2.85717082024
+szkata SNARC_only DC 4 num_delete 1.33664488792
+szkata SNARC_only DC 6 num_delete 0.496783971786
+szkata SNARC_only DC 6 num_delete 0.369759082794
+szkata SNARC_only DC 6 num_delete 0.498163938522
+szkata SNARC_only DC 4 num_delete 0.721565008163
+szkata SNARC_only DC 1 num_delete 0.601321935654
+szkata SNARC_only DC 6 num_delete 0.400345087051
+szkata SNARC_only DC 5 lctrl 0.69807100296
+szkata SNARC_only DC 6 lctrl 0.714291095734
+szkata SNARC_only DC 2 num_delete 0.550331115723
+szkata SNARC_only DC 2 num_delete 0.377078056335
+szkata SNARC_only DC 5 lctrl 0.521336078644
+szkata SNARC_only DC 7 lctrl 0.593734025955
+szkata SNARC_only DC 2 num_delete 0.650372028351
+szkata SNARC_only DC 3 lctrl 0.736895084381
+szkata SNARC_only DC 1 lctrl 1.17718696594
+szkata SNARC_only DC 1 lctrl 0.441189050674
+szkata SNARC_only DC 6 num_delete 1.08939218521
+szkata SNARC_only DC 9 lctrl 0.416681051254
+szkata SNARC_only DC 8 num_delete 0.449366092682
+szkata SNARC_only DC 3 lctrl 0.506165027618
+szkata SNARC_only DC 2 num_delete 0.545253992081
+szkata SNARC_only DC 4 num_delete 0.45717215538
+szkata SNARC_only DC 2 num_delete 0.400765895844
+szkata SNARC_only DC 1 lctrl 0.706274032593
+szkata SNARC_only DC 8 num_delete 0.552776098251
+szkata SNARC_only DC 2 num_delete 1.58587622643
+szkata SNARC_only DC 1 lctrl 0.441804170609
+szkata SNARC_only DC 6 lctrl 2.66639590263
+szkata SNARC_only DC 9 lctrl 0.568928003311
+szkata SNARC_only DC 7 lctrl 0.569031000137
+szkata SNARC_only DC 5 lctrl 0.593942165375
+szkata SNARC_only DC 6 lctrl 0.498302936554
+szkata SNARC_only DC 3 lctrl 0.752120018005
+szkata SNARC_only DC 1 lctrl 0.529267072678
+szkata SNARC_only DC 9 lctrl 0.641371965408
+szkata SNARC_only DC 8 num_delete 0.6803150177
+szkata SNARC_only DC 1 lctrl 0.37727189064
+szkata SNARC_only DC 4 num_delete 0.881661891937
+szkata SNARC_only DC 6 lctrl 0.58576798439
+szkata SNARC_only DC 3 lctrl 0.633098125458
+szkata SNARC_only DC 9 lctrl 0.545799970627
+szkata SNARC_only DC 8 num_delete 0.433177947998
+szkata SNARC_only DC 7 lctrl 0.498329162598
+szkata SNARC_only DC 2 num_delete 0.449079036713
+szkata SNARC_only DC 5 lctrl 0.409696102142
+szkata SNARC_only DC 1 lctrl 0.353177070618
+szkata SNARC_only DC 4 num_delete 0.48172211647
+szkata SNARC_only DC 9 lctrl 0.434983968735
+szkata SNARC_only DC 5 lctrl 0.361342906952
+szkata SNARC_only DC 2 num_delete 0.330075025558
+szkata SNARC_only DC 9 lctrl 0.737185955048
+szkata SNARC_only DC 2 num_delete 0.528706073761
+szkata SNARC_only DC 9 lctrl 0.385550022125
+szkata SNARC_only DC 7 lctrl 0.505178928375
+szkata SNARC_only DC 4 lctrl 0.625657081604
+szkata SNARC_only DC 3 lctrl 0.59383893013
+szkata SNARC_only DC 7 lctrl 0.361800909042
+szkata SNARC_only DC 4 num_delete 0.632817029953
+szkata SNARC_only DC 7 lctrl 0.978241920471
+szkata SNARC_only DC 3 num_delete 2.1448469162
+szkata SNARC_only DC 6 num_delete 0.400957107544
+szkata SNARC_only DC 2 num_delete 0.450084924698
+szkata SNARC_only DC 9 lctrl 0.513645887375
+szkata SNARC_only DC 9 lctrl 0.457570075989
+szkata SNARC_only DC 8 lctrl 0.530102968216
+szkata SNARC_only DC 4 lctrl 0.505818843842
+szkata SNARC_only DC 1 lctrl 1.1620221138
+szkata SNARC_only DC 8 lctrl 0.52782201767
+szkata SNARC_only DC 9 lctrl 0.456938028336
+szkata SNARC_only DC 5 lctrl 0.457898855209
+szkata SNARC_only DC 6 lctrl 0.473941087723
+szkata SNARC_only DC 4 lctrl 0.512004137039
+szkata SNARC_only DC 7 lctrl 0.552536964417
+szkata SNARC_only DC 5 lctrl 1.18626594543
+szkata SNARC_only DC 6 num_delete 0.44208407402
+szkata SNARC_only DC 1 lctrl 0.425263881683
+szkata SNARC_only DC 3 num_delete 0.32897400856
+szkata SNARC_only DC 8 num_delete 0.393237113953
+szkata SNARC_only DC 3 lctrl 0.299386978149
+szkata SNARC_only DC 6 lctrl 0.393006801605
+szkata SNARC_only DC 1 lctrl 0.760586977005
+szkata SNARC_only DC 7 lctrl 0.312302112579
+szkata SNARC_only DC 3 lctrl 0.337064981461
+szkata SNARC_only DC 2 num_delete 0.368242025375
+szkata SNARC_only DC 5 lctrl 0.266266822815
+szkata SNARC_only DC 8 lctrl 0.401540994644
+szkata SNARC_only DC 1 lctrl 0.441792964935
+szkata SNARC_only DC 5 lctrl 0.521964073181
+szkata SNARC_only DC 5 lctrl 0.377865076065
+szkata SNARC_only DC 2 num_delete 0.470927000046
+szkata SNARC_only DC 2 num_delete 0.368546962738
+szkata SNARC_only DC 8 lctrl 0.369562149048
+szkata SNARC_only DC 4 lctrl 0.345419168472
+szkata SNARC_only DC 4 num_delete 0.377646923065
+szkata SNARC_only DC 5 lctrl 0.467528104782
+szkata SNARC_only DC 4 lctrl 0.449249982834
+szkata SNARC_only DC 6 num_delete 0.625133991241
+szkata SNARC_only DC 8 lctrl 0.529188871384
+szkata SNARC_only DC 3 num_delete 0.489202976227
+szkata SNARC_only DC 1 lctrl 0.537379980087
+szkata SNARC_only DC 7 lctrl 0.433734893799
+szkata SNARC_only DC 1 num_delete 0.48940205574
+szkata SNARC_only DC 2 lctrl 0.313723802567
+szkata SNARC_only DC 2 num_delete 0.408763170242
+szkata SNARC_only DC 7 lctrl 0.370640039444
+szkata SNARC_only DC 7 lctrl 0.305510997772
+szkata SNARC_only DC 2 num_delete 0.425091028214
+szkata SNARC_only DC 1 lctrl 0.314229011536
+szkata SNARC_only DC 9 lctrl 0.345103979111
+szkata SNARC_only DC 4 lctrl 0.361963033676
+szkata SNARC_only DC 9 lctrl 0.401438951492
+szkata SNARC_only DC 5 lctrl 0.704439878464
+szkata SNARC_only DC 9 lctrl 0.418262004852
+szkata SNARC_only DC 1 lctrl 0.681927919388
+szkata SNARC_only DC 3 lctrl 0.513402938843
+szkata SNARC_only DC 2 num_delete 0.536808013916
+szkata SNARC_only DC 1 lctrl 0.41756105423
+szkata SNARC_only DC 3 lctrl 0.513165950775
+szkata SNARC_only DC 4 num_delete 0.705636024475
+szkata SNARC_only DC 9 lctrl 1.0413620472
+szkata SNARC_only DC 9 lctrl 0.345382928848
+szkata SNARC_only DC 9 lctrl 0.298238039017
+szkata SNARC_only DC 4 lctrl 0.329327821732
+szkata SNARC_only DC 8 num_delete 0.744639158249
+szkata SNARC_only DC 9 lctrl 0.480986118317
+szkata SNARC_only DC 2 lctrl 0.296120882034
+szkata SNARC_only DC 3 lctrl 0.45692896843
+szkata SNARC_only DC 1 num_delete 0.760494947433
+szkata SNARC_only DC 5 lctrl 0.433852910995
+szkata SNARC_only DC 6 num_delete 0.912384986877
+szkata SNARC_only DC 1 lctrl 0.335938930511
+szkata SNARC_only DC 6 num_delete 0.672785997391
+szkata SNARC_only DC 5 lctrl 0.433981180191
+szkata SNARC_only DC 5 lctrl 0.600003004074
+szkata SNARC_only DC 7 lctrl 0.657051086426
+szkata SNARC_only DC 5 lctrl 0.504270792007
+szkata SNARC_only DC 2 lctrl 0.553029060364
+szkata SNARC_only DC 7 lctrl 0.456558942795
+szkata SNARC_only DC 1 num_delete 0.465567827225
+szkata SNARC_only DC 5 lctrl 0.434278964996
+szkata SNARC_only DC 4 lctrl 0.418133020401
+szkata SNARC_only DC 4 num_delete 0.46555018425
+szkata SNARC_only DC 4 num_delete 0.361353874207
+szkata SNARC_only DC 8 num_delete 0.425246953964
+szkata SNARC_only DC 4 num_delete 0.330476999283
+szkata SNARC_only DC 6 num_delete 0.513550043106
+szkata SNARC_only DC 3 num_delete 0.32962012291
+szkata SNARC_only DC 7 lctrl 0.457753896713
+szkata SNARC_only DC 9 lctrl 0.625054121017
+szkata SNARC_only DC 6 lctrl 0.38534283638
+szkata SNARC_only DC 5 num_delete 0.417730093002
+szkata SNARC_only DC 7 lctrl 0.786010980606
+szkata SNARC_only DC 7 lctrl 0.313751935959
+szkata SNARC_only DC 9 lctrl 0.537810087204
+szkata SNARC_only DC 2 num_delete 0.513119935989
+szkata SNARC_only DC 4 num_delete 0.537543058395
+szkata SNARC_only DC 6 num_delete 0.553271055222
+szkata SNARC_only DC 1 lctrl 0.563047885895
+szkata SNARC_only DC 5 num_delete 2.76111102104
+szkata SNARC_only DC 3 lctrl 0.793689966202
+szkata SNARC_only DC 2 lctrl 0.522088050842
+szkata SNARC_only DC 1 lctrl 0.512005805969
+szkata SNARC_only DC 8 num_delete 0.361008882523
+szkata SNARC_only DC 8 num_delete 0.329737901688
+szkata SNARC_only DC 6 num_delete 0.529752016068
+szkata SNARC_only DC 2 num_delete 1.34551095963
+szkata SNARC_only DC 7 lctrl 2.88224411011
+szkata SNARC_only DC 7 lctrl 0.409274101257
+szkata SNARC_only DC 7 lctrl 0.449436187744
+szkata SNARC_only DC 3 num_delete 0.82544708252
+szkata SNARC_only DC 8 num_delete 0.920629024506
+szkata SNARC_only DC 4 lctrl 1.14596390724
+szkata SNARC_only DC 1 num_delete 0.616842985153
+szkata SNARC_only DC 7 lctrl 0.554115056992
+szkata SNARC_only DC 5 num_delete 0.577750921249
+szkata SNARC_only DC 8 lctrl 0.385992050171
+szkata SNARC_only DC 3 lctrl 1.76178407669
+szkata SNARC_only DC 7 lctrl 0.346060991287
+szkata SNARC_only DC 7 lctrl 0.369914054871
+szkata SNARC_only DC 5 num_delete 0.400119066238
+szkata SNARC_only DC 7 lctrl 0.370146989822
+szkata SNARC_only DC 7 lctrl 0.393775939941
+szkata SNARC_only DC 8 lctrl 0.305381059647
+szkata SNARC_only DC 8 num_delete 0.42516207695
+szkata SNARC_only DC 8 num_delete 0.329646110535
+szkata SNARC_only DC 1 lctrl 0.345413923264
+szkata SNARC_only DC 6 num_delete 0.984699964523
+szkata SNARC_only DC 8 num_delete 0.737102031708
+szkata SNARC_only DC 7 lctrl 1.1455180645
+szkata SNARC_only DC 2 lctrl 0.417464017868
+szkata SNARC_only DC 1 lctrl 0.832721948624
+szkata SNARC_only DC 7 num_delete 0.52042889595
+szkata SNARC_only DC 9 lctrl 0.385318040848
+szkata SNARC_only DC 8 lctrl 0.362408876419
+szkata SNARC_only DC 3 lctrl 0.385373830795
+szkata SNARC_only DC 9 lctrl 0.505131959915
+szkata SNARC_only DC 8 lctrl 0.338011980057
+szkata SNARC_only DC 2 num_delete 3.4300570488
+szkata SNARC_only DC 2 lctrl 0.362118959427
+szkata SNARC_only DC 4 num_delete 0.319270133972
+szkata SNARC_only DC 1 lctrl 0.561527013779
+szkata SNARC_only DC 5 lctrl 0.76921415329
+szkata SNARC_only DC 4 lctrl 0.64145898819
+szkata SNARC_only DC 6 lctrl 0.384365081787
+szkata SNARC_only DC 2 num_delete 0.481172084808
+szkata SNARC_only DC 3 lctrl 0.53902387619
+szkata SNARC_only DC 6 lctrl 0.768985033035
+szkata SNARC_only DC 2 num_delete 0.592362880707
+szkata SNARC_only DC 3 num_delete 0.801218032837
+szkata SNARC_only DC 6 lctrl 0.617822885513
+szkata SNARC_only DC 2 num_delete 0.367282152176
+szkata SNARC_only DC 5 num_delete 0.329250097275
+szkata SNARC_only DC 1 lctrl 0.585969924927
+szkata SNARC_only DC 2 num_delete 0.425856113434
+szkata SNARC_only DC 4 num_delete 0.418150186539
+szkata SNARC_only DC 1 num_delete 0.345541954041
+szkata SNARC_only DC 3 lctrl 0.417250871658
+szkata SNARC_only DC 7 lctrl 0.329629898071
+szkata SNARC_only DC 8 lctrl 0.32926607132
+szkata SNARC_only DC 6 num_delete 0.5771048069
+szkata SNARC_only DC 1 lctrl 0.353434085846
+szkata SNARC_only DC 3 lctrl 0.586173057556
+szkata SNARC_only DC 4 num_delete 0.489115953445
+szkata SNARC_only DC 5 lctrl 0.521726131439
+szkata SNARC_only DC 8 lctrl 0.433488130569
+szkata SNARC_only DC 6 num_delete 0.57709479332
+szkata SNARC_only DC 5 lctrl 0.530294179916
+szkata SNARC_only DC 2 num_delete 0.519876003265
+szkata SNARC_only DC 8 num_delete 0.449823141098
+szkata SNARC_only DC 9 lctrl 0.368777036667
+szkata SNARC_only DC 7 lctrl 0.369084835052
+szkata SNARC_only DC 3 lctrl 0.37034702301
+szkata SNARC_only DC 3 lctrl 0.288516998291
+szkata SNARC_only DC 8 num_delete 0.383818149567
+szkata SNARC_only DC 2 num_delete 0.376904964447
+szkata SNARC_only DC 8 num_delete 0.41809797287
+szkata SNARC_only DC 9 lctrl 0.481480121613
+szkata SNARC_only DC 4 lctrl 0.457934141159
+szkata SNARC_only DC 7 lctrl 0.568686962128
+szkata SNARC_only DC 6 lctrl 0.433463096619
+szkata SNARC_only DC 2 num_delete 0.521342039108
+szkata SNARC_only DC 5 lctrl 0.698214054108
+szkata SNARC_only DC 6 num_delete 0.904892921448
+szkata SNARC_only DC 1 lctrl 0.46622300148
+szkata SNARC_only DC 6 num_delete 0.466018915176
+szkata SNARC_only DC 4 lctrl 0.497254133224
+szkata SNARC_only DC 6 num_delete 0.344870090485
+szkata SNARC_only DC 6 num_delete 0.385752916336
+szkata SNARC_only DC 9 lctrl 0.571030139923
+szkata SNARC_only DC 8 num_delete 1.04926609993
+szkata SNARC_only DC 1 lctrl 0.593465089798
+szkata SNARC_only DC 6 num_delete 0.43320608139
+szkata SNARC_only DC 3 lctrl 0.425564050674
+szkata SNARC_only DC 6 num_delete 0.848815917969
+szkata SNARC_only DC 3 lctrl 5.32176208496
+szkata SNARC_only DC 7 lctrl 1.22600793839
+szkata SNARC_only DC 1 lctrl 0.841252088547
+szkata SNARC_only DC 9 lctrl 0.658196210861
+szkata SNARC_only DC 8 num_delete 0.808583974838
+szkata SNARC_only DC 1 lctrl 0.361654043198
+szkata SNARC_only DC 3 lctrl 0.481376886368
+szkata SNARC_only DC 8 num_delete 0.432765007019
+szkata SNARC_only DC 5 lctrl 0.562387943268
+szkata SNARC_only DC 3 lctrl 0.578706026077
+szkata SNARC_only DC 5 lctrl 0.609238147736
+szkata SNARC_only DC 9 num_delete 0.649361133575
+{'participant': u'szkata', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1500', 'autopilot': False, 'exp_id': u'SNARC'}
+szkata SNARC_only CD 4 lctrl 1.08118605614
+szkata SNARC_only CD 1 num_delete 1.09677910805
+szkata SNARC_only CD 6 lctrl 1.18490099907
+szkata SNARC_only CD 1 num_delete 0.473604917526
+szkata SNARC_only CD 3 num_delete 1.54493999481
+szkata SNARC_only CD 5 num_delete 0.367674827576
+szkata SNARC_only CD 4 lctrl 0.345712900162
+szkata SNARC_only CD 4 lctrl 0.313357114792
+szkata SNARC_only CD 6 lctrl 0.594059944153
+szkata SNARC_only CD 9 num_delete 0.417151927948
+szkata SNARC_only CD 8 lctrl 0.440372943878
+szkata SNARC_only CD 8 lctrl 0.385135173798
+szkata SNARC_only CD 4 lctrl 0.617741107941
+szkata SNARC_only CD 4 lctrl 0.29659986496
+szkata SNARC_only CD 5 num_delete 0.378065109253
+szkata SNARC_only CD 7 num_delete 0.536958932877
+szkata SNARC_only CD 5 lctrl 0.401427984238
+szkata SNARC_only CD 8 num_delete 0.523441076279
+szkata SNARC_only CD 7 num_delete 0.561691999435
+szkata SNARC_only CD 4 lctrl 0.489108085632
+szkata SNARC_only CD 2 lctrl 0.369348049164
+szkata SNARC_only CD 6 lctrl 0.401225090027
+szkata SNARC_only CD 8 lctrl 0.353661060333
+szkata SNARC_only CD 4 lctrl 0.377687931061
+szkata SNARC_only CD 5 lctrl 0.297537088394
+szkata SNARC_only CD 4 lctrl 0.442207098007
+szkata SNARC_only CD 9 num_delete 0.417055845261
+szkata SNARC_only CD 7 num_delete 0.345457077026
+szkata SNARC_only CD 9 num_delete 0.337067842484
+szkata SNARC_only CD 8 lctrl 0.449846982956
+szkata SNARC_only CD 3 lctrl 0.352926015854
+szkata SNARC_only CD 1 lctrl 0.528738975525
+szkata SNARC_only CD 3 num_delete 0.512542009354
+szkata SNARC_only CD 1 num_delete 0.465615034103
+szkata SNARC_only CD 3 num_delete 0.417145967484
+szkata SNARC_only CD 1 num_delete 0.249114990234
+szkata SNARC_only CD 9 num_delete 0.306198120117
+szkata SNARC_only CD 3 num_delete 0.329897165298
+szkata SNARC_only CD 2 lctrl 0.426159143448
+szkata SNARC_only CD 2 lctrl 0.28891992569
+szkata SNARC_only CD 9 num_delete 0.433841943741
+szkata SNARC_only CD 4 lctrl 0.385210037231
+szkata SNARC_only CD 4 lctrl 0.313408851624
+szkata SNARC_only CD 1 num_delete 1.68953585625
+szkata SNARC_only CD 1 num_delete 0.281225204468
+szkata SNARC_only CD 3 num_delete 0.369856834412
+szkata SNARC_only CD 6 lctrl 0.497896909714
+szkata SNARC_only CD 6 lctrl 0.370054960251
+szkata SNARC_only CD 8 lctrl 0.503519058228
+szkata SNARC_only CD 1 num_delete 0.505896091461
+szkata SNARC_only CD 5 num_delete 0.537616014481
+szkata SNARC_only CD 6 num_delete 0.409098863602
+szkata SNARC_only CD 9 num_delete 0.568455934525
+szkata SNARC_only CD 5 num_delete 0.50595498085
+szkata SNARC_only CD 1 num_delete 0.376977920532
+szkata SNARC_only CD 1 num_delete 0.321614980698
+szkata SNARC_only CD 4 num_delete 0.457485198975
+szkata SNARC_only CD 3 num_delete 0.679907083511
+szkata SNARC_only CD 1 num_delete 0.457564115524
+szkata SNARC_only CD 9 num_delete 0.39314198494
+szkata SNARC_only CD 6 num_delete 0.426062107086
+szkata SNARC_only CD 3 num_delete 0.528650045395
+szkata SNARC_only CD 7 num_delete 0.43368601799
+szkata SNARC_only CD 6 lctrl 0.634031772614
+szkata SNARC_only CD 1 num_delete 0.737238168716
+szkata SNARC_only CD 6 lctrl 0.489836931229
+szkata SNARC_only CD 4 lctrl 0.384953975677
+szkata SNARC_only CD 9 num_delete 0.553270101547
+szkata SNARC_only CD 6 lctrl 1.08962988853
+szkata SNARC_only CD 9 num_delete 0.72136092186
+szkata SNARC_only CD 1 lctrl 0.377877950668
+szkata SNARC_only CD 7 num_delete 0.425156831741
+szkata SNARC_only CD 3 lctrl 0.250090837479
+szkata SNARC_only CD 7 num_delete 0.320595026016
+szkata SNARC_only CD 8 num_delete 0.0338847637177
+szkata SNARC_only CD 8 num_delete 0.0297360420227
+szkata SNARC_only CD 3 num_delete 0.0730340480804
+szkata SNARC_only CD 6 lctrl 0.490432024002
+szkata SNARC_only CD 6 lctrl 0.376885175705
+szkata SNARC_only CD 5 num_delete 0.593147993088
+szkata SNARC_only CD 4 lctrl 0.378566026688
+szkata SNARC_only CD 5 lctrl 0.345976829529
+szkata SNARC_only CD 7 num_delete 0.432566165924
+szkata SNARC_only CD 1 num_delete 0.44903087616
+szkata SNARC_only CD 3 num_delete 0.368725061417
+szkata SNARC_only CD 4 num_delete 0.329573869705
+szkata SNARC_only CD 6 num_delete 0.353523015976
+szkata SNARC_only CD 5 lctrl 0.361124992371
+szkata SNARC_only CD 5 lctrl 0.377259016037
+szkata SNARC_only CD 2 lctrl 0.880294799805
+szkata SNARC_only CD 5 num_delete 0.665898084641
+szkata SNARC_only CD 2 lctrl 0.474124908447
+szkata SNARC_only CD 5 num_delete 0.393689870834
+szkata SNARC_only CD 4 lctrl 0.770481109619
+szkata SNARC_only CD 7 num_delete 0.353240013123
+szkata SNARC_only CD 7 num_delete 0.321129083633
+szkata SNARC_only CD 6 lctrl 0.433346033096
+szkata SNARC_only CD 9 num_delete 0.312705993652
+szkata SNARC_only CD 7 num_delete 0.362102031708
+szkata SNARC_only CD 2 num_delete 0.105188846588
+szkata SNARC_only CD 3 num_delete 0.399940013885
+szkata SNARC_only CD 4 num_delete 0.17729306221
+szkata SNARC_only CD 1 num_delete 0.392019987106
+szkata SNARC_only CD 6 lctrl 0.425847053528
+szkata SNARC_only CD 2 lctrl 0.617259979248
+szkata SNARC_only CD 4 lctrl 0.489614963531
+szkata SNARC_only CD 1 num_delete 0.467702150345
+szkata SNARC_only CD 9 num_delete 0.343080043793
+szkata SNARC_only CD 5 num_delete 0.472815990448
+szkata SNARC_only CD 7 num_delete 0.409630060196
+szkata SNARC_only CD 7 num_delete 0.425158977509
+szkata SNARC_only CD 7 num_delete 0.344685077667
+szkata SNARC_only CD 3 num_delete 0.529242992401
+szkata SNARC_only CD 3 num_delete 0.312811851501
+szkata SNARC_only CD 1 num_delete 0.394090890884
+szkata SNARC_only CD 2 lctrl 0.553477048874
+szkata SNARC_only CD 2 lctrl 0.393419027328
+szkata SNARC_only CD 8 lctrl 0.401262998581
+szkata SNARC_only CD 9 num_delete 0.601680994034
+szkata SNARC_only CD 7 num_delete 0.370157957077
+szkata SNARC_only CD 1 num_delete 0.0811929702759
+szkata SNARC_only CD 8 num_delete 0.264918088913
+szkata SNARC_only CD 3 num_delete 0.33763217926
+szkata SNARC_only CD 8 num_delete 0.305552005768
+szkata SNARC_only CD 1 num_delete 0.377106904984
+szkata SNARC_only CD 2 lctrl 0.489703178406
+szkata SNARC_only CD 6 lctrl 0.346237182617
+szkata SNARC_only CD 7 num_delete 0.521051168442
+szkata SNARC_only CD 1 lctrl 0.353363037109
+szkata SNARC_only CD 9 num_delete 0.656501054764
+szkata SNARC_only CD 2 lctrl 0.45005607605
+szkata SNARC_only CD 5 num_delete 0.440301179886
+szkata SNARC_only CD 9 num_delete 0.361778974533
+szkata SNARC_only CD 8 lctrl 0.353915929794
+szkata SNARC_only CD 7 num_delete 0.33644080162
+szkata SNARC_only CD 1 lctrl 0.322046041489
+szkata SNARC_only CD 7 num_delete 0.265563964844
+szkata SNARC_only CD 8 num_delete 0.321026086807
+szkata SNARC_only CD 1 num_delete 0.655486106873
+szkata SNARC_only CD 6 lctrl 0.554110050201
+szkata SNARC_only CD 6 lctrl 0.369917154312
+szkata SNARC_only CD 7 num_delete 0.377354860306
+szkata SNARC_only CD 8 lctrl 0.416963100433
+szkata SNARC_only CD 2 lctrl 0.440716981888
+szkata SNARC_only CD 5 num_delete 0.441664218903
+szkata SNARC_only CD 4 num_delete 0.16912817955
+szkata SNARC_only CD 9 num_delete 0.305279970169
+szkata SNARC_only CD 9 num_delete 0.312093019485
+szkata SNARC_only CD 4 num_delete 0.281759023666
+szkata SNARC_only CD 6 num_delete 0.320670127869
+szkata SNARC_only CD 5 num_delete 0.383777141571
+szkata SNARC_only CD 6 num_delete 0.321105957031
+szkata SNARC_only CD 2 lctrl 0.434056043625
+szkata SNARC_only CD 4 lctrl 0.385385036469
+szkata SNARC_only CD 1 lctrl 0.258409976959
+szkata SNARC_only CD 8 lctrl 0.68882393837
+szkata SNARC_only CD 4 lctrl 0.54470705986
+szkata SNARC_only CD 3 num_delete 0.504377126694
+szkata SNARC_only CD 6 lctrl 0.722544193268
+szkata SNARC_only CD 2 lctrl 0.369884967804
+szkata SNARC_only CD 3 num_delete 0.520452976227
+szkata SNARC_only CD 3 num_delete 0.401895999908
+szkata SNARC_only CD 5 lctrl 0.400822162628
+szkata SNARC_only CD 8 num_delete 0.376533985138
+szkata SNARC_only CD 8 lctrl 0.409907817841
+szkata SNARC_only CD 5 num_delete 0.392435789108
+szkata SNARC_only CD 1 lctrl 0.402171850204
+szkata SNARC_only CD 2 num_delete 0.296204090118
+szkata SNARC_only CD 7 num_delete 0.497302055359
+szkata SNARC_only CD 9 num_delete 0.401739120483
+szkata SNARC_only CD 6 lctrl 0.529582977295
+szkata SNARC_only CD 3 num_delete 0.480928897858
+szkata SNARC_only CD 2 lctrl 0.329774141312
+szkata SNARC_only CD 4 num_delete 0.272861003876
+szkata SNARC_only CD 7 lctrl 0.289063930511
+szkata SNARC_only CD 9 num_delete 0.359988212585
+szkata SNARC_only CD 4 lctrl 0.441452026367
+szkata SNARC_only CD 8 num_delete 0.617146015167
+szkata SNARC_only CD 5 lctrl 0.601592063904
+szkata SNARC_only CD 8 lctrl 0.680594921112
+szkata SNARC_only CD 5 num_delete 0.705241918564
+szkata SNARC_only CD 3 num_delete 0.425601959229
+szkata SNARC_only CD 9 num_delete 0.408966064453
+szkata SNARC_only CD 5 lctrl 0.455358028412
+szkata SNARC_only CD 5 num_delete 0.320496082306
+szkata SNARC_only CD 4 lctrl 0.473741054535
+szkata SNARC_only CD 4 lctrl 0.345232009888
+szkata SNARC_only CD 1 num_delete 0.464761018753
+szkata SNARC_only CD 6 lctrl 0.514330148697
+szkata SNARC_only CD 7 num_delete 0.377117156982
+szkata SNARC_only CD 7 num_delete 0.346142053604
+szkata SNARC_only CD 4 lctrl 0.561834096909
+szkata SNARC_only CD 4 lctrl 0.41761302948
+szkata SNARC_only CD 5 num_delete 0.401638031006
+szkata SNARC_only CD 4 lctrl 0.514287948608
+szkata SNARC_only CD 9 num_delete 0.44935297966
+szkata SNARC_only CD 5 lctrl 0.410919904709
+szkata SNARC_only CD 2 lctrl 0.496256113052
+szkata SNARC_only CD 4 lctrl 0.553843975067
+szkata SNARC_only CD 1 lctrl 0.289444923401
+szkata SNARC_only CD 7 num_delete 0.857725858688
+szkata SNARC_only CD 4 num_delete 0.368288040161
+szkata SNARC_only CD 5 num_delete 0.113786935806
+szkata SNARC_only CD 1 num_delete 0.121651887894
+szkata SNARC_only CD 8 num_delete 0.369043111801
+szkata SNARC_only CD 9 num_delete 0.793275117874
+szkata SNARC_only CD 2 lctrl 0.354253053665
+szkata SNARC_only CD 8 lctrl 0.442424058914
+szkata SNARC_only CD 7 num_delete 0.344889879227
+szkata SNARC_only CD 5 num_delete 0.673945903778
+szkata SNARC_only CD 9 lctrl 0.417100906372
+szkata SNARC_only CD 6 num_delete 0.353420972824
+szkata SNARC_only CD 3 num_delete 0.473062992096
+szkata SNARC_only CD 5 num_delete 0.409546136856
+szkata SNARC_only CD 1 lctrl 0.370239973068
+szkata SNARC_only CD 2 num_delete 0.425133943558
+szkata SNARC_only CD 9 num_delete 0.665481090546
+szkata SNARC_only CD 8 lctrl 0.634391069412
+szkata SNARC_only CD 9 num_delete 0.545515060425
+szkata SNARC_only CD 2 lctrl 0.513355016708
+szkata SNARC_only CD 9 num_delete 0.481447935104
+szkata SNARC_only CD 3 num_delete 0.585160017014
+szkata SNARC_only CD 7 num_delete 0.681725978851
+szkata SNARC_only CD 3 num_delete 0.537966966629
+szkata SNARC_only CD 2 lctrl 0.729817867279
+szkata SNARC_only CD 5 num_delete 0.46605181694
+szkata SNARC_only CD 8 num_delete 0.552893161774
+szkata SNARC_only CD 7 num_delete 0.433283805847
+szkata SNARC_only CD 2 lctrl 0.849925994873
+szkata SNARC_only CD 2 lctrl 0.905637979507
+szkata SNARC_only CD 5 num_delete 0.937099933624
+szkata SNARC_only CD 9 num_delete 1.04194903374
+szkata SNARC_only CD 3 num_delete 1.25700092316
+szkata SNARC_only CD 1 num_delete 0.826220035553
+szkata SNARC_only CD 4 lctrl 1.6889128685
+szkata SNARC_only CD 7 num_delete 0.544231891632
+szkata SNARC_only CD 9 num_delete 0.641211986542
+szkata SNARC_only CD 8 num_delete 0.745218992233
+szkata SNARC_only CD 1 lctrl 0.497680902481
+szkata SNARC_only CD 8 lctrl 0.657072067261
+szkata SNARC_only CD 1 lctrl 0.480989217758
+szkata SNARC_only CD 5 num_delete 1.40083289146
+szkata SNARC_only CD 6 lctrl 0.730353832245
+szkata SNARC_only CD 6 lctrl 0.537210941315
+szkata SNARC_only CD 3 num_delete 1.20910978317
+szkata SNARC_only CD 9 num_delete 0.881543874741
+szkata SNARC_only CD 2 lctrl 1.8016731739
+szkata SNARC_only CD 2 lctrl 1.02397108078
+szkata SNARC_only CD 7 num_delete 1.98553991318
+szkata SNARC_only CD 8 lctrl 0.753878116608
+szkata SNARC_only CD 7 num_delete 1.80932092667
+szkata SNARC_only CD 5 num_delete 0.736754894257
+szkata SNARC_only CD 8 lctrl 0.698354959488
+szkata SNARC_only CD 4 lctrl 0.76183795929
+szkata SNARC_only CD 2 lctrl 0.721491098404
+szkata SNARC_only CD 7 num_delete 0.77731013298
+szkata SNARC_only CD 1 num_delete 0.968803882599
+szkata SNARC_only CD 2 lctrl 0.785673141479
+szkata SNARC_only CD 1 lctrl 0.505785942078
+szkata SNARC_only CD 8 lctrl 0.440402984619
+szkata SNARC_only CD 9 num_delete 0.777230978012
+szkata SNARC_only CD 9 num_delete 0.418325901031
+szkata SNARC_only CD 6 lctrl 0.849659204483
+szkata SNARC_only CD 7 num_delete 0.336775064468
+szkata SNARC_only CD 1 lctrl 0.408784151077
+szkata SNARC_only CD 7 num_delete 0.488503932953
+szkata SNARC_only CD 2 lctrl 0.529583930969
+szkata SNARC_only CD 2 lctrl 0.425305843353
+szkata SNARC_only CD 2 lctrl 0.417631149292
+szkata SNARC_only CD 3 num_delete 0.593311071396
+szkata SNARC_only CD 4 lctrl 2.7865550518
+szkata SNARC_only CD 3 num_delete 1.06417489052
+szkata SNARC_only CD 5 num_delete 0.849946975708
+szkata SNARC_only CD 6 lctrl 2.83341002464
+szkata SNARC_only CD 7 num_delete 2.45680499077
+szkata SNARC_only CD 8 num_delete 0.545940876007
+szkata SNARC_only CD 4 num_delete 0.39240193367
+szkata SNARC_only CD 1 num_delete 0.53740811348
+szkata SNARC_only CD 3 num_delete 0.577389955521
+szkata SNARC_only CD 6 lctrl 0.849742174149
+szkata SNARC_only CD 9 num_delete 0.529786109924
+szkata SNARC_only CD 3 num_delete 0.769431829453
+szkata SNARC_only CD 2 lctrl 0.385600805283
+szkata SNARC_only CD 8 lctrl 0.513522148132
+szkata SNARC_only CD 3 lctrl 0.489646911621
+szkata SNARC_only CD 4 lctrl 0.433701992035
+szkata SNARC_only CD 8 lctrl 0.672585010529
+szkata SNARC_only CD 8 lctrl 0.514045000076
+szkata SNARC_only CD 2 lctrl 0.497920036316
+szkata SNARC_only CD 5 num_delete 0.537608146667
+szkata SNARC_only CD 9 num_delete 0.673825025558
+szkata SNARC_only CD 6 num_delete 0.542448997498
+szkata SNARC_only CD 8 lctrl 0.632616043091
+szkata SNARC_only CD 9 num_delete 1.00824999809
+szkata SNARC_only CD 9 num_delete 0.817566871643
+szkata SNARC_only CD 7 num_delete 1.08174705505
+szkata SNARC_only CD 5 num_delete 0.521172046661
+szkata SNARC_only CD 3 num_delete 0.209969043732
+szkata SNARC_only CD 6 lctrl 0.594143867493
+szkata SNARC_only CD 3 num_delete 0.600733995438
+szkata SNARC_only CD 7 num_delete 0.384752035141
+szkata SNARC_only CD 5 num_delete 0.465115785599
+szkata SNARC_only CD 3 num_delete 0.329690933228
+szkata SNARC_only CD 5 num_delete 0.313465118408
+szkata SNARC_only CD 7 num_delete 0.337861061096
+szkata SNARC_only CD 4 num_delete 0.353111028671
+szkata SNARC_only CD 1 num_delete 0.481883049011
+szkata SNARC_only CD 7 num_delete 0.56077504158
+szkata SNARC_only CD 9 num_delete 0.649897098541
+szkata SNARC_only CD 2 num_delete 0.568331003189
+szkata SNARC_only CD 3 lctrl 0.45688700676
+szkata SNARC_only CD 3 num_delete 0.456894874573
+szkata SNARC_only CD 8 lctrl 0.50637793541
+szkata SNARC_only CD 4 lctrl 4.16127204895
+szkata SNARC_only CD 8 num_delete 0.609202861786
+szkata SNARC_only CD 9 num_delete 0.38468003273
+szkata SNARC_only CD 2 num_delete 0.337682962418
+szkata SNARC_only CD 1 num_delete 0.416108131409
+szkata SNARC_only CD 8 num_delete 0.321554899216
+szkata SNARC_only CD 5 num_delete 0.505442857742
+szkata SNARC_only CD 8 num_delete 0.346707820892
+szkata SNARC_only CD 4 num_delete 0.432420015335
+szkata SNARC_only CD 2 lctrl 0.449731111526
+szkata SNARC_only CD 6 num_delete 0.537010908127
+szkata SNARC_only CD 2 lctrl 0.353340864182
+szkata SNARC_only CD 5 num_delete 0.449327945709
+szkata SNARC_only CD 2 lctrl 0.38636803627
+szkata SNARC_only CD 6 lctrl 0.623232841492
+szkata SNARC_only CD 1 lctrl 0.432037115097
+szkata SNARC_only CD 3 num_delete 0.593185901642
+szkata SNARC_only CD 9 num_delete 0.425475120544
+szkata SNARC_only CD 4 lctrl 0.474524974823
+szkata SNARC_only CD 2 num_delete 0.488362789154
+szkata SNARC_only CD 2 lctrl 0.337137937546
+szkata SNARC_only CD 6 lctrl 1.29654717445
+szkata SNARC_only CD 3 num_delete 0.472417116165
+szkata SNARC_only CD 6 lctrl 0.705169916153
+szkata SNARC_only CD 8 num_delete 0.535912036896
+szkata SNARC_only CD 2 lctrl 0.393330097198
+szkata SNARC_only CD 9 num_delete 1.00024104118
+szkata SNARC_only CD 7 num_delete 0.840970993042
+szkata SNARC_only CD 9 num_delete 0.513895988464
+szkata SNARC_only CD 1 num_delete 1.06554389
+szkata SNARC_only CD 8 lctrl 1.10633802414
+szkata SNARC_only CD 5 num_delete 0.809206008911
+szkata SNARC_only CD 3 num_delete 0.37667798996
+szkata SNARC_only CD 1 num_delete 0.608964204788
+szkata SNARC_only CD 6 lctrl 0.913769960403
+szkata SNARC_only CD 6 lctrl 0.329971075058
+szkata SNARC_only CD 7 num_delete 0.473355054855
+szkata SNARC_only CD 5 num_delete 0.896519184113
+szkata SNARC_only CD 3 lctrl 1.0424041748
+szkata SNARC_only CD 9 num_delete 0.561362028122
+szkata SNARC_only CD 6 lctrl 0.857819795609
+szkata SNARC_only CD 4 lctrl 0.600831985474
+szkata SNARC_only CD 3 num_delete 0.43288397789
+szkata SNARC_only CD 6 lctrl 0.497794151306
+szkata SNARC_only CD 8 num_delete 0.409605979919
+szkata SNARC_only CD 6 lctrl 0.424685001373
+szkata SNARC_only CD 7 lctrl 0.369822025299
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'szkata', 'dateStr': u'05_18_1508'}
+szkata resp_prep 0.1 green q 2.66017103195
+szkata resp_prep 0.8 red p 0.647225141525
+szkata resp_prep 0.1 green q 0.605123996735
+szkata resp_prep 0.1 green q 0.444759130478
+szkata resp_prep 0.6 green q 0.407320022583
+szkata resp_prep 0.6 green q 0.392624139786
+szkata resp_prep 0.8 red p 0.312143087387
+szkata resp_prep 0.8 red p 0.344434976578
+szkata resp_prep 0.3 green q 0.34935092926
+szkata resp_prep 1.0 green q 0.392614841461
+szkata resp_prep 0.8 green q 0.335665225983
+szkata resp_prep 0.8 red p 0.392293930054
+szkata resp_prep 0.8 red p 0.328449964523
+szkata resp_prep 1.0 green q 0.344434976578
+szkata resp_prep 0.1 red p 0.452881813049
+szkata resp_prep 0.3 red p 0.372874975204
+szkata resp_prep 0.3 red p 0.365388870239
+szkata resp_prep 0.6 green q 0.552971839905
+szkata resp_prep 0.1 red p 0.46796298027
+szkata resp_prep 1.0 green q 0.585186004639
+szkata resp_prep 0.6 green q 0.361478090286
+szkata resp_prep 0.1 red p 0.404377937317
+szkata resp_prep 0.1 red p 0.404235124588
+szkata resp_prep 0.3 green q 0.508157968521
+szkata resp_prep 1.0 green q 0.360370874405
+szkata resp_prep 1.0 green q 0.336234807968
+szkata resp_prep 0.8 green q 0.376632928848
+szkata resp_prep 0.1 red p 0.524981021881
+szkata resp_prep 0.3 green q 0.452540874481
+szkata resp_prep 1.0 red p 0.423774003983
+szkata resp_prep 0.6 red p 0.368827104568
+szkata resp_prep 0.8 green q 0.632725954056
+szkata resp_prep 1.0 green q 0.616502046585
+szkata resp_prep 1.0 red p 0.416018009186
+szkata resp_prep 1.0 red p 0.368043899536
+szkata resp_prep 0.8 green q 0.480432033539
+szkata resp_prep 0.6 red p 0.520365953445
+szkata resp_prep 0.6 green q 0.44806599617
+szkata resp_prep 1.0 red p 0.4323990345
+szkata resp_prep 0.8 green q 0.400166988373
+szkata resp_prep 0.1 green q 0.517149925232
+szkata resp_prep 0.1 red p 0.404550075531
+szkata resp_prep 0.6 green q 0.384253025055
+szkata resp_prep 0.8 red p 0.35960817337
+szkata resp_prep 0.8 red p 0.384803056717
+szkata resp_prep 0.1 green q 0.444880008698
+szkata resp_prep 0.6 red p 0.392546892166
+szkata resp_prep 0.8 green q 0.688057899475
+szkata resp_prep 0.6 green q 0.528223991394
+szkata resp_prep 0.1 green q 0.42125582695
+szkata resp_prep 0.1 red p 0.420997858047
+szkata resp_prep 1.0 red p 0.39231300354
+szkata resp_prep 0.8 red p 0.399608850479
+szkata resp_prep 0.6 green q 0.432224035263
+szkata resp_prep 0.1 red p 0.54908490181
+szkata resp_prep 0.3 red p 1.02078390121
+szkata resp_prep 0.1 green q 0.388746976852
+szkata resp_prep 0.6 red p 0.328434944153
+szkata resp_prep 0.8 red p 0.352591991425
+szkata resp_prep 0.1 green q 0.397046089172
+szkata resp_prep 0.8 green q 0.312304019928
+szkata resp_prep 0.6 green q 0.361012220383
+szkata resp_prep 1.0 red p 0.440869092941
+szkata resp_prep 0.3 green q 0.500813961029
+szkata resp_prep 0.3 green q 0.29298210144
+szkata resp_prep 0.3 red p 0.332607984543
+szkata resp_prep 1.0 red p 1.23938417435
+szkata resp_prep 0.8 green q 0.92030787468
+szkata resp_prep 0.8 red p 0.576725006104
+szkata resp_prep 0.8 red p 0.632780075073
+szkata resp_prep 0.3 red p 0.460273981094
+szkata resp_prep 0.1 green q 0.484708070755
+szkata resp_prep 1.0 red p 0.560369968414
+szkata resp_prep 0.3 green q 0.484861135483
+szkata resp_prep 0.3 green q 0.389065027237
+szkata resp_prep 1.0 green q 0.535816907883
+szkata resp_prep 0.8 green q 0.656535148621
+szkata resp_prep 0.3 red p 0.548799991608
+szkata resp_prep 0.6 red q 0.472521066666
+szkata resp_prep 0.3 red p 1.09314799309
+szkata resp_prep 0.3 red p 0.548692941666
+szkata resp_prep 0.1 red p 0.317419052124
+szkata resp_prep 0.8 red p 0.32835817337
+szkata resp_prep 0.1 red p 0.372921943665
+szkata resp_prep 0.1 green q 0.389214992523
+szkata resp_prep 0.8 green q 0.376422166824
+szkata resp_prep 1.0 green q 0.295713186264
+szkata resp_prep 0.6 red p 0.840672969818
+szkata resp_prep 0.3 green q 0.613038063049
+szkata resp_prep 0.3 green p 0.741104841232
+szkata resp_prep 0.6 green q 0.561164855957
+szkata resp_prep 0.6 green p 0.415737867355
+szkata resp_prep 0.6 red p 0.896347045898
+szkata resp_prep 0.8 green q 0.463661909103
+szkata resp_prep 0.8 red p 0.327781915665
+szkata resp_prep 1.0 red p 0.36790394783
+szkata resp_prep 0.6 green q 0.783878087997
+szkata resp_prep 0.3 red q 1.02103495598
+szkata resp_prep 0.1 green p 0.356590032578
+szkata resp_prep 1.0 green q 0.600999116898
+szkata resp_prep 0.1 red p 0.325595140457
+szkata resp_prep 0.3 green q 0.348583936691
+szkata resp_prep 0.6 green q 0.360931873322
+szkata resp_prep 0.1 green q 0.380292892456
+szkata resp_prep 1.0 red p 0.528376817703
+szkata resp_prep 1.0 green q 0.409365177155
+szkata resp_prep 1.0 green q 0.503869056702
+szkata resp_prep 0.3 red p 0.492653846741
+szkata resp_prep 1.0 green q 0.488348007202
+szkata resp_prep 0.6 red p 0.720218896866
+szkata resp_prep 0.8 red p 0.85652589798
+szkata resp_prep 0.6 red p 0.504637002945
+szkata resp_prep 0.6 red p 0.432145118713
+szkata resp_prep 0.6 red p 0.624667167664
+szkata resp_prep 1.0 green q 0.384336948395
+szkata resp_prep 0.1 green q 0.381399869919
+szkata resp_prep 1.0 red p 0.376405954361
+szkata resp_prep 0.3 green q 0.356469869614
+szkata resp_prep 0.3 red p 0.309061050415
+szkata resp_prep 1.0 green q 0.376590013504
+szkata resp_prep 1.0 red p 0.432101964951
+szkata resp_prep 0.8 green q 0.45671415329
+szkata resp_prep 1.0 red p 0.407968997955
+szkata resp_prep 0.3 red p 0.372848987579
+szkata resp_prep 0.6 red p 0.336785078049
+szkata resp_prep 0.1 red p 0.532808065414
+szkata resp_prep 1.0 red p 0.448531866074
+szkata resp_prep 0.1 red p 1.72499012947
+szkata resp_prep 1.0 green q 0.464380979538
+szkata resp_prep 0.3 red p 0.396580934525
+szkata resp_prep 0.8 red p 0.944068908691
+szkata resp_prep 1.0 red p 1.24823713303
+szkata resp_prep 0.1 red p 1.42835712433
+szkata resp_prep 0.3 green q 0.884979009628
+szkata resp_prep 0.1 green q 0.46906208992
+szkata resp_prep 0.3 green q 4.75658106804
+szkata resp_prep 0.3 red p 0.316552877426
+szkata resp_prep 0.8 green q 0.344405889511
+szkata resp_prep 0.6 green q 0.408478021622
+szkata resp_prep 0.3 green q 0.0208189487457
+szkata resp_prep 0.8 green p 0.280412912369
+szkata resp_prep 0.6 green q 0.376267910004
+szkata resp_prep 0.3 green q 0.340887069702
+szkata resp_prep 0.3 red p 0.316256046295
+szkata resp_prep 0.6 red p 0.273036956787
+szkata resp_prep 0.6 red p 0.24772810936
+szkata resp_prep 0.1 green q 0.477298974991
+szkata resp_prep 0.8 green q 0.320083141327
+szkata resp_prep 0.6 red q 0.352781772614
+szkata resp_prep 0.1 red p 0.429260015488

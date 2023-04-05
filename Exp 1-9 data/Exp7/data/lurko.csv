@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_0934', 'task': u'line', 'participant': u'lurko', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+lurko SNARC line dot DC 0 down 10 num_delete 11.2265529633
+lurko SNARC line dot DC 0 down 35 lctrl 4.16511797905
+lurko SNARC line dot DC 0 up 30 num_delete 0.798201084137
+lurko SNARC line dot DC 0 up 20 num_delete 1.9894361496
+lurko SNARC line dot DC 0 up 5 num_delete 0.67189002037
+lurko SNARC line dot DC 0 up 15 num_delete 0.659394025803
+lurko SNARC line dot DC 0 down 40 lctrl 0.707856178284
+lurko SNARC line dot DC 0 up 40 num_delete 0.586076974869
+lurko SNARC line dot DC 0 down 35 lctrl 0.633545875549
+lurko SNARC line dot DC 0 up 20 lctrl 0.675817012787
+lurko SNARC line dot DC 0 up 20 num_delete 1.04410505295
+lurko SNARC line dot DC 0 down 35 lctrl 0.632777929306
+lurko SNARC line dot DC 0 down 45 lctrl 0.867175102234
+lurko SNARC line dot DC 0 down 20 lctrl 0.547610998154
+lurko SNARC line dot DC 0 down 15 lctrl 0.570541858673
+lurko SNARC line dot DC 0 down 20 lctrl 0.660218000412
+lurko SNARC line dot DC 0 up 30 num_delete 0.645459890366
+lurko SNARC line dot DC 0 up 25 num_delete 0.533904075623
+lurko SNARC line dot DC 0 down 25 lctrl 0.606985092163
+lurko SNARC line dot DC 0 down 35 lctrl 0.864051103592
+lurko SNARC line dot DC 0 down 25 lctrl 0.645031929016
+lurko SNARC line dot DC 0 up 40 num_delete 0.649794101715
+lurko SNARC line dot DC 0 up 10 num_delete 0.465330123901
+lurko SNARC line dot DC 0 up 45 num_delete 0.515235900879
+lurko SNARC line dot DC 0 up 15 num_delete 0.523052930832
+lurko SNARC line dot DC 0 up 10 num_delete 0.530054092407
+lurko SNARC line dot DC 0 down 15 lctrl 0.835692882538
+lurko SNARC line dot DC 0 down 10 lctrl 0.514089822769
+lurko SNARC line dot DC 0 down 35 lctrl 0.520635843277
+lurko SNARC line dot DC 0 down 45 lctrl 0.517564058304
+lurko SNARC line dot DC 0 down 30 lctrl 0.526781082153
+lurko SNARC line dot DC 0 up 20 num_delete 0.56347990036
+lurko SNARC line dot DC 0 up 40 num_delete 0.465662956238
+lurko SNARC line dot DC 0 up 10 num_delete 0.441699028015
+lurko SNARC line dot DC 0 down 15 lctrl 0.651292085648
+lurko SNARC line dot DC 0 down 35 lctrl 0.536577939987
+lurko SNARC line dot DC 0 down 30 lctrl 0.511018037796
+lurko SNARC line dot DC 0 down 25 lctrl 0.581027030945
+lurko SNARC line dot DC 0 down 35 lctrl 2.03301501274
+lurko SNARC line dot DC 0 down 15 lctrl 0.522636890411
+lurko SNARC line dot DC 0 up 15 num_delete 0.562542200089
+lurko SNARC line dot DC 0 up 45 num_delete 0.636571884155
+lurko SNARC line dot DC 0 down 10 num_delete 0.448454856873
+lurko SNARC line dot DC 0 up 20 num_delete 1.1874229908
+lurko SNARC line dot DC 0 down 15 lctrl 0.651137113571
+lurko SNARC line dot DC 0 up 15 lctrl 0.649933099747
+lurko SNARC line dot DC 0 up 40 num_delete 0.888648033142
+lurko SNARC line dot DC 0 up 35 num_delete 0.504607915878
+lurko SNARC line dot DC 0 up 40 num_delete 0.481178998947
+lurko SNARC line dot DC 0 up 30 num_delete 0.535006046295
+lurko SNARC line dot DC 0 down 40 lctrl 0.705945968628
+lurko SNARC line dot DC 0 up 25 num_delete 0.526195049286
+lurko SNARC line dot DC 0 up 15 num_delete 0.524223089218
+lurko SNARC line dot DC 0 down 25 lctrl 0.646485090256
+lurko SNARC line dot DC 0 down 15 lctrl 2.26843905449
+lurko SNARC line dot DC 0 up 15 num_delete 0.609868049622
+lurko SNARC line dot DC 0 up 30 num_delete 0.502997875214
+lurko SNARC line dot DC 0 down 10 lctrl 0.665646076202
+lurko SNARC line dot DC 0 up 10 num_delete 0.505065202713
+lurko SNARC line dot DC 0 down 25 lctrl 0.598268032074
+lurko SNARC line dot DC 0 up 30 num_delete 0.62295794487
+lurko SNARC line dot DC 0 up 40 num_delete 2.13895201683
+lurko SNARC line dot DC 0 up 40 num_delete 0.561523914337
+lurko SNARC line dot DC 0 down 5 lctrl 0.713011026382
+lurko SNARC line dot DC 0 down 25 lctrl 0.661455869675
+lurko SNARC line dot DC 0 up 40 num_delete 0.593626976013
+lurko SNARC line dot DC 0 up 5 num_delete 0.968674182892
+lurko SNARC line dot DC 0 up 15 num_delete 0.563205957413
+lurko SNARC line dot DC 0 up 5 num_delete 0.591350078583
+lurko SNARC line dot DC 0 up 5 num_delete 0.568190097809
+lurko SNARC line dot DC 0 up 30 num_delete 0.598983049393
+lurko SNARC line dot DC 0 up 30 num_delete 0.583338022232
+lurko SNARC line dot DC 0 up 10 num_delete 0.513803958893
+lurko SNARC line dot DC 0 up 20 num_delete 0.492100000381
+lurko SNARC line dot DC 0 down 45 lctrl 0.764316082001
+lurko SNARC line dot DC 0 down 45 lctrl 0.506756067276
+lurko SNARC line dot DC 0 up 45 num_delete 0.539401054382
+lurko SNARC line dot DC 0 up 30 num_delete 0.494952917099
+lurko SNARC line dot DC 0 up 5 num_delete 0.51179599762
+lurko SNARC line dot DC 0 up 15 num_delete 0.483039855957
+lurko SNARC line dot DC 0 down 40 lctrl 0.706207990646
+lurko SNARC line dot DC 0 up 25 num_delete 0.486319065094
+lurko SNARC line dot DC 0 up 20 num_delete 0.515191078186
+lurko SNARC line dot DC 0 up 45 num_delete 0.500222921371
+lurko SNARC line dot DC 0 down 45 lctrl 0.732265949249
+lurko SNARC line dot DC 0 up 35 num_delete 0.535635948181
+lurko SNARC line dot DC 0 up 5 num_delete 0.696444988251
+lurko SNARC line dot DC 0 up 20 num_delete 0.54047703743
+lurko SNARC line dot DC 0 up 35 num_delete 0.66374707222
+lurko SNARC line dot DC 0 up 5 num_delete 0.656023025513
+lurko SNARC line dot DC 0 down 15 lctrl 0.579247951508
+lurko SNARC line dot DC 0 down 40 lctrl 0.56178188324
+lurko SNARC line dot DC 0 up 5 num_delete 0.551905870438
+lurko SNARC line dot DC 0 up 35 num_delete 0.48106098175
+lurko SNARC line dot DC 0 up 20 num_delete 0.506972789764
+lurko SNARC line dot DC 0 up 30 num_delete 0.616286993027
+lurko SNARC line dot DC 0 down 15 lctrl 0.594917058945
+lurko SNARC line dot DC 0 up 25 num_delete 0.50927901268
+lurko SNARC line dot DC 0 down 20 lctrl 1.11623001099
+lurko SNARC line dot DC 0 up 20 num_delete 0.539435863495
+lurko SNARC line dot DC 0 up 40 num_delete 0.544926166534
+lurko SNARC line dot DC 0 up 40 num_delete 0.489511966705
+lurko SNARC line dot DC 0 down 10 lctrl 0.514974117279
+lurko SNARC line dot DC 0 up 40 num_delete 0.777356863022
+lurko SNARC line dot DC 0 down 25 lctrl 0.541409015656
+lurko SNARC line dot DC 0 up 35 num_delete 0.511229038239
+lurko SNARC line dot DC 0 down 40 lctrl 0.939385890961
+lurko SNARC line dot DC 0 down 45 num_delete 0.539646148682
+lurko SNARC line dot DC 0 down 25 lctrl 0.68513584137
+lurko SNARC line dot DC 0 up 15 num_delete 0.579550981522
+lurko SNARC line dot DC 0 up 25 num_delete 0.533603906631
+lurko SNARC line dot DC 0 up 5 num_delete 0.633306980133
+lurko SNARC line dot DC 0 down 20 lctrl 0.540585041046
+lurko SNARC line dot DC 0 down 15 lctrl 0.571207046509
+lurko SNARC line dot DC 0 down 45 lctrl 0.498980045319
+lurko SNARC line dot DC 0 up 15 num_delete 0.592546224594
+lurko SNARC line dot DC 0 down 25 lctrl 0.470686912537
+lurko SNARC line dot DC 0 down 45 lctrl 0.523374080658
+lurko SNARC line dot DC 0 down 45 lctrl 0.738643884659
+lurko SNARC line dot DC 0 up 35 num_delete 0.78445315361
+lurko SNARC line dot DC 0 down 35 lctrl 0.897042989731
+lurko SNARC line dot DC 0 down 35 lctrl 0.664689064026
+lurko SNARC line dot DC 0 down 30 lctrl 0.487910032272
+lurko SNARC line dot DC 0 up 35 num_delete 0.520190000534
+lurko SNARC line dot DC 0 up 5 num_delete 0.608024120331
+lurko SNARC line dot DC 0 down 25 lctrl 1.02211499214
+lurko SNARC line dot DC 0 down 30 lctrl 0.543809890747
+lurko SNARC line dot DC 0 up 45 num_delete 0.562963008881
+lurko SNARC line dot DC 0 up 15 num_delete 0.810905218124
+lurko SNARC line dot DC 0 down 45 lctrl 0.595719099045
+lurko SNARC line dot DC 0 down 45 lctrl 0.554824113846
+lurko SNARC line dot DC 0 down 45 lctrl 0.595817089081
+lurko SNARC line dot DC 0 down 20 lctrl 0.580150127411
+lurko SNARC line dot DC 0 up 20 num_delete 0.612791061401
+lurko SNARC line dot DC 0 down 45 lctrl 0.587792873383
+lurko SNARC line dot DC 0 up 25 num_delete 0.605364084244
+lurko SNARC line dot DC 0 down 15 lctrl 0.515422105789
+lurko SNARC line dot DC 0 down 40 lctrl 0.570975065231
+lurko SNARC line dot DC 0 down 45 lctrl 0.635757923126
+lurko SNARC line dot DC 0 down 20 lctrl 0.859491109848
+lurko SNARC line dot DC 0 down 10 lctrl 0.641396999359
+lurko SNARC line dot DC 0 down 30 lctrl 0.591794013977
+lurko SNARC line dot DC 0 down 35 lctrl 0.631911993027
+lurko SNARC line dot DC 0 down 25 lctrl 0.743077039719
+lurko SNARC line dot DC 0 up 30 num_delete 0.74293088913
+lurko SNARC line dot DC 0 up 40 num_delete 0.649641036987
+lurko SNARC line dot DC 0 up 20 num_delete 0.971755981445
+lurko SNARC line dot DC 0 up 35 num_delete 0.800849914551
+lurko SNARC line dot DC 0 down 35 lctrl 0.721689939499
+lurko SNARC line dot DC 0 down 45 lctrl 0.587491989136
+lurko SNARC line dot DC 0 down 45 lctrl 0.539949178696
+lurko SNARC line dot DC 0 down 10 lctrl 0.641931056976
+lurko SNARC line dot DC 0 up 15 num_delete 0.658864974976
+lurko SNARC line dot DC 0 up 45 num_delete 0.555919885635
+lurko SNARC line dot DC 0 up 20 num_delete 0.541091918945
+lurko SNARC line dot DC 0 down 10 lctrl 0.59414100647
+lurko SNARC line dot DC 0 down 45 lctrl 0.529746055603
+lurko SNARC line dot DC 0 down 10 lctrl 0.489255905151
+lurko SNARC line dot DC 0 down 10 lctrl 0.601300954819
+lurko SNARC line dot DC 0 down 25 lctrl 0.598073005676
+lurko SNARC line dot DC 0 up 5 num_delete 0.607141971588
+lurko SNARC line dot DC 0 up 10 num_delete 0.593643188477
+lurko SNARC line dot DC 0 up 30 num_delete 0.591109037399
+lurko SNARC line dot DC 0 down 10 lctrl 0.578863143921
+lurko SNARC line dot DC 0 down 35 lctrl 0.543617963791
+lurko SNARC line dot DC 0 down 10 lctrl 0.554444074631
+lurko SNARC line dot DC 0 down 10 lctrl 0.552997112274
+lurko SNARC line dot DC 0 up 15 num_delete 0.651197910309
+lurko SNARC line dot DC 0 up 10 num_delete 0.56174492836
+lurko SNARC line dot DC 0 down 30 lctrl 0.622693777084
+lurko SNARC line dot DC 0 up 20 num_delete 0.580285072327
+lurko SNARC line dot DC 0 up 45 num_delete 0.524024963379
+lurko SNARC line dot DC 0 up 20 num_delete 0.56506896019
+lurko SNARC line dot DC 0 up 45 num_delete 0.524674892426
+lurko SNARC line dot DC 0 up 30 num_delete 0.518737077713
+lurko SNARC line dot DC 0 up 40 num_delete 0.465834140778
+lurko SNARC line dot DC 0 down 25 lctrl 0.870949983597
+lurko SNARC line dot DC 0 down 30 lctrl 0.58284497261
+lurko SNARC line dot DC 0 down 5 lctrl 0.705127000809
+lurko SNARC line dot DC 0 down 40 lctrl 0.745718955994
+lurko SNARC line dot DC 0 up 20 num_delete 0.588086128235
+lurko SNARC line dot DC 0 down 35 lctrl 0.760051012039
+lurko SNARC line dot DC 0 up 40 num_delete 0.594575166702
+lurko SNARC line dot DC 0 down 10 lctrl 0.506278038025
+lurko SNARC line dot DC 0 down 45 lctrl 0.562249183655
+lurko SNARC line dot DC 0 down 20 lctrl 0.676934957504
+lurko SNARC line dot DC 0 down 10 lctrl 0.961442947388
+lurko SNARC line dot DC 0 down 25 lctrl 0.982554912567
+lurko SNARC line dot DC 0 up 15 num_delete 0.523286104202
+lurko SNARC line dot DC 0 down 40 lctrl 0.674857854843
+lurko SNARC line dot DC 0 down 45 lctrl 0.531147956848
+lurko SNARC line dot DC 0 down 20 lctrl 0.748165845871
+lurko SNARC line dot DC 0 up 45 num_delete 0.88316488266
+lurko SNARC line dot DC 0 down 20 lctrl 0.589079141617
+lurko SNARC line dot DC 0 up 40 num_delete 0.944798946381
+lurko SNARC line dot DC 0 down 25 lctrl 0.559192180634
+lurko SNARC line dot DC 0 down 10 lctrl 0.497868061066
+lurko SNARC line dot DC 0 down 15 lctrl 0.498225927353
+lurko SNARC line dot DC 0 down 15 lctrl 0.4907310009
+lurko SNARC line dot DC 0 down 30 lctrl 0.535945892334
+lurko SNARC line dot DC 0 down 45 lctrl 0.491842031479
+lurko SNARC line dot DC 0 down 40 lctrl 0.498000144958
+lurko SNARC line dot DC 0 down 15 lctrl 0.563142061234
+lurko SNARC line dot DC 0 down 25 lctrl 0.50239109993
+lurko SNARC line dot DC 0 up 30 num_delete 0.527812957764
+lurko SNARC line dot DC 0 up 35 num_delete 0.473027944565
+lurko SNARC line dot DC 0 up 20 num_delete 0.476543903351
+lurko SNARC line dot DC 0 up 5 num_delete 0.584607124329
+lurko SNARC line dot DC 0 up 40 num_delete 0.634177923203
+lurko SNARC line dot DC 0 up 25 num_delete 0.53476691246
+lurko SNARC line dot DC 0 up 35 num_delete 0.58505988121
+lurko SNARC line dot DC 0 up 15 num_delete 0.59584403038
+lurko SNARC line dot DC 0 down 10 lctrl 0.577777862549
+lurko SNARC line dot DC 0 down 40 lctrl 0.546341896057
+lurko SNARC line dot DC 0 down 25 lctrl 0.485569000244
+lurko SNARC line dot DC 0 down 40 lctrl 0.505327939987
+lurko SNARC line dot DC 0 up 30 num_delete 0.807184934616
+lurko SNARC line dot DC 0 up 5 num_delete 0.487794876099
+lurko SNARC line dot DC 0 up 30 num_delete 0.448035955429
+lurko SNARC line dot DC 0 down 25 lctrl 0.942964076996
+lurko SNARC line dot DC 0 down 15 lctrl 0.554575920105
+lurko SNARC line dot DC 0 up 25 num_delete 0.654287099838
+lurko SNARC line dot DC 0 up 40 num_delete 0.417923927307
+lurko SNARC line dot DC 0 down 5 lctrl 0.785609960556
+lurko SNARC line dot DC 0 up 20 num_delete 0.524473190308
+lurko SNARC line dot DC 0 up 25 num_delete 0.59712600708
+lurko SNARC line dot DC 0 up 20 num_delete 0.732218980789
+lurko SNARC line dot DC 0 down 15 lctrl 0.563321828842
+lurko SNARC line dot DC 0 down 10 lctrl 0.608570098877
+lurko SNARC line dot DC 0 down 5 lctrl 0.600692033768
+lurko SNARC line dot DC 0 up 30 num_delete 0.726619005203
+lurko SNARC line dot DC 0 down 10 lctrl 0.55329990387
+lurko SNARC line dot DC 0 down 5 lctrl 0.672109127045
+lurko SNARC line dot DC 0 down 40 lctrl 0.634566068649
+lurko SNARC line dot DC 0 up 10 num_delete 0.609720945358
+lurko SNARC line dot DC 0 up 25 num_delete 0.4614610672
+lurko SNARC line dot DC 0 up 5 num_delete 0.488881111145
+lurko SNARC line dot DC 0 up 35 num_delete 0.496510028839
+lurko SNARC line dot DC 0 up 35 num_delete 0.384037017822
+lurko SNARC line dot DC 0 up 35 num_delete 0.425318002701
+lurko SNARC line dot DC 0 down 10 lctrl 0.578294992447
+lurko SNARC line dot DC 0 down 5 lctrl 0.456594944
+lurko SNARC line dot DC 0 up 5 num_delete 0.447950124741
+lurko SNARC line dot DC 0 down 10 lctrl 0.466698884964
+lurko SNARC line dot DC 0 up 5 num_delete 0.551391839981
+lurko SNARC line dot DC 0 down 15 lctrl 0.635964870453
+lurko SNARC line dot DC 0 down 35 lctrl 0.456763029099
+lurko SNARC line dot DC 0 down 5 lctrl 0.463488817215
+lurko SNARC line dot DC 0 down 5 lctrl 0.479952812195
+lurko SNARC line dot DC 0 up 40 num_delete 0.489410161972
+lurko SNARC line dot DC 0 down 35 lctrl 0.681003093719
+lurko SNARC line dot DC 0 down 15 lctrl 0.475188016891
+lurko SNARC line dot DC 0 up 25 num_delete 0.478296995163
+lurko SNARC line dot DC 0 up 35 num_delete 0.560132980347
+lurko SNARC line dot DC 0 down 10 lctrl 0.738178014755
+lurko SNARC line dot DC 0 down 45 lctrl 0.509213209152
+lurko SNARC line dot DC 0 up 5 num_delete 0.687730789185
+lurko SNARC line dot DC 0 up 10 num_delete 0.649780988693
+lurko SNARC line dot DC 0 up 45 num_delete 0.515379905701
+lurko SNARC line dot DC 0 up 30 num_delete 0.751220941544
+lurko SNARC line dot DC 0 down 25 lctrl 0.558690071106
+lurko SNARC line dot DC 0 up 40 num_delete 0.585657119751
+lurko SNARC line dot DC 0 up 35 num_delete 0.488169908524
+lurko SNARC line dot DC 0 down 5 lctrl 0.608968019485
+lurko SNARC line dot DC 0 down 20 lctrl 0.596406936646
+lurko SNARC line dot DC 0 up 35 num_delete 0.551714897156
+lurko SNARC line dot DC 0 up 15 num_delete 0.571141004562
+lurko SNARC line dot DC 0 down 20 lctrl 0.588616132736
+lurko SNARC line dot DC 0 up 25 num_delete 0.549870014191
+lurko SNARC line dot DC 0 down 10 lctrl 0.842293977737
+lurko SNARC line dot DC 0 up 40 num_delete 0.553307056427
+lurko SNARC line dot DC 0 up 5 num_delete 0.600944042206
+lurko SNARC line dot DC 0 down 20 lctrl 0.748486995697
+lurko SNARC line dot DC 0 down 30 lctrl 0.550273180008
+lurko SNARC line dot DC 0 up 30 num_delete 0.470296144485
+lurko SNARC line dot DC 0 down 30 lctrl 0.775754928589
+lurko SNARC line dot DC 0 down 5 lctrl 0.591917037964
+lurko SNARC line dot DC 0 up 15 num_delete 0.491141080856
+lurko SNARC line dot DC 0 down 40 lctrl 0.610595941544
+lurko SNARC line dot DC 0 down 30 lctrl 0.519393205643
+lurko SNARC line dot DC 0 down 45 lctrl 0.562747955322
+lurko SNARC line dot DC 0 down 5 lctrl 0.520485877991
+lurko SNARC line dot DC 0 down 20 lctrl 0.48511505127
+lurko SNARC line dot DC 0 down 10 lctrl 0.513827085495
+lurko SNARC line dot DC 0 up 15 num_delete 0.530903100967
+lurko SNARC line dot DC 0 up 10 num_delete 0.49022102356
+lurko SNARC line dot DC 0 down 20 lctrl 0.564583063126
+lurko SNARC line dot DC 0 up 35 num_delete 0.64824795723
+lurko SNARC line dot DC 0 down 35 lctrl 0.705148935318
+lurko SNARC line dot DC 0 down 35 lctrl 0.512880086899
+lurko SNARC line dot DC 0 up 15 num_delete 0.530899047852
+lurko SNARC line dot DC 0 up 35 num_delete 0.440537929535
+lurko SNARC line dot DC 0 down 5 lctrl 0.585072994232
+lurko SNARC line dot DC 0 up 30 num_delete 0.622636079788
+lurko SNARC line dot DC 0 down 35 lctrl 0.74573302269
+lurko SNARC line dot DC 0 up 5 num_delete 0.479943990707
+lurko SNARC line dot DC 0 down 10 lctrl 0.482492923737
+lurko SNARC line dot DC 0 up 30 num_delete 0.414828062057
+lurko SNARC line dot DC 0 down 40 lctrl 0.538818120956
+lurko SNARC line dot DC 0 up 5 num_delete 0.544076919556
+lurko SNARC line dot DC 0 down 45 lctrl 0.461160898209
+lurko SNARC line dot DC 0 down 45 lctrl 0.563362121582
+lurko SNARC line dot DC 0 up 25 num_delete 0.580847978592
+lurko SNARC line dot DC 0 up 20 lctrl 0.757447004318
+lurko SNARC line dot DC 0 down 5 lctrl 0.608473062515
+lurko SNARC line dot DC 0 down 30 lctrl 0.518635034561
+lurko SNARC line dot DC 0 up 45 num_delete 0.515816926956
+lurko SNARC line dot DC 0 up 20 num_delete 0.452511072159
+lurko SNARC line dot DC 0 up 10 num_delete 0.505825042725
+lurko SNARC line dot DC 0 up 15 num_delete 0.707445859909
+lurko SNARC line dot DC 0 up 15 num_delete 0.507211208344
+lurko SNARC line dot DC 0 down 35 lctrl 0.616915941238
+lurko SNARC line dot DC 0 down 45 lctrl 0.474715948105
+lurko SNARC line dot DC 0 down 40 lctrl 0.401413202286
+lurko SNARC line dot DC 0 down 5 lctrl 0.712613105774
+lurko SNARC line dot DC 0 down 40 lctrl 0.59411406517
+lurko SNARC line dot DC 0 up 5 num_delete 0.463685035706
+lurko SNARC line dot DC 0 up 5 num_delete 0.456726074219
+lurko SNARC line dot DC 0 down 40 lctrl 0.658987998962
+lurko SNARC line dot DC 0 down 45 lctrl 0.626049041748
+lurko SNARC line dot DC 0 down 30 lctrl 0.655216932297
+lurko SNARC line dot DC 0 down 30 lctrl 0.574938058853
+lurko SNARC line dot DC 0 up 5 num_delete 0.583674907684
+lurko SNARC line dot DC 0 down 30 lctrl 0.704044103622
+lurko SNARC line dot DC 0 up 25 num_delete 0.406090021133
+lurko SNARC line dot DC 0 up 30 num_delete 0.559247970581
+lurko SNARC line dot DC 0 up 25 num_delete 0.43922495842
+lurko SNARC line dot DC 0 up 15 num_delete 0.498003005981
+lurko SNARC line dot DC 0 down 20 lctrl 0.459784984589
+lurko SNARC line dot DC 0 down 30 lctrl 0.375567913055
+lurko SNARC line dot DC 0 up 10 lctrl 0.713883876801
+lurko SNARC line dot DC 0 down 5 lctrl 0.487390995026
+lurko SNARC line dot DC 0 up 5 num_delete 0.552248954773
+lurko SNARC line dot DC 0 down 25 lctrl 0.670650005341
+lurko SNARC line dot DC 0 up 35 num_delete 0.471994876862
+lurko SNARC line dot DC 0 down 25 lctrl 0.606189012527
+lurko SNARC line dot DC 0 down 35 lctrl 0.697488069534
+lurko SNARC line dot DC 0 down 10 lctrl 0.762293100357
+lurko SNARC line dot DC 0 down 25 lctrl 0.597764968872
+lurko SNARC line dot DC 0 up 10 num_delete 0.440968990326
+lurko SNARC line dot DC 0 up 20 num_delete 0.428450107574
+lurko SNARC line dot DC 0 up 20 num_delete 0.420535802841
+lurko SNARC line dot DC 0 down 45 lctrl 0.547569036484
+lurko SNARC line dot DC 0 down 20 lctrl 0.588838100433
+lurko SNARC line dot DC 0 up 25 num_delete 0.54044508934
+lurko SNARC line dot DC 0 up 40 num_delete 0.497892856598
+lurko SNARC line dot DC 0 down 30 lctrl 0.59975194931
+lurko SNARC line dot DC 0 down 45 lctrl 0.507165908813
+lurko SNARC line dot DC 0 up 40 num_delete 0.553667068481
+lurko SNARC line dot DC 0 down 30 lctrl 0.679540872574
+lurko SNARC line dot DC 0 down 15 lctrl 0.619348049164
+lurko SNARC line dot DC 0 up 10 num_delete 0.490077972412
+lurko SNARC line dot DC 0 down 25 lctrl 0.702427864075
+lurko SNARC line dot DC 0 down 5 lctrl 0.544070005417
+lurko SNARC line dot DC 0 down 35 lctrl 0.656706094742
+lurko SNARC line dot DC 0 down 20 lctrl 0.596493959427
+lurko SNARC line dot DC 0 up 40 num_delete 0.585457086563
+lurko SNARC line dot DC 0 down 25 lctrl 0.533044099808
+lurko SNARC line dot DC 0 up 30 num_delete 0.550643920898
+lurko SNARC line dot DC 0 up 45 num_delete 0.443381786346
+{'delay': u'0', 'dateStr': u'05_18_0945', 'task': u'line', 'participant': u'lurko', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+lurko SNARC line arabic DC 0 down 2 lctrl 2.06641817093
+lurko SNARC line arabic DC 0 up 6 num_delete 0.661074876785
+lurko SNARC line arabic DC 0 down 5 lctrl 0.631345033646
+lurko SNARC line arabic DC 0 up 1 num_delete 0.415297985077
+lurko SNARC line arabic DC 0 down 9 lctrl 0.621907949448
+lurko SNARC line arabic DC 0 down 5 lctrl 0.46425485611
+lurko SNARC line arabic DC 0 up 7 num_delete 0.425482988358
+lurko SNARC line arabic DC 0 up 7 num_delete 0.511937141418
+lurko SNARC line arabic DC 0 up 2 num_delete 0.661028862
+lurko SNARC line arabic DC 0 up 6 num_delete 0.918147087097
+lurko SNARC line arabic DC 0 up 4 num_delete 0.5101749897
+lurko SNARC line arabic DC 0 down 7 lctrl 0.449393987656
+lurko SNARC line arabic DC 0 up 3 num_delete 0.46311712265
+lurko SNARC line arabic DC 0 down 1 lctrl 0.633327007294
+lurko SNARC line arabic DC 0 down 6 lctrl 0.681015014648
+lurko SNARC line arabic DC 0 up 4 num_delete 0.600908994675
+lurko SNARC line arabic DC 0 up 7 num_delete 0.713158130646
+lurko SNARC line arabic DC 0 down 5 lctrl 0.617003917694
+lurko SNARC line arabic DC 0 down 3 lctrl 0.512599945068
+lurko SNARC line arabic DC 0 up 3 num_delete 0.576939105988
+lurko SNARC line arabic DC 0 up 1 num_delete 0.473369121552
+lurko SNARC line arabic DC 0 down 3 lctrl 0.497469186783
+lurko SNARC line arabic DC 0 up 5 num_delete 0.560776948929
+lurko SNARC line arabic DC 0 down 7 lctrl 0.520966768265
+lurko SNARC line arabic DC 0 down 3 lctrl 0.568514108658
+lurko SNARC line arabic DC 0 up 1 num_delete 0.44034910202
+lurko SNARC line arabic DC 0 up 9 num_delete 0.512331962585
+lurko SNARC line arabic DC 0 up 9 num_delete 0.457212924957
+lurko SNARC line arabic DC 0 up 8 num_delete 0.56020283699
+lurko SNARC line arabic DC 0 up 4 lctrl 0.809154987335
+lurko SNARC line arabic DC 0 down 3 lctrl 0.691206932068
+lurko SNARC line arabic DC 0 down 7 lctrl 0.648755788803
+lurko SNARC line arabic DC 0 up 2 num_delete 0.496844053268
+lurko SNARC line arabic DC 0 down 1 lctrl 0.610270023346
+lurko SNARC line arabic DC 0 down 9 lctrl 0.889313936234
+lurko SNARC line arabic DC 0 down 7 lctrl 0.52012181282
+lurko SNARC line arabic DC 0 up 3 num_delete 0.520276069641
+lurko SNARC line arabic DC 0 down 4 lctrl 0.529609918594
+lurko SNARC line arabic DC 0 up 2 num_delete 0.592345952988
+lurko SNARC line arabic DC 0 up 5 num_delete 0.423808097839
+lurko SNARC line arabic DC 0 down 8 lctrl 0.520973920822
+lurko SNARC line arabic DC 0 down 5 lctrl 0.809056043625
+lurko SNARC line arabic DC 0 down 8 lctrl 0.977308988571
+lurko SNARC line arabic DC 0 down 7 lctrl 0.616441011429
+lurko SNARC line arabic DC 0 up 3 num_delete 0.775238037109
+lurko SNARC line arabic DC 0 down 8 lctrl 0.760848999023
+lurko SNARC line arabic DC 0 down 8 lctrl 0.752424001694
+lurko SNARC line arabic DC 0 up 2 num_delete 0.49614405632
+lurko SNARC line arabic DC 0 down 5 lctrl 0.577807188034
+lurko SNARC line arabic DC 0 down 8 lctrl 0.568811893463
+lurko SNARC line arabic DC 0 down 1 lctrl 0.641306877136
+lurko SNARC line arabic DC 0 up 4 num_delete 0.512262105942
+lurko SNARC line arabic DC 0 up 2 num_delete 0.528452157974
+lurko SNARC line arabic DC 0 down 5 lctrl 0.513427972794
+lurko SNARC line arabic DC 0 up 6 num_delete 0.464704990387
+lurko SNARC line arabic DC 0 up 7 num_delete 0.497715950012
+lurko SNARC line arabic DC 0 up 9 num_delete 0.472779989243
+lurko SNARC line arabic DC 0 down 5 lctrl 0.594120025635
+lurko SNARC line arabic DC 0 down 5 lctrl 0.561458110809
+lurko SNARC line arabic DC 0 down 5 lctrl 0.568258047104
+lurko SNARC line arabic DC 0 down 2 lctrl 0.632495164871
+lurko SNARC line arabic DC 0 up 1 num_delete 0.592844009399
+lurko SNARC line arabic DC 0 up 2 num_delete 0.496841907501
+lurko SNARC line arabic DC 0 up 2 num_delete 0.481911897659
+lurko SNARC line arabic DC 0 up 9 num_delete 0.463894128799
+lurko SNARC line arabic DC 0 up 3 num_delete 0.497157096863
+lurko SNARC line arabic DC 0 up 2 num_delete 0.576768875122
+lurko SNARC line arabic DC 0 down 3 lctrl 0.649796962738
+lurko SNARC line arabic DC 0 up 1 num_delete 0.664532899857
+lurko SNARC line arabic DC 0 down 9 lctrl 1.24973487854
+lurko SNARC line arabic DC 0 up 4 num_delete 0.57343006134
+lurko SNARC line arabic DC 0 down 4 lctrl 0.672727108002
+lurko SNARC line arabic DC 0 up 8 num_delete 0.464728116989
+lurko SNARC line arabic DC 0 down 6 lctrl 0.697508811951
+lurko SNARC line arabic DC 0 down 6 lctrl 0.489387989044
+lurko SNARC line arabic DC 0 down 8 lctrl 0.52090716362
+lurko SNARC line arabic DC 0 down 5 lctrl 0.625246047974
+lurko SNARC line arabic DC 0 down 5 lctrl 0.601199150085
+lurko SNARC line arabic DC 0 up 5 num_delete 0.712361097336
+lurko SNARC line arabic DC 0 up 2 num_delete 0.736704111099
+lurko SNARC line arabic DC 0 down 1 lctrl 0.944925069809
+lurko SNARC line arabic DC 0 up 4 num_delete 0.624918937683
+lurko SNARC line arabic DC 0 up 1 num_delete 0.504785060883
+lurko SNARC line arabic DC 0 down 5 lctrl 0.665081977844
+lurko SNARC line arabic DC 0 down 1 lctrl 0.505945920944
+lurko SNARC line arabic DC 0 down 8 lctrl 0.849304199219
+lurko SNARC line arabic DC 0 up 2 num_delete 0.464795827866
+lurko SNARC line arabic DC 0 down 9 lctrl 0.513234853745
+lurko SNARC line arabic DC 0 down 5 lctrl 0.784905910492
+lurko SNARC line arabic DC 0 down 1 lctrl 0.729295969009
+lurko SNARC line arabic DC 0 down 7 lctrl 0.568776130676
+lurko SNARC line arabic DC 0 up 2 num_delete 0.464125871658
+lurko SNARC line arabic DC 0 up 2 num_delete 0.641066789627
+lurko SNARC line arabic DC 0 up 3 num_delete 0.449354171753
+lurko SNARC line arabic DC 0 down 8 lctrl 0.561578989029
+lurko SNARC line arabic DC 0 up 5 num_delete 0.432968139648
+lurko SNARC line arabic DC 0 down 4 lctrl 0.585631132126
+lurko SNARC line arabic DC 0 up 8 num_delete 0.792142868042
+lurko SNARC line arabic DC 0 down 9 lctrl 0.937179088593
+lurko SNARC line arabic DC 0 down 6 lctrl 0.568749904633
+lurko SNARC line arabic DC 0 down 2 lctrl 0.585457086563
+lurko SNARC line arabic DC 0 down 9 lctrl 1.24018216133
+lurko SNARC line arabic DC 0 up 1 num_delete 0.512279987335
+lurko SNARC line arabic DC 0 down 3 lctrl 0.961406946182
+lurko SNARC line arabic DC 0 down 5 lctrl 0.919205188751
+lurko SNARC line arabic DC 0 down 6 lctrl 0.705025911331
+lurko SNARC line arabic DC 0 up 5 num_delete 0.455717086792
+lurko SNARC line arabic DC 0 up 9 num_delete 0.504633903503
+lurko SNARC line arabic DC 0 up 4 num_delete 0.449302911758
+lurko SNARC line arabic DC 0 down 9 lctrl 0.559751987457
+lurko SNARC line arabic DC 0 up 9 num_delete 0.479187011719
+lurko SNARC line arabic DC 0 down 7 lctrl 0.577221870422
+lurko SNARC line arabic DC 0 down 8 lctrl 0.64865398407
+lurko SNARC line arabic DC 0 up 3 num_delete 0.480265855789
+lurko SNARC line arabic DC 0 down 6 lctrl 0.673938035965
+lurko SNARC line arabic DC 0 up 6 num_delete 0.656490087509
+lurko SNARC line arabic DC 0 down 5 lctrl 0.673155069351
+lurko SNARC line arabic DC 0 up 9 num_delete 0.552518844604
+lurko SNARC line arabic DC 0 down 1 lctrl 0.529982089996
+lurko SNARC line arabic DC 0 up 9 num_delete 0.5682117939
+lurko SNARC line arabic DC 0 down 4 lctrl 0.50589299202
+lurko SNARC line arabic DC 0 down 3 lctrl 0.585458040237
+lurko SNARC line arabic DC 0 up 4 num_delete 0.488957166672
+lurko SNARC line arabic DC 0 down 6 lctrl 0.600514173508
+lurko SNARC line arabic DC 0 down 7 lctrl 0.56097984314
+lurko SNARC line arabic DC 0 down 8 lctrl 0.617009878159
+lurko SNARC line arabic DC 0 down 5 lctrl 0.600478887558
+lurko SNARC line arabic DC 0 down 1 lctrl 0.736463785172
+lurko SNARC line arabic DC 0 down 8 lctrl 0.688742876053
+lurko SNARC line arabic DC 0 up 2 num_delete 0.472760915756
+lurko SNARC line arabic DC 0 up 8 num_delete 0.536628007889
+lurko SNARC line arabic DC 0 up 3 num_delete 0.528649091721
+lurko SNARC line arabic DC 0 down 3 lctrl 0.592320919037
+lurko SNARC line arabic DC 0 up 4 num_delete 0.696074008942
+lurko SNARC line arabic DC 0 down 3 lctrl 0.497470140457
+lurko SNARC line arabic DC 0 up 3 num_delete 0.464958906174
+lurko SNARC line arabic DC 0 up 4 num_delete 0.568193912506
+lurko SNARC line arabic DC 0 up 1 num_delete 0.632830142975
+lurko SNARC line arabic DC 0 up 1 num_delete 0.521970033646
+lurko SNARC line arabic DC 0 up 4 num_delete 0.673651218414
+lurko SNARC line arabic DC 0 up 3 num_delete 0.729094982147
+lurko SNARC line arabic DC 0 up 4 num_delete 0.527679920197
+lurko SNARC line arabic DC 0 up 9 num_delete 0.61666893959
+lurko SNARC line arabic DC 0 up 7 num_delete 0.745411872864
+lurko SNARC line arabic DC 0 down 2 lctrl 0.77718091011
+lurko SNARC line arabic DC 0 up 7 num_delete 0.568418979645
+lurko SNARC line arabic DC 0 down 6 lctrl 0.713129997253
+lurko SNARC line arabic DC 0 up 1 lctrl 0.633201122284
+lurko SNARC line arabic DC 0 up 1 num_delete 0.912440061569
+lurko SNARC line arabic DC 0 down 3 lctrl 0.561138153076
+lurko SNARC line arabic DC 0 down 6 lctrl 1.71303486824
+lurko SNARC line arabic DC 0 down 2 lctrl 0.575663089752
+lurko SNARC line arabic DC 0 down 1 lctrl 0.50430393219
+lurko SNARC line arabic DC 0 down 4 lctrl 0.578361034393
+lurko SNARC line arabic DC 0 down 9 lctrl 0.566857099533
+lurko SNARC line arabic DC 0 down 9 lctrl 0.616376876831
+lurko SNARC line arabic DC 0 up 9 num_delete 0.544672012329
+lurko SNARC line arabic DC 0 up 3 num_delete 0.424894094467
+lurko SNARC line arabic DC 0 down 6 lctrl 0.538146972656
+lurko SNARC line arabic DC 0 up 7 num_delete 0.60015296936
+lurko SNARC line arabic DC 0 down 2 lctrl 0.61650800705
+lurko SNARC line arabic DC 0 down 7 lctrl 0.497749090195
+lurko SNARC line arabic DC 0 down 6 lctrl 0.648617982864
+lurko SNARC line arabic DC 0 down 8 lctrl 0.465358972549
+lurko SNARC line arabic DC 0 down 7 lctrl 0.544562101364
+lurko SNARC line arabic DC 0 up 6 num_delete 0.560453891754
+lurko SNARC line arabic DC 0 up 8 num_delete 0.536525964737
+lurko SNARC line arabic DC 0 up 2 num_delete 0.608552932739
+lurko SNARC line arabic DC 0 down 1 lctrl 0.760993003845
+lurko SNARC line arabic DC 0 down 4 lctrl 0.656837940216
+lurko SNARC line arabic DC 0 up 1 num_delete 0.584118843079
+lurko SNARC line arabic DC 0 up 1 num_delete 0.616917848587
+lurko SNARC line arabic DC 0 up 4 num_delete 0.56170797348
+lurko SNARC line arabic DC 0 down 8 lctrl 0.577831983566
+lurko SNARC line arabic DC 0 down 2 lctrl 0.497514009476
+lurko SNARC line arabic DC 0 up 8 num_delete 0.736736059189
+lurko SNARC line arabic DC 0 down 9 num_delete 0.56103014946
+lurko SNARC line arabic DC 0 down 2 lctrl 0.720546007156
+lurko SNARC line arabic DC 0 up 1 num_delete 0.925010919571
+lurko SNARC line arabic DC 0 down 7 lctrl 0.513964176178
+lurko SNARC line arabic DC 0 down 5 lctrl 0.536346912384
+lurko SNARC line arabic DC 0 up 1 num_delete 0.585414886475
+lurko SNARC line arabic DC 0 down 9 lctrl 0.545249938965
+lurko SNARC line arabic DC 0 down 5 lctrl 0.600958824158
+lurko SNARC line arabic DC 0 down 3 lctrl 0.626024961472
+lurko SNARC line arabic DC 0 up 7 num_delete 0.464395046234
+lurko SNARC line arabic DC 0 down 7 lctrl 0.480917930603
+lurko SNARC line arabic DC 0 down 5 lctrl 0.592200040817
+lurko SNARC line arabic DC 0 up 9 num_delete 0.488044977188
+lurko SNARC line arabic DC 0 up 8 num_delete 0.528280973434
+lurko SNARC line arabic DC 0 up 5 num_delete 0.473181009293
+lurko SNARC line arabic DC 0 up 3 num_delete 0.520987033844
+lurko SNARC line arabic DC 0 down 8 lctrl 1.09699606895
+lurko SNARC line arabic DC 0 down 2 lctrl 0.489393949509
+lurko SNARC line arabic DC 0 down 3 lctrl 0.888756990433
+lurko SNARC line arabic DC 0 down 2 lctrl 0.521557092667
+lurko SNARC line arabic DC 0 up 4 num_delete 0.447427034378
+lurko SNARC line arabic DC 0 up 6 num_delete 0.697079896927
+lurko SNARC line arabic DC 0 up 6 num_delete 0.401261091232
+lurko SNARC line arabic DC 0 down 1 lctrl 0.585597038269
+lurko SNARC line arabic DC 0 up 3 num_delete 0.456950187683
+lurko SNARC line arabic DC 0 up 6 num_delete 0.505331039429
+lurko SNARC line arabic DC 0 up 3 num_delete 0.433445930481
+lurko SNARC line arabic DC 0 down 8 lctrl 0.728298902512
+lurko SNARC line arabic DC 0 down 2 lctrl 0.657300949097
+lurko SNARC line arabic DC 0 down 8 lctrl 0.663625955582
+lurko SNARC line arabic DC 0 up 9 num_delete 0.527955055237
+lurko SNARC line arabic DC 0 up 4 num_delete 0.489109992981
+lurko SNARC line arabic DC 0 up 1 num_delete 0.53640794754
+lurko SNARC line arabic DC 0 up 4 num_delete 0.648519039154
+lurko SNARC line arabic DC 0 down 6 lctrl 0.834160089493
+lurko SNARC line arabic DC 0 up 6 num_delete 0.601232051849
+lurko SNARC line arabic DC 0 up 5 num_delete 1.39237213135
+lurko SNARC line arabic DC 0 down 3 lctrl 0.809666872025
+lurko SNARC line arabic DC 0 down 6 lctrl 0.776539802551
+lurko SNARC line arabic DC 0 up 6 num_delete 0.663594961166
+lurko SNARC line arabic DC 0 up 6 num_delete 0.680683851242
+lurko SNARC line arabic DC 0 down 6 lctrl 0.601009130478
+lurko SNARC line arabic DC 0 down 1 lctrl 1.70321798325
+lurko SNARC line arabic DC 0 up 5 num_delete 0.561207056046
+lurko SNARC line arabic DC 0 up 9 num_delete 0.456383943558
+lurko SNARC line arabic DC 0 down 7 lctrl 0.505257844925
+lurko SNARC line arabic DC 0 down 2 lctrl 0.641345977783
+lurko SNARC line arabic DC 0 up 4 num_delete 0.623756885529
+lurko SNARC line arabic DC 0 up 6 num_delete 0.744911909103
+lurko SNARC line arabic DC 0 up 4 num_delete 0.433405160904
+lurko SNARC line arabic DC 0 up 4 num_delete 0.601383924484
+lurko SNARC line arabic DC 0 up 1 num_delete 0.640193939209
+lurko SNARC line arabic DC 0 up 4 num_delete 0.61719918251
+lurko SNARC line arabic DC 0 up 7 num_delete 0.608578920364
+lurko SNARC line arabic DC 0 down 3 lctrl 0.665116786957
+lurko SNARC line arabic DC 0 up 3 num_delete 0.511738061905
+lurko SNARC line arabic DC 0 up 7 num_delete 0.615592002869
+lurko SNARC line arabic DC 0 down 9 num_delete 0.776803016663
+lurko SNARC line arabic DC 0 down 6 lctrl 0.752314090729
+lurko SNARC line arabic DC 0 up 8 num_delete 0.696111917496
+lurko SNARC line arabic DC 0 down 9 lctrl 0.488655090332
+lurko SNARC line arabic DC 0 up 5 num_delete 0.49636387825
+lurko SNARC line arabic DC 0 up 2 num_delete 0.576620101929
+lurko SNARC line arabic DC 0 up 4 num_delete 1.00032997131
+lurko SNARC line arabic DC 0 down 4 lctrl 0.601593017578
+lurko SNARC line arabic DC 0 down 3 lctrl 0.512557983398
+lurko SNARC line arabic DC 0 down 1 lctrl 0.535971164703
+lurko SNARC line arabic DC 0 down 7 lctrl 0.553020954132
+lurko SNARC line arabic DC 0 down 9 lctrl 0.768877983093
+lurko SNARC line arabic DC 0 up 4 num_delete 0.592993021011
+lurko SNARC line arabic DC 0 down 6 lctrl 0.673946142197
+lurko SNARC line arabic DC 0 down 2 lctrl 0.632157087326
+lurko SNARC line arabic DC 0 down 8 lctrl 0.617658853531
+lurko SNARC line arabic DC 0 up 4 num_delete 0.632356882095
+lurko SNARC line arabic DC 0 up 9 num_delete 1.04750490189
+lurko SNARC line arabic DC 0 down 5 lctrl 0.681176900864
+lurko SNARC line arabic DC 0 up 7 num_delete 0.681130886078
+lurko SNARC line arabic DC 0 down 1 lctrl 0.61780500412
+lurko SNARC line arabic DC 0 down 3 lctrl 0.600682973862
+lurko SNARC line arabic DC 0 up 6 lctrl 0.513467073441
+lurko SNARC line arabic DC 0 down 5 lctrl 0.561261177063
+lurko SNARC line arabic DC 0 up 8 num_delete 0.631117105484
+lurko SNARC line arabic DC 0 up 8 num_delete 0.728231906891
+lurko SNARC line arabic DC 0 up 9 num_delete 0.559027910233
+lurko SNARC line arabic DC 0 down 6 lctrl 0.808099031448
+lurko SNARC line arabic DC 0 up 6 num_delete 0.600978136063
+lurko SNARC line arabic DC 0 down 1 lctrl 0.711622953415
+lurko SNARC line arabic DC 0 down 8 lctrl 0.753840923309
+lurko SNARC line arabic DC 0 up 8 num_delete 0.431536912918
+lurko SNARC line arabic DC 0 up 6 num_delete 0.558825969696
+lurko SNARC line arabic DC 0 down 7 lctrl 0.697359800339
+lurko SNARC line arabic DC 0 up 9 num_delete 0.544589996338
+lurko SNARC line arabic DC 0 down 7 lctrl 0.601150035858
+lurko SNARC line arabic DC 0 down 8 lctrl 0.64895606041
+lurko SNARC line arabic DC 0 up 4 num_delete 0.513142108917
+lurko SNARC line arabic DC 0 down 4 num_delete 0.42516207695
+lurko SNARC line arabic DC 0 down 4 lctrl 0.641263008118
+lurko SNARC line arabic DC 0 down 7 lctrl 0.97630906105
+lurko SNARC line arabic DC 0 down 2 lctrl 0.497618913651
+lurko SNARC line arabic DC 0 up 2 num_delete 0.53676199913
+lurko SNARC line arabic DC 0 up 2 num_delete 0.359397172928
+lurko SNARC line arabic DC 0 down 9 lctrl 0.448663949966
+lurko SNARC line arabic DC 0 down 5 lctrl 0.529058218002
+lurko SNARC line arabic DC 0 up 1 num_delete 0.569041967392
+lurko SNARC line arabic DC 0 up 8 num_delete 0.721293926239
+lurko SNARC line arabic DC 0 up 7 num_delete 0.544548988342
+lurko SNARC line arabic DC 0 down 6 lctrl 0.769850969315
+lurko SNARC line arabic DC 0 up 7 num_delete 0.520888090134
+lurko SNARC line arabic DC 0 up 6 num_delete 0.441524028778
+lurko SNARC line arabic DC 0 up 7 num_delete 0.536715984344
+lurko SNARC line arabic DC 0 up 4 lctrl 0.886628866196
+lurko SNARC line arabic DC 0 down 7 lctrl 0.616404771805
+lurko SNARC line arabic DC 0 up 5 num_delete 0.608727931976
+lurko SNARC line arabic DC 0 down 7 lctrl 0.561839818954
+lurko SNARC line arabic DC 0 down 4 lctrl 0.624392032623
+lurko SNARC line arabic DC 0 up 3 num_delete 0.463937997818
+lurko SNARC line arabic DC 0 down 9 lctrl 0.61759185791
+lurko SNARC line arabic DC 0 up 7 num_delete 0.480224132538
+lurko SNARC line arabic DC 0 down 5 lctrl 0.48193693161
+lurko SNARC line arabic DC 0 up 1 num_delete 0.528198003769
+lurko SNARC line arabic DC 0 up 1 num_delete 0.520864009857
+lurko SNARC line arabic DC 0 down 4 lctrl 0.566891908646
+lurko SNARC line arabic DC 0 down 9 lctrl 0.585457086563
+lurko SNARC line arabic DC 0 up 2 num_delete 0.489037036896
+lurko SNARC line arabic DC 0 down 3 lctrl 0.657323122025
+lurko SNARC line arabic DC 0 up 7 num_delete 0.544189929962
+lurko SNARC line arabic DC 0 down 1 lctrl 0.649002790451
+lurko SNARC line arabic DC 0 down 6 lctrl 0.713011026382
+lurko SNARC line arabic DC 0 down 5 lctrl 0.543992996216
+lurko SNARC line arabic DC 0 up 1 num_delete 0.560426950455
+lurko SNARC line arabic DC 0 up 3 num_delete 0.617077112198
+lurko SNARC line arabic DC 0 down 9 lctrl 0.585304021835
+lurko SNARC line arabic DC 0 up 8 num_delete 0.736378192902
+lurko SNARC line arabic DC 0 down 5 lctrl 0.696408987045
+lurko SNARC line arabic DC 0 down 8 lctrl 0.592926025391
+lurko SNARC line arabic DC 0 down 4 lctrl 0.648588180542
+lurko SNARC line arabic DC 0 up 3 num_delete 0.681157112122
+lurko SNARC line arabic DC 0 down 1 lctrl 0.776475906372
+lurko SNARC line arabic DC 0 up 9 num_delete 0.584286928177
+lurko SNARC line arabic DC 0 up 3 num_delete 0.897047042847
+lurko SNARC line arabic DC 0 up 3 num_delete 0.928534984589
+lurko SNARC line arabic DC 0 up 2 num_delete 0.481503009796
+lurko SNARC line arabic DC 0 up 8 num_delete 0.5615670681
+lurko SNARC line arabic DC 0 up 8 num_delete 0.520734786987
+lurko SNARC line arabic DC 0 up 7 num_delete 0.584717035294
+lurko SNARC line arabic DC 0 down 6 lctrl 0.441893815994
+lurko SNARC line arabic DC 0 up 6 num_delete 0.663903951645
+lurko SNARC line arabic DC 0 down 4 lctrl 0.680820941925
+lurko SNARC line arabic DC 0 up 2 num_delete 0.640908956528
+lurko SNARC line arabic DC 0 up 8 num_delete 0.536873817444
+lurko SNARC line arabic DC 0 up 9 num_delete 0.537179946899
+lurko SNARC line arabic DC 0 down 3 lctrl 0.633095026016
+lurko SNARC line arabic DC 0 down 2 lctrl 0.624830007553
+lurko SNARC line arabic DC 0 up 2 lctrl 0.57728099823
+lurko SNARC line arabic DC 0 down 3 lctrl 0.776494026184
+lurko SNARC line arabic DC 0 up 9 num_delete 0.448017120361
+lurko SNARC line arabic DC 0 up 2 num_delete 0.592777967453
+lurko SNARC line arabic DC 0 up 1 num_delete 0.729219913483
+lurko SNARC line arabic DC 0 up 9 num_delete 0.488975048065
+lurko SNARC line arabic DC 0 up 7 num_delete 0.648558855057
+lurko SNARC line arabic DC 0 down 8 lctrl 0.673254013062
+lurko SNARC line arabic DC 0 down 8 lctrl 0.577092170715
+lurko SNARC line arabic DC 0 down 6 lctrl 0.897464990616
+lurko SNARC line arabic DC 0 down 2 lctrl 0.657356023788
+lurko SNARC line arabic DC 0 up 3 num_delete 0.695505142212
+lurko SNARC line arabic DC 0 up 5 num_delete 1.04907798767
+lurko SNARC line arabic DC 0 down 8 lctrl 0.76847910881
+lurko SNARC line arabic DC 0 down 5 lctrl 0.761246919632
+lurko SNARC line arabic DC 0 down 2 lctrl 0.609956979752
+lurko SNARC line arabic DC 0 up 9 num_delete 1.12743902206
+lurko SNARC line arabic DC 0 down 4 lctrl 0.54493689537
+lurko SNARC line arabic DC 0 up 7 num_delete 0.543622016907
+lurko SNARC line arabic DC 0 down 5 lctrl 0.561565876007
+lurko SNARC line arabic DC 0 down 9 lctrl 0.680797815323
+lurko SNARC line arabic DC 0 down 7 lctrl 0.536330938339
+lurko SNARC line arabic DC 0 down 2 lctrl 0.536731004715
+lurko SNARC line arabic DC 0 down 6 lctrl 0.664696931839
+lurko SNARC line arabic DC 0 up 7 num_delete 0.736244916916
+lurko SNARC line arabic DC 0 up 6 num_delete 0.61689209938
+lurko SNARC line arabic DC 0 up 1 num_delete 0.608022928238
+lurko SNARC line arabic DC 0 down 5 lctrl 0.608883142471
+lurko SNARC line arabic DC 0 up 8 num_delete 0.759580135345
+lurko SNARC line arabic DC 0 down 4 lctrl 0.568484067917
+lurko SNARC line arabic DC 0 down 5 num_delete 0.864701986313
+{'delay': u'0', 'dateStr': u'05_18_0955', 'task': u'line', 'participant': u'lurko', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+lurko SNARC line dot CD 0 up 45 lctrl 2.36334991455
+lurko SNARC line dot CD 0 up 45 lctrl 0.554981946945
+lurko SNARC line dot CD 0 down 15 num_delete 0.651047945023
+lurko SNARC line dot CD 0 up 40 lctrl 0.578507900238
+lurko SNARC line dot CD 0 up 45 lctrl 0.475914955139
+lurko SNARC line dot CD 0 down 35 num_delete 0.896234035492
+lurko SNARC line dot CD 0 down 15 num_delete 0.458494901657
+lurko SNARC line dot CD 0 down 40 num_delete 0.457835912704
+lurko SNARC line dot CD 0 down 5 num_delete 0.416606903076
+lurko SNARC line dot CD 0 up 35 lctrl 0.778435945511
+lurko SNARC line dot CD 0 down 35 num_delete 0.640047073364
+lurko SNARC line dot CD 0 up 20 lctrl 0.565170049667
+lurko SNARC line dot CD 0 up 5 lctrl 0.351985931396
+lurko SNARC line dot CD 0 up 20 lctrl 0.493278026581
+lurko SNARC line dot CD 0 down 45 num_delete 0.481976032257
+lurko SNARC line dot CD 0 down 30 num_delete 1.14347791672
+lurko SNARC line dot CD 0 down 30 num_delete 0.43133020401
+lurko SNARC line dot CD 0 down 5 num_delete 0.568264961243
+lurko SNARC line dot CD 0 down 10 num_delete 0.601688861847
+lurko SNARC line dot CD 0 up 35 lctrl 0.497448921204
+lurko SNARC line dot CD 0 up 30 lctrl 0.391263008118
+lurko SNARC line dot CD 0 down 45 num_delete 0.443227052689
+lurko SNARC line dot CD 0 up 20 lctrl 0.460985898972
+lurko SNARC line dot CD 0 down 40 num_delete 0.441119194031
+lurko SNARC line dot CD 0 up 10 lctrl 0.577720165253
+lurko SNARC line dot CD 0 up 10 lctrl 0.6099588871
+lurko SNARC line dot CD 0 down 5 num_delete 0.455965995789
+lurko SNARC line dot CD 0 down 40 num_delete 0.401782989502
+lurko SNARC line dot CD 0 down 10 num_delete 0.401124954224
+lurko SNARC line dot CD 0 up 30 lctrl 0.639971017838
+lurko SNARC line dot CD 0 down 5 num_delete 0.488070011139
+lurko SNARC line dot CD 0 up 45 lctrl 1.41267991066
+lurko SNARC line dot CD 0 down 20 num_delete 0.451735019684
+lurko SNARC line dot CD 0 up 20 lctrl 1.07650494576
+lurko SNARC line dot CD 0 down 5 num_delete 0.550972938538
+lurko SNARC line dot CD 0 up 45 lctrl 0.716289997101
+lurko SNARC line dot CD 0 down 40 num_delete 0.490186929703
+lurko SNARC line dot CD 0 up 35 lctrl 0.673372983932
+lurko SNARC line dot CD 0 up 5 lctrl 0.535995960236
+lurko SNARC line dot CD 0 down 40 num_delete 0.54521894455
+lurko SNARC line dot CD 0 up 40 lctrl 0.729330062866
+lurko SNARC line dot CD 0 down 5 num_delete 0.487798929214
+lurko SNARC line dot CD 0 down 20 num_delete 0.445084810257
+lurko SNARC line dot CD 0 up 10 lctrl 0.698340892792
+lurko SNARC line dot CD 0 up 10 lctrl 0.473999023438
+lurko SNARC line dot CD 0 up 20 lctrl 0.621147871017
+lurko SNARC line dot CD 0 up 15 lctrl 0.578170061111
+lurko SNARC line dot CD 0 down 40 num_delete 0.442046165466
+lurko SNARC line dot CD 0 up 40 lctrl 0.81799197197
+lurko SNARC line dot CD 0 up 30 lctrl 0.535290956497
+lurko SNARC line dot CD 0 up 30 lctrl 0.510662078857
+lurko SNARC line dot CD 0 up 10 lctrl 0.529433012009
+lurko SNARC line dot CD 0 down 20 num_delete 0.483825922012
+lurko SNARC line dot CD 0 up 25 lctrl 0.581539869308
+lurko SNARC line dot CD 0 up 30 lctrl 0.559909105301
+lurko SNARC line dot CD 0 down 25 num_delete 0.413725137711
+lurko SNARC line dot CD 0 down 10 num_delete 0.457720041275
+lurko SNARC line dot CD 0 up 5 lctrl 0.720350980759
+lurko SNARC line dot CD 0 up 20 lctrl 0.532138109207
+lurko SNARC line dot CD 0 down 15 num_delete 0.49867105484
+lurko SNARC line dot CD 0 up 40 lctrl 0.602112054825
+lurko SNARC line dot CD 0 down 25 num_delete 0.430209875107
+lurko SNARC line dot CD 0 up 10 lctrl 0.609308958054
+lurko SNARC line dot CD 0 up 35 lctrl 0.51335477829
+lurko SNARC line dot CD 0 up 35 lctrl 0.480885028839
+lurko SNARC line dot CD 0 up 30 lctrl 0.703197956085
+lurko SNARC line dot CD 0 up 10 lctrl 0.650288105011
+lurko SNARC line dot CD 0 down 45 num_delete 0.499152898788
+lurko SNARC line dot CD 0 up 15 lctrl 0.619087934494
+lurko SNARC line dot CD 0 up 45 lctrl 0.523597955704
+lurko SNARC line dot CD 0 down 10 num_delete 0.416760921478
+lurko SNARC line dot CD 0 up 40 lctrl 0.610566854477
+lurko SNARC line dot CD 0 up 35 lctrl 0.577430009842
+lurko SNARC line dot CD 0 up 30 lctrl 0.503014087677
+lurko SNARC line dot CD 0 down 15 num_delete 0.530930995941
+lurko SNARC line dot CD 0 down 45 num_delete 0.483554124832
+lurko SNARC line dot CD 0 down 30 num_delete 0.526348114014
+lurko SNARC line dot CD 0 up 40 lctrl 0.630937814713
+lurko SNARC line dot CD 0 up 40 lctrl 0.539124965668
+lurko SNARC line dot CD 0 up 10 lctrl 0.481580972672
+lurko SNARC line dot CD 0 up 20 lctrl 0.564551830292
+lurko SNARC line dot CD 0 down 10 num_delete 0.482190847397
+lurko SNARC line dot CD 0 up 35 lctrl 0.576704025269
+lurko SNARC line dot CD 0 up 40 lctrl 0.586920022964
+lurko SNARC line dot CD 0 down 45 num_delete 0.515084981918
+lurko SNARC line dot CD 0 down 5 num_delete 0.472008943558
+lurko SNARC line dot CD 0 down 45 num_delete 0.618556022644
+lurko SNARC line dot CD 0 up 10 lctrl 0.603243112564
+lurko SNARC line dot CD 0 up 45 lctrl 0.578647851944
+lurko SNARC line dot CD 0 up 15 lctrl 0.555598020554
+lurko SNARC line dot CD 0 down 5 num_delete 0.600018978119
+lurko SNARC line dot CD 0 down 25 num_delete 0.412781000137
+lurko SNARC line dot CD 0 down 35 num_delete 0.535327911377
+lurko SNARC line dot CD 0 up 10 lctrl 0.633728981018
+lurko SNARC line dot CD 0 up 10 lctrl 0.577000141144
+lurko SNARC line dot CD 0 up 25 lctrl 0.564488887787
+lurko SNARC line dot CD 0 down 30 num_delete 0.469815969467
+lurko SNARC line dot CD 0 up 35 lctrl 0.521618843079
+lurko SNARC line dot CD 0 down 30 num_delete 0.510226964951
+lurko SNARC line dot CD 0 down 35 num_delete 0.4885160923
+lurko SNARC line dot CD 0 down 35 num_delete 0.391657114029
+lurko SNARC line dot CD 0 up 20 lctrl 0.589198827744
+lurko SNARC line dot CD 0 down 15 num_delete 0.442732095718
+lurko SNARC line dot CD 0 up 30 lctrl 0.575685977936
+lurko SNARC line dot CD 0 down 5 num_delete 0.871821165085
+lurko SNARC line dot CD 0 down 45 num_delete 0.516335964203
+lurko SNARC line dot CD 0 down 40 num_delete 0.609786987305
+lurko SNARC line dot CD 0 down 25 num_delete 0.525451183319
+lurko SNARC line dot CD 0 up 15 lctrl 0.595703125
+lurko SNARC line dot CD 0 up 25 lctrl 0.509282827377
+lurko SNARC line dot CD 0 down 5 num_delete 0.50478887558
+lurko SNARC line dot CD 0 up 10 lctrl 0.481834173203
+lurko SNARC line dot CD 0 down 45 num_delete 0.403924942017
+lurko SNARC line dot CD 0 down 25 num_delete 0.485534906387
+lurko SNARC line dot CD 0 up 5 lctrl 0.600394010544
+lurko SNARC line dot CD 0 up 20 lctrl 0.484337806702
+lurko SNARC line dot CD 0 down 40 num_delete 0.432569980621
+lurko SNARC line dot CD 0 up 40 lctrl 0.603297948837
+lurko SNARC line dot CD 0 down 15 num_delete 0.546778202057
+lurko SNARC line dot CD 0 down 20 num_delete 0.412135124207
+lurko SNARC line dot CD 0 down 15 num_delete 0.482365846634
+lurko SNARC line dot CD 0 up 25 lctrl 0.565304040909
+lurko SNARC line dot CD 0 down 20 num_delete 0.531640052795
+lurko SNARC line dot CD 0 up 15 lctrl 0.499782085419
+lurko SNARC line dot CD 0 up 5 lctrl 0.512664079666
+lurko SNARC line dot CD 0 up 15 lctrl 0.475037097931
+lurko SNARC line dot CD 0 down 5 num_delete 0.575841188431
+lurko SNARC line dot CD 0 up 25 lctrl 0.510509967804
+lurko SNARC line dot CD 0 up 30 lctrl 0.503710985184
+lurko SNARC line dot CD 0 down 25 num_delete 0.726140022278
+lurko SNARC line dot CD 0 up 30 lctrl 0.559787034988
+lurko SNARC line dot CD 0 up 5 lctrl 0.560168027878
+lurko SNARC line dot CD 0 up 5 lctrl 6.12776994705
+lurko SNARC line dot CD 0 down 5 num_delete 0.472137928009
+lurko SNARC line dot CD 0 down 35 num_delete 0.471652984619
+lurko SNARC line dot CD 0 up 5 lctrl 0.776777029037
+lurko SNARC line dot CD 0 down 20 num_delete 0.756512880325
+lurko SNARC line dot CD 0 down 20 num_delete 0.515882968903
+lurko SNARC line dot CD 0 up 10 lctrl 0.81002497673
+lurko SNARC line dot CD 0 down 10 num_delete 0.593168973923
+lurko SNARC line dot CD 0 down 30 num_delete 0.743405103683
+lurko SNARC line dot CD 0 down 5 num_delete 0.616463899612
+lurko SNARC line dot CD 0 down 25 num_delete 5.55001306534
+lurko SNARC line dot CD 0 down 5 num_delete 0.439597129822
+lurko SNARC line dot CD 0 up 25 lctrl 1.02268195152
+lurko SNARC line dot CD 0 up 30 lctrl 0.439243793488
+lurko SNARC line dot CD 0 up 5 lctrl 0.416599988937
+lurko SNARC line dot CD 0 up 35 lctrl 0.424938201904
+lurko SNARC line dot CD 0 down 20 num_delete 0.548134088516
+lurko SNARC line dot CD 0 up 20 lctrl 0.707968950272
+lurko SNARC line dot CD 0 down 25 num_delete 0.588943958282
+lurko SNARC line dot CD 0 up 30 lctrl 0.712246179581
+lurko SNARC line dot CD 0 up 35 lctrl 0.648716926575
+lurko SNARC line dot CD 0 up 35 lctrl 0.528289079666
+lurko SNARC line dot CD 0 up 40 lctrl 0.481434106827
+lurko SNARC line dot CD 0 up 45 lctrl 0.388189077377
+lurko SNARC line dot CD 0 down 10 num_delete 0.513463973999
+lurko SNARC line dot CD 0 down 25 num_delete 0.437914848328
+lurko SNARC line dot CD 0 up 35 lctrl 0.553596019745
+lurko SNARC line dot CD 0 up 15 lctrl 0.585954904556
+lurko SNARC line dot CD 0 up 25 lctrl 0.50151515007
+lurko SNARC line dot CD 0 down 45 num_delete 0.499756097794
+lurko SNARC line dot CD 0 down 45 num_delete 0.626833200455
+lurko SNARC line dot CD 0 up 10 lctrl 0.55380487442
+lurko SNARC line dot CD 0 up 10 lctrl 0.521284818649
+lurko SNARC line dot CD 0 down 15 num_delete 0.474815130234
+lurko SNARC line dot CD 0 down 45 num_delete 0.515652894974
+lurko SNARC line dot CD 0 up 40 lctrl 0.553683042526
+lurko SNARC line dot CD 0 down 10 num_delete 0.480449914932
+lurko SNARC line dot CD 0 up 5 lctrl 0.53605890274
+lurko SNARC line dot CD 0 up 15 lctrl 0.539568901062
+lurko SNARC line dot CD 0 down 10 num_delete 0.457576990128
+lurko SNARC line dot CD 0 down 25 num_delete 0.557210922241
+lurko SNARC line dot CD 0 down 35 num_delete 0.456573009491
+lurko SNARC line dot CD 0 up 30 lctrl 0.583571910858
+lurko SNARC line dot CD 0 down 40 num_delete 0.425968170166
+lurko SNARC line dot CD 0 down 15 num_delete 0.564091920853
+lurko SNARC line dot CD 0 up 35 lctrl 0.599019050598
+lurko SNARC line dot CD 0 down 20 num_delete 0.460656881332
+lurko SNARC line dot CD 0 down 30 num_delete 0.583685159683
+lurko SNARC line dot CD 0 up 40 lctrl 0.72074508667
+lurko SNARC line dot CD 0 up 15 lctrl 0.643107891083
+lurko SNARC line dot CD 0 up 40 lctrl 0.57909989357
+lurko SNARC line dot CD 0 down 10 num_delete 0.5298371315
+lurko SNARC line dot CD 0 down 35 num_delete 0.449429988861
+lurko SNARC line dot CD 0 down 15 num_delete 0.755049943924
+lurko SNARC line dot CD 0 up 5 lctrl 0.455405950546
+lurko SNARC line dot CD 0 up 40 lctrl 0.514232873917
+lurko SNARC line dot CD 0 down 5 num_delete 0.407449960709
+lurko SNARC line dot CD 0 down 35 num_delete 0.544427871704
+lurko SNARC line dot CD 0 down 35 num_delete 0.480108976364
+lurko SNARC line dot CD 0 up 35 lctrl 0.545621871948
+lurko SNARC line dot CD 0 down 45 num_delete 0.458937883377
+lurko SNARC line dot CD 0 down 35 num_delete 0.552913188934
+lurko SNARC line dot CD 0 up 30 lctrl 0.480067014694
+lurko SNARC line dot CD 0 up 20 lctrl 0.516069173813
+lurko SNARC line dot CD 0 down 30 num_delete 0.517971992493
+lurko SNARC line dot CD 0 down 30 num_delete 0.542151927948
+lurko SNARC line dot CD 0 down 20 num_delete 0.485311985016
+lurko SNARC line dot CD 0 down 40 num_delete 0.442005157471
+lurko SNARC line dot CD 0 down 35 num_delete 0.512418031693
+lurko SNARC line dot CD 0 down 25 num_delete 0.57380604744
+lurko SNARC line dot CD 0 up 45 lctrl 0.587083101273
+lurko SNARC line dot CD 0 up 10 lctrl 0.488731145859
+lurko SNARC line dot CD 0 up 10 lctrl 0.529994010925
+lurko SNARC line dot CD 0 up 5 lctrl 0.792880058289
+lurko SNARC line dot CD 0 down 10 num_delete 0.52942609787
+lurko SNARC line dot CD 0 down 15 num_delete 0.60360121727
+lurko SNARC line dot CD 0 up 30 lctrl 0.783777952194
+lurko SNARC line dot CD 0 up 45 lctrl 0.491269111633
+lurko SNARC line dot CD 0 down 35 num_delete 0.673685073853
+lurko SNARC line dot CD 0 up 10 lctrl 0.505723953247
+lurko SNARC line dot CD 0 up 40 lctrl 0.593919992447
+lurko SNARC line dot CD 0 down 20 num_delete 0.596523046494
+lurko SNARC line dot CD 0 up 20 lctrl 0.629415988922
+lurko SNARC line dot CD 0 up 45 lctrl 0.603838920593
+lurko SNARC line dot CD 0 up 15 lctrl 0.793975114822
+lurko SNARC line dot CD 0 down 5 num_delete 0.736364126205
+lurko SNARC line dot CD 0 down 20 num_delete 0.460276126862
+lurko SNARC line dot CD 0 down 35 num_delete 0.489591121674
+lurko SNARC line dot CD 0 down 10 num_delete 0.456543922424
+lurko SNARC line dot CD 0 down 10 num_delete 0.489984035492
+lurko SNARC line dot CD 0 up 10 lctrl 0.634543895721
+lurko SNARC line dot CD 0 down 45 num_delete 0.475777864456
+lurko SNARC line dot CD 0 up 40 lctrl 0.523373842239
+lurko SNARC line dot CD 0 down 45 num_delete 0.563335895538
+lurko SNARC line dot CD 0 up 40 lctrl 0.569561004639
+lurko SNARC line dot CD 0 down 35 num_delete 0.496303081512
+lurko SNARC line dot CD 0 up 35 lctrl 0.58486199379
+lurko SNARC line dot CD 0 up 25 lctrl 0.661453962326
+lurko SNARC line dot CD 0 down 5 num_delete 0.470694065094
+lurko SNARC line dot CD 0 down 45 num_delete 0.61958694458
+lurko SNARC line dot CD 0 up 40 lctrl 0.921986818314
+lurko SNARC line dot CD 0 up 45 lctrl 0.425947904587
+lurko SNARC line dot CD 0 down 30 num_delete 0.44708609581
+lurko SNARC line dot CD 0 down 35 num_delete 0.480538845062
+lurko SNARC line dot CD 0 up 15 lctrl 0.587609052658
+lurko SNARC line dot CD 0 up 25 lctrl 0.678287982941
+lurko SNARC line dot CD 0 up 15 lctrl 0.579030990601
+lurko SNARC line dot CD 0 up 45 lctrl 0.922933101654
+lurko SNARC line dot CD 0 down 25 num_delete 0.541037797928
+lurko SNARC line dot CD 0 down 25 num_delete 0.532984972
+lurko SNARC line dot CD 0 down 45 num_delete 0.643486022949
+lurko SNARC line dot CD 0 up 30 lctrl 0.7194480896
+lurko SNARC line dot CD 0 up 30 lctrl 0.518858909607
+lurko SNARC line dot CD 0 down 25 num_delete 0.485351085663
+lurko SNARC line dot CD 0 down 35 num_delete 0.52827501297
+lurko SNARC line dot CD 0 up 25 lctrl 0.525963068008
+lurko SNARC line dot CD 0 down 40 num_delete 0.521175861359
+lurko SNARC line dot CD 0 up 20 lctrl 0.557768821716
+lurko SNARC line dot CD 0 down 30 num_delete 0.42295384407
+lurko SNARC line dot CD 0 up 5 lctrl 0.679824113846
+lurko SNARC line dot CD 0 up 35 lctrl 0.648832798004
+lurko SNARC line dot CD 0 down 5 num_delete 0.631880998611
+lurko SNARC line dot CD 0 down 30 num_delete 0.607589006424
+lurko SNARC line dot CD 0 down 20 num_delete 0.548254966736
+lurko SNARC line dot CD 0 up 15 lctrl 0.731373071671
+lurko SNARC line dot CD 0 down 10 num_delete 0.52977514267
+lurko SNARC line dot CD 0 down 25 num_delete 0.541198015213
+lurko SNARC line dot CD 0 down 15 num_delete 0.467622041702
+lurko SNARC line dot CD 0 up 15 lctrl 0.68418598175
+lurko SNARC line dot CD 0 down 25 num_delete 0.670134067535
+lurko SNARC line dot CD 0 down 10 num_delete 0.521806001663
+lurko SNARC line dot CD 0 down 45 num_delete 0.420147895813
+lurko SNARC line dot CD 0 down 30 num_delete 0.494982004166
+lurko SNARC line dot CD 0 down 5 num_delete 0.480687856674
+lurko SNARC line dot CD 0 down 20 num_delete 0.852899074554
+lurko SNARC line dot CD 0 up 25 lctrl 0.606940984726
+lurko SNARC line dot CD 0 up 40 lctrl 0.552886009216
+lurko SNARC line dot CD 0 up 25 lctrl 0.541905879974
+lurko SNARC line dot CD 0 down 45 num_delete 0.426549196243
+lurko SNARC line dot CD 0 up 20 lctrl 1.0611948967
+lurko SNARC line dot CD 0 down 25 num_delete 0.534029006958
+lurko SNARC line dot CD 0 down 15 lctrl 3.2192709446
+lurko SNARC line dot CD 0 up 45 lctrl 1.67649292946
+lurko SNARC line dot CD 0 up 10 lctrl 0.553890943527
+lurko SNARC line dot CD 0 up 35 lctrl 0.49560379982
+lurko SNARC line dot CD 0 up 20 lctrl 0.436662912369
+lurko SNARC line dot CD 0 down 20 num_delete 0.419444799423
+lurko SNARC line dot CD 0 up 20 lctrl 0.589339971542
+lurko SNARC line dot CD 0 down 30 num_delete 0.382462978363
+lurko SNARC line dot CD 0 down 20 num_delete 0.692357063293
+lurko SNARC line dot CD 0 up 40 lctrl 0.450549840927
+lurko SNARC line dot CD 0 down 25 num_delete 0.542505979538
+lurko SNARC line dot CD 0 up 25 lctrl 0.582218170166
+lurko SNARC line dot CD 0 up 40 lctrl 0.563001155853
+lurko SNARC line dot CD 0 down 45 num_delete 0.57130408287
+lurko SNARC line dot CD 0 down 25 num_delete 0.493268966675
+lurko SNARC line dot CD 0 down 40 num_delete 0.457364082336
+lurko SNARC line dot CD 0 up 20 lctrl 17.3169491291
+lurko SNARC line dot CD 0 up 25 lctrl 0.544893980026
+lurko SNARC line dot CD 0 up 25 lctrl 0.42986702919
+lurko SNARC line dot CD 0 down 45 num_delete 0.466568946838
+lurko SNARC line dot CD 0 down 20 num_delete 0.628081083298
+lurko SNARC line dot CD 0 down 15 num_delete 0.403517961502
+lurko SNARC line dot CD 0 down 5 num_delete 0.471994876862
+lurko SNARC line dot CD 0 down 40 num_delete 0.449490070343
+lurko SNARC line dot CD 0 up 15 lctrl 0.555736064911
+lurko SNARC line dot CD 0 down 30 num_delete 0.678205013275
+lurko SNARC line dot CD 0 down 40 num_delete 0.473410129547
+lurko SNARC line dot CD 0 up 40 lctrl 0.602416038513
+lurko SNARC line dot CD 0 up 15 lctrl 0.595947980881
+lurko SNARC line dot CD 0 up 20 lctrl 0.563244819641
+lurko SNARC line dot CD 0 down 20 num_delete 0.53156709671
+lurko SNARC line dot CD 0 down 15 num_delete 0.507701873779
+lurko SNARC line dot CD 0 up 30 lctrl 0.703829050064
+lurko SNARC line dot CD 0 down 35 num_delete 0.480773925781
+lurko SNARC line dot CD 0 down 10 num_delete 0.489912033081
+lurko SNARC line dot CD 0 down 25 num_delete 0.581548929214
+lurko SNARC line dot CD 0 down 40 num_delete 0.514214038849
+lurko SNARC line dot CD 0 up 15 num_delete 0.523581027985
+lurko SNARC line dot CD 0 down 45 num_delete 0.955639123917
+lurko SNARC line dot CD 0 down 35 num_delete 0.680279970169
+lurko SNARC line dot CD 0 down 25 num_delete 0.518054962158
+lurko SNARC line dot CD 0 up 35 lctrl 0.552765846252
+lurko SNARC line dot CD 0 down 15 num_delete 0.482740879059
+lurko SNARC line dot CD 0 up 20 lctrl 0.453857183456
+lurko SNARC line dot CD 0 up 5 lctrl 0.55158495903
+lurko SNARC line dot CD 0 down 40 num_delete 0.481026887894
+lurko SNARC line dot CD 0 up 15 lctrl 0.635658979416
+lurko SNARC line dot CD 0 down 5 num_delete 0.504021167755
+lurko SNARC line dot CD 0 down 45 num_delete 0.460709095001
+lurko SNARC line dot CD 0 up 25 lctrl 0.542299032211
+lurko SNARC line dot CD 0 up 45 lctrl 0.556811094284
+lurko SNARC line dot CD 0 up 30 lctrl 0.535764932632
+lurko SNARC line dot CD 0 down 35 num_delete 0.912193059921
+lurko SNARC line dot CD 0 up 5 lctrl 0.720611810684
+lurko SNARC line dot CD 0 down 25 num_delete 0.66977596283
+lurko SNARC line dot CD 0 up 15 lctrl 0.580219984055
+lurko SNARC line dot CD 0 down 15 num_delete 0.543421983719
+lurko SNARC line dot CD 0 up 5 lctrl 0.601326942444
+lurko SNARC line dot CD 0 down 30 num_delete 0.520018100739
+lurko SNARC line dot CD 0 up 40 lctrl 5.38536787033
+lurko SNARC line dot CD 0 down 30 num_delete 0.463382959366
+lurko SNARC line dot CD 0 down 5 num_delete 0.536381006241
+lurko SNARC line dot CD 0 up 15 lctrl 0.596037864685
+lurko SNARC line dot CD 0 up 30 lctrl 0.597302913666
+lurko SNARC line dot CD 0 down 30 num_delete 0.51179599762
+lurko SNARC line dot CD 0 down 35 num_delete 0.44873714447
+lurko SNARC line dot CD 0 down 10 num_delete 0.553575992584
+lurko SNARC line dot CD 0 down 30 num_delete 0.613888025284
+lurko SNARC line dot CD 0 down 5 num_delete 0.568237066269
+lurko SNARC line dot CD 0 up 10 lctrl 0.753473997116
+lurko SNARC line dot CD 0 down 15 num_delete 0.730700969696
+lurko SNARC line dot CD 0 down 20 num_delete 0.733272075653
+lurko SNARC line dot CD 0 down 25 num_delete 0.533300161362
+lurko SNARC line dot CD 0 down 25 num_delete 0.525618076324
+lurko SNARC line dot CD 0 down 15 num_delete 0.53874707222
+lurko SNARC line dot CD 0 down 35 num_delete 0.576638936996
+lurko SNARC line dot CD 0 down 45 num_delete 0.555476903915
+lurko SNARC line dot CD 0 up 15 lctrl 0.787818193436
+lurko SNARC line dot CD 0 up 10 lctrl 0.425422906876
+lurko SNARC line dot CD 0 down 45 num_delete 0.691344976425
+lurko SNARC line dot CD 0 up 10 lctrl 0.497937202454
+lurko SNARC line dot CD 0 up 40 lctrl 0.465921163559
+lurko SNARC line dot CD 0 up 30 lctrl 0.535341024399
+lurko SNARC line dot CD 0 down 45 num_delete 0.642908811569
+lurko SNARC line dot CD 0 up 20 lctrl 1.29364705086
+lurko SNARC line dot CD 0 up 5 lctrl 0.57695889473
+lurko SNARC line dot CD 0 up 20 lctrl 0.636893033981
+{'delay': u'0', 'dateStr': u'05_18_1007', 'task': u'line', 'participant': u'lurko', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+lurko SNARC line arabic CD 0 down 6 lctrl 1.51734209061
+lurko SNARC line arabic CD 0 up 9 lctrl 1.92837905884
+lurko SNARC line arabic CD 0 down 9 num_delete 0.536323070526
+lurko SNARC line arabic CD 0 down 7 num_delete 1.28772783279
+lurko SNARC line arabic CD 0 up 1 lctrl 0.890319108963
+lurko SNARC line arabic CD 0 down 1 num_delete 0.729221105576
+lurko SNARC line arabic CD 0 up 5 lctrl 0.807896852493
+lurko SNARC line arabic CD 0 up 4 lctrl 0.647135019302
+lurko SNARC line arabic CD 0 down 8 num_delete 0.574903964996
+lurko SNARC line arabic CD 0 up 3 lctrl 0.535835981369
+lurko SNARC line arabic CD 0 up 6 lctrl 0.545032978058
+lurko SNARC line arabic CD 0 down 4 num_delete 0.441078901291
+lurko SNARC line arabic CD 0 down 2 num_delete 0.488168001175
+lurko SNARC line arabic CD 0 up 9 lctrl 0.602680921555
+lurko SNARC line arabic CD 0 down 8 num_delete 0.703516960144
+lurko SNARC line arabic CD 0 down 9 num_delete 0.425087928772
+lurko SNARC line arabic CD 0 up 7 lctrl 0.496355772018
+lurko SNARC line arabic CD 0 down 8 num_delete 0.504690170288
+lurko SNARC line arabic CD 0 down 7 num_delete 0.544127941132
+lurko SNARC line arabic CD 0 down 7 num_delete 0.43284201622
+lurko SNARC line arabic CD 0 down 3 num_delete 0.488397836685
+lurko SNARC line arabic CD 0 up 5 lctrl 0.705253124237
+lurko SNARC line arabic CD 0 down 3 num_delete 0.408335208893
+lurko SNARC line arabic CD 0 up 5 lctrl 0.897519826889
+lurko SNARC line arabic CD 0 down 6 num_delete 0.456903934479
+lurko SNARC line arabic CD 0 down 7 num_delete 0.49657201767
+lurko SNARC line arabic CD 0 down 9 num_delete 0.520508050919
+lurko SNARC line arabic CD 0 up 3 lctrl 0.7524061203
+lurko SNARC line arabic CD 0 down 9 num_delete 0.912732839584
+lurko SNARC line arabic CD 0 down 3 num_delete 0.68919801712
+lurko SNARC line arabic CD 0 up 2 lctrl 0.72167801857
+lurko SNARC line arabic CD 0 down 7 num_delete 0.912487983704
+lurko SNARC line arabic CD 0 up 9 lctrl 0.761132001877
+lurko SNARC line arabic CD 0 down 3 num_delete 0.488940000534
+lurko SNARC line arabic CD 0 down 1 num_delete 0.464385032654
+lurko SNARC line arabic CD 0 up 9 lctrl 0.569963932037
+lurko SNARC line arabic CD 0 up 3 lctrl 0.688319921494
+lurko SNARC line arabic CD 0 up 2 lctrl 0.720399141312
+lurko SNARC line arabic CD 0 up 9 lctrl 0.816764831543
+lurko SNARC line arabic CD 0 down 6 num_delete 0.448792934418
+lurko SNARC line arabic CD 0 down 8 num_delete 0.592746973038
+lurko SNARC line arabic CD 0 down 6 num_delete 0.568149089813
+lurko SNARC line arabic CD 0 down 5 num_delete 0.456971168518
+lurko SNARC line arabic CD 0 down 1 num_delete 0.504464149475
+lurko SNARC line arabic CD 0 down 7 num_delete 0.495976924896
+lurko SNARC line arabic CD 0 down 9 num_delete 0.417164087296
+lurko SNARC line arabic CD 0 up 1 lctrl 0.848695993423
+lurko SNARC line arabic CD 0 up 1 lctrl 0.472857952118
+lurko SNARC line arabic CD 0 up 1 lctrl 0.600617170334
+lurko SNARC line arabic CD 0 up 2 lctrl 0.913233041763
+lurko SNARC line arabic CD 0 down 5 num_delete 0.527897119522
+lurko SNARC line arabic CD 0 down 7 num_delete 0.457243919373
+lurko SNARC line arabic CD 0 down 3 num_delete 0.503192901611
+lurko SNARC line arabic CD 0 down 5 num_delete 0.560933113098
+lurko SNARC line arabic CD 0 down 3 num_delete 0.616006851196
+lurko SNARC line arabic CD 0 up 2 lctrl 0.593369960785
+lurko SNARC line arabic CD 0 down 4 num_delete 0.704174995422
+lurko SNARC line arabic CD 0 up 4 lctrl 0.569847106934
+lurko SNARC line arabic CD 0 up 6 lctrl 0.633541107178
+lurko SNARC line arabic CD 0 up 3 lctrl 0.480349063873
+lurko SNARC line arabic CD 0 down 3 num_delete 0.568549871445
+lurko SNARC line arabic CD 0 down 7 num_delete 0.552766799927
+lurko SNARC line arabic CD 0 down 1 num_delete 0.688467979431
+lurko SNARC line arabic CD 0 up 9 lctrl 0.601652860641
+lurko SNARC line arabic CD 0 down 1 num_delete 0.849127054214
+lurko SNARC line arabic CD 0 down 8 num_delete 1.26405692101
+lurko SNARC line arabic CD 0 down 2 num_delete 0.385495901108
+lurko SNARC line arabic CD 0 down 7 num_delete 0.519578933716
+lurko SNARC line arabic CD 0 up 6 lctrl 0.613025903702
+lurko SNARC line arabic CD 0 up 4 lctrl 0.624758958817
+lurko SNARC line arabic CD 0 up 6 lctrl 0.781430959702
+lurko SNARC line arabic CD 0 up 1 lctrl 0.497056007385
+lurko SNARC line arabic CD 0 down 7 num_delete 0.528522014618
+lurko SNARC line arabic CD 0 down 2 num_delete 0.473221063614
+lurko SNARC line arabic CD 0 down 6 num_delete 0.6012570858
+lurko SNARC line arabic CD 0 up 6 lctrl 0.672742128372
+lurko SNARC line arabic CD 0 up 9 lctrl 0.513165950775
+lurko SNARC line arabic CD 0 down 7 num_delete 0.488662004471
+lurko SNARC line arabic CD 0 up 9 lctrl 0.801404953003
+lurko SNARC line arabic CD 0 up 1 lctrl 0.575813055038
+lurko SNARC line arabic CD 0 up 7 num_delete 0.511972904205
+lurko SNARC line arabic CD 0 down 4 num_delete 1.07925081253
+lurko SNARC line arabic CD 0 down 8 num_delete 0.913064002991
+lurko SNARC line arabic CD 0 down 9 num_delete 0.560973882675
+lurko SNARC line arabic CD 0 up 2 lctrl 0.61814904213
+lurko SNARC line arabic CD 0 down 5 num_delete 0.463905096054
+lurko SNARC line arabic CD 0 up 4 num_delete 1.05749988556
+lurko SNARC line arabic CD 0 up 1 lctrl 0.656262159348
+lurko SNARC line arabic CD 0 down 7 num_delete 0.503116130829
+lurko SNARC line arabic CD 0 down 9 num_delete 0.454456090927
+lurko SNARC line arabic CD 0 up 8 lctrl 0.561363935471
+lurko SNARC line arabic CD 0 up 5 lctrl 0.712907791138
+lurko SNARC line arabic CD 0 up 5 lctrl 0.585078954697
+lurko SNARC line arabic CD 0 down 8 num_delete 0.769111156464
+lurko SNARC line arabic CD 0 down 7 num_delete 0.544860839844
+lurko SNARC line arabic CD 0 down 6 num_delete 0.344955921173
+lurko SNARC line arabic CD 0 down 4 num_delete 0.497009992599
+lurko SNARC line arabic CD 0 down 2 num_delete 0.464370012283
+lurko SNARC line arabic CD 0 down 6 num_delete 0.368729114532
+lurko SNARC line arabic CD 0 down 9 num_delete 0.416903972626
+lurko SNARC line arabic CD 0 up 5 lctrl 0.458003044128
+lurko SNARC line arabic CD 0 down 6 num_delete 0.448735952377
+lurko SNARC line arabic CD 0 down 2 num_delete 0.504649877548
+lurko SNARC line arabic CD 0 up 2 lctrl 0.79990696907
+lurko SNARC line arabic CD 0 up 9 lctrl 0.512467861176
+lurko SNARC line arabic CD 0 down 8 num_delete 0.505041122437
+lurko SNARC line arabic CD 0 down 5 num_delete 0.863905906677
+lurko SNARC line arabic CD 0 down 9 num_delete 0.4332010746
+lurko SNARC line arabic CD 0 down 5 num_delete 0.640450954437
+lurko SNARC line arabic CD 0 down 4 num_delete 0.944370031357
+lurko SNARC line arabic CD 0 up 5 lctrl 0.82578587532
+lurko SNARC line arabic CD 0 down 2 num_delete 0.479776859283
+lurko SNARC line arabic CD 0 up 4 lctrl 0.592680931091
+lurko SNARC line arabic CD 0 down 6 num_delete 0.496194124222
+lurko SNARC line arabic CD 0 down 8 num_delete 0.889320135117
+lurko SNARC line arabic CD 0 up 5 lctrl 0.855291128159
+lurko SNARC line arabic CD 0 down 1 num_delete 0.688330888748
+lurko SNARC line arabic CD 0 up 1 lctrl 0.832448959351
+lurko SNARC line arabic CD 0 up 2 lctrl 0.761961936951
+lurko SNARC line arabic CD 0 down 8 num_delete 0.568883180618
+lurko SNARC line arabic CD 0 down 8 num_delete 0.448724985123
+lurko SNARC line arabic CD 0 up 7 lctrl 0.58501291275
+lurko SNARC line arabic CD 0 up 6 lctrl 0.575510025024
+lurko SNARC line arabic CD 0 up 7 lctrl 0.689203977585
+lurko SNARC line arabic CD 0 down 6 num_delete 0.471924781799
+lurko SNARC line arabic CD 0 down 7 num_delete 0.583523988724
+lurko SNARC line arabic CD 0 up 9 lctrl 0.992422103882
+lurko SNARC line arabic CD 0 up 8 lctrl 0.530131816864
+lurko SNARC line arabic CD 0 up 7 lctrl 0.553559064865
+lurko SNARC line arabic CD 0 down 7 num_delete 0.760318040848
+lurko SNARC line arabic CD 0 up 8 lctrl 0.616756916046
+lurko SNARC line arabic CD 0 down 6 num_delete 0.464395046234
+lurko SNARC line arabic CD 0 up 3 lctrl 0.696192979813
+lurko SNARC line arabic CD 0 up 1 lctrl 0.760392904282
+lurko SNARC line arabic CD 0 up 8 lctrl 0.64878487587
+lurko SNARC line arabic CD 0 up 6 lctrl 0.625076055527
+lurko SNARC line arabic CD 0 down 8 num_delete 0.576225996017
+lurko SNARC line arabic CD 0 up 7 lctrl 0.825386047363
+lurko SNARC line arabic CD 0 down 1 num_delete 0.519984006882
+lurko SNARC line arabic CD 0 up 6 lctrl 0.585847854614
+lurko SNARC line arabic CD 0 down 4 num_delete 0.719871044159
+lurko SNARC line arabic CD 0 down 9 num_delete 0.528730869293
+lurko SNARC line arabic CD 0 down 9 num_delete 0.527953863144
+lurko SNARC line arabic CD 0 down 5 num_delete 0.561501979828
+lurko SNARC line arabic CD 0 up 6 lctrl 0.689284801483
+lurko SNARC line arabic CD 0 down 5 num_delete 0.527980089188
+lurko SNARC line arabic CD 0 down 4 num_delete 0.625656843185
+lurko SNARC line arabic CD 0 up 5 lctrl 1.00200819969
+lurko SNARC line arabic CD 0 up 1 lctrl 2.04865908623
+lurko SNARC line arabic CD 0 up 2 lctrl 0.585306882858
+lurko SNARC line arabic CD 0 up 9 lctrl 0.584572076797
+lurko SNARC line arabic CD 0 up 4 lctrl 0.671432971954
+lurko SNARC line arabic CD 0 down 9 num_delete 0.417003154755
+lurko SNARC line arabic CD 0 down 5 num_delete 0.608781099319
+lurko SNARC line arabic CD 0 down 3 num_delete 0.49645113945
+lurko SNARC line arabic CD 0 down 3 num_delete 0.512440919876
+lurko SNARC line arabic CD 0 up 4 lctrl 0.993021011353
+lurko SNARC line arabic CD 0 down 9 num_delete 0.599444150925
+lurko SNARC line arabic CD 0 up 8 lctrl 2.30559396744
+lurko SNARC line arabic CD 0 up 2 lctrl 0.577409982681
+lurko SNARC line arabic CD 0 down 4 num_delete 0.511403083801
+lurko SNARC line arabic CD 0 down 1 num_delete 0.560976982117
+lurko SNARC line arabic CD 0 up 2 lctrl 1.23314499855
+lurko SNARC line arabic CD 0 down 1 num_delete 0.664032936096
+lurko SNARC line arabic CD 0 up 8 lctrl 0.9773042202
+lurko SNARC line arabic CD 0 up 8 lctrl 1.82341694832
+lurko SNARC line arabic CD 0 down 6 num_delete 0.655721902847
+lurko SNARC line arabic CD 0 down 6 num_delete 0.577243089676
+lurko SNARC line arabic CD 0 up 5 num_delete 0.592898845673
+lurko SNARC line arabic CD 0 down 1 num_delete 0.751647949219
+lurko SNARC line arabic CD 0 up 8 lctrl 0.560854911804
+lurko SNARC line arabic CD 0 down 1 num_delete 0.447556018829
+lurko SNARC line arabic CD 0 up 4 lctrl 0.450450897217
+lurko SNARC line arabic CD 0 down 7 num_delete 0.576128959656
+lurko SNARC line arabic CD 0 up 6 lctrl 0.617457151413
+lurko SNARC line arabic CD 0 up 2 lctrl 0.598495006561
+lurko SNARC line arabic CD 0 up 2 lctrl 0.528862953186
+lurko SNARC line arabic CD 0 down 3 num_delete 0.800155878067
+lurko SNARC line arabic CD 0 down 7 num_delete 0.51757311821
+lurko SNARC line arabic CD 0 up 4 lctrl 0.649245977402
+lurko SNARC line arabic CD 0 up 9 lctrl 1.01746106148
+lurko SNARC line arabic CD 0 up 8 lctrl 0.57759308815
+lurko SNARC line arabic CD 0 up 5 num_delete 0.872265100479
+lurko SNARC line arabic CD 0 up 4 lctrl 0.880348920822
+lurko SNARC line arabic CD 0 up 3 lctrl 0.752655029297
+lurko SNARC line arabic CD 0 up 7 lctrl 0.520295143127
+lurko SNARC line arabic CD 0 up 5 lctrl 0.552448034286
+lurko SNARC line arabic CD 0 down 7 num_delete 0.623539924622
+lurko SNARC line arabic CD 0 down 1 num_delete 0.71222281456
+lurko SNARC line arabic CD 0 up 6 lctrl 0.769093036652
+lurko SNARC line arabic CD 0 up 4 lctrl 0.638954877853
+lurko SNARC line arabic CD 0 down 2 num_delete 0.479867935181
+lurko SNARC line arabic CD 0 up 2 lctrl 0.970654964447
+lurko SNARC line arabic CD 0 down 3 num_delete 1.23200416565
+lurko SNARC line arabic CD 0 down 4 num_delete 0.609231948853
+lurko SNARC line arabic CD 0 up 2 lctrl 0.89714217186
+lurko SNARC line arabic CD 0 up 4 lctrl 1.04794311523
+lurko SNARC line arabic CD 0 up 4 lctrl 0.529021978378
+lurko SNARC line arabic CD 0 down 6 num_delete 1.41599917412
+lurko SNARC line arabic CD 0 up 3 lctrl 1.17760014534
+lurko SNARC line arabic CD 0 down 1 num_delete 0.488821029663
+lurko SNARC line arabic CD 0 up 3 lctrl 0.791965961456
+lurko SNARC line arabic CD 0 up 7 lctrl 0.808713912964
+lurko SNARC line arabic CD 0 up 3 num_delete 0.881124973297
+lurko SNARC line arabic CD 0 down 2 num_delete 1.88811707497
+lurko SNARC line arabic CD 0 down 2 num_delete 0.783348083496
+lurko SNARC line arabic CD 0 down 1 num_delete 0.528923988342
+lurko SNARC line arabic CD 0 down 8 num_delete 0.512750148773
+lurko SNARC line arabic CD 0 down 7 num_delete 0.880909919739
+lurko SNARC line arabic CD 0 down 7 num_delete 0.505549907684
+lurko SNARC line arabic CD 0 down 9 num_delete 0.688406944275
+lurko SNARC line arabic CD 0 down 5 num_delete 0.625277042389
+lurko SNARC line arabic CD 0 up 9 lctrl 1.30551695824
+lurko SNARC line arabic CD 0 down 5 num_delete 0.753008127213
+lurko SNARC line arabic CD 0 up 6 lctrl 0.671933889389
+lurko SNARC line arabic CD 0 down 8 num_delete 0.896021127701
+lurko SNARC line arabic CD 0 down 7 num_delete 0.657160043716
+lurko SNARC line arabic CD 0 down 5 num_delete 0.537634849548
+lurko SNARC line arabic CD 0 up 9 lctrl 1.37698197365
+lurko SNARC line arabic CD 0 down 3 num_delete 1.3922829628
+lurko SNARC line arabic CD 0 down 9 num_delete 0.569540023804
+lurko SNARC line arabic CD 0 down 3 num_delete 0.688395023346
+lurko SNARC line arabic CD 0 down 5 num_delete 0.880321979523
+lurko SNARC line arabic CD 0 up 4 lctrl 0.752492189407
+lurko SNARC line arabic CD 0 down 4 lctrl 1.01698994637
+lurko SNARC line arabic CD 0 up 7 lctrl 0.624084949493
+lurko SNARC line arabic CD 0 down 8 num_delete 0.743556022644
+lurko SNARC line arabic CD 0 up 7 lctrl 0.698441982269
+lurko SNARC line arabic CD 0 down 1 num_delete 0.704908847809
+lurko SNARC line arabic CD 0 down 8 num_delete 1.60069894791
+lurko SNARC line arabic CD 0 up 6 lctrl 0.553250074387
+lurko SNARC line arabic CD 0 down 5 num_delete 0.71214389801
+lurko SNARC line arabic CD 0 up 9 lctrl 1.56064891815
+lurko SNARC line arabic CD 0 up 6 lctrl 0.880921125412
+lurko SNARC line arabic CD 0 down 9 num_delete 0.464824199677
+lurko SNARC line arabic CD 0 down 3 num_delete 0.417160987854
+lurko SNARC line arabic CD 0 up 8 lctrl 1.29733395576
+lurko SNARC line arabic CD 0 down 3 num_delete 0.752009868622
+lurko SNARC line arabic CD 0 down 2 num_delete 0.880568981171
+lurko SNARC line arabic CD 0 down 8 num_delete 0.480725049973
+lurko SNARC line arabic CD 0 down 5 num_delete 0.905004024506
+lurko SNARC line arabic CD 0 down 7 num_delete 0.664220809937
+lurko SNARC line arabic CD 0 up 9 lctrl 0.800889968872
+lurko SNARC line arabic CD 0 up 9 lctrl 0.832309007645
+lurko SNARC line arabic CD 0 up 2 lctrl 0.560759067535
+lurko SNARC line arabic CD 0 down 8 num_delete 0.641180992126
+lurko SNARC line arabic CD 0 up 3 lctrl 0.913015842438
+lurko SNARC line arabic CD 0 up 5 lctrl 0.584580898285
+lurko SNARC line arabic CD 0 up 9 lctrl 0.585142850876
+lurko SNARC line arabic CD 0 up 4 lctrl 0.713150978088
+lurko SNARC line arabic CD 0 down 7 num_delete 0.904191970825
+lurko SNARC line arabic CD 0 down 1 num_delete 0.537563800812
+lurko SNARC line arabic CD 0 down 1 num_delete 0.552042961121
+lurko SNARC line arabic CD 0 down 3 num_delete 1.43307805061
+lurko SNARC line arabic CD 0 down 6 num_delete 0.920979976654
+lurko SNARC line arabic CD 0 down 4 num_delete 0.600761890411
+lurko SNARC line arabic CD 0 up 5 lctrl 0.785001993179
+lurko SNARC line arabic CD 0 up 1 lctrl 0.632741928101
+lurko SNARC line arabic CD 0 up 8 lctrl 0.688736200333
+lurko SNARC line arabic CD 0 down 6 num_delete 0.854994058609
+lurko SNARC line arabic CD 0 up 5 lctrl 2.21002483368
+lurko SNARC line arabic CD 0 up 8 lctrl 0.536878108978
+lurko SNARC line arabic CD 0 up 7 lctrl 0.519863128662
+lurko SNARC line arabic CD 0 up 3 lctrl 0.70494890213
+lurko SNARC line arabic CD 0 up 3 lctrl 0.521420955658
+lurko SNARC line arabic CD 0 down 2 num_delete 0.568863153458
+lurko SNARC line arabic CD 0 down 3 num_delete 0.448788881302
+lurko SNARC line arabic CD 0 down 4 num_delete 1.38404107094
+lurko SNARC line arabic CD 0 up 6 lctrl 0.729151010513
+lurko SNARC line arabic CD 0 down 9 num_delete 0.495939016342
+lurko SNARC line arabic CD 0 up 5 lctrl 0.920454978943
+lurko SNARC line arabic CD 0 down 2 num_delete 0.576785087585
+lurko SNARC line arabic CD 0 down 3 lctrl 1.86398482323
+lurko SNARC line arabic CD 0 up 3 lctrl 0.5135409832
+lurko SNARC line arabic CD 0 down 7 num_delete 2.66442298889
+lurko SNARC line arabic CD 0 up 4 lctrl 0.52934885025
+lurko SNARC line arabic CD 0 down 1 num_delete 0.679476976395
+lurko SNARC line arabic CD 0 down 6 num_delete 0.552042007446
+lurko SNARC line arabic CD 0 down 3 num_delete 0.456758975983
+lurko SNARC line arabic CD 0 down 4 num_delete 0.479526042938
+lurko SNARC line arabic CD 0 up 7 lctrl 0.794268846512
+lurko SNARC line arabic CD 0 up 4 lctrl 0.648142814636
+lurko SNARC line arabic CD 0 down 1 num_delete 0.568876981735
+lurko SNARC line arabic CD 0 up 8 lctrl 1.35376596451
+lurko SNARC line arabic CD 0 up 1 lctrl 0.512269973755
+lurko SNARC line arabic CD 0 up 2 lctrl 0.705258846283
+lurko SNARC line arabic CD 0 up 8 lctrl 0.710234880447
+lurko SNARC line arabic CD 0 down 3 num_delete 1.12070989609
+lurko SNARC line arabic CD 0 down 2 num_delete 0.433204889297
+lurko SNARC line arabic CD 0 up 5 lctrl 1.26526618004
+lurko SNARC line arabic CD 0 down 5 num_delete 0.769333124161
+lurko SNARC line arabic CD 0 down 9 num_delete 0.511302947998
+lurko SNARC line arabic CD 0 down 6 num_delete 1.43314099312
+lurko SNARC line arabic CD 0 down 2 num_delete 0.513170957565
+lurko SNARC line arabic CD 0 down 3 num_delete 0.616673946381
+lurko SNARC line arabic CD 0 down 6 num_delete 0.600708961487
+lurko SNARC line arabic CD 0 down 4 num_delete 1.45679306984
+lurko SNARC line arabic CD 0 down 4 num_delete 0.536161899567
+lurko SNARC line arabic CD 0 down 3 num_delete 0.984292030334
+lurko SNARC line arabic CD 0 down 4 num_delete 0.528525114059
+lurko SNARC line arabic CD 0 up 2 lctrl 0.960057973862
+lurko SNARC line arabic CD 0 down 3 num_delete 0.680855035782
+lurko SNARC line arabic CD 0 up 8 lctrl 1.16140007973
+lurko SNARC line arabic CD 0 down 5 num_delete 0.729306936264
+lurko SNARC line arabic CD 0 up 4 lctrl 12.385613203
+lurko SNARC line arabic CD 0 down 8 num_delete 0.471502065659
+lurko SNARC line arabic CD 0 down 1 num_delete 0.600828886032
+lurko SNARC line arabic CD 0 down 5 num_delete 0.432368040085
+lurko SNARC line arabic CD 0 up 2 lctrl 0.546329021454
+lurko SNARC line arabic CD 0 up 4 lctrl 0.497143983841
+lurko SNARC line arabic CD 0 down 5 num_delete 0.607882022858
+lurko SNARC line arabic CD 0 up 1 lctrl 0.529487133026
+lurko SNARC line arabic CD 0 down 6 num_delete 0.489403009415
+lurko SNARC line arabic CD 0 down 6 num_delete 0.61509513855
+lurko SNARC line arabic CD 0 up 5 lctrl 0.617025136948
+lurko SNARC line arabic CD 0 up 1 lctrl 1.07302117348
+lurko SNARC line arabic CD 0 down 7 num_delete 0.793656110764
+lurko SNARC line arabic CD 0 down 8 num_delete 0.552900791168
+lurko SNARC line arabic CD 0 down 2 num_delete 0.926129817963
+lurko SNARC line arabic CD 0 up 1 lctrl 1.26617908478
+lurko SNARC line arabic CD 0 up 7 lctrl 0.648129940033
+lurko SNARC line arabic CD 0 up 2 lctrl 2.20392918587
+lurko SNARC line arabic CD 0 up 6 lctrl 0.528356075287
+lurko SNARC line arabic CD 0 up 9 lctrl 0.488379001617
+lurko SNARC line arabic CD 0 up 2 lctrl 0.480177879333
+lurko SNARC line arabic CD 0 down 6 num_delete 0.606873989105
+lurko SNARC line arabic CD 0 down 2 num_delete 0.961855888367
+lurko SNARC line arabic CD 0 up 8 lctrl 1.03236198425
+lurko SNARC line arabic CD 0 up 4 lctrl 2.26443195343
+lurko SNARC line arabic CD 0 down 9 num_delete 0.642760038376
+lurko SNARC line arabic CD 0 down 9 num_delete 0.457250118256
+lurko SNARC line arabic CD 0 up 5 lctrl 0.482814073563
+lurko SNARC line arabic CD 0 up 1 lctrl 0.824541091919
+lurko SNARC line arabic CD 0 down 8 num_delete 0.600518226624
+lurko SNARC line arabic CD 0 down 1 num_delete 0.471912145615
+lurko SNARC line arabic CD 0 down 3 num_delete 0.384425163269
+lurko SNARC line arabic CD 0 up 4 lctrl 0.521478891373
+lurko SNARC line arabic CD 0 up 4 lctrl 0.496439933777
+lurko SNARC line arabic CD 0 down 8 num_delete 1.05643796921
+lurko SNARC line arabic CD 0 up 3 num_delete 0.504909992218
+lurko SNARC line arabic CD 0 down 6 num_delete 0.560500860214
+lurko SNARC line arabic CD 0 up 2 lctrl 0.377381086349
+lurko SNARC line arabic CD 0 up 7 lctrl 0.568268060684
+lurko SNARC line arabic CD 0 down 4 num_delete 0.560554981232
+lurko SNARC line arabic CD 0 down 3 num_delete 0.592420101166
+lurko SNARC line arabic CD 0 up 2 lctrl 1.3843100071
+lurko SNARC line arabic CD 0 up 5 lctrl 0.704937934875
+lurko SNARC line arabic CD 0 down 6 lctrl 0.824850797653
+lurko SNARC line arabic CD 0 down 8 num_delete 0.631303071976
+lurko SNARC line arabic CD 0 down 8 num_delete 0.496013879776
+lurko SNARC line arabic CD 0 down 2 num_delete 0.655664920807
+lurko SNARC line arabic CD 0 down 1 num_delete 0.81685090065
+lurko SNARC line arabic CD 0 down 5 num_delete 0.535192966461
+lurko SNARC line arabic CD 0 up 4 lctrl 0.953462839127
+lurko SNARC line arabic CD 0 down 3 num_delete 0.760600805283
+lurko SNARC line arabic CD 0 up 1 lctrl 1.19995808601
+lurko SNARC line arabic CD 0 up 1 lctrl 0.40124797821
+lurko SNARC line arabic CD 0 down 7 num_delete 0.504808187485
+lurko SNARC line arabic CD 0 down 2 num_delete 0.519777059555
+lurko SNARC line arabic CD 0 up 9 lctrl 0.961395025253
+{'participant': u'lurko', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1018', 'autopilot': False, 'exp_id': u'SNARC'}
+lurko SNARC_only DC 6 num_delete 1.21709680557
+lurko SNARC_only DC 4 num_delete 0.640261888504
+lurko SNARC_only DC 3 lctrl 0.545670986176
+lurko SNARC_only DC 7 lctrl 0.753200054169
+lurko SNARC_only DC 1 num_delete 0.50404214859
+lurko SNARC_only DC 8 num_delete 0.698925971985
+lurko SNARC_only DC 3 lctrl 1.14607191086
+lurko SNARC_only DC 9 lctrl 0.600006103516
+lurko SNARC_only DC 2 num_delete 0.720812082291
+lurko SNARC_only DC 3 lctrl 0.586356878281
+lurko SNARC_only DC 8 num_delete 0.881741046906
+lurko SNARC_only DC 3 lctrl 0.907185792923
+lurko SNARC_only DC 2 num_delete 0.664397954941
+lurko SNARC_only DC 8 num_delete 0.449676990509
+lurko SNARC_only DC 3 lctrl 0.52209186554
+lurko SNARC_only DC 8 num_delete 0.553900003433
+lurko SNARC_only DC 5 lctrl 0.681800842285
+lurko SNARC_only DC 9 lctrl 0.730031967163
+lurko SNARC_only DC 8 num_delete 1.04180502892
+lurko SNARC_only DC 9 lctrl 0.761893033981
+lurko SNARC_only DC 8 num_delete 0.745833158493
+lurko SNARC_only DC 7 lctrl 0.697973012924
+lurko SNARC_only DC 2 num_delete 0.529920101166
+lurko SNARC_only DC 4 num_delete 0.673744916916
+lurko SNARC_only DC 7 lctrl 0.513761997223
+lurko SNARC_only DC 2 num_delete 0.537066936493
+lurko SNARC_only DC 3 lctrl 0.714074134827
+lurko SNARC_only DC 2 num_delete 0.897362947464
+lurko SNARC_only DC 6 num_delete 0.553394079208
+lurko SNARC_only DC 5 lctrl 6.88257098198
+lurko SNARC_only DC 9 lctrl 0.578104019165
+lurko SNARC_only DC 4 num_delete 0.864550828934
+lurko SNARC_only DC 3 lctrl 0.633553028107
+lurko SNARC_only DC 7 lctrl 0.617640972137
+lurko SNARC_only DC 6 num_delete 0.553115844727
+lurko SNARC_only DC 6 num_delete 0.448772907257
+lurko SNARC_only DC 8 num_delete 0.417245149612
+lurko SNARC_only DC 4 num_delete 0.441848993301
+lurko SNARC_only DC 2 num_delete 0.457213163376
+lurko SNARC_only DC 3 lctrl 0.648746013641
+lurko SNARC_only DC 4 num_delete 0.569270849228
+lurko SNARC_only DC 4 num_delete 0.482110977173
+lurko SNARC_only DC 8 num_delete 1.50546979904
+lurko SNARC_only DC 1 lctrl 0.865751981735
+lurko SNARC_only DC 2 num_delete 0.777625083923
+lurko SNARC_only DC 6 num_delete 0.801420927048
+lurko SNARC_only DC 9 lctrl 0.554425001144
+lurko SNARC_only DC 5 lctrl 0.75349187851
+lurko SNARC_only DC 9 lctrl 0.513599872589
+lurko SNARC_only DC 9 lctrl 0.56201004982
+lurko SNARC_only DC 9 lctrl 0.545443058014
+lurko SNARC_only DC 6 num_delete 0.633490085602
+lurko SNARC_only DC 4 num_delete 0.489356994629
+lurko SNARC_only DC 7 lctrl 1.67407393456
+lurko SNARC_only DC 1 lctrl 5.44199705124
+lurko SNARC_only DC 7 lctrl 0.720691204071
+lurko SNARC_only DC 9 lctrl 0.753662109375
+lurko SNARC_only DC 9 lctrl 0.489003181458
+lurko SNARC_only DC 8 num_delete 0.632705926895
+lurko SNARC_only DC 3 lctrl 0.642315864563
+lurko SNARC_only DC 6 num_delete 0.641812086105
+lurko SNARC_only DC 8 num_delete 0.513054132462
+lurko SNARC_only DC 3 lctrl 0.64254784584
+lurko SNARC_only DC 9 lctrl 0.802039146423
+lurko SNARC_only DC 8 num_delete 0.56977391243
+lurko SNARC_only DC 5 lctrl 1.10625100136
+lurko SNARC_only DC 5 lctrl 0.624944925308
+lurko SNARC_only DC 7 lctrl 0.626149892807
+lurko SNARC_only DC 8 num_delete 0.624509096146
+lurko SNARC_only DC 3 lctrl 0.982237100601
+lurko SNARC_only DC 2 num_delete 0.656589031219
+lurko SNARC_only DC 4 num_delete 0.641331911087
+lurko SNARC_only DC 5 lctrl 0.673828125
+lurko SNARC_only DC 5 lctrl 0.522253036499
+lurko SNARC_only DC 6 num_delete 0.672327041626
+lurko SNARC_only DC 7 lctrl 0.926691055298
+lurko SNARC_only DC 1 lctrl 1.10561680794
+lurko SNARC_only DC 5 lctrl 0.721868991852
+lurko SNARC_only DC 7 lctrl 0.545696973801
+lurko SNARC_only DC 6 num_delete 0.623994112015
+lurko SNARC_only DC 8 num_delete 0.656374931335
+lurko SNARC_only DC 5 lctrl 0.634122133255
+lurko SNARC_only DC 7 lctrl 0.5146920681
+lurko SNARC_only DC 7 lctrl 0.52947306633
+lurko SNARC_only DC 6 num_delete 0.46501994133
+lurko SNARC_only DC 6 num_delete 0.496631860733
+lurko SNARC_only DC 3 lctrl 0.681953907013
+lurko SNARC_only DC 1 lctrl 0.673943042755
+lurko SNARC_only DC 5 lctrl 0.833239078522
+lurko SNARC_only DC 7 lctrl 0.537976026535
+lurko SNARC_only DC 7 lctrl 0.576606988907
+lurko SNARC_only DC 6 num_delete 0.449794054031
+lurko SNARC_only DC 4 num_delete 0.585081100464
+lurko SNARC_only DC 9 lctrl 0.641155958176
+lurko SNARC_only DC 2 num_delete 1.04961490631
+lurko SNARC_only DC 1 lctrl 0.650937080383
+lurko SNARC_only DC 5 lctrl 0.585168123245
+lurko SNARC_only DC 4 lctrl 0.561659812927
+lurko SNARC_only DC 8 num_delete 0.881241083145
+lurko SNARC_only DC 1 lctrl 0.761729001999
+lurko SNARC_only DC 2 num_delete 0.536731958389
+lurko SNARC_only DC 2 num_delete 0.473447084427
+lurko SNARC_only DC 7 lctrl 0.665373802185
+lurko SNARC_only DC 6 num_delete 0.577276229858
+lurko SNARC_only DC 4 num_delete 0.569766044617
+lurko SNARC_only DC 3 num_delete 2.46534705162
+lurko SNARC_only DC 6 num_delete 0.649178028107
+lurko SNARC_only DC 2 num_delete 0.62645483017
+lurko SNARC_only DC 9 lctrl 0.498126983643
+lurko SNARC_only DC 6 num_delete 0.545347929001
+lurko SNARC_only DC 7 lctrl 0.498414039612
+lurko SNARC_only DC 5 lctrl 0.593317985535
+lurko SNARC_only DC 3 lctrl 0.83403801918
+lurko SNARC_only DC 7 lctrl 0.968949079514
+lurko SNARC_only DC 8 num_delete 0.889143943787
+lurko SNARC_only DC 8 num_delete 0.50545501709
+lurko SNARC_only DC 7 lctrl 0.577572107315
+lurko SNARC_only DC 1 lctrl 0.681411027908
+lurko SNARC_only DC 7 lctrl 0.809776067734
+lurko SNARC_only DC 5 lctrl 0.626147985458
+lurko SNARC_only DC 5 lctrl 0.60059094429
+lurko SNARC_only DC 3 lctrl 0.696264982224
+lurko SNARC_only DC 4 num_delete 0.472499132156
+lurko SNARC_only DC 4 num_delete 0.537020921707
+lurko SNARC_only DC 4 num_delete 0.960863113403
+lurko SNARC_only DC 4 num_delete 0.498172998428
+lurko SNARC_only DC 4 num_delete 0.553959846497
+lurko SNARC_only DC 5 lctrl 0.866329908371
+lurko SNARC_only DC 3 lctrl 0.74579000473
+lurko SNARC_only DC 8 num_delete 0.808565139771
+lurko SNARC_only DC 1 lctrl 2.18484306335
+lurko SNARC_only DC 6 num_delete 0.657445907593
+lurko SNARC_only DC 7 lctrl 0.585386037827
+lurko SNARC_only DC 8 num_delete 0.625542879105
+lurko SNARC_only DC 5 lctrl 0.658017873764
+lurko SNARC_only DC 9 lctrl 1.03351593018
+lurko SNARC_only DC 3 lctrl 1.28092694283
+lurko SNARC_only DC 2 num_delete 0.505263090134
+lurko SNARC_only DC 7 lctrl 2.36927986145
+lurko SNARC_only DC 2 num_delete 0.513200998306
+lurko SNARC_only DC 9 lctrl 0.721602916718
+lurko SNARC_only DC 8 num_delete 0.528815984726
+lurko SNARC_only DC 5 lctrl 0.593841075897
+lurko SNARC_only DC 9 lctrl 0.850339889526
+lurko SNARC_only DC 5 lctrl 0.561476945877
+lurko SNARC_only DC 4 num_delete 1.42587995529
+lurko SNARC_only DC 2 num_delete 0.593733072281
+lurko SNARC_only DC 6 num_delete 0.673191070557
+lurko SNARC_only DC 5 lctrl 0.737592220306
+lurko SNARC_only DC 2 num_delete 2.55349802971
+lurko SNARC_only DC 9 lctrl 0.666494131088
+lurko SNARC_only DC 6 num_delete 1.6649479866
+lurko SNARC_only DC 5 lctrl 0.666610002518
+lurko SNARC_only DC 5 lctrl 0.537771940231
+lurko SNARC_only DC 1 num_delete 0.768877983093
+lurko SNARC_only DC 5 lctrl 0.641452074051
+lurko SNARC_only DC 6 num_delete 0.664850950241
+lurko SNARC_only DC 1 lctrl 0.658336162567
+lurko SNARC_only DC 6 num_delete 0.94558095932
+lurko SNARC_only DC 9 lctrl 0.626394987106
+lurko SNARC_only DC 8 num_delete 1.07403302193
+lurko SNARC_only DC 4 num_delete 0.745329141617
+lurko SNARC_only DC 3 lctrl 0.834276914597
+lurko SNARC_only DC 2 num_delete 0.993175983429
+lurko SNARC_only DC 5 lctrl 0.642327070236
+lurko SNARC_only DC 8 num_delete 1.18417406082
+lurko SNARC_only DC 2 lctrl 0.682415008545
+lurko SNARC_only DC 8 num_delete 0.54528594017
+lurko SNARC_only DC 3 lctrl 0.601488828659
+lurko SNARC_only DC 6 num_delete 0.553716897964
+lurko SNARC_only DC 6 num_delete 0.531018018723
+lurko SNARC_only DC 2 num_delete 0.649894952774
+lurko SNARC_only DC 6 num_delete 1.2418589592
+lurko SNARC_only DC 8 num_delete 0.457154035568
+lurko SNARC_only DC 3 lctrl 0.665925979614
+lurko SNARC_only DC 4 num_delete 0.665519952774
+lurko SNARC_only DC 1 lctrl 0.698310136795
+lurko SNARC_only DC 5 lctrl 0.682547807693
+lurko SNARC_only DC 6 num_delete 1.52158093452
+lurko SNARC_only DC 1 lctrl 2.02605891228
+lurko SNARC_only DC 6 num_delete 0.601155996323
+lurko SNARC_only DC 9 lctrl 1.04126501083
+lurko SNARC_only DC 7 lctrl 0.55378484726
+lurko SNARC_only DC 6 num_delete 0.686180114746
+lurko SNARC_only DC 5 lctrl 0.674247980118
+lurko SNARC_only DC 7 lctrl 0.489506959915
+lurko SNARC_only DC 5 lctrl 0.394125938416
+lurko SNARC_only DC 7 lctrl 0.409008979797
+lurko SNARC_only DC 5 lctrl 0.40975189209
+lurko SNARC_only DC 3 lctrl 0.457161188126
+lurko SNARC_only DC 4 num_delete 0.448581933975
+lurko SNARC_only DC 3 lctrl 0.490921020508
+lurko SNARC_only DC 3 lctrl 0.376283168793
+lurko SNARC_only DC 6 num_delete 0.497190952301
+lurko SNARC_only DC 3 num_delete 0.481785058975
+lurko SNARC_only DC 5 lctrl 0.602287054062
+lurko SNARC_only DC 2 num_delete 0.737870931625
+lurko SNARC_only DC 4 num_delete 0.401226997375
+lurko SNARC_only DC 1 lctrl 0.498364925385
+lurko SNARC_only DC 7 lctrl 0.650696992874
+lurko SNARC_only DC 2 num_delete 1.02354311943
+lurko SNARC_only DC 9 lctrl 0.681572914124
+lurko SNARC_only DC 1 lctrl 0.705960988998
+lurko SNARC_only DC 1 lctrl 0.569308042526
+lurko SNARC_only DC 7 lctrl 1.61017298698
+lurko SNARC_only DC 8 num_delete 1.68901610374
+lurko SNARC_only DC 9 lctrl 0.60934305191
+lurko SNARC_only DC 7 lctrl 0.649379014969
+lurko SNARC_only DC 9 lctrl 0.497874975204
+lurko SNARC_only DC 6 num_delete 0.641710996628
+lurko SNARC_only DC 3 lctrl 0.673337936401
+lurko SNARC_only DC 9 lctrl 0.569891929626
+lurko SNARC_only DC 3 lctrl 0.745906114578
+lurko SNARC_only DC 2 num_delete 0.689496994019
+lurko SNARC_only DC 2 num_delete 0.578052043915
+lurko SNARC_only DC 1 lctrl 1.18438506126
+lurko SNARC_only DC 2 num_delete 0.784765005112
+lurko SNARC_only DC 8 num_delete 1.24849796295
+lurko SNARC_only DC 4 num_delete 0.601649045944
+lurko SNARC_only DC 7 lctrl 0.617098093033
+lurko SNARC_only DC 9 lctrl 1.39985799789
+lurko SNARC_only DC 9 lctrl 1.92085695267
+lurko SNARC_only DC 7 lctrl 0.417202949524
+lurko SNARC_only DC 9 lctrl 0.402192115784
+lurko SNARC_only DC 9 lctrl 0.369996070862
+lurko SNARC_only DC 5 lctrl 0.521053791046
+lurko SNARC_only DC 8 lctrl 0.393243074417
+lurko SNARC_only DC 4 num_delete 0.623378992081
+lurko SNARC_only DC 2 num_delete 0.48887014389
+lurko SNARC_only DC 1 lctrl 0.578231811523
+lurko SNARC_only DC 9 lctrl 0.697449922562
+lurko SNARC_only DC 3 lctrl 1.21767783165
+lurko SNARC_only DC 6 num_delete 0.560820102692
+lurko SNARC_only DC 8 num_delete 0.466050863266
+lurko SNARC_only DC 7 lctrl 0.61817407608
+lurko SNARC_only DC 2 num_delete 0.554165124893
+lurko SNARC_only DC 9 lctrl 0.58579492569
+lurko SNARC_only DC 3 lctrl 0.592564105988
+lurko SNARC_only DC 1 lctrl 0.449213027954
+lurko SNARC_only DC 1 lctrl 0.513784885406
+lurko SNARC_only DC 3 lctrl 0.63407087326
+lurko SNARC_only DC 4 num_delete 3.86545991898
+lurko SNARC_only DC 3 lctrl 0.625904083252
+lurko SNARC_only DC 7 lctrl 0.448600053787
+lurko SNARC_only DC 6 num_delete 1.08889198303
+lurko SNARC_only DC 7 lctrl 0.722237110138
+lurko SNARC_only DC 5 lctrl 3.18478512764
+lurko SNARC_only DC 5 lctrl 0.425863027573
+lurko SNARC_only DC 4 num_delete 0.816613197327
+lurko SNARC_only DC 6 num_delete 0.657624006271
+lurko SNARC_only DC 1 lctrl 0.746253967285
+lurko SNARC_only DC 1 lctrl 0.473690986633
+lurko SNARC_only DC 4 num_delete 0.977566003799
+lurko SNARC_only DC 8 num_delete 0.562242984772
+lurko SNARC_only DC 8 num_delete 0.641993999481
+lurko SNARC_only DC 2 num_delete 1.17571496964
+lurko SNARC_only DC 1 lctrl 0.689774990082
+lurko SNARC_only DC 8 num_delete 1.07429003716
+lurko SNARC_only DC 2 num_delete 0.376974821091
+lurko SNARC_only DC 2 num_delete 0.409470081329
+lurko SNARC_only DC 6 num_delete 0.569068908691
+lurko SNARC_only DC 5 lctrl 0.569745063782
+lurko SNARC_only DC 9 lctrl 0.658047914505
+lurko SNARC_only DC 4 num_delete 0.737920999527
+lurko SNARC_only DC 7 lctrl 0.562060117722
+lurko SNARC_only DC 1 lctrl 0.657155990601
+lurko SNARC_only DC 4 num_delete 0.745032787323
+lurko SNARC_only DC 9 lctrl 2.79383802414
+lurko SNARC_only DC 6 num_delete 0.608881950378
+lurko SNARC_only DC 4 num_delete 0.561902046204
+lurko SNARC_only DC 9 lctrl 0.586956977844
+lurko SNARC_only DC 8 num_delete 0.673545837402
+lurko SNARC_only DC 7 lctrl 0.778427839279
+lurko SNARC_only DC 2 num_delete 0.808220148087
+lurko SNARC_only DC 4 num_delete 1.50507616997
+lurko SNARC_only DC 3 lctrl 1.5862390995
+lurko SNARC_only DC 1 lctrl 0.633805990219
+lurko SNARC_only DC 9 lctrl 0.705429077148
+lurko SNARC_only DC 7 lctrl 0.537845849991
+lurko SNARC_only DC 1 lctrl 0.865410089493
+lurko SNARC_only DC 8 num_delete 1.26519083977
+lurko SNARC_only DC 3 lctrl 0.457987070084
+lurko SNARC_only DC 8 num_delete 0.455976009369
+lurko SNARC_only DC 3 lctrl 0.602063894272
+lurko SNARC_only DC 7 lctrl 0.762127161026
+lurko SNARC_only DC 3 lctrl 0.609784841537
+lurko SNARC_only DC 6 num_delete 1.04148292542
+lurko SNARC_only DC 4 num_delete 0.473502874374
+lurko SNARC_only DC 3 num_delete 0.506878852844
+lurko SNARC_only DC 3 lctrl 0.616472005844
+lurko SNARC_only DC 1 lctrl 0.578300952911
+lurko SNARC_only DC 4 num_delete 0.525733947754
+lurko SNARC_only DC 4 num_delete 0.722008943558
+lurko SNARC_only DC 9 lctrl 0.640636920929
+lurko SNARC_only DC 5 lctrl 0.554079055786
+lurko SNARC_only DC 1 lctrl 0.681708097458
+lurko SNARC_only DC 8 num_delete 0.408097028732
+lurko SNARC_only DC 9 lctrl 0.561655044556
+lurko SNARC_only DC 6 num_delete 0.568351984024
+lurko SNARC_only DC 5 lctrl 0.778379917145
+lurko SNARC_only DC 2 num_delete 0.696241140366
+lurko SNARC_only DC 9 lctrl 0.794240236282
+lurko SNARC_only DC 9 lctrl 0.601764917374
+lurko SNARC_only DC 7 lctrl 1.20856714249
+lurko SNARC_only DC 7 lctrl 0.490187883377
+lurko SNARC_only DC 7 lctrl 0.409697055817
+lurko SNARC_only DC 3 lctrl 0.761878013611
+lurko SNARC_only DC 1 lctrl 0.626415967941
+lurko SNARC_only DC 3 lctrl 0.697999000549
+lurko SNARC_only DC 5 lctrl 0.505493164062
+lurko SNARC_only DC 1 lctrl 0.625488996506
+lurko SNARC_only DC 3 lctrl 0.569533109665
+lurko SNARC_only DC 8 num_delete 0.672971010208
+lurko SNARC_only DC 2 num_delete 0.777669906616
+lurko SNARC_only DC 4 num_delete 0.553822994232
+lurko SNARC_only DC 1 lctrl 0.602385997772
+lurko SNARC_only DC 1 lctrl 0.729477882385
+lurko SNARC_only DC 1 lctrl 0.569317817688
+lurko SNARC_only DC 5 lctrl 0.633318901062
+lurko SNARC_only DC 5 lctrl 0.577436208725
+lurko SNARC_only DC 2 lctrl 0.601119041443
+lurko SNARC_only DC 2 num_delete 0.561267137527
+lurko SNARC_only DC 6 num_delete 0.561733007431
+lurko SNARC_only DC 8 num_delete 0.474082946777
+lurko SNARC_only DC 9 lctrl 0.74529504776
+lurko SNARC_only DC 7 lctrl 0.92918419838
+lurko SNARC_only DC 8 num_delete 0.793236017227
+lurko SNARC_only DC 6 num_delete 0.712707996368
+lurko SNARC_only DC 4 num_delete 3.12926697731
+lurko SNARC_only DC 9 lctrl 0.570295095444
+lurko SNARC_only DC 6 num_delete 0.481838941574
+lurko SNARC_only DC 5 lctrl 1.17806196213
+lurko SNARC_only DC 7 lctrl 0.617890834808
+lurko SNARC_only DC 1 lctrl 0.714252948761
+lurko SNARC_only DC 2 lctrl 0.56959104538
+lurko SNARC_only DC 2 num_delete 0.607820987701
+lurko SNARC_only DC 2 num_delete 0.705355882645
+lurko SNARC_only DC 4 num_delete 0.473973035812
+lurko SNARC_only DC 4 num_delete 0.490042924881
+lurko SNARC_only DC 1 lctrl 0.641673088074
+lurko SNARC_only DC 2 num_delete 1.1853530407
+lurko SNARC_only DC 1 lctrl 0.537606954575
+lurko SNARC_only DC 9 lctrl 0.625995874405
+lurko SNARC_only DC 1 lctrl 0.409163951874
+lurko SNARC_only DC 4 lctrl 0.41051697731
+lurko SNARC_only DC 4 num_delete 0.49533700943
+lurko SNARC_only DC 5 lctrl 0.641501188278
+lurko SNARC_only DC 1 lctrl 0.969959020615
+lurko SNARC_only DC 8 num_delete 0.528916120529
+lurko SNARC_only DC 1 lctrl 0.585717916489
+lurko SNARC_only DC 5 lctrl 0.53036904335
+lurko SNARC_only DC 6 num_delete 3.83284497261
+lurko SNARC_only DC 8 num_delete 0.505976915359
+lurko SNARC_only DC 2 num_delete 0.592561006546
+lurko SNARC_only DC 4 num_delete 0.53738284111
+lurko SNARC_only DC 6 num_delete 0.745844125748
+lurko SNARC_only DC 2 num_delete 1.04990100861
+lurko SNARC_only DC 1 lctrl 0.634258031845
+lurko SNARC_only DC 8 num_delete 0.488889932632
+lurko SNARC_only DC 3 lctrl 0.874289035797
+{'participant': u'lurko', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1029', 'autopilot': False, 'exp_id': u'SNARC'}
+lurko SNARC_only CD 9 num_delete 1.02772593498
+lurko SNARC_only CD 6 lctrl 0.634162187576
+lurko SNARC_only CD 3 num_delete 0.535655975342
+lurko SNARC_only CD 9 num_delete 0.464964151382
+lurko SNARC_only CD 7 num_delete 0.600959777832
+lurko SNARC_only CD 5 num_delete 0.569401025772
+lurko SNARC_only CD 3 num_delete 0.449336051941
+lurko SNARC_only CD 3 num_delete 0.402050971985
+lurko SNARC_only CD 8 lctrl 0.61649107933
+lurko SNARC_only CD 6 lctrl 0.521552085876
+lurko SNARC_only CD 3 num_delete 0.561910867691
+lurko SNARC_only CD 6 lctrl 0.56146812439
+lurko SNARC_only CD 9 num_delete 0.617615938187
+lurko SNARC_only CD 7 num_delete 0.528704881668
+lurko SNARC_only CD 2 lctrl 0.647959947586
+lurko SNARC_only CD 2 lctrl 0.489404916763
+lurko SNARC_only CD 8 lctrl 0.560637950897
+lurko SNARC_only CD 1 num_delete 0.592340946198
+lurko SNARC_only CD 5 num_delete 0.521456956863
+lurko SNARC_only CD 1 num_delete 0.513580083847
+lurko SNARC_only CD 9 num_delete 0.4821600914
+lurko SNARC_only CD 4 lctrl 0.752097845078
+lurko SNARC_only CD 1 num_delete 8.76146888733
+lurko SNARC_only CD 4 lctrl 0.529289960861
+lurko SNARC_only CD 6 lctrl 0.593334913254
+lurko SNARC_only CD 1 num_delete 0.481339931488
+lurko SNARC_only CD 5 num_delete 0.609814882278
+lurko SNARC_only CD 5 num_delete 0.473417043686
+lurko SNARC_only CD 2 lctrl 0.514186859131
+lurko SNARC_only CD 8 lctrl 0.793713092804
+lurko SNARC_only CD 6 lctrl 0.664943933487
+lurko SNARC_only CD 3 num_delete 0.480918884277
+lurko SNARC_only CD 1 num_delete 0.497720956802
+lurko SNARC_only CD 8 lctrl 0.738507032394
+lurko SNARC_only CD 8 lctrl 0.625916957855
+lurko SNARC_only CD 5 num_delete 0.817742824554
+lurko SNARC_only CD 8 lctrl 0.842288970947
+lurko SNARC_only CD 9 num_delete 0.545458078384
+lurko SNARC_only CD 6 lctrl 0.578042984009
+lurko SNARC_only CD 7 num_delete 0.704572916031
+lurko SNARC_only CD 9 num_delete 0.60173201561
+lurko SNARC_only CD 2 lctrl 0.522161960602
+lurko SNARC_only CD 3 num_delete 0.482178211212
+lurko SNARC_only CD 8 num_delete 0.75406908989
+lurko SNARC_only CD 6 lctrl 0.842867136002
+lurko SNARC_only CD 7 num_delete 1.11371088028
+lurko SNARC_only CD 9 num_delete 0.593076944351
+lurko SNARC_only CD 5 num_delete 0.81026506424
+lurko SNARC_only CD 2 lctrl 0.704900026321
+lurko SNARC_only CD 9 num_delete 0.553419113159
+lurko SNARC_only CD 1 num_delete 0.449912071228
+lurko SNARC_only CD 6 lctrl 0.521977901459
+lurko SNARC_only CD 4 lctrl 1.27358293533
+lurko SNARC_only CD 4 lctrl 0.584923028946
+lurko SNARC_only CD 4 lctrl 0.562258005142
+lurko SNARC_only CD 2 lctrl 0.810297012329
+lurko SNARC_only CD 6 lctrl 0.505196094513
+lurko SNARC_only CD 6 lctrl 0.641516923904
+lurko SNARC_only CD 8 lctrl 0.842104196548
+lurko SNARC_only CD 9 num_delete 0.840955018997
+lurko SNARC_only CD 2 lctrl 0.729759931564
+lurko SNARC_only CD 4 num_delete 0.545426130295
+lurko SNARC_only CD 9 num_delete 0.817373037338
+lurko SNARC_only CD 5 num_delete 0.977040052414
+lurko SNARC_only CD 3 num_delete 0.769639968872
+lurko SNARC_only CD 6 lctrl 0.586104869843
+lurko SNARC_only CD 9 num_delete 0.593538045883
+lurko SNARC_only CD 4 lctrl 0.650756120682
+lurko SNARC_only CD 2 lctrl 1.85742616653
+lurko SNARC_only CD 8 lctrl 0.738087177277
+lurko SNARC_only CD 2 lctrl 0.473220825195
+lurko SNARC_only CD 6 lctrl 0.953989982605
+lurko SNARC_only CD 2 lctrl 0.753787994385
+lurko SNARC_only CD 7 num_delete 0.784625053406
+lurko SNARC_only CD 1 num_delete 0.509158849716
+lurko SNARC_only CD 7 num_delete 0.401947021484
+lurko SNARC_only CD 5 num_delete 0.569982051849
+lurko SNARC_only CD 2 lctrl 0.64227604866
+lurko SNARC_only CD 6 lctrl 0.545581102371
+lurko SNARC_only CD 6 lctrl 0.602085828781
+lurko SNARC_only CD 5 num_delete 0.632920980453
+lurko SNARC_only CD 4 lctrl 0.746365785599
+lurko SNARC_only CD 7 num_delete 1.06554079056
+lurko SNARC_only CD 1 num_delete 0.688930034637
+lurko SNARC_only CD 5 num_delete 0.55371594429
+lurko SNARC_only CD 2 lctrl 0.625906944275
+lurko SNARC_only CD 7 num_delete 0.536506891251
+lurko SNARC_only CD 1 num_delete 0.809823036194
+lurko SNARC_only CD 3 num_delete 0.665303945541
+lurko SNARC_only CD 5 num_delete 1.1379840374
+lurko SNARC_only CD 4 lctrl 1.23414802551
+lurko SNARC_only CD 4 lctrl 0.498982906342
+lurko SNARC_only CD 8 lctrl 0.6402759552
+lurko SNARC_only CD 1 num_delete 0.69748878479
+lurko SNARC_only CD 5 num_delete 0.689424037933
+lurko SNARC_only CD 7 num_delete 1.0656080246
+lurko SNARC_only CD 5 num_delete 0.361253023148
+lurko SNARC_only CD 7 num_delete 0.537106990814
+lurko SNARC_only CD 4 lctrl 1.29836702347
+lurko SNARC_only CD 3 num_delete 0.633317947388
+lurko SNARC_only CD 3 num_delete 0.586537837982
+lurko SNARC_only CD 4 lctrl 0.656829833984
+lurko SNARC_only CD 1 num_delete 0.656612157822
+lurko SNARC_only CD 8 lctrl 0.649141073227
+lurko SNARC_only CD 2 lctrl 0.810065984726
+lurko SNARC_only CD 4 lctrl 0.528975009918
+lurko SNARC_only CD 2 lctrl 0.602061986923
+lurko SNARC_only CD 6 lctrl 0.634168148041
+lurko SNARC_only CD 8 lctrl 0.650027990341
+lurko SNARC_only CD 7 num_delete 0.777554988861
+lurko SNARC_only CD 5 num_delete 0.609549999237
+lurko SNARC_only CD 1 num_delete 0.697717905045
+lurko SNARC_only CD 8 lctrl 0.78689289093
+lurko SNARC_only CD 8 lctrl 0.665714025497
+lurko SNARC_only CD 9 num_delete 0.945220947266
+lurko SNARC_only CD 5 num_delete 0.793376207352
+lurko SNARC_only CD 4 lctrl 0.673660993576
+lurko SNARC_only CD 5 num_delete 1.18538784981
+lurko SNARC_only CD 5 num_delete 0.705190896988
+lurko SNARC_only CD 1 num_delete 0.74533200264
+lurko SNARC_only CD 7 num_delete 0.656640052795
+lurko SNARC_only CD 9 num_delete 0.58559012413
+lurko SNARC_only CD 3 num_delete 0.505440950394
+lurko SNARC_only CD 3 num_delete 0.977816104889
+lurko SNARC_only CD 9 num_delete 2.7930419445
+lurko SNARC_only CD 6 lctrl 0.729783058167
+lurko SNARC_only CD 5 num_delete 0.585021972656
+lurko SNARC_only CD 7 num_delete 0.545636177063
+lurko SNARC_only CD 4 lctrl 0.585808992386
+lurko SNARC_only CD 6 lctrl 2.69737291336
+lurko SNARC_only CD 8 lctrl 0.67370891571
+lurko SNARC_only CD 6 lctrl 0.51397395134
+lurko SNARC_only CD 6 lctrl 0.433083772659
+lurko SNARC_only CD 5 num_delete 0.553364038467
+lurko SNARC_only CD 5 num_delete 0.61699795723
+lurko SNARC_only CD 9 num_delete 0.601073026657
+lurko SNARC_only CD 8 lctrl 1.59366297722
+lurko SNARC_only CD 5 num_delete 0.896537065506
+lurko SNARC_only CD 3 num_delete 0.529733896255
+lurko SNARC_only CD 3 num_delete 0.409577846527
+lurko SNARC_only CD 1 num_delete 0.513844013214
+lurko SNARC_only CD 9 num_delete 0.521775007248
+lurko SNARC_only CD 5 num_delete 0.465327978134
+lurko SNARC_only CD 6 lctrl 0.922513961792
+lurko SNARC_only CD 7 num_delete 0.609280109406
+lurko SNARC_only CD 2 lctrl 1.04268217087
+lurko SNARC_only CD 2 lctrl 0.856637001038
+lurko SNARC_only CD 6 lctrl 1.54565596581
+lurko SNARC_only CD 6 lctrl 0.449038028717
+lurko SNARC_only CD 4 lctrl 0.521445989609
+lurko SNARC_only CD 9 num_delete 0.57694196701
+lurko SNARC_only CD 3 num_delete 0.617672920227
+lurko SNARC_only CD 1 num_delete 0.593102931976
+lurko SNARC_only CD 3 num_delete 0.601892948151
+lurko SNARC_only CD 7 num_delete 1.17811203003
+lurko SNARC_only CD 9 num_delete 0.512819766998
+lurko SNARC_only CD 2 lctrl 0.75394487381
+lurko SNARC_only CD 9 lctrl 0.505705833435
+lurko SNARC_only CD 8 lctrl 1.29752087593
+lurko SNARC_only CD 8 lctrl 0.553570985794
+lurko SNARC_only CD 6 lctrl 0.696952104568
+lurko SNARC_only CD 4 lctrl 0.752586126328
+lurko SNARC_only CD 7 num_delete 0.72162604332
+lurko SNARC_only CD 4 lctrl 2.32167196274
+lurko SNARC_only CD 3 num_delete 0.536616802216
+lurko SNARC_only CD 8 lctrl 0.562252998352
+lurko SNARC_only CD 2 lctrl 0.929098129272
+lurko SNARC_only CD 2 lctrl 0.530893087387
+lurko SNARC_only CD 9 num_delete 0.784753084183
+lurko SNARC_only CD 3 num_delete 0.713219881058
+lurko SNARC_only CD 8 lctrl 2.42639994621
+lurko SNARC_only CD 1 num_delete 0.553400039673
+lurko SNARC_only CD 5 num_delete 0.857935905457
+lurko SNARC_only CD 7 num_delete 1.5452837944
+lurko SNARC_only CD 5 num_delete 0.641242980957
+lurko SNARC_only CD 9 num_delete 0.561460018158
+lurko SNARC_only CD 4 num_delete 1.44213104248
+lurko SNARC_only CD 1 num_delete 0.679703950882
+lurko SNARC_only CD 9 num_delete 0.458010911942
+lurko SNARC_only CD 2 lctrl 0.617177009583
+lurko SNARC_only CD 1 num_delete 0.793699026108
+lurko SNARC_only CD 4 lctrl 0.46582698822
+lurko SNARC_only CD 6 lctrl 0.886570215225
+lurko SNARC_only CD 6 lctrl 0.969192028046
+lurko SNARC_only CD 6 lctrl 0.449085950851
+lurko SNARC_only CD 3 num_delete 0.58531999588
+lurko SNARC_only CD 3 num_delete 0.441628932953
+lurko SNARC_only CD 4 lctrl 0.681502103806
+lurko SNARC_only CD 2 lctrl 0.641690969467
+lurko SNARC_only CD 5 num_delete 0.569890022278
+lurko SNARC_only CD 1 num_delete 15.0729792118
+lurko SNARC_only CD 2 lctrl 0.570055961609
+lurko SNARC_only CD 4 lctrl 0.481713056564
+lurko SNARC_only CD 3 num_delete 0.577660799026
+lurko SNARC_only CD 5 num_delete 0.417802810669
+lurko SNARC_only CD 4 lctrl 0.537644863129
+lurko SNARC_only CD 1 num_delete 0.449938058853
+lurko SNARC_only CD 7 num_delete 0.673588991165
+lurko SNARC_only CD 3 num_delete 0.834016799927
+lurko SNARC_only CD 3 num_delete 0.513636827469
+lurko SNARC_only CD 3 num_delete 0.536577939987
+lurko SNARC_only CD 4 lctrl 0.682111978531
+lurko SNARC_only CD 5 num_delete 0.761489152908
+lurko SNARC_only CD 3 num_delete 5.44188404083
+lurko SNARC_only CD 1 num_delete 0.873538970947
+lurko SNARC_only CD 9 num_delete 0.625298976898
+lurko SNARC_only CD 2 lctrl 0.857955932617
+lurko SNARC_only CD 5 num_delete 0.537078142166
+lurko SNARC_only CD 9 num_delete 0.569911003113
+lurko SNARC_only CD 7 num_delete 0.800812959671
+lurko SNARC_only CD 2 lctrl 1.43375682831
+lurko SNARC_only CD 3 num_delete 0.544914960861
+lurko SNARC_only CD 7 num_delete 0.625881910324
+lurko SNARC_only CD 9 num_delete 2.56155896187
+lurko SNARC_only CD 9 num_delete 0.441650152206
+lurko SNARC_only CD 1 num_delete 0.48942899704
+lurko SNARC_only CD 7 num_delete 0.465312957764
+lurko SNARC_only CD 2 lctrl 0.570823192596
+lurko SNARC_only CD 8 lctrl 0.864021062851
+lurko SNARC_only CD 8 lctrl 0.57025718689
+lurko SNARC_only CD 1 num_delete 0.576652050018
+lurko SNARC_only CD 8 lctrl 1.1458837986
+lurko SNARC_only CD 6 lctrl 1.11259412766
+lurko SNARC_only CD 8 num_delete 0.849503993988
+lurko SNARC_only CD 8 lctrl 0.672753095627
+lurko SNARC_only CD 6 lctrl 0.665056943893
+lurko SNARC_only CD 6 lctrl 0.576993942261
+lurko SNARC_only CD 3 num_delete 0.536306142807
+lurko SNARC_only CD 7 num_delete 0.649689912796
+lurko SNARC_only CD 6 lctrl 0.61002612114
+lurko SNARC_only CD 7 num_delete 0.64882516861
+lurko SNARC_only CD 2 lctrl 0.690424919128
+lurko SNARC_only CD 5 num_delete 0.657532930374
+lurko SNARC_only CD 4 lctrl 1.34644389153
+lurko SNARC_only CD 3 num_delete 0.543131113052
+lurko SNARC_only CD 5 num_delete 0.631413936615
+lurko SNARC_only CD 3 num_delete 0.496617794037
+lurko SNARC_only CD 2 lctrl 0.921763896942
+lurko SNARC_only CD 9 num_delete 0.609461069107
+lurko SNARC_only CD 7 num_delete 1.21688389778
+lurko SNARC_only CD 1 lctrl 0.793895959854
+lurko SNARC_only CD 1 num_delete 0.641304016113
+lurko SNARC_only CD 9 num_delete 0.490026950836
+lurko SNARC_only CD 4 lctrl 1.01872396469
+lurko SNARC_only CD 1 num_delete 1.44003987312
+lurko SNARC_only CD 7 num_delete 0.513380050659
+lurko SNARC_only CD 5 num_delete 0.816657066345
+lurko SNARC_only CD 4 lctrl 1.91389894485
+lurko SNARC_only CD 7 num_delete 0.497159004211
+lurko SNARC_only CD 4 lctrl 0.546288013458
+lurko SNARC_only CD 1 num_delete 0.641352891922
+lurko SNARC_only CD 1 num_delete 0.714304924011
+lurko SNARC_only CD 3 num_delete 0.53647685051
+lurko SNARC_only CD 8 lctrl 1.0896229744
+lurko SNARC_only CD 3 num_delete 2.40030097961
+lurko SNARC_only CD 3 num_delete 0.424883842468
+lurko SNARC_only CD 1 num_delete 0.569924116135
+lurko SNARC_only CD 4 lctrl 6.54580998421
+lurko SNARC_only CD 3 num_delete 0.488266944885
+lurko SNARC_only CD 4 lctrl 0.674132823944
+lurko SNARC_only CD 8 lctrl 0.705600976944
+lurko SNARC_only CD 9 num_delete 0.74569606781
+lurko SNARC_only CD 9 num_delete 4.79326486588
+lurko SNARC_only CD 7 num_delete 0.488034963608
+lurko SNARC_only CD 9 num_delete 0.47372508049
+lurko SNARC_only CD 7 num_delete 0.472532987595
+lurko SNARC_only CD 2 lctrl 3.37799215317
+lurko SNARC_only CD 8 lctrl 0.673398017883
+lurko SNARC_only CD 8 lctrl 0.466106891632
+lurko SNARC_only CD 6 lctrl 0.68163394928
+lurko SNARC_only CD 3 num_delete 0.720815896988
+lurko SNARC_only CD 2 num_delete 1.09694194794
+lurko SNARC_only CD 9 num_delete 0.600131034851
+lurko SNARC_only CD 3 num_delete 0.817759037018
+lurko SNARC_only CD 7 num_delete 0.546078205109
+lurko SNARC_only CD 6 lctrl 0.65070104599
+lurko SNARC_only CD 2 lctrl 0.496698856354
+lurko SNARC_only CD 9 num_delete 0.560431003571
+lurko SNARC_only CD 6 lctrl 0.553405046463
+lurko SNARC_only CD 3 num_delete 0.553660869598
+lurko SNARC_only CD 3 num_delete 0.495452165604
+lurko SNARC_only CD 1 num_delete 0.624737024307
+lurko SNARC_only CD 4 lctrl 0.961375951767
+lurko SNARC_only CD 6 lctrl 0.762023925781
+lurko SNARC_only CD 1 num_delete 1.89690899849
+lurko SNARC_only CD 1 num_delete 0.664180994034
+lurko SNARC_only CD 4 lctrl 1.29887604713
+lurko SNARC_only CD 7 num_delete 1.18445706367
+lurko SNARC_only CD 4 lctrl 0.682035923004
+lurko SNARC_only CD 5 num_delete 0.640733957291
+lurko SNARC_only CD 7 num_delete 0.638157129288
+lurko SNARC_only CD 4 lctrl 0.738259077072
+lurko SNARC_only CD 7 num_delete 0.871127128601
+lurko SNARC_only CD 1 num_delete 0.569889068604
+lurko SNARC_only CD 6 lctrl 0.832159042358
+lurko SNARC_only CD 5 num_delete 1.12210202217
+lurko SNARC_only CD 2 lctrl 0.610311031342
+lurko SNARC_only CD 5 num_delete 0.520359039307
+lurko SNARC_only CD 8 lctrl 0.642361164093
+lurko SNARC_only CD 4 num_delete 1.26425814629
+lurko SNARC_only CD 7 num_delete 0.928869009018
+lurko SNARC_only CD 9 num_delete 0.992673873901
+lurko SNARC_only CD 5 num_delete 0.648911952972
+lurko SNARC_only CD 8 num_delete 0.401453018188
+lurko SNARC_only CD 3 num_delete 0.673055887222
+lurko SNARC_only CD 8 lctrl 0.698181867599
+lurko SNARC_only CD 7 num_delete 0.441489934921
+lurko SNARC_only CD 8 lctrl 0.546174049377
+lurko SNARC_only CD 7 num_delete 0.488104104996
+lurko SNARC_only CD 1 num_delete 1.26478791237
+lurko SNARC_only CD 5 num_delete 0.457250118256
+lurko SNARC_only CD 4 lctrl 0.650516986847
+lurko SNARC_only CD 4 lctrl 0.657680988312
+lurko SNARC_only CD 6 lctrl 1.64187002182
+lurko SNARC_only CD 9 num_delete 0.61616897583
+lurko SNARC_only CD 1 num_delete 0.641325950623
+lurko SNARC_only CD 6 lctrl 1.40117096901
+lurko SNARC_only CD 1 num_delete 4.72002983093
+lurko SNARC_only CD 2 lctrl 0.576438903809
+lurko SNARC_only CD 5 num_delete 0.528743982315
+lurko SNARC_only CD 7 num_delete 0.537580013275
+lurko SNARC_only CD 6 lctrl 0.985898971558
+lurko SNARC_only CD 5 num_delete 1.79301595688
+lurko SNARC_only CD 2 lctrl 0.698082923889
+lurko SNARC_only CD 8 lctrl 3.96114397049
+lurko SNARC_only CD 9 num_delete 0.473145961761
+lurko SNARC_only CD 5 num_delete 0.593311071396
+lurko SNARC_only CD 9 num_delete 0.520924091339
+lurko SNARC_only CD 7 num_delete 0.434187173843
+lurko SNARC_only CD 2 lctrl 0.577221870422
+lurko SNARC_only CD 6 lctrl 0.624594926834
+lurko SNARC_only CD 1 num_delete 0.601332902908
+lurko SNARC_only CD 3 num_delete 0.641929864883
+lurko SNARC_only CD 4 lctrl 0.768889904022
+lurko SNARC_only CD 2 lctrl 0.585713148117
+lurko SNARC_only CD 2 lctrl 1.79274511337
+lurko SNARC_only CD 9 num_delete 0.641694068909
+lurko SNARC_only CD 8 lctrl 5.47457003593
+lurko SNARC_only CD 5 num_delete 0.657376050949
+lurko SNARC_only CD 1 num_delete 0.458042144775
+lurko SNARC_only CD 7 num_delete 0.440922021866
+lurko SNARC_only CD 2 lctrl 0.969747781754
+lurko SNARC_only CD 8 lctrl 0.537230014801
+lurko SNARC_only CD 2 lctrl 0.513957023621
+lurko SNARC_only CD 4 lctrl 0.608907938004
+lurko SNARC_only CD 6 lctrl 0.608879804611
+lurko SNARC_only CD 8 lctrl 1.72885084152
+lurko SNARC_only CD 9 num_delete 0.673285007477
+lurko SNARC_only CD 1 num_delete 0.512834787369
+lurko SNARC_only CD 8 num_delete 0.832621097565
+lurko SNARC_only CD 9 num_delete 0.55259180069
+lurko SNARC_only CD 3 num_delete 0.537739038467
+lurko SNARC_only CD 4 lctrl 0.634695053101
+lurko SNARC_only CD 8 lctrl 0.456331968307
+lurko SNARC_only CD 2 lctrl 0.53506398201
+lurko SNARC_only CD 1 num_delete 0.824997901917
+lurko SNARC_only CD 7 num_delete 0.602224111557
+lurko SNARC_only CD 2 lctrl 0.767399072647
+lurko SNARC_only CD 8 lctrl 1.12087893486
+lurko SNARC_only CD 7 num_delete 2.15215301514
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'lurko', 'dateStr': u'05_18_1040'}
+lurko resp_prep 0.3 green q 2.17322397232
+lurko resp_prep 0.1 red p 0.540380954742
+lurko resp_prep 1.0 green q 0.592422008514
+lurko resp_prep 0.8 red p 0.504567146301
+lurko resp_prep 0.3 green q 0.476818084717
+lurko resp_prep 0.1 green q 0.565079927444
+lurko resp_prep 0.3 green q 0.556630849838
+lurko resp_prep 0.6 red p 0.304532051086
+lurko resp_prep 0.6 red q 0.344784021378
+lurko resp_prep 0.1 green q 0.468539953232
+lurko resp_prep 0.3 green p 0.397138118744
+lurko resp_prep 1.0 red p 0.329516887665
+lurko resp_prep 1.0 red q 0.272804021835
+lurko resp_prep 1.0 red p 0.464689970016
+lurko resp_prep 0.8 red p 0.360522031784
+lurko resp_prep 0.8 red p 0.352830171585
+lurko resp_prep 0.1 red p 0.61333990097
+lurko resp_prep 0.3 green q 0.452949047089
+lurko resp_prep 0.8 green q 0.336382865906
+lurko resp_prep 0.1 red p 0.444560050964
+lurko resp_prep 1.0 red p 0.536256074905
+lurko resp_prep 1.0 green q 0.361155033112
+lurko resp_prep 0.3 red p 0.460247039795
+lurko resp_prep 0.8 green q 0.433022975922
+lurko resp_prep 0.1 green q 0.500386953354
+lurko resp_prep 0.8 green q 0.384165048599
+lurko resp_prep 0.8 red p 0.488357782364
+lurko resp_prep 1.0 green q 0.416236877441
+lurko resp_prep 0.8 green q 0.496824979782
+lurko resp_prep 0.8 green q 0.504302024841
+lurko resp_prep 0.8 green q 0.384301900864
+lurko resp_prep 0.3 green q 0.381044864655
+lurko resp_prep 0.6 green q 0.289034128189
+lurko resp_prep 1.0 green q 0.384832143784
+lurko resp_prep 0.6 red p 0.384662151337
+lurko resp_prep 0.1 red p 0.381247997284
+lurko resp_prep 0.1 green q 0.509494066238
+lurko resp_prep 0.8 red p 0.392296075821
+lurko resp_prep 0.6 green q 0.440791130066
+lurko resp_prep 0.8 red p 0.424385070801
+lurko resp_prep 1.0 green q 0.375957965851
+lurko resp_prep 0.1 green q 0.477471113205
+lurko resp_prep 0.3 red p 0.35680103302
+lurko resp_prep 1.0 red p 0.432909011841
+lurko resp_prep 1.0 red q 0.328336000443
+lurko resp_prep 0.6 red p 0.480633020401
+lurko resp_prep 0.1 red p 0.421633005142
+lurko resp_prep 0.3 red p 0.332072973251
+lurko resp_prep 0.3 green q 0.404964923859
+lurko resp_prep 0.3 red p 0.39643406868
+lurko resp_prep 0.3 red p 0.484544992447
+lurko resp_prep 0.1 green q 0.541030168533
+lurko resp_prep 0.1 red p 0.373054027557
+lurko resp_prep 0.6 red p 0.32875585556
+lurko resp_prep 0.6 green q 0.496989011765
+lurko resp_prep 0.6 red p 0.617010831833
+lurko resp_prep 0.3 red p 0.405334949493
+lurko resp_prep 1.0 green q 0.447916030884
+lurko resp_prep 0.1 red p 0.429075956345
+lurko resp_prep 1.0 red p 0.359789848328
+lurko resp_prep 1.0 red p 0.552244186401
+lurko resp_prep 1.0 green q 0.561160802841
+lurko resp_prep 0.3 green q 0.436362028122
+lurko resp_prep 0.8 green q 0.480670928955
+lurko resp_prep 0.3 green q 0.4688539505
+lurko resp_prep 0.6 green q 0.496831893921
+lurko resp_prep 0.8 green q 0.480690956116
+lurko resp_prep 1.0 red p 0.344297170639
+lurko resp_prep 1.0 green q 0.45569396019
+lurko resp_prep 0.1 green q 0.589168071747
+lurko resp_prep 0.1 red p 0.572299003601
+lurko resp_prep 0.6 green q 0.472846031189
+lurko resp_prep 1.0 green q 0.527698040009
+lurko resp_prep 0.6 red p 0.464502096176
+lurko resp_prep 0.1 red p 0.461055040359
+lurko resp_prep 1.0 red q 0.423906087875
+lurko resp_prep 0.8 red p 0.488821029663
+lurko resp_prep 0.1 red p 0.53390288353
+lurko resp_prep 0.3 green q 0.484417915344
+lurko resp_prep 0.6 green q 0.440834999084
+lurko resp_prep 0.6 green q 0.424420833588
+lurko resp_prep 0.3 red p 0.468836784363
+lurko resp_prep 0.8 red p 0.369312047958
+lurko resp_prep 0.3 green p 0.36464881897
+lurko resp_prep 0.3 red p 0.325194835663
+lurko resp_prep 0.6 green q 0.41653418541
+lurko resp_prep 1.0 red p 0.41602396965
+lurko resp_prep 0.1 red p 0.484819889069
+lurko resp_prep 0.6 red q 0.368352890015
+lurko resp_prep 0.1 green q 0.421286821365
+lurko resp_prep 0.8 red p 0.496461868286
+lurko resp_prep 0.3 green q 0.420644044876
+lurko resp_prep 0.8 red p 0.544304847717
+lurko resp_prep 0.8 red p 0.360628843307
+lurko resp_prep 0.8 green q 0.689153909683
+lurko resp_prep 0.6 red p 0.352100849152
+lurko resp_prep 0.1 green q 0.564680099487
+lurko resp_prep 0.3 red p 0.348806142807
+lurko resp_prep 1.0 red p 0.327882051468
+lurko resp_prep 0.1 red p 0.421173095703
+lurko resp_prep 0.6 red p 0.336526155472
+lurko resp_prep 1.0 red p 0.400005817413
+lurko resp_prep 1.0 green q 0.479660987854
+lurko resp_prep 0.8 green q 0.480870962143
+lurko resp_prep 0.8 red p 0.400769948959
+lurko resp_prep 0.8 green q 0.456367969513
+lurko resp_prep 0.1 green q 0.509038925171
+lurko resp_prep 0.3 red p 0.436435937881
+lurko resp_prep 0.3 red p 0.493090867996
+lurko resp_prep 0.8 red p 0.456777095795
+lurko resp_prep 0.3 red p 0.396153926849
+lurko resp_prep 0.3 green q 0.557193040848
+lurko resp_prep 0.6 green q 0.399311065674
+lurko resp_prep 0.6 red p 0.449019193649
+lurko resp_prep 1.0 green q 0.440348148346
+lurko resp_prep 0.6 red p 0.303694963455
+lurko resp_prep 0.6 green q 0.4410572052
+lurko resp_prep 0.1 green q 0.45321393013
+lurko resp_prep 0.3 red p 0.405249834061
+lurko resp_prep 0.6 green q 0.375778198242
+lurko resp_prep 0.3 green q 0.604843139648
+lurko resp_prep 0.8 green q 0.440617084503
+lurko resp_prep 1.0 green q 0.496248006821
+lurko resp_prep 0.1 green q 0.509074926376
+lurko resp_prep 0.6 green q 0.480490922928
+lurko resp_prep 0.1 green q 0.509289979935
+lurko resp_prep 0.6 green q 0.44870018959
+lurko resp_prep 1.0 red p 0.416984081268
+lurko resp_prep 0.3 red p 0.413105964661
+lurko resp_prep 0.8 green q 0.528070926666
+lurko resp_prep 1.0 green q 0.487396001816
+lurko resp_prep 0.1 green q 0.517143011093
+lurko resp_prep 0.1 red p 0.500814199448
+lurko resp_prep 0.6 green q 0.417535066605
+lurko resp_prep 0.1 red p 0.388156890869
+lurko resp_prep 1.0 red p 0.536435127258
+lurko resp_prep 0.3 red p 0.508793115616
+lurko resp_prep 0.6 red p 0.39250087738
+lurko resp_prep 0.6 red p 0.392420053482
+lurko resp_prep 0.8 red p 0.496222019196
+lurko resp_prep 0.1 red p 0.421280860901
+lurko resp_prep 1.0 green q 0.552795886993
+lurko resp_prep 1.0 green q 0.496793031693
+lurko resp_prep 0.3 green q 0.749204874039
+lurko resp_prep 0.1 green q 0.669018030167
+lurko resp_prep 0.8 green q 0.472656011581
+lurko resp_prep 0.6 green q 0.48073887825
+lurko resp_prep 0.8 green q 0.896102905273
+lurko resp_prep 0.6 red p 0.336908102036
+lurko resp_prep 0.8 red p 0.328648805618

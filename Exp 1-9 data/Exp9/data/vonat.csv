@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'03_23_1112', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'vonat', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+vonat SNARC color dot DC 0 up 10 num_separator 0.579059123993
+vonat SNARC color dot DC 0 down 25 lctrl 0.462361097336
+vonat SNARC color dot DC 0 down 35 lctrl 0.445665121078
+vonat SNARC color dot DC 0 up 35 num_separator 0.300487041473
+vonat SNARC color dot DC 0 down 35 num_separator 0.349087953568
+vonat SNARC color dot DC 0 up 5 lctrl 0.457063913345
+vonat SNARC color dot DC 0 down 15 lctrl 1.00478100777
+vonat SNARC color dot DC 0 up 40 num_separator 0.529168128967
+vonat SNARC color dot DC 0 up 15 num_separator 0.373413085938
+vonat SNARC color dot DC 0 up 5 num_separator 0.413308858871
+vonat SNARC color dot DC 0 down 10 lctrl 0.489781141281
+vonat SNARC color dot DC 0 up 20 num_separator 0.448085069656
+vonat SNARC color dot DC 0 up 25 num_separator 0.381240129471
+vonat SNARC color dot DC 0 down 30 lctrl 0.425271987915
+vonat SNARC color dot DC 0 up 35 num_separator 0.563944101334
+vonat SNARC color dot DC 0 down 35 lctrl 0.341153860092
+vonat SNARC color dot DC 0 up 5 num_separator 0.52489900589
+vonat SNARC color dot DC 0 up 15 num_separator 0.41092300415
+vonat SNARC color dot DC 0 down 30 lctrl 0.37722992897
+vonat SNARC color dot DC 0 up 20 num_separator 0.353013038635
+vonat SNARC color dot DC 0 down 25 lctrl 0.379342079163
+vonat SNARC color dot DC 0 down 20 lctrl 0.464928865433
+vonat SNARC color dot DC 0 up 5 num_separator 0.357177019119
+vonat SNARC color dot DC 0 up 45 num_separator 0.477443933487
+vonat SNARC color dot DC 0 up 15 num_separator 0.357714891434
+vonat SNARC color dot DC 0 up 40 num_separator 0.320430040359
+vonat SNARC color dot DC 0 up 25 num_separator 0.332317829132
+vonat SNARC color dot DC 0 down 45 lctrl 0.381739139557
+vonat SNARC color dot DC 0 up 15 num_separator 0.348710775375
+vonat SNARC color dot DC 0 down 35 lctrl 0.332646131516
+vonat SNARC color dot DC 0 up 15 num_separator 0.317623138428
+vonat SNARC color dot DC 0 up 15 num_separator 0.39740896225
+vonat SNARC color dot DC 0 up 10 num_separator 0.3776679039
+vonat SNARC color dot DC 0 up 40 num_separator 0.29634809494
+vonat SNARC color dot DC 0 up 40 num_separator 0.313309907913
+vonat SNARC color dot DC 0 up 40 num_separator 0.34520983696
+vonat SNARC color dot DC 0 down 40 lctrl 0.370319843292
+vonat SNARC color dot DC 0 down 35 lctrl 0.334313154221
+vonat SNARC color dot DC 0 up 35 num_separator 0.33925819397
+vonat SNARC color dot DC 0 up 10 num_separator 0.408608913422
+vonat SNARC color dot DC 0 down 45 lctrl 0.373526096344
+vonat SNARC color dot DC 0 down 20 lctrl 0.432749032974
+vonat SNARC color dot DC 0 up 25 num_separator 0.333034992218
+vonat SNARC color dot DC 0 down 25 num_separator 0.45189499855
+vonat SNARC color dot DC 0 up 5 num_separator 0.556428909302
+vonat SNARC color dot DC 0 up 15 num_separator 0.348936080933
+vonat SNARC color dot DC 0 down 20 lctrl 0.353115081787
+vonat SNARC color dot DC 0 up 30 num_separator 0.344965934753
+vonat SNARC color dot DC 0 up 45 num_separator 0.388669967651
+vonat SNARC color dot DC 0 down 10 lctrl 0.409247875214
+vonat SNARC color dot DC 0 down 20 lctrl 0.377035140991
+vonat SNARC color dot DC 0 up 5 num_separator 0.364762067795
+vonat SNARC color dot DC 0 up 30 num_separator 0.409147977829
+vonat SNARC color dot DC 0 down 10 lctrl 0.409744977951
+vonat SNARC color dot DC 0 down 5 lctrl 0.411806821823
+vonat SNARC color dot DC 0 up 5 num_separator 0.444655179977
+vonat SNARC color dot DC 0 up 5 num_separator 0.797200918198
+vonat SNARC color dot DC 0 up 20 num_separator 0.36868596077
+vonat SNARC color dot DC 0 down 5 lctrl 0.421117067337
+vonat SNARC color dot DC 0 up 40 num_separator 0.415817975998
+vonat SNARC color dot DC 0 down 15 lctrl 0.468673944473
+vonat SNARC color dot DC 0 up 35 num_separator 0.316864013672
+vonat SNARC color dot DC 0 up 45 num_separator 0.380564928055
+vonat SNARC color dot DC 0 down 10 lctrl 0.392801046371
+vonat SNARC color dot DC 0 down 35 lctrl 0.333113908768
+vonat SNARC color dot DC 0 up 10 num_separator 0.351250886917
+vonat SNARC color dot DC 0 up 30 num_separator 0.32831287384
+vonat SNARC color dot DC 0 down 30 lctrl 0.480314970016
+vonat SNARC color dot DC 0 down 25 lctrl 0.390064001083
+vonat SNARC color dot DC 0 up 15 num_separator 0.396602153778
+vonat SNARC color dot DC 0 down 10 lctrl 0.360930919647
+vonat SNARC color dot DC 0 down 15 lctrl 0.331866025925
+vonat SNARC color dot DC 0 down 40 lctrl 0.360653877258
+vonat SNARC color dot DC 0 down 30 lctrl 0.360828876495
+vonat SNARC color dot DC 0 up 30 num_separator 0.367690086365
+vonat SNARC color dot DC 0 down 25 lctrl 0.388746023178
+vonat SNARC color dot DC 0 up 10 num_separator 0.35310292244
+vonat SNARC color dot DC 0 up 40 num_separator 0.28777885437
+vonat SNARC color dot DC 0 up 5 num_separator 0.349265098572
+vonat SNARC color dot DC 0 up 30 num_separator 0.304161071777
+vonat SNARC color dot DC 0 up 30 num_separator 0.354105949402
+vonat SNARC color dot DC 0 up 45 num_separator 0.269129037857
+vonat SNARC color dot DC 0 up 10 num_separator 0.312988996506
+vonat SNARC color dot DC 0 up 20 num_separator 0.289313077927
+vonat SNARC color dot DC 0 up 20 num_separator 0.2654941082
+vonat SNARC color dot DC 0 up 20 num_separator 0.264685153961
+vonat SNARC color dot DC 0 down 20 lctrl 0.386286973953
+vonat SNARC color dot DC 0 down 35 lctrl 0.293514966965
+vonat SNARC color dot DC 0 down 45 lctrl 0.25923204422
+vonat SNARC color dot DC 0 up 25 num_separator 0.380808830261
+vonat SNARC color dot DC 0 down 25 lctrl 0.333042144775
+vonat SNARC color dot DC 0 up 40 num_separator 0.257132053375
+vonat SNARC color dot DC 0 down 10 lctrl 0.400269985199
+vonat SNARC color dot DC 0 up 20 num_separator 0.336629867554
+vonat SNARC color dot DC 0 down 40 lctrl 0.448883056641
+vonat SNARC color dot DC 0 up 15 num_separator 0.372416973114
+vonat SNARC color dot DC 0 up 30 num_separator 0.448910951614
+vonat SNARC color dot DC 0 up 45 num_separator 0.28443980217
+vonat SNARC color dot DC 0 up 10 num_separator 0.392784833908
+vonat SNARC color dot DC 0 up 45 num_separator 0.300127983093
+vonat SNARC color dot DC 0 up 45 num_separator 0.32099199295
+vonat SNARC color dot DC 0 up 15 num_separator 0.30771613121
+vonat SNARC color dot DC 0 down 25 lctrl 0.372493982315
+vonat SNARC color dot DC 0 down 15 lctrl 0.293076992035
+vonat SNARC color dot DC 0 down 15 lctrl 0.261193990707
+vonat SNARC color dot DC 0 down 15 lctrl 0.260074138641
+vonat SNARC color dot DC 0 up 25 num_separator 0.371762990952
+vonat SNARC color dot DC 0 down 40 lctrl 0.351984024048
+vonat SNARC color dot DC 0 down 5 num_separator 0.340884923935
+vonat SNARC color dot DC 0 up 5 num_separator 0.579788923264
+vonat SNARC color dot DC 0 up 20 num_separator 0.304602861404
+vonat SNARC color dot DC 0 down 40 lctrl 0.344865083694
+vonat SNARC color dot DC 0 down 30 lctrl 0.296985864639
+vonat SNARC color dot DC 0 up 35 lctrl 0.269510030746
+vonat SNARC color dot DC 0 up 30 num_separator 0.599838018417
+vonat SNARC color dot DC 0 down 45 lctrl 0.628906011581
+vonat SNARC color dot DC 0 up 15 num_separator 0.411361932755
+vonat SNARC color dot DC 0 down 40 lctrl 0.312354803085
+vonat SNARC color dot DC 0 up 30 num_separator 0.281481027603
+vonat SNARC color dot DC 0 up 25 num_separator 0.388659000397
+vonat SNARC color dot DC 0 down 30 lctrl 0.337095975876
+vonat SNARC color dot DC 0 up 30 lctrl 0.352494001389
+vonat SNARC color dot DC 0 down 30 lctrl 0.911408185959
+vonat SNARC color dot DC 0 down 20 lctrl 0.44938993454
+vonat SNARC color dot DC 0 up 35 num_separator 0.38772892952
+vonat SNARC color dot DC 0 up 45 num_separator 0.316926956177
+vonat SNARC color dot DC 0 down 45 lctrl 0.357906103134
+vonat SNARC color dot DC 0 down 20 lctrl 0.369179010391
+vonat SNARC color dot DC 0 down 15 lctrl 0.373391866684
+vonat SNARC color dot DC 0 up 20 num_separator 0.376925945282
+vonat SNARC color dot DC 0 down 45 lctrl 0.412226915359
+vonat SNARC color dot DC 0 down 5 lctrl 0.365075826645
+vonat SNARC color dot DC 0 down 15 lctrl 0.332911968231
+vonat SNARC color dot DC 0 up 35 num_separator 0.397468090057
+vonat SNARC color dot DC 0 down 25 lctrl 0.357104063034
+vonat SNARC color dot DC 0 up 45 num_separator 0.293151140213
+vonat SNARC color dot DC 0 down 45 lctrl 0.821551084518
+vonat SNARC color dot DC 0 up 35 num_separator 0.404121160507
+vonat SNARC color dot DC 0 up 35 num_separator 0.396089792252
+vonat SNARC color dot DC 0 down 40 lctrl 0.393097877502
+vonat SNARC color dot DC 0 down 45 lctrl 0.310281991959
+vonat SNARC color dot DC 0 up 35 num_separator 0.355758905411
+vonat SNARC color dot DC 0 down 15 lctrl 0.53367805481
+vonat SNARC color dot DC 0 up 25 num_separator 0.372187137604
+vonat SNARC color dot DC 0 down 20 lctrl 0.425346136093
+vonat SNARC color dot DC 0 up 15 lctrl 0.516407012939
+vonat SNARC color dot DC 0 up 35 num_separator 0.347998142242
+vonat SNARC color dot DC 0 up 10 num_separator 0.415896177292
+vonat SNARC color dot DC 0 up 5 num_separator 0.339990139008
+vonat SNARC color dot DC 0 up 35 num_separator 0.357226133347
+vonat SNARC color dot DC 0 up 40 num_separator 0.328934192657
+vonat SNARC color dot DC 0 up 15 num_separator 0.332566022873
+vonat SNARC color dot DC 0 down 20 lctrl 0.377660036087
+vonat SNARC color dot DC 0 up 45 num_separator 0.348833084106
+vonat SNARC color dot DC 0 up 10 num_separator 0.472882032394
+vonat SNARC color dot DC 0 down 25 lctrl 0.380791902542
+vonat SNARC color dot DC 0 up 30 num_separator 0.456553936005
+vonat SNARC color dot DC 0 down 35 lctrl 0.389919996262
+vonat SNARC color dot DC 0 up 5 num_separator 0.34034204483
+vonat SNARC color dot DC 0 down 40 lctrl 0.377259016037
+vonat SNARC color dot DC 0 up 10 num_separator 0.534075021744
+vonat SNARC color dot DC 0 up 5 num_separator 0.349082231522
+vonat SNARC color dot DC 0 up 40 num_separator 0.32867193222
+vonat SNARC color dot DC 0 up 10 num_separator 0.368347883224
+vonat SNARC color dot DC 0 up 20 num_separator 0.344982862473
+vonat SNARC color dot DC 0 up 20 num_separator 0.385447025299
+vonat SNARC color dot DC 0 up 5 num_separator 0.373526096344
+vonat SNARC color dot DC 0 up 20 num_separator 0.361109018326
+vonat SNARC color dot DC 0 up 45 num_separator 0.348398923874
+vonat SNARC color dot DC 0 up 30 num_separator 0.3206179142
+vonat SNARC color dot DC 0 up 35 num_separator 0.292427062988
+vonat SNARC color dot DC 0 down 35 lctrl 0.285492897034
+vonat SNARC color dot DC 0 up 15 num_separator 0.325192928314
+vonat SNARC color dot DC 0 up 45 lctrl 0.333379983902
+vonat SNARC color dot DC 0 up 30 num_separator 0.631963014603
+vonat SNARC color dot DC 0 up 25 num_separator 0.314467906952
+vonat SNARC color dot DC 0 down 35 lctrl 0.540928840637
+vonat SNARC color dot DC 0 down 10 lctrl 0.393477201462
+vonat SNARC color dot DC 0 up 35 num_separator 0.347721099854
+vonat SNARC color dot DC 0 up 30 num_separator 0.432209014893
+vonat SNARC color dot DC 0 down 15 lctrl 0.508790969849
+vonat SNARC color dot DC 0 down 20 lctrl 0.312612056732
+vonat SNARC color dot DC 0 down 10 lctrl 0.353736877441
+vonat SNARC color dot DC 0 down 5 lctrl 0.267476081848
+vonat SNARC color dot DC 0 down 10 lctrl 0.313392877579
+vonat SNARC color dot DC 0 down 5 lctrl 0.396005153656
+vonat SNARC color dot DC 0 down 20 lctrl 0.440911054611
+vonat SNARC color dot DC 0 up 20 num_separator 0.480659008026
+vonat SNARC color dot DC 0 up 45 num_separator 0.356684923172
+vonat SNARC color dot DC 0 up 5 num_separator 0.437316894531
+vonat SNARC color dot DC 0 up 45 num_separator 0.332361936569
+vonat SNARC color dot DC 0 up 5 num_separator 0.372828960419
+vonat SNARC color dot DC 0 down 20 lctrl 0.424747943878
+vonat SNARC color dot DC 0 up 25 num_separator 0.35724902153
+vonat SNARC color dot DC 0 up 35 num_separator 0.260661840439
+vonat SNARC color dot DC 0 down 40 lctrl 0.336930990219
+vonat SNARC color dot DC 0 up 40 num_separator 0.376988172531
+vonat SNARC color dot DC 0 down 25 lctrl 0.373871088028
+vonat SNARC color dot DC 0 down 20 lctrl 0.361334085464
+vonat SNARC color dot DC 0 down 40 lctrl 0.352415084839
+vonat SNARC color dot DC 0 up 20 num_separator 0.33748793602
+vonat SNARC color dot DC 0 up 35 num_separator 0.3326151371
+vonat SNARC color dot DC 0 up 45 num_separator 0.315627098083
+vonat SNARC color dot DC 0 down 20 lctrl 0.401755094528
+vonat SNARC color dot DC 0 up 5 lctrl 0.715817928314
+vonat SNARC color dot DC 0 up 25 num_separator 0.324117898941
+vonat SNARC color dot DC 0 up 25 num_separator 0.292966127396
+vonat SNARC color dot DC 0 down 30 lctrl 0.393007993698
+vonat SNARC color dot DC 0 down 10 lctrl 0.417263031006
+vonat SNARC color dot DC 0 up 5 num_separator 0.389369010925
+vonat SNARC color dot DC 0 down 45 lctrl 0.532870054245
+vonat SNARC color dot DC 0 down 20 lctrl 0.329524993896
+vonat SNARC color dot DC 0 up 45 num_separator 0.380332946777
+vonat SNARC color dot DC 0 down 5 lctrl 0.356869935989
+vonat SNARC color dot DC 0 down 10 lctrl 0.432132005692
+vonat SNARC color dot DC 0 down 25 lctrl 0.40456199646
+vonat SNARC color dot DC 0 up 10 num_separator 0.432625055313
+vonat SNARC color dot DC 0 up 5 num_separator 0.396582841873
+vonat SNARC color dot DC 0 up 35 num_separator 0.396567106247
+vonat SNARC color dot DC 0 up 40 num_separator 0.35271692276
+vonat SNARC color dot DC 0 down 25 lctrl 0.365748882294
+vonat SNARC color dot DC 0 down 35 lctrl 0.453216075897
+vonat SNARC color dot DC 0 down 45 lctrl 0.29262304306
+vonat SNARC color dot DC 0 up 40 num_separator 0.368292093277
+vonat SNARC color dot DC 0 down 20 lctrl 0.35308098793
+vonat SNARC color dot DC 0 down 25 lctrl 0.405308008194
+vonat SNARC color dot DC 0 down 10 lctrl 0.297029018402
+vonat SNARC color dot DC 0 down 25 lctrl 0.308963060379
+vonat SNARC color dot DC 0 up 5 num_separator 0.35791015625
+vonat SNARC color dot DC 0 down 5 lctrl 0.41214299202
+vonat SNARC color dot DC 0 down 25 lctrl 0.468825101852
+vonat SNARC color dot DC 0 down 45 lctrl 0.316452980042
+vonat SNARC color dot DC 0 up 20 num_separator 0.344405174255
+vonat SNARC color dot DC 0 up 25 num_separator 0.325659990311
+vonat SNARC color dot DC 0 up 15 num_separator 0.349269866943
+vonat SNARC color dot DC 0 down 30 lctrl 0.369000196457
+vonat SNARC color dot DC 0 up 30 num_separator 0.384125947952
+vonat SNARC color dot DC 0 down 40 lctrl 0.376056909561
+vonat SNARC color dot DC 0 down 40 lctrl 0.289035797119
+vonat SNARC color dot DC 0 down 5 lctrl 0.373163223267
+vonat SNARC color dot DC 0 down 45 lctrl 0.300848960876
+vonat SNARC color dot DC 0 down 25 lctrl 0.308627843857
+vonat SNARC color dot DC 0 up 40 num_separator 0.376564979553
+vonat SNARC color dot DC 0 up 45 num_separator 0.308381080627
+vonat SNARC color dot DC 0 down 45 lctrl 0.380486011505
+vonat SNARC color dot DC 0 up 30 num_separator 0.520607948303
+vonat SNARC color dot DC 0 down 20 lctrl 0.416515827179
+vonat SNARC color dot DC 0 up 30 num_separator 0.328239917755
+vonat SNARC color dot DC 0 down 30 lctrl 0.353803873062
+vonat SNARC color dot DC 0 up 45 num_separator 0.244304895401
+vonat SNARC color dot DC 0 up 40 num_separator 0.448552131653
+vonat SNARC color dot DC 0 up 15 num_separator 0.300538063049
+vonat SNARC color dot DC 0 down 10 lctrl 0.393175125122
+vonat SNARC color dot DC 0 up 40 num_separator 0.352616071701
+vonat SNARC color dot DC 0 down 35 lctrl 0.348901987076
+vonat SNARC color dot DC 0 down 20 lctrl 0.376677036285
+vonat SNARC color dot DC 0 down 45 lctrl 0.284590005875
+vonat SNARC color dot DC 0 up 40 num_separator 0.416944026947
+vonat SNARC color dot DC 0 up 15 num_separator 0.38041305542
+vonat SNARC color dot DC 0 up 5 num_separator 0.341518878937
+vonat SNARC color dot DC 0 down 25 lctrl 0.39742398262
+vonat SNARC color dot DC 0 up 30 num_separator 0.424695968628
+vonat SNARC color dot DC 0 down 40 lctrl 0.457452058792
+vonat SNARC color dot DC 0 down 15 lctrl 0.501019954681
+vonat SNARC color dot DC 0 down 10 lctrl 0.512908935547
+vonat SNARC color dot DC 0 up 10 num_separator 0.440189123154
+vonat SNARC color dot DC 0 up 40 num_separator 0.335884809494
+vonat SNARC color dot DC 0 down 45 lctrl 0.445136070251
+vonat SNARC color dot DC 0 up 40 num_separator 0.449047088623
+vonat SNARC color dot DC 0 up 25 num_separator 0.372376203537
+vonat SNARC color dot DC 0 down 25 lctrl 2.62095189095
+vonat SNARC color dot DC 0 up 10 num_separator 0.343977928162
+vonat SNARC color dot DC 0 up 20 num_separator 0.401152133942
+vonat SNARC color dot DC 0 down 30 lctrl 0.453037977219
+vonat SNARC color dot DC 0 up 25 num_separator 0.381086826324
+vonat SNARC color dot DC 0 up 10 num_separator 0.314030170441
+vonat SNARC color dot DC 0 up 15 num_separator 0.276360988617
+vonat SNARC color dot DC 0 up 10 num_separator 0.289345979691
+vonat SNARC color dot DC 0 down 10 lctrl 0.426069974899
+vonat SNARC color dot DC 0 down 15 lctrl 0.356644868851
+vonat SNARC color dot DC 0 up 5 num_separator 0.381021022797
+vonat SNARC color dot DC 0 down 45 lctrl 0.35636305809
+vonat SNARC color dot DC 0 down 20 lctrl 0.336602926254
+vonat SNARC color dot DC 0 up 25 num_separator 0.33179807663
+vonat SNARC color dot DC 0 down 5 lctrl 0.349938154221
+vonat SNARC color dot DC 0 down 25 lctrl 0.48459815979
+vonat SNARC color dot DC 0 up 25 num_separator 0.36381316185
+vonat SNARC color dot DC 0 down 35 lctrl 0.300446033478
+vonat SNARC color dot DC 0 down 35 lctrl 0.324293851852
+vonat SNARC color dot DC 0 down 30 lctrl 0.297751903534
+vonat SNARC color dot DC 0 up 30 num_separator 0.393900871277
+vonat SNARC color dot DC 0 down 30 lctrl 1.5930891037
+vonat SNARC color dot DC 0 down 45 lctrl 0.350411176682
+vonat SNARC color dot DC 0 up 40 num_separator 0.423330068588
+vonat SNARC color dot DC 0 up 35 num_separator 0.308459043503
+vonat SNARC color dot DC 0 down 35 lctrl 0.365499973297
+vonat SNARC color dot DC 0 up 5 num_separator 0.364377975464
+vonat SNARC color dot DC 0 down 45 lctrl 0.324512004852
+vonat SNARC color dot DC 0 down 5 lctrl 0.397107839584
+vonat SNARC color dot DC 0 up 15 num_separator 0.404385089874
+vonat SNARC color dot DC 0 down 40 lctrl 0.360999107361
+vonat SNARC color dot DC 0 down 10 lctrl 0.400936841965
+vonat SNARC color dot DC 0 up 30 num_separator 0.503185033798
+vonat SNARC color dot DC 0 down 30 lctrl 0.496216058731
+vonat SNARC color dot DC 0 up 20 num_separator 0.472836971283
+vonat SNARC color dot DC 0 down 15 lctrl 0.389462947845
+vonat SNARC color dot DC 0 down 5 lctrl 0.340804815292
+vonat SNARC color dot DC 0 up 20 num_separator 0.311944961548
+vonat SNARC color dot DC 0 up 45 num_separator 0.269070148468
+vonat SNARC color dot DC 0 up 30 num_separator 0.312880039215
+vonat SNARC color dot DC 0 down 30 lctrl 0.401199102402
+vonat SNARC color dot DC 0 down 30 lctrl 0.321395158768
+vonat SNARC color dot DC 0 up 10 num_separator 0.361546993256
+vonat SNARC color dot DC 0 down 20 lctrl 0.424687147141
+vonat SNARC color dot DC 0 down 40 lctrl 0.352989912033
+vonat SNARC color dot DC 0 down 5 lctrl 0.380666017532
+vonat SNARC color dot DC 0 down 45 num_separator 0.324410200119
+vonat SNARC color dot DC 0 up 25 num_separator 0.507760047913
+vonat SNARC color dot DC 0 down 15 lctrl 0.429640054703
+vonat SNARC color dot DC 0 up 5 num_separator 0.412676095963
+vonat SNARC color dot DC 0 down 40 lctrl 0.528192996979
+vonat SNARC color dot DC 0 up 35 num_separator 0.365130901337
+vonat SNARC color dot DC 0 up 30 num_separator 0.296104192734
+vonat SNARC color dot DC 0 down 25 lctrl 0.349053144455
+vonat SNARC color dot DC 0 up 40 lctrl 0.393244981766
+vonat SNARC color dot DC 0 up 35 lctrl 0.468634128571
+vonat SNARC color dot DC 0 down 45 lctrl 0.660598039627
+vonat SNARC color dot DC 0 down 5 lctrl 0.39644408226
+vonat SNARC color dot DC 0 up 5 num_separator 0.428385019302
+vonat SNARC color dot DC 0 down 35 lctrl 0.605617046356
+vonat SNARC color dot DC 0 down 25 lctrl 0.677503108978
+vonat SNARC color dot DC 0 down 10 lctrl 0.319934129715
+vonat SNARC color dot DC 0 down 15 lctrl 0.276109933853
+vonat SNARC color dot DC 0 up 25 num_separator 0.397722005844
+vonat SNARC color dot DC 0 up 15 num_separator 0.411576986313
+vonat SNARC color dot DC 0 down 25 lctrl 0.453496932983
+vonat SNARC color dot DC 0 up 10 num_separator 0.297094106674
+vonat SNARC color dot DC 0 down 30 lctrl 0.361374139786
+vonat SNARC color dot DC 0 down 40 lctrl 0.544929981232
+vonat SNARC color dot DC 0 up 35 num_separator 0.459786176682
+vonat SNARC color dot DC 0 down 20 lctrl 1.04162693024
+vonat SNARC color dot DC 0 up 40 num_separator 0.376950979233
+vonat SNARC color dot DC 0 down 35 lctrl 0.348747968674
+vonat SNARC color dot DC 0 down 10 lctrl 0.433248996735
+vonat SNARC color dot DC 0 up 30 num_separator 0.503782987595
+vonat SNARC color dot DC 0 up 45 num_separator 0.355841875076
+vonat SNARC color dot DC 0 down 10 lctrl 0.632883071899
+vonat SNARC color dot DC 0 up 15 num_separator 0.525012969971
+vonat SNARC color dot DC 0 down 5 lctrl 0.493229866028
+vonat SNARC color dot DC 0 up 15 num_separator 0.404042959213
+vonat SNARC color dot DC 0 down 20 lctrl 0.36047410965
+vonat SNARC color dot DC 0 down 15 lctrl 0.389537811279
+vonat SNARC color dot DC 0 up 10 num_separator 0.608943939209
+vonat SNARC color dot DC 0 down 40 lctrl 0.408818006516
+vonat SNARC color dot DC 0 down 15 lctrl 0.356771945953
+vonat SNARC color dot DC 0 up 35 num_separator 0.379717111588
+vonat SNARC color dot DC 0 down 10 lctrl 0.369542837143
+vonat SNARC color dot DC 0 up 35 num_separator 0.491932868958
+vonat SNARC color dot DC 0 down 15 lctrl 0.357493877411
+vonat SNARC color dot DC 0 down 10 lctrl 0.328444004059
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'03_23_1123', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'vonat', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+vonat SNARC color arabic DC 0 down 7 lctrl 0.541115999222
+vonat SNARC color arabic DC 0 up 3 num_separator 0.449652910233
+vonat SNARC color arabic DC 0 down 8 lctrl 0.418561935425
+vonat SNARC color arabic DC 0 down 1 lctrl 0.401064157486
+vonat SNARC color arabic DC 0 up 7 num_separator 0.362509012222
+vonat SNARC color arabic DC 0 up 7 num_separator 0.33952498436
+vonat SNARC color arabic DC 0 up 5 num_separator 0.322199821472
+vonat SNARC color arabic DC 0 up 9 num_separator 0.321623086929
+vonat SNARC color arabic DC 0 down 7 lctrl 0.380624055862
+vonat SNARC color arabic DC 0 up 1 num_separator 0.369796037674
+vonat SNARC color arabic DC 0 down 7 lctrl 0.283095836639
+vonat SNARC color arabic DC 0 up 7 num_separator 0.427045106888
+vonat SNARC color arabic DC 0 down 6 lctrl 0.354769945145
+vonat SNARC color arabic DC 0 down 4 lctrl 0.370718002319
+vonat SNARC color arabic DC 0 up 6 num_separator 0.338577985764
+vonat SNARC color arabic DC 0 down 4 lctrl 0.427697896957
+vonat SNARC color arabic DC 0 down 6 lctrl 0.378879070282
+vonat SNARC color arabic DC 0 down 9 lctrl 0.299046993256
+vonat SNARC color arabic DC 0 up 1 num_separator 0.394672870636
+vonat SNARC color arabic DC 0 up 5 num_separator 0.32259106636
+vonat SNARC color arabic DC 0 down 5 lctrl 0.355857133865
+vonat SNARC color arabic DC 0 down 7 lctrl 0.339453935623
+vonat SNARC color arabic DC 0 up 8 num_separator 0.394692182541
+vonat SNARC color arabic DC 0 up 7 lctrl 0.371559143066
+vonat SNARC color arabic DC 0 down 9 lctrl 0.804890155792
+vonat SNARC color arabic DC 0 up 6 num_separator 0.362906932831
+vonat SNARC color arabic DC 0 down 9 lctrl 0.355786085129
+vonat SNARC color arabic DC 0 up 5 num_separator 0.762727975845
+vonat SNARC color arabic DC 0 up 1 num_separator 0.360712051392
+vonat SNARC color arabic DC 0 down 6 lctrl 0.345818996429
+vonat SNARC color arabic DC 0 down 4 lctrl 0.315051078796
+vonat SNARC color arabic DC 0 up 2 num_separator 0.409048080444
+vonat SNARC color arabic DC 0 down 2 lctrl 0.572707891464
+vonat SNARC color arabic DC 0 up 2 num_separator 0.361224889755
+vonat SNARC color arabic DC 0 down 4 lctrl 0.314237117767
+vonat SNARC color arabic DC 0 down 8 lctrl 0.347213029861
+vonat SNARC color arabic DC 0 up 8 num_separator 0.34703707695
+vonat SNARC color arabic DC 0 up 9 num_separator 0.426513910294
+vonat SNARC color arabic DC 0 down 5 lctrl 0.364002943039
+vonat SNARC color arabic DC 0 down 7 lctrl 0.347265005112
+vonat SNARC color arabic DC 0 down 2 lctrl 0.283355951309
+vonat SNARC color arabic DC 0 up 3 num_separator 0.355274200439
+vonat SNARC color arabic DC 0 down 7 lctrl 0.363869905472
+vonat SNARC color arabic DC 0 down 5 lctrl 0.379541873932
+vonat SNARC color arabic DC 0 down 2 lctrl 0.337826967239
+vonat SNARC color arabic DC 0 up 6 num_separator 0.354975938797
+vonat SNARC color arabic DC 0 up 9 num_separator 0.306246042252
+vonat SNARC color arabic DC 0 up 3 num_separator 0.346615076065
+vonat SNARC color arabic DC 0 up 3 num_separator 0.314996957779
+vonat SNARC color arabic DC 0 up 8 num_separator 0.299109220505
+vonat SNARC color arabic DC 0 down 1 lctrl 0.339488983154
+vonat SNARC color arabic DC 0 down 1 lctrl 0.259472846985
+vonat SNARC color arabic DC 0 down 1 lctrl 0.258308887482
+vonat SNARC color arabic DC 0 down 7 lctrl 0.355218887329
+vonat SNARC color arabic DC 0 up 1 num_separator 0.450606107712
+vonat SNARC color arabic DC 0 down 4 lctrl 0.410203933716
+vonat SNARC color arabic DC 0 up 9 num_separator 0.450348138809
+vonat SNARC color arabic DC 0 down 4 lctrl 0.363327026367
+vonat SNARC color arabic DC 0 down 2 lctrl 0.346781015396
+vonat SNARC color arabic DC 0 up 5 num_separator 0.362957954407
+vonat SNARC color arabic DC 0 down 6 lctrl 0.411345005035
+vonat SNARC color arabic DC 0 down 4 lctrl 0.330668926239
+vonat SNARC color arabic DC 0 down 5 lctrl 0.323596000671
+vonat SNARC color arabic DC 0 up 5 num_separator 0.370874881744
+vonat SNARC color arabic DC 0 down 9 lctrl 0.362223148346
+vonat SNARC color arabic DC 0 up 3 num_separator 0.338012933731
+vonat SNARC color arabic DC 0 up 9 num_separator 0.370700836182
+vonat SNARC color arabic DC 0 down 3 lctrl 0.339195013046
+vonat SNARC color arabic DC 0 up 5 num_separator 0.434831142426
+vonat SNARC color arabic DC 0 up 8 num_separator 0.355037927628
+vonat SNARC color arabic DC 0 down 9 lctrl 0.355507850647
+vonat SNARC color arabic DC 0 up 6 num_separator 0.442977905273
+vonat SNARC color arabic DC 0 down 2 lctrl 0.419048070908
+vonat SNARC color arabic DC 0 down 3 lctrl 0.329518079758
+vonat SNARC color arabic DC 0 up 9 num_separator 0.386207818985
+vonat SNARC color arabic DC 0 down 6 lctrl 0.411377906799
+vonat SNARC color arabic DC 0 up 6 lctrl 0.403450012207
+vonat SNARC color arabic DC 0 up 7 num_separator 0.378143072128
+vonat SNARC color arabic DC 0 up 1 num_separator 0.322660923004
+vonat SNARC color arabic DC 0 up 5 num_separator 0.347120046616
+vonat SNARC color arabic DC 0 down 6 lctrl 0.371984958649
+vonat SNARC color arabic DC 0 down 6 lctrl 0.323458194733
+vonat SNARC color arabic DC 0 up 8 num_separator 0.313336133957
+vonat SNARC color arabic DC 0 down 3 lctrl 0.251691102982
+vonat SNARC color arabic DC 0 down 6 lctrl 0.330932855606
+vonat SNARC color arabic DC 0 down 5 lctrl 0.314184188843
+vonat SNARC color arabic DC 0 up 7 num_separator 0.386255025864
+vonat SNARC color arabic DC 0 up 2 num_separator 0.313988924026
+vonat SNARC color arabic DC 0 down 1 lctrl 0.387059926987
+vonat SNARC color arabic DC 0 down 1 lctrl 0.265985965729
+vonat SNARC color arabic DC 0 down 2 lctrl 0.331065893173
+vonat SNARC color arabic DC 0 down 9 lctrl 0.306751012802
+vonat SNARC color arabic DC 0 up 6 num_separator 0.314158916473
+vonat SNARC color arabic DC 0 up 7 num_separator 0.266752958298
+vonat SNARC color arabic DC 0 down 3 lctrl 0.372350931168
+vonat SNARC color arabic DC 0 up 4 lctrl 0.402260065079
+vonat SNARC color arabic DC 0 up 1 num_separator 0.497940063477
+vonat SNARC color arabic DC 0 up 3 num_separator 0.347275972366
+vonat SNARC color arabic DC 0 down 8 lctrl 0.4192237854
+vonat SNARC color arabic DC 0 down 4 lctrl 0.354782104492
+vonat SNARC color arabic DC 0 down 3 lctrl 0.306710958481
+vonat SNARC color arabic DC 0 up 6 num_separator 0.35468506813
+vonat SNARC color arabic DC 0 up 5 num_separator 0.307018995285
+vonat SNARC color arabic DC 0 down 5 lctrl 0.395356893539
+vonat SNARC color arabic DC 0 down 4 lctrl 0.337589025497
+vonat SNARC color arabic DC 0 up 6 num_separator 0.362601041794
+vonat SNARC color arabic DC 0 down 1 lctrl 0.38720703125
+vonat SNARC color arabic DC 0 down 2 lctrl 0.370783090591
+vonat SNARC color arabic DC 0 up 5 num_separator 0.346522808075
+vonat SNARC color arabic DC 0 down 4 lctrl 0.379122972488
+vonat SNARC color arabic DC 0 up 3 num_separator 0.394520044327
+vonat SNARC color arabic DC 0 down 5 lctrl 0.362885951996
+vonat SNARC color arabic DC 0 down 1 lctrl 0.323162078857
+vonat SNARC color arabic DC 0 up 4 num_separator 0.362076044083
+vonat SNARC color arabic DC 0 up 8 num_separator 0.307344198227
+vonat SNARC color arabic DC 0 down 8 lctrl 0.347465991974
+vonat SNARC color arabic DC 0 down 2 num_separator 0.330847024918
+vonat SNARC color arabic DC 0 up 2 num_separator 0.546710968018
+vonat SNARC color arabic DC 0 down 6 lctrl 0.37873005867
+vonat SNARC color arabic DC 0 up 4 num_separator 0.338176012039
+vonat SNARC color arabic DC 0 up 7 num_separator 0.387769937515
+vonat SNARC color arabic DC 0 up 8 num_separator 0.298173189163
+vonat SNARC color arabic DC 0 down 9 lctrl 0.315049886703
+vonat SNARC color arabic DC 0 down 8 lctrl 0.307158946991
+vonat SNARC color arabic DC 0 down 7 lctrl 0.274390220642
+vonat SNARC color arabic DC 0 down 7 lctrl 0.2825319767
+vonat SNARC color arabic DC 0 up 2 num_separator 0.361243963242
+vonat SNARC color arabic DC 0 up 2 num_separator 0.265604972839
+vonat SNARC color arabic DC 0 down 2 lctrl 0.315365076065
+vonat SNARC color arabic DC 0 up 8 num_separator 0.355150222778
+vonat SNARC color arabic DC 0 down 3 lctrl 0.411467075348
+vonat SNARC color arabic DC 0 down 6 lctrl 0.387067079544
+vonat SNARC color arabic DC 0 up 5 num_separator 0.434628009796
+vonat SNARC color arabic DC 0 up 4 num_separator 0.347112178802
+vonat SNARC color arabic DC 0 up 2 num_separator 0.330243110657
+vonat SNARC color arabic DC 0 down 8 lctrl 0.346837043762
+vonat SNARC color arabic DC 0 up 1 num_separator 0.343565940857
+vonat SNARC color arabic DC 0 down 3 lctrl 0.787456035614
+vonat SNARC color arabic DC 0 up 9 num_separator 0.338618040085
+vonat SNARC color arabic DC 0 down 7 lctrl 0.314622163773
+vonat SNARC color arabic DC 0 down 7 lctrl 0.339018106461
+vonat SNARC color arabic DC 0 down 5 lctrl 0.290750980377
+vonat SNARC color arabic DC 0 up 6 num_separator 0.322053909302
+vonat SNARC color arabic DC 0 down 4 lctrl 0.348323822021
+vonat SNARC color arabic DC 0 up 2 num_separator 0.361975908279
+vonat SNARC color arabic DC 0 down 5 lctrl 0.258224010468
+vonat SNARC color arabic DC 0 up 8 num_separator 0.371300935745
+vonat SNARC color arabic DC 0 up 6 num_separator 0.322787046432
+vonat SNARC color arabic DC 0 down 5 lctrl 0.340021848679
+vonat SNARC color arabic DC 0 up 2 num_separator 0.361788034439
+vonat SNARC color arabic DC 0 down 3 lctrl 0.284185171127
+vonat SNARC color arabic DC 0 down 2 lctrl 0.331243991852
+vonat SNARC color arabic DC 0 up 6 num_separator 0.3864569664
+vonat SNARC color arabic DC 0 up 7 num_separator 0.322922945023
+vonat SNARC color arabic DC 0 down 9 lctrl 0.322127819061
+vonat SNARC color arabic DC 0 up 1 num_separator 0.353590011597
+vonat SNARC color arabic DC 0 up 5 num_separator 0.306658029556
+vonat SNARC color arabic DC 0 up 8 num_separator 0.274804115295
+vonat SNARC color arabic DC 0 down 3 lctrl 0.332262992859
+vonat SNARC color arabic DC 0 down 3 num_separator 0.313944816589
+vonat SNARC color arabic DC 0 down 3 lctrl 0.314993143082
+vonat SNARC color arabic DC 0 up 3 num_separator 0.47431397438
+vonat SNARC color arabic DC 0 up 1 num_separator 0.32984995842
+vonat SNARC color arabic DC 0 up 3 num_separator 0.2815990448
+vonat SNARC color arabic DC 0 up 9 num_separator 0.307080984116
+vonat SNARC color arabic DC 0 up 2 num_separator 0.346873044968
+vonat SNARC color arabic DC 0 down 8 lctrl 0.315967082977
+vonat SNARC color arabic DC 0 down 4 lctrl 0.283486127853
+vonat SNARC color arabic DC 0 down 4 lctrl 0.314208030701
+vonat SNARC color arabic DC 0 up 3 num_separator 0.354855060577
+vonat SNARC color arabic DC 0 up 4 num_separator 0.299068927765
+vonat SNARC color arabic DC 0 up 7 num_separator 0.275104999542
+vonat SNARC color arabic DC 0 down 8 lctrl 0.370427131653
+vonat SNARC color arabic DC 0 up 9 num_separator 0.450294971466
+vonat SNARC color arabic DC 0 up 6 num_separator 0.417242050171
+vonat SNARC color arabic DC 0 down 1 lctrl 0.411581039429
+vonat SNARC color arabic DC 0 down 7 num_separator 0.346812009811
+vonat SNARC color arabic DC 0 up 1 num_separator 0.386447191238
+vonat SNARC color arabic DC 0 up 8 num_separator 0.338325023651
+vonat SNARC color arabic DC 0 down 2 lctrl 0.347497940063
+vonat SNARC color arabic DC 0 down 8 lctrl 0.290483951569
+vonat SNARC color arabic DC 0 up 6 num_separator 0.36207818985
+vonat SNARC color arabic DC 0 down 2 num_separator 0.298127174377
+vonat SNARC color arabic DC 0 up 7 num_separator 0.538488864899
+vonat SNARC color arabic DC 0 down 8 lctrl 0.419520139694
+vonat SNARC color arabic DC 0 down 1 lctrl 0.306725025177
+vonat SNARC color arabic DC 0 up 4 num_separator 0.322825193405
+vonat SNARC color arabic DC 0 up 8 num_separator 0.274160146713
+vonat SNARC color arabic DC 0 up 6 num_separator 0.274075031281
+vonat SNARC color arabic DC 0 down 6 num_separator 0.218184232712
+vonat SNARC color arabic DC 0 up 8 num_separator 0.86613702774
+vonat SNARC color arabic DC 0 down 9 lctrl 0.378718852997
+vonat SNARC color arabic DC 0 up 5 lctrl 0.266319990158
+vonat SNARC color arabic DC 0 up 6 num_separator 0.442276000977
+vonat SNARC color arabic DC 0 up 1 num_separator 0.282598972321
+vonat SNARC color arabic DC 0 up 5 num_separator 0.27414393425
+vonat SNARC color arabic DC 0 down 4 lctrl 0.410930156708
+vonat SNARC color arabic DC 0 down 5 lctrl 0.291266918182
+vonat SNARC color arabic DC 0 down 5 lctrl 0.386152982712
+vonat SNARC color arabic DC 0 up 2 num_separator 0.337973833084
+vonat SNARC color arabic DC 0 up 3 num_separator 0.274008989334
+vonat SNARC color arabic DC 0 up 4 num_separator 0.306379079819
+vonat SNARC color arabic DC 0 down 6 lctrl 0.363773107529
+vonat SNARC color arabic DC 0 down 5 num_separator 0.265846967697
+vonat SNARC color arabic DC 0 up 6 num_separator 0.46652007103
+vonat SNARC color arabic DC 0 up 9 num_separator 0.291483879089
+vonat SNARC color arabic DC 0 down 2 lctrl 0.38783288002
+vonat SNARC color arabic DC 0 up 4 num_separator 0.346914052963
+vonat SNARC color arabic DC 0 up 8 num_separator 0.330284118652
+vonat SNARC color arabic DC 0 down 8 lctrl 0.299376010895
+vonat SNARC color arabic DC 0 up 4 lctrl 0.338576078415
+vonat SNARC color arabic DC 0 down 7 lctrl 0.418595075607
+vonat SNARC color arabic DC 0 up 7 num_separator 0.531101942062
+vonat SNARC color arabic DC 0 down 8 lctrl 0.466480970383
+vonat SNARC color arabic DC 0 up 9 num_separator 0.378475904465
+vonat SNARC color arabic DC 0 down 2 lctrl 0.45178604126
+vonat SNARC color arabic DC 0 down 4 lctrl 0.379730939865
+vonat SNARC color arabic DC 0 down 7 lctrl 0.290481090546
+vonat SNARC color arabic DC 0 down 8 lctrl 0.337480068207
+vonat SNARC color arabic DC 0 up 3 num_separator 0.35410618782
+vonat SNARC color arabic DC 0 down 3 lctrl 0.475396871567
+vonat SNARC color arabic DC 0 up 8 num_separator 0.353703975677
+vonat SNARC color arabic DC 0 up 4 num_separator 0.370311021805
+vonat SNARC color arabic DC 0 up 4 num_separator 0.314454078674
+vonat SNARC color arabic DC 0 up 4 num_separator 0.306661844254
+vonat SNARC color arabic DC 0 down 2 lctrl 0.347275018692
+vonat SNARC color arabic DC 0 down 5 lctrl 0.354120016098
+vonat SNARC color arabic DC 0 up 8 num_separator 0.362869024277
+vonat SNARC color arabic DC 0 up 2 num_separator 0.290369987488
+vonat SNARC color arabic DC 0 up 8 num_separator 0.283126831055
+vonat SNARC color arabic DC 0 down 2 lctrl 0.371058940887
+vonat SNARC color arabic DC 0 up 1 num_separator 0.962225914001
+vonat SNARC color arabic DC 0 down 3 lctrl 0.451235055923
+vonat SNARC color arabic DC 0 down 5 lctrl 0.39589881897
+vonat SNARC color arabic DC 0 up 5 num_separator 0.385700941086
+vonat SNARC color arabic DC 0 down 5 lctrl 0.3771879673
+vonat SNARC color arabic DC 0 down 4 num_separator 0.330417871475
+vonat SNARC color arabic DC 0 up 4 num_separator 0.39480304718
+vonat SNARC color arabic DC 0 up 1 num_separator 0.274826049805
+vonat SNARC color arabic DC 0 up 4 lctrl 0.32425904274
+vonat SNARC color arabic DC 0 down 3 lctrl 0.570223093033
+vonat SNARC color arabic DC 0 down 2 lctrl 0.322480201721
+vonat SNARC color arabic DC 0 up 1 num_separator 0.43492603302
+vonat SNARC color arabic DC 0 down 5 lctrl 0.378974914551
+vonat SNARC color arabic DC 0 down 6 lctrl 0.335745096207
+vonat SNARC color arabic DC 0 down 9 lctrl 0.274991989136
+vonat SNARC color arabic DC 0 up 1 num_separator 0.363455057144
+vonat SNARC color arabic DC 0 up 1 num_separator 0.290848016739
+vonat SNARC color arabic DC 0 up 7 num_separator 0.265796899796
+vonat SNARC color arabic DC 0 up 7 num_separator 0.306741952896
+vonat SNARC color arabic DC 0 up 1 num_separator 0.259166002274
+vonat SNARC color arabic DC 0 down 3 lctrl 0.275275945663
+vonat SNARC color arabic DC 0 down 4 lctrl 0.250518083572
+vonat SNARC color arabic DC 0 down 1 lctrl 0.258569955826
+vonat SNARC color arabic DC 0 up 9 num_separator 0.385622024536
+vonat SNARC color arabic DC 0 up 5 num_separator 0.25927400589
+vonat SNARC color arabic DC 0 up 7 num_separator 0.267175197601
+vonat SNARC color arabic DC 0 down 9 lctrl 0.363527059555
+vonat SNARC color arabic DC 0 down 2 lctrl 0.195111989975
+vonat SNARC color arabic DC 0 up 1 num_separator 0.370298147202
+vonat SNARC color arabic DC 0 down 3 lctrl 0.347759962082
+vonat SNARC color arabic DC 0 down 1 lctrl 0.251450061798
+vonat SNARC color arabic DC 0 up 6 num_separator 0.377321004868
+vonat SNARC color arabic DC 0 up 5 num_separator 0.770936012268
+vonat SNARC color arabic DC 0 down 6 lctrl 0.387013912201
+vonat SNARC color arabic DC 0 up 8 num_separator 0.377846002579
+vonat SNARC color arabic DC 0 up 9 num_separator 0.306965112686
+vonat SNARC color arabic DC 0 up 2 num_separator 0.266951084137
+vonat SNARC color arabic DC 0 down 7 lctrl 0.28258895874
+vonat SNARC color arabic DC 0 down 3 lctrl 0.258910179138
+vonat SNARC color arabic DC 0 up 7 num_separator 0.387265920639
+vonat SNARC color arabic DC 0 up 6 num_separator 0.234724998474
+vonat SNARC color arabic DC 0 up 7 num_separator 0.274566888809
+vonat SNARC color arabic DC 0 up 5 num_separator 0.250679016113
+vonat SNARC color arabic DC 0 down 5 lctrl 0.371412992477
+vonat SNARC color arabic DC 0 up 9 num_separator 0.338963985443
+vonat SNARC color arabic DC 0 up 3 num_separator 0.330636024475
+vonat SNARC color arabic DC 0 up 4 num_separator 0.291349887848
+vonat SNARC color arabic DC 0 down 2 lctrl 0.275509119034
+vonat SNARC color arabic DC 0 down 6 lctrl 0.306082010269
+vonat SNARC color arabic DC 0 up 9 lctrl 0.241779088974
+vonat SNARC color arabic DC 0 up 8 num_separator 0.273710012436
+vonat SNARC color arabic DC 0 down 5 lctrl 0.522089004517
+vonat SNARC color arabic DC 0 up 2 num_separator 0.362581014633
+vonat SNARC color arabic DC 0 up 9 num_separator 0.530768156052
+vonat SNARC color arabic DC 0 down 5 lctrl 0.371289968491
+vonat SNARC color arabic DC 0 down 9 lctrl 0.282138109207
+vonat SNARC color arabic DC 0 up 5 num_separator 0.370365142822
+vonat SNARC color arabic DC 0 up 5 num_separator 0.283082962036
+vonat SNARC color arabic DC 0 down 6 lctrl 0.370983839035
+vonat SNARC color arabic DC 0 down 4 lctrl 0.370012998581
+vonat SNARC color arabic DC 0 up 7 num_separator 0.410821914673
+vonat SNARC color arabic DC 0 down 9 lctrl 0.395078897476
+vonat SNARC color arabic DC 0 down 6 lctrl 0.362252950668
+vonat SNARC color arabic DC 0 up 8 num_separator 0.330265045166
+vonat SNARC color arabic DC 0 down 2 lctrl 0.364202022552
+vonat SNARC color arabic DC 0 up 2 num_separator 0.434679985046
+vonat SNARC color arabic DC 0 up 3 num_separator 0.267239093781
+vonat SNARC color arabic DC 0 up 9 num_separator 0.290813922882
+vonat SNARC color arabic DC 0 down 8 lctrl 0.379501819611
+vonat SNARC color arabic DC 0 down 2 lctrl 0.251441955566
+vonat SNARC color arabic DC 0 up 1 num_separator 0.386261940002
+vonat SNARC color arabic DC 0 up 4 num_separator 0.371339082718
+vonat SNARC color arabic DC 0 up 7 num_separator 0.291305065155
+vonat SNARC color arabic DC 0 down 8 lctrl 0.339482069016
+vonat SNARC color arabic DC 0 down 3 lctrl 0.314273118973
+vonat SNARC color arabic DC 0 down 3 lctrl 0.322779178619
+vonat SNARC color arabic DC 0 up 9 num_separator 0.417355060577
+vonat SNARC color arabic DC 0 up 9 num_separator 0.250850200653
+vonat SNARC color arabic DC 0 up 6 num_separator 0.234627962112
+vonat SNARC color arabic DC 0 up 8 num_separator 0.275236845016
+vonat SNARC color arabic DC 0 down 9 lctrl 0.330852985382
+vonat SNARC color arabic DC 0 down 2 lctrl 0.227200031281
+vonat SNARC color arabic DC 0 up 1 num_separator 0.378480911255
+vonat SNARC color arabic DC 0 down 7 num_separator 0.282929897308
+vonat SNARC color arabic DC 0 down 3 lctrl 1.93879103661
+vonat SNARC color arabic DC 0 up 5 num_separator 0.457792043686
+vonat SNARC color arabic DC 0 down 1 lctrl 0.387089014053
+vonat SNARC color arabic DC 0 up 3 num_separator 0.330291032791
+vonat SNARC color arabic DC 0 down 4 lctrl 0.538965940475
+vonat SNARC color arabic DC 0 up 7 num_separator 0.330065011978
+vonat SNARC color arabic DC 0 down 2 lctrl 0.386466026306
+vonat SNARC color arabic DC 0 down 4 num_separator 0.35462808609
+vonat SNARC color arabic DC 0 up 6 num_separator 0.417798995972
+vonat SNARC color arabic DC 0 up 1 num_separator 0.298558950424
+vonat SNARC color arabic DC 0 up 1 num_separator 0.250012159348
+vonat SNARC color arabic DC 0 up 9 num_separator 0.259257078171
+vonat SNARC color arabic DC 0 up 9 num_separator 0.306990146637
+vonat SNARC color arabic DC 0 down 4 lctrl 0.36283993721
+vonat SNARC color arabic DC 0 down 8 num_separator 0.306757926941
+vonat SNARC color arabic DC 0 up 9 num_separator 0.474223136902
+vonat SNARC color arabic DC 0 up 8 num_separator 0.410709857941
+vonat SNARC color arabic DC 0 down 2 lctrl 0.363744974136
+vonat SNARC color arabic DC 0 down 9 lctrl 0.299445867538
+vonat SNARC color arabic DC 0 down 4 lctrl 0.242416858673
+vonat SNARC color arabic DC 0 down 3 lctrl 0.298784017563
+vonat SNARC color arabic DC 0 down 1 lctrl 0.338349819183
+vonat SNARC color arabic DC 0 down 6 lctrl 0.339181900024
+vonat SNARC color arabic DC 0 down 1 lctrl 0.354614973068
+vonat SNARC color arabic DC 0 down 9 lctrl 0.346556186676
+vonat SNARC color arabic DC 0 up 2 num_separator 0.362933158875
+vonat SNARC color arabic DC 0 down 1 lctrl 0.403260946274
+vonat SNARC color arabic DC 0 down 3 lctrl 0.354125976562
+vonat SNARC color arabic DC 0 down 8 lctrl 0.402466058731
+vonat SNARC color arabic DC 0 up 6 num_separator 0.394518852234
+vonat SNARC color arabic DC 0 down 7 lctrl 0.411772966385
+vonat SNARC color arabic DC 0 up 1 num_separator 0.355190038681
+vonat SNARC color arabic DC 0 up 3 num_separator 0.394869089127
+vonat SNARC color arabic DC 0 up 3 num_separator 0.290865182877
+vonat SNARC color arabic DC 0 down 4 lctrl 0.362983942032
+vonat SNARC color arabic DC 0 up 7 num_separator 0.395121097565
+vonat SNARC color arabic DC 0 up 8 num_separator 0.323033094406
+vonat SNARC color arabic DC 0 down 7 lctrl 0.336837053299
+vonat SNARC color arabic DC 0 down 3 lctrl 0.290567874908
+vonat SNARC color arabic DC 0 down 1 lctrl 0.267158985138
+vonat SNARC color arabic DC 0 down 4 num_separator 0.298845052719
+vonat SNARC color arabic DC 0 down 7 num_separator 0.418277978897
+vonat SNARC color arabic DC 0 down 9 lctrl 0.619336843491
+vonat SNARC color arabic DC 0 up 6 num_separator 0.370655059814
+vonat SNARC color arabic DC 0 down 9 lctrl 0.443716049194
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'03_23_1130', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'vonat', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+vonat SNARC color dot CD 0 up 5 lctrl 0.764591932297
+vonat SNARC color dot CD 0 down 15 num_separator 0.396677017212
+vonat SNARC color dot CD 0 down 5 num_separator 0.341122150421
+vonat SNARC color dot CD 0 up 25 lctrl 0.349869012833
+vonat SNARC color dot CD 0 down 5 num_separator 0.372346162796
+vonat SNARC color dot CD 0 down 15 num_separator 0.349049091339
+vonat SNARC color dot CD 0 down 35 num_separator 0.325122833252
+vonat SNARC color dot CD 0 up 5 lctrl 0.390188932419
+vonat SNARC color dot CD 0 up 20 lctrl 0.354180812836
+vonat SNARC color dot CD 0 up 30 lctrl 0.297538042068
+vonat SNARC color dot CD 0 down 40 num_separator 0.362743139267
+vonat SNARC color dot CD 0 down 10 num_separator 0.31342792511
+vonat SNARC color dot CD 0 up 20 lctrl 0.450431108475
+vonat SNARC color dot CD 0 down 5 num_separator 0.362195968628
+vonat SNARC color dot CD 0 down 40 num_separator 0.367295026779
+vonat SNARC color dot CD 0 down 25 num_separator 0.285664796829
+vonat SNARC color dot CD 0 up 10 lctrl 0.449481010437
+vonat SNARC color dot CD 0 up 15 lctrl 0.374002933502
+vonat SNARC color dot CD 0 up 10 lctrl 0.336719989777
+vonat SNARC color dot CD 0 down 40 num_separator 0.338145971298
+vonat SNARC color dot CD 0 up 30 lctrl 0.3378469944
+vonat SNARC color dot CD 0 down 35 num_separator 0.302510976791
+vonat SNARC color dot CD 0 up 45 lctrl 0.271131038666
+vonat SNARC color dot CD 0 down 20 num_separator 0.361398935318
+vonat SNARC color dot CD 0 down 30 lctrl 0.275008916855
+vonat SNARC color dot CD 0 up 35 lctrl 0.546548843384
+vonat SNARC color dot CD 0 down 5 num_separator 0.380621910095
+vonat SNARC color dot CD 0 up 20 lctrl 0.906774997711
+vonat SNARC color dot CD 0 up 5 lctrl 0.380959033966
+vonat SNARC color dot CD 0 up 35 lctrl 0.31774520874
+vonat SNARC color dot CD 0 down 20 num_separator 0.401324987411
+vonat SNARC color dot CD 0 up 35 lctrl 0.381388902664
+vonat SNARC color dot CD 0 down 45 num_separator 0.373383998871
+vonat SNARC color dot CD 0 up 10 lctrl 0.465483903885
+vonat SNARC color dot CD 0 down 40 num_separator 0.345965147018
+vonat SNARC color dot CD 0 up 45 num_separator 0.46199798584
+vonat SNARC color dot CD 0 down 45 num_separator 0.469509840012
+vonat SNARC color dot CD 0 up 35 lctrl 0.325932979584
+vonat SNARC color dot CD 0 up 30 lctrl 0.409883022308
+vonat SNARC color dot CD 0 down 5 num_separator 0.628846883774
+vonat SNARC color dot CD 0 up 20 lctrl 0.354579210281
+vonat SNARC color dot CD 0 up 30 lctrl 0.378551006317
+vonat SNARC color dot CD 0 down 40 num_separator 0.377303123474
+vonat SNARC color dot CD 0 down 40 num_separator 0.322437047958
+vonat SNARC color dot CD 0 down 35 num_separator 0.285393953323
+vonat SNARC color dot CD 0 down 10 num_separator 0.425808906555
+vonat SNARC color dot CD 0 down 40 num_separator 0.330153942108
+vonat SNARC color dot CD 0 down 45 num_separator 0.285040855408
+vonat SNARC color dot CD 0 down 5 num_separator 0.364737987518
+vonat SNARC color dot CD 0 down 20 num_separator 0.314126968384
+vonat SNARC color dot CD 0 up 5 lctrl 0.477020025253
+vonat SNARC color dot CD 0 up 20 lctrl 0.353404045105
+vonat SNARC color dot CD 0 up 5 lctrl 0.3571870327
+vonat SNARC color dot CD 0 down 25 num_separator 0.36486697197
+vonat SNARC color dot CD 0 down 20 num_separator 0.289296865463
+vonat SNARC color dot CD 0 up 15 lctrl 0.406131982803
+vonat SNARC color dot CD 0 up 35 lctrl 0.254292011261
+vonat SNARC color dot CD 0 up 20 lctrl 0.289069890976
+vonat SNARC color dot CD 0 down 35 num_separator 0.404969930649
+vonat SNARC color dot CD 0 up 25 lctrl 0.342094898224
+vonat SNARC color dot CD 0 down 10 num_separator 0.417231082916
+vonat SNARC color dot CD 0 down 10 num_separator 0.337240219116
+vonat SNARC color dot CD 0 up 30 lctrl 0.368839979172
+vonat SNARC color dot CD 0 up 25 lctrl 0.332922935486
+vonat SNARC color dot CD 0 down 10 num_separator 0.369323968887
+vonat SNARC color dot CD 0 down 25 num_separator 0.261252164841
+vonat SNARC color dot CD 0 down 40 num_separator 0.337141990662
+vonat SNARC color dot CD 0 up 30 lctrl 0.410090923309
+vonat SNARC color dot CD 0 up 45 lctrl 0.245959043503
+vonat SNARC color dot CD 0 up 30 lctrl 0.250033855438
+vonat SNARC color dot CD 0 up 20 lctrl 0.243040084839
+vonat SNARC color dot CD 0 up 10 lctrl 0.376919031143
+vonat SNARC color dot CD 0 down 10 num_separator 0.376555919647
+vonat SNARC color dot CD 0 up 15 lctrl 0.421777963638
+vonat SNARC color dot CD 0 down 45 num_separator 0.324044942856
+vonat SNARC color dot CD 0 down 20 num_separator 0.344718933105
+vonat SNARC color dot CD 0 up 15 num_separator 0.300886869431
+vonat SNARC color dot CD 0 up 35 lctrl 0.477911233902
+vonat SNARC color dot CD 0 down 15 num_separator 0.356898069382
+vonat SNARC color dot CD 0 down 35 num_separator 0.341140985489
+vonat SNARC color dot CD 0 down 20 num_separator 0.353463888168
+vonat SNARC color dot CD 0 down 5 num_separator 0.380431890488
+vonat SNARC color dot CD 0 up 30 lctrl 0.417522907257
+vonat SNARC color dot CD 0 up 45 lctrl 0.222044944763
+vonat SNARC color dot CD 0 down 35 num_separator 0.412495851517
+vonat SNARC color dot CD 0 up 40 num_separator 0.249665021896
+vonat SNARC color dot CD 0 down 30 num_separator 0.551944971085
+vonat SNARC color dot CD 0 down 15 num_separator 0.317237854004
+vonat SNARC color dot CD 0 down 5 num_separator 0.348810911179
+vonat SNARC color dot CD 0 down 45 num_separator 0.285434961319
+vonat SNARC color dot CD 0 up 15 lctrl 0.397695064545
+vonat SNARC color dot CD 0 down 20 num_separator 0.465548992157
+vonat SNARC color dot CD 0 up 35 lctrl 2.20520186424
+vonat SNARC color dot CD 0 down 40 num_separator 0.385782003403
+vonat SNARC color dot CD 0 up 25 lctrl 0.406094789505
+vonat SNARC color dot CD 0 down 5 num_separator 0.340495109558
+vonat SNARC color dot CD 0 down 20 num_separator 0.304737091064
+vonat SNARC color dot CD 0 up 5 lctrl 0.373351097107
+vonat SNARC color dot CD 0 up 10 lctrl 0.312624931335
+vonat SNARC color dot CD 0 down 15 num_separator 0.348659038544
+vonat SNARC color dot CD 0 down 15 num_separator 0.283895015717
+vonat SNARC color dot CD 0 down 5 num_separator 0.372560024261
+vonat SNARC color dot CD 0 up 45 lctrl 0.35832285881
+vonat SNARC color dot CD 0 up 10 num_separator 0.287945985794
+vonat SNARC color dot CD 0 down 25 num_separator 0.628936052322
+vonat SNARC color dot CD 0 down 25 lctrl 0.349127054214
+vonat SNARC color dot CD 0 up 15 lctrl 0.596961975098
+vonat SNARC color dot CD 0 up 30 lctrl 0.369742155075
+vonat SNARC color dot CD 0 up 40 lctrl 0.257983922958
+vonat SNARC color dot CD 0 down 25 num_separator 0.357367992401
+vonat SNARC color dot CD 0 down 25 num_separator 0.261695861816
+vonat SNARC color dot CD 0 up 5 lctrl 0.348940849304
+vonat SNARC color dot CD 0 down 40 num_separator 0.498089075089
+vonat SNARC color dot CD 0 up 20 lctrl 0.35284113884
+vonat SNARC color dot CD 0 down 45 num_separator 0.355809926987
+vonat SNARC color dot CD 0 up 30 lctrl 0.289246082306
+vonat SNARC color dot CD 0 down 45 num_separator 0.286613941193
+vonat SNARC color dot CD 0 up 5 lctrl 0.341585159302
+vonat SNARC color dot CD 0 up 35 lctrl 0.333260059357
+vonat SNARC color dot CD 0 up 45 lctrl 0.341575860977
+vonat SNARC color dot CD 0 down 35 num_separator 0.33394908905
+vonat SNARC color dot CD 0 down 35 num_separator 0.253561973572
+vonat SNARC color dot CD 0 down 40 num_separator 0.297559022903
+vonat SNARC color dot CD 0 up 40 lctrl 0.401304960251
+vonat SNARC color dot CD 0 down 15 num_separator 0.405483961105
+vonat SNARC color dot CD 0 down 30 num_separator 0.35368514061
+vonat SNARC color dot CD 0 down 25 num_separator 0.301866054535
+vonat SNARC color dot CD 0 up 20 lctrl 0.409996986389
+vonat SNARC color dot CD 0 up 40 num_separator 0.339164972305
+vonat SNARC color dot CD 0 up 20 lctrl 0.336704015732
+vonat SNARC color dot CD 0 up 25 lctrl 0.317668199539
+vonat SNARC color dot CD 0 up 15 lctrl 0.293277978897
+vonat SNARC color dot CD 0 up 20 lctrl 0.250569105148
+vonat SNARC color dot CD 0 up 10 lctrl 0.352615833282
+vonat SNARC color dot CD 0 down 10 lctrl 0.329885005951
+vonat SNARC color dot CD 0 up 40 lctrl 0.360584020615
+vonat SNARC color dot CD 0 up 45 lctrl 0.414345026016
+vonat SNARC color dot CD 0 down 45 num_separator 0.390114068985
+vonat SNARC color dot CD 0 down 30 num_separator 0.313565015793
+vonat SNARC color dot CD 0 up 10 num_separator 0.329387903214
+vonat SNARC color dot CD 0 down 25 num_separator 0.477229118347
+vonat SNARC color dot CD 0 down 20 num_separator 0.3523209095
+vonat SNARC color dot CD 0 down 45 num_separator 0.261624097824
+vonat SNARC color dot CD 0 up 25 lctrl 0.350616931915
+vonat SNARC color dot CD 0 up 45 lctrl 0.24586892128
+vonat SNARC color dot CD 0 down 45 num_separator 0.413448810577
+vonat SNARC color dot CD 0 down 25 num_separator 0.349500894547
+vonat SNARC color dot CD 0 up 45 lctrl 0.357939958572
+vonat SNARC color dot CD 0 up 10 lctrl 0.353182077408
+vonat SNARC color dot CD 0 down 25 num_separator 0.420568943024
+vonat SNARC color dot CD 0 down 30 num_separator 0.32172703743
+vonat SNARC color dot CD 0 up 5 lctrl 0.348611831665
+vonat SNARC color dot CD 0 up 15 lctrl 0.277974128723
+vonat SNARC color dot CD 0 up 15 lctrl 0.340903043747
+vonat SNARC color dot CD 0 up 25 lctrl 0.278178930283
+vonat SNARC color dot CD 0 down 10 num_separator 0.425137042999
+vonat SNARC color dot CD 0 down 40 num_separator 0.28107714653
+vonat SNARC color dot CD 0 up 15 num_separator 0.340656995773
+vonat SNARC color dot CD 0 down 25 num_separator 0.485064029694
+vonat SNARC color dot CD 0 up 40 lctrl 0.53889799118
+vonat SNARC color dot CD 0 down 45 num_separator 0.373094081879
+vonat SNARC color dot CD 0 up 5 lctrl 0.389034032822
+vonat SNARC color dot CD 0 up 10 lctrl 0.360596179962
+vonat SNARC color dot CD 0 down 35 num_separator 0.389312982559
+vonat SNARC color dot CD 0 down 10 num_separator 0.285346031189
+vonat SNARC color dot CD 0 up 5 lctrl 0.477478027344
+vonat SNARC color dot CD 0 up 25 lctrl 0.277577161789
+vonat SNARC color dot CD 0 up 15 lctrl 0.276966810226
+vonat SNARC color dot CD 0 up 5 lctrl 0.316677093506
+vonat SNARC color dot CD 0 down 5 lctrl 0.332957983017
+vonat SNARC color dot CD 0 down 25 num_separator 0.308109045029
+vonat SNARC color dot CD 0 up 45 lctrl 0.360400915146
+vonat SNARC color dot CD 0 up 45 lctrl 0.30272603035
+vonat SNARC color dot CD 0 up 10 lctrl 0.345675945282
+vonat SNARC color dot CD 0 down 45 num_separator 0.380639076233
+vonat SNARC color dot CD 0 down 5 num_separator 0.309216976166
+vonat SNARC color dot CD 0 up 15 lctrl 0.437003135681
+vonat SNARC color dot CD 0 down 45 num_separator 0.317777872086
+vonat SNARC color dot CD 0 down 45 num_separator 0.277815103531
+vonat SNARC color dot CD 0 up 40 lctrl 0.435058116913
+vonat SNARC color dot CD 0 up 30 lctrl 0.26609992981
+vonat SNARC color dot CD 0 up 45 lctrl 0.269986867905
+vonat SNARC color dot CD 0 down 10 num_separator 0.361377000809
+vonat SNARC color dot CD 0 down 10 num_separator 0.31414604187
+vonat SNARC color dot CD 0 down 20 num_separator 0.266264915466
+vonat SNARC color dot CD 0 up 30 lctrl 0.305900096893
+vonat SNARC color dot CD 0 down 15 num_separator 0.340525865555
+vonat SNARC color dot CD 0 up 20 lctrl 0.256690979004
+vonat SNARC color dot CD 0 down 30 num_separator 0.280367851257
+vonat SNARC color dot CD 0 up 25 lctrl 0.351044893265
+vonat SNARC color dot CD 0 down 35 num_separator 0.317125082016
+vonat SNARC color dot CD 0 down 15 num_separator 0.349874973297
+vonat SNARC color dot CD 0 up 25 lctrl 0.390180110931
+vonat SNARC color dot CD 0 down 35 num_separator 0.493956804276
+vonat SNARC color dot CD 0 down 10 num_separator 0.401344060898
+vonat SNARC color dot CD 0 down 25 num_separator 0.396610975266
+vonat SNARC color dot CD 0 down 30 num_separator 0.32994890213
+vonat SNARC color dot CD 0 up 20 lctrl 0.322381973267
+vonat SNARC color dot CD 0 up 30 lctrl 0.265748023987
+vonat SNARC color dot CD 0 up 5 lctrl 0.28550195694
+vonat SNARC color dot CD 0 down 35 num_separator 0.332736968994
+vonat SNARC color dot CD 0 down 45 num_separator 0.286600112915
+vonat SNARC color dot CD 0 down 45 num_separator 0.318153858185
+vonat SNARC color dot CD 0 down 40 num_separator 0.281651973724
+vonat SNARC color dot CD 0 down 25 num_separator 0.355687856674
+vonat SNARC color dot CD 0 down 10 num_separator 0.257619857788
+vonat SNARC color dot CD 0 down 25 num_separator 0.310039043427
+vonat SNARC color dot CD 0 up 20 num_separator 0.272834062576
+vonat SNARC color dot CD 0 down 35 num_separator 0.420632839203
+vonat SNARC color dot CD 0 up 35 lctrl 0.390465974808
+vonat SNARC color dot CD 0 up 5 lctrl 0.284823894501
+vonat SNARC color dot CD 0 down 15 lctrl 0.28501200676
+vonat SNARC color dot CD 0 up 40 lctrl 0.530714035034
+vonat SNARC color dot CD 0 up 5 lctrl 0.397336006165
+vonat SNARC color dot CD 0 down 40 num_separator 0.393809080124
+vonat SNARC color dot CD 0 up 45 lctrl 0.390207052231
+vonat SNARC color dot CD 0 down 15 num_separator 0.317862033844
+vonat SNARC color dot CD 0 down 45 num_separator 0.621860980988
+vonat SNARC color dot CD 0 up 30 lctrl 0.465957164764
+vonat SNARC color dot CD 0 up 40 lctrl 0.338053941727
+vonat SNARC color dot CD 0 up 35 lctrl 0.261422157288
+vonat SNARC color dot CD 0 down 30 num_separator 0.281035900116
+vonat SNARC color dot CD 0 up 10 lctrl 0.37775015831
+vonat SNARC color dot CD 0 down 45 num_separator 0.342606067657
+vonat SNARC color dot CD 0 down 25 num_separator 0.373125076294
+vonat SNARC color dot CD 0 up 40 lctrl 0.385628938675
+vonat SNARC color dot CD 0 up 10 lctrl 0.314773082733
+vonat SNARC color dot CD 0 down 5 num_separator 0.484755039215
+vonat SNARC color dot CD 0 up 20 lctrl 0.369720935822
+vonat SNARC color dot CD 0 down 15 num_separator 0.28453707695
+vonat SNARC color dot CD 0 down 35 num_separator 0.30962896347
+vonat SNARC color dot CD 0 down 30 num_separator 0.280953884125
+vonat SNARC color dot CD 0 up 30 lctrl 0.369843959808
+vonat SNARC color dot CD 0 up 15 lctrl 0.389934062958
+vonat SNARC color dot CD 0 down 15 num_separator 0.420228004456
+vonat SNARC color dot CD 0 up 5 lctrl 0.348985910416
+vonat SNARC color dot CD 0 down 20 num_separator 0.641921043396
+vonat SNARC color dot CD 0 up 20 lctrl 0.354465007782
+vonat SNARC color dot CD 0 up 10 num_separator 0.352854967117
+vonat SNARC color dot CD 0 down 30 num_separator 0.472230911255
+vonat SNARC color dot CD 0 down 35 num_separator 0.309442043304
+vonat SNARC color dot CD 0 down 30 lctrl 0.338132858276
+vonat SNARC color dot CD 0 down 40 num_separator 0.337094068527
+vonat SNARC color dot CD 0 up 35 lctrl 0.398627996445
+vonat SNARC color dot CD 0 down 30 num_separator 0.434056997299
+vonat SNARC color dot CD 0 down 25 num_separator 0.356804847717
+vonat SNARC color dot CD 0 up 30 lctrl 0.37797498703
+vonat SNARC color dot CD 0 down 40 num_separator 0.361763954163
+vonat SNARC color dot CD 0 down 5 num_separator 0.309489965439
+vonat SNARC color dot CD 0 down 10 num_separator 0.264807939529
+vonat SNARC color dot CD 0 up 45 lctrl 0.381332159042
+vonat SNARC color dot CD 0 up 20 num_separator 0.345520973206
+vonat SNARC color dot CD 0 down 35 num_separator 0.469763040543
+vonat SNARC color dot CD 0 up 25 lctrl 0.437601089478
+vonat SNARC color dot CD 0 down 45 num_separator 0.374250888824
+vonat SNARC color dot CD 0 down 35 num_separator 0.372001171112
+vonat SNARC color dot CD 0 down 10 num_separator 0.321073055267
+vonat SNARC color dot CD 0 down 35 num_separator 0.333937883377
+vonat SNARC color dot CD 0 down 15 num_separator 0.308840990067
+vonat SNARC color dot CD 0 down 40 num_separator 0.282310962677
+vonat SNARC color dot CD 0 down 20 num_separator 0.345441818237
+vonat SNARC color dot CD 0 down 15 num_separator 0.277711868286
+vonat SNARC color dot CD 0 up 45 lctrl 0.48702788353
+vonat SNARC color dot CD 0 up 5 lctrl 0.365517854691
+vonat SNARC color dot CD 0 down 45 num_separator 0.373746156693
+vonat SNARC color dot CD 0 up 20 lctrl 1.12930512428
+vonat SNARC color dot CD 0 down 20 num_separator 0.336869001389
+vonat SNARC color dot CD 0 down 25 num_separator 0.35730099678
+vonat SNARC color dot CD 0 down 15 num_separator 0.342323064804
+vonat SNARC color dot CD 0 down 45 num_separator 0.293436050415
+vonat SNARC color dot CD 0 down 30 num_separator 0.264945030212
+vonat SNARC color dot CD 0 up 15 lctrl 0.421208143234
+vonat SNARC color dot CD 0 up 15 lctrl 0.269917964935
+vonat SNARC color dot CD 0 down 5 lctrl 0.34116101265
+vonat SNARC color dot CD 0 down 35 num_separator 0.357268810272
+vonat SNARC color dot CD 0 up 5 lctrl 0.341489076614
+vonat SNARC color dot CD 0 down 15 num_separator 0.485337018967
+vonat SNARC color dot CD 0 up 15 lctrl 0.436393976212
+vonat SNARC color dot CD 0 down 30 num_separator 0.377551078796
+vonat SNARC color dot CD 0 down 15 num_separator 0.373746871948
+vonat SNARC color dot CD 0 down 30 num_separator 0.28887295723
+vonat SNARC color dot CD 0 down 40 num_separator 0.322014093399
+vonat SNARC color dot CD 0 up 20 lctrl 0.393512010574
+vonat SNARC color dot CD 0 up 20 lctrl 0.273456096649
+vonat SNARC color dot CD 0 up 35 lctrl 0.26950097084
+vonat SNARC color dot CD 0 up 5 lctrl 0.28572010994
+vonat SNARC color dot CD 0 down 20 num_separator 0.480535984039
+vonat SNARC color dot CD 0 up 10 num_separator 0.289865016937
+vonat SNARC color dot CD 0 down 25 num_separator 0.789438009262
+vonat SNARC color dot CD 0 down 10 num_separator 0.321176052094
+vonat SNARC color dot CD 0 down 25 num_separator 0.324812889099
+vonat SNARC color dot CD 0 down 30 num_separator 0.361504077911
+vonat SNARC color dot CD 0 up 40 lctrl 0.385864019394
+vonat SNARC color dot CD 0 up 30 lctrl 0.29878115654
+vonat SNARC color dot CD 0 down 45 lctrl 0.278279066086
+vonat SNARC color dot CD 0 up 10 lctrl 0.672402858734
+vonat SNARC color dot CD 0 down 15 num_separator 0.340620040894
+vonat SNARC color dot CD 0 down 10 num_separator 0.329931974411
+vonat SNARC color dot CD 0 down 20 num_separator 0.337260007858
+vonat SNARC color dot CD 0 down 30 num_separator 0.297207117081
+vonat SNARC color dot CD 0 down 35 num_separator 0.342028141022
+vonat SNARC color dot CD 0 down 30 num_separator 0.290220022202
+vonat SNARC color dot CD 0 down 5 num_separator 0.413625001907
+vonat SNARC color dot CD 0 down 35 num_separator 0.308353900909
+vonat SNARC color dot CD 0 up 40 lctrl 0.393679141998
+vonat SNARC color dot CD 0 down 40 lctrl 0.306694030762
+vonat SNARC color dot CD 0 down 40 num_separator 0.761445045471
+vonat SNARC color dot CD 0 down 5 num_separator 0.324916124344
+vonat SNARC color dot CD 0 down 45 num_separator 0.285374879837
+vonat SNARC color dot CD 0 up 35 lctrl 0.414201021194
+vonat SNARC color dot CD 0 up 20 lctrl 0.321815013885
+vonat SNARC color dot CD 0 up 25 lctrl 0.30952000618
+vonat SNARC color dot CD 0 down 15 num_separator 0.372818946838
+vonat SNARC color dot CD 0 down 30 num_separator 0.312727928162
+vonat SNARC color dot CD 0 up 35 lctrl 0.33381986618
+vonat SNARC color dot CD 0 down 10 num_separator 0.337117910385
+vonat SNARC color dot CD 0 up 20 lctrl 0.282001972198
+vonat SNARC color dot CD 0 up 40 lctrl 0.483040094376
+vonat SNARC color dot CD 0 down 5 num_separator 0.348333120346
+vonat SNARC color dot CD 0 up 10 lctrl 0.409561157227
+vonat SNARC color dot CD 0 up 25 lctrl 1.78168106079
+vonat SNARC color dot CD 0 down 10 num_separator 0.376081943512
+vonat SNARC color dot CD 0 up 30 lctrl 0.496901988983
+vonat SNARC color dot CD 0 down 5 num_separator 0.381385803223
+vonat SNARC color dot CD 0 up 25 lctrl 0.382304191589
+vonat SNARC color dot CD 0 up 20 lctrl 0.288993835449
+vonat SNARC color dot CD 0 up 40 lctrl 0.258234024048
+vonat SNARC color dot CD 0 up 30 lctrl 0.249530076981
+vonat SNARC color dot CD 0 down 35 num_separator 0.405402183533
+vonat SNARC color dot CD 0 down 40 num_separator 0.385660886765
+vonat SNARC color dot CD 0 down 15 num_separator 0.33305811882
+vonat SNARC color dot CD 0 up 5 lctrl 0.540827035904
+vonat SNARC color dot CD 0 up 10 lctrl 0.273936986923
+vonat SNARC color dot CD 0 up 20 lctrl 0.297629117966
+vonat SNARC color dot CD 0 up 45 lctrl 0.366159915924
+vonat SNARC color dot CD 0 up 35 lctrl 0.276925086975
+vonat SNARC color dot CD 0 down 5 num_separator 0.403689146042
+vonat SNARC color dot CD 0 down 25 num_separator 0.269608974457
+vonat SNARC color dot CD 0 up 40 lctrl 0.394318819046
+vonat SNARC color dot CD 0 up 20 lctrl 0.320899009705
+vonat SNARC color dot CD 0 up 30 lctrl 0.329293966293
+vonat SNARC color dot CD 0 up 30 lctrl 0.289265871048
+vonat SNARC color dot CD 0 up 35 lctrl 0.261162996292
+vonat SNARC color dot CD 0 up 15 lctrl 0.254239082336
+vonat SNARC color dot CD 0 down 25 num_separator 0.388504981995
+vonat SNARC color dot CD 0 up 25 num_separator 0.269238948822
+vonat SNARC color dot CD 0 down 15 num_separator 1.27723503113
+vonat SNARC color dot CD 0 up 40 lctrl 0.377769947052
+vonat SNARC color dot CD 0 down 40 num_separator 0.258661985397
+vonat SNARC color dot CD 0 down 40 num_separator 0.385771989822
+vonat SNARC color dot CD 0 down 10 num_separator 0.369492053986
+vonat SNARC color dot CD 0 down 10 num_separator 0.337291955948
+vonat SNARC color dot CD 0 down 10 num_separator 0.313281059265
+vonat SNARC color dot CD 0 down 25 num_separator 0.300998926163
+vonat SNARC color dot CD 0 down 35 lctrl 0.318166971207
+vonat SNARC color dot CD 0 up 15 lctrl 0.548734903336
+vonat SNARC color dot CD 0 up 25 lctrl 0.508509874344
+vonat SNARC color dot CD 0 down 35 num_separator 0.349781990051
+vonat SNARC color dot CD 0 down 40 num_separator 0.265130996704
+vonat SNARC color dot CD 0 down 45 num_separator 0.262062072754
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'03_23_1138', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'vonat', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+vonat SNARC color arabic CD 0 down 8 num_separator 0.553732872009
+vonat SNARC color arabic CD 0 up 8 lctrl 0.450645208359
+vonat SNARC color arabic CD 0 up 5 lctrl 0.337911128998
+vonat SNARC color arabic CD 0 down 6 num_separator 0.362221956253
+vonat SNARC color arabic CD 0 up 6 num_separator 0.386868953705
+vonat SNARC color arabic CD 0 up 7 lctrl 0.462434053421
+vonat SNARC color arabic CD 0 down 2 num_separator 0.375901937485
+vonat SNARC color arabic CD 0 down 7 num_separator 0.316667079926
+vonat SNARC color arabic CD 0 down 2 num_separator 0.291808128357
+vonat SNARC color arabic CD 0 down 1 num_separator 0.297163009644
+vonat SNARC color arabic CD 0 up 7 lctrl 0.402444839478
+vonat SNARC color arabic CD 0 down 1 num_separator 0.353882074356
+vonat SNARC color arabic CD 0 up 8 lctrl 0.379081010818
+vonat SNARC color arabic CD 0 down 6 num_separator 0.466279983521
+vonat SNARC color arabic CD 0 up 5 lctrl 0.331763982773
+vonat SNARC color arabic CD 0 up 1 lctrl 0.329211950302
+vonat SNARC color arabic CD 0 up 8 lctrl 0.298525094986
+vonat SNARC color arabic CD 0 down 3 num_separator 0.321090936661
+vonat SNARC color arabic CD 0 down 1 num_separator 0.274577856064
+vonat SNARC color arabic CD 0 up 6 lctrl 0.361194849014
+vonat SNARC color arabic CD 0 up 7 lctrl 0.291256904602
+vonat SNARC color arabic CD 0 up 3 lctrl 0.283415079117
+vonat SNARC color arabic CD 0 down 6 num_separator 0.354437112808
+vonat SNARC color arabic CD 0 down 9 num_separator 0.25816488266
+vonat SNARC color arabic CD 0 up 6 lctrl 0.346855163574
+vonat SNARC color arabic CD 0 down 3 lctrl 0.235228061676
+vonat SNARC color arabic CD 0 up 2 lctrl 0.771097183228
+vonat SNARC color arabic CD 0 down 4 num_separator 0.365463018417
+vonat SNARC color arabic CD 0 up 1 lctrl 0.363938808441
+vonat SNARC color arabic CD 0 down 1 num_separator 0.409186840057
+vonat SNARC color arabic CD 0 down 1 num_separator 0.394330024719
+vonat SNARC color arabic CD 0 down 3 num_separator 0.298601150513
+vonat SNARC color arabic CD 0 up 4 lctrl 0.387454032898
+vonat SNARC color arabic CD 0 down 2 lctrl 0.258985996246
+vonat SNARC color arabic CD 0 up 2 lctrl 2.72279882431
+vonat SNARC color arabic CD 0 down 4 num_separator 0.410666942596
+vonat SNARC color arabic CD 0 up 2 lctrl 0.41766500473
+vonat SNARC color arabic CD 0 up 7 lctrl 0.387041091919
+vonat SNARC color arabic CD 0 down 4 num_separator 0.330811977386
+vonat SNARC color arabic CD 0 up 7 lctrl 0.331190109253
+vonat SNARC color arabic CD 0 up 3 lctrl 0.346602201462
+vonat SNARC color arabic CD 0 down 9 num_separator 0.330741882324
+vonat SNARC color arabic CD 0 down 9 num_separator 0.266996860504
+vonat SNARC color arabic CD 0 up 2 lctrl 0.331139087677
+vonat SNARC color arabic CD 0 up 1 lctrl 0.243026971817
+vonat SNARC color arabic CD 0 up 1 lctrl 0.274196863174
+vonat SNARC color arabic CD 0 down 1 lctrl 0.290781974792
+vonat SNARC color arabic CD 0 down 3 num_separator 0.329799890518
+vonat SNARC color arabic CD 0 up 1 lctrl 0.852047920227
+vonat SNARC color arabic CD 0 up 5 lctrl 0.322391033173
+vonat SNARC color arabic CD 0 down 3 num_separator 0.378836154938
+vonat SNARC color arabic CD 0 down 3 num_separator 0.258782863617
+vonat SNARC color arabic CD 0 up 4 lctrl 0.355750799179
+vonat SNARC color arabic CD 0 down 4 lctrl 0.355149030685
+vonat SNARC color arabic CD 0 up 2 lctrl 1.42658305168
+vonat SNARC color arabic CD 0 down 4 num_separator 0.913839817047
+vonat SNARC color arabic CD 0 down 9 num_separator 0.458957910538
+vonat SNARC color arabic CD 0 down 8 num_separator 0.370057821274
+vonat SNARC color arabic CD 0 up 7 lctrl 0.346998929977
+vonat SNARC color arabic CD 0 up 7 lctrl 0.258111953735
+vonat SNARC color arabic CD 0 up 6 lctrl 0.323693037033
+vonat SNARC color arabic CD 0 down 8 num_separator 0.354523897171
+vonat SNARC color arabic CD 0 down 1 num_separator 0.27531504631
+vonat SNARC color arabic CD 0 down 6 num_separator 0.282036066055
+vonat SNARC color arabic CD 0 down 9 num_separator 0.305208921432
+vonat SNARC color arabic CD 0 up 8 lctrl 0.315591096878
+vonat SNARC color arabic CD 0 up 4 lctrl 0.31512594223
+vonat SNARC color arabic CD 0 down 5 num_separator 0.36278796196
+vonat SNARC color arabic CD 0 up 2 lctrl 0.426409959793
+vonat SNARC color arabic CD 0 down 6 num_separator 0.466057062149
+vonat SNARC color arabic CD 0 down 9 num_separator 0.267264127731
+vonat SNARC color arabic CD 0 down 4 num_separator 0.297915220261
+vonat SNARC color arabic CD 0 up 2 lctrl 0.354770183563
+vonat SNARC color arabic CD 0 up 4 lctrl 0.314698934555
+vonat SNARC color arabic CD 0 down 8 num_separator 0.362756967545
+vonat SNARC color arabic CD 0 down 6 lctrl 0.322741031647
+vonat SNARC color arabic CD 0 up 8 lctrl 0.706655979156
+vonat SNARC color arabic CD 0 up 5 lctrl 0.386643886566
+vonat SNARC color arabic CD 0 down 4 num_separator 0.338650941849
+vonat SNARC color arabic CD 0 down 5 num_separator 0.337560176849
+vonat SNARC color arabic CD 0 up 2 lctrl 0.403307914734
+vonat SNARC color arabic CD 0 up 4 lctrl 0.210205078125
+vonat SNARC color arabic CD 0 down 8 num_separator 0.289923191071
+vonat SNARC color arabic CD 0 down 7 num_separator 0.283470869064
+vonat SNARC color arabic CD 0 up 9 lctrl 0.514240980148
+vonat SNARC color arabic CD 0 down 9 num_separator 0.36873793602
+vonat SNARC color arabic CD 0 down 5 num_separator 0.314655065536
+vonat SNARC color arabic CD 0 down 6 num_separator 0.275158882141
+vonat SNARC color arabic CD 0 up 9 lctrl 0.394561052322
+vonat SNARC color arabic CD 0 up 8 lctrl 0.283051013947
+vonat SNARC color arabic CD 0 down 7 num_separator 0.314226150513
+vonat SNARC color arabic CD 0 down 5 num_separator 0.250154972076
+vonat SNARC color arabic CD 0 up 7 lctrl 0.363958120346
+vonat SNARC color arabic CD 0 up 3 lctrl 0.274353981018
+vonat SNARC color arabic CD 0 up 6 lctrl 0.306347131729
+vonat SNARC color arabic CD 0 up 1 lctrl 0.31516122818
+vonat SNARC color arabic CD 0 down 2 num_separator 0.346505880356
+vonat SNARC color arabic CD 0 up 8 lctrl 0.387163877487
+vonat SNARC color arabic CD 0 down 9 num_separator 0.282497167587
+vonat SNARC color arabic CD 0 down 6 num_separator 0.442944049835
+vonat SNARC color arabic CD 0 up 8 lctrl 0.355807065964
+vonat SNARC color arabic CD 0 down 3 num_separator 0.442051887512
+vonat SNARC color arabic CD 0 down 5 lctrl 0.32309794426
+vonat SNARC color arabic CD 0 up 3 lctrl 0.458357095718
+vonat SNARC color arabic CD 0 up 2 lctrl 0.371011018753
+vonat SNARC color arabic CD 0 up 2 lctrl 0.314947128296
+vonat SNARC color arabic CD 0 down 3 num_separator 0.354275941849
+vonat SNARC color arabic CD 0 up 6 lctrl 0.38734292984
+vonat SNARC color arabic CD 0 up 2 lctrl 0.26603102684
+vonat SNARC color arabic CD 0 down 5 num_separator 0.385776996613
+vonat SNARC color arabic CD 0 down 3 num_separator 0.29093503952
+vonat SNARC color arabic CD 0 down 5 num_separator 0.250691175461
+vonat SNARC color arabic CD 0 up 4 lctrl 0.386393070221
+vonat SNARC color arabic CD 0 down 6 num_separator 0.370559930801
+vonat SNARC color arabic CD 0 down 8 num_separator 0.331090927124
+vonat SNARC color arabic CD 0 down 8 num_separator 0.330952882767
+vonat SNARC color arabic CD 0 up 7 lctrl 0.331959009171
+vonat SNARC color arabic CD 0 down 7 lctrl 0.249932050705
+vonat SNARC color arabic CD 0 up 9 lctrl 0.427001953125
+vonat SNARC color arabic CD 0 up 4 lctrl 0.322812080383
+vonat SNARC color arabic CD 0 up 2 lctrl 0.306627988815
+vonat SNARC color arabic CD 0 up 7 lctrl 0.283027887344
+vonat SNARC color arabic CD 0 down 5 num_separator 0.289954900742
+vonat SNARC color arabic CD 0 up 9 lctrl 0.331987142563
+vonat SNARC color arabic CD 0 down 9 num_separator 0.314827919006
+vonat SNARC color arabic CD 0 down 9 num_separator 0.267051935196
+vonat SNARC color arabic CD 0 up 7 lctrl 0.450371026993
+vonat SNARC color arabic CD 0 up 5 lctrl 0.274931907654
+vonat SNARC color arabic CD 0 up 4 lctrl 0.249302864075
+vonat SNARC color arabic CD 0 down 6 num_separator 0.346205949783
+vonat SNARC color arabic CD 0 up 9 lctrl 0.331306934357
+vonat SNARC color arabic CD 0 up 7 lctrl 0.330806016922
+vonat SNARC color arabic CD 0 down 2 num_separator 0.385500907898
+vonat SNARC color arabic CD 0 down 3 num_separator 0.235244989395
+vonat SNARC color arabic CD 0 up 2 lctrl 0.354468822479
+vonat SNARC color arabic CD 0 up 7 lctrl 0.328449010849
+vonat SNARC color arabic CD 0 down 6 num_separator 0.306211948395
+vonat SNARC color arabic CD 0 up 8 lctrl 0.251428842545
+vonat SNARC color arabic CD 0 down 5 num_separator 0.370512008667
+vonat SNARC color arabic CD 0 down 8 num_separator 0.321736812592
+vonat SNARC color arabic CD 0 up 3 num_separator 0.28267288208
+vonat SNARC color arabic CD 0 down 9 num_separator 0.497935056686
+vonat SNARC color arabic CD 0 down 9 num_separator 0.330682039261
+vonat SNARC color arabic CD 0 down 3 num_separator 0.315098047256
+vonat SNARC color arabic CD 0 up 1 lctrl 0.346791028976
+vonat SNARC color arabic CD 0 up 1 lctrl 0.234201192856
+vonat SNARC color arabic CD 0 up 2 lctrl 0.315233945847
+vonat SNARC color arabic CD 0 up 4 lctrl 0.338730812073
+vonat SNARC color arabic CD 0 down 2 num_separator 0.545506954193
+vonat SNARC color arabic CD 0 up 7 lctrl 0.387246847153
+vonat SNARC color arabic CD 0 down 8 num_separator 0.362911939621
+vonat SNARC color arabic CD 0 down 7 num_separator 0.314311027527
+vonat SNARC color arabic CD 0 down 3 num_separator 0.306582927704
+vonat SNARC color arabic CD 0 up 5 lctrl 0.370578050613
+vonat SNARC color arabic CD 0 up 8 lctrl 0.890487909317
+vonat SNARC color arabic CD 0 down 3 num_separator 0.368673801422
+vonat SNARC color arabic CD 0 up 5 lctrl 0.363409996033
+vonat SNARC color arabic CD 0 down 1 num_separator 0.306984186172
+vonat SNARC color arabic CD 0 up 9 num_separator 0.386943101883
+vonat SNARC color arabic CD 0 up 7 lctrl 0.586210012436
+vonat SNARC color arabic CD 0 down 5 num_separator 0.298923015594
+vonat SNARC color arabic CD 0 down 7 num_separator 0.250742912292
+vonat SNARC color arabic CD 0 up 9 lctrl 0.330608129501
+vonat SNARC color arabic CD 0 down 7 num_separator 0.346749067307
+vonat SNARC color arabic CD 0 up 6 lctrl 0.363091945648
+vonat SNARC color arabic CD 0 down 6 num_separator 0.266987085342
+vonat SNARC color arabic CD 0 up 9 lctrl 0.323389053345
+vonat SNARC color arabic CD 0 down 1 num_separator 0.363631010056
+vonat SNARC color arabic CD 0 down 7 num_separator 0.35414814949
+vonat SNARC color arabic CD 0 up 4 lctrl 0.355285167694
+vonat SNARC color arabic CD 0 up 9 lctrl 0.243162155151
+vonat SNARC color arabic CD 0 down 8 num_separator 0.465307950974
+vonat SNARC color arabic CD 0 down 8 num_separator 0.25848698616
+vonat SNARC color arabic CD 0 down 5 num_separator 0.275368928909
+vonat SNARC color arabic CD 0 up 2 lctrl 0.411366939545
+vonat SNARC color arabic CD 0 down 8 num_separator 0.289634943008
+vonat SNARC color arabic CD 0 down 8 num_separator 0.306652069092
+vonat SNARC color arabic CD 0 down 5 num_separator 0.314475059509
+vonat SNARC color arabic CD 0 down 2 num_separator 0.29065990448
+vonat SNARC color arabic CD 0 up 6 lctrl 0.339504957199
+vonat SNARC color arabic CD 0 down 5 lctrl 0.249583005905
+vonat SNARC color arabic CD 0 down 2 num_separator 0.48913192749
+vonat SNARC color arabic CD 0 down 2 num_separator 0.290309906006
+vonat SNARC color arabic CD 0 down 4 num_separator 0.306525945663
+vonat SNARC color arabic CD 0 down 3 num_separator 0.282315015793
+vonat SNARC color arabic CD 0 down 9 num_separator 0.251009941101
+vonat SNARC color arabic CD 0 up 5 lctrl 0.403479099274
+vonat SNARC color arabic CD 0 up 2 lctrl 0.266721963882
+vonat SNARC color arabic CD 0 up 6 lctrl 0.275300979614
+vonat SNARC color arabic CD 0 down 4 num_separator 0.306226015091
+vonat SNARC color arabic CD 0 down 8 num_separator 0.210397958755
+vonat SNARC color arabic CD 0 up 2 lctrl 0.339281082153
+vonat SNARC color arabic CD 0 up 3 lctrl 0.33102107048
+vonat SNARC color arabic CD 0 up 9 lctrl 0.235887050629
+vonat SNARC color arabic CD 0 down 5 lctrl 0.249699831009
+vonat SNARC color arabic CD 0 down 9 num_separator 0.393594026566
+vonat SNARC color arabic CD 0 down 8 num_separator 0.291126012802
+vonat SNARC color arabic CD 0 down 4 num_separator 0.291445016861
+vonat SNARC color arabic CD 0 down 8 num_separator 0.233335018158
+vonat SNARC color arabic CD 0 down 5 num_separator 0.266133069992
+vonat SNARC color arabic CD 0 up 7 lctrl 0.378598928452
+vonat SNARC color arabic CD 0 up 1 lctrl 0.250783920288
+vonat SNARC color arabic CD 0 up 7 lctrl 0.259017944336
+vonat SNARC color arabic CD 0 up 1 lctrl 0.314439058304
+vonat SNARC color arabic CD 0 down 5 num_separator 0.434013128281
+vonat SNARC color arabic CD 0 down 4 num_separator 0.306758165359
+vonat SNARC color arabic CD 0 up 4 lctrl 0.418557882309
+vonat SNARC color arabic CD 0 up 3 lctrl 0.298466920853
+vonat SNARC color arabic CD 0 up 6 num_separator 0.250460147858
+vonat SNARC color arabic CD 0 down 6 num_separator 0.761456012726
+vonat SNARC color arabic CD 0 down 7 num_separator 0.323038101196
+vonat SNARC color arabic CD 0 up 1 lctrl 0.362462043762
+vonat SNARC color arabic CD 0 down 4 num_separator 0.354074954987
+vonat SNARC color arabic CD 0 up 8 lctrl 0.354402065277
+vonat SNARC color arabic CD 0 down 7 num_separator 0.338912010193
+vonat SNARC color arabic CD 0 down 8 num_separator 0.298448085785
+vonat SNARC color arabic CD 0 up 8 lctrl 0.370055913925
+vonat SNARC color arabic CD 0 down 6 num_separator 0.369620084763
+vonat SNARC color arabic CD 0 down 9 num_separator 0.355517864227
+vonat SNARC color arabic CD 0 down 5 num_separator 0.307209968567
+vonat SNARC color arabic CD 0 up 5 lctrl 0.426970005035
+vonat SNARC color arabic CD 0 up 5 num_separator 0.426420927048
+vonat SNARC color arabic CD 0 down 6 num_separator 2.24156713486
+vonat SNARC color arabic CD 0 up 9 lctrl 0.371849060059
+vonat SNARC color arabic CD 0 up 4 lctrl 0.330142021179
+vonat SNARC color arabic CD 0 up 2 lctrl 0.234444141388
+vonat SNARC color arabic CD 0 up 9 num_separator 0.306035995483
+vonat SNARC color arabic CD 0 down 6 num_separator 1.49931502342
+vonat SNARC color arabic CD 0 down 6 num_separator 0.362682104111
+vonat SNARC color arabic CD 0 down 5 num_separator 0.498841047287
+vonat SNARC color arabic CD 0 down 6 num_separator 0.290512084961
+vonat SNARC color arabic CD 0 up 3 lctrl 0.355679988861
+vonat SNARC color arabic CD 0 down 7 num_separator 0.426069974899
+vonat SNARC color arabic CD 0 up 7 lctrl 0.314570188522
+vonat SNARC color arabic CD 0 down 3 num_separator 0.329538822174
+vonat SNARC color arabic CD 0 up 2 lctrl 0.435662984848
+vonat SNARC color arabic CD 0 up 1 lctrl 0.522859811783
+vonat SNARC color arabic CD 0 down 8 num_separator 0.402348995209
+vonat SNARC color arabic CD 0 down 1 num_separator 0.322722911835
+vonat SNARC color arabic CD 0 down 8 num_separator 0.266971826553
+vonat SNARC color arabic CD 0 up 6 lctrl 0.356063127518
+vonat SNARC color arabic CD 0 down 6 num_separator 0.570469141006
+vonat SNARC color arabic CD 0 up 8 lctrl 0.363352060318
+vonat SNARC color arabic CD 0 up 6 lctrl 0.391360998154
+vonat SNARC color arabic CD 0 down 4 num_separator 0.433827161789
+vonat SNARC color arabic CD 0 down 1 num_separator 0.250798940659
+vonat SNARC color arabic CD 0 up 3 num_separator 0.251562833786
+vonat SNARC color arabic CD 0 up 3 num_separator 0.513922929764
+vonat SNARC color arabic CD 0 down 1 num_separator 0.859097957611
+vonat SNARC color arabic CD 0 down 8 num_separator 0.370432138443
+vonat SNARC color arabic CD 0 down 7 num_separator 0.297860860825
+vonat SNARC color arabic CD 0 up 4 lctrl 0.571615934372
+vonat SNARC color arabic CD 0 down 2 num_separator 0.449356794357
+vonat SNARC color arabic CD 0 down 3 num_separator 0.338849067688
+vonat SNARC color arabic CD 0 down 3 num_separator 0.338842868805
+vonat SNARC color arabic CD 0 down 8 num_separator 0.354454994202
+vonat SNARC color arabic CD 0 up 6 lctrl 0.379580020905
+vonat SNARC color arabic CD 0 up 5 lctrl 0.298004150391
+vonat SNARC color arabic CD 0 down 7 lctrl 0.275343894958
+vonat SNARC color arabic CD 0 down 9 num_separator 0.44918012619
+vonat SNARC color arabic CD 0 up 3 lctrl 0.619032144547
+vonat SNARC color arabic CD 0 up 2 lctrl 0.306533098221
+vonat SNARC color arabic CD 0 up 9 lctrl 0.354775190353
+vonat SNARC color arabic CD 0 down 1 num_separator 0.394395828247
+vonat SNARC color arabic CD 0 up 1 lctrl 0.379091024399
+vonat SNARC color arabic CD 0 down 5 num_separator 0.338426828384
+vonat SNARC color arabic CD 0 down 7 num_separator 0.379129171371
+vonat SNARC color arabic CD 0 down 1 num_separator 0.26633310318
+vonat SNARC color arabic CD 0 down 5 num_separator 0.314913988113
+vonat SNARC color arabic CD 0 up 4 lctrl 0.315790176392
+vonat SNARC color arabic CD 0 down 3 num_separator 0.370327949524
+vonat SNARC color arabic CD 0 down 3 num_separator 0.306797981262
+vonat SNARC color arabic CD 0 down 7 num_separator 0.28262090683
+vonat SNARC color arabic CD 0 up 4 lctrl 0.418771982193
+vonat SNARC color arabic CD 0 down 4 num_separator 0.322530984879
+vonat SNARC color arabic CD 0 down 9 num_separator 0.290688037872
+vonat SNARC color arabic CD 0 down 9 num_separator 0.282634019852
+vonat SNARC color arabic CD 0 down 1 num_separator 0.274653911591
+vonat SNARC color arabic CD 0 down 3 num_separator 0.290637016296
+vonat SNARC color arabic CD 0 up 5 lctrl 0.306588888168
+vonat SNARC color arabic CD 0 down 1 num_separator 0.402911901474
+vonat SNARC color arabic CD 0 down 8 num_separator 0.290323019028
+vonat SNARC color arabic CD 0 up 4 lctrl 0.427186965942
+vonat SNARC color arabic CD 0 down 5 num_separator 0.3623919487
+vonat SNARC color arabic CD 0 up 4 lctrl 0.40398979187
+vonat SNARC color arabic CD 0 down 9 lctrl 0.314307928085
+vonat SNARC color arabic CD 0 down 6 num_separator 0.497612953186
+vonat SNARC color arabic CD 0 down 4 num_separator 0.315685987473
+vonat SNARC color arabic CD 0 down 5 num_separator 0.297693014145
+vonat SNARC color arabic CD 0 up 8 lctrl 0.338466882706
+vonat SNARC color arabic CD 0 up 1 lctrl 0.345847129822
+vonat SNARC color arabic CD 0 down 7 num_separator 0.355688095093
+vonat SNARC color arabic CD 0 down 3 num_separator 0.290385961533
+vonat SNARC color arabic CD 0 up 3 lctrl 1.45943593979
+vonat SNARC color arabic CD 0 down 2 num_separator 0.3633852005
+vonat SNARC color arabic CD 0 up 5 lctrl 0.331202983856
+vonat SNARC color arabic CD 0 up 3 lctrl 0.322782039642
+vonat SNARC color arabic CD 0 up 9 lctrl 0.36988902092
+vonat SNARC color arabic CD 0 down 6 num_separator 0.314597129822
+vonat SNARC color arabic CD 0 down 9 num_separator 0.306649208069
+vonat SNARC color arabic CD 0 up 9 lctrl 0.451634883881
+vonat SNARC color arabic CD 0 down 3 num_separator 0.433275938034
+vonat SNARC color arabic CD 0 down 4 num_separator 0.482395887375
+vonat SNARC color arabic CD 0 down 4 num_separator 0.267235040665
+vonat SNARC color arabic CD 0 up 9 lctrl 0.338605880737
+vonat SNARC color arabic CD 0 down 1 lctrl 0.290934801102
+vonat SNARC color arabic CD 0 down 8 num_separator 0.337530851364
+vonat SNARC color arabic CD 0 down 9 num_separator 0.266574144363
+vonat SNARC color arabic CD 0 down 1 num_separator 0.346837997437
+vonat SNARC color arabic CD 0 down 6 num_separator 0.298759937286
+vonat SNARC color arabic CD 0 up 6 lctrl 0.36315202713
+vonat SNARC color arabic CD 0 up 8 lctrl 0.321290016174
+vonat SNARC color arabic CD 0 up 9 lctrl 0.290843009949
+vonat SNARC color arabic CD 0 down 2 num_separator 0.313933849335
+vonat SNARC color arabic CD 0 down 2 num_separator 0.291099071503
+vonat SNARC color arabic CD 0 up 7 lctrl 0.362637042999
+vonat SNARC color arabic CD 0 up 6 lctrl 0.314175844193
+vonat SNARC color arabic CD 0 up 3 num_separator 0.291171073914
+vonat SNARC color arabic CD 0 down 4 num_separator 0.537928819656
+vonat SNARC color arabic CD 0 down 6 num_separator 0.36300110817
+vonat SNARC color arabic CD 0 up 4 lctrl 0.395498037338
+vonat SNARC color arabic CD 0 down 4 num_separator 0.442399978638
+vonat SNARC color arabic CD 0 down 3 num_separator 0.322824954987
+vonat SNARC color arabic CD 0 down 9 num_separator 0.27369594574
+vonat SNARC color arabic CD 0 down 2 num_separator 0.241206884384
+vonat SNARC color arabic CD 0 down 2 num_separator 0.282003879547
+vonat SNARC color arabic CD 0 up 4 num_separator 0.257911920547
+vonat SNARC color arabic CD 0 up 5 lctrl 0.490134954453
+vonat SNARC color arabic CD 0 up 7 lctrl 0.282840013504
+vonat SNARC color arabic CD 0 up 8 lctrl 0.242754936218
+vonat SNARC color arabic CD 0 down 3 num_separator 0.322153806686
+vonat SNARC color arabic CD 0 up 1 lctrl 0.346873044968
+vonat SNARC color arabic CD 0 down 7 num_separator 0.257910966873
+vonat SNARC color arabic CD 0 up 7 num_separator 0.361421823502
+vonat SNARC color arabic CD 0 down 1 num_separator 0.497784852982
+vonat SNARC color arabic CD 0 up 5 lctrl 0.339641094208
+vonat SNARC color arabic CD 0 up 7 num_separator 0.53795003891
+vonat SNARC color arabic CD 0 down 4 num_separator 0.51437497139
+vonat SNARC color arabic CD 0 down 1 num_separator 0.37876701355
+vonat SNARC color arabic CD 0 down 4 num_separator 0.346920013428
+vonat SNARC color arabic CD 0 down 2 num_separator 0.282829999924
+vonat SNARC color arabic CD 0 up 5 lctrl 0.31524515152
+vonat SNARC color arabic CD 0 down 5 lctrl 0.42610502243
+vonat SNARC color arabic CD 0 down 2 num_separator 0.346158981323
+vonat SNARC color arabic CD 0 down 3 num_separator 0.274915933609
+vonat SNARC color arabic CD 0 down 3 num_separator 0.323315858841
+vonat SNARC color arabic CD 0 up 7 lctrl 0.435558795929
+vonat SNARC color arabic CD 0 down 6 num_separator 0.36256980896
+vonat SNARC color arabic CD 0 down 1 num_separator 1.43440699577
+vonat SNARC color arabic CD 0 down 5 num_separator 0.38663315773
+vonat SNARC color arabic CD 0 down 8 num_separator 0.298505067825
+vonat SNARC color arabic CD 0 up 6 lctrl 0.392394065857
+vonat SNARC color arabic CD 0 down 1 num_separator 0.394476890564
+vonat SNARC color arabic CD 0 up 2 lctrl 0.404677867889
+vonat SNARC color arabic CD 0 down 2 num_separator 0.393828868866
+vonat SNARC color arabic CD 0 up 1 lctrl 0.378579139709
+vonat SNARC color arabic CD 0 up 1 lctrl 0.395519971848
+vonat SNARC color arabic CD 0 down 9 num_separator 0.329972982407
+vonat SNARC color arabic CD 0 up 1 lctrl 0.675305843353
+vonat SNARC color arabic CD 0 up 2 lctrl 0.378251791
+{'participant': u'vonat', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'03_23_1148', 'autopilot': False, 'exp_id': u'SNARC'}
+vonat SNARC_only DC 1 lctrl 0.658351898193
+vonat SNARC_only DC 3 num_separator 0.393167972565
+vonat SNARC_only DC 9 lctrl 0.855684995651
+vonat SNARC_only DC 9 lctrl 0.362710952759
+vonat SNARC_only DC 7 lctrl 0.409207105637
+vonat SNARC_only DC 5 lctrl 0.434425830841
+vonat SNARC_only DC 3 num_separator 0.441748142242
+vonat SNARC_only DC 7 lctrl 0.538800001144
+vonat SNARC_only DC 2 num_separator 0.56209897995
+vonat SNARC_only DC 3 lctrl 0.707026004791
+vonat SNARC_only DC 9 lctrl 0.642051935196
+vonat SNARC_only DC 9 lctrl 0.306603908539
+vonat SNARC_only DC 8 num_separator 0.423754930496
+vonat SNARC_only DC 3 lctrl 0.347240924835
+vonat SNARC_only DC 6 num_separator 0.865870952606
+vonat SNARC_only DC 8 num_separator 0.690429925919
+vonat SNARC_only DC 5 lctrl 0.427255868912
+vonat SNARC_only DC 1 lctrl 0.530941963196
+vonat SNARC_only DC 7 lctrl 0.722418069839
+vonat SNARC_only DC 9 lctrl 0.435611009598
+vonat SNARC_only DC 1 lctrl 0.611187934875
+vonat SNARC_only DC 9 lctrl 0.44366979599
+vonat SNARC_only DC 7 lctrl 0.39429807663
+vonat SNARC_only DC 5 lctrl 0.394855976105
+vonat SNARC_only DC 1 lctrl 0.53867816925
+vonat SNARC_only DC 1 lctrl 0.355093002319
+vonat SNARC_only DC 3 lctrl 0.538467884064
+vonat SNARC_only DC 2 num_separator 0.578391075134
+vonat SNARC_only DC 6 num_separator 0.442562103271
+vonat SNARC_only DC 3 lctrl 0.627712011337
+vonat SNARC_only DC 3 lctrl 0.419265985489
+vonat SNARC_only DC 6 num_separator 0.681581020355
+vonat SNARC_only DC 2 num_separator 0.504181146622
+vonat SNARC_only DC 9 lctrl 0.491358995438
+vonat SNARC_only DC 4 num_separator 0.576901912689
+vonat SNARC_only DC 1 lctrl 0.546939849854
+vonat SNARC_only DC 9 lctrl 0.506050109863
+vonat SNARC_only DC 1 lctrl 0.33970618248
+vonat SNARC_only DC 4 lctrl 0.466701984406
+vonat SNARC_only DC 1 lctrl 0.866545915604
+vonat SNARC_only DC 1 lctrl 0.377753019333
+vonat SNARC_only DC 5 num_separator 0.498288869858
+vonat SNARC_only DC 2 num_separator 0.777751922607
+vonat SNARC_only DC 5 lctrl 0.491580963135
+vonat SNARC_only DC 4 lctrl 0.387115955353
+vonat SNARC_only DC 1 lctrl 0.746116876602
+vonat SNARC_only DC 9 lctrl 0.65914106369
+vonat SNARC_only DC 1 lctrl 0.362213850021
+vonat SNARC_only DC 5 lctrl 0.402090787888
+vonat SNARC_only DC 6 num_separator 0.570107936859
+vonat SNARC_only DC 4 num_separator 0.474492788315
+vonat SNARC_only DC 9 lctrl 0.37915802002
+vonat SNARC_only DC 6 num_separator 0.576830148697
+vonat SNARC_only DC 8 lctrl 0.371364831924
+vonat SNARC_only DC 2 num_separator 0.634310007095
+vonat SNARC_only DC 5 lctrl 0.427386045456
+vonat SNARC_only DC 4 num_separator 0.635168075562
+vonat SNARC_only DC 2 num_separator 0.419257879257
+vonat SNARC_only DC 6 num_separator 0.41882610321
+vonat SNARC_only DC 5 lctrl 0.482540130615
+vonat SNARC_only DC 3 lctrl 0.434766054153
+vonat SNARC_only DC 8 lctrl 0.474258899689
+vonat SNARC_only DC 7 num_separator 0.5294008255
+vonat SNARC_only DC 6 num_separator 0.715027809143
+vonat SNARC_only DC 3 lctrl 0.554821968079
+vonat SNARC_only DC 6 num_separator 0.993628978729
+vonat SNARC_only DC 2 num_separator 0.49066400528
+vonat SNARC_only DC 4 num_separator 0.506675004959
+vonat SNARC_only DC 8 num_separator 0.362296104431
+vonat SNARC_only DC 7 lctrl 0.691128015518
+vonat SNARC_only DC 1 lctrl 0.466680049896
+vonat SNARC_only DC 3 lctrl 0.402193069458
+vonat SNARC_only DC 3 lctrl 0.370981931686
+vonat SNARC_only DC 6 num_separator 0.395045995712
+vonat SNARC_only DC 9 lctrl 0.577675104141
+vonat SNARC_only DC 2 lctrl 0.427229881287
+vonat SNARC_only DC 1 lctrl 0.690886974335
+vonat SNARC_only DC 6 num_separator 0.488840818405
+vonat SNARC_only DC 1 lctrl 0.899034023285
+vonat SNARC_only DC 2 num_separator 0.546262025833
+vonat SNARC_only DC 2 num_separator 0.346204042435
+vonat SNARC_only DC 9 lctrl 0.490933895111
+vonat SNARC_only DC 7 lctrl 1.32259607315
+vonat SNARC_only DC 7 lctrl 0.338545799255
+vonat SNARC_only DC 4 num_separator 0.507152080536
+vonat SNARC_only DC 3 lctrl 0.482972860336
+vonat SNARC_only DC 5 lctrl 0.658743143082
+vonat SNARC_only DC 6 num_separator 0.577874898911
+vonat SNARC_only DC 3 lctrl 0.426863193512
+vonat SNARC_only DC 8 num_separator 1.09803700447
+vonat SNARC_only DC 5 lctrl 0.411270856857
+vonat SNARC_only DC 9 lctrl 0.554385900497
+vonat SNARC_only DC 8 num_separator 0.522237062454
+vonat SNARC_only DC 7 lctrl 0.39564704895
+vonat SNARC_only DC 6 num_separator 0.530723810196
+vonat SNARC_only DC 1 lctrl 0.354053020477
+vonat SNARC_only DC 7 lctrl 0.538842916489
+vonat SNARC_only DC 5 lctrl 0.499309062958
+vonat SNARC_only DC 9 num_separator 0.442401885986
+vonat SNARC_only DC 6 num_separator 0.69050693512
+vonat SNARC_only DC 5 lctrl 0.379359960556
+vonat SNARC_only DC 4 num_separator 0.369034051895
+vonat SNARC_only DC 3 lctrl 0.475515842438
+vonat SNARC_only DC 8 num_separator 0.458666086197
+vonat SNARC_only DC 6 num_separator 0.489696979523
+vonat SNARC_only DC 4 num_separator 0.354346990585
+vonat SNARC_only DC 5 lctrl 0.52343416214
+vonat SNARC_only DC 4 num_separator 0.507169961929
+vonat SNARC_only DC 8 num_separator 0.362158060074
+vonat SNARC_only DC 5 lctrl 0.443320035934
+vonat SNARC_only DC 6 num_separator 0.506776094437
+vonat SNARC_only DC 8 num_separator 0.347229957581
+vonat SNARC_only DC 5 lctrl 0.522782087326
+vonat SNARC_only DC 1 lctrl 0.386124134064
+vonat SNARC_only DC 7 lctrl 0.402676105499
+vonat SNARC_only DC 4 num_separator 0.40281701088
+vonat SNARC_only DC 2 num_separator 0.467171907425
+vonat SNARC_only DC 6 num_separator 0.387331962585
+vonat SNARC_only DC 1 lctrl 0.467385053635
+vonat SNARC_only DC 3 num_separator 0.410001039505
+vonat SNARC_only DC 5 lctrl 0.443089962006
+vonat SNARC_only DC 3 lctrl 0.450881004333
+vonat SNARC_only DC 8 num_separator 0.522393941879
+vonat SNARC_only DC 7 lctrl 0.585640907288
+vonat SNARC_only DC 7 num_separator 0.410369873047
+vonat SNARC_only DC 6 num_separator 0.705919981003
+vonat SNARC_only DC 3 lctrl 0.554849863052
+vonat SNARC_only DC 9 num_separator 0.402842998505
+vonat SNARC_only DC 3 lctrl 0.80212521553
+vonat SNARC_only DC 3 lctrl 0.42723107338
+vonat SNARC_only DC 7 lctrl 0.553940057755
+vonat SNARC_only DC 7 lctrl 0.370299816132
+vonat SNARC_only DC 7 lctrl 0.386096954346
+vonat SNARC_only DC 4 num_separator 0.418230056763
+vonat SNARC_only DC 5 lctrl 0.499190092087
+vonat SNARC_only DC 6 num_separator 1.0351421833
+vonat SNARC_only DC 3 lctrl 0.555402994156
+vonat SNARC_only DC 2 num_separator 0.465842008591
+vonat SNARC_only DC 6 lctrl 0.339099884033
+vonat SNARC_only DC 9 lctrl 0.522024154663
+vonat SNARC_only DC 9 lctrl 0.336527824402
+vonat SNARC_only DC 9 lctrl 0.32230091095
+vonat SNARC_only DC 7 lctrl 0.755472183228
+vonat SNARC_only DC 8 num_separator 0.498617887497
+vonat SNARC_only DC 3 lctrl 0.427525997162
+vonat SNARC_only DC 9 lctrl 0.7390229702
+vonat SNARC_only DC 2 num_separator 0.47425198555
+vonat SNARC_only DC 5 lctrl 0.378831863403
+vonat SNARC_only DC 9 num_separator 0.474208116531
+vonat SNARC_only DC 6 lctrl 0.393622159958
+vonat SNARC_only DC 8 num_separator 0.417598009109
+vonat SNARC_only DC 7 lctrl 0.467436075211
+vonat SNARC_only DC 1 lctrl 1.04316401482
+vonat SNARC_only DC 7 lctrl 0.355229854584
+vonat SNARC_only DC 4 lctrl 0.387862920761
+vonat SNARC_only DC 7 lctrl 0.410676956177
+vonat SNARC_only DC 4 num_separator 1.379155159
+vonat SNARC_only DC 7 lctrl 0.371433019638
+vonat SNARC_only DC 8 num_separator 0.474452972412
+vonat SNARC_only DC 4 num_separator 0.41107416153
+vonat SNARC_only DC 5 lctrl 0.387475967407
+vonat SNARC_only DC 6 lctrl 0.323635101318
+vonat SNARC_only DC 9 lctrl 0.858659029007
+vonat SNARC_only DC 2 num_separator 0.595388174057
+vonat SNARC_only DC 6 num_separator 0.842708110809
+vonat SNARC_only DC 4 num_separator 0.362941980362
+vonat SNARC_only DC 9 lctrl 0.45201587677
+vonat SNARC_only DC 1 num_separator 0.41762304306
+vonat SNARC_only DC 9 lctrl 0.370578050613
+vonat SNARC_only DC 9 lctrl 0.33097410202
+vonat SNARC_only DC 3 num_separator 0.514732122421
+vonat SNARC_only DC 5 lctrl 0.755717992783
+vonat SNARC_only DC 5 lctrl 0.322148799896
+vonat SNARC_only DC 1 lctrl 0.339224100113
+vonat SNARC_only DC 4 lctrl 0.394638061523
+vonat SNARC_only DC 8 num_separator 0.441513061523
+vonat SNARC_only DC 3 lctrl 0.522863149643
+vonat SNARC_only DC 1 lctrl 0.435016155243
+vonat SNARC_only DC 5 lctrl 0.401768922806
+vonat SNARC_only DC 9 lctrl 0.41134595871
+vonat SNARC_only DC 2 num_separator 0.42699098587
+vonat SNARC_only DC 4 num_separator 0.386276960373
+vonat SNARC_only DC 2 num_separator 0.387042045593
+vonat SNARC_only DC 7 num_separator 0.410778045654
+vonat SNARC_only DC 4 num_separator 0.499068975449
+vonat SNARC_only DC 6 lctrl 0.426375865936
+vonat SNARC_only DC 2 num_separator 0.363049983978
+vonat SNARC_only DC 5 lctrl 0.490845918655
+vonat SNARC_only DC 1 lctrl 0.434191942215
+vonat SNARC_only DC 8 lctrl 0.388028144836
+vonat SNARC_only DC 8 num_separator 0.465487957001
+vonat SNARC_only DC 6 num_separator 0.595636844635
+vonat SNARC_only DC 6 num_separator 0.354923009872
+vonat SNARC_only DC 8 num_separator 0.410259962082
+vonat SNARC_only DC 1 lctrl 0.41903591156
+vonat SNARC_only DC 1 lctrl 0.378570795059
+vonat SNARC_only DC 7 lctrl 0.459013938904
+vonat SNARC_only DC 2 num_separator 0.490046977997
+vonat SNARC_only DC 2 num_separator 0.330405950546
+vonat SNARC_only DC 2 num_separator 0.298300981522
+vonat SNARC_only DC 9 lctrl 0.547644853592
+vonat SNARC_only DC 3 lctrl 0.434664011002
+vonat SNARC_only DC 1 num_separator 0.395051002502
+vonat SNARC_only DC 9 lctrl 0.55406999588
+vonat SNARC_only DC 5 lctrl 0.362878799438
+vonat SNARC_only DC 5 lctrl 0.442827939987
+vonat SNARC_only DC 9 lctrl 0.834747076035
+vonat SNARC_only DC 1 num_separator 0.482514858246
+vonat SNARC_only DC 7 lctrl 1.05927491188
+vonat SNARC_only DC 3 lctrl 0.395158052444
+vonat SNARC_only DC 5 lctrl 0.354768037796
+vonat SNARC_only DC 4 lctrl 0.451104164124
+vonat SNARC_only DC 2 num_separator 0.50554895401
+vonat SNARC_only DC 5 lctrl 0.978723049164
+vonat SNARC_only DC 4 num_separator 0.594918012619
+vonat SNARC_only DC 2 num_separator 0.361881971359
+vonat SNARC_only DC 2 num_separator 0.298838853836
+vonat SNARC_only DC 7 lctrl 0.43564081192
+vonat SNARC_only DC 2 num_separator 0.546450138092
+vonat SNARC_only DC 3 lctrl 1.55518484116
+vonat SNARC_only DC 9 lctrl 0.426377058029
+vonat SNARC_only DC 4 num_separator 0.530065059662
+vonat SNARC_only DC 5 num_separator 0.347460985184
+vonat SNARC_only DC 1 lctrl 0.39520907402
+vonat SNARC_only DC 3 lctrl 0.571094036102
+vonat SNARC_only DC 3 lctrl 0.354895830154
+vonat SNARC_only DC 4 lctrl 0.299300909042
+vonat SNARC_only DC 6 num_separator 0.464808940887
+vonat SNARC_only DC 9 lctrl 0.57971405983
+vonat SNARC_only DC 6 num_separator 0.514543056488
+vonat SNARC_only DC 9 lctrl 0.418390989304
+vonat SNARC_only DC 6 num_separator 0.362008094788
+vonat SNARC_only DC 7 lctrl 0.34730887413
+vonat SNARC_only DC 2 num_separator 0.450393915176
+vonat SNARC_only DC 4 num_separator 0.434484004974
+vonat SNARC_only DC 8 num_separator 0.427041053772
+vonat SNARC_only DC 9 lctrl 0.483824014664
+vonat SNARC_only DC 3 lctrl 0.33967590332
+vonat SNARC_only DC 7 lctrl 0.385970830917
+vonat SNARC_only DC 8 num_separator 0.394516944885
+vonat SNARC_only DC 7 lctrl 0.579457998276
+vonat SNARC_only DC 3 lctrl 0.474096059799
+vonat SNARC_only DC 8 lctrl 0.369135141373
+vonat SNARC_only DC 1 lctrl 0.763489961624
+vonat SNARC_only DC 7 lctrl 0.601750850677
+vonat SNARC_only DC 3 lctrl 0.394510030746
+vonat SNARC_only DC 1 lctrl 0.394197940826
+vonat SNARC_only DC 5 lctrl 0.418215990067
+vonat SNARC_only DC 7 lctrl 0.392333030701
+vonat SNARC_only DC 8 num_separator 0.46538901329
+vonat SNARC_only DC 2 num_separator 0.371023893356
+vonat SNARC_only DC 5 lctrl 0.467592000961
+vonat SNARC_only DC 4 lctrl 0.355461120605
+vonat SNARC_only DC 9 lctrl 0.54666686058
+vonat SNARC_only DC 2 num_separator 0.570874929428
+vonat SNARC_only DC 4 num_separator 0.498558998108
+vonat SNARC_only DC 1 num_separator 0.339116096497
+vonat SNARC_only DC 6 num_separator 0.529500007629
+vonat SNARC_only DC 3 lctrl 0.595785140991
+vonat SNARC_only DC 8 num_separator 0.490746974945
+vonat SNARC_only DC 6 num_separator 0.363243103027
+vonat SNARC_only DC 7 lctrl 0.555507898331
+vonat SNARC_only DC 7 lctrl 0.283045053482
+vonat SNARC_only DC 6 num_separator 0.507191896439
+vonat SNARC_only DC 8 lctrl 0.707921028137
+vonat SNARC_only DC 8 num_separator 0.378523826599
+vonat SNARC_only DC 2 num_separator 0.497829914093
+vonat SNARC_only DC 3 lctrl 0.610794067383
+vonat SNARC_only DC 8 num_separator 0.451078176498
+vonat SNARC_only DC 4 num_separator 0.899173021317
+vonat SNARC_only DC 9 lctrl 0.514870882034
+vonat SNARC_only DC 2 num_separator 0.506216049194
+vonat SNARC_only DC 1 lctrl 0.586760997772
+vonat SNARC_only DC 9 num_separator 0.546525001526
+vonat SNARC_only DC 6 num_separator 0.674551010132
+vonat SNARC_only DC 6 num_separator 0.393906116486
+vonat SNARC_only DC 7 lctrl 0.467574119568
+vonat SNARC_only DC 4 num_separator 0.426563024521
+vonat SNARC_only DC 3 lctrl 0.531182050705
+vonat SNARC_only DC 3 lctrl 0.370803117752
+vonat SNARC_only DC 4 num_separator 0.418365001678
+vonat SNARC_only DC 4 num_separator 0.354853868484
+vonat SNARC_only DC 1 lctrl 0.563467979431
+vonat SNARC_only DC 5 num_separator 0.49862909317
+vonat SNARC_only DC 8 num_separator 0.721877098083
+vonat SNARC_only DC 2 num_separator 0.507535934448
+vonat SNARC_only DC 4 num_separator 0.451143026352
+vonat SNARC_only DC 8 num_separator 0.410698890686
+vonat SNARC_only DC 8 num_separator 0.290633916855
+vonat SNARC_only DC 5 lctrl 0.523592948914
+vonat SNARC_only DC 8 num_separator 0.538043022156
+vonat SNARC_only DC 2 lctrl 0.722993135452
+vonat SNARC_only DC 8 num_separator 0.537374019623
+vonat SNARC_only DC 5 lctrl 0.594758987427
+vonat SNARC_only DC 8 num_separator 0.458799123764
+vonat SNARC_only DC 6 num_separator 1.03472304344
+vonat SNARC_only DC 7 lctrl 0.475607156754
+vonat SNARC_only DC 1 lctrl 1.05112695694
+vonat SNARC_only DC 5 lctrl 0.75386595726
+vonat SNARC_only DC 6 lctrl 0.410305976868
+vonat SNARC_only DC 2 num_separator 0.46658706665
+vonat SNARC_only DC 2 num_separator 0.345939159393
+vonat SNARC_only DC 2 num_separator 0.274361848831
+vonat SNARC_only DC 6 num_separator 0.43513417244
+vonat SNARC_only DC 4 num_separator 0.354580163956
+vonat SNARC_only DC 8 num_separator 0.299010038376
+vonat SNARC_only DC 2 num_separator 0.330410957336
+vonat SNARC_only DC 1 lctrl 0.571460008621
+vonat SNARC_only DC 2 num_separator 0.682559013367
+vonat SNARC_only DC 6 num_separator 3.07435202599
+vonat SNARC_only DC 8 num_separator 0.443233966827
+vonat SNARC_only DC 4 num_separator 0.289252996445
+vonat SNARC_only DC 9 lctrl 0.458916187286
+vonat SNARC_only DC 3 lctrl 0.395334005356
+vonat SNARC_only DC 7 lctrl 0.338949918747
+vonat SNARC_only DC 9 lctrl 0.314753055573
+vonat SNARC_only DC 8 num_separator 0.49872303009
+vonat SNARC_only DC 8 num_separator 0.26656794548
+vonat SNARC_only DC 1 lctrl 0.395580053329
+vonat SNARC_only DC 6 num_separator 0.626805067062
+vonat SNARC_only DC 5 num_separator 0.354285001755
+vonat SNARC_only DC 7 lctrl 0.459059000015
+vonat SNARC_only DC 5 lctrl 0.410084009171
+vonat SNARC_only DC 8 num_separator 0.523016214371
+vonat SNARC_only DC 5 lctrl 0.578062057495
+vonat SNARC_only DC 1 lctrl 0.419148921967
+vonat SNARC_only DC 5 lctrl 0.306756019592
+vonat SNARC_only DC 4 num_separator 0.52281498909
+vonat SNARC_only DC 6 lctrl 0.354163885117
+vonat SNARC_only DC 7 lctrl 0.754320144653
+vonat SNARC_only DC 8 num_separator 0.409950971603
+vonat SNARC_only DC 5 lctrl 0.523230791092
+vonat SNARC_only DC 1 lctrl 0.555003881454
+vonat SNARC_only DC 4 num_separator 0.387029886246
+vonat SNARC_only DC 4 num_separator 0.347063064575
+vonat SNARC_only DC 9 lctrl 0.354915857315
+vonat SNARC_only DC 4 num_separator 0.522679805756
+vonat SNARC_only DC 7 lctrl 0.531185865402
+vonat SNARC_only DC 4 num_separator 0.434056997299
+vonat SNARC_only DC 2 num_separator 0.474796056747
+vonat SNARC_only DC 9 lctrl 0.427346944809
+vonat SNARC_only DC 7 num_separator 0.458428859711
+vonat SNARC_only DC 2 num_separator 0.489928007126
+vonat SNARC_only DC 3 lctrl 1.07538294792
+vonat SNARC_only DC 3 lctrl 0.346568822861
+vonat SNARC_only DC 1 num_separator 0.402439117432
+vonat SNARC_only DC 3 lctrl 0.450116157532
+vonat SNARC_only DC 4 num_separator 0.625141143799
+vonat SNARC_only DC 3 lctrl 0.627039909363
+vonat SNARC_only DC 6 num_separator 0.530701875687
+vonat SNARC_only DC 9 lctrl 0.899430990219
+vonat SNARC_only DC 8 num_separator 0.52240896225
+vonat SNARC_only DC 1 lctrl 0.355518102646
+vonat SNARC_only DC 5 num_separator 0.378536939621
+vonat SNARC_only DC 2 num_separator 0.657944917679
+vonat SNARC_only DC 1 lctrl 0.627298116684
+vonat SNARC_only DC 4 num_separator 0.415462017059
+vonat SNARC_only DC 7 lctrl 0.491322994232
+vonat SNARC_only DC 8 lctrl 0.579049110413
+vonat SNARC_only DC 2 num_separator 0.434278964996
+{'participant': u'vonat', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'03_23_1156', 'autopilot': False, 'exp_id': u'SNARC'}
+vonat SNARC_only CD 4 lctrl 0.777169942856
+vonat SNARC_only CD 9 num_separator 0.609577894211
+vonat SNARC_only CD 2 lctrl 0.586271047592
+vonat SNARC_only CD 7 lctrl 0.673714876175
+vonat SNARC_only CD 2 lctrl 0.486158132553
+vonat SNARC_only CD 1 num_separator 0.513166904449
+vonat SNARC_only CD 7 num_separator 0.331154108047
+vonat SNARC_only CD 7 num_separator 0.362941026688
+vonat SNARC_only CD 1 num_separator 0.394910097122
+vonat SNARC_only CD 2 num_separator 0.395197868347
+vonat SNARC_only CD 7 num_separator 0.434933900833
+vonat SNARC_only CD 1 lctrl 0.419049024582
+vonat SNARC_only CD 8 lctrl 0.657833099365
+vonat SNARC_only CD 7 num_separator 2.22609496117
+vonat SNARC_only CD 2 num_separator 0.386547088623
+vonat SNARC_only CD 3 num_separator 0.583510160446
+vonat SNARC_only CD 3 num_separator 0.353852033615
+vonat SNARC_only CD 5 num_separator 0.497653007507
+vonat SNARC_only CD 3 num_separator 0.522912979126
+vonat SNARC_only CD 8 lctrl 0.417985200882
+vonat SNARC_only CD 6 lctrl 0.618149995804
+vonat SNARC_only CD 6 lctrl 0.331159114838
+vonat SNARC_only CD 3 num_separator 0.37044095993
+vonat SNARC_only CD 4 num_separator 0.290193080902
+vonat SNARC_only CD 2 num_separator 0.722590923309
+vonat SNARC_only CD 8 lctrl 0.770608901978
+vonat SNARC_only CD 8 lctrl 0.298266887665
+vonat SNARC_only CD 9 num_separator 0.443348169327
+vonat SNARC_only CD 9 num_separator 0.314524888992
+vonat SNARC_only CD 6 lctrl 0.498867034912
+vonat SNARC_only CD 1 num_separator 0.786706924438
+vonat SNARC_only CD 3 num_separator 0.474269866943
+vonat SNARC_only CD 3 num_separator 0.346022129059
+vonat SNARC_only CD 9 num_separator 0.511434078217
+vonat SNARC_only CD 9 num_separator 0.330597162247
+vonat SNARC_only CD 6 num_separator 0.363356113434
+vonat SNARC_only CD 4 lctrl 0.659161806107
+vonat SNARC_only CD 5 num_separator 0.602276086807
+vonat SNARC_only CD 9 num_separator 0.41895699501
+vonat SNARC_only CD 4 lctrl 0.555624961853
+vonat SNARC_only CD 3 num_separator 0.379110097885
+vonat SNARC_only CD 7 num_separator 0.442501068115
+vonat SNARC_only CD 8 lctrl 0.346569061279
+vonat SNARC_only CD 1 lctrl 0.466691017151
+vonat SNARC_only CD 3 num_separator 1.46560502052
+vonat SNARC_only CD 3 num_separator 0.482158184052
+vonat SNARC_only CD 5 num_separator 0.410781145096
+vonat SNARC_only CD 4 lctrl 0.412105798721
+vonat SNARC_only CD 8 lctrl 0.441745996475
+vonat SNARC_only CD 9 lctrl 0.0665700435638
+vonat SNARC_only CD 8 num_separator 0.418605089188
+vonat SNARC_only CD 9 num_separator 1.06645107269
+vonat SNARC_only CD 4 lctrl 0.658801078796
+vonat SNARC_only CD 8 lctrl 0.754914999008
+vonat SNARC_only CD 5 num_separator 0.474638938904
+vonat SNARC_only CD 7 num_separator 0.691448926926
+vonat SNARC_only CD 7 num_separator 0.339238166809
+vonat SNARC_only CD 4 lctrl 0.474744081497
+vonat SNARC_only CD 8 lctrl 0.481760978699
+vonat SNARC_only CD 2 lctrl 0.330338001251
+vonat SNARC_only CD 5 num_separator 0.489847898483
+vonat SNARC_only CD 4 lctrl 0.530789852142
+vonat SNARC_only CD 6 num_separator 0.323387145996
+vonat SNARC_only CD 4 lctrl 0.39545583725
+vonat SNARC_only CD 9 num_separator 0.507125139236
+vonat SNARC_only CD 6 lctrl 0.33925485611
+vonat SNARC_only CD 7 num_separator 0.410155057907
+vonat SNARC_only CD 9 num_separator 0.475300073624
+vonat SNARC_only CD 2 lctrl 0.426847934723
+vonat SNARC_only CD 8 num_separator 0.473479986191
+vonat SNARC_only CD 7 num_separator 1.11341094971
+vonat SNARC_only CD 7 num_separator 0.353948116302
+vonat SNARC_only CD 3 lctrl 0.41179895401
+vonat SNARC_only CD 8 num_separator 0.44951415062
+vonat SNARC_only CD 9 num_separator 0.746052980423
+vonat SNARC_only CD 7 num_separator 0.498733043671
+vonat SNARC_only CD 1 lctrl 0.427430868149
+vonat SNARC_only CD 9 num_separator 0.410217046738
+vonat SNARC_only CD 1 num_separator 0.514074087143
+vonat SNARC_only CD 5 num_separator 0.602983951569
+vonat SNARC_only CD 9 num_separator 0.38636803627
+vonat SNARC_only CD 9 num_separator 0.346377849579
+vonat SNARC_only CD 3 num_separator 0.451130867004
+vonat SNARC_only CD 9 num_separator 0.386270046234
+vonat SNARC_only CD 1 num_separator 0.426437139511
+vonat SNARC_only CD 9 num_separator 0.370052099228
+vonat SNARC_only CD 1 num_separator 0.395372867584
+vonat SNARC_only CD 1 num_separator 0.354771852493
+vonat SNARC_only CD 5 num_separator 0.531483888626
+vonat SNARC_only CD 4 lctrl 0.579921007156
+vonat SNARC_only CD 7 num_separator 0.443463802338
+vonat SNARC_only CD 6 lctrl 0.555009841919
+vonat SNARC_only CD 4 lctrl 0.467006206512
+vonat SNARC_only CD 7 num_separator 0.483140945435
+vonat SNARC_only CD 1 lctrl 0.427923202515
+vonat SNARC_only CD 9 num_separator 0.505178928375
+vonat SNARC_only CD 9 num_separator 0.378477096558
+vonat SNARC_only CD 1 num_separator 0.44282078743
+vonat SNARC_only CD 2 lctrl 0.442638158798
+vonat SNARC_only CD 6 num_separator 0.354987859726
+vonat SNARC_only CD 3 num_separator 0.555093050003
+vonat SNARC_only CD 6 lctrl 0.651755809784
+vonat SNARC_only CD 4 lctrl 0.370330095291
+vonat SNARC_only CD 7 num_separator 0.418960094452
+vonat SNARC_only CD 2 lctrl 0.538264036179
+vonat SNARC_only CD 5 num_separator 0.465685129166
+vonat SNARC_only CD 5 num_separator 0.35505604744
+vonat SNARC_only CD 5 num_separator 0.355094909668
+vonat SNARC_only CD 4 lctrl 0.459095954895
+vonat SNARC_only CD 1 num_separator 0.538259029388
+vonat SNARC_only CD 6 lctrl 0.579285860062
+vonat SNARC_only CD 1 lctrl 0.467123985291
+vonat SNARC_only CD 4 lctrl 0.714256048203
+vonat SNARC_only CD 2 lctrl 0.387153148651
+vonat SNARC_only CD 7 num_separator 0.370250940323
+vonat SNARC_only CD 6 lctrl 0.675128936768
+vonat SNARC_only CD 1 num_separator 0.722676992416
+vonat SNARC_only CD 1 num_separator 0.426997900009
+vonat SNARC_only CD 3 num_separator 0.484454870224
+vonat SNARC_only CD 3 num_separator 0.362028121948
+vonat SNARC_only CD 2 num_separator 0.490566015244
+vonat SNARC_only CD 8 lctrl 0.515424013138
+vonat SNARC_only CD 6 lctrl 0.425759077072
+vonat SNARC_only CD 4 lctrl 0.386067152023
+vonat SNARC_only CD 8 lctrl 0.346139192581
+vonat SNARC_only CD 3 num_separator 0.56224489212
+vonat SNARC_only CD 7 num_separator 0.362508058548
+vonat SNARC_only CD 6 lctrl 0.329279899597
+vonat SNARC_only CD 3 num_separator 0.522068977356
+vonat SNARC_only CD 4 lctrl 0.563221931458
+vonat SNARC_only CD 9 num_separator 0.450635910034
+vonat SNARC_only CD 5 lctrl 0.354903936386
+vonat SNARC_only CD 2 lctrl 0.978179931641
+vonat SNARC_only CD 8 lctrl 0.427263975143
+vonat SNARC_only CD 6 num_separator 0.354297876358
+vonat SNARC_only CD 8 lctrl 0.571074962616
+vonat SNARC_only CD 5 num_separator 0.481223106384
+vonat SNARC_only CD 5 num_separator 0.338753938675
+vonat SNARC_only CD 8 lctrl 0.523940086365
+vonat SNARC_only CD 3 num_separator 0.410537004471
+vonat SNARC_only CD 7 num_separator 0.346890926361
+vonat SNARC_only CD 6 lctrl 0.608579158783
+vonat SNARC_only CD 5 num_separator 0.434928894043
+vonat SNARC_only CD 3 num_separator 0.482560873032
+vonat SNARC_only CD 2 lctrl 0.379413127899
+vonat SNARC_only CD 4 lctrl 0.506818056107
+vonat SNARC_only CD 8 lctrl 0.411254882812
+vonat SNARC_only CD 2 lctrl 0.347264051437
+vonat SNARC_only CD 3 lctrl 0.323758840561
+vonat SNARC_only CD 1 num_separator 0.94514298439
+vonat SNARC_only CD 8 lctrl 0.481958150864
+vonat SNARC_only CD 5 num_separator 0.562391996384
+vonat SNARC_only CD 8 lctrl 0.55446600914
+vonat SNARC_only CD 4 lctrl 0.651118993759
+vonat SNARC_only CD 5 num_separator 0.441638946533
+vonat SNARC_only CD 5 num_separator 0.34670996666
+vonat SNARC_only CD 7 num_separator 0.370797872543
+vonat SNARC_only CD 5 num_separator 0.410393953323
+vonat SNARC_only CD 1 num_separator 0.378961086273
+vonat SNARC_only CD 4 num_separator 0.36962890625
+vonat SNARC_only CD 5 num_separator 1.26590919495
+vonat SNARC_only CD 4 lctrl 0.579909086227
+vonat SNARC_only CD 8 lctrl 0.562306880951
+vonat SNARC_only CD 6 lctrl 0.458391904831
+vonat SNARC_only CD 8 lctrl 0.370414018631
+vonat SNARC_only CD 6 lctrl 0.395267009735
+vonat SNARC_only CD 5 num_separator 0.458666086197
+vonat SNARC_only CD 8 lctrl 0.355423927307
+vonat SNARC_only CD 2 lctrl 0.40976691246
+vonat SNARC_only CD 7 num_separator 0.522254943848
+vonat SNARC_only CD 6 lctrl 0.555024862289
+vonat SNARC_only CD 8 lctrl 0.482096910477
+vonat SNARC_only CD 8 lctrl 0.338371992111
+vonat SNARC_only CD 6 lctrl 0.513998985291
+vonat SNARC_only CD 5 num_separator 0.490282058716
+vonat SNARC_only CD 6 lctrl 0.355323076248
+vonat SNARC_only CD 2 lctrl 0.346117973328
+vonat SNARC_only CD 5 num_separator 0.394109964371
+vonat SNARC_only CD 5 num_separator 0.394706964493
+vonat SNARC_only CD 4 lctrl 0.395619869232
+vonat SNARC_only CD 6 lctrl 0.354430913925
+vonat SNARC_only CD 8 lctrl 0.36313700676
+vonat SNARC_only CD 6 lctrl 0.441787958145
+vonat SNARC_only CD 9 num_separator 0.474900007248
+vonat SNARC_only CD 2 lctrl 0.465739965439
+vonat SNARC_only CD 6 lctrl 0.579028844833
+vonat SNARC_only CD 8 lctrl 0.346298933029
+vonat SNARC_only CD 4 lctrl 0.330171108246
+vonat SNARC_only CD 2 lctrl 0.418459892273
+vonat SNARC_only CD 7 num_separator 0.401726007462
+vonat SNARC_only CD 8 lctrl 0.371798038483
+vonat SNARC_only CD 3 num_separator 0.489438056946
+vonat SNARC_only CD 4 lctrl 0.547515869141
+vonat SNARC_only CD 2 lctrl 0.418903112411
+vonat SNARC_only CD 2 lctrl 0.354973077774
+vonat SNARC_only CD 9 lctrl 0.393578052521
+vonat SNARC_only CD 6 num_separator 0.345515012741
+vonat SNARC_only CD 8 lctrl 0.418827056885
+vonat SNARC_only CD 2 lctrl 0.354641914368
+vonat SNARC_only CD 1 num_separator 0.490526914597
+vonat SNARC_only CD 6 lctrl 0.562813997269
+vonat SNARC_only CD 2 lctrl 0.363320112228
+vonat SNARC_only CD 5 num_separator 0.579066038132
+vonat SNARC_only CD 8 num_separator 0.354172945023
+vonat SNARC_only CD 3 num_separator 0.569715023041
+vonat SNARC_only CD 4 lctrl 0.387328863144
+vonat SNARC_only CD 3 num_separator 0.61779499054
+vonat SNARC_only CD 5 num_separator 0.578817129135
+vonat SNARC_only CD 5 num_separator 0.363382101059
+vonat SNARC_only CD 8 lctrl 0.547176122665
+vonat SNARC_only CD 9 num_separator 0.538400888443
+vonat SNARC_only CD 9 num_separator 0.355499982834
+vonat SNARC_only CD 6 lctrl 0.444255113602
+vonat SNARC_only CD 3 num_separator 0.402047157288
+vonat SNARC_only CD 4 lctrl 0.587052106857
+vonat SNARC_only CD 2 lctrl 0.674960851669
+vonat SNARC_only CD 6 lctrl 0.555053949356
+vonat SNARC_only CD 4 lctrl 0.363233089447
+vonat SNARC_only CD 1 num_separator 0.489855051041
+vonat SNARC_only CD 2 lctrl 0.915405035019
+vonat SNARC_only CD 4 lctrl 0.387542009354
+vonat SNARC_only CD 3 num_separator 0.435184001923
+vonat SNARC_only CD 4 lctrl 0.658617973328
+vonat SNARC_only CD 5 lctrl 0.354700088501
+vonat SNARC_only CD 4 lctrl 0.53013920784
+vonat SNARC_only CD 2 lctrl 0.355046987534
+vonat SNARC_only CD 5 num_separator 0.506785154343
+vonat SNARC_only CD 3 num_separator 0.451238870621
+vonat SNARC_only CD 1 num_separator 0.970947027206
+vonat SNARC_only CD 1 num_separator 0.362211942673
+vonat SNARC_only CD 5 lctrl 0.722672939301
+vonat SNARC_only CD 6 lctrl 0.648989915848
+vonat SNARC_only CD 1 num_separator 0.49027299881
+vonat SNARC_only CD 6 lctrl 0.635142087936
+vonat SNARC_only CD 3 num_separator 0.538550853729
+vonat SNARC_only CD 8 num_separator 0.409172058105
+vonat SNARC_only CD 6 num_separator 0.418931007385
+vonat SNARC_only CD 5 num_separator 0.648802995682
+vonat SNARC_only CD 5 num_separator 0.474989175797
+vonat SNARC_only CD 8 lctrl 0.50728392601
+vonat SNARC_only CD 7 num_separator 0.466060876846
+vonat SNARC_only CD 4 lctrl 0.698298931122
+vonat SNARC_only CD 6 lctrl 0.851360082626
+vonat SNARC_only CD 7 num_separator 0.466470003128
+vonat SNARC_only CD 1 num_separator 0.450435876846
+vonat SNARC_only CD 2 lctrl 0.539916038513
+vonat SNARC_only CD 5 num_separator 0.674658060074
+vonat SNARC_only CD 7 num_separator 0.361727952957
+vonat SNARC_only CD 7 num_separator 0.35463309288
+vonat SNARC_only CD 1 lctrl 0.472090005875
+vonat SNARC_only CD 2 lctrl 0.498219013214
+vonat SNARC_only CD 8 lctrl 0.345976114273
+vonat SNARC_only CD 7 num_separator 0.586935043335
+vonat SNARC_only CD 1 lctrl 0.585819005966
+vonat SNARC_only CD 3 num_separator 0.370876073837
+vonat SNARC_only CD 8 lctrl 0.633172035217
+vonat SNARC_only CD 3 num_separator 0.363155841827
+vonat SNARC_only CD 1 num_separator 0.323204994202
+vonat SNARC_only CD 5 num_separator 0.394958019257
+vonat SNARC_only CD 2 num_separator 0.338551998138
+vonat SNARC_only CD 9 num_separator 0.475016117096
+vonat SNARC_only CD 9 num_separator 0.355318784714
+vonat SNARC_only CD 7 num_separator 0.346971988678
+vonat SNARC_only CD 9 num_separator 0.346944093704
+vonat SNARC_only CD 3 num_separator 0.451366901398
+vonat SNARC_only CD 9 num_separator 0.419480085373
+vonat SNARC_only CD 7 num_separator 0.394373178482
+vonat SNARC_only CD 3 num_separator 0.35412979126
+vonat SNARC_only CD 9 num_separator 0.394351005554
+vonat SNARC_only CD 6 num_separator 0.354952812195
+vonat SNARC_only CD 7 num_separator 0.442435979843
+vonat SNARC_only CD 1 num_separator 0.467750787735
+vonat SNARC_only CD 7 num_separator 0.355181932449
+vonat SNARC_only CD 2 lctrl 0.491640806198
+vonat SNARC_only CD 1 num_separator 0.410255908966
+vonat SNARC_only CD 5 lctrl 0.410820960999
+vonat SNARC_only CD 9 num_separator 0.465044975281
+vonat SNARC_only CD 1 num_separator 0.46696305275
+vonat SNARC_only CD 8 lctrl 0.683080911636
+vonat SNARC_only CD 6 lctrl 0.475107908249
+vonat SNARC_only CD 9 num_separator 0.506735086441
+vonat SNARC_only CD 1 num_separator 0.402765989304
+vonat SNARC_only CD 3 num_separator 0.483100891113
+vonat SNARC_only CD 7 num_separator 0.402973175049
+vonat SNARC_only CD 1 num_separator 0.418995857239
+vonat SNARC_only CD 5 num_separator 0.346296072006
+vonat SNARC_only CD 9 num_separator 0.442982912064
+vonat SNARC_only CD 3 num_separator 0.403665065765
+vonat SNARC_only CD 3 num_separator 0.306955099106
+vonat SNARC_only CD 6 lctrl 0.387537002563
+vonat SNARC_only CD 8 lctrl 0.475466012955
+vonat SNARC_only CD 4 lctrl 0.339159011841
+vonat SNARC_only CD 2 lctrl 0.282476186752
+vonat SNARC_only CD 1 lctrl 0.354817867279
+vonat SNARC_only CD 7 num_separator 0.521023035049
+vonat SNARC_only CD 1 num_separator 0.402971029282
+vonat SNARC_only CD 6 lctrl 0.507553100586
+vonat SNARC_only CD 8 lctrl 0.339074134827
+vonat SNARC_only CD 3 lctrl 0.211511135101
+vonat SNARC_only CD 4 lctrl 0.633803844452
+vonat SNARC_only CD 4 lctrl 0.32312297821
+vonat SNARC_only CD 2 lctrl 0.306854963303
+vonat SNARC_only CD 3 lctrl 0.314435005188
+vonat SNARC_only CD 5 num_separator 0.449557065964
+vonat SNARC_only CD 8 num_separator 0.283122062683
+vonat SNARC_only CD 8 lctrl 0.346034049988
+vonat SNARC_only CD 9 num_separator 0.402630805969
+vonat SNARC_only CD 9 num_separator 0.330159902573
+vonat SNARC_only CD 9 num_separator 0.28310585022
+vonat SNARC_only CD 2 num_separator 0.291171073914
+vonat SNARC_only CD 3 num_separator 0.433836936951
+vonat SNARC_only CD 6 num_separator 0.339234113693
+vonat SNARC_only CD 4 lctrl 0.473630189896
+vonat SNARC_only CD 2 lctrl 0.330197811127
+vonat SNARC_only CD 2 lctrl 0.275104045868
+vonat SNARC_only CD 6 lctrl 0.491484880447
+vonat SNARC_only CD 8 lctrl 0.426878213882
+vonat SNARC_only CD 9 num_separator 0.49806189537
+vonat SNARC_only CD 7 num_separator 0.395039081573
+vonat SNARC_only CD 2 lctrl 0.35591006279
+vonat SNARC_only CD 2 lctrl 0.282915115356
+vonat SNARC_only CD 9 num_separator 0.410231113434
+vonat SNARC_only CD 3 num_separator 0.338742017746
+vonat SNARC_only CD 6 num_separator 0.337807893753
+vonat SNARC_only CD 4 lctrl 0.386958122253
+vonat SNARC_only CD 1 num_separator 0.506729841232
+vonat SNARC_only CD 7 num_separator 0.337018013
+vonat SNARC_only CD 2 lctrl 0.466743946075
+vonat SNARC_only CD 7 num_separator 0.60209107399
+vonat SNARC_only CD 5 num_separator 0.442267894745
+vonat SNARC_only CD 1 num_separator 0.305869102478
+vonat SNARC_only CD 2 num_separator 0.266036987305
+vonat SNARC_only CD 3 num_separator 0.402473926544
+vonat SNARC_only CD 4 num_separator 0.362762212753
+vonat SNARC_only CD 7 num_separator 0.411229133606
+vonat SNARC_only CD 9 num_separator 0.355293035507
+vonat SNARC_only CD 3 num_separator 0.410111188889
+vonat SNARC_only CD 4 lctrl 0.434720039368
+vonat SNARC_only CD 1 num_separator 0.451065063477
+vonat SNARC_only CD 5 num_separator 0.361361026764
+vonat SNARC_only CD 6 lctrl 0.451355934143
+vonat SNARC_only CD 9 num_separator 0.498690128326
+vonat SNARC_only CD 2 num_separator 0.586603164673
+vonat SNARC_only CD 6 lctrl 0.635202169418
+vonat SNARC_only CD 9 num_separator 0.482051849365
+vonat SNARC_only CD 5 num_separator 1.01109790802
+vonat SNARC_only CD 1 num_separator 0.514778852463
+vonat SNARC_only CD 4 num_separator 0.554185152054
+vonat SNARC_only CD 7 num_separator 0.426042079926
+vonat SNARC_only CD 7 num_separator 0.410259008408
+vonat SNARC_only CD 7 num_separator 0.337375879288
+vonat SNARC_only CD 4 lctrl 0.563536167145
+vonat SNARC_only CD 2 lctrl 0.330341815948
+vonat SNARC_only CD 4 lctrl 0.426784992218
+vonat SNARC_only CD 1 num_separator 0.442624092102
+vonat SNARC_only CD 5 num_separator 0.571729898453
+vonat SNARC_only CD 7 num_separator 0.434849977493
+vonat SNARC_only CD 9 lctrl 0.391723871231
+vonat SNARC_only CD 1 num_separator 0.498650074005
+vonat SNARC_only CD 3 num_separator 0.459409952164

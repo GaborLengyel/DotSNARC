@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'03_23_1210', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hexa', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hexa SNARC color dot CD 0 up 15 lctrl 1.02859744914
+hexa SNARC color dot CD 0 down 15 num_decimal 0.550933133927
+hexa SNARC color dot CD 0 up 40 num_decimal 0.462335419681
+hexa SNARC color dot CD 0 up 5 lctrl 0.844897437812
+hexa SNARC color dot CD 0 up 30 lctrl 0.589010746684
+hexa SNARC color dot CD 0 up 30 lctrl 0.400508894512
+hexa SNARC color dot CD 0 down 40 num_decimal 0.450493951837
+hexa SNARC color dot CD 0 up 15 lctrl 0.442535470778
+hexa SNARC color dot CD 0 up 35 lctrl 0.403167244687
+hexa SNARC color dot CD 0 down 5 num_decimal 0.421920302513
+hexa SNARC color dot CD 0 up 10 lctrl 0.439515905513
+hexa SNARC color dot CD 0 down 20 num_decimal 0.432334684607
+hexa SNARC color dot CD 0 up 10 lctrl 0.504799430739
+hexa SNARC color dot CD 0 up 10 lctrl 0.367337661082
+hexa SNARC color dot CD 0 down 15 num_decimal 0.418892000613
+hexa SNARC color dot CD 0 up 5 lctrl 0.50044556889
+hexa SNARC color dot CD 0 up 25 lctrl 0.442834324291
+hexa SNARC color dot CD 0 up 25 lctrl 0.379312889985
+hexa SNARC color dot CD 0 up 20 lctrl 0.310516329686
+hexa SNARC color dot CD 0 up 45 lctrl 0.306873148729
+hexa SNARC color dot CD 0 down 15 num_decimal 0.417599880937
+hexa SNARC color dot CD 0 down 20 num_decimal 0.363025072365
+hexa SNARC color dot CD 0 down 35 num_decimal 0.398819408118
+hexa SNARC color dot CD 0 up 20 lctrl 0.392512755498
+hexa SNARC color dot CD 0 down 5 num_decimal 0.395849250097
+hexa SNARC color dot CD 0 down 25 num_decimal 0.414881278033
+hexa SNARC color dot CD 0 up 25 lctrl 0.400383870103
+hexa SNARC color dot CD 0 up 10 lctrl 0.386987881982
+hexa SNARC color dot CD 0 down 10 num_decimal 0.461140005631
+hexa SNARC color dot CD 0 up 10 lctrl 0.421117133708
+hexa SNARC color dot CD 0 up 20 lctrl 0.51081144753
+hexa SNARC color dot CD 0 up 45 lctrl 0.396478891053
+hexa SNARC color dot CD 0 down 30 num_decimal 0.430836199361
+hexa SNARC color dot CD 0 down 5 num_decimal 0.416226721354
+hexa SNARC color dot CD 0 up 35 lctrl 0.528623056554
+hexa SNARC color dot CD 0 up 10 num_decimal 0.566373497
+hexa SNARC color dot CD 0 up 25 lctrl 0.594420537498
+hexa SNARC color dot CD 0 down 10 num_decimal 0.437246787929
+hexa SNARC color dot CD 0 up 35 lctrl 0.429220823818
+hexa SNARC color dot CD 0 up 5 lctrl 0.375037657956
+hexa SNARC color dot CD 0 down 10 num_decimal 0.386870389164
+hexa SNARC color dot CD 0 up 25 lctrl 0.35036928895
+hexa SNARC color dot CD 0 up 45 lctrl 0.498210795355
+hexa SNARC color dot CD 0 down 15 num_decimal 0.440848093247
+hexa SNARC color dot CD 0 up 25 lctrl 0.51380480286
+hexa SNARC color dot CD 0 up 40 lctrl 0.422898204226
+hexa SNARC color dot CD 0 down 30 num_decimal 0.408295354035
+hexa SNARC color dot CD 0 up 20 lctrl 0.394523991432
+hexa SNARC color dot CD 0 up 45 lctrl 0.42909067795
+hexa SNARC color dot CD 0 up 45 lctrl 0.341931196206
+hexa SNARC color dot CD 0 up 35 lctrl 0.425917468223
+hexa SNARC color dot CD 0 up 45 lctrl 0.434976766541
+hexa SNARC color dot CD 0 down 45 num_decimal 0.44295061205
+hexa SNARC color dot CD 0 up 5 lctrl 0.364274111329
+hexa SNARC color dot CD 0 up 5 lctrl 0.455834452034
+hexa SNARC color dot CD 0 up 25 lctrl 0.440203087826
+hexa SNARC color dot CD 0 down 10 num_decimal 0.497339842244
+hexa SNARC color dot CD 0 down 20 num_decimal 0.45506020452
+hexa SNARC color dot CD 0 up 15 lctrl 0.57566296072
+hexa SNARC color dot CD 0 down 5 lctrl 0.371455934786
+hexa SNARC color dot CD 0 up 35 lctrl 0.494773076192
+hexa SNARC color dot CD 0 down 30 num_decimal 0.580695870769
+hexa SNARC color dot CD 0 down 35 num_decimal 0.446899575589
+hexa SNARC color dot CD 0 down 40 num_decimal 0.407541592445
+hexa SNARC color dot CD 0 down 20 num_decimal 0.401303627936
+hexa SNARC color dot CD 0 down 45 num_decimal 0.395153029865
+hexa SNARC color dot CD 0 down 10 num_decimal 0.430260484587
+hexa SNARC color dot CD 0 down 40 num_decimal 0.439527654788
+hexa SNARC color dot CD 0 up 25 lctrl 0.488620670541
+hexa SNARC color dot CD 0 down 25 num_decimal 0.527975641031
+hexa SNARC color dot CD 0 down 40 num_decimal 0.56498738307
+hexa SNARC color dot CD 0 up 20 lctrl 0.44838932417
+hexa SNARC color dot CD 0 down 25 num_decimal 0.512494908646
+hexa SNARC color dot CD 0 down 20 num_decimal 1.03117295183
+hexa SNARC color dot CD 0 down 35 num_decimal 0.455291574981
+hexa SNARC color dot CD 0 down 45 num_decimal 0.42236074993
+hexa SNARC color dot CD 0 up 15 lctrl 0.616436882861
+hexa SNARC color dot CD 0 down 25 num_decimal 0.514048826386
+hexa SNARC color dot CD 0 up 30 lctrl 0.478612090563
+hexa SNARC color dot CD 0 down 25 num_decimal 0.54235706247
+hexa SNARC color dot CD 0 up 45 lctrl 0.434273014733
+hexa SNARC color dot CD 0 down 15 num_decimal 0.37165205738
+hexa SNARC color dot CD 0 down 35 num_decimal 0.534608562142
+hexa SNARC color dot CD 0 down 5 num_decimal 0.419856646709
+hexa SNARC color dot CD 0 up 30 lctrl 0.365449340723
+hexa SNARC color dot CD 0 down 15 num_decimal 0.457138923506
+hexa SNARC color dot CD 0 down 5 num_decimal 0.385461981743
+hexa SNARC color dot CD 0 down 25 num_decimal 0.444742528052
+hexa SNARC color dot CD 0 up 5 lctrl 0.445061867504
+hexa SNARC color dot CD 0 down 15 num_decimal 0.542382669868
+hexa SNARC color dot CD 0 up 35 lctrl 0.530677071903
+hexa SNARC color dot CD 0 down 5 num_decimal 0.480096717671
+hexa SNARC color dot CD 0 up 40 lctrl 0.567330912789
+hexa SNARC color dot CD 0 up 25 lctrl 0.530957548341
+hexa SNARC color dot CD 0 up 40 lctrl 0.438414184464
+hexa SNARC color dot CD 0 down 45 num_decimal 0.447035746736
+hexa SNARC color dot CD 0 up 25 num_decimal 0.463645916432
+hexa SNARC color dot CD 0 down 15 num_decimal 0.648324431997
+hexa SNARC color dot CD 0 up 20 lctrl 0.440788744309
+hexa SNARC color dot CD 0 up 45 lctrl 0.416036021488
+hexa SNARC color dot CD 0 down 30 num_decimal 0.449636856836
+hexa SNARC color dot CD 0 up 10 lctrl 0.442276082802
+hexa SNARC color dot CD 0 down 20 num_decimal 0.499444168614
+hexa SNARC color dot CD 0 up 15 lctrl 0.946057845023
+hexa SNARC color dot CD 0 down 25 num_decimal 0.455254820816
+hexa SNARC color dot CD 0 up 15 lctrl 0.551785408708
+hexa SNARC color dot CD 0 up 35 lctrl 0.411731868153
+hexa SNARC color dot CD 0 down 35 num_decimal 0.461519899065
+hexa SNARC color dot CD 0 up 35 lctrl 0.468996960859
+hexa SNARC color dot CD 0 up 10 lctrl 0.484382795199
+hexa SNARC color dot CD 0 up 5 lctrl 0.451881873334
+hexa SNARC color dot CD 0 down 25 num_decimal 0.404335545012
+hexa SNARC color dot CD 0 up 30 lctrl 0.566111096385
+hexa SNARC color dot CD 0 up 5 lctrl 0.401518428902
+hexa SNARC color dot CD 0 down 15 num_decimal 0.403794174286
+hexa SNARC color dot CD 0 down 10 num_decimal 0.533928007644
+hexa SNARC color dot CD 0 up 15 lctrl 0.386931846951
+hexa SNARC color dot CD 0 down 25 num_decimal 0.437336564486
+hexa SNARC color dot CD 0 up 5 lctrl 0.470661141095
+hexa SNARC color dot CD 0 up 5 lctrl 0.390640402111
+hexa SNARC color dot CD 0 up 40 lctrl 0.488606812403
+hexa SNARC color dot CD 0 down 45 num_decimal 0.383337470688
+hexa SNARC color dot CD 0 down 40 num_decimal 0.48940184711
+hexa SNARC color dot CD 0 down 10 num_decimal 0.44095805446
+hexa SNARC color dot CD 0 up 10 lctrl 0.497608268124
+hexa SNARC color dot CD 0 down 40 num_decimal 0.487257151399
+hexa SNARC color dot CD 0 up 35 lctrl 0.477420894196
+hexa SNARC color dot CD 0 up 15 lctrl 0.40516432123
+hexa SNARC color dot CD 0 up 25 lctrl 0.591763392367
+hexa SNARC color dot CD 0 down 5 num_decimal 0.435143365336
+hexa SNARC color dot CD 0 up 10 lctrl 0.404388567404
+hexa SNARC color dot CD 0 up 35 lctrl 0.405692436354
+hexa SNARC color dot CD 0 up 15 lctrl 0.376021886201
+hexa SNARC color dot CD 0 down 40 num_decimal 0.37111520562
+hexa SNARC color dot CD 0 up 35 lctrl 0.406324186173
+hexa SNARC color dot CD 0 down 15 num_decimal 0.368048643228
+hexa SNARC color dot CD 0 down 20 num_decimal 0.427665098483
+hexa SNARC color dot CD 0 up 30 lctrl 0.413450577107
+hexa SNARC color dot CD 0 up 35 lctrl 0.543432573584
+hexa SNARC color dot CD 0 up 40 lctrl 0.396125207568
+hexa SNARC color dot CD 0 up 30 lctrl 0.390717525588
+hexa SNARC color dot CD 0 up 45 lctrl 0.377346542329
+hexa SNARC color dot CD 0 up 40 lctrl 0.348728004741
+hexa SNARC color dot CD 0 down 35 num_decimal 0.416727722753
+hexa SNARC color dot CD 0 down 45 num_decimal 0.473714146618
+hexa SNARC color dot CD 0 up 20 lctrl 0.393438538609
+hexa SNARC color dot CD 0 up 25 lctrl 0.420371506247
+hexa SNARC color dot CD 0 up 25 lctrl 0.389982141089
+hexa SNARC color dot CD 0 down 30 num_decimal 0.416189364667
+hexa SNARC color dot CD 0 down 10 num_decimal 0.465287803163
+hexa SNARC color dot CD 0 up 40 lctrl 0.415920637519
+hexa SNARC color dot CD 0 down 45 num_decimal 0.480785406311
+hexa SNARC color dot CD 0 up 25 lctrl 0.51157756093
+hexa SNARC color dot CD 0 up 10 lctrl 0.365163742797
+hexa SNARC color dot CD 0 up 15 lctrl 0.376901274707
+hexa SNARC color dot CD 0 down 30 num_decimal 0.411845444527
+hexa SNARC color dot CD 0 up 35 num_decimal 0.380885787352
+hexa SNARC color dot CD 0 down 45 num_decimal 0.54200639161
+hexa SNARC color dot CD 0 up 40 lctrl 0.546675676451
+hexa SNARC color dot CD 0 up 30 lctrl 0.407370474713
+hexa SNARC color dot CD 0 up 10 lctrl 0.321629944636
+hexa SNARC color dot CD 0 down 25 num_decimal 0.415413008319
+hexa SNARC color dot CD 0 up 40 lctrl 0.400724297986
+hexa SNARC color dot CD 0 up 30 lctrl 0.402583998322
+hexa SNARC color dot CD 0 up 45 lctrl 0.388210409743
+hexa SNARC color dot CD 0 down 5 num_decimal 0.503249730667
+hexa SNARC color dot CD 0 up 40 lctrl 0.565048539589
+hexa SNARC color dot CD 0 up 20 lctrl 0.424833521727
+hexa SNARC color dot CD 0 up 5 lctrl 0.402843988835
+hexa SNARC color dot CD 0 down 5 num_decimal 0.533065489901
+hexa SNARC color dot CD 0 down 25 num_decimal 0.536978904318
+hexa SNARC color dot CD 0 down 25 num_decimal 0.709373697042
+hexa SNARC color dot CD 0 up 5 lctrl 0.491895104831
+hexa SNARC color dot CD 0 up 5 lctrl 0.562489305143
+hexa SNARC color dot CD 0 up 20 lctrl 0.367092432498
+hexa SNARC color dot CD 0 up 35 lctrl 0.41018246935
+hexa SNARC color dot CD 0 down 10 num_decimal 0.452822719613
+hexa SNARC color dot CD 0 up 30 lctrl 0.420791166471
+hexa SNARC color dot CD 0 up 5 lctrl 0.422410458428
+hexa SNARC color dot CD 0 down 40 num_decimal 0.383626382492
+hexa SNARC color dot CD 0 down 30 num_decimal 0.42629103511
+hexa SNARC color dot CD 0 down 35 num_decimal 0.44288102015
+hexa SNARC color dot CD 0 down 10 num_decimal 0.370843164579
+hexa SNARC color dot CD 0 down 45 num_decimal 0.397455587707
+hexa SNARC color dot CD 0 down 10 num_decimal 0.415505797515
+hexa SNARC color dot CD 0 up 20 lctrl 0.433342712669
+hexa SNARC color dot CD 0 down 20 num_decimal 0.418744682698
+hexa SNARC color dot CD 0 down 25 num_decimal 0.452438909764
+hexa SNARC color dot CD 0 down 20 num_decimal 0.357119401626
+hexa SNARC color dot CD 0 down 5 num_decimal 0.369795369697
+hexa SNARC color dot CD 0 down 10 num_decimal 0.373717219511
+hexa SNARC color dot CD 0 up 45 lctrl 0.376935618755
+hexa SNARC color dot CD 0 down 25 num_decimal 0.515878701626
+hexa SNARC color dot CD 0 down 25 num_decimal 0.417591144287
+hexa SNARC color dot CD 0 down 45 num_decimal 0.345927156857
+hexa SNARC color dot CD 0 down 15 num_decimal 0.366720070655
+hexa SNARC color dot CD 0 down 45 num_decimal 0.353838038267
+hexa SNARC color dot CD 0 up 15 lctrl 0.406271163782
+hexa SNARC color dot CD 0 up 40 lctrl 0.440207908061
+hexa SNARC color dot CD 0 down 25 num_decimal 0.417625789618
+hexa SNARC color dot CD 0 up 35 lctrl 0.466221117851
+hexa SNARC color dot CD 0 down 45 num_decimal 0.424309925555
+hexa SNARC color dot CD 0 down 45 num_decimal 0.425325786477
+hexa SNARC color dot CD 0 up 15 lctrl 0.403234125217
+hexa SNARC color dot CD 0 down 20 num_decimal 0.41320595103
+hexa SNARC color dot CD 0 up 45 lctrl 0.383144661959
+hexa SNARC color dot CD 0 up 45 lctrl 0.376897659546
+hexa SNARC color dot CD 0 up 40 lctrl 0.37971025669
+hexa SNARC color dot CD 0 down 45 num_decimal 0.383069044809
+hexa SNARC color dot CD 0 down 20 num_decimal 0.578075178521
+hexa SNARC color dot CD 0 down 15 num_decimal 0.365294189949
+hexa SNARC color dot CD 0 up 35 lctrl 0.39167343505
+hexa SNARC color dot CD 0 down 45 num_decimal 0.33809791792
+hexa SNARC color dot CD 0 up 10 lctrl 0.543427150842
+hexa SNARC color dot CD 0 down 35 num_decimal 0.451323330577
+hexa SNARC color dot CD 0 up 5 lctrl 0.411539059423
+hexa SNARC color dot CD 0 up 20 lctrl 0.421577464527
+hexa SNARC color dot CD 0 down 30 num_decimal 0.454940000345
+hexa SNARC color dot CD 0 up 40 lctrl 0.406900503469
+hexa SNARC color dot CD 0 up 25 lctrl 0.80113980078
+hexa SNARC color dot CD 0 down 15 num_decimal 0.411301663698
+hexa SNARC color dot CD 0 up 30 lctrl 0.445964453305
+hexa SNARC color dot CD 0 down 30 num_decimal 0.431135956664
+hexa SNARC color dot CD 0 up 45 lctrl 0.391220635836
+hexa SNARC color dot CD 0 down 35 num_decimal 0.441901612125
+hexa SNARC color dot CD 0 down 45 num_decimal 0.465960826084
+hexa SNARC color dot CD 0 down 20 num_decimal 0.394028412775
+hexa SNARC color dot CD 0 up 15 lctrl 0.388650254623
+hexa SNARC color dot CD 0 up 15 lctrl 0.415000277164
+hexa SNARC color dot CD 0 up 5 lctrl 0.456082090721
+hexa SNARC color dot CD 0 up 20 lctrl 0.368687623355
+hexa SNARC color dot CD 0 up 30 lctrl 0.532653059985
+hexa SNARC color dot CD 0 up 30 lctrl 0.29781113904
+hexa SNARC color dot CD 0 down 40 num_decimal 0.455553071806
+hexa SNARC color dot CD 0 down 20 num_decimal 0.45580131303
+hexa SNARC color dot CD 0 up 30 lctrl 0.471623678357
+hexa SNARC color dot CD 0 up 35 lctrl 0.390595513833
+hexa SNARC color dot CD 0 up 25 lctrl 0.505320014257
+hexa SNARC color dot CD 0 down 30 num_decimal 0.471143765404
+hexa SNARC color dot CD 0 up 15 lctrl 0.462618607489
+hexa SNARC color dot CD 0 up 40 lctrl 0.382249909031
+hexa SNARC color dot CD 0 down 10 num_decimal 0.409701652607
+hexa SNARC color dot CD 0 up 10 num_decimal 0.459283920471
+hexa SNARC color dot CD 0 up 30 lctrl 0.594969138561
+hexa SNARC color dot CD 0 down 30 num_decimal 0.565709813236
+hexa SNARC color dot CD 0 down 20 num_decimal 0.473694564484
+hexa SNARC color dot CD 0 up 20 lctrl 0.377597796207
+hexa SNARC color dot CD 0 up 30 lctrl 0.725007170084
+hexa SNARC color dot CD 0 down 45 num_decimal 0.488793897122
+hexa SNARC color dot CD 0 down 5 num_decimal 0.623435538015
+hexa SNARC color dot CD 0 down 40 num_decimal 0.48870050539
+hexa SNARC color dot CD 0 down 40 num_decimal 0.463367548859
+hexa SNARC color dot CD 0 down 15 num_decimal 0.4235368831
+hexa SNARC color dot CD 0 up 35 lctrl 0.456588514862
+hexa SNARC color dot CD 0 down 30 num_decimal 0.439432756742
+hexa SNARC color dot CD 0 up 45 lctrl 0.519492961277
+hexa SNARC color dot CD 0 up 20 lctrl 0.405633689952
+hexa SNARC color dot CD 0 down 25 num_decimal 0.447402384554
+hexa SNARC color dot CD 0 up 30 lctrl 0.487222506083
+hexa SNARC color dot CD 0 down 30 num_decimal 0.485759871197
+hexa SNARC color dot CD 0 up 45 lctrl 0.635608094599
+hexa SNARC color dot CD 0 down 30 num_decimal 0.508997840545
+hexa SNARC color dot CD 0 down 30 num_decimal 0.562893600916
+hexa SNARC color dot CD 0 down 20 num_decimal 0.390891354691
+hexa SNARC color dot CD 0 up 5 lctrl 0.425571617598
+hexa SNARC color dot CD 0 up 5 lctrl 0.459597535897
+hexa SNARC color dot CD 0 down 45 num_decimal 0.514228680782
+hexa SNARC color dot CD 0 down 10 num_decimal 0.583188827208
+hexa SNARC color dot CD 0 down 35 num_decimal 0.441371990673
+hexa SNARC color dot CD 0 up 40 lctrl 0.425908430319
+hexa SNARC color dot CD 0 down 35 num_decimal 0.706121254989
+hexa SNARC color dot CD 0 up 5 lctrl 0.520738686348
+hexa SNARC color dot CD 0 down 35 num_decimal 0.477902915998
+hexa SNARC color dot CD 0 up 30 lctrl 0.452897131734
+hexa SNARC color dot CD 0 up 40 lctrl 0.43646681642
+hexa SNARC color dot CD 0 down 5 num_decimal 0.397860184763
+hexa SNARC color dot CD 0 down 10 num_decimal 0.951847228018
+hexa SNARC color dot CD 0 down 30 num_decimal 0.507770492564
+hexa SNARC color dot CD 0 down 20 num_decimal 0.410396667794
+hexa SNARC color dot CD 0 up 10 lctrl 0.413010732213
+hexa SNARC color dot CD 0 down 40 num_decimal 0.61503148808
+hexa SNARC color dot CD 0 down 40 num_decimal 0.528081685829
+hexa SNARC color dot CD 0 down 25 num_decimal 0.390021004103
+hexa SNARC color dot CD 0 down 20 num_decimal 0.400761654688
+hexa SNARC color dot CD 0 up 25 lctrl 0.386545928239
+hexa SNARC color dot CD 0 down 35 num_decimal 0.596408877405
+hexa SNARC color dot CD 0 down 35 num_decimal 0.630634533489
+hexa SNARC color dot CD 0 down 40 num_decimal 0.430956403536
+hexa SNARC color dot CD 0 down 15 num_decimal 0.367459371584
+hexa SNARC color dot CD 0 up 20 lctrl 0.579118755704
+hexa SNARC color dot CD 0 up 20 lctrl 0.430717501484
+hexa SNARC color dot CD 0 down 5 num_decimal 0.439358645905
+hexa SNARC color dot CD 0 down 30 num_decimal 0.608026807648
+hexa SNARC color dot CD 0 down 40 num_decimal 0.417117256613
+hexa SNARC color dot CD 0 up 45 lctrl 0.450268004104
+hexa SNARC color dot CD 0 up 35 lctrl 0.362183944337
+hexa SNARC color dot CD 0 up 30 lctrl 0.438197877185
+hexa SNARC color dot CD 0 down 10 num_decimal 0.495270763684
+hexa SNARC color dot CD 0 down 15 num_decimal 0.710417876733
+hexa SNARC color dot CD 0 up 15 lctrl 0.46846312171
+hexa SNARC color dot CD 0 up 5 lctrl 0.451558617468
+hexa SNARC color dot CD 0 down 20 num_decimal 0.420097657625
+hexa SNARC color dot CD 0 up 5 lctrl 0.429811300521
+hexa SNARC color dot CD 0 down 10 num_decimal 0.479290234958
+hexa SNARC color dot CD 0 up 10 lctrl 0.502997573014
+hexa SNARC color dot CD 0 down 20 num_decimal 0.452644672812
+hexa SNARC color dot CD 0 up 35 lctrl 0.468494151864
+hexa SNARC color dot CD 0 down 20 num_decimal 0.428050414659
+hexa SNARC color dot CD 0 up 40 lctrl 0.580784743521
+hexa SNARC color dot CD 0 up 20 lctrl 0.535559048876
+hexa SNARC color dot CD 0 down 30 num_decimal 0.444273460598
+hexa SNARC color dot CD 0 up 5 num_decimal 0.445125132857
+hexa SNARC color dot CD 0 up 30 lctrl 0.58173131381
+hexa SNARC color dot CD 0 down 5 num_decimal 0.488543848318
+hexa SNARC color dot CD 0 down 5 num_decimal 0.663508118465
+hexa SNARC color dot CD 0 down 35 num_decimal 0.598959073934
+hexa SNARC color dot CD 0 down 15 num_decimal 0.449412415444
+hexa SNARC color dot CD 0 down 40 num_decimal 0.537273238864
+hexa SNARC color dot CD 0 up 10 lctrl 0.422285735287
+hexa SNARC color dot CD 0 down 15 num_decimal 0.471497147635
+hexa SNARC color dot CD 0 up 20 lctrl 0.615376434915
+hexa SNARC color dot CD 0 up 30 lctrl 0.432556113359
+hexa SNARC color dot CD 0 down 40 num_decimal 0.449151219887
+hexa SNARC color dot CD 0 up 25 lctrl 0.513250779069
+hexa SNARC color dot CD 0 up 35 lctrl 0.367231616285
+hexa SNARC color dot CD 0 down 25 num_decimal 0.45814574651
+hexa SNARC color dot CD 0 down 20 num_decimal 0.666339393953
+hexa SNARC color dot CD 0 down 40 num_decimal 0.432814296291
+hexa SNARC color dot CD 0 down 35 num_decimal 0.384735333879
+hexa SNARC color dot CD 0 down 45 num_decimal 0.586802785605
+hexa SNARC color dot CD 0 up 10 lctrl 0.421315967702
+hexa SNARC color dot CD 0 up 10 lctrl 0.438999539663
+hexa SNARC color dot CD 0 up 25 lctrl 0.431881282857
+hexa SNARC color dot CD 0 up 35 lctrl 0.399043246987
+hexa SNARC color dot CD 0 down 10 num_decimal 0.401064123362
+hexa SNARC color dot CD 0 up 10 lctrl 0.442823478807
+hexa SNARC color dot CD 0 up 35 lctrl 0.57029805817
+hexa SNARC color dot CD 0 up 40 lctrl 0.550068206081
+hexa SNARC color dot CD 0 down 15 num_decimal 0.394762893484
+hexa SNARC color dot CD 0 up 25 lctrl 0.509305430707
+hexa SNARC color dot CD 0 down 10 num_decimal 0.691305110158
+hexa SNARC color dot CD 0 up 40 lctrl 0.47311402949
+hexa SNARC color dot CD 0 up 45 lctrl 0.544044138733
+hexa SNARC color dot CD 0 down 15 num_decimal 0.517375680545
+hexa SNARC color dot CD 0 up 15 lctrl 0.442617715744
+hexa SNARC color dot CD 0 up 5 lctrl 0.548507058003
+hexa SNARC color dot CD 0 up 40 lctrl 0.448042268501
+hexa SNARC color dot CD 0 down 30 num_decimal 0.46402520733
+hexa SNARC color dot CD 0 down 10 num_decimal 0.879246611978
+hexa SNARC color dot CD 0 up 15 lctrl 0.462555342136
+hexa SNARC color dot CD 0 up 45 lctrl 0.501444559064
+hexa SNARC color dot CD 0 down 5 num_decimal 0.411978904318
+hexa SNARC color dot CD 0 down 25 num_decimal 0.470449352768
+hexa SNARC color dot CD 0 down 40 num_decimal 0.653685719371
+hexa SNARC color dot CD 0 down 20 num_decimal 0.430378881167
+hexa SNARC color dot CD 0 down 45 num_decimal 0.518389131365
+hexa SNARC color dot CD 0 up 15 lctrl 0.452163856069
+hexa SNARC color dot CD 0 down 15 num_decimal 0.580819991374
+hexa SNARC color dot CD 0 down 35 num_decimal 0.406744750187
+hexa SNARC color dot CD 0 up 45 lctrl 0.480209390269
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'03_23_1221', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hexa', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hexa SNARC color arabic CD 0 down 2 num_decimal 1.29857634864
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.595652103177
+hexa SNARC color arabic CD 0 up 7 lctrl 0.507425545715
+hexa SNARC color arabic CD 0 up 9 lctrl 0.425401102388
+hexa SNARC color arabic CD 0 up 7 lctrl 0.381108722417
+hexa SNARC color arabic CD 0 up 1 lctrl 0.35203859066
+hexa SNARC color arabic CD 0 up 2 lctrl 0.402191753077
+hexa SNARC color arabic CD 0 up 4 lctrl 0.421527756014
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.385177588876
+hexa SNARC color arabic CD 0 up 4 lctrl 0.524176706778
+hexa SNARC color arabic CD 0 up 6 lctrl 0.4184846922
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.390201159753
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.553188694656
+hexa SNARC color arabic CD 0 up 4 lctrl 0.352235315804
+hexa SNARC color arabic CD 0 up 9 lctrl 0.50645879074
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.560194278878
+hexa SNARC color arabic CD 0 up 9 lctrl 0.335359431599
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.385275499546
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.444275268179
+hexa SNARC color arabic CD 0 up 7 lctrl 0.440038296627
+hexa SNARC color arabic CD 0 up 4 lctrl 0.492252704746
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.385628279255
+hexa SNARC color arabic CD 0 up 5 lctrl 0.436549362639
+hexa SNARC color arabic CD 0 up 7 lctrl 0.400623073423
+hexa SNARC color arabic CD 0 up 6 lctrl 0.347917906867
+hexa SNARC color arabic CD 0 up 8 lctrl 0.374154654288
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.376739496147
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.475101766846
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.44805221018
+hexa SNARC color arabic CD 0 up 7 lctrl 0.452528385067
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.576997257289
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.448454698388
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.356895562742
+hexa SNARC color arabic CD 0 up 3 lctrl 0.359224029278
+hexa SNARC color arabic CD 0 up 6 lctrl 0.377306474285
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.411846950854
+hexa SNARC color arabic CD 0 up 5 lctrl 0.511047035689
+hexa SNARC color arabic CD 0 up 7 lctrl 0.40505375748
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.352410952488
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.706641537268
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.445097717864
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.409152449036
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.404406643225
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.383849317586
+hexa SNARC color arabic CD 0 up 8 lctrl 0.378690780606
+hexa SNARC color arabic CD 0 up 1 lctrl 0.445298660692
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.489457580872
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.478555151727
+hexa SNARC color arabic CD 0 up 4 lctrl 0.435345513222
+hexa SNARC color arabic CD 0 up 8 lctrl 0.415446749845
+hexa SNARC color arabic CD 0 up 3 lctrl 0.395245819076
+hexa SNARC color arabic CD 0 up 5 lctrl 0.422204092843
+hexa SNARC color arabic CD 0 up 8 lctrl 0.321861315097
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.427322561751
+hexa SNARC color arabic CD 0 up 4 lctrl 0.567013682186
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.438451541151
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.666567450506
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.39597849219
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.350769969562
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.353063790768
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.37923636903
+hexa SNARC color arabic CD 0 up 4 lctrl 0.429793224714
+hexa SNARC color arabic CD 0 up 9 lctrl 0.58514613696
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.560964308694
+hexa SNARC color arabic CD 0 up 6 lctrl 0.416075788293
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.371724963188
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.430333992903
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.393684369716
+hexa SNARC color arabic CD 0 up 2 lctrl 0.396629824143
+hexa SNARC color arabic CD 0 up 1 lctrl 0.503219001781
+hexa SNARC color arabic CD 0 up 2 lctrl 0.429156353406
+hexa SNARC color arabic CD 0 up 8 lctrl 0.352821574808
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.426949296118
+hexa SNARC color arabic CD 0 up 2 lctrl 0.438737741584
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.378755552287
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.421409660688
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.385135411969
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.388121235708
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.407046315057
+hexa SNARC color arabic CD 0 up 6 lctrl 0.434344715482
+hexa SNARC color arabic CD 0 up 2 lctrl 0.446382305949
+hexa SNARC color arabic CD 0 up 3 lctrl 0.354028738147
+hexa SNARC color arabic CD 0 up 2 lctrl 0.372451912292
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.406952320816
+hexa SNARC color arabic CD 0 up 2 lctrl 0.434151002963
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.446333501226
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.51387559982
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.392269334508
+hexa SNARC color arabic CD 0 up 4 lctrl 0.411251653946
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.494589907903
+hexa SNARC color arabic CD 0 up 7 lctrl 0.459546622355
+hexa SNARC color arabic CD 0 up 7 lctrl 0.400226007972
+hexa SNARC color arabic CD 0 up 1 lctrl 0.323564358347
+hexa SNARC color arabic CD 0 up 7 lctrl 0.397085033459
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.407684993945
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.370980842039
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.357549304797
+hexa SNARC color arabic CD 0 up 8 lctrl 0.407695236892
+hexa SNARC color arabic CD 0 up 1 lctrl 0.378995358129
+hexa SNARC color arabic CD 0 up 9 lctrl 0.349564613818
+hexa SNARC color arabic CD 0 up 5 lctrl 0.335838742016
+hexa SNARC color arabic CD 0 up 6 lctrl 0.345593055521
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.411505619166
+hexa SNARC color arabic CD 0 up 7 lctrl 0.422806620089
+hexa SNARC color arabic CD 0 up 7 lctrl 0.346379052295
+hexa SNARC color arabic CD 0 up 4 lctrl 0.331913879578
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.381484398153
+hexa SNARC color arabic CD 0 up 3 lctrl 0.424684094964
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.444459641527
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.424487972356
+hexa SNARC color arabic CD 0 up 4 lctrl 0.516188099355
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.474579676986
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.487376451783
+hexa SNARC color arabic CD 0 up 3 lctrl 0.404580472328
+hexa SNARC color arabic CD 0 up 9 lctrl 0.407893769618
+hexa SNARC color arabic CD 0 up 1 lctrl 0.379193890854
+hexa SNARC color arabic CD 0 up 6 lctrl 0.397778542319
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.401160527719
+hexa SNARC color arabic CD 0 down 2 lctrl 0.404478645229
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.746496906635
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.42321031334
+hexa SNARC color arabic CD 0 up 7 lctrl 0.408533954818
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.475187325719
+hexa SNARC color arabic CD 0 up 8 lctrl 0.52276588924
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.328809960498
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.422793665755
+hexa SNARC color arabic CD 0 up 9 lctrl 0.400420925536
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.49863979475
+hexa SNARC color arabic CD 0 up 6 lctrl 0.512769962326
+hexa SNARC color arabic CD 0 up 9 lctrl 0.439104981924
+hexa SNARC color arabic CD 0 up 1 lctrl 0.424539789703
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.48234926576
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.464887725073
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.392328984686
+hexa SNARC color arabic CD 0 up 6 lctrl 0.459636398911
+hexa SNARC color arabic CD 0 up 7 lctrl 0.48432163868
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.419320397486
+hexa SNARC color arabic CD 0 up 3 lctrl 0.452653710716
+hexa SNARC color arabic CD 0 up 7 lctrl 0.42100928133
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.653820384221
+hexa SNARC color arabic CD 0 up 8 lctrl 0.406453126998
+hexa SNARC color arabic CD 0 up 6 lctrl 0.376242712431
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.444075530409
+hexa SNARC color arabic CD 0 up 8 lctrl 0.596445029034
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.495893776868
+hexa SNARC color arabic CD 0 up 1 lctrl 0.581983772732
+hexa SNARC color arabic CD 0 up 5 lctrl 0.496382125188
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.439731309001
+hexa SNARC color arabic CD 0 up 8 lctrl 0.600014400392
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.522221204621
+hexa SNARC color arabic CD 0 up 8 lctrl 0.623255382379
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.552390647339
+hexa SNARC color arabic CD 0 up 2 lctrl 0.388800585177
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.462827383177
+hexa SNARC color arabic CD 0 up 6 lctrl 0.423606776269
+hexa SNARC color arabic CD 0 up 8 lctrl 0.497355809217
+hexa SNARC color arabic CD 0 up 9 lctrl 0.422897300436
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.504611442229
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.439254709956
+hexa SNARC color arabic CD 0 up 5 lctrl 0.399921430449
+hexa SNARC color arabic CD 0 up 9 lctrl 0.417717373755
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.467227639616
+hexa SNARC color arabic CD 0 up 2 lctrl 0.402811452368
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.468641771033
+hexa SNARC color arabic CD 0 up 8 lctrl 0.364697989251
+hexa SNARC color arabic CD 0 up 7 lctrl 0.528429946571
+hexa SNARC color arabic CD 0 up 9 lctrl 0.358426283201
+hexa SNARC color arabic CD 0 up 5 lctrl 0.395019871357
+hexa SNARC color arabic CD 0 up 5 lctrl 0.390009254814
+hexa SNARC color arabic CD 0 up 5 lctrl 0.320140798562
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.509487393923
+hexa SNARC color arabic CD 0 up 4 lctrl 0.596063026751
+hexa SNARC color arabic CD 0 up 5 lctrl 0.686337574312
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.477670340479
+hexa SNARC color arabic CD 0 up 4 lctrl 0.372731484938
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.416740978355
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.442191427734
+hexa SNARC color arabic CD 0 up 4 lctrl 0.443194334308
+hexa SNARC color arabic CD 0 up 7 lctrl 0.396375557641
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.447929294634
+hexa SNARC color arabic CD 0 up 9 lctrl 0.640057456985
+hexa SNARC color arabic CD 0 up 6 lctrl 0.393227955341
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.460184698706
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.476815354312
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.396313497331
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.383649278534
+hexa SNARC color arabic CD 0 up 2 lctrl 0.410815122945
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.420845092667
+hexa SNARC color arabic CD 0 up 8 lctrl 0.373361427162
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.777596350134
+hexa SNARC color arabic CD 0 up 9 lctrl 0.429334400207
+hexa SNARC color arabic CD 0 up 4 lctrl 0.438854933134
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.422576454686
+hexa SNARC color arabic CD 0 up 5 lctrl 0.535871459258
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.589431913206
+hexa SNARC color arabic CD 0 up 6 num_decimal 0.400379652419
+hexa SNARC color arabic CD 0 up 5 lctrl 0.650356756378
+hexa SNARC color arabic CD 0 up 2 lctrl 0.418762155983
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.420101875308
+hexa SNARC color arabic CD 0 up 4 lctrl 0.645658248963
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.510527355946
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.6050310422
+hexa SNARC color arabic CD 0 up 4 lctrl 0.575503290995
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.666964817225
+hexa SNARC color arabic CD 0 up 1 lctrl 0.610439929238
+hexa SNARC color arabic CD 0 up 1 lctrl 0.420163031813
+hexa SNARC color arabic CD 0 up 7 lctrl 0.917761960765
+hexa SNARC color arabic CD 0 up 9 lctrl 0.443747153055
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.516510752699
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.834531257904
+hexa SNARC color arabic CD 0 up 1 lctrl 0.443606764224
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.532997705581
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.569397882486
+hexa SNARC color arabic CD 0 up 8 lctrl 0.532403613717
+hexa SNARC color arabic CD 0 up 6 lctrl 0.688762445207
+hexa SNARC color arabic CD 0 up 7 lctrl 0.520131037629
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.541149597877
+hexa SNARC color arabic CD 0 up 9 lctrl 0.721717973865
+hexa SNARC color arabic CD 0 up 9 lctrl 0.495326196207
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.558160749453
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.506656419675
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.433294811766
+hexa SNARC color arabic CD 0 up 9 lctrl 0.434182334386
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.739595860883
+hexa SNARC color arabic CD 0 up 6 lctrl 0.480138292056
+hexa SNARC color arabic CD 0 up 3 lctrl 0.504132433081
+hexa SNARC color arabic CD 0 up 4 lctrl 0.574459713825
+hexa SNARC color arabic CD 0 up 6 lctrl 0.689607188397
+hexa SNARC color arabic CD 0 up 1 lctrl 0.664365213452
+hexa SNARC color arabic CD 0 up 4 lctrl 0.544400232335
+hexa SNARC color arabic CD 0 up 3 lctrl 0.477243751186
+hexa SNARC color arabic CD 0 up 5 lctrl 0.652364377151
+hexa SNARC color arabic CD 0 up 4 lctrl 0.492453346305
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.578896121893
+hexa SNARC color arabic CD 0 up 2 lctrl 0.526237048674
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.603969087955
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.573714086364
+hexa SNARC color arabic CD 0 up 9 lctrl 0.53740278224
+hexa SNARC color arabic CD 0 up 3 lctrl 0.590731564473
+hexa SNARC color arabic CD 0 up 6 lctrl 0.512844976984
+hexa SNARC color arabic CD 0 up 8 lctrl 0.503496465579
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.581171867278
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.576616460079
+hexa SNARC color arabic CD 0 up 5 lctrl 0.563611813384
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.631523562435
+hexa SNARC color arabic CD 0 up 6 lctrl 1.09599524245
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.494656487179
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.453684936088
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.390275270591
+hexa SNARC color arabic CD 0 up 1 lctrl 0.441320173326
+hexa SNARC color arabic CD 0 up 1 lctrl 0.410002012432
+hexa SNARC color arabic CD 0 up 5 lctrl 0.404065612805
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.470574377177
+hexa SNARC color arabic CD 0 up 2 lctrl 0.438434067852
+hexa SNARC color arabic CD 0 up 6 lctrl 0.663374056137
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.447828672593
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.591749835512
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.370589801852
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.38209807215
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.449410005327
+hexa SNARC color arabic CD 0 up 1 lctrl 0.641979217631
+hexa SNARC color arabic CD 0 down 4 lctrl 0.395307879371
+hexa SNARC color arabic CD 0 up 2 lctrl 0.646192088097
+hexa SNARC color arabic CD 0 up 4 lctrl 0.799543103596
+hexa SNARC color arabic CD 0 up 2 lctrl 0.400868000754
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.459068818251
+hexa SNARC color arabic CD 0 up 3 lctrl 0.675718332976
+hexa SNARC color arabic CD 0 up 2 lctrl 0.515724153389
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.37719139157
+hexa SNARC color arabic CD 0 down 2 num_decimal 1.18028669451
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.504277943401
+hexa SNARC color arabic CD 0 up 8 lctrl 0.774703918112
+hexa SNARC color arabic CD 0 up 1 lctrl 0.442492691349
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.659827279538
+hexa SNARC color arabic CD 0 up 7 lctrl 0.66038793113
+hexa SNARC color arabic CD 0 up 9 lctrl 0.580528669452
+hexa SNARC color arabic CD 0 up 4 lctrl 0.423598642141
+hexa SNARC color arabic CD 0 up 6 lctrl 0.473587013359
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.497535061048
+hexa SNARC color arabic CD 0 up 1 lctrl 0.535799758509
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.532411145308
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.833386456157
+hexa SNARC color arabic CD 0 up 6 lctrl 0.521953381263
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.799439167633
+hexa SNARC color arabic CD 0 up 7 lctrl 0.745473815361
+hexa SNARC color arabic CD 0 up 7 lctrl 0.502551401602
+hexa SNARC color arabic CD 0 up 5 lctrl 0.492907049324
+hexa SNARC color arabic CD 0 up 9 lctrl 0.39550580956
+hexa SNARC color arabic CD 0 up 1 lctrl 0.486490736745
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.8534692916
+hexa SNARC color arabic CD 0 up 9 lctrl 0.517520889625
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.635155295371
+hexa SNARC color arabic CD 0 up 1 lctrl 0.572245727482
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.63924766038
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.456185424147
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.456138728288
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.400063928144
+hexa SNARC color arabic CD 0 up 4 lctrl 0.410099621848
+hexa SNARC color arabic CD 0 up 5 lctrl 0.461003834484
+hexa SNARC color arabic CD 0 up 5 lctrl 0.34912928789
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.497640503323
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.471914397742
+hexa SNARC color arabic CD 0 up 4 lctrl 0.551313027361
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.635793371723
+hexa SNARC color arabic CD 0 up 4 lctrl 0.572522588744
+hexa SNARC color arabic CD 0 up 5 lctrl 0.520385906653
+hexa SNARC color arabic CD 0 up 2 lctrl 0.398379261969
+hexa SNARC color arabic CD 0 up 2 lctrl 0.368544523153
+hexa SNARC color arabic CD 0 up 4 lctrl 0.363683032105
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.520256363292
+hexa SNARC color arabic CD 0 up 1 lctrl 0.501612664157
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.531395284386
+hexa SNARC color arabic CD 0 up 2 lctrl 0.712267936644
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.510640329798
+hexa SNARC color arabic CD 0 up 7 lctrl 0.613231739204
+hexa SNARC color arabic CD 0 up 6 lctrl 0.527893396065
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.629409896879
+hexa SNARC color arabic CD 0 up 4 lctrl 0.622672738522
+hexa SNARC color arabic CD 0 up 6 lctrl 0.456227902308
+hexa SNARC color arabic CD 0 up 5 lctrl 0.440836042704
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.537191295167
+hexa SNARC color arabic CD 0 down 2 num_decimal 0.854432732653
+hexa SNARC color arabic CD 0 up 3 lctrl 0.557551594407
+hexa SNARC color arabic CD 0 down 6 num_decimal 0.602102157281
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.468008816169
+hexa SNARC color arabic CD 0 up 9 lctrl 0.61119610093
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.493763541803
+hexa SNARC color arabic CD 0 up 3 lctrl 0.500265413255
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.498809104916
+hexa SNARC color arabic CD 0 down 7 num_decimal 0.481455115339
+hexa SNARC color arabic CD 0 up 2 lctrl 0.40065862253
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.482724941496
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.41806623702
+hexa SNARC color arabic CD 0 up 3 lctrl 0.475004157444
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.425621627364
+hexa SNARC color arabic CD 0 down 1 num_decimal 0.395585041901
+hexa SNARC color arabic CD 0 up 2 lctrl 0.422895794123
+hexa SNARC color arabic CD 0 up 8 lctrl 0.439131191873
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.495947401781
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.550356515363
+hexa SNARC color arabic CD 0 up 8 lctrl 0.457903229311
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.410399077897
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.356966359686
+hexa SNARC color arabic CD 0 up 9 lctrl 0.425604756587
+hexa SNARC color arabic CD 0 down 9 num_decimal 0.363253430187
+hexa SNARC color arabic CD 0 up 2 lctrl 0.471355854999
+hexa SNARC color arabic CD 0 up 9 lctrl 0.398622080451
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.481104745748
+hexa SNARC color arabic CD 0 down 4 num_decimal 0.416153213038
+hexa SNARC color arabic CD 0 up 6 lctrl 0.433324034326
+hexa SNARC color arabic CD 0 up 9 lctrl 0.362472554873
+hexa SNARC color arabic CD 0 down 3 num_decimal 0.493834037479
+hexa SNARC color arabic CD 0 up 4 lctrl 0.564199277447
+hexa SNARC color arabic CD 0 up 1 lctrl 0.407505139563
+hexa SNARC color arabic CD 0 up 3 lctrl 0.369617322896
+hexa SNARC color arabic CD 0 down 8 num_decimal 0.437149178513
+hexa SNARC color arabic CD 0 up 7 lctrl 0.414130529083
+hexa SNARC color arabic CD 0 up 6 lctrl 0.351543915793
+hexa SNARC color arabic CD 0 up 5 lctrl 0.372167820708
+hexa SNARC color arabic CD 0 down 5 num_decimal 0.455820895164
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'03_23_1229', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hexa', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hexa SNARC color dot DC 0 down 35 lctrl 0.680398463315
+hexa SNARC color dot DC 0 down 15 lctrl 0.714619299193
+hexa SNARC color dot DC 0 down 30 lctrl 0.373406917977
+hexa SNARC color dot DC 0 down 30 lctrl 0.367911267022
+hexa SNARC color dot DC 0 up 25 num_decimal 0.43459235417
+hexa SNARC color dot DC 0 down 45 lctrl 0.358881191278
+hexa SNARC color dot DC 0 up 40 num_decimal 0.41762157192
+hexa SNARC color dot DC 0 up 45 num_decimal 0.41367290965
+hexa SNARC color dot DC 0 up 20 num_decimal 0.433067357735
+hexa SNARC color dot DC 0 down 45 lctrl 0.405086293962
+hexa SNARC color dot DC 0 down 25 lctrl 0.400347718474
+hexa SNARC color dot DC 0 up 5 num_decimal 0.49976170047
+hexa SNARC color dot DC 0 up 45 num_decimal 0.401979060975
+hexa SNARC color dot DC 0 down 20 lctrl 0.373404206606
+hexa SNARC color dot DC 0 down 15 lctrl 0.319796454249
+hexa SNARC color dot DC 0 down 5 lctrl 0.313423824889
+hexa SNARC color dot DC 0 down 35 lctrl 0.378522675514
+hexa SNARC color dot DC 0 up 20 num_decimal 0.397090154947
+hexa SNARC color dot DC 0 up 15 num_decimal 0.416467431001
+hexa SNARC color dot DC 0 up 5 num_decimal 0.404152979245
+hexa SNARC color dot DC 0 down 20 lctrl 0.439517713094
+hexa SNARC color dot DC 0 up 30 num_decimal 0.603574733861
+hexa SNARC color dot DC 0 down 20 lctrl 0.475750387428
+hexa SNARC color dot DC 0 down 40 lctrl 0.392931210677
+hexa SNARC color dot DC 0 up 15 num_decimal 0.403887264736
+hexa SNARC color dot DC 0 down 45 lctrl 0.471521549989
+hexa SNARC color dot DC 0 down 40 lctrl 0.412767009941
+hexa SNARC color dot DC 0 up 20 num_decimal 0.42417134429
+hexa SNARC color dot DC 0 up 10 num_decimal 0.443486258766
+hexa SNARC color dot DC 0 down 30 lctrl 0.415529898615
+hexa SNARC color dot DC 0 down 5 lctrl 0.395002699312
+hexa SNARC color dot DC 0 down 30 lctrl 0.366103082779
+hexa SNARC color dot DC 0 down 40 lctrl 0.377106736487
+hexa SNARC color dot DC 0 down 40 lctrl 0.371637596734
+hexa SNARC color dot DC 0 up 10 num_decimal 0.406424205692
+hexa SNARC color dot DC 0 up 35 num_decimal 0.52238509203
+hexa SNARC color dot DC 0 down 15 lctrl 0.464719921234
+hexa SNARC color dot DC 0 up 30 num_decimal 0.501542469734
+hexa SNARC color dot DC 0 down 5 lctrl 0.403508275107
+hexa SNARC color dot DC 0 up 15 num_decimal 0.470859071283
+hexa SNARC color dot DC 0 down 10 lctrl 0.483560044246
+hexa SNARC color dot DC 0 up 15 num_decimal 0.448814708419
+hexa SNARC color dot DC 0 down 5 lctrl 0.501293023452
+hexa SNARC color dot DC 0 up 45 num_decimal 0.355598321592
+hexa SNARC color dot DC 0 down 5 lctrl 0.413506009601
+hexa SNARC color dot DC 0 down 10 lctrl 0.721485097092
+hexa SNARC color dot DC 0 down 35 lctrl 0.38828662943
+hexa SNARC color dot DC 0 down 20 lctrl 0.351655684601
+hexa SNARC color dot DC 0 down 5 lctrl 0.377771022773
+hexa SNARC color dot DC 0 up 25 num_decimal 0.548429633258
+hexa SNARC color dot DC 0 down 35 lctrl 0.411843938215
+hexa SNARC color dot DC 0 down 30 lctrl 0.35108900773
+hexa SNARC color dot DC 0 up 30 num_decimal 0.433361089759
+hexa SNARC color dot DC 0 down 45 lctrl 0.461791940121
+hexa SNARC color dot DC 0 up 30 num_decimal 0.602207298289
+hexa SNARC color dot DC 0 down 20 lctrl 0.354443578151
+hexa SNARC color dot DC 0 up 25 num_decimal 0.516653250394
+hexa SNARC color dot DC 0 down 45 lctrl 0.307261778813
+hexa SNARC color dot DC 0 up 20 num_decimal 0.468508010003
+hexa SNARC color dot DC 0 up 5 num_decimal 0.617312053684
+hexa SNARC color dot DC 0 up 5 num_decimal 0.369850802192
+hexa SNARC color dot DC 0 down 25 lctrl 0.372416664453
+hexa SNARC color dot DC 0 up 40 num_decimal 0.463362126102
+hexa SNARC color dot DC 0 up 25 num_decimal 0.403778508567
+hexa SNARC color dot DC 0 down 10 lctrl 0.391150140145
+hexa SNARC color dot DC 0 up 45 num_decimal 0.970448147709
+hexa SNARC color dot DC 0 down 25 lctrl 0.339208676873
+hexa SNARC color dot DC 0 up 10 num_decimal 0.621142319345
+hexa SNARC color dot DC 0 up 25 num_decimal 0.413651519935
+hexa SNARC color dot DC 0 up 40 num_decimal 0.432992041824
+hexa SNARC color dot DC 0 up 5 num_decimal 0.437023250313
+hexa SNARC color dot DC 0 down 30 lctrl 0.417147081724
+hexa SNARC color dot DC 0 up 30 num_decimal 0.380865000159
+hexa SNARC color dot DC 0 down 15 lctrl 0.439770172001
+hexa SNARC color dot DC 0 up 40 num_decimal 0.372347373821
+hexa SNARC color dot DC 0 down 25 lctrl 0.446783287814
+hexa SNARC color dot DC 0 down 40 lctrl 0.410813014096
+hexa SNARC color dot DC 0 up 5 num_decimal 0.414265796455
+hexa SNARC color dot DC 0 up 5 num_decimal 0.393894651716
+hexa SNARC color dot DC 0 up 15 num_decimal 0.668844099695
+hexa SNARC color dot DC 0 down 5 lctrl 0.398213566979
+hexa SNARC color dot DC 0 up 30 num_decimal 0.449828761746
+hexa SNARC color dot DC 0 down 25 lctrl 0.422217047177
+hexa SNARC color dot DC 0 down 15 lctrl 0.433944336124
+hexa SNARC color dot DC 0 down 5 num_decimal 0.4300517089
+hexa SNARC color dot DC 0 down 45 lctrl 0.791950657847
+hexa SNARC color dot DC 0 up 35 num_decimal 0.481796748281
+hexa SNARC color dot DC 0 up 40 num_decimal 0.463742019536
+hexa SNARC color dot DC 0 down 10 lctrl 0.423441081264
+hexa SNARC color dot DC 0 down 25 lctrl 0.400961392472
+hexa SNARC color dot DC 0 up 35 num_decimal 0.507199597982
+hexa SNARC color dot DC 0 up 5 num_decimal 0.417929162082
+hexa SNARC color dot DC 0 up 5 num_decimal 0.363975257816
+hexa SNARC color dot DC 0 down 10 lctrl 0.438935671787
+hexa SNARC color dot DC 0 up 30 num_decimal 0.614651895914
+hexa SNARC color dot DC 0 up 30 num_decimal 0.384096353751
+hexa SNARC color dot DC 0 up 10 num_decimal 0.394577616345
+hexa SNARC color dot DC 0 up 15 num_decimal 0.301467876852
+hexa SNARC color dot DC 0 down 25 lctrl 0.48375496181
+hexa SNARC color dot DC 0 up 35 num_decimal 0.64207351314
+hexa SNARC color dot DC 0 up 10 num_decimal 0.530977130475
+hexa SNARC color dot DC 0 up 45 num_decimal 0.40785460535
+hexa SNARC color dot DC 0 up 30 num_decimal 0.4506756138
+hexa SNARC color dot DC 0 up 25 num_decimal 0.378388311932
+hexa SNARC color dot DC 0 down 20 lctrl 0.502462830103
+hexa SNARC color dot DC 0 down 10 lctrl 0.476280310133
+hexa SNARC color dot DC 0 down 25 lctrl 0.484444252972
+hexa SNARC color dot DC 0 up 35 num_decimal 0.523106015869
+hexa SNARC color dot DC 0 up 15 num_decimal 0.448167594164
+hexa SNARC color dot DC 0 down 45 lctrl 0.519299851308
+hexa SNARC color dot DC 0 down 45 lctrl 0.435601888559
+hexa SNARC color dot DC 0 down 10 lctrl 0.644550201367
+hexa SNARC color dot DC 0 down 5 lctrl 0.381318703163
+hexa SNARC color dot DC 0 down 20 lctrl 0.512660001114
+hexa SNARC color dot DC 0 down 30 lctrl 0.38982006126
+hexa SNARC color dot DC 0 down 35 lctrl 0.536295939688
+hexa SNARC color dot DC 0 down 5 lctrl 0.421686823218
+hexa SNARC color dot DC 0 down 15 lctrl 0.383388384231
+hexa SNARC color dot DC 0 down 45 lctrl 0.408795451644
+hexa SNARC color dot DC 0 up 45 num_decimal 0.546719359685
+hexa SNARC color dot DC 0 up 25 num_decimal 0.439478850079
+hexa SNARC color dot DC 0 up 30 num_decimal 0.863947541569
+hexa SNARC color dot DC 0 up 25 num_decimal 0.391648430174
+hexa SNARC color dot DC 0 down 35 lctrl 0.497449502203
+hexa SNARC color dot DC 0 up 25 lctrl 0.472052979021
+hexa SNARC color dot DC 0 down 35 lctrl 0.550692123041
+hexa SNARC color dot DC 0 down 25 lctrl 0.419481874778
+hexa SNARC color dot DC 0 down 20 lctrl 0.405198966546
+hexa SNARC color dot DC 0 up 40 num_decimal 0.423141022708
+hexa SNARC color dot DC 0 up 25 num_decimal 0.625097910684
+hexa SNARC color dot DC 0 down 25 lctrl 0.442912652827
+hexa SNARC color dot DC 0 up 30 num_decimal 0.459432744712
+hexa SNARC color dot DC 0 down 30 lctrl 0.387329816178
+hexa SNARC color dot DC 0 down 20 lctrl 0.502250740508
+hexa SNARC color dot DC 0 down 10 lctrl 0.388777990389
+hexa SNARC color dot DC 0 up 45 num_decimal 0.454723391798
+hexa SNARC color dot DC 0 up 40 num_decimal 0.59071951393
+hexa SNARC color dot DC 0 down 10 lctrl 0.465109455094
+hexa SNARC color dot DC 0 down 35 lctrl 0.767085262429
+hexa SNARC color dot DC 0 up 15 num_decimal 0.395172913268
+hexa SNARC color dot DC 0 down 15 lctrl 0.374397472755
+hexa SNARC color dot DC 0 down 30 lctrl 0.417637840161
+hexa SNARC color dot DC 0 up 15 num_decimal 0.451694487361
+hexa SNARC color dot DC 0 down 20 lctrl 0.531073233564
+hexa SNARC color dot DC 0 down 20 lctrl 0.599612213467
+hexa SNARC color dot DC 0 down 15 lctrl 0.57784079542
+hexa SNARC color dot DC 0 up 30 num_decimal 0.445367650071
+hexa SNARC color dot DC 0 down 5 lctrl 1.00652416496
+hexa SNARC color dot DC 0 down 35 lctrl 0.439249287214
+hexa SNARC color dot DC 0 down 45 lctrl 0.367905844265
+hexa SNARC color dot DC 0 down 5 lctrl 0.491534191009
+hexa SNARC color dot DC 0 down 25 lctrl 0.370827800129
+hexa SNARC color dot DC 0 down 15 lctrl 0.350328919623
+hexa SNARC color dot DC 0 up 35 num_decimal 0.457660712083
+hexa SNARC color dot DC 0 up 40 num_decimal 0.432726628569
+hexa SNARC color dot DC 0 up 15 num_decimal 0.490012207199
+hexa SNARC color dot DC 0 down 15 lctrl 0.480606154466
+hexa SNARC color dot DC 0 up 5 num_decimal 0.671949525087
+hexa SNARC color dot DC 0 up 35 num_decimal 0.582873404201
+hexa SNARC color dot DC 0 down 25 lctrl 0.458199371453
+hexa SNARC color dot DC 0 down 25 lctrl 0.426397682444
+hexa SNARC color dot DC 0 down 15 lctrl 0.380317905423
+hexa SNARC color dot DC 0 up 25 num_decimal 0.439813252699
+hexa SNARC color dot DC 0 up 35 num_decimal 1.22329840282
+hexa SNARC color dot DC 0 up 40 num_decimal 0.383932165074
+hexa SNARC color dot DC 0 up 15 num_decimal 0.37855822462
+hexa SNARC color dot DC 0 up 45 num_decimal 0.429821543483
+hexa SNARC color dot DC 0 down 40 lctrl 0.375026209935
+hexa SNARC color dot DC 0 up 30 num_decimal 0.642780277602
+hexa SNARC color dot DC 0 down 45 lctrl 0.45779899208
+hexa SNARC color dot DC 0 down 5 lctrl 0.658320961433
+hexa SNARC color dot DC 0 down 35 lctrl 0.609874457426
+hexa SNARC color dot DC 0 down 30 lctrl 0.619707701975
+hexa SNARC color dot DC 0 up 10 num_decimal 0.421099660423
+hexa SNARC color dot DC 0 up 5 num_decimal 0.406562184435
+hexa SNARC color dot DC 0 up 35 num_decimal 0.432210563988
+hexa SNARC color dot DC 0 up 20 num_decimal 0.441006859182
+hexa SNARC color dot DC 0 up 40 num_decimal 0.416997956228
+hexa SNARC color dot DC 0 down 45 lctrl 0.489892304278
+hexa SNARC color dot DC 0 up 15 num_decimal 0.456563509986
+hexa SNARC color dot DC 0 down 5 lctrl 0.449016555038
+hexa SNARC color dot DC 0 down 25 lctrl 0.60913365017
+hexa SNARC color dot DC 0 up 40 num_decimal 0.458410255975
+hexa SNARC color dot DC 0 down 10 lctrl 0.435004181534
+hexa SNARC color dot DC 0 up 40 num_decimal 0.459507458072
+hexa SNARC color dot DC 0 up 40 num_decimal 0.538888614406
+hexa SNARC color dot DC 0 up 5 num_decimal 0.391403804111
+hexa SNARC color dot DC 0 down 20 lctrl 0.434601090805
+hexa SNARC color dot DC 0 down 25 lctrl 0.443957435069
+hexa SNARC color dot DC 0 up 45 num_decimal 0.467625608857
+hexa SNARC color dot DC 0 down 30 lctrl 0.818828192976
+hexa SNARC color dot DC 0 down 40 lctrl 0.396146898551
+hexa SNARC color dot DC 0 up 15 num_decimal 0.447537049404
+hexa SNARC color dot DC 0 down 40 lctrl 0.567388152878
+hexa SNARC color dot DC 0 up 10 lctrl 0.675198653218
+hexa SNARC color dot DC 0 up 30 num_decimal 0.610000084343
+hexa SNARC color dot DC 0 up 5 num_decimal 0.396645791116
+hexa SNARC color dot DC 0 up 45 num_decimal 0.454481778375
+hexa SNARC color dot DC 0 down 30 lctrl 0.461650948739
+hexa SNARC color dot DC 0 up 25 num_decimal 1.34999813217
+hexa SNARC color dot DC 0 up 5 num_decimal 0.418681718598
+hexa SNARC color dot DC 0 up 45 num_decimal 0.427908820755
+hexa SNARC color dot DC 0 up 10 num_decimal 0.38103431031
+hexa SNARC color dot DC 0 down 10 lctrl 0.526970625593
+hexa SNARC color dot DC 0 up 5 num_decimal 0.476687317292
+hexa SNARC color dot DC 0 up 30 num_decimal 0.548591411818
+hexa SNARC color dot DC 0 down 30 lctrl 0.464387024942
+hexa SNARC color dot DC 0 up 30 num_decimal 1.06375822751
+hexa SNARC color dot DC 0 up 10 num_decimal 0.503279857046
+hexa SNARC color dot DC 0 down 35 lctrl 0.532257500861
+hexa SNARC color dot DC 0 down 20 lctrl 0.401565727283
+hexa SNARC color dot DC 0 down 45 lctrl 0.915153017821
+hexa SNARC color dot DC 0 down 10 lctrl 0.465236588352
+hexa SNARC color dot DC 0 down 25 lctrl 0.384706713827
+hexa SNARC color dot DC 0 up 35 num_decimal 0.531352203689
+hexa SNARC color dot DC 0 down 40 lctrl 0.719961908238
+hexa SNARC color dot DC 0 down 15 lctrl 0.733582036497
+hexa SNARC color dot DC 0 down 25 lctrl 0.354569506337
+hexa SNARC color dot DC 0 down 35 lctrl 0.390242734124
+hexa SNARC color dot DC 0 up 15 num_decimal 0.521687064233
+hexa SNARC color dot DC 0 up 5 num_decimal 1.24697531326
+hexa SNARC color dot DC 0 up 45 num_decimal 0.518744321176
+hexa SNARC color dot DC 0 up 10 num_decimal 0.467620487369
+hexa SNARC color dot DC 0 down 20 lctrl 0.48356004426
+hexa SNARC color dot DC 0 down 45 lctrl 0.7379883182
+hexa SNARC color dot DC 0 up 10 num_decimal 0.519161872566
+hexa SNARC color dot DC 0 down 10 lctrl 1.19564571639
+hexa SNARC color dot DC 0 up 5 num_decimal 0.502410711488
+hexa SNARC color dot DC 0 up 5 num_decimal 0.476358939937
+hexa SNARC color dot DC 0 down 20 lctrl 0.443924898602
+hexa SNARC color dot DC 0 up 45 num_decimal 1.00407308416
+hexa SNARC color dot DC 0 down 35 lctrl 0.62202200912
+hexa SNARC color dot DC 0 up 15 num_decimal 0.839353885938
+hexa SNARC color dot DC 0 up 45 num_decimal 0.487110737275
+hexa SNARC color dot DC 0 up 10 num_decimal 0.581625269042
+hexa SNARC color dot DC 0 up 5 num_decimal 0.401033394475
+hexa SNARC color dot DC 0 down 15 lctrl 0.571696523897
+hexa SNARC color dot DC 0 up 20 num_decimal 0.751404189738
+hexa SNARC color dot DC 0 down 35 lctrl 0.42685771198
+hexa SNARC color dot DC 0 down 20 lctrl 0.4995312338
+hexa SNARC color dot DC 0 up 20 num_decimal 0.474449832371
+hexa SNARC color dot DC 0 down 20 lctrl 0.449945350789
+hexa SNARC color dot DC 0 up 35 num_decimal 0.601741845996
+hexa SNARC color dot DC 0 down 25 lctrl 0.451987918132
+hexa SNARC color dot DC 0 up 10 num_decimal 0.628650411294
+hexa SNARC color dot DC 0 up 15 num_decimal 0.43064941591
+hexa SNARC color dot DC 0 down 35 lctrl 0.46312232026
+hexa SNARC color dot DC 0 down 35 lctrl 0.766758692655
+hexa SNARC color dot DC 0 up 25 num_decimal 0.538865115843
+hexa SNARC color dot DC 0 up 30 num_decimal 0.511460670634
+hexa SNARC color dot DC 0 down 25 lctrl 0.67740992819
+hexa SNARC color dot DC 0 up 30 num_decimal 0.493362258654
+hexa SNARC color dot DC 0 up 30 num_decimal 0.476057977576
+hexa SNARC color dot DC 0 down 40 lctrl 0.40316965479
+hexa SNARC color dot DC 0 up 10 num_decimal 0.469871529131
+hexa SNARC color dot DC 0 up 20 num_decimal 0.493833133689
+hexa SNARC color dot DC 0 up 35 num_decimal 0.403366982471
+hexa SNARC color dot DC 0 down 40 lctrl 0.469425056464
+hexa SNARC color dot DC 0 up 35 num_decimal 0.59670923723
+hexa SNARC color dot DC 0 down 40 lctrl 0.462987052902
+hexa SNARC color dot DC 0 up 10 num_decimal 0.575444845861
+hexa SNARC color dot DC 0 down 20 lctrl 0.443415763089
+hexa SNARC color dot DC 0 up 40 num_decimal 0.636066316554
+hexa SNARC color dot DC 0 down 5 lctrl 0.413477088296
+hexa SNARC color dot DC 0 up 20 num_decimal 0.536101323392
+hexa SNARC color dot DC 0 up 15 num_decimal 0.397437210631
+hexa SNARC color dot DC 0 down 10 lctrl 0.439467402059
+hexa SNARC color dot DC 0 down 25 lctrl 0.680743711433
+hexa SNARC color dot DC 0 up 45 num_decimal 0.4709003444
+hexa SNARC color dot DC 0 up 45 num_decimal 0.397539640267
+hexa SNARC color dot DC 0 up 20 num_decimal 0.367419002258
+hexa SNARC color dot DC 0 up 35 num_decimal 0.386332031063
+hexa SNARC color dot DC 0 up 30 num_decimal 0.388802091504
+hexa SNARC color dot DC 0 down 20 lctrl 0.4873722341
+hexa SNARC color dot DC 0 down 15 lctrl 1.20670600768
+hexa SNARC color dot DC 0 down 35 lctrl 0.487430980502
+hexa SNARC color dot DC 0 up 10 num_decimal 0.47831233326
+hexa SNARC color dot DC 0 down 25 lctrl 0.557996560776
+hexa SNARC color dot DC 0 up 10 num_decimal 0.49065721262
+hexa SNARC color dot DC 0 down 10 lctrl 0.480999002219
+hexa SNARC color dot DC 0 up 25 num_decimal 0.640140907009
+hexa SNARC color dot DC 0 down 35 lctrl 0.440193748655
+hexa SNARC color dot DC 0 down 30 lctrl 0.816907336135
+hexa SNARC color dot DC 0 up 20 num_decimal 0.482944562682
+hexa SNARC color dot DC 0 up 20 num_decimal 0.490148980898
+hexa SNARC color dot DC 0 up 20 num_decimal 0.4654182503
+hexa SNARC color dot DC 0 down 15 lctrl 0.473405652665
+hexa SNARC color dot DC 0 up 40 num_decimal 0.536241712238
+hexa SNARC color dot DC 0 down 15 lctrl 0.533326384175
+hexa SNARC color dot DC 0 up 10 num_decimal 0.586629860292
+hexa SNARC color dot DC 0 down 5 num_decimal 0.725939882235
+hexa SNARC color dot DC 0 up 40 lctrl 1.15498747949
+hexa SNARC color dot DC 0 up 35 num_decimal 0.758666751834
+hexa SNARC color dot DC 0 up 5 num_decimal 0.571236494361
+hexa SNARC color dot DC 0 up 30 num_decimal 0.502722218065
+hexa SNARC color dot DC 0 up 40 num_decimal 0.444304189485
+hexa SNARC color dot DC 0 up 20 num_decimal 0.445613481177
+hexa SNARC color dot DC 0 down 40 lctrl 0.550118517116
+hexa SNARC color dot DC 0 up 45 num_decimal 0.618224882448
+hexa SNARC color dot DC 0 down 20 lctrl 1.46021572885
+hexa SNARC color dot DC 0 up 15 num_decimal 0.564620443984
+hexa SNARC color dot DC 0 down 45 lctrl 0.783791836482
+hexa SNARC color dot DC 0 down 20 lctrl 0.506933883487
+hexa SNARC color dot DC 0 up 20 num_decimal 0.641578838287
+hexa SNARC color dot DC 0 down 25 lctrl 0.698326058817
+hexa SNARC color dot DC 0 down 40 lctrl 0.639770051508
+hexa SNARC color dot DC 0 up 40 num_decimal 0.592442741836
+hexa SNARC color dot DC 0 up 40 num_decimal 0.683035122507
+hexa SNARC color dot DC 0 down 40 lctrl 0.569312323612
+hexa SNARC color dot DC 0 up 5 num_decimal 0.62060094862
+hexa SNARC color dot DC 0 down 15 lctrl 0.478618115827
+hexa SNARC color dot DC 0 down 40 lctrl 0.869823989749
+hexa SNARC color dot DC 0 up 25 num_decimal 0.645886908038
+hexa SNARC color dot DC 0 down 35 lctrl 0.613826734858
+hexa SNARC color dot DC 0 up 15 num_decimal 0.44772383284
+hexa SNARC color dot DC 0 down 40 lctrl 0.423686912385
+hexa SNARC color dot DC 0 up 35 num_decimal 0.705033392063
+hexa SNARC color dot DC 0 down 10 lctrl 0.630943027427
+hexa SNARC color dot DC 0 down 35 lctrl 0.559069360534
+hexa SNARC color dot DC 0 down 45 lctrl 0.539023881778
+hexa SNARC color dot DC 0 up 40 num_decimal 0.527032083366
+hexa SNARC color dot DC 0 up 20 num_decimal 1.02079080495
+hexa SNARC color dot DC 0 down 45 lctrl 0.461985351358
+hexa SNARC color dot DC 0 down 40 lctrl 0.453641554137
+hexa SNARC color dot DC 0 up 45 num_decimal 0.605459439059
+hexa SNARC color dot DC 0 up 20 num_decimal 0.511954742979
+hexa SNARC color dot DC 0 up 45 num_decimal 0.597832649262
+hexa SNARC color dot DC 0 up 35 num_decimal 0.415787780265
+hexa SNARC color dot DC 0 up 45 num_decimal 0.456911168207
+hexa SNARC color dot DC 0 down 45 lctrl 0.721039829456
+hexa SNARC color dot DC 0 up 25 num_decimal 0.55870573534
+hexa SNARC color dot DC 0 up 10 num_decimal 0.426518187887
+hexa SNARC color dot DC 0 up 10 num_decimal 0.348506877242
+hexa SNARC color dot DC 0 up 40 num_decimal 0.400440808924
+hexa SNARC color dot DC 0 up 10 num_decimal 0.45111545868
+hexa SNARC color dot DC 0 up 35 num_decimal 0.387102060879
+hexa SNARC color dot DC 0 down 30 lctrl 0.645758268482
+hexa SNARC color dot DC 0 down 15 lctrl 0.430042068445
+hexa SNARC color dot DC 0 down 40 lctrl 0.447083948908
+hexa SNARC color dot DC 0 up 30 num_decimal 0.470987409586
+hexa SNARC color dot DC 0 down 10 lctrl 0.53457210926
+hexa SNARC color dot DC 0 down 20 lctrl 0.459762929633
+hexa SNARC color dot DC 0 down 15 lctrl 0.38039894533
+hexa SNARC color dot DC 0 down 20 lctrl 0.368358944746
+hexa SNARC color dot DC 0 down 5 lctrl 0.444148737457
+hexa SNARC color dot DC 0 down 15 lctrl 0.421055374667
+hexa SNARC color dot DC 0 up 25 num_decimal 0.414744504349
+hexa SNARC color dot DC 0 up 15 num_decimal 0.448632142652
+hexa SNARC color dot DC 0 down 45 lctrl 0.456196872154
+hexa SNARC color dot DC 0 down 10 lctrl 0.519857188992
+hexa SNARC color dot DC 0 up 35 num_decimal 0.461168324429
+hexa SNARC color dot DC 0 up 5 num_decimal 0.973927139989
+hexa SNARC color dot DC 0 up 35 num_decimal 0.480912840823
+hexa SNARC color dot DC 0 down 30 lctrl 0.48742555776
+hexa SNARC color dot DC 0 down 45 lctrl 0.918041533412
+hexa SNARC color dot DC 0 down 5 lctrl 0.4359302659
+hexa SNARC color dot DC 0 down 10 lctrl 0.379750023494
+hexa SNARC color dot DC 0 down 30 lctrl 0.407792545055
+hexa SNARC color dot DC 0 up 25 num_decimal 0.450205040033
+hexa SNARC color dot DC 0 down 30 lctrl 0.770748025519
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'03_23_1239', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hexa', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hexa SNARC color arabic DC 0 up 4 num_decimal 1.2914939422
+hexa SNARC color arabic DC 0 down 9 lctrl 0.436411082643
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.560356961229
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.391433026685
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.514538681033
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.336877498994
+hexa SNARC color arabic DC 0 down 8 lctrl 0.346590539353
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.411888525225
+hexa SNARC color arabic DC 0 down 8 lctrl 0.431806268214
+hexa SNARC color arabic DC 0 down 1 lctrl 0.41181863207
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.399256240373
+hexa SNARC color arabic DC 0 down 2 lctrl 0.970582812544
+hexa SNARC color arabic DC 0 down 2 lctrl 0.411354083568
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.390673842368
+hexa SNARC color arabic DC 0 down 9 lctrl 0.409379903067
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.500969165078
+hexa SNARC color arabic DC 0 down 9 lctrl 0.46688209023
+hexa SNARC color arabic DC 0 down 8 lctrl 0.42368902122
+hexa SNARC color arabic DC 0 down 8 lctrl 0.355448292321
+hexa SNARC color arabic DC 0 down 5 lctrl 0.405625857107
+hexa SNARC color arabic DC 0 down 2 lctrl 0.336945885821
+hexa SNARC color arabic DC 0 down 8 lctrl 0.346822512351
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.428251960009
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.599932757963
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.36024862685
+hexa SNARC color arabic DC 0 down 2 lctrl 0.426331103183
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.38198570082
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.360873146332
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.315198870143
+hexa SNARC color arabic DC 0 down 9 lctrl 0.412606135171
+hexa SNARC color arabic DC 0 down 4 lctrl 0.367987185455
+hexa SNARC color arabic DC 0 down 5 lctrl 0.330542527576
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.372338938439
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.366681508924
+hexa SNARC color arabic DC 0 down 7 lctrl 0.385483672726
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.636482361617
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.389434142577
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.39241725493
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.355340439943
+hexa SNARC color arabic DC 0 down 4 lctrl 0.437531783318
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.737609931093
+hexa SNARC color arabic DC 0 down 1 lctrl 0.428798452238
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.440489589542
+hexa SNARC color arabic DC 0 down 2 lctrl 0.436474950533
+hexa SNARC color arabic DC 0 down 5 lctrl 0.36840564062
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.411135064918
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.406510668341
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.345885883755
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.347597362372
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.405907839842
+hexa SNARC color arabic DC 0 down 3 lctrl 0.657148443439
+hexa SNARC color arabic DC 0 down 2 lctrl 0.338524507199
+hexa SNARC color arabic DC 0 down 8 lctrl 0.356327982096
+hexa SNARC color arabic DC 0 down 5 lctrl 0.37450592767
+hexa SNARC color arabic DC 0 down 8 lctrl 0.361094876338
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.40335945088
+hexa SNARC color arabic DC 0 down 4 lctrl 0.430624411034
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.370718742692
+hexa SNARC color arabic DC 0 down 4 lctrl 0.445265521703
+hexa SNARC color arabic DC 0 down 2 lctrl 0.385356238214
+hexa SNARC color arabic DC 0 down 6 lctrl 0.364049368669
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.414473367098
+hexa SNARC color arabic DC 0 down 9 lctrl 0.394605332607
+hexa SNARC color arabic DC 0 down 6 lctrl 0.341487133628
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.391268235486
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.426268139083
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.38998575625
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.344927865444
+hexa SNARC color arabic DC 0 down 6 lctrl 0.394728549436
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.381782046621
+hexa SNARC color arabic DC 0 down 9 lctrl 0.544640640699
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.39135168551
+hexa SNARC color arabic DC 0 down 8 lctrl 0.466248834113
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.614943519089
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.423673958037
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.371370677167
+hexa SNARC color arabic DC 0 down 2 lctrl 0.42996735507
+hexa SNARC color arabic DC 0 down 4 lctrl 0.385289658952
+hexa SNARC color arabic DC 0 down 3 lctrl 0.380268799447
+hexa SNARC color arabic DC 0 down 9 lctrl 0.374471884876
+hexa SNARC color arabic DC 0 down 8 lctrl 0.344907078252
+hexa SNARC color arabic DC 0 down 4 lctrl 0.36286148621
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.484725331931
+hexa SNARC color arabic DC 0 down 7 lctrl 0.793927248451
+hexa SNARC color arabic DC 0 down 8 lctrl 0.41458152073
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.426441365664
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.437827322923
+hexa SNARC color arabic DC 0 down 5 lctrl 0.434038932901
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.526140343049
+hexa SNARC color arabic DC 0 down 5 lctrl 0.492412073188
+hexa SNARC color arabic DC 0 down 7 lctrl 0.537635960267
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.480391956022
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.476879824739
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.417993632494
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.373685888087
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.344280148653
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.346093755652
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.283861729637
+hexa SNARC color arabic DC 0 down 9 lctrl 0.620590705643
+hexa SNARC color arabic DC 0 down 3 lctrl 0.46112644879
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.449616069644
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.38210771259
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.377042868611
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.315639618813
+hexa SNARC color arabic DC 0 down 6 lctrl 0.428831591227
+hexa SNARC color arabic DC 0 down 8 lctrl 0.416761765548
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.428468267302
+hexa SNARC color arabic DC 0 down 4 lctrl 0.640931422749
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.545153090119
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.447759984469
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.380032006244
+hexa SNARC color arabic DC 0 down 9 lctrl 0.630459198059
+hexa SNARC color arabic DC 0 down 9 lctrl 0.615450545767
+hexa SNARC color arabic DC 0 down 4 lctrl 0.407964867845
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.475362058627
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.392185583201
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.347099976134
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.309337485145
+hexa SNARC color arabic DC 0 down 8 lctrl 0.454298610086
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.618791559318
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.379323735469
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.349973729812
+hexa SNARC color arabic DC 0 down 7 lctrl 0.456139933332
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.540635943413
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.403316671451
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.364841692004
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.31139029545
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.312426341057
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.313371706288
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.314206206502
+hexa SNARC color arabic DC 0 down 3 lctrl 0.427579238356
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.423314851811
+hexa SNARC color arabic DC 0 down 7 lctrl 0.515047515291
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.345362287582
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.371214923885
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.325796420511
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.30323719811
+hexa SNARC color arabic DC 0 down 2 lctrl 0.392326273315
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.387303304975
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.358217206245
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.320418864882
+hexa SNARC color arabic DC 0 down 4 lctrl 0.449883893001
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.526326523977
+hexa SNARC color arabic DC 0 down 2 lctrl 0.476652370708
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.641399887681
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.426458537695
+hexa SNARC color arabic DC 0 down 6 lctrl 0.454113935484
+hexa SNARC color arabic DC 0 down 6 lctrl 0.4345574076
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.422675570415
+hexa SNARC color arabic DC 0 down 6 lctrl 0.442070922276
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.798402218265
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.387525938786
+hexa SNARC color arabic DC 0 down 7 lctrl 0.438473834642
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.434518845839
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.422606581051
+hexa SNARC color arabic DC 0 down 9 lctrl 0.466325053814
+hexa SNARC color arabic DC 0 down 1 lctrl 0.463144312496
+hexa SNARC color arabic DC 0 down 6 lctrl 0.427531036185
+hexa SNARC color arabic DC 0 down 1 lctrl 0.351239940806
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.425496904209
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.81313792571
+hexa SNARC color arabic DC 0 down 8 lctrl 0.457912568469
+hexa SNARC color arabic DC 0 down 1 lctrl 1.61427079744
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.414913814515
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.458599750797
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.374981924178
+hexa SNARC color arabic DC 0 down 6 lctrl 0.601597540735
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.545762245165
+hexa SNARC color arabic DC 0 down 9 lctrl 0.368453842791
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.427093601407
+hexa SNARC color arabic DC 0 down 9 lctrl 0.51067075743
+hexa SNARC color arabic DC 0 down 7 lctrl 0.404615117659
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.432008114833
+hexa SNARC color arabic DC 0 down 5 lctrl 0.484069481026
+hexa SNARC color arabic DC 0 down 5 lctrl 0.841293722391
+hexa SNARC color arabic DC 0 down 8 lctrl 0.366991207935
+hexa SNARC color arabic DC 0 down 5 lctrl 0.417558909088
+hexa SNARC color arabic DC 0 down 8 lctrl 0.333269264607
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.46313678092
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.387626259573
+hexa SNARC color arabic DC 0 down 6 lctrl 0.662236183445
+hexa SNARC color arabic DC 0 down 9 lctrl 0.375837211599
+hexa SNARC color arabic DC 0 down 3 lctrl 0.418419619251
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.422183606934
+hexa SNARC color arabic DC 0 down 4 lctrl 0.641799965771
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.41075306265
+hexa SNARC color arabic DC 0 down 9 lctrl 0.430083040308
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.761460068112
+hexa SNARC color arabic DC 0 down 1 lctrl 0.405403223282
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.536777358953
+hexa SNARC color arabic DC 0 down 2 lctrl 0.455334956947
+hexa SNARC color arabic DC 0 down 1 lctrl 0.355779079764
+hexa SNARC color arabic DC 0 down 3 lctrl 0.325974768566
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.407456636109
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.418665751626
+hexa SNARC color arabic DC 0 down 8 lctrl 0.422453237872
+hexa SNARC color arabic DC 0 down 2 lctrl 0.346197390332
+hexa SNARC color arabic DC 0 down 3 lctrl 0.33956868689
+hexa SNARC color arabic DC 0 down 5 lctrl 0.365377338705
+hexa SNARC color arabic DC 0 down 8 lctrl 0.343882781934
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.313818781491
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.419282438248
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.358994767652
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.417161542384
+hexa SNARC color arabic DC 0 down 1 lctrl 0.436879848843
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.36836677762
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.379606320756
+hexa SNARC color arabic DC 0 down 9 lctrl 0.445783393865
+hexa SNARC color arabic DC 0 down 6 lctrl 0.873933225521
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.448385106487
+hexa SNARC color arabic DC 0 down 2 lctrl 0.500804675132
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.546782022517
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.424809721895
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.388478835623
+hexa SNARC color arabic DC 0 down 5 lctrl 0.415423251281
+hexa SNARC color arabic DC 0 down 7 lctrl 0.787094890809
+hexa SNARC color arabic DC 0 down 1 lctrl 0.327700105321
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.425187807734
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.420845092653
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.360586343348
+hexa SNARC color arabic DC 0 down 5 lctrl 0.450712970487
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.615259845901
+hexa SNARC color arabic DC 0 down 7 lctrl 0.447835902916
+hexa SNARC color arabic DC 0 down 8 lctrl 0.884168958277
+hexa SNARC color arabic DC 0 down 2 lctrl 0.387091215394
+hexa SNARC color arabic DC 0 down 5 lctrl 0.382079695075
+hexa SNARC color arabic DC 0 down 9 lctrl 0.377057329257
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.443641710794
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.503660654256
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.349705605186
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.335562784545
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.401795591417
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.325029403335
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.294558395733
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.343233558844
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.321104842151
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.338478413862
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.420360359494
+hexa SNARC color arabic DC 0 down 9 lctrl 0.423681489643
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.523722702506
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.426065689928
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.341717600299
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.335516691208
+hexa SNARC color arabic DC 0 down 8 lctrl 0.441360542667
+hexa SNARC color arabic DC 0 down 3 lctrl 0.525470935303
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.46765603649
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.432489835366
+hexa SNARC color arabic DC 0 down 5 lctrl 0.452646480393
+hexa SNARC color arabic DC 0 down 9 lctrl 0.369112706336
+hexa SNARC color arabic DC 0 down 7 lctrl 0.371689112813
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.40625881197
+hexa SNARC color arabic DC 0 down 7 lctrl 0.761576054603
+hexa SNARC color arabic DC 0 down 4 lctrl 0.389472101786
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.440493505957
+hexa SNARC color arabic DC 0 down 7 lctrl 0.69243334241
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.454604091414
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.379071879084
+hexa SNARC color arabic DC 0 down 5 lctrl 0.445575220714
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.521797627967
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.376123110764
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.410617494024
+hexa SNARC color arabic DC 0 down 1 lctrl 0.469910090891
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.450749122116
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.415203630109
+hexa SNARC color arabic DC 0 down 3 lctrl 0.458835037687
+hexa SNARC color arabic DC 0 down 9 lctrl 0.831391187196
+hexa SNARC color arabic DC 0 down 4 lctrl 0.42100054468
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.432867619951
+hexa SNARC color arabic DC 0 up 9 num_decimal 1.00459155884
+hexa SNARC color arabic DC 0 down 5 lctrl 0.542667966511
+hexa SNARC color arabic DC 0 down 3 lctrl 0.445353490679
+hexa SNARC color arabic DC 0 down 6 lctrl 0.377402276106
+hexa SNARC color arabic DC 0 down 7 lctrl 0.428076925848
+hexa SNARC color arabic DC 0 down 7 lctrl 0.383774001675
+hexa SNARC color arabic DC 0 down 3 lctrl 0.402721675811
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.406036780681
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.36931726434
+hexa SNARC color arabic DC 0 down 7 lctrl 0.747929415142
+hexa SNARC color arabic DC 0 down 2 lctrl 0.335858022896
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.433724112416
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.373776267181
+hexa SNARC color arabic DC 0 down 3 lctrl 0.424303599022
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.436016427309
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.42407343362
+hexa SNARC color arabic DC 0 down 3 lctrl 0.419652389988
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.535419865075
+hexa SNARC color arabic DC 0 down 1 lctrl 0.422204996634
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.369885748791
+hexa SNARC color arabic DC 0 down 2 lctrl 0.564438179499
+hexa SNARC color arabic DC 0 down 3 lctrl 0.651902540005
+hexa SNARC color arabic DC 0 down 3 lctrl 0.421204500162
+hexa SNARC color arabic DC 0 down 4 lctrl 0.376902781019
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.459505650491
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.415918829938
+hexa SNARC color arabic DC 0 down 2 lctrl 0.40346790578
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.486982097718
+hexa SNARC color arabic DC 0 down 9 lctrl 0.540145184961
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.362879562032
+hexa SNARC color arabic DC 0 down 8 lctrl 0.548683297224
+hexa SNARC color arabic DC 0 down 3 lctrl 0.435767583549
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.479839137275
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.604637893179
+hexa SNARC color arabic DC 0 down 8 lctrl 0.468884288261
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.617685319303
+hexa SNARC color arabic DC 0 down 6 lctrl 0.650253121697
+hexa SNARC color arabic DC 0 down 3 lctrl 0.531490483685
+hexa SNARC color arabic DC 0 down 1 lctrl 0.410293936875
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.469583219863
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.450453582496
+hexa SNARC color arabic DC 0 up 2 num_decimal 0.438864874828
+hexa SNARC color arabic DC 0 down 1 lctrl 0.490972334359
+hexa SNARC color arabic DC 0 down 7 lctrl 0.368112209864
+hexa SNARC color arabic DC 0 down 5 lctrl 0.37854948797
+hexa SNARC color arabic DC 0 down 7 lctrl 0.365224598048
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.455831740648
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.53211741327
+hexa SNARC color arabic DC 0 down 3 lctrl 0.659033148651
+hexa SNARC color arabic DC 0 down 6 lctrl 0.468295317871
+hexa SNARC color arabic DC 0 down 4 lctrl 0.353123139692
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.443276880542
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.44728971197
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.635878026791
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.356820246845
+hexa SNARC color arabic DC 0 down 1 lctrl 0.407023117761
+hexa SNARC color arabic DC 0 down 1 lctrl 0.362404770567
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.556583333135
+hexa SNARC color arabic DC 0 down 7 lctrl 0.779613912586
+hexa SNARC color arabic DC 0 down 2 lctrl 0.41554255168
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.419272195286
+hexa SNARC color arabic DC 0 down 6 lctrl 0.774884676284
+hexa SNARC color arabic DC 0 down 4 lctrl 0.387268659673
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.438322299058
+hexa SNARC color arabic DC 0 down 6 lctrl 0.394355283803
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.509280727085
+hexa SNARC color arabic DC 0 down 2 lctrl 0.475143642485
+hexa SNARC color arabic DC 0 down 3 lctrl 0.528098556591
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.454388085389
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.650821003612
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.372390454533
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.399093256754
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.378414521867
+hexa SNARC color arabic DC 0 up 6 num_decimal 0.39694434336
+hexa SNARC color arabic DC 0 down 9 lctrl 0.863547162226
+hexa SNARC color arabic DC 0 up 8 num_decimal 0.509372913744
+hexa SNARC color arabic DC 0 down 1 lctrl 0.523218688468
+hexa SNARC color arabic DC 0 up 4 num_decimal 0.649617455463
+hexa SNARC color arabic DC 0 down 6 lctrl 0.450908791827
+hexa SNARC color arabic DC 0 down 9 lctrl 0.367306329674
+hexa SNARC color arabic DC 0 down 4 lctrl 0.393964243616
+hexa SNARC color arabic DC 0 down 9 lctrl 0.38857041976
+hexa SNARC color arabic DC 0 up 5 num_decimal 0.447862414105
+hexa SNARC color arabic DC 0 up 7 num_decimal 0.484362610528
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.361326246799
+hexa SNARC color arabic DC 0 down 1 lctrl 0.547623150545
+hexa SNARC color arabic DC 0 down 2 lctrl 0.746817149862
+hexa SNARC color arabic DC 0 up 3 num_decimal 0.453945227855
+hexa SNARC color arabic DC 0 up 9 num_decimal 0.458410557243
+hexa SNARC color arabic DC 0 up 1 num_decimal 0.39089436733
+hexa SNARC color arabic DC 0 down 2 lctrl 0.473839773549
+hexa SNARC color arabic DC 0 down 2 lctrl 0.422659000906
+{'participant': u'hexa', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'03_23_1248', 'autopilot': False, 'exp_id': u'SNARC'}
+hexa SNARC_only CD 9 num_decimal 0.725435868211
+hexa SNARC_only CD 5 num_decimal 0.632233942044
+hexa SNARC_only CD 9 num_decimal 0.481264415474
+hexa SNARC_only CD 2 lctrl 0.646380076592
+hexa SNARC_only CD 8 lctrl 0.638955434682
+hexa SNARC_only CD 3 num_decimal 0.599892087368
+hexa SNARC_only CD 5 num_decimal 0.432147298619
+hexa SNARC_only CD 4 lctrl 0.548143131557
+hexa SNARC_only CD 3 num_decimal 0.651345503575
+hexa SNARC_only CD 1 lctrl 0.492585902306
+hexa SNARC_only CD 1 num_decimal 0.643895555506
+hexa SNARC_only CD 6 lctrl 0.788855475403
+hexa SNARC_only CD 1 num_decimal 0.63086590395
+hexa SNARC_only CD 5 num_decimal 0.464222233742
+hexa SNARC_only CD 3 num_decimal 0.519355283803
+hexa SNARC_only CD 3 num_decimal 0.380829149784
+hexa SNARC_only CD 5 num_decimal 0.544070951189
+hexa SNARC_only CD 2 lctrl 0.828782244251
+hexa SNARC_only CD 2 lctrl 0.430905188725
+hexa SNARC_only CD 9 num_decimal 0.887640117711
+hexa SNARC_only CD 8 lctrl 0.638810526871
+hexa SNARC_only CD 3 num_decimal 0.632130909886
+hexa SNARC_only CD 2 lctrl 0.513251381592
+hexa SNARC_only CD 8 lctrl 0.808128212986
+hexa SNARC_only CD 6 lctrl 0.426275068152
+hexa SNARC_only CD 5 num_decimal 0.58798675162
+hexa SNARC_only CD 7 num_decimal 0.519260385758
+hexa SNARC_only CD 9 num_decimal 0.476899105619
+hexa SNARC_only CD 5 num_decimal 0.452830552473
+hexa SNARC_only CD 9 num_decimal 0.476758114222
+hexa SNARC_only CD 8 lctrl 0.484412017759
+hexa SNARC_only CD 6 lctrl 0.507723495422
+hexa SNARC_only CD 6 lctrl 0.458350907051
+hexa SNARC_only CD 8 lctrl 0.378842918741
+hexa SNARC_only CD 8 lctrl 0.405797577361
+hexa SNARC_only CD 7 num_decimal 0.488579999947
+hexa SNARC_only CD 8 lctrl 0.519551406411
+hexa SNARC_only CD 6 lctrl 0.637549738618
+hexa SNARC_only CD 1 num_decimal 0.622867957369
+hexa SNARC_only CD 6 lctrl 0.551985749014
+hexa SNARC_only CD 7 num_decimal 0.523862790084
+hexa SNARC_only CD 5 num_decimal 0.545773391917
+hexa SNARC_only CD 9 num_decimal 0.511109999774
+hexa SNARC_only CD 4 lctrl 0.509475945903
+hexa SNARC_only CD 8 lctrl 0.50770752845
+hexa SNARC_only CD 6 lctrl 0.738380563431
+hexa SNARC_only CD 9 num_decimal 0.599691747062
+hexa SNARC_only CD 1 num_decimal 0.649722897724
+hexa SNARC_only CD 4 lctrl 0.593537835099
+hexa SNARC_only CD 8 lctrl 0.420309144669
+hexa SNARC_only CD 7 num_decimal 0.453969630209
+hexa SNARC_only CD 9 num_decimal 0.478618718364
+hexa SNARC_only CD 4 lctrl 0.574531414575
+hexa SNARC_only CD 6 lctrl 0.73013467688
+hexa SNARC_only CD 8 lctrl 0.615892499496
+hexa SNARC_only CD 5 num_decimal 0.569294850313
+hexa SNARC_only CD 6 lctrl 0.444670827317
+hexa SNARC_only CD 3 num_decimal 0.741984881388
+hexa SNARC_only CD 9 num_decimal 0.554364225303
+hexa SNARC_only CD 7 num_decimal 0.478835326896
+hexa SNARC_only CD 9 num_decimal 0.413766301368
+hexa SNARC_only CD 4 lctrl 0.599535993766
+hexa SNARC_only CD 7 num_decimal 0.560933881061
+hexa SNARC_only CD 2 lctrl 0.476605674849
+hexa SNARC_only CD 9 num_decimal 0.58040605516
+hexa SNARC_only CD 2 lctrl 0.551366351036
+hexa SNARC_only CD 1 num_decimal 0.955760341181
+hexa SNARC_only CD 4 lctrl 0.471984893433
+hexa SNARC_only CD 3 num_decimal 0.486604011865
+hexa SNARC_only CD 7 num_decimal 0.493974727593
+hexa SNARC_only CD 2 lctrl 0.508243175165
+hexa SNARC_only CD 6 lctrl 0.514822170109
+hexa SNARC_only CD 4 lctrl 0.464647617962
+hexa SNARC_only CD 7 num_decimal 0.472593144688
+hexa SNARC_only CD 4 lctrl 0.568074732655
+hexa SNARC_only CD 5 num_decimal 0.57953419823
+hexa SNARC_only CD 6 lctrl 0.647509815171
+hexa SNARC_only CD 9 num_decimal 0.512044519535
+hexa SNARC_only CD 4 lctrl 0.533702361179
+hexa SNARC_only CD 2 lctrl 0.435085522709
+hexa SNARC_only CD 5 num_decimal 0.468085337139
+hexa SNARC_only CD 3 num_decimal 0.587442368269
+hexa SNARC_only CD 9 num_decimal 0.582438982063
+hexa SNARC_only CD 5 num_decimal 0.529725982662
+hexa SNARC_only CD 2 lctrl 0.406880620067
+hexa SNARC_only CD 9 num_decimal 0.465654440995
+hexa SNARC_only CD 7 num_decimal 0.505216982114
+hexa SNARC_only CD 7 num_decimal 0.463823059443
+hexa SNARC_only CD 1 num_decimal 0.575778947212
+hexa SNARC_only CD 8 lctrl 0.435560615457
+hexa SNARC_only CD 5 num_decimal 0.588670620054
+hexa SNARC_only CD 8 lctrl 0.591933003801
+hexa SNARC_only CD 4 lctrl 0.473706916295
+hexa SNARC_only CD 3 num_decimal 0.649114043947
+hexa SNARC_only CD 6 lctrl 0.609386109092
+hexa SNARC_only CD 2 lctrl 0.48394957812
+hexa SNARC_only CD 4 lctrl 0.682384995627
+hexa SNARC_only CD 2 lctrl 0.408877696609
+hexa SNARC_only CD 8 lctrl 0.443560670887
+hexa SNARC_only CD 7 num_decimal 0.451652611708
+hexa SNARC_only CD 3 num_decimal 0.484266507439
+hexa SNARC_only CD 2 lctrl 0.483565165734
+hexa SNARC_only CD 2 lctrl 0.482887322592
+hexa SNARC_only CD 4 num_decimal 0.465649922044
+hexa SNARC_only CD 7 num_decimal 0.441722058997
+hexa SNARC_only CD 7 num_decimal 0.434646882888
+hexa SNARC_only CD 7 num_decimal 0.459370081866
+hexa SNARC_only CD 6 lctrl 0.371737917521
+hexa SNARC_only CD 2 lctrl 0.614574772437
+hexa SNARC_only CD 9 num_decimal 0.61666373437
+hexa SNARC_only CD 9 num_decimal 0.466611254247
+hexa SNARC_only CD 4 lctrl 0.402522239281
+hexa SNARC_only CD 1 num_decimal 0.668390999213
+hexa SNARC_only CD 7 num_decimal 0.484541259866
+hexa SNARC_only CD 8 lctrl 0.587824370537
+hexa SNARC_only CD 5 num_decimal 0.614799515097
+hexa SNARC_only CD 5 num_decimal 0.440770969755
+hexa SNARC_only CD 9 num_decimal 0.505117866385
+hexa SNARC_only CD 4 lctrl 0.583235221813
+hexa SNARC_only CD 4 lctrl 0.466688678993
+hexa SNARC_only CD 5 num_decimal 0.522151010198
+hexa SNARC_only CD 1 num_decimal 0.57488419427
+hexa SNARC_only CD 4 lctrl 0.617653385358
+hexa SNARC_only CD 5 num_decimal 0.938838062371
+hexa SNARC_only CD 9 num_decimal 0.567821671211
+hexa SNARC_only CD 3 num_decimal 0.555243312541
+hexa SNARC_only CD 3 num_decimal 0.414998770852
+hexa SNARC_only CD 6 lctrl 0.728500623023
+hexa SNARC_only CD 5 num_decimal 0.942613196792
+hexa SNARC_only CD 3 num_decimal 0.803690901113
+hexa SNARC_only CD 2 lctrl 0.653497429623
+hexa SNARC_only CD 2 lctrl 0.3972338577
+hexa SNARC_only CD 1 num_decimal 0.63115361071
+hexa SNARC_only CD 4 lctrl 0.512356327366
+hexa SNARC_only CD 9 num_decimal 0.574563047252
+hexa SNARC_only CD 9 num_decimal 0.394552611484
+hexa SNARC_only CD 2 lctrl 0.413771724125
+hexa SNARC_only CD 8 lctrl 0.471229926799
+hexa SNARC_only CD 2 lctrl 0.446577826035
+hexa SNARC_only CD 7 num_decimal 0.639986057518
+hexa SNARC_only CD 1 num_decimal 0.784788416539
+hexa SNARC_only CD 1 num_decimal 0.426948091073
+hexa SNARC_only CD 3 num_decimal 0.668183729838
+hexa SNARC_only CD 1 num_decimal 0.547152576764
+hexa SNARC_only CD 7 num_decimal 0.399061322809
+hexa SNARC_only CD 4 lctrl 0.537663676514
+hexa SNARC_only CD 4 lctrl 0.413448468258
+hexa SNARC_only CD 3 num_decimal 0.471687546247
+hexa SNARC_only CD 6 lctrl 0.535433421945
+hexa SNARC_only CD 1 num_decimal 0.476787035543
+hexa SNARC_only CD 1 num_decimal 0.420810447336
+hexa SNARC_only CD 3 num_decimal 0.39783849378
+hexa SNARC_only CD 2 lctrl 0.416488218194
+hexa SNARC_only CD 9 num_decimal 0.458321081955
+hexa SNARC_only CD 1 num_decimal 0.370409344949
+hexa SNARC_only CD 9 num_decimal 0.414103415358
+hexa SNARC_only CD 3 num_decimal 0.471037720621
+hexa SNARC_only CD 8 lctrl 0.534487755445
+hexa SNARC_only CD 3 num_decimal 0.587284807392
+hexa SNARC_only CD 7 num_decimal 0.478546716346
+hexa SNARC_only CD 1 num_decimal 0.478539184754
+hexa SNARC_only CD 1 num_decimal 0.334487875953
+hexa SNARC_only CD 1 num_decimal 0.347832348009
+hexa SNARC_only CD 7 num_decimal 0.496129365012
+hexa SNARC_only CD 3 num_decimal 0.566951923145
+hexa SNARC_only CD 9 num_decimal 0.489944121626
+hexa SNARC_only CD 6 lctrl 0.489201205535
+hexa SNARC_only CD 6 lctrl 0.440214234593
+hexa SNARC_only CD 8 lctrl 0.481062568841
+hexa SNARC_only CD 3 num_decimal 0.599362164678
+hexa SNARC_only CD 5 num_decimal 0.441511776997
+hexa SNARC_only CD 7 num_decimal 0.394849054879
+hexa SNARC_only CD 6 num_decimal 0.405767450997
+hexa SNARC_only CD 3 num_decimal 0.496335429329
+hexa SNARC_only CD 4 lctrl 0.671164733358
+hexa SNARC_only CD 5 num_decimal 0.534469679624
+hexa SNARC_only CD 7 num_decimal 0.547850002054
+hexa SNARC_only CD 4 lctrl 0.632334564099
+hexa SNARC_only CD 6 lctrl 0.553597208127
+hexa SNARC_only CD 4 lctrl 0.573995165323
+hexa SNARC_only CD 2 lctrl 0.449102716433
+hexa SNARC_only CD 5 num_decimal 0.449648606111
+hexa SNARC_only CD 1 num_decimal 0.465429095799
+hexa SNARC_only CD 8 lctrl 0.545343187463
+hexa SNARC_only CD 2 lctrl 0.486461514171
+hexa SNARC_only CD 2 lctrl 0.373803079638
+hexa SNARC_only CD 9 num_decimal 0.449665476888
+hexa SNARC_only CD 2 lctrl 0.481655756899
+hexa SNARC_only CD 3 num_decimal 0.464955208125
+hexa SNARC_only CD 7 num_decimal 0.464370756701
+hexa SNARC_only CD 8 lctrl 0.471730928199
+hexa SNARC_only CD 8 lctrl 0.663051704061
+hexa SNARC_only CD 5 num_decimal 0.463617597648
+hexa SNARC_only CD 2 lctrl 0.47209395087
+hexa SNARC_only CD 5 num_decimal 0.607601724667
+hexa SNARC_only CD 1 num_decimal 0.786043179512
+hexa SNARC_only CD 3 num_decimal 0.461225263251
+hexa SNARC_only CD 5 num_decimal 0.437885165535
+hexa SNARC_only CD 6 lctrl 0.53354329399
+hexa SNARC_only CD 6 lctrl 0.410583752498
+hexa SNARC_only CD 4 lctrl 0.700344223806
+hexa SNARC_only CD 7 num_decimal 0.490286658372
+hexa SNARC_only CD 7 num_decimal 0.489607308889
+hexa SNARC_only CD 1 lctrl 0.672197163774
+hexa SNARC_only CD 1 num_decimal 0.663200528303
+hexa SNARC_only CD 8 lctrl 0.511360952383
+hexa SNARC_only CD 2 lctrl 0.50999080544
+hexa SNARC_only CD 7 num_decimal 0.571994473619
+hexa SNARC_only CD 8 lctrl 0.65546347601
+hexa SNARC_only CD 4 lctrl 0.471663746415
+hexa SNARC_only CD 2 lctrl 0.422458961868
+hexa SNARC_only CD 2 lctrl 0.4318303693
+hexa SNARC_only CD 5 num_decimal 0.528436574372
+hexa SNARC_only CD 8 lctrl 0.621800580353
+hexa SNARC_only CD 5 num_decimal 0.558880166966
+hexa SNARC_only CD 2 lctrl 0.579458581065
+hexa SNARC_only CD 9 num_decimal 0.511352516987
+hexa SNARC_only CD 1 num_decimal 0.661184472148
+hexa SNARC_only CD 9 num_decimal 0.509561504776
+hexa SNARC_only CD 8 lctrl 0.652412579322
+hexa SNARC_only CD 3 num_decimal 0.547898505494
+hexa SNARC_only CD 2 lctrl 0.520546178886
+hexa SNARC_only CD 3 num_decimal 0.670286851164
+hexa SNARC_only CD 5 num_decimal 0.710053347764
+hexa SNARC_only CD 7 num_decimal 0.475878123194
+hexa SNARC_only CD 8 lctrl 0.619406137092
+hexa SNARC_only CD 8 lctrl 0.461413553014
+hexa SNARC_only CD 1 num_decimal 0.605177155056
+hexa SNARC_only CD 6 lctrl 0.623054439551
+hexa SNARC_only CD 7 num_decimal 0.50427221939
+hexa SNARC_only CD 3 num_decimal 0.58288033327
+hexa SNARC_only CD 6 num_decimal 0.474190143126
+hexa SNARC_only CD 1 num_decimal 0.969174405138
+hexa SNARC_only CD 5 num_decimal 0.581057387099
+hexa SNARC_only CD 7 num_decimal 0.488064236633
+hexa SNARC_only CD 2 lctrl 0.479416464412
+hexa SNARC_only CD 4 lctrl 0.727354616203
+hexa SNARC_only CD 1 num_decimal 0.56535643102
+hexa SNARC_only CD 8 lctrl 0.576778238639
+hexa SNARC_only CD 5 num_decimal 0.556708960052
+hexa SNARC_only CD 7 num_decimal 0.504419537305
+hexa SNARC_only CD 6 lctrl 0.45489450953
+hexa SNARC_only CD 7 num_decimal 0.591518465037
+hexa SNARC_only CD 4 lctrl 0.674556359198
+hexa SNARC_only CD 3 num_decimal 0.538224026866
+hexa SNARC_only CD 8 lctrl 0.582640527427
+hexa SNARC_only CD 2 lctrl 0.521511126266
+hexa SNARC_only CD 4 lctrl 0.479581255626
+hexa SNARC_only CD 6 lctrl 0.439585196145
+hexa SNARC_only CD 2 lctrl 0.424336738011
+hexa SNARC_only CD 3 num_decimal 0.569511760128
+hexa SNARC_only CD 5 num_decimal 0.588808900051
+hexa SNARC_only CD 5 num_decimal 0.455400632403
+hexa SNARC_only CD 1 num_decimal 0.592091468468
+hexa SNARC_only CD 5 num_decimal 0.539367322301
+hexa SNARC_only CD 2 lctrl 0.616758933669
+hexa SNARC_only CD 5 num_decimal 0.498833206002
+hexa SNARC_only CD 9 num_decimal 0.473430657556
+hexa SNARC_only CD 5 num_decimal 0.433403567935
+hexa SNARC_only CD 6 lctrl 0.594369623956
+hexa SNARC_only CD 4 lctrl 0.653719460912
+hexa SNARC_only CD 6 lctrl 0.446063267766
+hexa SNARC_only CD 7 num_decimal 0.622848977757
+hexa SNARC_only CD 5 num_decimal 0.616408564078
+hexa SNARC_only CD 8 lctrl 0.658232992457
+hexa SNARC_only CD 6 lctrl 0.514442276675
+hexa SNARC_only CD 7 num_decimal 0.448676428408
+hexa SNARC_only CD 3 num_decimal 0.567632176404
+hexa SNARC_only CD 3 num_decimal 0.427632260762
+hexa SNARC_only CD 1 num_decimal 0.549529546726
+hexa SNARC_only CD 1 num_decimal 0.361112048384
+hexa SNARC_only CD 1 num_decimal 0.341771526495
+hexa SNARC_only CD 6 lctrl 0.52244895992
+hexa SNARC_only CD 6 lctrl 0.520272330265
+hexa SNARC_only CD 4 lctrl 0.557830263264
+hexa SNARC_only CD 6 lctrl 0.914583027043
+hexa SNARC_only CD 1 num_decimal 0.575961512965
+hexa SNARC_only CD 6 lctrl 0.555336704274
+hexa SNARC_only CD 7 num_decimal 0.415531706181
+hexa SNARC_only CD 2 lctrl 0.481435533206
+hexa SNARC_only CD 8 lctrl 0.480028330829
+hexa SNARC_only CD 9 num_decimal 0.447848254713
+hexa SNARC_only CD 1 num_decimal 0.968534822459
+hexa SNARC_only CD 2 lctrl 0.483772736363
+hexa SNARC_only CD 8 lctrl 0.60283001019
+hexa SNARC_only CD 8 lctrl 0.365534899582
+hexa SNARC_only CD 4 lctrl 0.513533364341
+hexa SNARC_only CD 5 num_decimal 0.456194763305
+hexa SNARC_only CD 9 num_decimal 0.600397306465
+hexa SNARC_only CD 2 lctrl 0.490810857067
+hexa SNARC_only CD 5 num_decimal 0.489659126237
+hexa SNARC_only CD 2 lctrl 0.616585707103
+hexa SNARC_only CD 7 num_decimal 0.482647215482
+hexa SNARC_only CD 2 lctrl 0.417933681034
+hexa SNARC_only CD 5 num_decimal 0.370941376503
+hexa SNARC_only CD 3 num_decimal 0.542554088868
+hexa SNARC_only CD 9 num_decimal 0.483892036762
+hexa SNARC_only CD 3 num_decimal 0.578383973741
+hexa SNARC_only CD 9 num_decimal 0.502004909387
+hexa SNARC_only CD 1 num_decimal 0.508508889689
+hexa SNARC_only CD 1 num_decimal 0.386619737837
+hexa SNARC_only CD 1 num_decimal 0.389931528814
+hexa SNARC_only CD 7 num_decimal 0.464567481846
+hexa SNARC_only CD 4 lctrl 0.61653599859
+hexa SNARC_only CD 8 lctrl 0.465969863988
+hexa SNARC_only CD 9 num_decimal 0.449139470598
+hexa SNARC_only CD 8 lctrl 0.577058715076
+hexa SNARC_only CD 1 num_decimal 0.572428594503
+hexa SNARC_only CD 4 lctrl 0.663506612123
+hexa SNARC_only CD 2 lctrl 0.496078150187
+hexa SNARC_only CD 4 lctrl 0.42236165372
+hexa SNARC_only CD 9 num_decimal 0.416164359791
+hexa SNARC_only CD 5 num_decimal 0.537374162188
+hexa SNARC_only CD 9 num_decimal 0.566697355389
+hexa SNARC_only CD 1 num_decimal 0.538169799402
+hexa SNARC_only CD 2 lctrl 0.471170577861
+hexa SNARC_only CD 1 num_decimal 0.82268496984
+hexa SNARC_only CD 4 lctrl 0.527981967563
+hexa SNARC_only CD 6 lctrl 0.637729593
+hexa SNARC_only CD 4 lctrl 0.446964648523
+hexa SNARC_only CD 9 num_decimal 0.424278292878
+hexa SNARC_only CD 3 num_decimal 0.537404288538
+hexa SNARC_only CD 4 lctrl 0.654715137178
+hexa SNARC_only CD 3 num_decimal 0.623451203719
+hexa SNARC_only CD 6 lctrl 0.609314107089
+hexa SNARC_only CD 7 num_decimal 0.483659461242
+hexa SNARC_only CD 5 num_decimal 0.554858297633
+hexa SNARC_only CD 9 num_decimal 0.51936944318
+hexa SNARC_only CD 3 num_decimal 0.548839653042
+hexa SNARC_only CD 3 num_decimal 0.401481373468
+hexa SNARC_only CD 8 lctrl 0.532048423906
+hexa SNARC_only CD 7 num_decimal 0.43244946604
+hexa SNARC_only CD 3 num_decimal 0.50495819666
+hexa SNARC_only CD 6 lctrl 0.558033616209
+hexa SNARC_only CD 3 num_decimal 0.514775172996
+hexa SNARC_only CD 6 lctrl 0.528398012626
+hexa SNARC_only CD 8 lctrl 0.597607304066
+hexa SNARC_only CD 8 lctrl 0.431959611407
+hexa SNARC_only CD 5 num_decimal 0.457258525159
+hexa SNARC_only CD 8 lctrl 0.833764541996
+hexa SNARC_only CD 7 num_decimal 0.42670949029
+hexa SNARC_only CD 4 lctrl 0.692267044898
+hexa SNARC_only CD 9 num_decimal 0.539754144789
+hexa SNARC_only CD 6 lctrl 0.584273074986
+hexa SNARC_only CD 1 num_decimal 0.539581219462
+hexa SNARC_only CD 9 num_decimal 0.568252478188
+hexa SNARC_only CD 6 lctrl 0.4996637898
+hexa SNARC_only CD 8 lctrl 0.482127535724
+hexa SNARC_only CD 6 lctrl 0.432972760958
+hexa SNARC_only CD 6 lctrl 0.473508082301
+hexa SNARC_only CD 4 lctrl 0.449015349979
+hexa SNARC_only CD 4 lctrl 0.417213962239
+hexa SNARC_only CD 9 num_decimal 0.482818333214
+hexa SNARC_only CD 9 num_decimal 0.432648902555
+hexa SNARC_only CD 3 num_decimal 0.536972577785
+hexa SNARC_only CD 7 num_decimal 0.493494513386
+hexa SNARC_only CD 3 num_decimal 0.508833651867
+hexa SNARC_only CD 4 lctrl 0.57139164512
+hexa SNARC_only CD 8 lctrl 1.102228688
+hexa SNARC_only CD 7 num_decimal 0.501044480974
+{'participant': u'hexa', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'03_23_1256', 'autopilot': False, 'exp_id': u'SNARC'}
+hexa SNARC_only DC 7 lctrl 0.906291047169
+hexa SNARC_only DC 3 lctrl 0.561592443351
+hexa SNARC_only DC 9 lctrl 0.38468080516
+hexa SNARC_only DC 7 lctrl 0.395643487049
+hexa SNARC_only DC 7 lctrl 0.358623008346
+hexa SNARC_only DC 7 lctrl 0.344825134554
+hexa SNARC_only DC 6 num_decimal 0.5306225432
+hexa SNARC_only DC 5 lctrl 0.425252579415
+hexa SNARC_only DC 4 num_decimal 0.612779843781
+hexa SNARC_only DC 7 lctrl 0.556703236056
+hexa SNARC_only DC 3 lctrl 0.563914282058
+hexa SNARC_only DC 5 lctrl 0.507352941175
+hexa SNARC_only DC 7 lctrl 0.496841552202
+hexa SNARC_only DC 6 num_decimal 0.503208758819
+hexa SNARC_only DC 7 lctrl 0.517090685171
+hexa SNARC_only DC 9 lctrl 0.595405067012
+hexa SNARC_only DC 9 lctrl 0.387198163968
+hexa SNARC_only DC 1 num_decimal 0.454159426299
+hexa SNARC_only DC 8 num_decimal 0.637393684068
+hexa SNARC_only DC 5 lctrl 0.550628857673
+hexa SNARC_only DC 8 num_decimal 0.770599502561
+hexa SNARC_only DC 8 num_decimal 0.518518373472
+hexa SNARC_only DC 9 lctrl 0.883777616837
+hexa SNARC_only DC 3 lctrl 0.546094538935
+hexa SNARC_only DC 9 lctrl 0.487438210825
+hexa SNARC_only DC 1 lctrl 0.590740602391
+hexa SNARC_only DC 1 lctrl 0.577552787407
+hexa SNARC_only DC 4 num_decimal 0.565079569744
+hexa SNARC_only DC 6 num_decimal 0.600530766242
+hexa SNARC_only DC 3 lctrl 0.578853944986
+hexa SNARC_only DC 4 num_decimal 0.646411106747
+hexa SNARC_only DC 5 lctrl 0.559073578217
+hexa SNARC_only DC 2 num_decimal 0.554919755421
+hexa SNARC_only DC 5 lctrl 0.606996787319
+hexa SNARC_only DC 7 lctrl 0.497551630571
+hexa SNARC_only DC 8 num_decimal 1.11952182233
+hexa SNARC_only DC 1 lctrl 0.509462389033
+hexa SNARC_only DC 9 lctrl 0.732137778701
+hexa SNARC_only DC 4 num_decimal 0.61757535809
+hexa SNARC_only DC 1 lctrl 0.555299950109
+hexa SNARC_only DC 4 num_decimal 0.815247674851
+hexa SNARC_only DC 8 num_decimal 0.561137234021
+hexa SNARC_only DC 6 num_decimal 0.493315261541
+hexa SNARC_only DC 5 lctrl 0.50851160106
+hexa SNARC_only DC 3 lctrl 0.66709948206
+hexa SNARC_only DC 3 lctrl 0.442433944932
+hexa SNARC_only DC 9 lctrl 0.611737772924
+hexa SNARC_only DC 3 lctrl 0.518283689104
+hexa SNARC_only DC 5 lctrl 0.532112291796
+hexa SNARC_only DC 9 lctrl 0.729410439148
+hexa SNARC_only DC 6 num_decimal 0.534781788738
+hexa SNARC_only DC 6 num_decimal 0.459553250155
+hexa SNARC_only DC 2 num_decimal 0.53219574182
+hexa SNARC_only DC 5 lctrl 0.561005883079
+hexa SNARC_only DC 5 lctrl 0.445223947318
+hexa SNARC_only DC 2 num_decimal 0.462590288706
+hexa SNARC_only DC 1 lctrl 0.606816029162
+hexa SNARC_only DC 6 num_decimal 0.521319823878
+hexa SNARC_only DC 5 lctrl 0.550131772703
+hexa SNARC_only DC 1 lctrl 0.602474217856
+hexa SNARC_only DC 6 num_decimal 0.476603867268
+hexa SNARC_only DC 7 lctrl 0.580553071806
+hexa SNARC_only DC 4 num_decimal 0.471344105725
+hexa SNARC_only DC 4 num_decimal 0.430667793
+hexa SNARC_only DC 2 num_decimal 0.440160609665
+hexa SNARC_only DC 6 num_decimal 0.441370484361
+hexa SNARC_only DC 8 num_decimal 0.418698890629
+hexa SNARC_only DC 5 lctrl 0.48466447668
+hexa SNARC_only DC 5 lctrl 0.427966060859
+hexa SNARC_only DC 1 lctrl 0.597412085248
+hexa SNARC_only DC 4 num_decimal 0.65565929735
+hexa SNARC_only DC 6 num_decimal 0.511251593678
+hexa SNARC_only DC 3 lctrl 0.509841378676
+hexa SNARC_only DC 6 num_decimal 0.580093042256
+hexa SNARC_only DC 7 lctrl 0.45545546239
+hexa SNARC_only DC 1 lctrl 0.615675890964
+hexa SNARC_only DC 2 num_decimal 0.457349205506
+hexa SNARC_only DC 3 lctrl 0.593993044429
+hexa SNARC_only DC 5 lctrl 0.684508904145
+hexa SNARC_only DC 4 num_decimal 0.547182703129
+hexa SNARC_only DC 8 num_decimal 0.846908071224
+hexa SNARC_only DC 3 lctrl 0.544178502314
+hexa SNARC_only DC 2 num_decimal 0.485501387011
+hexa SNARC_only DC 7 lctrl 0.444656969194
+hexa SNARC_only DC 1 lctrl 0.604671634705
+hexa SNARC_only DC 4 lctrl 0.447042374537
+hexa SNARC_only DC 3 lctrl 0.61638084783
+hexa SNARC_only DC 8 num_decimal 0.504764182886
+hexa SNARC_only DC 4 num_decimal 0.543195177845
+hexa SNARC_only DC 2 num_decimal 0.452103603355
+hexa SNARC_only DC 4 num_decimal 0.436693969183
+hexa SNARC_only DC 4 num_decimal 0.429988744785
+hexa SNARC_only DC 6 num_decimal 0.53557471458
+hexa SNARC_only DC 4 num_decimal 0.484372853505
+hexa SNARC_only DC 3 lctrl 0.523543149393
+hexa SNARC_only DC 8 num_decimal 0.593274831946
+hexa SNARC_only DC 7 lctrl 0.636254003795
+hexa SNARC_only DC 7 lctrl 0.437593241091
+hexa SNARC_only DC 6 num_decimal 0.494823688481
+hexa SNARC_only DC 6 num_decimal 0.493529158703
+hexa SNARC_only DC 7 lctrl 0.500422974117
+hexa SNARC_only DC 8 num_decimal 0.490265268643
+hexa SNARC_only DC 8 num_decimal 0.449049694027
+hexa SNARC_only DC 9 lctrl 0.481224949923
+hexa SNARC_only DC 6 num_decimal 0.552209889152
+hexa SNARC_only DC 7 lctrl 0.475907345768
+hexa SNARC_only DC 1 lctrl 0.547549039678
+hexa SNARC_only DC 9 lctrl 0.672105278383
+hexa SNARC_only DC 4 num_decimal 0.59944410836
+hexa SNARC_only DC 2 num_decimal 0.497191319271
+hexa SNARC_only DC 3 lctrl 0.535440652267
+hexa SNARC_only DC 2 num_decimal 0.483972775415
+hexa SNARC_only DC 3 lctrl 0.65040766992
+hexa SNARC_only DC 5 lctrl 0.530644836705
+hexa SNARC_only DC 4 num_decimal 0.575640064679
+hexa SNARC_only DC 4 num_decimal 0.971632414992
+hexa SNARC_only DC 1 lctrl 0.471637837749
+hexa SNARC_only DC 9 lctrl 0.687534193421
+hexa SNARC_only DC 2 num_decimal 0.510763847895
+hexa SNARC_only DC 3 lctrl 0.573061248098
+hexa SNARC_only DC 1 lctrl 0.503767301561
+hexa SNARC_only DC 9 lctrl 0.549871179668
+hexa SNARC_only DC 5 lctrl 0.434522461015
+hexa SNARC_only DC 9 lctrl 0.427873874185
+hexa SNARC_only DC 5 lctrl 0.477128668485
+hexa SNARC_only DC 1 lctrl 0.47683312888
+hexa SNARC_only DC 8 num_decimal 0.460047623754
+hexa SNARC_only DC 1 lctrl 0.484710268749
+hexa SNARC_only DC 7 lctrl 0.507474350423
+hexa SNARC_only DC 7 lctrl 0.441978735616
+hexa SNARC_only DC 9 lctrl 0.498675946394
+hexa SNARC_only DC 5 lctrl 0.417103097221
+hexa SNARC_only DC 4 lctrl 0.387191536181
+hexa SNARC_only DC 9 lctrl 0.59843758661
+hexa SNARC_only DC 6 num_decimal 0.720234250533
+hexa SNARC_only DC 8 lctrl 0.57362671991
+hexa SNARC_only DC 1 lctrl 0.592613558299
+hexa SNARC_only DC 7 lctrl 0.427375584157
+hexa SNARC_only DC 5 lctrl 0.501192401411
+hexa SNARC_only DC 9 lctrl 0.427834408634
+hexa SNARC_only DC 3 lctrl 0.477698357994
+hexa SNARC_only DC 7 lctrl 0.493293570558
+hexa SNARC_only DC 3 lctrl 0.444267134066
+hexa SNARC_only DC 2 num_decimal 0.444674743747
+hexa SNARC_only DC 1 lctrl 0.485103116502
+hexa SNARC_only DC 4 num_decimal 0.4360173311
+hexa SNARC_only DC 2 num_decimal 0.516563172569
+hexa SNARC_only DC 1 lctrl 0.594300634577
+hexa SNARC_only DC 7 lctrl 0.501688883858
+hexa SNARC_only DC 5 lctrl 0.49134710629
+hexa SNARC_only DC 4 num_decimal 0.41836840444
+hexa SNARC_only DC 1 lctrl 0.555681349841
+hexa SNARC_only DC 7 lctrl 0.527391490876
+hexa SNARC_only DC 7 lctrl 0.372879706643
+hexa SNARC_only DC 6 num_decimal 0.376346045858
+hexa SNARC_only DC 2 num_decimal 0.475993507178
+hexa SNARC_only DC 3 lctrl 0.484061949435
+hexa SNARC_only DC 4 num_decimal 0.635302914539
+hexa SNARC_only DC 9 lctrl 0.628632636726
+hexa SNARC_only DC 5 lctrl 0.590523993844
+hexa SNARC_only DC 8 num_decimal 0.569949797427
+hexa SNARC_only DC 6 num_decimal 0.501739496147
+hexa SNARC_only DC 2 num_decimal 0.434955678094
+hexa SNARC_only DC 5 lctrl 0.467513538795
+hexa SNARC_only DC 9 lctrl 0.563344893832
+hexa SNARC_only DC 2 num_decimal 0.487900349224
+hexa SNARC_only DC 8 num_decimal 0.470454172988
+hexa SNARC_only DC 4 num_decimal 0.430418346703
+hexa SNARC_only DC 5 lctrl 0.503426873678
+hexa SNARC_only DC 2 num_decimal 0.50982420666
+hexa SNARC_only DC 9 lctrl 0.540118071251
+hexa SNARC_only DC 3 lctrl 0.473268878981
+hexa SNARC_only DC 9 lctrl 0.408765927816
+hexa SNARC_only DC 5 lctrl 0.459390266537
+hexa SNARC_only DC 3 lctrl 0.379590052515
+hexa SNARC_only DC 4 lctrl 0.455599165143
+hexa SNARC_only DC 8 num_decimal 0.527205309962
+hexa SNARC_only DC 1 lctrl 0.468754744899
+hexa SNARC_only DC 8 num_decimal 0.444810613641
+hexa SNARC_only DC 8 num_decimal 0.453565635704
+hexa SNARC_only DC 2 num_decimal 0.413725630788
+hexa SNARC_only DC 2 num_decimal 0.368376719314
+hexa SNARC_only DC 4 num_decimal 0.499660475907
+hexa SNARC_only DC 6 num_decimal 0.497905012788
+hexa SNARC_only DC 1 lctrl 0.608393746734
+hexa SNARC_only DC 7 lctrl 0.578845509604
+hexa SNARC_only DC 8 num_decimal 0.526446426898
+hexa SNARC_only DC 5 lctrl 0.540427167711
+hexa SNARC_only DC 6 num_decimal 0.640761811344
+hexa SNARC_only DC 1 lctrl 0.585732395964
+hexa SNARC_only DC 3 lctrl 0.637065306728
+hexa SNARC_only DC 3 lctrl 0.477013887052
+hexa SNARC_only DC 3 lctrl 0.412122305803
+hexa SNARC_only DC 1 lctrl 0.518242415987
+hexa SNARC_only DC 3 lctrl 0.514948098295
+hexa SNARC_only DC 5 lctrl 0.511715840912
+hexa SNARC_only DC 8 num_decimal 0.50128940829
+hexa SNARC_only DC 7 lctrl 0.499673731494
+hexa SNARC_only DC 5 lctrl 0.506092454176
+hexa SNARC_only DC 1 lctrl 0.520801650448
+hexa SNARC_only DC 6 num_decimal 0.597971833049
+hexa SNARC_only DC 7 lctrl 0.432559427267
+hexa SNARC_only DC 7 lctrl 0.369920394107
+hexa SNARC_only DC 9 lctrl 0.573375767315
+hexa SNARC_only DC 2 num_decimal 0.52025003676
+hexa SNARC_only DC 8 num_decimal 0.541812980358
+hexa SNARC_only DC 8 num_decimal 0.402436981676
+hexa SNARC_only DC 7 lctrl 0.540699811289
+hexa SNARC_only DC 7 lctrl 0.417742981153
+hexa SNARC_only DC 5 lctrl 0.507368305625
+hexa SNARC_only DC 3 lctrl 0.465150125674
+hexa SNARC_only DC 7 lctrl 0.496580055376
+hexa SNARC_only DC 2 num_decimal 0.487859377376
+hexa SNARC_only DC 7 lctrl 0.637998320148
+hexa SNARC_only DC 8 num_decimal 0.703328239979
+hexa SNARC_only DC 8 num_decimal 0.445578835875
+hexa SNARC_only DC 9 lctrl 0.470796107198
+hexa SNARC_only DC 3 lctrl 0.53434827039
+hexa SNARC_only DC 4 num_decimal 0.675395679631
+hexa SNARC_only DC 1 lctrl 0.55484835594
+hexa SNARC_only DC 2 num_decimal 0.87941562089
+hexa SNARC_only DC 3 lctrl 0.478658485139
+hexa SNARC_only DC 4 num_decimal 0.509631397945
+hexa SNARC_only DC 2 num_decimal 0.476211622037
+hexa SNARC_only DC 9 lctrl 0.476012185507
+hexa SNARC_only DC 9 lctrl 0.427421978748
+hexa SNARC_only DC 4 num_decimal 0.444958835331
+hexa SNARC_only DC 4 num_decimal 0.405695448993
+hexa SNARC_only DC 4 num_decimal 0.407278589322
+hexa SNARC_only DC 4 num_decimal 0.369222366295
+hexa SNARC_only DC 3 lctrl 0.468803549607
+hexa SNARC_only DC 9 lctrl 0.580481973579
+hexa SNARC_only DC 8 num_decimal 0.559565842967
+hexa SNARC_only DC 2 num_decimal 0.476011281717
+hexa SNARC_only DC 7 lctrl 0.499437842082
+hexa SNARC_only DC 1 lctrl 0.609893738292
+hexa SNARC_only DC 6 num_decimal 0.63588103943
+hexa SNARC_only DC 1 lctrl 0.525053685182
+hexa SNARC_only DC 5 lctrl 0.546878125606
+hexa SNARC_only DC 6 num_decimal 0.639995999227
+hexa SNARC_only DC 4 num_decimal 0.512168941408
+hexa SNARC_only DC 9 lctrl 0.470638546307
+hexa SNARC_only DC 3 lctrl 0.486287383814
+hexa SNARC_only DC 1 lctrl 0.573286292027
+hexa SNARC_only DC 8 num_decimal 0.496213718812
+hexa SNARC_only DC 8 num_decimal 0.447268020987
+hexa SNARC_only DC 8 num_decimal 0.37597940804
+hexa SNARC_only DC 1 lctrl 0.419766267645
+hexa SNARC_only DC 1 lctrl 0.397324538048
+hexa SNARC_only DC 6 num_decimal 0.455984782573
+hexa SNARC_only DC 8 num_decimal 0.392522697206
+hexa SNARC_only DC 8 num_decimal 0.355894463733
+hexa SNARC_only DC 6 num_decimal 0.48032447297
+hexa SNARC_only DC 9 lctrl 0.503548282912
+hexa SNARC_only DC 6 num_decimal 0.521118579767
+hexa SNARC_only DC 3 lctrl 0.707576659537
+hexa SNARC_only DC 2 num_decimal 0.505720092362
+hexa SNARC_only DC 9 lctrl 0.568362439415
+hexa SNARC_only DC 5 lctrl 0.588343749027
+hexa SNARC_only DC 6 num_decimal 0.567190825197
+hexa SNARC_only DC 6 num_decimal 0.594323229365
+hexa SNARC_only DC 6 num_decimal 0.485658947888
+hexa SNARC_only DC 8 num_decimal 0.469026785955
+hexa SNARC_only DC 6 num_decimal 0.483757371927
+hexa SNARC_only DC 2 num_decimal 0.482768022193
+hexa SNARC_only DC 9 lctrl 0.569661789399
+hexa SNARC_only DC 8 num_decimal 0.493641530033
+hexa SNARC_only DC 2 num_decimal 0.484249636676
+hexa SNARC_only DC 7 lctrl 0.507299316247
+hexa SNARC_only DC 8 num_decimal 0.473152591221
+hexa SNARC_only DC 4 num_decimal 0.728309320606
+hexa SNARC_only DC 3 lctrl 0.573609246625
+hexa SNARC_only DC 7 lctrl 0.513341760685
+hexa SNARC_only DC 1 lctrl 0.448000392847
+hexa SNARC_only DC 1 lctrl 0.416025778512
+hexa SNARC_only DC 3 lctrl 0.497594108718
+hexa SNARC_only DC 4 lctrl 0.440273583517
+hexa SNARC_only DC 4 num_decimal 0.505593260372
+hexa SNARC_only DC 6 num_decimal 0.455097259939
+hexa SNARC_only DC 3 lctrl 0.543783545698
+hexa SNARC_only DC 9 lctrl 0.549085484148
+hexa SNARC_only DC 6 num_decimal 0.45668973944
+hexa SNARC_only DC 9 lctrl 0.560716368738
+hexa SNARC_only DC 3 lctrl 0.956779817265
+hexa SNARC_only DC 3 lctrl 0.433409593199
+hexa SNARC_only DC 1 lctrl 0.786168203907
+hexa SNARC_only DC 2 num_decimal 0.509506373535
+hexa SNARC_only DC 5 lctrl 0.516042589035
+hexa SNARC_only DC 1 lctrl 0.537441645225
+hexa SNARC_only DC 4 num_decimal 0.494283221546
+hexa SNARC_only DC 6 num_decimal 0.613466423572
+hexa SNARC_only DC 5 lctrl 0.543980873379
+hexa SNARC_only DC 5 lctrl 0.484959413763
+hexa SNARC_only DC 1 lctrl 0.642642298859
+hexa SNARC_only DC 5 lctrl 0.500006025264
+hexa SNARC_only DC 2 num_decimal 0.393706964489
+hexa SNARC_only DC 7 lctrl 0.483978198143
+hexa SNARC_only DC 1 lctrl 0.546423820066
+hexa SNARC_only DC 6 num_decimal 0.486961310526
+hexa SNARC_only DC 9 lctrl 0.501240302328
+hexa SNARC_only DC 6 num_decimal 0.603220749108
+hexa SNARC_only DC 6 num_decimal 0.525052178855
+hexa SNARC_only DC 7 lctrl 0.417862281553
+hexa SNARC_only DC 2 num_decimal 0.579003673003
+hexa SNARC_only DC 2 num_decimal 0.454047958759
+hexa SNARC_only DC 7 lctrl 0.486557014738
+hexa SNARC_only DC 9 lctrl 0.533464061664
+hexa SNARC_only DC 6 num_decimal 0.626881993827
+hexa SNARC_only DC 7 lctrl 0.515689809326
+hexa SNARC_only DC 3 lctrl 0.561612326739
+hexa SNARC_only DC 3 lctrl 0.493946107541
+hexa SNARC_only DC 2 num_decimal 0.469469944743
+hexa SNARC_only DC 6 num_decimal 0.469367213853
+hexa SNARC_only DC 4 num_decimal 0.460564290857
+hexa SNARC_only DC 8 num_decimal 0.453101388455
+hexa SNARC_only DC 2 num_decimal 0.389629361394
+hexa SNARC_only DC 8 num_decimal 0.416772309778
+hexa SNARC_only DC 2 num_decimal 0.47462727665
+hexa SNARC_only DC 5 lctrl 0.50641992774
+hexa SNARC_only DC 7 lctrl 0.648916415012
+hexa SNARC_only DC 2 num_decimal 0.889026231627
+hexa SNARC_only DC 9 lctrl 0.615715055232
+hexa SNARC_only DC 8 num_decimal 0.488951759267
+hexa SNARC_only DC 7 lctrl 0.53502159458
+hexa SNARC_only DC 2 num_decimal 0.540410296948
+hexa SNARC_only DC 2 num_decimal 0.457748379806
+hexa SNARC_only DC 1 lctrl 0.457645648916
+hexa SNARC_only DC 2 num_decimal 0.466381088845
+hexa SNARC_only DC 9 lctrl 0.529832328713
+hexa SNARC_only DC 6 num_decimal 0.503774531899
+hexa SNARC_only DC 9 lctrl 0.49430370747
+hexa SNARC_only DC 4 num_decimal 0.48418998647
+hexa SNARC_only DC 9 lctrl 0.467306871942
+hexa SNARC_only DC 5 lctrl 0.555588861913
+hexa SNARC_only DC 1 lctrl 0.639060274421
+hexa SNARC_only DC 5 lctrl 0.503522374245
+hexa SNARC_only DC 7 lctrl 0.47678070901
+hexa SNARC_only DC 5 lctrl 0.476505956583
+hexa SNARC_only DC 5 lctrl 0.436295999942
+hexa SNARC_only DC 1 lctrl 0.556642380805
+hexa SNARC_only DC 1 lctrl 0.40121746654
+hexa SNARC_only DC 3 lctrl 0.451065448913
+hexa SNARC_only DC 9 lctrl 0.419245081561
+hexa SNARC_only DC 5 lctrl 0.476806918945
+hexa SNARC_only DC 3 lctrl 0.444416259561
+hexa SNARC_only DC 4 num_decimal 0.573813202092
+hexa SNARC_only DC 9 lctrl 0.625330486189
+hexa SNARC_only DC 6 num_decimal 0.562725194555
+hexa SNARC_only DC 5 lctrl 0.583249682473
+hexa SNARC_only DC 8 num_decimal 0.562024455372
+hexa SNARC_only DC 9 lctrl 0.878616971022
+hexa SNARC_only DC 3 lctrl 0.494652269481
+hexa SNARC_only DC 8 num_decimal 0.509635916897
+hexa SNARC_only DC 4 num_decimal 0.812335660696
+hexa SNARC_only DC 2 num_decimal 0.398124995481
+hexa SNARC_only DC 2 num_decimal 0.383591737191
+hexa SNARC_only DC 4 num_decimal 0.411013354416
+hexa SNARC_only DC 8 num_decimal 0.460906526336
+hexa SNARC_only DC 2 num_decimal 0.421231613873
+hexa SNARC_only DC 8 num_decimal 0.414759266278

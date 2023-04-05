@@ -1,0 +1,19 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'01_09_1607', 'exp_id': u'SNARC', 'task': u'triangle', 'participant': u'participant_id', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'01_09_1614', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'participant_id', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+participant_id SNARC color dot CD 0 up 30 space 1.21097683907
+participant_id SNARC color dot CD 0 down 30 lctrl 1.74222803116
+participant_id SNARC color dot CD 0 down 10 lctrl 0.2809278965
+participant_id SNARC color dot CD 0 down 5 lctrl 0.443629980087
+participant_id SNARC color dot CD 0 up 45 num_enter 0.378890991211
+participant_id SNARC color dot CD 0 down 35 rctrl 0.529614925385
+participant_id SNARC color dot CD 0 up 15 lctrl 1.29369282722
+participant_id SNARC color dot CD 0 up 5 lctrl 0.299952983856
+participant_id SNARC color dot CD 0 up 15 lctrl 0.261245012283
+participant_id SNARC color dot CD 0 up 40 lctrl 0.285474061966
+participant_id SNARC color dot CD 0 up 20 lctrl 0.610646009445
+participant_id SNARC color dot CD 0 down 30 num_separator 1.38848686218
+participant_id SNARC color dot CD 0 down 15 num_enter 0.709643125534
+participant_id SNARC color dot CD 0 down 35 lctrl 0.631105899811
+participant_id SNARC color dot CD 0 up 20 num_separator 0.298820018768
+participant_id SNARC color dot CD 0 up 40 lctrl 0.429752826691
+participant_id SNARC color dot CD 0 down 45 num_separator 0.338981866837

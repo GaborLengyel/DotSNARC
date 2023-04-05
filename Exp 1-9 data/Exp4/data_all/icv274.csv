@@ -1,0 +1,2248 @@
+{'task': 'line', 'participant': 'icv274', 'dateStr': '05_21_1056', 'notation': 'arabic', 'response_buttons': 'DC', 'range_in_instr': True, 'interactive_setting': False, 'autopilot': False, 'exp_id': 'SNARC'}
+icv274 SNARC arabic DC up 9 num_separator 2.8296649456
+icv274 SNARC arabic DC down 9 lctrl 0.657352924347
+icv274 SNARC arabic DC up 3 num_separator 0.626056909561
+icv274 SNARC arabic DC up 7 num_separator 0.772260904312
+icv274 SNARC arabic DC up 4 num_separator 0.57416009903
+icv274 SNARC arabic DC down 5 lctrl 0.434561014175
+icv274 SNARC arabic DC down 9 lctrl 0.350933074951
+icv274 SNARC arabic DC down 8 lctrl 0.505213022232
+icv274 SNARC arabic DC up 3 num_separator 0.393531799316
+icv274 SNARC arabic DC down 1 lctrl 0.397177934647
+icv274 SNARC arabic DC down 2 lctrl 0.541489839554
+icv274 SNARC arabic DC up 8 num_separator 0.357952833176
+icv274 SNARC arabic DC down 7 lctrl 0.627983093262
+icv274 SNARC arabic DC up 7 num_separator 0.554255008698
+icv274 SNARC arabic DC up 8 num_separator 1.4737341404
+icv274 SNARC arabic DC down 8 lctrl 0.704710960388
+icv274 SNARC arabic DC up 8 num_separator 0.465857028961
+icv274 SNARC arabic DC up 2 num_separator 0.426234006882
+icv274 SNARC arabic DC down 1 lctrl 0.397986888885
+icv274 SNARC arabic DC up 5 num_separator 0.518849849701
+icv274 SNARC arabic DC down 5 num_separator 0.42927312851
+icv274 SNARC arabic DC up 9 num_separator 0.940187215805
+icv274 SNARC arabic DC down 9 lctrl 0.396802902222
+icv274 SNARC arabic DC down 4 lctrl 0.556356191635
+icv274 SNARC arabic DC up 9 num_separator 0.471986055374
+icv274 SNARC arabic DC up 9 num_separator 0.471096992493
+icv274 SNARC arabic DC down 5 lctrl 0.469987869263
+icv274 SNARC arabic DC down 4 lctrl 0.700759887695
+icv274 SNARC arabic DC up 6 num_separator 0.461796045303
+icv274 SNARC arabic DC up 4 num_separator 0.477444171906
+icv274 SNARC arabic DC up 4 num_separator 0.476441860199
+icv274 SNARC arabic DC down 6 lctrl 0.629842996597
+icv274 SNARC arabic DC down 8 lctrl 0.478801965714
+icv274 SNARC arabic DC down 6 lctrl 0.439200878143
+icv274 SNARC arabic DC up 1 num_separator 0.428279876709
+icv274 SNARC arabic DC up 5 num_separator 0.59308385849
+icv274 SNARC arabic DC up 8 num_separator 0.694020986557
+icv274 SNARC arabic DC down 4 lctrl 0.515137195587
+icv274 SNARC arabic DC down 6 lctrl 0.575258016586
+icv274 SNARC arabic DC down 6 lctrl 0.435657024384
+icv274 SNARC arabic DC down 7 num_separator 0.467972993851
+icv274 SNARC arabic DC up 8 num_separator 0.878633022308
+icv274 SNARC arabic DC down 5 lctrl 0.515003919601
+icv274 SNARC arabic DC up 4 num_separator 0.658440828323
+icv274 SNARC arabic DC down 5 lctrl 1.01472997665
+icv274 SNARC arabic DC down 9 lctrl 1.04301905632
+icv274 SNARC arabic DC down 1 lctrl 0.591335058212
+icv274 SNARC arabic DC down 4 lctrl 0.473752975464
+icv274 SNARC arabic DC up 9 num_separator 0.549903154373
+icv274 SNARC arabic DC down 4 lctrl 0.658679008484
+icv274 SNARC arabic DC down 1 lctrl 0.43576002121
+icv274 SNARC arabic DC down 2 lctrl 0.390964984894
+icv274 SNARC arabic DC up 4 num_separator 0.396004915237
+icv274 SNARC arabic DC down 2 lctrl 0.387950897217
+icv274 SNARC arabic DC down 2 lctrl 0.354432106018
+icv274 SNARC arabic DC up 1 num_separator 0.547266960144
+icv274 SNARC arabic DC up 3 num_separator 0.634166002274
+icv274 SNARC arabic DC down 2 lctrl 0.505135059357
+icv274 SNARC arabic DC up 7 num_separator 0.620738983154
+icv274 SNARC arabic DC up 6 num_separator 0.469856977463
+icv274 SNARC arabic DC down 5 lctrl 0.430326938629
+icv274 SNARC arabic DC down 6 lctrl 0.440722942352
+icv274 SNARC arabic DC down 9 lctrl 0.434377193451
+icv274 SNARC arabic DC up 7 num_separator 0.428111076355
+icv274 SNARC arabic DC down 7 lctrl 0.665645837784
+icv274 SNARC arabic DC down 2 lctrl 0.382922887802
+icv274 SNARC arabic DC down 2 lctrl 0.426633834839
+icv274 SNARC arabic DC down 4 lctrl 0.552926063538
+icv274 SNARC arabic DC up 6 num_separator 0.391357898712
+icv274 SNARC arabic DC down 4 lctrl 0.615108013153
+icv274 SNARC arabic DC up 2 num_separator 0.618714094162
+icv274 SNARC arabic DC up 6 num_separator 0.66080904007
+icv274 SNARC arabic DC down 3 lctrl 0.708270072937
+icv274 SNARC arabic DC down 3 lctrl 0.435320138931
+icv274 SNARC arabic DC down 4 lctrl 0.463025093079
+icv274 SNARC arabic DC down 8 lctrl 0.401659011841
+icv274 SNARC arabic DC up 9 num_separator 0.428798913956
+icv274 SNARC arabic DC down 6 lctrl 0.400406837463
+icv274 SNARC arabic DC down 5 lctrl 0.389061927795
+icv274 SNARC arabic DC down 3 lctrl 0.510020017624
+icv274 SNARC arabic DC down 1 lctrl 0.553073883057
+icv274 SNARC arabic DC down 9 lctrl 0.468770980835
+icv274 SNARC arabic DC up 2 num_separator 0.506327152252
+icv274 SNARC arabic DC up 3 num_separator 0.510673999786
+icv274 SNARC arabic DC down 4 lctrl 0.360732078552
+icv274 SNARC arabic DC up 1 num_separator 0.592186927795
+icv274 SNARC arabic DC up 7 num_separator 0.590452194214
+icv274 SNARC arabic DC up 5 num_separator 0.550087213516
+icv274 SNARC arabic DC down 4 lctrl 0.466209173203
+icv274 SNARC arabic DC up 4 num_separator 0.61966586113
+icv274 SNARC arabic DC up 1 num_separator 0.700459003448
+icv274 SNARC arabic DC down 4 lctrl 0.466368913651
+icv274 SNARC arabic DC down 1 lctrl 0.465432167053
+icv274 SNARC arabic DC down 6 lctrl 0.464563131332
+icv274 SNARC arabic DC up 5 num_separator 0.480090856552
+icv274 SNARC arabic DC down 8 lctrl 0.440185070038
+icv274 SNARC arabic DC up 6 num_separator 0.395926952362
+icv274 SNARC arabic DC down 9 lctrl 0.362494945526
+icv274 SNARC arabic DC up 5 num_separator 0.362195968628
+icv274 SNARC arabic DC down 6 lctrl 0.40091919899
+icv274 SNARC arabic DC up 9 num_separator 0.350665092468
+icv274 SNARC arabic DC down 2 lctrl 0.427920103073
+icv274 SNARC arabic DC down 1 lctrl 0.477057933807
+icv274 SNARC arabic DC down 3 lctrl 0.398859977722
+icv274 SNARC arabic DC down 3 lctrl 0.387499094009
+icv274 SNARC arabic DC up 5 num_separator 0.315291166306
+icv274 SNARC arabic DC down 5 lctrl 0.425807952881
+icv274 SNARC arabic DC down 7 lctrl 0.629397153854
+icv274 SNARC arabic DC up 3 num_separator 0.555624008179
+icv274 SNARC arabic DC down 4 lctrl 0.626079082489
+icv274 SNARC arabic DC down 2 lctrl 0.436610937119
+icv274 SNARC arabic DC up 1 num_separator 0.584701061249
+icv274 SNARC arabic DC up 4 num_separator 0.570446968079
+icv274 SNARC arabic DC up 7 num_separator 0.430620908737
+icv274 SNARC arabic DC up 7 num_separator 0.518526077271
+icv274 SNARC arabic DC up 9 num_separator 0.544903993607
+icv274 SNARC arabic DC down 8 lctrl 0.554717063904
+icv274 SNARC arabic DC up 1 num_separator 0.509116888046
+icv274 SNARC arabic DC down 6 lctrl 0.359305858612
+icv274 SNARC arabic DC down 3 lctrl 0.359168052673
+icv274 SNARC arabic DC up 2 num_separator 0.397540092468
+icv274 SNARC arabic DC down 7 lctrl 0.51850104332
+icv274 SNARC arabic DC down 3 lctrl 0.429205179214
+icv274 SNARC arabic DC up 2 num_separator 0.439779996872
+icv274 SNARC arabic DC up 8 lctrl 0.39505815506
+icv274 SNARC arabic DC down 6 lctrl 0.863712787628
+icv274 SNARC arabic DC up 8 num_separator 0.672554016113
+icv274 SNARC arabic DC up 8 num_separator 0.433231830597
+icv274 SNARC arabic DC up 3 num_separator 0.645923137665
+icv274 SNARC arabic DC down 4 lctrl 0.594329118729
+icv274 SNARC arabic DC up 9 num_separator 0.399540901184
+icv274 SNARC arabic DC up 1 num_separator 0.465426206589
+icv274 SNARC arabic DC down 5 lctrl 0.928221940994
+icv274 SNARC arabic DC down 5 lctrl 1.09521794319
+icv274 SNARC arabic DC down 8 lctrl 0.593787908554
+icv274 SNARC arabic DC up 7 num_separator 0.360435962677
+icv274 SNARC arabic DC down 4 lctrl 0.553455114365
+icv274 SNARC arabic DC up 7 num_separator 0.430715084076
+icv274 SNARC arabic DC up 7 num_separator 0.364007949829
+icv274 SNARC arabic DC up 8 lctrl 0.479859828949
+icv274 SNARC arabic DC down 3 lctrl 3.06632518768
+icv274 SNARC arabic DC up 7 num_separator 0.58224105835
+icv274 SNARC arabic DC down 9 lctrl 1.23704314232
+icv274 SNARC arabic DC down 5 lctrl 0.585608005524
+icv274 SNARC arabic DC down 3 lctrl 0.772394180298
+icv274 SNARC arabic DC down 8 lctrl 0.626178979874
+icv274 SNARC arabic DC up 7 num_separator 0.436700105667
+icv274 SNARC arabic DC down 9 lctrl 0.585076093674
+icv274 SNARC arabic DC down 9 lctrl 0.428996801376
+icv274 SNARC arabic DC up 9 num_separator 0.70986700058
+icv274 SNARC arabic DC down 5 lctrl 0.553064823151
+icv274 SNARC arabic DC up 1 num_separator 0.507402181625
+icv274 SNARC arabic DC up 3 num_separator 0.550559997559
+icv274 SNARC arabic DC down 1 lctrl 0.736709117889
+icv274 SNARC arabic DC up 6 num_separator 0.430751085281
+icv274 SNARC arabic DC up 8 num_separator 0.981965780258
+icv274 SNARC arabic DC down 1 lctrl 0.387448072433
+icv274 SNARC arabic DC up 5 num_separator 0.547145843506
+icv274 SNARC arabic DC down 1 lctrl 0.899832010269
+icv274 SNARC arabic DC down 2 lctrl 0.466099977493
+icv274 SNARC arabic DC down 9 num_separator 0.619477987289
+icv274 SNARC arabic DC down 4 lctrl 1.66602897644
+icv274 SNARC arabic DC down 5 lctrl 0.697140932083
+icv274 SNARC arabic DC up 2 num_separator 0.518400907516
+icv274 SNARC arabic DC up 5 num_separator 0.467731952667
+icv274 SNARC arabic DC down 4 lctrl 0.775825023651
+icv274 SNARC arabic DC down 4 lctrl 0.706741809845
+icv274 SNARC arabic DC up 6 num_separator 1.35642409325
+icv274 SNARC arabic DC down 7 lctrl 0.588456869125
+icv274 SNARC arabic DC down 2 lctrl 0.43230509758
+icv274 SNARC arabic DC down 3 lctrl 0.580644130707
+icv274 SNARC arabic DC up 1 num_separator 0.557128190994
+icv274 SNARC arabic DC up 4 num_separator 0.614404916763
+icv274 SNARC arabic DC down 6 lctrl 0.44165802002
+icv274 SNARC arabic DC down 2 lctrl 0.590050935745
+icv274 SNARC arabic DC down 6 lctrl 0.395350933075
+icv274 SNARC arabic DC up 5 num_separator 0.51650094986
+icv274 SNARC arabic DC down 9 lctrl 0.620298147202
+icv274 SNARC arabic DC up 7 num_separator 0.585360765457
+icv274 SNARC arabic DC down 3 lctrl 0.583829879761
+icv274 SNARC arabic DC up 9 num_separator 0.736711978912
+icv274 SNARC arabic DC down 8 lctrl 0.932689905167
+icv274 SNARC arabic DC down 5 lctrl 0.542591810226
+icv274 SNARC arabic DC down 9 lctrl 0.591010093689
+icv274 SNARC arabic DC down 3 lctrl 0.550673007965
+icv274 SNARC arabic DC down 9 lctrl 1.00733995438
+icv274 SNARC arabic DC down 1 lctrl 1.36158680916
+icv274 SNARC arabic DC down 5 lctrl 0.477765083313
+icv274 SNARC arabic DC down 8 lctrl 0.399634122849
+icv274 SNARC arabic DC down 9 lctrl 0.349662065506
+icv274 SNARC arabic DC up 9 num_separator 0.581396102905
+icv274 SNARC arabic DC up 6 num_separator 0.73432302475
+icv274 SNARC arabic DC down 3 lctrl 0.389708995819
+icv274 SNARC arabic DC down 6 lctrl 0.472396850586
+icv274 SNARC arabic DC up 9 num_separator 0.510150194168
+icv274 SNARC arabic DC up 7 num_separator 0.823715925217
+icv274 SNARC arabic DC down 7 lctrl 1.05231308937
+icv274 SNARC arabic DC up 1 num_separator 0.507016897202
+icv274 SNARC arabic DC down 2 lctrl 0.936373949051
+icv274 SNARC arabic DC up 7 num_separator 0.662188053131
+icv274 SNARC arabic DC down 6 lctrl 0.78715801239
+icv274 SNARC arabic DC down 3 lctrl 0.542495012283
+icv274 SNARC arabic DC up 5 num_separator 0.397919178009
+icv274 SNARC arabic DC up 1 num_separator 0.557708978653
+icv274 SNARC arabic DC down 9 lctrl 0.782836914062
+icv274 SNARC arabic DC up 2 num_separator 0.967411994934
+icv274 SNARC arabic DC up 2 num_separator 0.505504131317
+icv274 SNARC arabic DC down 8 lctrl 0.510076999664
+icv274 SNARC arabic DC up 8 lctrl 0.432811021805
+icv274 SNARC arabic DC down 4 lctrl 0.967492103577
+icv274 SNARC arabic DC down 1 lctrl 0.775762081146
+icv274 SNARC arabic DC down 2 lctrl 0.547711133957
+icv274 SNARC arabic DC down 4 lctrl 0.707448959351
+icv274 SNARC arabic DC up 1 num_separator 0.627995967865
+icv274 SNARC arabic DC down 8 lctrl 0.477292060852
+icv274 SNARC arabic DC down 6 lctrl 0.660422801971
+icv274 SNARC arabic DC down 5 lctrl 0.553756952286
+icv274 SNARC arabic DC down 1 lctrl 0.4310131073
+icv274 SNARC arabic DC up 7 num_separator 0.557462930679
+icv274 SNARC arabic DC down 9 lctrl 0.396167993546
+icv274 SNARC arabic DC down 6 lctrl 0.401585817337
+icv274 SNARC arabic DC up 9 num_separator 0.467375993729
+icv274 SNARC arabic DC down 3 lctrl 0.500803947449
+icv274 SNARC arabic DC down 4 lctrl 0.428071022034
+icv274 SNARC arabic DC up 1 num_separator 0.400124073029
+icv274 SNARC arabic DC down 5 lctrl 0.504639863968
+icv274 SNARC arabic DC down 7 lctrl 0.586448907852
+icv274 SNARC arabic DC down 8 lctrl 0.507668018341
+icv274 SNARC arabic DC down 7 lctrl 0.550833940506
+icv274 SNARC arabic DC up 8 num_separator 0.544046878815
+icv274 SNARC arabic DC down 4 lctrl 0.47669506073
+icv274 SNARC arabic DC down 1 lctrl 1.01692295074
+icv274 SNARC arabic DC up 8 num_separator 0.504873991013
+icv274 SNARC arabic DC up 3 num_separator 0.496325016022
+icv274 SNARC arabic DC down 2 lctrl 0.942494869232
+icv274 SNARC arabic DC up 2 num_separator 0.70240688324
+icv274 SNARC arabic DC down 3 lctrl 0.545678853989
+icv274 SNARC arabic DC down 1 lctrl 0.632853984833
+icv274 SNARC arabic DC down 8 lctrl 0.388283014297
+icv274 SNARC arabic DC down 4 lctrl 0.393632173538
+icv274 SNARC arabic DC down 7 lctrl 0.823935985565
+icv274 SNARC arabic DC down 5 lctrl 0.550460100174
+icv274 SNARC arabic DC up 9 num_separator 0.491987943649
+icv274 SNARC arabic DC down 5 lctrl 0.436053037643
+icv274 SNARC arabic DC down 1 lctrl 0.468632936478
+icv274 SNARC arabic DC down 9 lctrl 0.506532907486
+icv274 SNARC arabic DC up 7 num_separator 0.433908939362
+icv274 SNARC arabic DC down 8 lctrl 0.389262199402
+icv274 SNARC arabic DC down 6 lctrl 0.549132823944
+icv274 SNARC arabic DC down 3 lctrl 0.542423963547
+icv274 SNARC arabic DC down 3 lctrl 0.354577064514
+icv274 SNARC arabic DC down 5 lctrl 0.393201828003
+icv274 SNARC arabic DC up 2 num_separator 0.591704130173
+icv274 SNARC arabic DC up 1 num_separator 0.667562961578
+icv274 SNARC arabic DC up 9 num_separator 0.582877874374
+icv274 SNARC arabic DC up 3 num_separator 0.465595960617
+icv274 SNARC arabic DC up 2 num_separator 1.12143993378
+icv274 SNARC arabic DC down 1 lctrl 0.509613990784
+icv274 SNARC arabic DC down 8 lctrl 0.630200147629
+icv274 SNARC arabic DC down 4 lctrl 0.479403972626
+icv274 SNARC arabic DC up 8 num_separator 0.542859077454
+icv274 SNARC arabic DC down 2 lctrl 0.745989084244
+icv274 SNARC arabic DC up 7 num_separator 0.542929172516
+icv274 SNARC arabic DC up 9 num_separator 1.05491089821
+icv274 SNARC arabic DC up 2 num_separator 0.689814090729
+icv274 SNARC arabic DC up 8 num_separator 1.01330208778
+icv274 SNARC arabic DC up 5 num_separator 0.749912023544
+icv274 SNARC arabic DC down 2 lctrl 0.813672065735
+icv274 SNARC arabic DC up 1 lctrl 0.402453899384
+icv274 SNARC arabic DC up 2 num_separator 0.738765001297
+icv274 SNARC arabic DC up 3 num_separator 0.394335985184
+icv274 SNARC arabic DC up 1 num_separator 0.5025639534
+icv274 SNARC arabic DC up 3 num_separator 0.545838117599
+icv274 SNARC arabic DC down 2 lctrl 0.517215967178
+icv274 SNARC arabic DC down 6 lctrl 0.57782793045
+icv274 SNARC arabic DC down 6 lctrl 1.28833389282
+icv274 SNARC arabic DC down 8 lctrl 0.471498012543
+icv274 SNARC arabic DC down 3 lctrl 0.50928401947
+icv274 SNARC arabic DC up 6 num_separator 1.2864010334
+icv274 SNARC arabic DC down 6 lctrl 0.894253015518
+icv274 SNARC arabic DC down 5 lctrl 0.433844089508
+icv274 SNARC arabic DC down 7 lctrl 0.427886962891
+icv274 SNARC arabic DC down 9 lctrl 0.438611030579
+icv274 SNARC arabic DC up 2 num_separator 1.32099318504
+icv274 SNARC arabic DC up 3 num_separator 1.08866786957
+icv274 SNARC arabic DC down 3 lctrl 1.05100393295
+icv274 SNARC arabic DC up 9 num_separator 0.544404983521
+icv274 SNARC arabic DC down 4 lctrl 0.747635126114
+icv274 SNARC arabic DC up 2 num_separator 1.17558503151
+icv274 SNARC arabic DC down 2 lctrl 0.436577796936
+icv274 SNARC arabic DC up 2 num_separator 1.04859995842
+icv274 SNARC arabic DC down 5 lctrl 0.542142868042
+icv274 SNARC arabic DC up 6 num_separator 0.474897861481
+icv274 SNARC arabic DC up 6 num_separator 0.474245071411
+icv274 SNARC arabic DC down 7 lctrl 0.512372970581
+icv274 SNARC arabic DC down 7 lctrl 0.362428188324
+icv274 SNARC arabic DC up 8 num_separator 0.362636089325
+icv274 SNARC arabic DC down 1 lctrl 0.362751960754
+icv274 SNARC arabic DC up 5 num_separator 0.478688955307
+icv274 SNARC arabic DC down 5 lctrl 0.580889940262
+icv274 SNARC arabic DC down 2 lctrl 0.403067111969
+icv274 SNARC arabic DC down 3 lctrl 0.391849994659
+icv274 SNARC arabic DC up 6 num_separator 0.397283792496
+icv274 SNARC arabic DC up 4 num_separator 0.518642902374
+icv274 SNARC arabic DC up 8 num_separator 0.532270908356
+icv274 SNARC arabic DC up 7 num_separator 0.580926179886
+icv274 SNARC arabic DC up 5 num_separator 0.403177976608
+icv274 SNARC arabic DC down 7 lctrl 0.391945838928
+icv274 SNARC arabic DC up 8 num_separator 0.397389888763
+icv274 SNARC arabic DC up 4 lctrl 0.359662055969
+icv274 SNARC arabic DC down 4 lctrl 0.66877412796
+icv274 SNARC arabic DC up 1 num_separator 0.622697114944
+icv274 SNARC arabic DC down 4 lctrl 0.613754034042
+icv274 SNARC arabic DC up 7 num_separator 0.556937932968
+icv274 SNARC arabic DC down 3 lctrl 0.584302186966
+icv274 SNARC arabic DC down 9 lctrl 0.505769968033
+icv274 SNARC arabic DC up 4 num_separator 0.780754089355
+icv274 SNARC arabic DC up 2 num_separator 0.518953084946
+icv274 SNARC arabic DC down 6 lctrl 0.507030963898
+icv274 SNARC arabic DC down 6 lctrl 0.434479951859
+icv274 SNARC arabic DC down 7 lctrl 0.544408082962
+icv274 SNARC arabic DC down 2 lctrl 0.438642024994
+icv274 SNARC arabic DC up 8 num_separator 0.350917816162
+icv274 SNARC arabic DC down 6 lctrl 0.56977891922
+icv274 SNARC arabic DC down 4 lctrl 0.546426057816
+icv274 SNARC arabic DC up 7 num_separator 0.517915010452
+icv274 SNARC arabic DC up 2 num_separator 0.506025791168
+icv274 SNARC arabic DC down 1 lctrl 0.356351137161
+icv274 SNARC arabic DC up 1 num_separator 0.472383975983
+icv274 SNARC arabic DC up 5 num_separator 0.394529104233
+icv274 SNARC arabic DC up 3 num_separator 0.425750017166
+icv274 SNARC arabic DC down 8 lctrl 0.393225193024
+icv274 SNARC arabic DC down 7 lctrl 0.475999116898
+icv274 SNARC arabic DC up 4 num_separator 0.514011144638
+icv274 SNARC arabic DC up 5 num_separator 0.480224132538
+icv274 SNARC arabic DC up 6 num_separator 0.389336109161
+icv274 SNARC arabic DC up 3 num_separator 0.394874811172
+icv274 SNARC arabic DC down 6 lctrl 0.361732006073
+icv274 SNARC arabic DC down 3 lctrl 0.361894845963
+icv274 SNARC arabic DC down 3 lctrl 0.400789022446
+icv274 SNARC arabic DC down 1 lctrl 0.350952148438
+icv274 SNARC arabic DC down 1 lctrl 0.389844894409
+icv274 SNARC arabic DC down 6 lctrl 0.390657186508
+icv274 SNARC arabic DC up 7 num_separator 0.434777975082
+icv274 SNARC arabic DC down 9 lctrl 0.390563964844
+icv274 SNARC arabic DC down 3 lctrl 0.391218900681
+icv274 SNARC arabic DC up 7 num_separator 0.358134031296
+icv274 SNARC arabic DC down 4 num_separator 0.435606002808
+icv274 SNARC arabic DC up 7 lctrl 0.927452802658
+icv274 SNARC arabic DC down 2 lctrl 0.708731174469
+icv274 SNARC arabic DC down 5 lctrl 0.59081196785
+icv274 SNARC arabic DC up 1 num_separator 0.434938907623
+icv274 SNARC arabic DC up 5 num_separator 0.545071125031
+icv274 SNARC arabic DC up 8 num_separator 0.941406965256
+icv274 SNARC arabic DC up 6 num_separator 1.7490940094
+icv274 SNARC arabic DC up 9 num_separator 0.465687990189
+icv274 SNARC arabic DC down 8 lctrl 0.581068992615
+icv274 SNARC arabic DC down 6 lctrl 0.514593839645
+icv274 SNARC arabic DC up 8 num_separator 0.48063492775
+icv274 SNARC arabic DC up 3 num_separator 0.544310092926
+{'task': 'line', 'participant': 'icv274', 'dateStr': '05_21_1105', 'notation': 'dot', 'response_buttons': 'DC', 'range_in_instr': True, 'interactive_setting': False, 'autopilot': False, 'exp_id': 'SNARC'}
+icv274 SNARC dot DC down 30 lctrl 1.82844114304
+icv274 SNARC dot DC down 20 lctrl 0.345993995667
+icv274 SNARC dot DC up 45 num_separator 0.406798124313
+icv274 SNARC dot DC up 35 num_separator 0.379144906998
+icv274 SNARC dot DC down 30 lctrl 0.423411130905
+icv274 SNARC dot DC down 25 lctrl 0.379081010818
+icv274 SNARC dot DC up 35 lctrl 0.307397127151
+icv274 SNARC dot DC down 40 lctrl 1.14616894722
+icv274 SNARC dot DC down 25 lctrl 0.348093986511
+icv274 SNARC dot DC up 35 num_separator 0.331697940826
+icv274 SNARC dot DC down 35 lctrl 0.357566833496
+icv274 SNARC dot DC up 15 num_separator 0.319221019745
+icv274 SNARC dot DC down 5 lctrl 0.352874040604
+icv274 SNARC dot DC down 30 lctrl 0.413758993149
+icv274 SNARC dot DC up 5 num_separator 0.35097193718
+icv274 SNARC dot DC up 40 num_separator 0.630546092987
+icv274 SNARC dot DC up 5 num_separator 1.13693809509
+icv274 SNARC dot DC down 40 lctrl 0.374593019485
+icv274 SNARC dot DC up 5 num_separator 0.784653902054
+icv274 SNARC dot DC up 30 num_separator 0.837223052979
+icv274 SNARC dot DC down 25 lctrl 1.0717189312
+icv274 SNARC dot DC down 20 lctrl 0.585952043533
+icv274 SNARC dot DC up 15 num_separator 0.425713062286
+icv274 SNARC dot DC up 35 num_separator 0.46001291275
+icv274 SNARC dot DC down 40 lctrl 0.458139181137
+icv274 SNARC dot DC up 45 num_separator 0.380419015884
+icv274 SNARC dot DC up 10 num_separator 0.503504991531
+icv274 SNARC dot DC down 15 lctrl 0.545629024506
+icv274 SNARC dot DC up 15 num_separator 0.401253223419
+icv274 SNARC dot DC up 35 num_separator 0.490792036057
+icv274 SNARC dot DC down 45 lctrl 0.417019128799
+icv274 SNARC dot DC up 40 num_separator 0.527182102203
+icv274 SNARC dot DC up 20 num_separator 0.50021314621
+icv274 SNARC dot DC down 30 lctrl 0.60427904129
+icv274 SNARC dot DC down 35 lctrl 0.685611963272
+icv274 SNARC dot DC up 15 num_separator 0.389970064163
+icv274 SNARC dot DC down 25 lctrl 0.341802120209
+icv274 SNARC dot DC down 5 lctrl 0.358787059784
+icv274 SNARC dot DC up 40 num_separator 0.34094285965
+icv274 SNARC dot DC down 45 lctrl 0.341242074966
+icv274 SNARC dot DC down 25 lctrl 0.381649971008
+icv274 SNARC dot DC up 10 num_separator 0.348704099655
+icv274 SNARC dot DC down 35 lctrl 0.448172092438
+icv274 SNARC dot DC up 25 num_separator 0.293330907822
+icv274 SNARC dot DC up 5 num_separator 0.553443908691
+icv274 SNARC dot DC down 5 lctrl 0.43112206459
+icv274 SNARC dot DC up 45 num_separator 0.40873003006
+icv274 SNARC dot DC down 40 lctrl 0.340966939926
+icv274 SNARC dot DC down 35 lctrl 0.420111894608
+icv274 SNARC dot DC up 30 num_separator 0.53028011322
+icv274 SNARC dot DC down 30 lctrl 0.501927137375
+icv274 SNARC dot DC up 30 num_separator 0.296996831894
+icv274 SNARC dot DC up 10 num_separator 0.453827857971
+icv274 SNARC dot DC down 10 lctrl 1.04956197739
+icv274 SNARC dot DC down 40 lctrl 0.448014974594
+icv274 SNARC dot DC up 45 num_separator 0.370230913162
+icv274 SNARC dot DC down 40 lctrl 0.453202009201
+icv274 SNARC dot DC up 20 num_separator 0.469547986984
+icv274 SNARC dot DC down 40 lctrl 0.375248193741
+icv274 SNARC dot DC up 40 num_separator 1.1922109127
+icv274 SNARC dot DC up 5 num_separator 0.70868396759
+icv274 SNARC dot DC down 30 lctrl 0.342532873154
+icv274 SNARC dot DC up 5 num_separator 0.359578132629
+icv274 SNARC dot DC down 25 lctrl 0.381945133209
+icv274 SNARC dot DC down 35 lctrl 0.4867811203
+icv274 SNARC dot DC up 20 num_separator 0.391113996506
+icv274 SNARC dot DC down 5 lctrl 0.321081161499
+icv274 SNARC dot DC down 20 lctrl 0.43047618866
+icv274 SNARC dot DC down 5 lctrl 0.387659072876
+icv274 SNARC dot DC up 15 num_separator 0.430551052094
+icv274 SNARC dot DC down 15 lctrl 0.347597122192
+icv274 SNARC dot DC up 10 num_separator 0.542636871338
+icv274 SNARC dot DC down 40 lctrl 0.457854032516
+icv274 SNARC dot DC down 30 lctrl 0.342638015747
+icv274 SNARC dot DC up 25 num_separator 0.420351982117
+icv274 SNARC dot DC up 10 num_separator 0.470041036606
+icv274 SNARC dot DC down 25 lctrl 0.452980995178
+icv274 SNARC dot DC up 25 num_separator 0.375427961349
+icv274 SNARC dot DC down 10 lctrl 0.320566892624
+icv274 SNARC dot DC down 5 lctrl 0.431554079056
+icv274 SNARC dot DC down 45 lctrl 0.44632101059
+icv274 SNARC dot DC up 45 num_separator 0.370214939117
+icv274 SNARC dot DC up 35 num_separator 0.375977993011
+icv274 SNARC dot DC up 15 num_separator 0.35835313797
+icv274 SNARC dot DC up 15 num_separator 0.397447109222
+icv274 SNARC dot DC down 10 lctrl 0.499280929565
+icv274 SNARC dot DC up 20 num_separator 0.502873182297
+icv274 SNARC dot DC up 20 num_separator 0.314666032791
+icv274 SNARC dot DC down 5 lctrl 1.58159208298
+icv274 SNARC dot DC down 15 lctrl 0.772626876831
+icv274 SNARC dot DC up 20 num_separator 0.742860794067
+icv274 SNARC dot DC down 30 lctrl 0.460786104202
+icv274 SNARC dot DC up 30 num_separator 0.494602918625
+icv274 SNARC dot DC up 45 num_separator 0.405714988708
+icv274 SNARC dot DC down 30 lctrl 0.300867080688
+icv274 SNARC dot DC up 35 num_separator 0.334625005722
+icv274 SNARC dot DC up 10 num_separator 0.467725038528
+icv274 SNARC dot DC up 5 num_separator 0.815146207809
+icv274 SNARC dot DC down 5 lctrl 0.387814998627
+icv274 SNARC dot DC up 15 num_separator 0.392173051834
+icv274 SNARC dot DC down 20 lctrl 0.382586956024
+icv274 SNARC dot DC down 45 lctrl 0.408859014511
+icv274 SNARC dot DC down 5 num_separator 0.36083483696
+icv274 SNARC dot DC down 5 lctrl 0.979565143585
+icv274 SNARC dot DC down 10 lctrl 0.595234870911
+icv274 SNARC dot DC up 10 num_separator 1.56014585495
+icv274 SNARC dot DC up 40 num_separator 1.11560893059
+icv274 SNARC dot DC down 15 lctrl 0.388355016708
+icv274 SNARC dot DC down 40 lctrl 0.797768115997
+icv274 SNARC dot DC up 20 num_separator 1.50743985176
+icv274 SNARC dot DC up 10 num_separator 0.359869003296
+icv274 SNARC dot DC up 15 num_separator 0.320245027542
+icv274 SNARC dot DC down 5 lctrl 0.394140958786
+icv274 SNARC dot DC down 20 num_separator 0.344558000565
+icv274 SNARC dot DC down 10 lctrl 0.439059972763
+icv274 SNARC dot DC up 15 num_separator 1.39790296555
+icv274 SNARC dot DC down 20 lctrl 1.50791788101
+icv274 SNARC dot DC up 10 num_separator 1.55779504776
+icv274 SNARC dot DC up 10 num_separator 3.29514503479
+icv274 SNARC dot DC down 40 lctrl 1.89060902596
+icv274 SNARC dot DC up 40 lctrl 0.766654014587
+icv274 SNARC dot DC up 10 num_separator 0.85436296463
+icv274 SNARC dot DC up 45 num_separator 0.530102968216
+icv274 SNARC dot DC up 10 num_separator 0.657949924469
+icv274 SNARC dot DC up 15 num_separator 0.575810909271
+icv274 SNARC dot DC down 40 lctrl 0.574923038483
+icv274 SNARC dot DC down 35 lctrl 0.420874118805
+icv274 SNARC dot DC down 25 lctrl 0.492604017258
+icv274 SNARC dot DC up 15 num_separator 0.899369001389
+icv274 SNARC dot DC down 5 lctrl 0.815175056458
+icv274 SNARC dot DC down 15 lctrl 0.497703075409
+icv274 SNARC dot DC up 45 num_separator 0.370221138
+icv274 SNARC dot DC up 40 num_separator 0.414813995361
+icv274 SNARC dot DC up 15 num_separator 0.541932821274
+icv274 SNARC dot DC up 35 num_separator 0.537248849869
+icv274 SNARC dot DC down 25 lctrl 0.492429018021
+icv274 SNARC dot DC up 40 num_separator 0.921058893204
+icv274 SNARC dot DC down 20 lctrl 0.664259910583
+icv274 SNARC dot DC down 35 lctrl 1.68537712097
+icv274 SNARC dot DC down 35 lctrl 1.7660279274
+icv274 SNARC dot DC down 35 lctrl 0.604146957397
+icv274 SNARC dot DC down 25 lctrl 0.995025873184
+icv274 SNARC dot DC up 15 num_separator 0.592884063721
+icv274 SNARC dot DC down 10 lctrl 0.74803185463
+icv274 SNARC dot DC up 30 num_separator 0.5252430439
+icv274 SNARC dot DC down 15 lctrl 0.589609861374
+icv274 SNARC dot DC down 45 lctrl 0.533409118652
+icv274 SNARC dot DC down 5 lctrl 0.540724992752
+icv274 SNARC dot DC up 25 num_separator 0.457242965698
+icv274 SNARC dot DC down 30 lctrl 0.573071956635
+icv274 SNARC dot DC down 5 lctrl 0.898033857346
+icv274 SNARC dot DC up 20 lctrl 0.424612045288
+icv274 SNARC dot DC up 20 num_separator 0.706255912781
+icv274 SNARC dot DC up 5 num_separator 0.667598962784
+icv274 SNARC dot DC up 20 lctrl 0.968403100967
+icv274 SNARC dot DC up 45 num_separator 1.25864386559
+icv274 SNARC dot DC down 35 lctrl 1.23303985596
+icv274 SNARC dot DC down 35 lctrl 0.5271961689
+icv274 SNARC dot DC up 25 num_separator 0.533123016357
+icv274 SNARC dot DC up 25 num_separator 1.1453139782
+icv274 SNARC dot DC down 45 lctrl 0.947712898254
+icv274 SNARC dot DC up 30 num_separator 0.541782140732
+icv274 SNARC dot DC down 10 lctrl 0.513736009598
+icv274 SNARC dot DC up 30 num_separator 0.54102897644
+icv274 SNARC dot DC up 30 num_separator 0.457670927048
+icv274 SNARC dot DC up 10 num_separator 0.358402967453
+icv274 SNARC dot DC down 30 lctrl 0.419602155685
+icv274 SNARC dot DC down 45 lctrl 0.412791013718
+icv274 SNARC dot DC down 25 lctrl 1.23707699776
+icv274 SNARC dot DC down 35 lctrl 0.415254116058
+icv274 SNARC dot DC down 45 lctrl 0.365209102631
+icv274 SNARC dot DC up 40 num_separator 0.448509931564
+icv274 SNARC dot DC up 15 num_separator 0.387886047363
+icv274 SNARC dot DC down 45 lctrl 0.377179145813
+icv274 SNARC dot DC down 25 lctrl 0.3460688591
+icv274 SNARC dot DC down 25 lctrl 0.346652984619
+icv274 SNARC dot DC down 20 lctrl 0.385940074921
+icv274 SNARC dot DC down 20 lctrl 0.313179016113
+icv274 SNARC dot DC up 45 num_separator 0.525131940842
+icv274 SNARC dot DC down 15 lctrl 0.507787942886
+icv274 SNARC dot DC up 20 num_separator 0.319864034653
+icv274 SNARC dot DC up 5 num_separator 0.316736936569
+icv274 SNARC dot DC up 45 num_separator 0.487116098404
+icv274 SNARC dot DC up 10 num_separator 0.356043100357
+icv274 SNARC dot DC down 40 lctrl 0.415941953659
+icv274 SNARC dot DC down 30 lctrl 0.296081066132
+icv274 SNARC dot DC up 5 num_separator 0.397561073303
+icv274 SNARC dot DC up 45 num_separator 0.602098941803
+icv274 SNARC dot DC up 15 num_separator 0.506110906601
+icv274 SNARC dot DC down 40 lctrl 0.37882900238
+icv274 SNARC dot DC down 5 lctrl 0.828106880188
+icv274 SNARC dot DC up 25 num_separator 0.332515954971
+icv274 SNARC dot DC down 35 lctrl 0.333244085312
+icv274 SNARC dot DC down 15 lctrl 0.31055021286
+icv274 SNARC dot DC up 25 num_separator 0.341373920441
+icv274 SNARC dot DC down 40 lctrl 0.379304885864
+icv274 SNARC dot DC down 15 lctrl 0.402072906494
+icv274 SNARC dot DC up 10 num_separator 0.315572023392
+icv274 SNARC dot DC down 35 lctrl 0.405663013458
+icv274 SNARC dot DC up 5 num_separator 0.549658060074
+icv274 SNARC dot DC up 45 num_separator 1.49161195755
+icv274 SNARC dot DC down 25 lctrl 0.498795986176
+icv274 SNARC dot DC up 35 num_separator 0.410215139389
+icv274 SNARC dot DC down 40 lctrl 0.342886924744
+icv274 SNARC dot DC down 35 lctrl 0.533673048019
+icv274 SNARC dot DC down 40 num_separator 0.680806875229
+icv274 SNARC dot DC down 35 lctrl 0.680953979492
+icv274 SNARC dot DC up 15 num_separator 0.556912899017
+icv274 SNARC dot DC up 40 num_separator 0.457025051117
+icv274 SNARC dot DC down 40 lctrl 0.418439149857
+icv274 SNARC dot DC down 35 lctrl 0.337281942368
+icv274 SNARC dot DC down 5 lctrl 0.277493000031
+icv274 SNARC dot DC up 30 num_separator 0.344876050949
+icv274 SNARC dot DC up 10 num_separator 0.46514415741
+icv274 SNARC dot DC down 10 lctrl 0.504027843475
+icv274 SNARC dot DC down 40 lctrl 0.491172075272
+icv274 SNARC dot DC down 45 lctrl 0.535143136978
+icv274 SNARC dot DC up 30 num_separator 0.607980012894
+icv274 SNARC dot DC down 10 lctrl 0.668061971664
+icv274 SNARC dot DC down 35 lctrl 0.640216827393
+icv274 SNARC dot DC up 25 num_separator 0.534279108047
+icv274 SNARC dot DC down 20 lctrl 0.350348949432
+icv274 SNARC dot DC down 25 lctrl 0.529165029526
+icv274 SNARC dot DC up 40 num_separator 0.461111068726
+icv274 SNARC dot DC up 35 num_separator 0.462715864182
+icv274 SNARC dot DC up 15 num_separator 0.400815963745
+icv274 SNARC dot DC down 30 lctrl 0.413688898087
+icv274 SNARC dot DC up 45 num_separator 0.524410963058
+icv274 SNARC dot DC up 40 num_separator 0.379118919373
+icv274 SNARC dot DC down 10 lctrl 0.596689939499
+icv274 SNARC dot DC down 25 lctrl 0.347537994385
+icv274 SNARC dot DC down 5 lctrl 0.365077972412
+icv274 SNARC dot DC down 30 lctrl 0.2552318573
+icv274 SNARC dot DC down 35 lctrl 0.339369773865
+icv274 SNARC dot DC down 45 lctrl 0.411556959152
+icv274 SNARC dot DC up 25 num_separator 0.385704040527
+icv274 SNARC dot DC up 45 num_separator 0.682991027832
+icv274 SNARC dot DC up 15 num_separator 0.685441017151
+icv274 SNARC dot DC down 40 lctrl 0.413667917252
+icv274 SNARC dot DC up 45 num_separator 0.640362024307
+icv274 SNARC dot DC down 20 lctrl 0.358015060425
+icv274 SNARC dot DC down 15 lctrl 0.358884096146
+icv274 SNARC dot DC down 45 lctrl 0.559729814529
+icv274 SNARC dot DC down 20 lctrl 0.39789891243
+icv274 SNARC dot DC down 10 lctrl 0.350144863129
+icv274 SNARC dot DC down 45 lctrl 0.371578931808
+icv274 SNARC dot DC up 5 num_separator 0.395941019058
+icv274 SNARC dot DC up 20 num_separator 0.385466098785
+icv274 SNARC dot DC up 20 num_separator 0.428947925568
+icv274 SNARC dot DC up 45 num_separator 0.447236061096
+icv274 SNARC dot DC down 15 lctrl 0.479313850403
+icv274 SNARC dot DC up 40 num_separator 0.578830003738
+icv274 SNARC dot DC down 25 lctrl 0.425165891647
+icv274 SNARC dot DC down 20 num_separator 0.435276985168
+icv274 SNARC dot DC down 15 lctrl 0.623459100723
+icv274 SNARC dot DC up 35 num_separator 0.419807195663
+icv274 SNARC dot DC up 15 num_separator 0.932461023331
+icv274 SNARC dot DC down 25 lctrl 0.373616933823
+icv274 SNARC dot DC down 35 lctrl 0.379847049713
+icv274 SNARC dot DC down 10 lctrl 0.441492080688
+icv274 SNARC dot DC down 40 lctrl 0.41347193718
+icv274 SNARC dot DC down 30 lctrl 0.332536935806
+icv274 SNARC dot DC up 10 num_separator 0.414329051971
+icv274 SNARC dot DC down 35 lctrl 0.387149810791
+icv274 SNARC dot DC up 30 num_separator 0.338135004044
+icv274 SNARC dot DC down 35 lctrl 0.37774181366
+icv274 SNARC dot DC up 15 num_separator 0.39933013916
+icv274 SNARC dot DC up 30 num_separator 0.412328958511
+icv274 SNARC dot DC up 30 num_separator 0.410860061646
+icv274 SNARC dot DC up 40 num_separator 0.382387876511
+icv274 SNARC dot DC down 5 lctrl 0.428782939911
+icv274 SNARC dot DC down 30 num_separator 0.385082006454
+icv274 SNARC dot DC up 30 num_separator 0.722588062286
+icv274 SNARC dot DC up 10 num_separator 0.743569850922
+icv274 SNARC dot DC down 25 lctrl 0.383250951767
+icv274 SNARC dot DC up 5 num_separator 0.814750909805
+icv274 SNARC dot DC up 40 num_separator 0.369741916656
+icv274 SNARC dot DC up 20 num_separator 0.547341108322
+icv274 SNARC dot DC up 25 num_separator 0.371810913086
+icv274 SNARC dot DC up 20 num_separator 0.380283117294
+icv274 SNARC dot DC up 20 num_separator 0.309273958206
+icv274 SNARC dot DC up 15 num_separator 0.398951053619
+icv274 SNARC dot DC down 45 lctrl 0.371952056885
+icv274 SNARC dot DC up 35 num_separator 0.456867933273
+icv274 SNARC dot DC up 25 num_separator 0.379968166351
+icv274 SNARC dot DC up 10 num_separator 0.428541183472
+icv274 SNARC dot DC up 30 num_separator 0.423510789871
+icv274 SNARC dot DC up 5 num_separator 0.357888936996
+icv274 SNARC dot DC up 40 num_separator 0.417994022369
+icv274 SNARC dot DC up 15 num_separator 0.352422952652
+icv274 SNARC dot DC down 20 lctrl 0.391999959946
+icv274 SNARC dot DC down 10 lctrl 0.399736166
+icv274 SNARC dot DC up 15 num_separator 0.310704946518
+icv274 SNARC dot DC down 10 lctrl 0.401818990707
+icv274 SNARC dot DC down 35 lctrl 0.374781131744
+icv274 SNARC dot DC up 30 num_separator 0.458409070969
+icv274 SNARC dot DC up 35 num_separator 0.381396055222
+icv274 SNARC dot DC down 10 lctrl 0.387754917145
+icv274 SNARC dot DC up 30 num_separator 0.338798046112
+icv274 SNARC dot DC down 45 lctrl 0.299607992172
+icv274 SNARC dot DC up 5 num_separator 0.3520860672
+icv274 SNARC dot DC down 20 lctrl 0.377270936966
+icv274 SNARC dot DC down 20 lctrl 0.346382856369
+icv274 SNARC dot DC up 30 num_separator 0.424737930298
+icv274 SNARC dot DC down 40 lctrl 0.34103512764
+icv274 SNARC dot DC down 40 lctrl 0.416144132614
+icv274 SNARC dot DC up 20 num_separator 0.349072933197
+icv274 SNARC dot DC up 10 num_separator 0.390223026276
+icv274 SNARC dot DC down 30 lctrl 0.341279983521
+icv274 SNARC dot DC up 5 lctrl 0.315695047379
+icv274 SNARC dot DC up 15 num_separator 0.464718103409
+icv274 SNARC dot DC down 10 lctrl 0.543781995773
+icv274 SNARC dot DC up 15 num_separator 0.360080003738
+icv274 SNARC dot DC down 5 lctrl 0.362598896027
+icv274 SNARC dot DC up 25 num_separator 0.656227111816
+icv274 SNARC dot DC down 10 lctrl 0.49890089035
+icv274 SNARC dot DC up 35 num_separator 0.951870203018
+icv274 SNARC dot DC down 10 lctrl 0.507803916931
+icv274 SNARC dot DC up 10 num_separator 0.745549917221
+icv274 SNARC dot DC up 25 num_separator 0.462666034698
+icv274 SNARC dot DC down 35 lctrl 0.501758098602
+icv274 SNARC dot DC down 45 lctrl 0.639400959015
+icv274 SNARC dot DC up 30 num_separator 0.88338303566
+icv274 SNARC dot DC up 5 num_separator 1.27904891968
+icv274 SNARC dot DC down 5 lctrl 0.402390003204
+icv274 SNARC dot DC down 15 lctrl 0.815891981125
+icv274 SNARC dot DC up 35 num_separator 0.412576913834
+icv274 SNARC dot DC down 10 lctrl 0.634351015091
+icv274 SNARC dot DC down 25 lctrl 0.451436042786
+icv274 SNARC dot DC up 25 num_separator 0.606531143188
+icv274 SNARC dot DC down 45 lctrl 0.416917085648
+icv274 SNARC dot DC up 20 num_separator 0.390158891678
+icv274 SNARC dot DC down 45 lctrl 0.495899915695
+icv274 SNARC dot DC down 25 lctrl 0.309691905975
+icv274 SNARC dot DC down 25 lctrl 0.726128101349
+icv274 SNARC dot DC down 45 lctrl 0.342519044876
+icv274 SNARC dot DC up 5 num_separator 0.516436100006
+icv274 SNARC dot DC down 40 lctrl 0.526182174683
+icv274 SNARC dot DC down 45 lctrl 0.787909984589
+icv274 SNARC dot DC up 30 num_separator 0.532482147217
+icv274 SNARC dot DC down 5 lctrl 0.61642408371
+icv274 SNARC dot DC up 15 num_separator 0.542804002762
+icv274 SNARC dot DC up 25 num_separator 1.42794585228
+icv274 SNARC dot DC up 45 lctrl 1.91446185112
+icv274 SNARC dot DC down 25 lctrl 0.487435102463
+icv274 SNARC dot DC down 35 lctrl 0.415848970413
+icv274 SNARC dot DC up 45 num_separator 0.834878921509
+icv274 SNARC dot DC up 25 num_separator 0.376373052597
+icv274 SNARC dot DC up 20 num_separator 0.460149049759
+icv274 SNARC dot DC up 20 num_separator 0.321315050125
+icv274 SNARC dot DC down 20 lctrl 0.433066129684
+icv274 SNARC dot DC down 40 lctrl 0.411555051804
+icv274 SNARC dot DC down 20 lctrl 0.424803972244
+icv274 SNARC dot DC down 5 lctrl 0.513957977295
+icv274 SNARC dot DC up 30 num_separator 0.580417871475
+icv274 SNARC dot DC up 20 num_separator 0.387027025223
+icv274 SNARC dot DC down 20 lctrl 0.430814027786
+icv274 SNARC dot DC up 30 num_separator 0.449444055557
+icv274 SNARC dot DC up 30 num_separator 0.952567100525
+icv274 SNARC dot DC down 45 lctrl 0.567846059799
+{'task': 'line', 'participant': 'icv274', 'dateStr': '05_21_1114', 'notation': 'empty', 'response_buttons': 'DC', 'range_in_instr': True, 'interactive_setting': False, 'autopilot': False, 'exp_id': 'SNARC'}
+icv274 SNARC empty DC down 0 lctrl 2.07076096535
+icv274 SNARC empty DC up 0 num_separator 0.705351114273
+icv274 SNARC empty DC up 0 num_separator 0.318060874939
+icv274 SNARC empty DC down 0 lctrl 0.352564096451
+icv274 SNARC empty DC up 0 num_separator 0.276420116425
+icv274 SNARC empty DC up 0 num_separator 0.36097407341
+icv274 SNARC empty DC down 0 lctrl 0.284924030304
+icv274 SNARC empty DC up 0 num_separator 0.352741003036
+icv274 SNARC empty DC up 0 num_separator 0.354088068008
+icv274 SNARC empty DC down 0 lctrl 0.277899026871
+icv274 SNARC empty DC up 0 num_separator 0.401110172272
+icv274 SNARC empty DC up 0 num_separator 0.352424144745
+icv274 SNARC empty DC up 0 num_separator 0.392296075821
+icv274 SNARC empty DC down 0 lctrl 0.360228061676
+icv274 SNARC empty DC up 0 num_separator 0.361447811127
+icv274 SNARC empty DC down 0 lctrl 0.362759113312
+icv274 SNARC empty DC up 0 num_separator 0.325324058533
+icv274 SNARC empty DC down 0 lctrl 0.346755027771
+icv274 SNARC empty DC up 0 num_separator 0.326102972031
+icv274 SNARC empty DC up 0 num_separator 0.322035074234
+icv274 SNARC empty DC down 0 lctrl 0.317961931229
+icv274 SNARC empty DC up 0 num_separator 0.429970979691
+icv274 SNARC empty DC down 0 lctrl 0.351511955261
+icv274 SNARC empty DC down 0 lctrl 0.507391929626
+icv274 SNARC empty DC down 0 lctrl 0.320126056671
+icv274 SNARC empty DC down 0 lctrl 0.316070795059
+icv274 SNARC empty DC down 0 lctrl 0.312036037445
+icv274 SNARC empty DC down 0 lctrl 0.286013841629
+icv274 SNARC empty DC down 0 lctrl 0.276481866837
+icv274 SNARC empty DC up 0 num_separator 0.39982509613
+icv274 SNARC empty DC down 0 lctrl 0.351089954376
+icv274 SNARC empty DC down 0 lctrl 0.352388143539
+icv274 SNARC empty DC down 0 lctrl 0.353632926941
+icv274 SNARC empty DC down 0 lctrl 0.316271066666
+icv274 SNARC empty DC up 0 num_separator 0.350954055786
+icv274 SNARC empty DC down 0 lctrl 0.468221902847
+icv274 SNARC empty DC down 0 lctrl 0.352870941162
+icv274 SNARC empty DC down 0 lctrl 0.315470933914
+icv274 SNARC empty DC down 0 lctrl 0.311511039734
+icv274 SNARC empty DC up 0 num_separator 0.517405986786
+{'task': 'line', 'participant': 'icv274', 'dateStr': '05_21_1116', 'notation': 'arabic', 'response_buttons': 'CD', 'range_in_instr': True, 'interactive_setting': False, 'autopilot': False, 'exp_id': 'SNARC'}
+icv274 SNARC arabic CD up 1 lctrl 1.09121394157
+icv274 SNARC arabic CD down 6 lctrl 0.435650110245
+icv274 SNARC arabic CD up 4 num_enter 0.511397123337
+icv274 SNARC arabic CD up 4 lctrl 0.71110200882
+icv274 SNARC arabic CD up 3 lctrl 0.594718933105
+icv274 SNARC arabic CD down 7 num_enter 0.443162918091
+icv274 SNARC arabic CD down 1 num_separator 3.29886412621
+icv274 SNARC arabic CD up 3 lctrl 0.583420991898
+icv274 SNARC arabic CD down 4 num_separator 0.699433088303
+icv274 SNARC arabic CD up 8 lctrl 0.583169937134
+icv274 SNARC arabic CD up 6 lctrl 0.505802154541
+icv274 SNARC arabic CD down 6 num_separator 0.511878013611
+icv274 SNARC arabic CD down 8 num_separator 0.595342874527
+icv274 SNARC arabic CD up 8 lctrl 0.518177986145
+icv274 SNARC arabic CD down 5 num_separator 0.391637086868
+icv274 SNARC arabic CD down 6 num_separator 0.462630987167
+icv274 SNARC arabic CD up 1 lctrl 0.364044189453
+icv274 SNARC arabic CD down 2 num_separator 0.365509986877
+icv274 SNARC arabic CD up 1 lctrl 0.42752790451
+icv274 SNARC arabic CD down 3 num_separator 0.323601007462
+icv274 SNARC arabic CD up 3 num_separator 0.39701795578
+icv274 SNARC arabic CD down 2 num_separator 0.945126056671
+icv274 SNARC arabic CD down 1 num_separator 0.51812005043
+icv274 SNARC arabic CD up 5 lctrl 1.97696399689
+icv274 SNARC arabic CD down 1 num_separator 0.594310998917
+icv274 SNARC arabic CD down 3 num_separator 0.439815998077
+icv274 SNARC arabic CD down 7 num_separator 0.744587182999
+icv274 SNARC arabic CD up 5 lctrl 0.594780921936
+icv274 SNARC arabic CD up 4 lctrl 0.479058027267
+icv274 SNARC arabic CD up 2 lctrl 0.479676008224
+icv274 SNARC arabic CD up 4 lctrl 0.364387989044
+icv274 SNARC arabic CD down 9 num_separator 0.365734100342
+icv274 SNARC arabic CD up 8 lctrl 0.389372825623
+icv274 SNARC arabic CD down 9 num_separator 0.550674200058
+icv274 SNARC arabic CD down 2 num_separator 0.390748023987
+icv274 SNARC arabic CD down 4 lctrl 0.397526025772
+icv274 SNARC arabic CD up 6 lctrl 0.597596883774
+icv274 SNARC arabic CD down 4 num_separator 0.709082841873
+icv274 SNARC arabic CD up 5 lctrl 1.05659508705
+icv274 SNARC arabic CD up 6 lctrl 0.590224981308
+icv274 SNARC arabic CD up 9 lctrl 0.397041797638
+icv274 SNARC arabic CD up 2 num_separator 0.44607591629
+icv274 SNARC arabic CD up 4 lctrl 0.63617515564
+icv274 SNARC arabic CD up 5 num_separator 0.392992019653
+icv274 SNARC arabic CD down 5 num_separator 0.593146085739
+icv274 SNARC arabic CD down 1 num_separator 0.438642024994
+icv274 SNARC arabic CD up 2 lctrl 0.356745958328
+icv274 SNARC arabic CD up 4 lctrl 0.396816015244
+icv274 SNARC arabic CD up 3 lctrl 0.364895820618
+icv274 SNARC arabic CD down 3 num_separator 0.427002906799
+icv274 SNARC arabic CD up 6 lctrl 0.361858129501
+icv274 SNARC arabic CD down 1 num_separator 0.44056892395
+icv274 SNARC arabic CD down 2 num_separator 0.500258922577
+icv274 SNARC arabic CD down 8 num_separator 0.390427827835
+icv274 SNARC arabic CD up 1 lctrl 0.667865991592
+icv274 SNARC arabic CD down 2 num_separator 0.386766195297
+icv274 SNARC arabic CD down 6 num_separator 0.664248943329
+icv274 SNARC arabic CD down 9 num_separator 0.907096862793
+icv274 SNARC arabic CD up 9 lctrl 0.43603014946
+icv274 SNARC arabic CD up 3 lctrl 0.35421204567
+icv274 SNARC arabic CD down 6 num_separator 0.394237041473
+icv274 SNARC arabic CD down 7 num_separator 0.516956090927
+icv274 SNARC arabic CD up 9 lctrl 0.390488862991
+icv274 SNARC arabic CD down 7 num_separator 0.397175073624
+icv274 SNARC arabic CD down 4 num_separator 0.4039478302
+icv274 SNARC arabic CD down 2 num_separator 0.355365037918
+icv274 SNARC arabic CD down 7 num_separator 0.459675073624
+icv274 SNARC arabic CD up 8 lctrl 0.309494018555
+icv274 SNARC arabic CD down 9 num_separator 0.360835075378
+icv274 SNARC arabic CD down 4 num_separator 0.439481019974
+icv274 SNARC arabic CD up 9 lctrl 0.396239995956
+icv274 SNARC arabic CD down 2 num_separator 0.634984016418
+icv274 SNARC arabic CD up 9 lctrl 0.430543899536
+icv274 SNARC arabic CD up 4 lctrl 0.442615032196
+icv274 SNARC arabic CD down 6 num_separator 0.399345159531
+icv274 SNARC arabic CD up 3 lctrl 0.389455080032
+icv274 SNARC arabic CD down 6 num_separator 0.357576131821
+icv274 SNARC arabic CD up 1 lctrl 0.3590259552
+icv274 SNARC arabic CD up 2 lctrl 0.399152994156
+icv274 SNARC arabic CD down 6 num_separator 0.427832126617
+icv274 SNARC arabic CD down 2 lctrl 0.362547159195
+icv274 SNARC arabic CD down 3 num_separator 0.557276010513
+icv274 SNARC arabic CD down 7 num_separator 0.436153888702
+icv274 SNARC arabic CD down 1 num_separator 0.315627813339
+icv274 SNARC arabic CD down 3 num_separator 0.350354909897
+icv274 SNARC arabic CD up 7 lctrl 0.429114818573
+icv274 SNARC arabic CD down 6 num_separator 0.363928079605
+icv274 SNARC arabic CD up 4 lctrl 0.365335941315
+icv274 SNARC arabic CD up 1 lctrl 0.350079059601
+icv274 SNARC arabic CD up 1 lctrl 0.385529994965
+icv274 SNARC arabic CD up 5 lctrl 0.580981969833
+icv274 SNARC arabic CD down 1 num_separator 0.404495000839
+icv274 SNARC arabic CD down 1 num_separator 0.536207914352
+icv274 SNARC arabic CD down 8 num_separator 0.66370010376
+icv274 SNARC arabic CD down 4 num_separator 0.519912958145
+icv274 SNARC arabic CD down 9 num_separator 0.470854043961
+icv274 SNARC arabic CD up 8 lctrl 0.432898044586
+icv274 SNARC arabic CD up 8 lctrl 0.389676094055
+icv274 SNARC arabic CD down 6 num_separator 0.357849121094
+icv274 SNARC arabic CD up 5 lctrl 0.397900104523
+icv274 SNARC arabic CD down 7 num_separator 0.43878698349
+icv274 SNARC arabic CD down 3 num_separator 0.511580944061
+icv274 SNARC arabic CD down 5 num_separator 0.788524866104
+icv274 SNARC arabic CD up 6 lctrl 0.395370006561
+icv274 SNARC arabic CD down 6 num_separator 0.556992053986
+icv274 SNARC arabic CD down 3 num_separator 0.667698860168
+icv274 SNARC arabic CD down 8 num_separator 0.468636989594
+icv274 SNARC arabic CD up 6 lctrl 0.469429016113
+icv274 SNARC arabic CD up 4 lctrl 0.354136943817
+icv274 SNARC arabic CD up 5 lctrl 0.432892084122
+icv274 SNARC arabic CD down 8 num_separator 0.38966012001
+icv274 SNARC arabic CD down 1 num_separator 0.473737955093
+icv274 SNARC arabic CD up 7 lctrl 0.513229131699
+icv274 SNARC arabic CD up 8 lctrl 0.442033052444
+icv274 SNARC arabic CD down 6 num_separator 0.476100921631
+icv274 SNARC arabic CD down 1 num_separator 0.515617132187
+icv274 SNARC arabic CD down 7 num_separator 0.427748918533
+icv274 SNARC arabic CD up 9 lctrl 0.401183843613
+icv274 SNARC arabic CD down 2 num_separator 0.391268014908
+icv274 SNARC arabic CD down 4 num_separator 0.398035049438
+icv274 SNARC arabic CD down 9 num_separator 0.327530860901
+icv274 SNARC arabic CD up 1 lctrl 0.387797832489
+icv274 SNARC arabic CD up 4 lctrl 0.394644975662
+icv274 SNARC arabic CD up 9 lctrl 0.36265206337
+icv274 SNARC arabic CD down 9 num_separator 0.364090919495
+icv274 SNARC arabic CD up 8 lctrl 0.476913928986
+icv274 SNARC arabic CD up 3 lctrl 0.511746168137
+icv274 SNARC arabic CD up 2 lctrl 0.324513912201
+icv274 SNARC arabic CD down 7 num_separator 0.397879123688
+icv274 SNARC arabic CD down 5 num_separator 0.366005897522
+icv274 SNARC arabic CD up 5 lctrl 0.350800991058
+icv274 SNARC arabic CD up 9 lctrl 0.313509941101
+icv274 SNARC arabic CD down 3 num_separator 0.403465986252
+icv274 SNARC arabic CD down 2 num_separator 0.354938983917
+icv274 SNARC arabic CD down 2 num_separator 0.511029005051
+icv274 SNARC arabic CD down 3 num_separator 0.401213169098
+icv274 SNARC arabic CD up 3 lctrl 0.502805948257
+icv274 SNARC arabic CD down 5 num_separator 0.431486129761
+icv274 SNARC arabic CD down 7 lctrl 0.388258934021
+icv274 SNARC arabic CD down 6 num_separator 0.511076927185
+icv274 SNARC arabic CD down 5 num_separator 0.401272058487
+icv274 SNARC arabic CD down 8 num_separator 0.433166027069
+icv274 SNARC arabic CD up 3 lctrl 0.501353979111
+icv274 SNARC arabic CD down 4 num_separator 0.430135011673
+icv274 SNARC arabic CD down 4 num_separator 0.442286014557
+icv274 SNARC arabic CD up 9 lctrl 0.360355854034
+icv274 SNARC arabic CD up 4 lctrl 0.400401115417
+icv274 SNARC arabic CD down 9 num_separator 0.390439033508
+icv274 SNARC arabic CD down 3 num_separator 0.319965839386
+icv274 SNARC arabic CD down 1 num_separator 0.509417057037
+icv274 SNARC arabic CD down 4 num_separator 0.438324213028
+icv274 SNARC arabic CD down 3 num_separator 0.433632135391
+icv274 SNARC arabic CD up 3 lctrl 0.390424966812
+icv274 SNARC arabic CD down 1 num_separator 0.39726805687
+icv274 SNARC arabic CD up 7 lctrl 0.36532998085
+icv274 SNARC arabic CD up 8 lctrl 0.543421030045
+icv274 SNARC arabic CD up 2 lctrl 0.322857141495
+icv274 SNARC arabic CD up 9 lctrl 0.396216869354
+icv274 SNARC arabic CD up 2 lctrl 0.36439204216
+icv274 SNARC arabic CD down 4 num_separator 0.597697973251
+icv274 SNARC arabic CD up 4 lctrl 0.36588716507
+icv274 SNARC arabic CD up 2 lctrl 0.466733932495
+icv274 SNARC arabic CD down 7 num_separator 0.544794082642
+icv274 SNARC arabic CD up 6 lctrl 0.324218034744
+icv274 SNARC arabic CD up 5 lctrl 0.397639036179
+icv274 SNARC arabic CD down 6 num_separator 0.559096813202
+icv274 SNARC arabic CD up 5 lctrl 0.592566013336
+icv274 SNARC arabic CD up 2 lctrl 0.322124004364
+icv274 SNARC arabic CD down 7 num_separator 0.395519018173
+icv274 SNARC arabic CD up 7 lctrl 0.363624811172
+icv274 SNARC arabic CD down 2 num_separator 0.480990886688
+icv274 SNARC arabic CD up 3 lctrl 0.365880012512
+icv274 SNARC arabic CD down 9 num_separator 0.543926954269
+icv274 SNARC arabic CD up 8 lctrl 0.362134933472
+icv274 SNARC arabic CD down 2 num_separator 0.440891981125
+icv274 SNARC arabic CD up 5 lctrl 0.393015146255
+icv274 SNARC arabic CD up 3 lctrl 0.438513994217
+icv274 SNARC arabic CD up 8 lctrl 0.433912038803
+icv274 SNARC arabic CD up 8 lctrl 0.313341140747
+icv274 SNARC arabic CD down 3 num_separator 0.442080020905
+icv274 SNARC arabic CD down 6 num_separator 0.437497854233
+icv274 SNARC arabic CD down 5 num_separator 0.43295788765
+icv274 SNARC arabic CD up 2 lctrl 0.505759000778
+icv274 SNARC arabic CD down 5 num_separator 0.434544086456
+icv274 SNARC arabic CD down 1 num_separator 0.468667030334
+icv274 SNARC arabic CD down 8 num_separator 0.353579044342
+icv274 SNARC arabic CD down 1 num_separator 0.393627166748
+icv274 SNARC arabic CD down 3 num_separator 0.439100980759
+icv274 SNARC arabic CD up 3 lctrl 0.434499979019
+icv274 SNARC arabic CD up 7 lctrl 0.429888963699
+icv274 SNARC arabic CD up 1 lctrl 0.364722013474
+icv274 SNARC arabic CD up 8 lctrl 0.404762983322
+icv274 SNARC arabic CD up 9 lctrl 0.317507982254
+icv274 SNARC arabic CD up 6 lctrl 0.313558101654
+icv274 SNARC arabic CD down 7 num_separator 0.44238615036
+icv274 SNARC arabic CD down 7 num_separator 0.360486984253
+icv274 SNARC arabic CD up 8 lctrl 0.361872196198
+icv274 SNARC arabic CD up 4 lctrl 0.324604034424
+icv274 SNARC arabic CD up 6 lctrl 0.282154083252
+icv274 SNARC arabic CD up 7 lctrl 0.31139421463
+icv274 SNARC arabic CD down 7 num_separator 0.401458978653
+icv274 SNARC arabic CD up 9 lctrl 0.386942863464
+icv274 SNARC arabic CD up 1 lctrl 0.548421144485
+icv274 SNARC arabic CD down 5 num_separator 0.388700008392
+icv274 SNARC arabic CD up 1 lctrl 0.356686115265
+icv274 SNARC arabic CD down 6 num_separator 0.358158111572
+icv274 SNARC arabic CD up 8 lctrl 0.320909023285
+icv274 SNARC arabic CD down 9 num_separator 0.510356903076
+icv274 SNARC arabic CD up 6 num_separator 0.400509119034
+icv274 SNARC arabic CD down 1 num_separator 0.506675958633
+icv274 SNARC arabic CD up 8 lctrl 0.512854099274
+icv274 SNARC arabic CD down 7 num_separator 0.519031047821
+icv274 SNARC arabic CD up 4 lctrl 0.392641067505
+icv274 SNARC arabic CD down 3 num_separator 0.631319999695
+icv274 SNARC arabic CD down 8 num_separator 0.482173919678
+icv274 SNARC arabic CD up 5 lctrl 0.737061023712
+icv274 SNARC arabic CD up 5 lctrl 0.50989985466
+icv274 SNARC arabic CD up 4 lctrl 0.434221982956
+icv274 SNARC arabic CD up 6 lctrl 0.622901916504
+icv274 SNARC arabic CD down 6 num_separator 0.628425121307
+icv274 SNARC arabic CD down 5 num_separator 0.736897945404
+icv274 SNARC arabic CD down 8 num_separator 0.587279081345
+icv274 SNARC arabic CD down 9 num_separator 1.74732995033
+icv274 SNARC arabic CD up 5 lctrl 1.10085487366
+icv274 SNARC arabic CD down 2 num_separator 1.28050804138
+icv274 SNARC arabic CD down 9 num_separator 0.597636938095
+icv274 SNARC arabic CD up 8 lctrl 0.791210889816
+icv274 SNARC arabic CD up 7 lctrl 0.475413799286
+icv274 SNARC arabic CD up 4 lctrl 0.708263158798
+icv274 SNARC arabic CD up 5 lctrl 0.591825008392
+icv274 SNARC arabic CD down 7 num_separator 0.669362783432
+icv274 SNARC arabic CD up 1 lctrl 0.624851942062
+icv274 SNARC arabic CD down 2 num_separator 0.630409955978
+icv274 SNARC arabic CD up 3 lctrl 0.59730219841
+icv274 SNARC arabic CD up 5 lctrl 0.399456977844
+icv274 SNARC arabic CD down 7 num_separator 0.466915130615
+icv274 SNARC arabic CD up 4 lctrl 0.970403909683
+icv274 SNARC arabic CD up 2 lctrl 0.93567109108
+icv274 SNARC arabic CD down 7 num_separator 0.585678100586
+icv274 SNARC arabic CD down 1 num_separator 0.624654054642
+icv274 SNARC arabic CD down 7 num_separator 0.436793804169
+icv274 SNARC arabic CD down 6 num_separator 0.432276964188
+icv274 SNARC arabic CD up 8 lctrl 0.466369152069
+icv274 SNARC arabic CD down 2 num_separator 0.389837026596
+icv274 SNARC arabic CD down 4 num_separator 0.435304164886
+icv274 SNARC arabic CD down 5 num_separator 0.469503164291
+icv274 SNARC arabic CD up 8 lctrl 0.43168091774
+icv274 SNARC arabic CD down 5 num_separator 0.388499975204
+icv274 SNARC arabic CD up 7 lctrl 0.472663164139
+icv274 SNARC arabic CD up 5 lctrl 0.550698041916
+icv274 SNARC arabic CD up 4 lctrl 0.545502901077
+icv274 SNARC arabic CD down 7 num_separator 0.479661941528
+icv274 SNARC arabic CD up 8 lctrl 0.519124984741
+icv274 SNARC arabic CD down 3 num_separator 0.547362804413
+icv274 SNARC arabic CD up 4 num_separator 0.48149895668
+icv274 SNARC arabic CD up 6 lctrl 0.852388143539
+icv274 SNARC arabic CD up 4 lctrl 0.431297063828
+icv274 SNARC arabic CD down 6 num_separator 0.636780977249
+icv274 SNARC arabic CD down 9 num_separator 0.509657859802
+icv274 SNARC arabic CD up 6 lctrl 0.55445599556
+icv274 SNARC arabic CD down 9 num_separator 0.51061296463
+icv274 SNARC arabic CD down 8 num_separator 0.632836103439
+icv274 SNARC arabic CD down 9 num_separator 0.467076063156
+icv274 SNARC arabic CD up 3 num_separator 0.467898130417
+icv274 SNARC arabic CD up 1 lctrl 1.24207019806
+icv274 SNARC arabic CD down 4 num_separator 0.863239049911
+icv274 SNARC arabic CD up 5 lctrl 1.02226400375
+icv274 SNARC arabic CD down 9 num_separator 0.782574176788
+icv274 SNARC arabic CD up 6 lctrl 0.505504846573
+icv274 SNARC arabic CD up 5 lctrl 0.511647939682
+icv274 SNARC arabic CD up 3 lctrl 0.517711877823
+icv274 SNARC arabic CD down 8 num_separator 0.468584060669
+icv274 SNARC arabic CD up 7 lctrl 0.392036914825
+icv274 SNARC arabic CD up 9 lctrl 0.514837026596
+icv274 SNARC arabic CD up 4 lctrl 0.426949977875
+icv274 SNARC arabic CD up 5 lctrl 0.477820158005
+icv274 SNARC arabic CD up 8 lctrl 0.362499952316
+icv274 SNARC arabic CD up 6 lctrl 0.398020029068
+icv274 SNARC arabic CD down 6 num_separator 0.598079919815
+icv274 SNARC arabic CD down 2 num_separator 0.504282951355
+icv274 SNARC arabic CD down 3 num_separator 0.43332195282
+icv274 SNARC arabic CD down 3 num_separator 0.46728515625
+icv274 SNARC arabic CD up 7 lctrl 0.429430961609
+icv274 SNARC arabic CD up 3 lctrl 0.557487010956
+icv274 SNARC arabic CD down 6 num_separator 0.668435096741
+icv274 SNARC arabic CD down 7 num_separator 0.469299077988
+icv274 SNARC arabic CD up 8 lctrl 0.547505140305
+icv274 SNARC arabic CD down 9 num_separator 0.442947149277
+icv274 SNARC arabic CD down 5 num_separator 0.593168020248
+icv274 SNARC arabic CD up 8 lctrl 0.400011062622
+icv274 SNARC arabic CD down 1 num_separator 0.544826984406
+icv274 SNARC arabic CD down 5 num_separator 0.904392004013
+icv274 SNARC arabic CD down 2 num_separator 0.588162899017
+icv274 SNARC arabic CD up 3 lctrl 0.627123117447
+icv274 SNARC arabic CD up 7 lctrl 0.516560077667
+icv274 SNARC arabic CD down 8 num_separator 0.506076097488
+icv274 SNARC arabic CD up 9 lctrl 0.47357416153
+icv274 SNARC arabic CD down 4 num_separator 0.66310095787
+icv274 SNARC arabic CD up 9 lctrl 0.506263017654
+icv274 SNARC arabic CD up 1 lctrl 0.66707777977
+icv274 SNARC arabic CD up 4 lctrl 0.579408884048
+icv274 SNARC arabic CD up 3 lctrl 0.480104923248
+icv274 SNARC arabic CD up 6 lctrl 0.480958938599
+icv274 SNARC arabic CD down 4 num_separator 0.829728841782
+icv274 SNARC arabic CD up 8 lctrl 0.635502099991
+icv274 SNARC arabic CD down 7 num_separator 0.585687160492
+icv274 SNARC arabic CD down 7 num_separator 0.547240018845
+icv274 SNARC arabic CD down 1 num_separator 0.597497940063
+icv274 SNARC arabic CD down 6 num_separator 0.675034999847
+icv274 SNARC arabic CD down 5 num_separator 0.398636102676
+icv274 SNARC arabic CD down 9 num_separator 0.530373096466
+icv274 SNARC arabic CD down 6 num_separator 0.520045042038
+icv274 SNARC arabic CD down 3 num_separator 0.47084403038
+icv274 SNARC arabic CD down 5 num_separator 0.433073043823
+icv274 SNARC arabic CD down 8 num_separator 0.428810119629
+icv274 SNARC arabic CD up 3 lctrl 0.63410782814
+icv274 SNARC arabic CD down 1 num_separator 1.55115604401
+icv274 SNARC arabic CD up 5 lctrl 0.546344995499
+icv274 SNARC arabic CD down 8 num_separator 0.712579011917
+icv274 SNARC arabic CD up 4 lctrl 0.552861213684
+icv274 SNARC arabic CD down 4 num_separator 0.58650302887
+icv274 SNARC arabic CD down 2 num_separator 0.354678869247
+icv274 SNARC arabic CD down 2 num_separator 0.278827905655
+icv274 SNARC arabic CD up 1 lctrl 0.479701042175
+icv274 SNARC arabic CD up 3 lctrl 0.403177976608
+icv274 SNARC arabic CD down 5 num_separator 1.20543503761
+icv274 SNARC arabic CD up 2 lctrl 0.898594141006
+icv274 SNARC arabic CD down 9 num_separator 0.930399894714
+icv274 SNARC arabic CD up 1 lctrl 0.558690071106
+icv274 SNARC arabic CD up 1 lctrl 0.398983001709
+icv274 SNARC arabic CD down 8 num_separator 0.4277780056
+icv274 SNARC arabic CD down 8 num_separator 0.517349004745
+icv274 SNARC arabic CD up 2 lctrl 0.390918016434
+icv274 SNARC arabic CD down 9 num_separator 0.513715982437
+icv274 SNARC arabic CD down 9 num_separator 0.674751996994
+icv274 SNARC arabic CD up 7 lctrl 0.552935123444
+icv274 SNARC arabic CD up 2 lctrl 0.625165939331
+icv274 SNARC arabic CD down 7 num_separator 0.746821880341
+icv274 SNARC arabic CD down 9 num_separator 0.829249858856
+icv274 SNARC arabic CD down 2 num_separator 1.06022906303
+icv274 SNARC arabic CD down 2 num_separator 0.478018045425
+icv274 SNARC arabic CD up 7 lctrl 0.556267023087
+icv274 SNARC arabic CD down 2 num_separator 0.589865922928
+icv274 SNARC arabic CD down 2 num_separator 2.29181599617
+icv274 SNARC arabic CD down 2 num_separator 0.399303913116
+icv274 SNARC arabic CD up 9 lctrl 0.505563020706
+icv274 SNARC arabic CD up 7 lctrl 0.550452947617
+icv274 SNARC arabic CD down 1 num_separator 0.506816148758
+icv274 SNARC arabic CD up 5 lctrl 0.513068914413
+icv274 SNARC arabic CD up 6 lctrl 1.33141803741
+icv274 SNARC arabic CD up 9 lctrl 0.427237987518
+icv274 SNARC arabic CD up 4 lctrl 0.439491987228
+icv274 SNARC arabic CD up 9 lctrl 0.396306991577
+icv274 SNARC arabic CD up 2 lctrl 0.441983938217
+icv274 SNARC arabic CD down 1 num_separator 0.514755010605
+icv274 SNARC arabic CD up 5 lctrl 0.388379096985
+icv274 SNARC arabic CD down 7 num_separator 0.433939933777
+icv274 SNARC arabic CD up 3 lctrl 0.584187984467
+icv274 SNARC arabic CD up 1 lctrl 0.468351125717
+icv274 SNARC arabic CD down 1 num_separator 0.62406206131
+{'task': 'line', 'participant': 'icv274', 'dateStr': '05_21_1124', 'notation': 'dot', 'response_buttons': 'CD', 'range_in_instr': True, 'interactive_setting': False, 'autopilot': False, 'exp_id': 'SNARC'}
+icv274 SNARC dot CD down 30 lctrl 0.856037855148
+icv274 SNARC dot CD up 10 lctrl 0.766714096069
+icv274 SNARC dot CD down 15 num_separator 0.736872911453
+icv274 SNARC dot CD up 45 lctrl 0.918755054474
+icv274 SNARC dot CD down 40 num_separator 0.685091972351
+icv274 SNARC dot CD up 20 lctrl 0.469470024109
+icv274 SNARC dot CD up 30 lctrl 0.416450977325
+icv274 SNARC dot CD up 40 lctrl 0.371851921082
+icv274 SNARC dot CD down 20 num_separator 0.472842216492
+icv274 SNARC dot CD down 15 num_separator 0.383369922638
+icv274 SNARC dot CD down 15 num_separator 0.46769118309
+icv274 SNARC dot CD up 10 lctrl 0.431415081024
+icv274 SNARC dot CD up 25 lctrl 0.405649185181
+icv274 SNARC dot CD down 15 num_separator 0.394575119019
+icv274 SNARC dot CD down 25 num_separator 0.347639083862
+icv274 SNARC dot CD down 35 num_separator 0.387850999832
+icv274 SNARC dot CD up 10 lctrl 0.356201887131
+icv274 SNARC dot CD up 5 lctrl 0.512428045273
+icv274 SNARC dot CD down 20 num_separator 0.424707889557
+icv274 SNARC dot CD up 30 lctrl 0.420328855515
+icv274 SNARC dot CD down 25 lctrl 0.338628053665
+icv274 SNARC dot CD down 20 num_separator 0.471463918686
+icv274 SNARC dot CD down 40 num_separator 0.494407892227
+icv274 SNARC dot CD up 10 lctrl 1.02167797089
+icv274 SNARC dot CD down 5 num_separator 0.395438194275
+icv274 SNARC dot CD up 45 lctrl 0.562428951263
+icv274 SNARC dot CD down 35 num_separator 0.46336388588
+icv274 SNARC dot CD up 30 lctrl 0.503095149994
+icv274 SNARC dot CD down 10 num_separator 0.432142019272
+icv274 SNARC dot CD up 5 lctrl 0.616565942764
+icv274 SNARC dot CD down 15 num_separator 0.466120004654
+icv274 SNARC dot CD down 45 num_separator 0.411772966385
+icv274 SNARC dot CD up 45 lctrl 1.25963902473
+icv274 SNARC dot CD down 45 num_separator 0.947014093399
+icv274 SNARC dot CD down 30 num_separator 1.23837995529
+icv274 SNARC dot CD up 40 lctrl 0.570905923843
+icv274 SNARC dot CD down 40 num_separator 0.648644924164
+icv274 SNARC dot CD up 5 lctrl 0.467990875244
+icv274 SNARC dot CD up 10 lctrl 0.430232048035
+icv274 SNARC dot CD up 40 num_separator 0.346987962723
+icv274 SNARC dot CD up 15 lctrl 0.425971984863
+icv274 SNARC dot CD up 45 lctrl 0.444981098175
+icv274 SNARC dot CD down 15 num_separator 1.90888094902
+icv274 SNARC dot CD down 35 num_separator 0.60337305069
+icv274 SNARC dot CD down 5 num_separator 0.355141878128
+icv274 SNARC dot CD down 40 num_separator 0.415956020355
+icv274 SNARC dot CD down 20 num_separator 0.389658927917
+icv274 SNARC dot CD down 35 num_separator 0.497464895248
+icv274 SNARC dot CD up 5 lctrl 0.481821060181
+icv274 SNARC dot CD down 10 lctrl 0.350164890289
+icv274 SNARC dot CD up 15 lctrl 0.466286897659
+icv274 SNARC dot CD up 5 lctrl 0.314085006714
+icv274 SNARC dot CD up 40 lctrl 0.42489695549
+icv274 SNARC dot CD down 45 num_separator 0.497864961624
+icv274 SNARC dot CD down 35 num_separator 0.411708831787
+icv274 SNARC dot CD down 15 num_separator 0.400612831116
+icv274 SNARC dot CD up 10 lctrl 0.585813999176
+icv274 SNARC dot CD down 10 num_separator 0.392828941345
+icv274 SNARC dot CD up 30 lctrl 0.571928977966
+icv274 SNARC dot CD down 5 num_separator 0.356992006302
+icv274 SNARC dot CD down 25 num_separator 0.41934299469
+icv274 SNARC dot CD down 45 num_separator 0.568291902542
+icv274 SNARC dot CD up 35 lctrl 0.531498908997
+icv274 SNARC dot CD up 15 lctrl 0.387095212936
+icv274 SNARC dot CD up 10 lctrl 0.356812953949
+icv274 SNARC dot CD up 15 lctrl 0.434352874756
+icv274 SNARC dot CD down 40 num_separator 0.438866853714
+icv274 SNARC dot CD up 5 lctrl 0.474782943726
+icv274 SNARC dot CD down 45 num_separator 0.534995079041
+icv274 SNARC dot CD up 45 lctrl 0.568742036819
+icv274 SNARC dot CD up 5 lctrl 0.432645082474
+icv274 SNARC dot CD up 30 lctrl 0.372973203659
+icv274 SNARC dot CD down 40 num_separator 0.765283823013
+icv274 SNARC dot CD down 15 num_separator 0.466510772705
+icv274 SNARC dot CD up 15 num_separator 0.467619895935
+icv274 SNARC dot CD down 10 num_separator 0.624835014343
+icv274 SNARC dot CD up 35 lctrl 0.45924282074
+icv274 SNARC dot CD down 20 num_separator 0.978288888931
+icv274 SNARC dot CD down 20 num_separator 0.464344024658
+icv274 SNARC dot CD up 35 lctrl 0.465339899063
+icv274 SNARC dot CD up 10 lctrl 1.85432100296
+icv274 SNARC dot CD up 25 lctrl 0.417177915573
+icv274 SNARC dot CD down 40 num_separator 0.527549028397
+icv274 SNARC dot CD up 25 lctrl 0.579577922821
+icv274 SNARC dot CD down 45 num_separator 0.53989982605
+icv274 SNARC dot CD up 15 lctrl 0.551759958267
+icv274 SNARC dot CD down 45 num_separator 0.491485834122
+icv274 SNARC dot CD down 20 num_separator 0.692898988724
+icv274 SNARC dot CD up 30 lctrl 0.499409914017
+icv274 SNARC dot CD down 35 num_separator 0.566555976868
+icv274 SNARC dot CD up 15 lctrl 0.543737888336
+icv274 SNARC dot CD down 40 num_separator 0.770912885666
+icv274 SNARC dot CD down 30 num_separator 0.495635986328
+icv274 SNARC dot CD down 20 num_separator 0.656835079193
+icv274 SNARC dot CD down 25 num_separator 0.844803094864
+icv274 SNARC dot CD up 5 lctrl 0.595476150513
+icv274 SNARC dot CD up 45 lctrl 0.446623086929
+icv274 SNARC dot CD down 40 num_separator 0.501652956009
+icv274 SNARC dot CD down 25 num_separator 0.531699895859
+icv274 SNARC dot CD up 30 lctrl 0.410808086395
+icv274 SNARC dot CD up 15 lctrl 0.47719502449
+icv274 SNARC dot CD up 10 lctrl 0.711771965027
+icv274 SNARC dot CD up 5 lctrl 0.827960968018
+icv274 SNARC dot CD down 10 num_separator 0.556529045105
+icv274 SNARC dot CD down 5 num_separator 0.409476041794
+icv274 SNARC dot CD up 25 lctrl 0.524941205978
+icv274 SNARC dot CD down 35 num_separator 0.498145103455
+icv274 SNARC dot CD down 25 num_separator 0.758734941483
+icv274 SNARC dot CD down 45 num_separator 0.419888019562
+icv274 SNARC dot CD up 20 lctrl 0.509773015976
+icv274 SNARC dot CD up 15 lctrl 0.361581087112
+icv274 SNARC dot CD down 5 num_separator 0.480881929398
+icv274 SNARC dot CD down 35 num_separator 0.581383943558
+icv274 SNARC dot CD up 10 lctrl 0.582102060318
+icv274 SNARC dot CD up 40 lctrl 0.680581092834
+icv274 SNARC dot CD down 10 num_separator 0.969492912292
+icv274 SNARC dot CD down 5 num_separator 0.470837831497
+icv274 SNARC dot CD down 25 num_separator 0.455342054367
+icv274 SNARC dot CD down 15 num_separator 0.355776071548
+icv274 SNARC dot CD up 5 lctrl 0.475087881088
+icv274 SNARC dot CD up 30 lctrl 0.536868095398
+icv274 SNARC dot CD up 10 lctrl 0.394093990326
+icv274 SNARC dot CD down 5 num_separator 1.7937951088
+icv274 SNARC dot CD up 15 lctrl 1.2122399807
+icv274 SNARC dot CD down 10 num_separator 0.515946149826
+icv274 SNARC dot CD down 15 num_separator 0.452688932419
+icv274 SNARC dot CD up 45 lctrl 0.415184020996
+icv274 SNARC dot CD down 45 num_separator 0.604403018951
+icv274 SNARC dot CD down 25 num_separator 0.418488025665
+icv274 SNARC dot CD down 20 num_separator 0.584342956543
+icv274 SNARC dot CD up 10 lctrl 0.547781944275
+icv274 SNARC dot CD up 10 lctrl 0.443681001663
+icv274 SNARC dot CD up 40 lctrl 0.460050106049
+icv274 SNARC dot CD up 20 lctrl 0.385356903076
+icv274 SNARC dot CD down 30 num_separator 0.409893989563
+icv274 SNARC dot CD down 25 num_separator 0.538525104523
+icv274 SNARC dot CD down 35 num_separator 0.688554048538
+icv274 SNARC dot CD down 25 num_separator 0.417942047119
+icv274 SNARC dot CD up 45 lctrl 0.489711999893
+icv274 SNARC dot CD up 10 lctrl 0.475739002228
+icv274 SNARC dot CD up 15 lctrl 0.398197889328
+icv274 SNARC dot CD up 20 lctrl 0.388669013977
+icv274 SNARC dot CD down 30 num_separator 0.483559131622
+icv274 SNARC dot CD down 45 num_separator 0.527424812317
+icv274 SNARC dot CD up 45 lctrl 0.42911696434
+icv274 SNARC dot CD up 20 lctrl 0.463706970215
+icv274 SNARC dot CD up 40 lctrl 0.424768924713
+icv274 SNARC dot CD up 20 lctrl 0.398620843887
+icv274 SNARC dot CD down 15 num_separator 0.466512918472
+icv274 SNARC dot CD down 35 num_separator 0.568659067154
+icv274 SNARC dot CD down 40 num_separator 0.567919015884
+icv274 SNARC dot CD up 45 lctrl 0.529894828796
+icv274 SNARC dot CD down 30 num_separator 0.449315071106
+icv274 SNARC dot CD down 20 num_separator 0.620628118515
+icv274 SNARC dot CD up 45 lctrl 0.416532039642
+icv274 SNARC dot CD down 5 num_separator 0.624042034149
+icv274 SNARC dot CD up 25 lctrl 0.535972118378
+icv274 SNARC dot CD down 35 num_separator 0.647426128387
+icv274 SNARC dot CD up 5 lctrl 1.06233501434
+icv274 SNARC dot CD up 25 lctrl 0.425072908401
+icv274 SNARC dot CD down 25 num_separator 0.493773937225
+icv274 SNARC dot CD up 10 lctrl 0.439710140228
+icv274 SNARC dot CD down 40 num_separator 0.727003097534
+icv274 SNARC dot CD up 35 lctrl 0.488697052002
+icv274 SNARC dot CD up 40 lctrl 0.687335014343
+icv274 SNARC dot CD down 40 num_separator 0.687454938889
+icv274 SNARC dot CD down 40 lctrl 0.532886981964
+icv274 SNARC dot CD up 35 lctrl 0.839251041412
+icv274 SNARC dot CD down 45 num_separator 0.610552072525
+icv274 SNARC dot CD down 45 num_separator 0.562750101089
+icv274 SNARC dot CD down 25 num_separator 0.502765893936
+icv274 SNARC dot CD down 30 num_separator 0.492800951004
+icv274 SNARC dot CD up 30 lctrl 0.649697065353
+icv274 SNARC dot CD down 35 num_separator 0.373655080795
+icv274 SNARC dot CD down 45 num_separator 0.650219917297
+icv274 SNARC dot CD down 20 num_separator 0.532614946365
+icv274 SNARC dot CD down 10 num_separator 0.584849119186
+icv274 SNARC dot CD up 5 lctrl 0.508321046829
+icv274 SNARC dot CD down 25 num_separator 0.536840200424
+icv274 SNARC dot CD up 25 lctrl 0.609612941742
+icv274 SNARC dot CD down 5 num_separator 0.516371965408
+icv274 SNARC dot CD down 30 num_separator 0.528434038162
+icv274 SNARC dot CD up 40 lctrl 0.461682081223
+icv274 SNARC dot CD down 25 num_separator 0.541836023331
+icv274 SNARC dot CD down 5 num_separator 0.670042991638
+icv274 SNARC dot CD up 25 lctrl 0.648149013519
+icv274 SNARC dot CD up 20 lctrl 0.426067113876
+icv274 SNARC dot CD down 35 num_separator 0.423414945602
+icv274 SNARC dot CD down 30 num_separator 0.419476985931
+icv274 SNARC dot CD down 40 num_separator 0.414002895355
+icv274 SNARC dot CD down 5 num_separator 0.389471054077
+icv274 SNARC dot CD down 30 num_separator 0.534786939621
+icv274 SNARC dot CD up 10 lctrl 0.701658964157
+icv274 SNARC dot CD down 30 num_separator 0.594672203064
+icv274 SNARC dot CD down 45 num_separator 0.422580957413
+icv274 SNARC dot CD up 5 lctrl 0.630195140839
+icv274 SNARC dot CD down 35 num_separator 0.46488904953
+icv274 SNARC dot CD up 15 lctrl 0.503591060638
+icv274 SNARC dot CD down 20 num_separator 0.432950019836
+icv274 SNARC dot CD down 30 num_separator 0.45235490799
+icv274 SNARC dot CD up 25 lctrl 0.569938182831
+icv274 SNARC dot CD down 20 num_separator 0.469777107239
+icv274 SNARC dot CD up 45 lctrl 0.531883955002
+icv274 SNARC dot CD up 10 num_separator 0.429368019104
+icv274 SNARC dot CD up 20 lctrl 0.464056015015
+icv274 SNARC dot CD down 25 num_separator 0.542767047882
+icv274 SNARC dot CD up 45 lctrl 0.498038053513
+icv274 SNARC dot CD up 30 lctrl 0.605641126633
+icv274 SNARC dot CD up 40 lctrl 0.494317054749
+icv274 SNARC dot CD up 30 lctrl 0.541163921356
+icv274 SNARC dot CD up 35 lctrl 0.575291156769
+icv274 SNARC dot CD down 40 num_separator 1.15642786026
+icv274 SNARC dot CD down 35 num_separator 0.535487174988
+icv274 SNARC dot CD up 5 lctrl 0.741105079651
+icv274 SNARC dot CD down 35 num_separator 0.536519050598
+icv274 SNARC dot CD down 30 lctrl 0.493333101273
+icv274 SNARC dot CD down 35 num_separator 0.538796901703
+icv274 SNARC dot CD down 25 num_separator 0.37952208519
+icv274 SNARC dot CD up 10 lctrl 0.519603967667
+icv274 SNARC dot CD down 40 num_separator 0.414175987244
+icv274 SNARC dot CD down 30 num_separator 0.450392007828
+icv274 SNARC dot CD up 45 lctrl 0.450350046158
+icv274 SNARC dot CD down 5 num_separator 0.54262304306
+icv274 SNARC dot CD up 35 lctrl 0.563677072525
+icv274 SNARC dot CD up 15 lctrl 1.21543693542
+icv274 SNARC dot CD up 45 lctrl 0.450394868851
+icv274 SNARC dot CD up 40 lctrl 0.413074016571
+icv274 SNARC dot CD down 40 num_separator 0.50318479538
+icv274 SNARC dot CD up 10 lctrl 0.434047937393
+icv274 SNARC dot CD up 35 lctrl 0.452194929123
+icv274 SNARC dot CD down 15 num_separator 0.54610490799
+icv274 SNARC dot CD up 45 lctrl 0.487684965134
+icv274 SNARC dot CD down 20 num_separator 0.393651008606
+icv274 SNARC dot CD up 5 lctrl 0.402410030365
+icv274 SNARC dot CD down 40 num_separator 0.529758930206
+icv274 SNARC dot CD up 40 lctrl 0.580611944199
+icv274 SNARC dot CD down 10 num_separator 0.35075211525
+icv274 SNARC dot CD up 20 lctrl 0.351314067841
+icv274 SNARC dot CD down 25 num_separator 0.415503978729
+icv274 SNARC dot CD up 20 lctrl 0.336314916611
+icv274 SNARC dot CD up 5 lctrl 0.511138916016
+icv274 SNARC dot CD up 35 lctrl 0.385138034821
+icv274 SNARC dot CD up 25 lctrl 0.453163146973
+icv274 SNARC dot CD down 25 num_separator 0.918918848038
+icv274 SNARC dot CD up 35 lctrl 0.565370082855
+icv274 SNARC dot CD down 35 num_separator 0.566188097
+icv274 SNARC dot CD down 40 num_separator 0.952477931976
+icv274 SNARC dot CD up 35 lctrl 0.571702003479
+icv274 SNARC dot CD down 20 num_separator 0.587873935699
+icv274 SNARC dot CD up 20 lctrl 0.506767988205
+icv274 SNARC dot CD up 25 lctrl 0.459759950638
+icv274 SNARC dot CD up 30 lctrl 0.499766111374
+icv274 SNARC dot CD up 5 lctrl 0.506578922272
+icv274 SNARC dot CD up 10 lctrl 0.397272109985
+icv274 SNARC dot CD up 5 lctrl 0.443326950073
+icv274 SNARC dot CD up 20 lctrl 0.384031057358
+icv274 SNARC dot CD up 30 lctrl 0.37473487854
+icv274 SNARC dot CD down 20 num_separator 0.49574804306
+icv274 SNARC dot CD up 30 lctrl 0.465281963348
+icv274 SNARC dot CD up 25 lctrl 0.450069904327
+icv274 SNARC dot CD up 30 lctrl 0.451452970505
+icv274 SNARC dot CD up 30 lctrl 0.414206027985
+icv274 SNARC dot CD down 25 num_separator 0.465721130371
+icv274 SNARC dot CD up 25 lctrl 0.450531959534
+icv274 SNARC dot CD up 40 lctrl 0.489190101624
+icv274 SNARC dot CD up 40 lctrl 0.418663024902
+icv274 SNARC dot CD up 35 lctrl 0.454871892929
+icv274 SNARC dot CD up 10 lctrl 0.395729064941
+icv274 SNARC dot CD down 10 num_separator 0.364406108856
+icv274 SNARC dot CD down 45 num_separator 0.374795913696
+icv274 SNARC dot CD up 20 lctrl 0.471856117249
+icv274 SNARC dot CD down 20 num_separator 0.473330020905
+icv274 SNARC dot CD up 10 lctrl 0.553643941879
+icv274 SNARC dot CD up 15 lctrl 0.431632041931
+icv274 SNARC dot CD up 30 lctrl 0.567234039307
+icv274 SNARC dot CD up 15 lctrl 0.351381063461
+icv274 SNARC dot CD up 15 lctrl 0.353301048279
+icv274 SNARC dot CD up 10 lctrl 1.16933703423
+icv274 SNARC dot CD down 30 num_separator 0.570425987244
+icv274 SNARC dot CD down 35 num_separator 0.596940994263
+icv274 SNARC dot CD up 45 lctrl 0.525884866714
+icv274 SNARC dot CD down 20 num_separator 0.514715909958
+icv274 SNARC dot CD down 35 num_separator 0.566982984543
+icv274 SNARC dot CD up 5 lctrl 0.507323026657
+icv274 SNARC dot CD down 20 num_separator 0.628782987595
+icv274 SNARC dot CD up 10 lctrl 0.946156024933
+icv274 SNARC dot CD up 35 lctrl 0.464385986328
+icv274 SNARC dot CD up 25 lctrl 0.465936183929
+icv274 SNARC dot CD down 40 num_separator 0.526673078537
+icv274 SNARC dot CD down 5 num_separator 0.441045045853
+icv274 SNARC dot CD up 5 lctrl 0.548578977585
+icv274 SNARC dot CD down 35 num_separator 0.604882001877
+icv274 SNARC dot CD up 25 lctrl 0.572576999664
+icv274 SNARC dot CD down 15 num_separator 0.666100025177
+icv274 SNARC dot CD up 30 lctrl 0.568539142609
+icv274 SNARC dot CD down 25 num_separator 0.530838012695
+icv274 SNARC dot CD up 20 lctrl 0.543068885803
+icv274 SNARC dot CD down 15 num_separator 0.592624902725
+icv274 SNARC dot CD down 40 num_separator 0.615626096725
+icv274 SNARC dot CD down 15 num_separator 0.415410995483
+icv274 SNARC dot CD up 20 lctrl 0.582984924316
+icv274 SNARC dot CD down 25 num_separator 0.491379976273
+icv274 SNARC dot CD up 45 lctrl 0.419389009476
+icv274 SNARC dot CD down 25 num_separator 0.567205905914
+icv274 SNARC dot CD down 5 num_separator 0.391419887543
+icv274 SNARC dot CD up 15 lctrl 0.436152935028
+icv274 SNARC dot CD down 45 num_separator 0.53160405159
+icv274 SNARC dot CD up 45 lctrl 0.527302980423
+icv274 SNARC dot CD up 30 lctrl 0.386178016663
+icv274 SNARC dot CD down 15 num_separator 0.624376058578
+icv274 SNARC dot CD down 20 num_separator 0.476005077362
+icv274 SNARC dot CD down 15 num_separator 0.516207933426
+icv274 SNARC dot CD down 45 num_separator 0.567216157913
+icv274 SNARC dot CD up 10 lctrl 0.354439020157
+icv274 SNARC dot CD down 30 num_separator 0.571722984314
+icv274 SNARC dot CD down 35 num_separator 0.559774875641
+icv274 SNARC dot CD down 5 num_separator 0.516694068909
+icv274 SNARC dot CD down 30 num_separator 0.529042959213
+icv274 SNARC dot CD up 20 lctrl 0.580065011978
+icv274 SNARC dot CD down 20 num_separator 0.697175979614
+icv274 SNARC dot CD down 30 num_separator 0.581591844559
+icv274 SNARC dot CD up 5 lctrl 0.724364042282
+icv274 SNARC dot CD up 5 lctrl 1.98511004448
+icv274 SNARC dot CD down 35 num_separator 0.449200153351
+icv274 SNARC dot CD down 45 num_separator 0.410702943802
+icv274 SNARC dot CD down 35 num_separator 0.425045013428
+icv274 SNARC dot CD down 10 num_separator 0.399228096008
+icv274 SNARC dot CD up 25 lctrl 0.837780952454
+icv274 SNARC dot CD down 25 num_separator 0.456152200699
+icv274 SNARC dot CD down 10 num_separator 0.474476099014
+icv274 SNARC dot CD up 40 lctrl 0.535310029984
+icv274 SNARC dot CD down 35 num_separator 0.416333913803
+icv274 SNARC dot CD down 20 num_separator 0.466511011124
+icv274 SNARC dot CD down 15 num_separator 0.429480075836
+icv274 SNARC dot CD up 5 lctrl 0.443837881088
+icv274 SNARC dot CD down 45 num_separator 0.638841867447
+icv274 SNARC dot CD up 25 lctrl 2.04370093346
+icv274 SNARC dot CD down 15 num_separator 0.593907117844
+icv274 SNARC dot CD down 40 num_separator 0.526497125626
+icv274 SNARC dot CD down 15 num_separator 0.503783941269
+icv274 SNARC dot CD up 15 lctrl 0.665596008301
+icv274 SNARC dot CD up 15 lctrl 0.505975008011
+icv274 SNARC dot CD down 10 num_separator 0.785317897797
+icv274 SNARC dot CD down 5 num_separator 0.470415115356
+icv274 SNARC dot CD up 30 lctrl 1.113104105
+icv274 SNARC dot CD down 10 num_separator 0.442860126495
+icv274 SNARC dot CD up 45 lctrl 0.537036895752
+icv274 SNARC dot CD up 40 lctrl 0.455343961716
+icv274 SNARC dot CD up 20 lctrl 0.396278142929
+icv274 SNARC dot CD down 10 num_separator 0.443919181824
+icv274 SNARC dot CD up 40 lctrl 0.538063049316
+icv274 SNARC dot CD up 30 lctrl 0.573974847794
+icv274 SNARC dot CD down 5 num_separator 0.55307507515
+icv274 SNARC dot CD up 15 lctrl 0.456831932068
+icv274 SNARC dot CD down 45 num_separator 0.569917917252
+icv274 SNARC dot CD up 35 lctrl 0.572414875031
+icv274 SNARC dot CD down 35 num_separator 0.573522090912
+icv274 SNARC dot CD down 40 num_separator 0.495817899704
+icv274 SNARC dot CD down 30 num_separator 0.568547010422
+icv274 SNARC dot CD up 20 lctrl 0.507546901703
+{'task': 'line', 'participant': 'icv274', 'dateStr': '05_21_1132', 'notation': 'empty', 'response_buttons': 'CD', 'range_in_instr': True, 'interactive_setting': False, 'autopilot': False, 'exp_id': 'SNARC'}
+icv274 SNARC empty CD down 0 num_separator 1.87464380264
+icv274 SNARC empty CD up 0 lctrl 0.438210964203
+icv274 SNARC empty CD up 0 lctrl 0.473136901855
+icv274 SNARC empty CD up 0 lctrl 0.35874080658
+icv274 SNARC empty CD up 0 lctrl 0.36092710495
+icv274 SNARC empty CD down 0 num_separator 0.285701036453
+icv274 SNARC empty CD up 0 lctrl 0.431972980499
+icv274 SNARC empty CD up 0 lctrl 0.312243938446
+icv274 SNARC empty CD up 0 lctrl 0.287026166916
+icv274 SNARC empty CD down 0 num_separator 0.355888843536
+icv274 SNARC empty CD up 0 lctrl 0.43542599678
+icv274 SNARC empty CD up 0 lctrl 0.393088102341
+icv274 SNARC empty CD down 0 num_separator 0.323220968246
+icv274 SNARC empty CD up 0 lctrl 0.358739852905
+icv274 SNARC empty CD down 0 num_separator 0.399626016617
+icv274 SNARC empty CD down 0 num_separator 0.351916074753
+icv274 SNARC empty CD up 0 lctrl 0.37979221344
+icv274 SNARC empty CD down 0 num_separator 0.442698001862
+icv274 SNARC empty CD up 0 lctrl 0.361639976501
+icv274 SNARC empty CD down 0 num_separator 0.402590036392
+icv274 SNARC empty CD up 0 lctrl 0.316272974014
+icv274 SNARC empty CD up 0 lctrl 0.347036838531
+icv274 SNARC empty CD down 0 num_separator 0.481999158859
+icv274 SNARC empty CD up 0 lctrl 0.42834687233
+icv274 SNARC empty CD down 0 num_separator 0.402597904205
+icv274 SNARC empty CD down 0 num_separator 0.380466938019
+icv274 SNARC empty CD up 0 lctrl 0.366002082825
+icv274 SNARC empty CD up 0 lctrl 0.390222072601
+icv274 SNARC empty CD down 0 num_separator 0.552648067474
+icv274 SNARC empty CD down 0 num_separator 0.393703222275
+icv274 SNARC empty CD up 0 lctrl 0.396747112274
+icv274 SNARC empty CD down 0 num_separator 0.443036079407
+icv274 SNARC empty CD down 0 num_separator 0.40068602562
+icv274 SNARC empty CD up 0 lctrl 0.352984905243
+icv274 SNARC empty CD up 0 lctrl 0.432611227036
+icv274 SNARC empty CD up 0 lctrl 0.390271902084
+icv274 SNARC empty CD down 0 num_separator 0.359150886536
+icv274 SNARC empty CD up 0 lctrl 0.400122880936
+icv274 SNARC empty CD down 0 num_separator 0.429774999619
+icv274 SNARC empty CD up 0 lctrl 0.404145002365
+{'participant': u'icv274', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_21_1134', 'autopilot': False, 'exp_id': u'SNARC'}
+icv274 SNARC_only DC 1 lctrl 0.995033979416
+icv274 SNARC_only DC 1 lctrl 0.347558021545
+icv274 SNARC_only DC 9 lctrl 0.659075975418
+icv274 SNARC_only DC 7 lctrl 0.616120100021
+icv274 SNARC_only DC 9 lctrl 0.838099956512
+icv274 SNARC_only DC 4 num_separator 0.418138980865
+icv274 SNARC_only DC 3 lctrl 0.607961893082
+icv274 SNARC_only DC 4 lctrl 1.11755895615
+icv274 SNARC_only DC 2 num_separator 0.800765991211
+icv274 SNARC_only DC 7 lctrl 0.607794046402
+icv274 SNARC_only DC 1 lctrl 0.807952880859
+icv274 SNARC_only DC 8 num_separator 0.537225008011
+icv274 SNARC_only DC 5 lctrl 0.33966588974
+icv274 SNARC_only DC 3 num_separator 0.303181886673
+icv274 SNARC_only DC 9 lctrl 0.68702507019
+icv274 SNARC_only DC 9 lctrl 0.610308885574
+icv274 SNARC_only DC 7 lctrl 0.384818077087
+icv274 SNARC_only DC 6 num_separator 0.646696090698
+icv274 SNARC_only DC 7 lctrl 0.349014997482
+icv274 SNARC_only DC 8 num_separator 0.450747013092
+icv274 SNARC_only DC 1 lctrl 0.478066205978
+icv274 SNARC_only DC 5 lctrl 0.385828971863
+icv274 SNARC_only DC 6 num_separator 0.57022690773
+icv274 SNARC_only DC 1 lctrl 0.339197874069
+icv274 SNARC_only DC 3 lctrl 0.496248006821
+icv274 SNARC_only DC 2 num_separator 0.38726401329
+icv274 SNARC_only DC 5 lctrl 0.378186941147
+icv274 SNARC_only DC 9 lctrl 0.501947164536
+icv274 SNARC_only DC 6 num_separator 0.531085014343
+icv274 SNARC_only DC 5 lctrl 0.466187000275
+icv274 SNARC_only DC 2 num_separator 0.554374933243
+icv274 SNARC_only DC 5 lctrl 0.494793891907
+icv274 SNARC_only DC 9 lctrl 0.535898923874
+icv274 SNARC_only DC 9 lctrl 0.493017911911
+icv274 SNARC_only DC 8 num_separator 0.603138923645
+icv274 SNARC_only DC 3 lctrl 0.489060878754
+icv274 SNARC_only DC 4 num_separator 0.418762922287
+icv274 SNARC_only DC 9 lctrl 0.415127038956
+icv274 SNARC_only DC 5 lctrl 0.450169801712
+icv274 SNARC_only DC 1 lctrl 0.955022096634
+icv274 SNARC_only DC 1 lctrl 0.490903139114
+icv274 SNARC_only DC 4 num_separator 0.459294080734
+icv274 SNARC_only DC 8 num_separator 0.461099147797
+icv274 SNARC_only DC 1 lctrl 0.501548051834
+icv274 SNARC_only DC 4 num_separator 0.569443941116
+icv274 SNARC_only DC 5 lctrl 0.37712097168
+icv274 SNARC_only DC 3 lctrl 0.655715942383
+icv274 SNARC_only DC 7 lctrl 0.457507133484
+icv274 SNARC_only DC 3 lctrl 1.0010881424
+icv274 SNARC_only DC 4 num_separator 0.723906993866
+icv274 SNARC_only DC 8 num_separator 0.613924980164
+icv274 SNARC_only DC 9 lctrl 0.504394054413
+icv274 SNARC_only DC 9 lctrl 0.533608913422
+icv274 SNARC_only DC 2 num_separator 0.839047908783
+icv274 SNARC_only DC 9 lctrl 1.07679104805
+icv274 SNARC_only DC 9 lctrl 0.457399845123
+icv274 SNARC_only DC 5 lctrl 0.420445919037
+icv274 SNARC_only DC 3 lctrl 0.494272947311
+icv274 SNARC_only DC 6 num_separator 1.08185601234
+icv274 SNARC_only DC 2 num_separator 0.450518846512
+icv274 SNARC_only DC 6 num_separator 0.568375110626
+icv274 SNARC_only DC 8 num_separator 0.479092121124
+icv274 SNARC_only DC 7 lctrl 0.657766819
+icv274 SNARC_only DC 7 lctrl 0.382019996643
+icv274 SNARC_only DC 8 num_separator 0.527788162231
+icv274 SNARC_only DC 1 lctrl 0.579030990601
+icv274 SNARC_only DC 4 num_separator 0.348114013672
+icv274 SNARC_only DC 7 lctrl 0.389178991318
+icv274 SNARC_only DC 1 lctrl 0.573455095291
+icv274 SNARC_only DC 5 lctrl 0.961637020111
+icv274 SNARC_only DC 4 num_separator 0.540952920914
+icv274 SNARC_only DC 3 lctrl 0.53678393364
+icv274 SNARC_only DC 8 num_separator 0.532617092133
+icv274 SNARC_only DC 6 num_separator 0.5671479702
+icv274 SNARC_only DC 7 lctrl 0.529680967331
+icv274 SNARC_only DC 7 lctrl 0.348726034164
+icv274 SNARC_only DC 4 num_separator 0.450401067734
+icv274 SNARC_only DC 4 num_separator 0.826103925705
+icv274 SNARC_only DC 6 num_separator 0.538726091385
+icv274 SNARC_only DC 7 lctrl 0.560124874115
+icv274 SNARC_only DC 3 num_separator 0.423248052597
+icv274 SNARC_only DC 6 num_separator 0.535743951797
+icv274 SNARC_only DC 7 lctrl 0.531551122665
+icv274 SNARC_only DC 1 lctrl 0.698745012283
+icv274 SNARC_only DC 5 lctrl 0.876435995102
+icv274 SNARC_only DC 1 lctrl 0.809844017029
+icv274 SNARC_only DC 5 lctrl 0.650580883026
+icv274 SNARC_only DC 5 lctrl 1.3424680233
+icv274 SNARC_only DC 3 lctrl 0.654591083527
+icv274 SNARC_only DC 2 num_separator 0.572587966919
+icv274 SNARC_only DC 8 num_separator 0.522006034851
+icv274 SNARC_only DC 5 lctrl 0.495786905289
+icv274 SNARC_only DC 3 num_separator 0.464266061783
+icv274 SNARC_only DC 5 lctrl 0.427445888519
+icv274 SNARC_only DC 1 lctrl 0.346291780472
+icv274 SNARC_only DC 5 lctrl 0.348608016968
+icv274 SNARC_only DC 6 num_separator 0.489071846008
+icv274 SNARC_only DC 4 num_separator 0.366972923279
+icv274 SNARC_only DC 5 lctrl 0.529405832291
+icv274 SNARC_only DC 1 lctrl 0.464458942413
+icv274 SNARC_only DC 2 num_separator 0.350157976151
+icv274 SNARC_only DC 8 num_separator 0.567954778671
+icv274 SNARC_only DC 3 lctrl 0.491904020309
+icv274 SNARC_only DC 3 lctrl 0.615005970001
+icv274 SNARC_only DC 8 lctrl 0.389409065247
+icv274 SNARC_only DC 2 num_separator 0.728711128235
+icv274 SNARC_only DC 4 num_separator 0.386437177658
+icv274 SNARC_only DC 2 num_separator 0.493587017059
+icv274 SNARC_only DC 2 num_separator 0.462089061737
+icv274 SNARC_only DC 9 lctrl 0.579996824265
+icv274 SNARC_only DC 6 num_separator 0.619881153107
+icv274 SNARC_only DC 5 lctrl 0.527886152267
+icv274 SNARC_only DC 4 num_separator 0.462908983231
+icv274 SNARC_only DC 6 num_separator 0.774255990982
+icv274 SNARC_only DC 2 num_separator 0.652973890305
+icv274 SNARC_only DC 8 num_separator 0.532253026962
+icv274 SNARC_only DC 1 lctrl 0.566738843918
+icv274 SNARC_only DC 6 num_separator 0.529256105423
+icv274 SNARC_only DC 8 num_separator 0.503078937531
+icv274 SNARC_only DC 9 lctrl 0.725732088089
+icv274 SNARC_only DC 2 num_separator 0.486603975296
+icv274 SNARC_only DC 2 num_separator 0.49363899231
+icv274 SNARC_only DC 3 lctrl 0.539423942566
+icv274 SNARC_only DC 8 num_separator 0.535338878632
+icv274 SNARC_only DC 8 num_separator 0.569880962372
+icv274 SNARC_only DC 2 num_separator 0.880676031113
+icv274 SNARC_only DC 8 num_separator 0.736847162247
+icv274 SNARC_only DC 2 num_separator 0.648895025253
+icv274 SNARC_only DC 9 lctrl 0.605520009995
+icv274 SNARC_only DC 7 lctrl 0.921765089035
+icv274 SNARC_only DC 6 num_separator 0.998699903488
+icv274 SNARC_only DC 7 lctrl 0.605493068695
+icv274 SNARC_only DC 2 num_separator 0.418508052826
+icv274 SNARC_only DC 9 lctrl 0.453578948975
+icv274 SNARC_only DC 9 lctrl 0.3392329216
+icv274 SNARC_only DC 9 lctrl 0.341444969177
+icv274 SNARC_only DC 8 num_separator 0.459769964218
+icv274 SNARC_only DC 4 num_separator 0.345537185669
+icv274 SNARC_only DC 6 num_separator 0.580116033554
+icv274 SNARC_only DC 8 num_separator 1.1230931282
+icv274 SNARC_only DC 7 lctrl 0.574503898621
+icv274 SNARC_only DC 6 num_separator 0.420943021774
+icv274 SNARC_only DC 4 num_separator 0.726927995682
+icv274 SNARC_only DC 3 lctrl 0.578147172928
+icv274 SNARC_only DC 1 lctrl 0.502012968063
+icv274 SNARC_only DC 1 lctrl 0.376295804977
+icv274 SNARC_only DC 2 num_separator 0.383996009827
+icv274 SNARC_only DC 4 num_separator 0.297671079636
+icv274 SNARC_only DC 1 lctrl 0.427242040634
+icv274 SNARC_only DC 8 num_separator 0.384912967682
+icv274 SNARC_only DC 6 num_separator 0.453414916992
+icv274 SNARC_only DC 3 lctrl 0.609866142273
+icv274 SNARC_only DC 1 lctrl 0.422971010208
+icv274 SNARC_only DC 4 num_separator 0.419335126877
+icv274 SNARC_only DC 4 num_separator 0.415729999542
+icv274 SNARC_only DC 8 num_separator 0.489573955536
+icv274 SNARC_only DC 8 num_separator 0.419427156448
+icv274 SNARC_only DC 8 num_separator 0.376973867416
+icv274 SNARC_only DC 6 lctrl 0.384673833847
+icv274 SNARC_only DC 3 lctrl 0.569260120392
+icv274 SNARC_only DC 9 lctrl 0.570403814316
+icv274 SNARC_only DC 4 num_separator 0.378086805344
+icv274 SNARC_only DC 8 num_separator 0.540555953979
+icv274 SNARC_only DC 5 lctrl 1.03946280479
+icv274 SNARC_only DC 9 lctrl 0.53547000885
+icv274 SNARC_only DC 4 num_separator 0.415318012238
+icv274 SNARC_only DC 1 lctrl 0.450327157974
+icv274 SNARC_only DC 8 num_separator 0.490813016891
+icv274 SNARC_only DC 7 lctrl 0.725488185883
+icv274 SNARC_only DC 5 lctrl 0.61542391777
+icv274 SNARC_only DC 1 lctrl 0.45060300827
+icv274 SNARC_only DC 4 num_separator 0.529591083527
+icv274 SNARC_only DC 4 num_separator 0.387272834778
+icv274 SNARC_only DC 7 lctrl 0.494290113449
+icv274 SNARC_only DC 2 num_separator 0.342031002045
+icv274 SNARC_only DC 5 lctrl 0.46036696434
+icv274 SNARC_only DC 8 num_separator 0.461989879608
+icv274 SNARC_only DC 1 lctrl 0.386339902878
+icv274 SNARC_only DC 4 num_separator 0.454666852951
+icv274 SNARC_only DC 9 lctrl 0.572474956512
+icv274 SNARC_only DC 3 lctrl 0.689773082733
+icv274 SNARC_only DC 6 num_separator 0.651652097702
+icv274 SNARC_only DC 4 num_separator 0.47904086113
+icv274 SNARC_only DC 9 lctrl 0.580291032791
+icv274 SNARC_only DC 4 num_separator 0.426529884338
+icv274 SNARC_only DC 7 lctrl 0.538968086243
+icv274 SNARC_only DC 7 lctrl 0.336674928665
+icv274 SNARC_only DC 5 lctrl 0.30024600029
+icv274 SNARC_only DC 3 num_separator 0.374446868896
+icv274 SNARC_only DC 4 lctrl 0.653154850006
+icv274 SNARC_only DC 4 num_separator 0.609623193741
+icv274 SNARC_only DC 2 num_separator 0.461493015289
+icv274 SNARC_only DC 6 num_separator 0.579384088516
+icv274 SNARC_only DC 3 lctrl 0.657951116562
+icv274 SNARC_only DC 6 lctrl 0.575828075409
+icv274 SNARC_only DC 4 num_separator 0.383579015732
+icv274 SNARC_only DC 8 num_separator 0.490622997284
+icv274 SNARC_only DC 1 lctrl 0.949110984802
+icv274 SNARC_only DC 5 lctrl 0.644470930099
+icv274 SNARC_only DC 4 num_separator 1.04350805283
+icv274 SNARC_only DC 1 lctrl 0.500794887543
+icv274 SNARC_only DC 9 lctrl 0.800962924957
+icv274 SNARC_only DC 7 lctrl 0.414073944092
+icv274 SNARC_only DC 7 lctrl 0.388520002365
+icv274 SNARC_only DC 4 num_separator 0.45675110817
+icv274 SNARC_only DC 2 num_separator 0.537431955338
+icv274 SNARC_only DC 2 num_separator 0.417252063751
+icv274 SNARC_only DC 1 lctrl 0.529752016068
+icv274 SNARC_only DC 7 num_separator 0.774442195892
+icv274 SNARC_only DC 2 num_separator 0.537105083466
+icv274 SNARC_only DC 7 lctrl 0.571726799011
+icv274 SNARC_only DC 1 lctrl 0.568319797516
+icv274 SNARC_only DC 7 lctrl 0.917722940445
+icv274 SNARC_only DC 5 lctrl 0.569052934647
+icv274 SNARC_only DC 8 num_separator 0.570266962051
+icv274 SNARC_only DC 9 lctrl 0.532788038254
+icv274 SNARC_only DC 3 lctrl 0.606086015701
+icv274 SNARC_only DC 5 lctrl 0.530778884888
+icv274 SNARC_only DC 7 lctrl 0.543106794357
+icv274 SNARC_only DC 6 num_separator 0.732489109039
+icv274 SNARC_only DC 5 lctrl 0.605676174164
+icv274 SNARC_only DC 6 num_separator 0.612277030945
+icv274 SNARC_only DC 6 num_separator 1.26358008385
+icv274 SNARC_only DC 1 lctrl 1.26518392563
+icv274 SNARC_only DC 3 lctrl 0.682765960693
+icv274 SNARC_only DC 7 lctrl 0.489921808243
+icv274 SNARC_only DC 3 lctrl 1.19352602959
+icv274 SNARC_only DC 8 num_separator 0.771787881851
+icv274 SNARC_only DC 5 lctrl 0.882678985596
+icv274 SNARC_only DC 6 num_separator 0.528614997864
+icv274 SNARC_only DC 2 num_separator 0.657172203064
+icv274 SNARC_only DC 5 lctrl 0.575149059296
+icv274 SNARC_only DC 1 lctrl 0.494323968887
+icv274 SNARC_only DC 9 lctrl 0.656180143356
+icv274 SNARC_only DC 2 num_separator 0.535346031189
+icv274 SNARC_only DC 2 num_separator 0.33776807785
+icv274 SNARC_only DC 7 lctrl 0.572176933289
+icv274 SNARC_only DC 7 lctrl 0.341237068176
+icv274 SNARC_only DC 2 num_separator 0.498199939728
+icv274 SNARC_only DC 6 num_separator 0.389180898666
+icv274 SNARC_only DC 1 lctrl 0.496345996857
+icv274 SNARC_only DC 7 lctrl 0.580770015717
+icv274 SNARC_only DC 8 num_separator 0.504621982574
+icv274 SNARC_only DC 5 lctrl 0.675369024277
+icv274 SNARC_only DC 5 lctrl 0.924851179123
+icv274 SNARC_only DC 9 lctrl 0.537440061569
+icv274 SNARC_only DC 5 lctrl 0.455878019333
+icv274 SNARC_only DC 4 num_separator 0.573660850525
+icv274 SNARC_only DC 3 lctrl 0.458760976791
+icv274 SNARC_only DC 2 num_separator 0.460402965546
+icv274 SNARC_only DC 9 lctrl 0.578258991241
+icv274 SNARC_only DC 4 num_separator 0.463226795197
+icv274 SNARC_only DC 8 num_separator 0.929502010345
+icv274 SNARC_only DC 1 lctrl 0.446890830994
+icv274 SNARC_only DC 9 lctrl 0.542706012726
+icv274 SNARC_only DC 1 lctrl 0.693343877792
+icv274 SNARC_only DC 9 lctrl 0.500397920609
+icv274 SNARC_only DC 4 num_separator 0.761751890182
+icv274 SNARC_only DC 2 num_separator 0.77317905426
+icv274 SNARC_only DC 7 lctrl 0.458387136459
+icv274 SNARC_only DC 6 num_separator 0.924503087997
+icv274 SNARC_only DC 7 lctrl 0.537098884583
+icv274 SNARC_only DC 6 num_separator 0.610285997391
+icv274 SNARC_only DC 9 lctrl 0.694308996201
+icv274 SNARC_only DC 5 lctrl 0.65634894371
+icv274 SNARC_only DC 6 lctrl 0.728960990906
+icv274 SNARC_only DC 4 num_separator 0.618970870972
+icv274 SNARC_only DC 9 lctrl 0.45402097702
+icv274 SNARC_only DC 7 lctrl 0.571766853333
+icv274 SNARC_only DC 8 num_separator 0.572946071625
+icv274 SNARC_only DC 9 lctrl 0.4967648983
+icv274 SNARC_only DC 2 num_separator 0.503861904144
+icv274 SNARC_only DC 5 lctrl 0.726598024368
+icv274 SNARC_only DC 7 num_separator 0.384477853775
+icv274 SNARC_only DC 6 num_separator 0.568874120712
+icv274 SNARC_only DC 6 num_separator 0.608800888062
+icv274 SNARC_only DC 9 lctrl 1.04108595848
+icv274 SNARC_only DC 3 lctrl 0.65322804451
+icv274 SNARC_only DC 3 lctrl 0.687168836594
+icv274 SNARC_only DC 3 lctrl 0.610396146774
+icv274 SNARC_only DC 9 lctrl 0.77175784111
+icv274 SNARC_only DC 7 lctrl 0.65047121048
+icv274 SNARC_only DC 4 num_separator 0.452301979065
+icv274 SNARC_only DC 3 lctrl 0.454110860825
+icv274 SNARC_only DC 5 lctrl 0.533129930496
+icv274 SNARC_only DC 2 num_separator 0.374112129211
+icv274 SNARC_only DC 6 num_separator 0.575331926346
+icv274 SNARC_only DC 5 lctrl 1.07957315445
+icv274 SNARC_only DC 7 lctrl 0.426124811172
+icv274 SNARC_only DC 9 lctrl 0.499876976013
+icv274 SNARC_only DC 3 lctrl 0.645205020905
+icv274 SNARC_only DC 7 lctrl 0.579681158066
+icv274 SNARC_only DC 2 num_separator 0.387255191803
+icv274 SNARC_only DC 3 lctrl 0.558675050735
+icv274 SNARC_only DC 6 num_separator 0.57647895813
+icv274 SNARC_only DC 5 lctrl 0.345490217209
+icv274 SNARC_only DC 3 lctrl 0.579910993576
+icv274 SNARC_only DC 4 lctrl 0.348880052567
+icv274 SNARC_only DC 7 lctrl 0.605334997177
+icv274 SNARC_only DC 5 lctrl 0.457097053528
+icv274 SNARC_only DC 5 lctrl 0.497578859329
+icv274 SNARC_only DC 3 num_separator 0.33665895462
+icv274 SNARC_only DC 3 lctrl 0.527766942978
+icv274 SNARC_only DC 9 lctrl 0.462729930878
+icv274 SNARC_only DC 1 lctrl 0.614575147629
+icv274 SNARC_only DC 4 num_separator 0.505086898804
+icv274 SNARC_only DC 4 num_separator 0.456829786301
+icv274 SNARC_only DC 2 num_separator 0.923027992249
+icv274 SNARC_only DC 5 lctrl 0.574290990829
+icv274 SNARC_only DC 1 lctrl 0.536725997925
+icv274 SNARC_only DC 2 num_separator 0.53245806694
+icv274 SNARC_only DC 2 num_separator 0.450870990753
+icv274 SNARC_only DC 1 lctrl 0.45259308815
+icv274 SNARC_only DC 3 lctrl 0.493013143539
+icv274 SNARC_only DC 8 num_separator 0.500147104263
+icv274 SNARC_only DC 8 num_separator 0.413156032562
+icv274 SNARC_only DC 7 lctrl 0.503553152084
+icv274 SNARC_only DC 2 num_separator 0.610027074814
+icv274 SNARC_only DC 5 lctrl 0.500614881516
+icv274 SNARC_only DC 6 num_separator 0.645722866058
+icv274 SNARC_only DC 6 num_separator 0.502835035324
+icv274 SNARC_only DC 1 lctrl 0.570657014847
+icv274 SNARC_only DC 3 lctrl 0.455714941025
+icv274 SNARC_only DC 8 num_separator 0.530151844025
+icv274 SNARC_only DC 9 num_separator 0.426605939865
+icv274 SNARC_only DC 3 lctrl 1.31299614906
+icv274 SNARC_only DC 8 num_separator 1.12289309502
+icv274 SNARC_only DC 2 num_separator 0.535653829575
+icv274 SNARC_only DC 6 num_separator 0.492707967758
+icv274 SNARC_only DC 8 num_separator 0.615869045258
+icv274 SNARC_only DC 2 num_separator 0.45107293129
+icv274 SNARC_only DC 5 lctrl 0.452728033066
+icv274 SNARC_only DC 9 lctrl 0.493118047714
+icv274 SNARC_only DC 2 num_separator 0.53884100914
+icv274 SNARC_only DC 3 lctrl 0.650657176971
+icv274 SNARC_only DC 3 lctrl 0.491183996201
+icv274 SNARC_only DC 1 lctrl 0.575665950775
+icv274 SNARC_only DC 9 lctrl 1.00250196457
+icv274 SNARC_only DC 1 lctrl 0.609179973602
+icv274 SNARC_only DC 1 lctrl 0.344712018967
+icv274 SNARC_only DC 1 lctrl 0.308245182037
+icv274 SNARC_only DC 3 num_separator 0.45988202095
+icv274 SNARC_only DC 1 lctrl 0.461514949799
+icv274 SNARC_only DC 6 num_separator 0.579278945923
+icv274 SNARC_only DC 7 lctrl 0.503087043762
+icv274 SNARC_only DC 8 num_separator 0.532202005386
+icv274 SNARC_only DC 8 num_separator 0.489204883575
+icv274 SNARC_only DC 8 num_separator 0.41894197464
+icv274 SNARC_only DC 3 lctrl 0.37659406662
+icv274 SNARC_only DC 4 num_separator 0.461637973785
+icv274 SNARC_only DC 6 num_separator 0.850260972977
+icv274 SNARC_only DC 6 num_separator 0.452183008194
+icv274 SNARC_only DC 6 num_separator 0.453891992569
+icv274 SNARC_only DC 2 num_separator 0.51988196373
+icv274 SNARC_only DC 2 num_separator 0.377625226974
+icv274 SNARC_only DC 6 num_separator 0.539994001389
+icv274 SNARC_only DC 8 num_separator 0.419767141342
+icv274 SNARC_only DC 4 num_separator 0.36424279213
+icv274 SNARC_only DC 9 lctrl 0.42725110054
+icv274 SNARC_only DC 7 lctrl 0.462122917175
+{'participant': u'icv274', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_21_1143', 'autopilot': False, 'exp_id': u'SNARC'}
+icv274 SNARC_only CD 2 lctrl 1.03924202919
+icv274 SNARC_only CD 9 num_separator 0.49622297287
+icv274 SNARC_only CD 3 num_separator 0.619611978531
+icv274 SNARC_only CD 3 num_separator 0.32550406456
+icv274 SNARC_only CD 7 num_separator 0.460496902466
+icv274 SNARC_only CD 9 num_separator 0.346153020859
+icv274 SNARC_only CD 6 lctrl 0.619233131409
+icv274 SNARC_only CD 7 num_separator 0.376838922501
+icv274 SNARC_only CD 2 lctrl 0.461806058884
+icv274 SNARC_only CD 4 lctrl 0.424870014191
+icv274 SNARC_only CD 7 num_separator 0.459734916687
+icv274 SNARC_only CD 6 lctrl 0.732251882553
+icv274 SNARC_only CD 7 num_separator 0.489353895187
+icv274 SNARC_only CD 4 lctrl 0.405931949615
+icv274 SNARC_only CD 7 num_separator 0.496146917343
+icv274 SNARC_only CD 3 num_separator 0.683504104614
+icv274 SNARC_only CD 8 lctrl 0.529370069504
+icv274 SNARC_only CD 8 lctrl 0.425656080246
+icv274 SNARC_only CD 5 num_separator 0.563570022583
+icv274 SNARC_only CD 3 num_separator 0.774827003479
+icv274 SNARC_only CD 5 num_separator 0.459997177124
+icv274 SNARC_only CD 4 lctrl 0.461720943451
+icv274 SNARC_only CD 5 num_separator 0.347167015076
+icv274 SNARC_only CD 1 num_separator 0.581641197205
+icv274 SNARC_only CD 5 num_separator 0.543999195099
+icv274 SNARC_only CD 5 num_separator 0.462371110916
+icv274 SNARC_only CD 1 num_separator 0.463983058929
+icv274 SNARC_only CD 2 lctrl 0.581748962402
+icv274 SNARC_only CD 9 num_separator 0.411357164383
+icv274 SNARC_only CD 9 num_separator 0.424321889877
+icv274 SNARC_only CD 4 lctrl 0.420737981796
+icv274 SNARC_only CD 6 lctrl 0.494183063507
+icv274 SNARC_only CD 4 lctrl 0.462401866913
+icv274 SNARC_only CD 9 num_separator 0.386687994003
+icv274 SNARC_only CD 2 lctrl 0.532372951508
+icv274 SNARC_only CD 6 num_separator 0.334625005722
+icv274 SNARC_only CD 6 lctrl 0.413916826248
+icv274 SNARC_only CD 1 num_separator 0.581882953644
+icv274 SNARC_only CD 8 lctrl 0.721047878265
+icv274 SNARC_only CD 8 lctrl 0.417435884476
+icv274 SNARC_only CD 2 lctrl 1.07147884369
+icv274 SNARC_only CD 7 num_separator 0.495354890823
+icv274 SNARC_only CD 3 lctrl 0.425080060959
+icv274 SNARC_only CD 4 lctrl 0.537286996841
+icv274 SNARC_only CD 8 num_separator 0.455646038055
+icv274 SNARC_only CD 4 lctrl 0.341227054596
+icv274 SNARC_only CD 9 num_separator 0.536842107773
+icv274 SNARC_only CD 2 lctrl 0.416676044464
+icv274 SNARC_only CD 6 lctrl 0.412708044052
+icv274 SNARC_only CD 1 num_separator 0.619161128998
+icv274 SNARC_only CD 6 lctrl 0.45404291153
+icv274 SNARC_only CD 6 lctrl 0.4944190979
+icv274 SNARC_only CD 7 num_separator 0.65619802475
+icv274 SNARC_only CD 5 num_separator 0.496546983719
+icv274 SNARC_only CD 1 num_separator 0.503555059433
+icv274 SNARC_only CD 5 num_separator 0.416542053223
+icv274 SNARC_only CD 2 lctrl 0.528934001923
+icv274 SNARC_only CD 1 num_separator 0.57986998558
+icv274 SNARC_only CD 8 lctrl 0.542250156403
+icv274 SNARC_only CD 9 num_separator 0.460578918457
+icv274 SNARC_only CD 5 num_separator 0.487742900848
+icv274 SNARC_only CD 5 num_separator 0.378635883331
+icv274 SNARC_only CD 9 num_separator 0.463657140732
+icv274 SNARC_only CD 3 num_separator 0.465240955353
+icv274 SNARC_only CD 4 lctrl 0.488839864731
+icv274 SNARC_only CD 8 lctrl 0.650665998459
+icv274 SNARC_only CD 5 num_separator 0.4909491539
+icv274 SNARC_only CD 1 num_separator 0.730072975159
+icv274 SNARC_only CD 1 num_separator 0.426421880722
+icv274 SNARC_only CD 3 num_separator 0.461389064789
+icv274 SNARC_only CD 1 num_separator 0.385562181473
+icv274 SNARC_only CD 4 lctrl 0.569916009903
+icv274 SNARC_only CD 6 lctrl 0.416160106659
+icv274 SNARC_only CD 8 lctrl 0.335084915161
+icv274 SNARC_only CD 2 lctrl 0.337208032608
+icv274 SNARC_only CD 3 num_separator 0.494004964828
+icv274 SNARC_only CD 9 num_separator 0.423596858978
+icv274 SNARC_only CD 2 lctrl 0.41983294487
+icv274 SNARC_only CD 6 lctrl 0.454674005508
+icv274 SNARC_only CD 5 num_separator 0.456342935562
+icv274 SNARC_only CD 5 num_separator 0.457900047302
+icv274 SNARC_only CD 4 lctrl 0.459509849548
+icv274 SNARC_only CD 4 lctrl 0.383741855621
+icv274 SNARC_only CD 8 lctrl 0.563496828079
+icv274 SNARC_only CD 8 lctrl 0.387603998184
+icv274 SNARC_only CD 8 lctrl 0.339811086655
+icv274 SNARC_only CD 3 num_separator 0.574000120163
+icv274 SNARC_only CD 4 lctrl 0.459041118622
+icv274 SNARC_only CD 8 lctrl 0.460558891296
+icv274 SNARC_only CD 7 num_separator 0.539551019669
+icv274 SNARC_only CD 3 num_separator 0.380421161652
+icv274 SNARC_only CD 1 lctrl 0.465267896652
+icv274 SNARC_only CD 7 num_separator 0.489028930664
+icv274 SNARC_only CD 2 lctrl 0.495902061462
+icv274 SNARC_only CD 9 num_separator 0.42547416687
+icv274 SNARC_only CD 5 num_separator 0.499094009399
+icv274 SNARC_only CD 2 lctrl 0.528074979782
+icv274 SNARC_only CD 6 lctrl 0.463007926941
+icv274 SNARC_only CD 8 lctrl 0.387135028839
+icv274 SNARC_only CD 5 lctrl 0.57138299942
+icv274 SNARC_only CD 3 num_separator 0.572391986847
+icv274 SNARC_only CD 9 num_separator 0.650907039642
+icv274 SNARC_only CD 1 num_separator 0.491214990616
+icv274 SNARC_only CD 1 num_separator 0.382107019424
+icv274 SNARC_only CD 6 lctrl 0.411639928818
+icv274 SNARC_only CD 4 lctrl 0.381129026413
+icv274 SNARC_only CD 6 lctrl 0.543387174606
+icv274 SNARC_only CD 9 num_separator 0.616463899612
+icv274 SNARC_only CD 7 num_separator 0.528831958771
+icv274 SNARC_only CD 5 num_separator 0.541209936142
+icv274 SNARC_only CD 8 lctrl 0.614356994629
+icv274 SNARC_only CD 3 num_separator 0.543262958527
+icv274 SNARC_only CD 1 num_separator 0.538936138153
+icv274 SNARC_only CD 9 num_separator 0.495973110199
+icv274 SNARC_only CD 6 lctrl 0.619043111801
+icv274 SNARC_only CD 5 num_separator 0.724823951721
+icv274 SNARC_only CD 8 lctrl 0.498528003693
+icv274 SNARC_only CD 5 num_separator 0.527549982071
+icv274 SNARC_only CD 6 lctrl 0.501240968704
+icv274 SNARC_only CD 7 num_separator 0.530192136765
+icv274 SNARC_only CD 3 num_separator 0.619832992554
+icv274 SNARC_only CD 2 lctrl 0.571014881134
+icv274 SNARC_only CD 2 lctrl 0.61058306694
+icv274 SNARC_only CD 5 num_separator 0.578308820724
+icv274 SNARC_only CD 8 lctrl 0.850270986557
+icv274 SNARC_only CD 4 lctrl 0.374540805817
+icv274 SNARC_only CD 3 num_separator 0.614188909531
+icv274 SNARC_only CD 9 num_separator 0.581884145737
+icv274 SNARC_only CD 8 lctrl 0.488969087601
+icv274 SNARC_only CD 1 num_separator 0.534512042999
+icv274 SNARC_only CD 5 num_separator 0.530178070068
+icv274 SNARC_only CD 5 num_separator 0.426465034485
+icv274 SNARC_only CD 4 lctrl 0.500069141388
+icv274 SNARC_only CD 4 lctrl 0.412914037704
+icv274 SNARC_only CD 8 lctrl 0.464470148087
+icv274 SNARC_only CD 4 lctrl 0.349920988083
+icv274 SNARC_only CD 6 lctrl 0.528751134872
+icv274 SNARC_only CD 1 num_separator 0.541145086288
+icv274 SNARC_only CD 3 num_separator 0.484931945801
+icv274 SNARC_only CD 8 lctrl 0.49191904068
+icv274 SNARC_only CD 6 lctrl 0.88575387001
+icv274 SNARC_only CD 3 num_separator 0.531496047974
+icv274 SNARC_only CD 1 num_separator 0.543887853622
+icv274 SNARC_only CD 5 num_separator 0.732999801636
+icv274 SNARC_only CD 7 num_separator 0.993051052094
+icv274 SNARC_only CD 6 lctrl 0.809663057327
+icv274 SNARC_only CD 8 lctrl 0.461392879486
+icv274 SNARC_only CD 5 num_separator 0.424198865891
+icv274 SNARC_only CD 8 lctrl 0.49782705307
+icv274 SNARC_only CD 4 lctrl 0.930302858353
+icv274 SNARC_only CD 3 num_separator 0.542787075043
+icv274 SNARC_only CD 2 lctrl 0.615765094757
+icv274 SNARC_only CD 7 num_separator 0.412021875381
+icv274 SNARC_only CD 1 num_separator 0.541032075882
+icv274 SNARC_only CD 4 lctrl 0.459263086319
+icv274 SNARC_only CD 3 num_separator 0.499554157257
+icv274 SNARC_only CD 7 num_separator 0.489776849747
+icv274 SNARC_only CD 1 num_separator 0.574126958847
+icv274 SNARC_only CD 7 num_separator 0.497786045074
+icv274 SNARC_only CD 2 lctrl 0.543435096741
+icv274 SNARC_only CD 5 num_separator 0.693774938583
+icv274 SNARC_only CD 7 num_separator 0.53942990303
+icv274 SNARC_only CD 3 num_separator 0.960763931274
+icv274 SNARC_only CD 7 num_separator 0.423827886581
+icv274 SNARC_only CD 3 num_separator 0.652298927307
+icv274 SNARC_only CD 7 num_separator 0.531337976456
+icv274 SNARC_only CD 5 num_separator 0.659682035446
+icv274 SNARC_only CD 1 num_separator 0.616030931473
+icv274 SNARC_only CD 4 lctrl 0.567089080811
+icv274 SNARC_only CD 9 num_separator 0.490755081177
+icv274 SNARC_only CD 6 num_separator 0.575093984604
+icv274 SNARC_only CD 2 lctrl 0.421339988708
+icv274 SNARC_only CD 3 num_separator 0.572299003601
+icv274 SNARC_only CD 3 num_separator 0.457319974899
+icv274 SNARC_only CD 5 num_separator 0.497574090958
+icv274 SNARC_only CD 7 num_separator 0.491354942322
+icv274 SNARC_only CD 8 lctrl 0.498342990875
+icv274 SNARC_only CD 7 num_separator 0.350603818893
+icv274 SNARC_only CD 2 lctrl 0.452029943466
+icv274 SNARC_only CD 7 num_separator 0.376220941544
+icv274 SNARC_only CD 1 num_separator 0.461079835892
+icv274 SNARC_only CD 4 lctrl 0.462604045868
+icv274 SNARC_only CD 3 num_separator 0.541700839996
+icv274 SNARC_only CD 2 lctrl 0.459908008575
+icv274 SNARC_only CD 6 lctrl 0.500155925751
+icv274 SNARC_only CD 6 lctrl 0.451677083969
+icv274 SNARC_only CD 9 num_separator 0.453248023987
+icv274 SNARC_only CD 6 lctrl 0.45481300354
+icv274 SNARC_only CD 3 num_separator 0.456348896027
+icv274 SNARC_only CD 2 lctrl 0.419246912003
+icv274 SNARC_only CD 6 lctrl 0.570166826248
+icv274 SNARC_only CD 1 num_separator 0.648663043976
+icv274 SNARC_only CD 4 lctrl 0.450314998627
+icv274 SNARC_only CD 2 lctrl 0.296939849854
+icv274 SNARC_only CD 7 num_separator 0.465146780014
+icv274 SNARC_only CD 1 lctrl 0.566168069839
+icv274 SNARC_only CD 9 num_separator 0.567220926285
+icv274 SNARC_only CD 1 num_separator 0.413444042206
+icv274 SNARC_only CD 4 lctrl 0.606698036194
+icv274 SNARC_only CD 5 num_separator 0.497036933899
+icv274 SNARC_only CD 8 lctrl 0.426689863205
+icv274 SNARC_only CD 7 num_separator 0.34538602829
+icv274 SNARC_only CD 5 num_separator 0.579668045044
+icv274 SNARC_only CD 4 lctrl 0.464622020721
+icv274 SNARC_only CD 6 lctrl 0.504777908325
+icv274 SNARC_only CD 5 num_separator 0.456301212311
+icv274 SNARC_only CD 1 num_separator 0.535253047943
+icv274 SNARC_only CD 3 num_separator 0.569552898407
+icv274 SNARC_only CD 9 num_separator 0.647919893265
+icv274 SNARC_only CD 4 lctrl 0.504962205887
+icv274 SNARC_only CD 2 lctrl 0.727272987366
+icv274 SNARC_only CD 3 num_separator 0.500904083252
+icv274 SNARC_only CD 8 lctrl 0.447841882706
+icv274 SNARC_only CD 4 lctrl 0.422688961029
+icv274 SNARC_only CD 8 lctrl 0.49612903595
+icv274 SNARC_only CD 4 lctrl 0.541707992554
+icv274 SNARC_only CD 4 lctrl 0.537306070328
+icv274 SNARC_only CD 8 lctrl 0.494118928909
+icv274 SNARC_only CD 6 lctrl 0.423690795898
+icv274 SNARC_only CD 1 num_separator 0.458508014679
+icv274 SNARC_only CD 1 num_separator 0.382647037506
+icv274 SNARC_only CD 2 lctrl 0.566905021667
+icv274 SNARC_only CD 7 num_separator 0.41314291954
+icv274 SNARC_only CD 7 num_separator 0.412856817245
+icv274 SNARC_only CD 7 num_separator 0.528667926788
+icv274 SNARC_only CD 8 lctrl 0.463489770889
+icv274 SNARC_only CD 3 num_separator 0.697160959244
+icv274 SNARC_only CD 2 lctrl 0.504212856293
+icv274 SNARC_only CD 5 num_separator 0.442544937134
+icv274 SNARC_only CD 1 num_separator 0.49938583374
+icv274 SNARC_only CD 3 num_separator 0.528397083282
+icv274 SNARC_only CD 3 num_separator 0.424512147903
+icv274 SNARC_only CD 5 num_separator 0.575396060944
+icv274 SNARC_only CD 2 lctrl 0.44716501236
+icv274 SNARC_only CD 2 lctrl 0.387929916382
+icv274 SNARC_only CD 6 lctrl 0.378622055054
+icv274 SNARC_only CD 6 lctrl 0.463480949402
+icv274 SNARC_only CD 6 lctrl 0.426146030426
+icv274 SNARC_only CD 7 num_separator 0.577059984207
+icv274 SNARC_only CD 2 lctrl 0.423236846924
+icv274 SNARC_only CD 8 lctrl 0.57422709465
+icv274 SNARC_only CD 1 num_separator 0.458980083466
+icv274 SNARC_only CD 9 num_separator 0.563449859619
+icv274 SNARC_only CD 3 num_separator 0.813210010529
+icv274 SNARC_only CD 7 num_separator 0.426167011261
+icv274 SNARC_only CD 5 num_separator 0.409216880798
+icv274 SNARC_only CD 2 lctrl 0.718308925629
+icv274 SNARC_only CD 1 num_separator 0.53062582016
+icv274 SNARC_only CD 7 num_separator 0.465487003326
+icv274 SNARC_only CD 1 num_separator 0.462785005569
+icv274 SNARC_only CD 6 lctrl 0.425658941269
+icv274 SNARC_only CD 4 lctrl 0.383107185364
+icv274 SNARC_only CD 9 num_separator 0.562706947327
+icv274 SNARC_only CD 7 num_separator 0.464193820953
+icv274 SNARC_only CD 5 num_separator 0.465854167938
+icv274 SNARC_only CD 7 num_separator 0.45063996315
+icv274 SNARC_only CD 8 lctrl 0.568166017532
+icv274 SNARC_only CD 1 num_separator 0.45313501358
+icv274 SNARC_only CD 6 lctrl 0.570665121078
+icv274 SNARC_only CD 1 num_separator 0.378097057343
+icv274 SNARC_only CD 8 lctrl 0.462877035141
+icv274 SNARC_only CD 9 num_separator 0.425704956055
+icv274 SNARC_only CD 3 num_separator 0.537909984589
+icv274 SNARC_only CD 7 num_separator 0.340105056763
+icv274 SNARC_only CD 8 lctrl 0.535448789597
+icv274 SNARC_only CD 8 lctrl 0.453649044037
+icv274 SNARC_only CD 8 lctrl 0.416395902634
+icv274 SNARC_only CD 3 num_separator 0.52854013443
+icv274 SNARC_only CD 5 num_separator 0.424703836441
+icv274 SNARC_only CD 3 num_separator 0.420782089233
+icv274 SNARC_only CD 9 num_separator 0.455627918243
+icv274 SNARC_only CD 2 lctrl 0.340987920761
+icv274 SNARC_only CD 9 num_separator 0.497866153717
+icv274 SNARC_only CD 5 num_separator 0.388576984406
+icv274 SNARC_only CD 9 num_separator 0.340584993362
+icv274 SNARC_only CD 4 lctrl 0.536069154739
+icv274 SNARC_only CD 2 lctrl 0.338129997253
+icv274 SNARC_only CD 4 lctrl 0.494960069656
+icv274 SNARC_only CD 9 num_separator 0.540465831757
+icv274 SNARC_only CD 9 num_separator 0.536022901535
+icv274 SNARC_only CD 1 num_separator 0.634546041489
+icv274 SNARC_only CD 2 lctrl 0.684986829758
+icv274 SNARC_only CD 4 lctrl 0.448529005051
+icv274 SNARC_only CD 5 num_separator 0.372634887695
+icv274 SNARC_only CD 1 num_separator 1.38592600822
+icv274 SNARC_only CD 2 lctrl 0.880003929138
+icv274 SNARC_only CD 8 lctrl 0.387821912766
+icv274 SNARC_only CD 6 lctrl 0.494302034378
+icv274 SNARC_only CD 7 num_separator 1.04280400276
+icv274 SNARC_only CD 2 lctrl 0.770743846893
+icv274 SNARC_only CD 6 lctrl 0.416960000992
+icv274 SNARC_only CD 1 num_separator 0.412982940674
+icv274 SNARC_only CD 9 lctrl 0.421190023422
+icv274 SNARC_only CD 5 num_separator 0.494657993317
+icv274 SNARC_only CD 1 num_separator 0.46280002594
+icv274 SNARC_only CD 8 lctrl 0.541586875916
+icv274 SNARC_only CD 8 num_separator 0.571200847626
+icv274 SNARC_only CD 2 lctrl 0.68815779686
+icv274 SNARC_only CD 6 lctrl 0.64519405365
+icv274 SNARC_only CD 4 lctrl 0.540973901749
+icv274 SNARC_only CD 7 num_separator 0.613635063171
+icv274 SNARC_only CD 4 lctrl 0.460568904877
+icv274 SNARC_only CD 6 num_separator 0.384637117386
+icv274 SNARC_only CD 2 lctrl 0.37538599968
+icv274 SNARC_only CD 2 lctrl 0.300732851028
+icv274 SNARC_only CD 8 lctrl 0.336106061935
+icv274 SNARC_only CD 3 num_separator 0.531581163406
+icv274 SNARC_only CD 9 lctrl 0.427718877792
+icv274 SNARC_only CD 4 lctrl 0.617316007614
+icv274 SNARC_only CD 1 num_separator 0.568112134933
+icv274 SNARC_only CD 7 num_separator 0.491647005081
+icv274 SNARC_only CD 9 num_separator 0.498543977737
+icv274 SNARC_only CD 5 num_separator 0.527335166931
+icv274 SNARC_only CD 8 lctrl 0.500885009766
+icv274 SNARC_only CD 4 lctrl 0.645773887634
+icv274 SNARC_only CD 9 num_separator 0.657338142395
+icv274 SNARC_only CD 5 num_separator 1.0779299736
+icv274 SNARC_only CD 4 lctrl 0.540355205536
+icv274 SNARC_only CD 5 num_separator 0.53582906723
+icv274 SNARC_only CD 8 lctrl 0.518409013748
+icv274 SNARC_only CD 9 num_separator 0.452995061874
+icv274 SNARC_only CD 9 num_separator 0.531902074814
+icv274 SNARC_only CD 6 lctrl 0.527383089066
+icv274 SNARC_only CD 9 num_separator 0.578279972076
+icv274 SNARC_only CD 1 num_separator 0.501861095428
+icv274 SNARC_only CD 7 num_separator 0.492017030716
+icv274 SNARC_only CD 2 lctrl 0.692412853241
+icv274 SNARC_only CD 9 num_separator 0.499227046967
+icv274 SNARC_only CD 3 num_separator 0.876374006271
+icv274 SNARC_only CD 7 num_separator 0.848164796829
+icv274 SNARC_only CD 9 num_separator 1.08545184135
+icv274 SNARC_only CD 3 num_separator 1.49845314026
+icv274 SNARC_only CD 2 lctrl 0.72113609314
+icv274 SNARC_only CD 2 lctrl 0.722227096558
+icv274 SNARC_only CD 7 num_separator 0.611863851547
+icv274 SNARC_only CD 3 num_separator 0.502184152603
+icv274 SNARC_only CD 4 lctrl 0.879191160202
+icv274 SNARC_only CD 6 lctrl 0.348026037216
+icv274 SNARC_only CD 6 lctrl 0.388864994049
+icv274 SNARC_only CD 2 lctrl 0.37940788269
+icv274 SNARC_only CD 6 lctrl 0.348246097565
+icv274 SNARC_only CD 6 lctrl 0.427436828613
+icv274 SNARC_only CD 3 num_separator 0.384874105453
+icv274 SNARC_only CD 7 num_separator 0.336937904358
+icv274 SNARC_only CD 4 lctrl 0.493844032288
+icv274 SNARC_only CD 9 num_separator 0.500576019287
+icv274 SNARC_only CD 3 num_separator 0.684211015701
+icv274 SNARC_only CD 1 num_separator 1.34233093262
+icv274 SNARC_only CD 3 num_separator 0.49937081337
+icv274 SNARC_only CD 9 num_separator 1.18595504761
+icv274 SNARC_only CD 6 lctrl 2.15660810471
+icv274 SNARC_only CD 8 lctrl 0.41997885704
+icv274 SNARC_only CD 9 num_separator 0.802902936935
+icv274 SNARC_only CD 9 num_separator 0.454552173615
+icv274 SNARC_only CD 5 num_separator 0.45588517189
+icv274 SNARC_only CD 2 lctrl 0.418653011322
+icv274 SNARC_only CD 4 lctrl 0.526125907898
+icv274 SNARC_only CD 9 num_separator 0.422196149826
+icv274 SNARC_only CD 7 num_separator 0.482569932938
+icv274 SNARC_only CD 1 num_separator 0.56674695015

@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1306', 'task': u'line', 'participant': u'luluka', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+luluka SNARC line arabic CD 0 up 6 lctrl 1.84654402733
+luluka SNARC line arabic CD 0 up 5 lctrl 0.583561897278
+luluka SNARC line arabic CD 0 down 3 num_delete 0.471544981003
+luluka SNARC line arabic CD 0 down 8 num_delete 0.311346054077
+luluka SNARC line arabic CD 0 up 4 lctrl 0.376301050186
+luluka SNARC line arabic CD 0 down 6 num_delete 0.417011022568
+luluka SNARC line arabic CD 0 up 1 num_delete 0.4966609478
+luluka SNARC line arabic CD 0 up 7 num_delete 0.800216197968
+luluka SNARC line arabic CD 0 down 8 num_delete 0.944135904312
+luluka SNARC line arabic CD 0 up 4 lctrl 1.47288918495
+luluka SNARC line arabic CD 0 down 7 num_delete 0.488662004471
+luluka SNARC line arabic CD 0 up 3 lctrl 0.80114197731
+luluka SNARC line arabic CD 0 up 8 lctrl 0.712958812714
+luluka SNARC line arabic CD 0 up 2 lctrl 0.456362009048
+luluka SNARC line arabic CD 0 up 4 lctrl 0.433236837387
+luluka SNARC line arabic CD 0 up 6 lctrl 0.416960954666
+luluka SNARC line arabic CD 0 down 5 num_delete 0.447702884674
+luluka SNARC line arabic CD 0 down 2 num_delete 0.720217943192
+luluka SNARC line arabic CD 0 up 5 lctrl 0.560250043869
+luluka SNARC line arabic CD 0 up 2 lctrl 0.665036916733
+luluka SNARC line arabic CD 0 down 2 num_delete 0.472761154175
+luluka SNARC line arabic CD 0 up 9 lctrl 0.512102127075
+luluka SNARC line arabic CD 0 up 5 lctrl 0.448527812958
+luluka SNARC line arabic CD 0 down 1 num_delete 0.456207990646
+luluka SNARC line arabic CD 0 up 2 lctrl 0.552484035492
+luluka SNARC line arabic CD 0 down 2 num_delete 0.488533973694
+luluka SNARC line arabic CD 0 down 3 lctrl 0.865476846695
+luluka SNARC line arabic CD 0 down 9 num_delete 0.575288057327
+luluka SNARC line arabic CD 0 up 7 lctrl 0.440623998642
+luluka SNARC line arabic CD 0 up 8 lctrl 0.400593042374
+luluka SNARC line arabic CD 0 up 2 lctrl 0.393148899078
+luluka SNARC line arabic CD 0 down 9 num_delete 0.471618175507
+luluka SNARC line arabic CD 0 down 7 num_delete 0.409309864044
+luluka SNARC line arabic CD 0 up 4 lctrl 0.480288028717
+luluka SNARC line arabic CD 0 down 3 num_delete 0.567694187164
+luluka SNARC line arabic CD 0 up 7 lctrl 0.465803146362
+luluka SNARC line arabic CD 0 down 5 num_delete 0.616034984589
+luluka SNARC line arabic CD 0 down 8 num_delete 0.376739025116
+luluka SNARC line arabic CD 0 up 3 lctrl 0.352789878845
+luluka SNARC line arabic CD 0 down 3 num_delete 0.505119085312
+luluka SNARC line arabic CD 0 up 6 lctrl 0.465461015701
+luluka SNARC line arabic CD 0 up 5 lctrl 0.559976816177
+luluka SNARC line arabic CD 0 up 8 lctrl 0.480244874954
+luluka SNARC line arabic CD 0 up 2 lctrl 0.384331941605
+luluka SNARC line arabic CD 0 down 9 num_delete 0.399823188782
+luluka SNARC line arabic CD 0 up 2 num_delete 0.313155174255
+luluka SNARC line arabic CD 0 down 9 num_delete 0.400372028351
+luluka SNARC line arabic CD 0 up 1 lctrl 0.521144866943
+luluka SNARC line arabic CD 0 up 7 lctrl 0.520509958267
+luluka SNARC line arabic CD 0 down 5 num_delete 0.592171907425
+luluka SNARC line arabic CD 0 down 4 num_delete 0.344969987869
+luluka SNARC line arabic CD 0 up 4 lctrl 0.352490901947
+luluka SNARC line arabic CD 0 down 1 num_delete 0.544610023499
+luluka SNARC line arabic CD 0 up 2 lctrl 0.625335931778
+luluka SNARC line arabic CD 0 up 4 lctrl 0.745339155197
+luluka SNARC line arabic CD 0 down 8 num_delete 0.464758872986
+luluka SNARC line arabic CD 0 down 2 num_delete 0.441250085831
+luluka SNARC line arabic CD 0 down 1 num_delete 0.440062046051
+luluka SNARC line arabic CD 0 up 6 lctrl 0.31369304657
+luluka SNARC line arabic CD 0 down 9 num_delete 0.463883876801
+luluka SNARC line arabic CD 0 up 5 lctrl 0.464645862579
+luluka SNARC line arabic CD 0 up 2 num_delete 0.496048927307
+luluka SNARC line arabic CD 0 up 7 lctrl 0.480420827866
+luluka SNARC line arabic CD 0 up 9 lctrl 0.336607933044
+luluka SNARC line arabic CD 0 down 6 num_delete 0.424162864685
+luluka SNARC line arabic CD 0 up 6 lctrl 0.432709932327
+luluka SNARC line arabic CD 0 down 5 num_delete 0.823801040649
+luluka SNARC line arabic CD 0 up 5 lctrl 0.729416847229
+luluka SNARC line arabic CD 0 down 6 num_delete 0.416759967804
+luluka SNARC line arabic CD 0 up 6 lctrl 0.478049039841
+luluka SNARC line arabic CD 0 down 1 num_delete 0.463103055954
+luluka SNARC line arabic CD 0 down 4 num_delete 0.400753974915
+luluka SNARC line arabic CD 0 up 2 lctrl 0.313365936279
+luluka SNARC line arabic CD 0 down 7 num_delete 0.904711961746
+luluka SNARC line arabic CD 0 up 5 lctrl 0.376657962799
+luluka SNARC line arabic CD 0 up 6 lctrl 0.409353971481
+luluka SNARC line arabic CD 0 down 6 num_delete 0.624019861221
+luluka SNARC line arabic CD 0 up 7 lctrl 0.793416023254
+luluka SNARC line arabic CD 0 down 7 num_delete 0.45551109314
+luluka SNARC line arabic CD 0 up 8 lctrl 0.625951051712
+luluka SNARC line arabic CD 0 up 7 lctrl 0.456639051437
+luluka SNARC line arabic CD 0 down 4 num_delete 0.31970000267
+luluka SNARC line arabic CD 0 down 2 num_delete 0.472456932068
+luluka SNARC line arabic CD 0 down 7 num_delete 0.42392706871
+luluka SNARC line arabic CD 0 down 4 num_delete 0.345790863037
+luluka SNARC line arabic CD 0 down 8 num_delete 0.633231163025
+luluka SNARC line arabic CD 0 down 1 num_delete 0.368510961533
+luluka SNARC line arabic CD 0 up 4 lctrl 0.520920038223
+luluka SNARC line arabic CD 0 down 5 lctrl 0.377607107162
+luluka SNARC line arabic CD 0 down 7 num_delete 0.439825057983
+luluka SNARC line arabic CD 0 down 2 num_delete 0.408846855164
+luluka SNARC line arabic CD 0 down 3 num_delete 0.41688990593
+luluka SNARC line arabic CD 0 down 3 num_delete 0.401113033295
+luluka SNARC line arabic CD 0 down 3 num_delete 1.01653313637
+luluka SNARC line arabic CD 0 down 9 num_delete 0.464787960052
+luluka SNARC line arabic CD 0 down 3 num_delete 0.392422914505
+luluka SNARC line arabic CD 0 up 8 lctrl 0.457390069962
+luluka SNARC line arabic CD 0 up 2 lctrl 0.616869926453
+luluka SNARC line arabic CD 0 down 1 lctrl 0.456835985184
+luluka SNARC line arabic CD 0 up 9 lctrl 0.328239202499
+luluka SNARC line arabic CD 0 up 2 lctrl 0.425374984741
+luluka SNARC line arabic CD 0 down 5 num_delete 0.344681978226
+luluka SNARC line arabic CD 0 down 8 num_delete 0.361268043518
+luluka SNARC line arabic CD 0 up 1 lctrl 0.449501991272
+luluka SNARC line arabic CD 0 up 7 lctrl 0.640308141708
+luluka SNARC line arabic CD 0 down 6 num_delete 0.455393075943
+luluka SNARC line arabic CD 0 down 1 num_delete 0.496591091156
+luluka SNARC line arabic CD 0 down 9 num_delete 0.368349075317
+luluka SNARC line arabic CD 0 down 3 num_delete 0.328777074814
+luluka SNARC line arabic CD 0 up 8 lctrl 0.457399845123
+luluka SNARC line arabic CD 0 up 7 lctrl 0.424783945084
+luluka SNARC line arabic CD 0 down 8 num_delete 0.440197944641
+luluka SNARC line arabic CD 0 down 6 num_delete 0.976491928101
+luluka SNARC line arabic CD 0 up 9 lctrl 0.393243074417
+luluka SNARC line arabic CD 0 down 5 num_delete 0.519885063171
+luluka SNARC line arabic CD 0 up 8 lctrl 0.439934968948
+luluka SNARC line arabic CD 0 down 8 lctrl 0.385124206543
+luluka SNARC line arabic CD 0 down 5 num_delete 0.471987009048
+luluka SNARC line arabic CD 0 up 8 lctrl 0.361390113831
+luluka SNARC line arabic CD 0 up 7 lctrl 0.528271913528
+luluka SNARC line arabic CD 0 down 2 num_delete 0.473052978516
+luluka SNARC line arabic CD 0 up 5 lctrl 0.919850111008
+luluka SNARC line arabic CD 0 down 2 num_delete 0.640779972076
+luluka SNARC line arabic CD 0 down 6 num_delete 0.456587076187
+luluka SNARC line arabic CD 0 down 3 num_delete 0.377346038818
+luluka SNARC line arabic CD 0 up 1 lctrl 0.408467054367
+luluka SNARC line arabic CD 0 up 5 lctrl 0.44845199585
+luluka SNARC line arabic CD 0 up 5 lctrl 0.530044078827
+luluka SNARC line arabic CD 0 down 2 num_delete 0.400041818619
+luluka SNARC line arabic CD 0 down 9 num_delete 0.456117868423
+luluka SNARC line arabic CD 0 down 8 num_delete 0.335981845856
+luluka SNARC line arabic CD 0 down 4 num_delete 0.359660148621
+luluka SNARC line arabic CD 0 up 1 lctrl 0.344227075577
+luluka SNARC line arabic CD 0 up 2 lctrl 1.04089403152
+luluka SNARC line arabic CD 0 up 4 lctrl 0.409059047699
+luluka SNARC line arabic CD 0 up 5 lctrl 0.424681901932
+luluka SNARC line arabic CD 0 up 5 lctrl 0.344213008881
+luluka SNARC line arabic CD 0 up 4 lctrl 0.375042915344
+luluka SNARC line arabic CD 0 down 3 num_delete 0.392329931259
+luluka SNARC line arabic CD 0 up 8 lctrl 0.359994888306
+luluka SNARC line arabic CD 0 down 1 num_delete 0.536031961441
+luluka SNARC line arabic CD 0 up 5 lctrl 0.473253965378
+luluka SNARC line arabic CD 0 down 7 num_delete 0.392317056656
+luluka SNARC line arabic CD 0 down 7 lctrl 0.64101600647
+luluka SNARC line arabic CD 0 down 9 num_delete 0.503065824509
+luluka SNARC line arabic CD 0 down 1 lctrl 0.416810035706
+luluka SNARC line arabic CD 0 down 7 num_delete 0.399546861649
+luluka SNARC line arabic CD 0 down 8 num_delete 0.408861875534
+luluka SNARC line arabic CD 0 up 2 lctrl 0.642024040222
+luluka SNARC line arabic CD 0 up 2 num_delete 0.727370977402
+luluka SNARC line arabic CD 0 down 1 num_delete 0.438702821732
+luluka SNARC line arabic CD 0 down 6 num_delete 0.775774002075
+luluka SNARC line arabic CD 0 up 5 lctrl 0.384939193726
+luluka SNARC line arabic CD 0 up 3 lctrl 0.993246078491
+luluka SNARC line arabic CD 0 up 4 lctrl 0.464951038361
+luluka SNARC line arabic CD 0 down 2 num_delete 1.14393997192
+luluka SNARC line arabic CD 0 up 3 lctrl 0.433571100235
+luluka SNARC line arabic CD 0 down 3 lctrl 0.336454868317
+luluka SNARC line arabic CD 0 up 1 lctrl 0.352483987808
+luluka SNARC line arabic CD 0 down 8 num_delete 0.479230165482
+luluka SNARC line arabic CD 0 down 8 num_delete 0.351934194565
+luluka SNARC line arabic CD 0 up 8 lctrl 0.401574134827
+luluka SNARC line arabic CD 0 down 4 lctrl 1.21684217453
+luluka SNARC line arabic CD 0 up 9 lctrl 0.680432796478
+luluka SNARC line arabic CD 0 down 9 lctrl 0.577099084854
+luluka SNARC line arabic CD 0 up 6 lctrl 0.560446977615
+luluka SNARC line arabic CD 0 down 8 num_delete 0.431955099106
+luluka SNARC line arabic CD 0 up 3 lctrl 0.536907911301
+luluka SNARC line arabic CD 0 up 6 lctrl 0.408340930939
+luluka SNARC line arabic CD 0 down 4 num_delete 0.432332038879
+luluka SNARC line arabic CD 0 down 3 num_delete 0.560338020325
+luluka SNARC line arabic CD 0 up 8 lctrl 0.312834024429
+luluka SNARC line arabic CD 0 down 7 num_delete 0.927394151688
+luluka SNARC line arabic CD 0 up 1 lctrl 0.544402122498
+luluka SNARC line arabic CD 0 up 4 lctrl 0.712324857712
+luluka SNARC line arabic CD 0 up 1 lctrl 0.648218870163
+luluka SNARC line arabic CD 0 down 2 num_delete 0.590680837631
+luluka SNARC line arabic CD 0 down 1 num_delete 0.574797868729
+luluka SNARC line arabic CD 0 down 4 lctrl 0.776974916458
+luluka SNARC line arabic CD 0 up 9 lctrl 0.464334011078
+luluka SNARC line arabic CD 0 down 9 lctrl 0.374810934067
+luluka SNARC line arabic CD 0 up 5 lctrl 0.551826953888
+luluka SNARC line arabic CD 0 down 3 num_delete 0.448184013367
+luluka SNARC line arabic CD 0 up 4 lctrl 0.400914907455
+luluka SNARC line arabic CD 0 up 1 lctrl 0.465125799179
+luluka SNARC line arabic CD 0 up 9 lctrl 0.42517209053
+luluka SNARC line arabic CD 0 up 2 lctrl 0.392603874207
+luluka SNARC line arabic CD 0 down 8 num_delete 0.408994913101
+luluka SNARC line arabic CD 0 up 3 lctrl 0.489644050598
+luluka SNARC line arabic CD 0 down 9 num_delete 0.696580886841
+luluka SNARC line arabic CD 0 down 3 num_delete 0.688569068909
+luluka SNARC line arabic CD 0 down 6 num_delete 0.448533058167
+luluka SNARC line arabic CD 0 down 4 num_delete 0.432124853134
+luluka SNARC line arabic CD 0 up 5 lctrl 0.361482858658
+luluka SNARC line arabic CD 0 up 2 lctrl 0.952204942703
+luluka SNARC line arabic CD 0 down 4 num_delete 0.352365016937
+luluka SNARC line arabic CD 0 down 9 num_delete 0.504713058472
+luluka SNARC line arabic CD 0 up 1 lctrl 0.393566131592
+luluka SNARC line arabic CD 0 down 7 num_delete 0.576488018036
+luluka SNARC line arabic CD 0 down 3 lctrl 0.770347118378
+luluka SNARC line arabic CD 0 up 4 lctrl 0.327831029892
+luluka SNARC line arabic CD 0 down 7 num_delete 0.512293100357
+luluka SNARC line arabic CD 0 up 6 lctrl 0.61692905426
+luluka SNARC line arabic CD 0 down 8 lctrl 0.680729866028
+luluka SNARC line arabic CD 0 up 3 lctrl 0.383733987808
+luluka SNARC line arabic CD 0 down 7 num_delete 0.440490007401
+luluka SNARC line arabic CD 0 down 8 num_delete 0.392444849014
+luluka SNARC line arabic CD 0 down 9 num_delete 0.360495090485
+luluka SNARC line arabic CD 0 down 4 num_delete 0.449083089828
+luluka SNARC line arabic CD 0 down 3 lctrl 0.249620914459
+luluka SNARC line arabic CD 0 up 7 lctrl 0.336298942566
+luluka SNARC line arabic CD 0 up 6 num_delete 0.424772977829
+luluka SNARC line arabic CD 0 up 3 lctrl 0.37692117691
+luluka SNARC line arabic CD 0 up 4 lctrl 0.615571975708
+luluka SNARC line arabic CD 0 down 5 num_delete 0.384431838989
+luluka SNARC line arabic CD 0 down 9 lctrl 0.577126979828
+luluka SNARC line arabic CD 0 up 9 lctrl 0.391985177994
+luluka SNARC line arabic CD 0 down 7 num_delete 0.632107973099
+luluka SNARC line arabic CD 0 down 5 num_delete 0.336539983749
+luluka SNARC line arabic CD 0 down 5 num_delete 0.336786985397
+luluka SNARC line arabic CD 0 up 1 lctrl 0.320390939713
+luluka SNARC line arabic CD 0 up 9 lctrl 0.432975053787
+luluka SNARC line arabic CD 0 up 1 lctrl 0.367765188217
+luluka SNARC line arabic CD 0 up 2 lctrl 0.408066034317
+luluka SNARC line arabic CD 0 up 3 lctrl 0.601580858231
+luluka SNARC line arabic CD 0 up 9 lctrl 0.441232919693
+luluka SNARC line arabic CD 0 down 1 num_delete 0.456812143326
+luluka SNARC line arabic CD 0 down 4 num_delete 0.400135993958
+luluka SNARC line arabic CD 0 up 1 lctrl 0.63281083107
+luluka SNARC line arabic CD 0 up 2 lctrl 0.560635089874
+luluka SNARC line arabic CD 0 up 8 lctrl 0.52152299881
+luluka SNARC line arabic CD 0 up 3 lctrl 0.592436075211
+luluka SNARC line arabic CD 0 up 3 lctrl 0.385051012039
+luluka SNARC line arabic CD 0 up 5 lctrl 0.536192178726
+luluka SNARC line arabic CD 0 down 8 num_delete 0.489041090012
+luluka SNARC line arabic CD 0 down 6 num_delete 0.656409978867
+luluka SNARC line arabic CD 0 down 7 num_delete 0.777544975281
+luluka SNARC line arabic CD 0 down 2 num_delete 0.576714992523
+luluka SNARC line arabic CD 0 down 7 num_delete 0.441555976868
+luluka SNARC line arabic CD 0 up 9 num_delete 0.337157964706
+luluka SNARC line arabic CD 0 down 5 num_delete 0.384240865707
+luluka SNARC line arabic CD 0 up 6 lctrl 0.449658870697
+luluka SNARC line arabic CD 0 down 8 num_delete 0.616739988327
+luluka SNARC line arabic CD 0 up 3 lctrl 0.424497127533
+luluka SNARC line arabic CD 0 up 2 lctrl 0.641412973404
+luluka SNARC line arabic CD 0 down 1 num_delete 0.568480014801
+luluka SNARC line arabic CD 0 up 3 lctrl 0.71293592453
+luluka SNARC line arabic CD 0 up 4 lctrl 0.591281890869
+luluka SNARC line arabic CD 0 down 2 num_delete 0.471643924713
+luluka SNARC line arabic CD 0 down 8 num_delete 0.464004039764
+luluka SNARC line arabic CD 0 up 2 lctrl 0.617525100708
+luluka SNARC line arabic CD 0 down 6 lctrl 0.759235143661
+luluka SNARC line arabic CD 0 up 6 lctrl 0.335912942886
+luluka SNARC line arabic CD 0 down 2 num_delete 0.584608793259
+luluka SNARC line arabic CD 0 up 9 lctrl 0.40144610405
+luluka SNARC line arabic CD 0 up 4 lctrl 0.465878009796
+luluka SNARC line arabic CD 0 down 4 num_delete 0.599732875824
+luluka SNARC line arabic CD 0 down 8 num_delete 0.480917930603
+luluka SNARC line arabic CD 0 up 1 lctrl 0.472870826721
+luluka SNARC line arabic CD 0 down 4 lctrl 0.648060083389
+luluka SNARC line arabic CD 0 down 1 num_delete 0.53543305397
+luluka SNARC line arabic CD 0 up 9 lctrl 0.441082000732
+luluka SNARC line arabic CD 0 down 2 num_delete 0.551994085312
+luluka SNARC line arabic CD 0 down 1 num_delete 0.713131904602
+luluka SNARC line arabic CD 0 up 8 lctrl 0.377304077148
+luluka SNARC line arabic CD 0 down 6 num_delete 0.423712968826
+luluka SNARC line arabic CD 0 up 9 lctrl 0.465617895126
+luluka SNARC line arabic CD 0 up 2 lctrl 0.335566997528
+luluka SNARC line arabic CD 0 up 5 lctrl 0.376401185989
+luluka SNARC line arabic CD 0 up 3 lctrl 0.527642965317
+luluka SNARC line arabic CD 0 down 3 num_delete 0.432845115662
+luluka SNARC line arabic CD 0 up 9 lctrl 0.529071092606
+luluka SNARC line arabic CD 0 down 7 num_delete 0.712373018265
+luluka SNARC line arabic CD 0 down 5 num_delete 0.39221906662
+luluka SNARC line arabic CD 0 down 3 num_delete 0.377196073532
+luluka SNARC line arabic CD 0 up 3 lctrl 0.520794868469
+luluka SNARC line arabic CD 0 up 6 lctrl 0.56036901474
+luluka SNARC line arabic CD 0 down 7 num_delete 0.543751001358
+luluka SNARC line arabic CD 0 up 7 lctrl 0.544430017471
+luluka SNARC line arabic CD 0 down 5 lctrl 0.464969158173
+luluka SNARC line arabic CD 0 down 4 num_delete 0.496711969376
+luluka SNARC line arabic CD 0 up 7 lctrl 0.409743785858
+luluka SNARC line arabic CD 0 down 5 num_delete 0.703818082809
+luluka SNARC line arabic CD 0 down 6 num_delete 0.650245904922
+luluka SNARC line arabic CD 0 up 9 lctrl 0.456774950027
+luluka SNARC line arabic CD 0 up 8 lctrl 0.773621082306
+luluka SNARC line arabic CD 0 down 3 num_delete 0.568645000458
+luluka SNARC line arabic CD 0 up 6 lctrl 0.712049007416
+luluka SNARC line arabic CD 0 down 2 num_delete 0.672857999802
+luluka SNARC line arabic CD 0 up 8 lctrl 0.688922166824
+luluka SNARC line arabic CD 0 down 5 num_delete 0.728343963623
+luluka SNARC line arabic CD 0 up 4 lctrl 0.433323860168
+luluka SNARC line arabic CD 0 down 6 num_delete 1.38507294655
+luluka SNARC line arabic CD 0 up 2 lctrl 0.408615112305
+luluka SNARC line arabic CD 0 down 1 num_delete 0.560179948807
+luluka SNARC line arabic CD 0 down 7 num_delete 0.344223022461
+luluka SNARC line arabic CD 0 down 8 num_delete 0.632505893707
+luluka SNARC line arabic CD 0 down 4 num_delete 0.352921962738
+luluka SNARC line arabic CD 0 down 3 num_delete 0.441674947739
+luluka SNARC line arabic CD 0 up 4 lctrl 0.337134122849
+luluka SNARC line arabic CD 0 up 5 lctrl 0.449443101883
+luluka SNARC line arabic CD 0 down 7 num_delete 0.352951049805
+luluka SNARC line arabic CD 0 down 6 num_delete 0.384511947632
+luluka SNARC line arabic CD 0 up 4 lctrl 0.409322023392
+luluka SNARC line arabic CD 0 up 3 lctrl 0.600594997406
+luluka SNARC line arabic CD 0 up 5 lctrl 0.760429859161
+luluka SNARC line arabic CD 0 down 6 lctrl 0.392061948776
+luluka SNARC line arabic CD 0 down 8 num_delete 0.527637958527
+luluka SNARC line arabic CD 0 up 2 lctrl 0.513167858124
+luluka SNARC line arabic CD 0 up 8 num_delete 0.656394958496
+luluka SNARC line arabic CD 0 up 6 lctrl 1.26441192627
+luluka SNARC line arabic CD 0 up 4 lctrl 1.18493914604
+luluka SNARC line arabic CD 0 down 1 num_delete 0.719280004501
+luluka SNARC line arabic CD 0 up 5 lctrl 1.45605492592
+luluka SNARC line arabic CD 0 up 9 lctrl 0.505063056946
+luluka SNARC line arabic CD 0 up 8 lctrl 0.53617310524
+luluka SNARC line arabic CD 0 up 5 lctrl 0.488982200623
+luluka SNARC line arabic CD 0 down 7 num_delete 0.489094018936
+luluka SNARC line arabic CD 0 down 4 num_delete 0.432360172272
+luluka SNARC line arabic CD 0 up 1 lctrl 0.649098873138
+luluka SNARC line arabic CD 0 up 1 lctrl 0.504927873611
+luluka SNARC line arabic CD 0 down 6 num_delete 0.383927822113
+luluka SNARC line arabic CD 0 down 6 num_delete 0.344237089157
+luluka SNARC line arabic CD 0 down 5 num_delete 0.360799789429
+luluka SNARC line arabic CD 0 down 1 lctrl 0.545555830002
+luluka SNARC line arabic CD 0 up 4 lctrl 0.328326940536
+luluka SNARC line arabic CD 0 down 6 lctrl 0.640144824982
+luluka SNARC line arabic CD 0 down 7 num_delete 0.375664949417
+luluka SNARC line arabic CD 0 down 6 num_delete 0.335988998413
+luluka SNARC line arabic CD 0 down 6 num_delete 0.329088926315
+luluka SNARC line arabic CD 0 up 5 lctrl 0.456403970718
+luluka SNARC line arabic CD 0 up 9 num_delete 0.744504213333
+luluka SNARC line arabic CD 0 up 9 lctrl 0.352447986603
+luluka SNARC line arabic CD 0 up 1 lctrl 0.735822200775
+luluka SNARC line arabic CD 0 up 8 lctrl 0.511905908585
+luluka SNARC line arabic CD 0 up 3 lctrl 0.4645819664
+luluka SNARC line arabic CD 0 down 7 num_delete 0.455751180649
+luluka SNARC line arabic CD 0 down 1 num_delete 0.401100873947
+luluka SNARC line arabic CD 0 up 7 lctrl 0.4733979702
+luluka SNARC line arabic CD 0 up 6 lctrl 0.591547966003
+luluka SNARC line arabic CD 0 up 9 lctrl 0.400729894638
+luluka SNARC line arabic CD 0 up 9 lctrl 0.376164913177
+luluka SNARC line arabic CD 0 down 6 num_delete 0.376339197159
+luluka SNARC line arabic CD 0 down 9 num_delete 0.320578098297
+luluka SNARC line arabic CD 0 down 4 num_delete 0.344903945923
+luluka SNARC line arabic CD 0 up 9 lctrl 0.345938920975
+luluka SNARC line arabic CD 0 up 1 lctrl 0.369202136993
+luluka SNARC line arabic CD 0 down 6 num_delete 0.615259885788
+luluka SNARC line arabic CD 0 up 9 lctrl 0.448037147522
+luluka SNARC line arabic CD 0 up 7 lctrl 0.472265005112
+luluka SNARC line arabic CD 0 up 1 lctrl 0.552572011948
+luluka SNARC line arabic CD 0 down 3 num_delete 0.511820077896
+luluka SNARC line arabic CD 0 down 3 num_delete 0.481286048889
+luluka SNARC line arabic CD 0 down 2 num_delete 0.496747970581
+luluka SNARC line arabic CD 0 down 9 num_delete 0.368865966797
+luluka SNARC line arabic CD 0 up 4 lctrl 0.529365062714
+luluka SNARC line arabic CD 0 down 1 lctrl 0.488285779953
+luluka SNARC line arabic CD 0 down 7 num_delete 0.471657037735
+luluka SNARC line arabic CD 0 down 7 num_delete 0.384417057037
+luluka SNARC line arabic CD 0 down 1 num_delete 0.336534976959
+{'delay': u'0', 'dateStr': u'05_18_1316', 'task': u'line', 'participant': u'luluka', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+luluka SNARC line dot CD 0 down 35 num_delete 3.66294503212
+luluka SNARC line dot CD 0 up 35 lctrl 0.460724115372
+luluka SNARC line dot CD 0 down 20 num_delete 0.603815078735
+luluka SNARC line dot CD 0 up 30 lctrl 0.40860414505
+luluka SNARC line dot CD 0 down 10 num_delete 0.561877012253
+luluka SNARC line dot CD 0 down 5 num_delete 0.31267619133
+luluka SNARC line dot CD 0 down 25 num_delete 0.342815160751
+luluka SNARC line dot CD 0 up 35 lctrl 0.586237192154
+luluka SNARC line dot CD 0 up 40 lctrl 0.427649021149
+luluka SNARC line dot CD 0 down 40 num_delete 0.628900051117
+luluka SNARC line dot CD 0 down 15 num_delete 0.387487888336
+luluka SNARC line dot CD 0 down 25 num_delete 0.327164888382
+luluka SNARC line dot CD 0 up 15 lctrl 0.306612968445
+luluka SNARC line dot CD 0 down 10 num_delete 0.3858730793
+luluka SNARC line dot CD 0 down 10 num_delete 0.361984968185
+luluka SNARC line dot CD 0 up 30 lctrl 0.377974033356
+luluka SNARC line dot CD 0 down 15 num_delete 0.346698999405
+luluka SNARC line dot CD 0 down 15 num_delete 0.340142011642
+luluka SNARC line dot CD 0 up 30 lctrl 0.424205064774
+luluka SNARC line dot CD 0 down 35 lctrl 0.464797019958
+luluka SNARC line dot CD 0 down 5 num_delete 0.44917178154
+luluka SNARC line dot CD 0 down 5 num_delete 0.336998224258
+luluka SNARC line dot CD 0 down 45 num_delete 0.397525072098
+luluka SNARC line dot CD 0 down 40 num_delete 0.307020187378
+luluka SNARC line dot CD 0 down 10 num_delete 0.314121961594
+luluka SNARC line dot CD 0 down 35 num_delete 0.377082109451
+luluka SNARC line dot CD 0 down 5 num_delete 0.312490940094
+luluka SNARC line dot CD 0 down 25 num_delete 0.334836006165
+luluka SNARC line dot CD 0 down 15 num_delete 0.331629037857
+luluka SNARC line dot CD 0 down 45 num_delete 0.308241128922
+luluka SNARC line dot CD 0 up 45 lctrl 0.237469911575
+luluka SNARC line dot CD 0 up 5 lctrl 0.312618970871
+luluka SNARC line dot CD 0 up 20 lctrl 0.285126209259
+luluka SNARC line dot CD 0 down 25 lctrl 0.334672927856
+luluka SNARC line dot CD 0 down 5 num_delete 0.360155820847
+luluka SNARC line dot CD 0 down 15 num_delete 0.316184043884
+luluka SNARC line dot CD 0 up 40 lctrl 0.410665035248
+luluka SNARC line dot CD 0 down 5 num_delete 0.569441080093
+luluka SNARC line dot CD 0 up 30 lctrl 0.336462020874
+luluka SNARC line dot CD 0 down 20 lctrl 0.516915082932
+luluka SNARC line dot CD 0 down 35 num_delete 0.391684055328
+luluka SNARC line dot CD 0 up 40 lctrl 0.364572048187
+luluka SNARC line dot CD 0 down 20 num_delete 0.485621929169
+luluka SNARC line dot CD 0 down 30 num_delete 0.936661958694
+luluka SNARC line dot CD 0 up 10 lctrl 0.522572994232
+luluka SNARC line dot CD 0 down 30 num_delete 0.352051019669
+luluka SNARC line dot CD 0 down 15 num_delete 0.475457906723
+luluka SNARC line dot CD 0 down 45 num_delete 0.347877025604
+luluka SNARC line dot CD 0 down 25 num_delete 0.39891409874
+luluka SNARC line dot CD 0 down 40 num_delete 0.364007949829
+luluka SNARC line dot CD 0 down 45 num_delete 0.325583934784
+luluka SNARC line dot CD 0 up 25 lctrl 0.407829046249
+luluka SNARC line dot CD 0 up 40 lctrl 0.35505604744
+luluka SNARC line dot CD 0 up 25 num_delete 0.653957843781
+luluka SNARC line dot CD 0 down 45 num_delete 0.379045009613
+luluka SNARC line dot CD 0 down 40 num_delete 0.371785879135
+luluka SNARC line dot CD 0 up 35 lctrl 0.33698797226
+luluka SNARC line dot CD 0 up 25 lctrl 0.318727970123
+luluka SNARC line dot CD 0 up 10 lctrl 0.32958984375
+luluka SNARC line dot CD 0 up 35 lctrl 0.399726867676
+luluka SNARC line dot CD 0 down 25 num_delete 0.342408180237
+luluka SNARC line dot CD 0 up 40 lctrl 0.753608942032
+luluka SNARC line dot CD 0 down 30 num_delete 0.472291946411
+luluka SNARC line dot CD 0 down 40 num_delete 0.323609113693
+luluka SNARC line dot CD 0 down 20 num_delete 0.509602069855
+luluka SNARC line dot CD 0 up 30 num_delete 0.432194948196
+luluka SNARC line dot CD 0 down 30 num_delete 0.368627071381
+luluka SNARC line dot CD 0 up 15 lctrl 0.618635892868
+luluka SNARC line dot CD 0 down 40 num_delete 0.554134845734
+luluka SNARC line dot CD 0 up 40 lctrl 0.371123075485
+luluka SNARC line dot CD 0 down 30 num_delete 0.455596923828
+luluka SNARC line dot CD 0 down 15 num_delete 0.58793592453
+luluka SNARC line dot CD 0 up 20 lctrl 0.42978310585
+luluka SNARC line dot CD 0 down 40 num_delete 1.00353884697
+luluka SNARC line dot CD 0 down 10 num_delete 0.410663843155
+luluka SNARC line dot CD 0 down 35 num_delete 0.353740930557
+luluka SNARC line dot CD 0 up 10 lctrl 0.562301874161
+luluka SNARC line dot CD 0 down 45 num_delete 0.499145030975
+luluka SNARC line dot CD 0 up 15 lctrl 1.30927801132
+luluka SNARC line dot CD 0 down 5 num_delete 0.599214076996
+luluka SNARC line dot CD 0 up 35 lctrl 0.393810033798
+luluka SNARC line dot CD 0 up 20 num_delete 0.413531780243
+luluka SNARC line dot CD 0 down 20 num_delete 0.339887857437
+luluka SNARC line dot CD 0 up 25 lctrl 0.37503695488
+luluka SNARC line dot CD 0 down 30 num_delete 0.583266019821
+luluka SNARC line dot CD 0 up 10 lctrl 0.465888023376
+luluka SNARC line dot CD 0 down 10 num_delete 0.482342004776
+luluka SNARC line dot CD 0 down 5 num_delete 0.320572137833
+luluka SNARC line dot CD 0 down 25 num_delete 0.375215053558
+luluka SNARC line dot CD 0 up 20 lctrl 0.39826798439
+luluka SNARC line dot CD 0 up 30 lctrl 0.744046926498
+luluka SNARC line dot CD 0 up 25 lctrl 0.469918966293
+luluka SNARC line dot CD 0 down 5 num_delete 0.384159088135
+luluka SNARC line dot CD 0 down 20 num_delete 1.56575393677
+luluka SNARC line dot CD 0 up 45 lctrl 3.06872081757
+luluka SNARC line dot CD 0 up 35 lctrl 0.441790819168
+luluka SNARC line dot CD 0 up 15 lctrl 0.476444005966
+luluka SNARC line dot CD 0 down 45 lctrl 0.380815029144
+luluka SNARC line dot CD 0 down 10 num_delete 0.289179086685
+luluka SNARC line dot CD 0 down 45 num_delete 0.317306995392
+luluka SNARC line dot CD 0 up 45 lctrl 0.413423776627
+luluka SNARC line dot CD 0 down 30 lctrl 0.447772979736
+luluka SNARC line dot CD 0 up 35 lctrl 0.417255878448
+luluka SNARC line dot CD 0 up 15 lctrl 0.772027015686
+luluka SNARC line dot CD 0 down 5 num_delete 0.400156021118
+luluka SNARC line dot CD 0 down 40 num_delete 0.434321165085
+luluka SNARC line dot CD 0 down 20 num_delete 0.468373060226
+luluka SNARC line dot CD 0 down 40 num_delete 0.363662958145
+luluka SNARC line dot CD 0 down 10 num_delete 0.386004924774
+luluka SNARC line dot CD 0 down 15 num_delete 0.563530921936
+luluka SNARC line dot CD 0 up 35 lctrl 0.465559005737
+luluka SNARC line dot CD 0 down 45 num_delete 0.373109102249
+luluka SNARC line dot CD 0 down 45 num_delete 0.460935115814
+luluka SNARC line dot CD 0 up 15 lctrl 0.660584926605
+luluka SNARC line dot CD 0 up 40 lctrl 0.379853963852
+luluka SNARC line dot CD 0 up 25 lctrl 0.485800027847
+luluka SNARC line dot CD 0 down 20 num_delete 0.396851062775
+luluka SNARC line dot CD 0 down 15 num_delete 0.307775020599
+luluka SNARC line dot CD 0 up 5 lctrl 0.336285114288
+luluka SNARC line dot CD 0 down 30 num_delete 0.470618963242
+luluka SNARC line dot CD 0 down 25 num_delete 1.57458901405
+luluka SNARC line dot CD 0 up 45 lctrl 0.317305088043
+luluka SNARC line dot CD 0 up 40 lctrl 1.01959705353
+luluka SNARC line dot CD 0 up 25 lctrl 0.326820850372
+luluka SNARC line dot CD 0 up 25 lctrl 0.350486040115
+luluka SNARC line dot CD 0 down 20 num_delete 0.556624889374
+luluka SNARC line dot CD 0 down 45 num_delete 0.47734618187
+luluka SNARC line dot CD 0 up 25 lctrl 0.422878026962
+luluka SNARC line dot CD 0 up 45 lctrl 0.741329908371
+luluka SNARC line dot CD 0 down 15 num_delete 0.539800167084
+luluka SNARC line dot CD 0 down 15 num_delete 0.331640005112
+luluka SNARC line dot CD 0 up 25 lctrl 0.399173021317
+luluka SNARC line dot CD 0 down 25 num_delete 0.493943929672
+luluka SNARC line dot CD 0 up 25 lctrl 0.391681909561
+luluka SNARC line dot CD 0 up 45 lctrl 0.467571973801
+luluka SNARC line dot CD 0 down 10 num_delete 0.425565004349
+luluka SNARC line dot CD 0 down 5 num_delete 0.384079933167
+luluka SNARC line dot CD 0 down 40 num_delete 0.315773010254
+luluka SNARC line dot CD 0 up 35 lctrl 0.449183940887
+luluka SNARC line dot CD 0 down 35 num_delete 0.689136981964
+luluka SNARC line dot CD 0 down 5 num_delete 0.616091012955
+luluka SNARC line dot CD 0 up 45 lctrl 0.382533073425
+luluka SNARC line dot CD 0 down 30 lctrl 0.520203113556
+luluka SNARC line dot CD 0 down 30 num_delete 0.399039030075
+luluka SNARC line dot CD 0 down 30 num_delete 0.344218015671
+luluka SNARC line dot CD 0 up 25 lctrl 0.343394994736
+luluka SNARC line dot CD 0 down 40 num_delete 0.571142196655
+luluka SNARC line dot CD 0 up 5 lctrl 0.433085203171
+luluka SNARC line dot CD 0 up 40 lctrl 0.571453094482
+luluka SNARC line dot CD 0 down 15 num_delete 0.450705051422
+luluka SNARC line dot CD 0 down 25 num_delete 0.382085084915
+luluka SNARC line dot CD 0 up 10 lctrl 0.52353811264
+luluka SNARC line dot CD 0 up 30 lctrl 0.567758083344
+luluka SNARC line dot CD 0 up 15 lctrl 0.394932985306
+luluka SNARC line dot CD 0 down 45 num_delete 0.475863933563
+luluka SNARC line dot CD 0 down 10 num_delete 0.729370117188
+luluka SNARC line dot CD 0 down 10 num_delete 0.440726041794
+luluka SNARC line dot CD 0 up 30 lctrl 0.425254106522
+luluka SNARC line dot CD 0 up 35 lctrl 0.410505056381
+luluka SNARC line dot CD 0 down 10 num_delete 0.465671777725
+luluka SNARC line dot CD 0 up 15 lctrl 0.436367988586
+luluka SNARC line dot CD 0 up 35 lctrl 0.554297208786
+luluka SNARC line dot CD 0 down 25 num_delete 0.478382825851
+luluka SNARC line dot CD 0 up 20 lctrl 0.486294031143
+luluka SNARC line dot CD 0 down 20 num_delete 0.36444401741
+luluka SNARC line dot CD 0 down 35 num_delete 0.425770998001
+luluka SNARC line dot CD 0 up 25 lctrl 0.526932001114
+luluka SNARC line dot CD 0 up 5 lctrl 1.1444170475
+luluka SNARC line dot CD 0 down 20 num_delete 0.468579053879
+luluka SNARC line dot CD 0 down 15 num_delete 0.420310974121
+luluka SNARC line dot CD 0 down 25 num_delete 0.342893123627
+luluka SNARC line dot CD 0 up 25 lctrl 0.381605863571
+luluka SNARC line dot CD 0 down 5 num_delete 0.471659898758
+luluka SNARC line dot CD 0 down 30 num_delete 0.359580039978
+luluka SNARC line dot CD 0 up 25 lctrl 0.342912912369
+luluka SNARC line dot CD 0 down 45 num_delete 0.371799945831
+luluka SNARC line dot CD 0 down 45 num_delete 0.389378786087
+luluka SNARC line dot CD 0 up 10 lctrl 0.377653121948
+luluka SNARC line dot CD 0 down 35 num_delete 0.400905132294
+luluka SNARC line dot CD 0 down 25 num_delete 0.334166049957
+luluka SNARC line dot CD 0 down 10 num_delete 0.314765930176
+luluka SNARC line dot CD 0 up 45 lctrl 0.293728113174
+luluka SNARC line dot CD 0 down 10 num_delete 0.521587848663
+luluka SNARC line dot CD 0 up 5 lctrl 0.73733496666
+luluka SNARC line dot CD 0 down 25 num_delete 0.47030711174
+luluka SNARC line dot CD 0 up 30 lctrl 0.328540802002
+luluka SNARC line dot CD 0 up 20 lctrl 0.532739162445
+luluka SNARC line dot CD 0 down 40 num_delete 0.346934080124
+luluka SNARC line dot CD 0 up 5 lctrl 0.400597810745
+luluka SNARC line dot CD 0 up 5 lctrl 0.327988862991
+luluka SNARC line dot CD 0 down 40 num_delete 0.304468154907
+luluka SNARC line dot CD 0 down 45 num_delete 0.33260011673
+luluka SNARC line dot CD 0 up 15 lctrl 0.339370965958
+luluka SNARC line dot CD 0 down 40 num_delete 0.355579137802
+luluka SNARC line dot CD 0 down 25 num_delete 0.327162027359
+luluka SNARC line dot CD 0 up 45 lctrl 0.398315906525
+luluka SNARC line dot CD 0 up 45 lctrl 0.772089004517
+luluka SNARC line dot CD 0 down 35 num_delete 0.433794021606
+luluka SNARC line dot CD 0 down 10 num_delete 0.313678026199
+luluka SNARC line dot CD 0 up 30 lctrl 0.336157083511
+luluka SNARC line dot CD 0 up 10 lctrl 0.41771697998
+luluka SNARC line dot CD 0 up 25 lctrl 0.318614959717
+luluka SNARC line dot CD 0 up 20 lctrl 0.380927085876
+luluka SNARC line dot CD 0 up 35 lctrl 0.290521144867
+luluka SNARC line dot CD 0 up 25 lctrl 0.319225072861
+luluka SNARC line dot CD 0 down 35 num_delete 0.402055025101
+luluka SNARC line dot CD 0 up 35 lctrl 0.314872026443
+luluka SNARC line dot CD 0 up 10 lctrl 0.330142021179
+luluka SNARC line dot CD 0 up 25 lctrl 0.34921503067
+luluka SNARC line dot CD 0 down 45 num_delete 0.284515857697
+luluka SNARC line dot CD 0 down 30 num_delete 0.248625993729
+luluka SNARC line dot CD 0 down 45 num_delete 0.341809988022
+luluka SNARC line dot CD 0 down 40 num_delete 0.356690168381
+luluka SNARC line dot CD 0 up 5 lctrl 0.400015115738
+luluka SNARC line dot CD 0 down 5 num_delete 0.367355823517
+luluka SNARC line dot CD 0 up 45 lctrl 0.356340885162
+luluka SNARC line dot CD 0 down 5 lctrl 0.336894989014
+luluka SNARC line dot CD 0 up 35 lctrl 0.297308921814
+luluka SNARC line dot CD 0 down 20 num_delete 0.325088024139
+luluka SNARC line dot CD 0 down 35 num_delete 0.290114879608
+luluka SNARC line dot CD 0 down 40 num_delete 0.363052845001
+luluka SNARC line dot CD 0 up 30 lctrl 0.216965913773
+luluka SNARC line dot CD 0 down 45 num_delete 0.467024087906
+luluka SNARC line dot CD 0 down 20 num_delete 0.74875497818
+luluka SNARC line dot CD 0 up 35 lctrl 0.386838912964
+luluka SNARC line dot CD 0 up 15 lctrl 0.404503107071
+luluka SNARC line dot CD 0 up 5 lctrl 0.375735998154
+luluka SNARC line dot CD 0 up 15 lctrl 0.420377969742
+luluka SNARC line dot CD 0 down 25 num_delete 0.261368989944
+luluka SNARC line dot CD 0 down 45 num_delete 0.332895994186
+luluka SNARC line dot CD 0 up 25 lctrl 0.326741933823
+luluka SNARC line dot CD 0 up 30 lctrl 0.456312894821
+luluka SNARC line dot CD 0 up 40 lctrl 0.316066026688
+luluka SNARC line dot CD 0 down 30 num_delete 0.456377029419
+luluka SNARC line dot CD 0 down 15 num_delete 0.291777849197
+luluka SNARC line dot CD 0 down 15 num_delete 0.331698894501
+luluka SNARC line dot CD 0 up 35 lctrl 0.434331178665
+luluka SNARC line dot CD 0 up 20 lctrl 0.836120843887
+luluka SNARC line dot CD 0 up 25 lctrl 0.456217050552
+luluka SNARC line dot CD 0 down 5 num_delete 0.399322032928
+luluka SNARC line dot CD 0 down 35 num_delete 0.321398019791
+luluka SNARC line dot CD 0 up 30 num_delete 0.352744817734
+luluka SNARC line dot CD 0 up 30 lctrl 0.351733922958
+luluka SNARC line dot CD 0 down 20 num_delete 0.316431999207
+luluka SNARC line dot CD 0 up 30 lctrl 0.415615797043
+luluka SNARC line dot CD 0 down 40 num_delete 0.523077011108
+luluka SNARC line dot CD 0 down 5 num_delete 0.304712057114
+luluka SNARC line dot CD 0 down 20 num_delete 0.268906116486
+luluka SNARC line dot CD 0 up 5 lctrl 0.417506217957
+luluka SNARC line dot CD 0 up 30 lctrl 0.415258169174
+luluka SNARC line dot CD 0 down 35 num_delete 0.593410968781
+luluka SNARC line dot CD 0 down 5 num_delete 0.360719919205
+luluka SNARC line dot CD 0 down 35 num_delete 0.345383882523
+luluka SNARC line dot CD 0 down 45 num_delete 0.276574134827
+luluka SNARC line dot CD 0 up 30 lctrl 0.399041891098
+luluka SNARC line dot CD 0 down 20 num_delete 0.436836957932
+luluka SNARC line dot CD 0 down 5 num_delete 0.288949012756
+luluka SNARC line dot CD 0 down 5 num_delete 0.312385797501
+luluka SNARC line dot CD 0 down 5 num_delete 0.160485982895
+luluka SNARC line dot CD 0 down 5 num_delete 0.384875059128
+luluka SNARC line dot CD 0 down 20 num_delete 0.268861055374
+luluka SNARC line dot CD 0 down 35 num_delete 0.314291000366
+luluka SNARC line dot CD 0 up 35 lctrl 0.39346909523
+luluka SNARC line dot CD 0 up 45 lctrl 0.468897104263
+luluka SNARC line dot CD 0 down 30 num_delete 0.47919011116
+luluka SNARC line dot CD 0 down 20 num_delete 0.172800064087
+luluka SNARC line dot CD 0 up 25 lctrl 0.407346010208
+luluka SNARC line dot CD 0 down 40 num_delete 0.395071983337
+luluka SNARC line dot CD 0 down 15 num_delete 0.347181797028
+luluka SNARC line dot CD 0 down 20 num_delete 0.29369187355
+luluka SNARC line dot CD 0 down 45 num_delete 0.316541910172
+luluka SNARC line dot CD 0 up 10 lctrl 0.338113069534
+luluka SNARC line dot CD 0 up 10 lctrl 0.346256971359
+luluka SNARC line dot CD 0 down 40 num_delete 0.314435005188
+luluka SNARC line dot CD 0 down 20 num_delete 0.277851104736
+luluka SNARC line dot CD 0 down 45 num_delete 0.684203863144
+luluka SNARC line dot CD 0 up 20 lctrl 0.405156135559
+luluka SNARC line dot CD 0 up 15 lctrl 0.372215032578
+luluka SNARC line dot CD 0 down 20 num_delete 0.38014793396
+luluka SNARC line dot CD 0 up 5 lctrl 0.361130952835
+luluka SNARC line dot CD 0 down 10 num_delete 0.328402042389
+luluka SNARC line dot CD 0 down 15 num_delete 0.355621814728
+luluka SNARC line dot CD 0 up 15 lctrl 0.403336048126
+luluka SNARC line dot CD 0 down 40 num_delete 0.387822151184
+luluka SNARC line dot CD 0 up 10 lctrl 0.353410959244
+luluka SNARC line dot CD 0 up 5 num_delete 0.248086214066
+luluka SNARC line dot CD 0 up 10 lctrl 0.353679180145
+luluka SNARC line dot CD 0 down 45 num_delete 0.316168069839
+luluka SNARC line dot CD 0 up 40 lctrl 0.434935092926
+luluka SNARC line dot CD 0 down 5 num_delete 0.360129117966
+luluka SNARC line dot CD 0 down 10 num_delete 0.289602041245
+luluka SNARC line dot CD 0 up 40 lctrl 0.324100017548
+luluka SNARC line dot CD 0 up 40 lctrl 0.420038938522
+luluka SNARC line dot CD 0 up 15 lctrl 0.315085172653
+luluka SNARC line dot CD 0 down 10 num_delete 0.305995941162
+luluka SNARC line dot CD 0 up 35 lctrl 0.393718004227
+luluka SNARC line dot CD 0 down 30 num_delete 0.329018831253
+luluka SNARC line dot CD 0 up 20 lctrl 0.348571062088
+luluka SNARC line dot CD 0 up 30 lctrl 0.335529088974
+luluka SNARC line dot CD 0 up 10 lctrl 0.385042905807
+luluka SNARC line dot CD 0 down 15 num_delete 0.370975971222
+luluka SNARC line dot CD 0 up 40 lctrl 0.394948005676
+luluka SNARC line dot CD 0 up 10 lctrl 0.289984941483
+luluka SNARC line dot CD 0 up 20 lctrl 0.293411970139
+luluka SNARC line dot CD 0 up 35 lctrl 1.26693105698
+luluka SNARC line dot CD 0 down 15 num_delete 0.369933843613
+luluka SNARC line dot CD 0 down 20 num_delete 0.429033994675
+luluka SNARC line dot CD 0 up 20 num_delete 0.372611045837
+luluka SNARC line dot CD 0 down 40 lctrl 0.379082202911
+luluka SNARC line dot CD 0 down 40 num_delete 0.634469985962
+luluka SNARC line dot CD 0 down 5 num_delete 0.480544090271
+luluka SNARC line dot CD 0 up 30 lctrl 0.361489057541
+luluka SNARC line dot CD 0 down 30 num_delete 1.13605594635
+luluka SNARC line dot CD 0 up 45 lctrl 0.381378173828
+luluka SNARC line dot CD 0 down 40 num_delete 0.63466501236
+luluka SNARC line dot CD 0 up 10 lctrl 0.33065199852
+luluka SNARC line dot CD 0 up 5 lctrl 0.320372104645
+luluka SNARC line dot CD 0 down 35 num_delete 0.377548933029
+luluka SNARC line dot CD 0 up 30 lctrl 0.368578910828
+luluka SNARC line dot CD 0 down 10 num_delete 0.353043079376
+luluka SNARC line dot CD 0 down 15 num_delete 0.300089120865
+luluka SNARC line dot CD 0 up 45 lctrl 0.349828958511
+luluka SNARC line dot CD 0 up 45 lctrl 0.428617954254
+luluka SNARC line dot CD 0 down 35 num_delete 0.394423007965
+luluka SNARC line dot CD 0 down 15 num_delete 0.355037927628
+luluka SNARC line dot CD 0 up 10 lctrl 0.322092056274
+luluka SNARC line dot CD 0 up 30 lctrl 0.327838897705
+luluka SNARC line dot CD 0 up 40 lctrl 0.370147943497
+luluka SNARC line dot CD 0 down 5 num_delete 0.327830076218
+luluka SNARC line dot CD 0 down 25 num_delete 0.327154874802
+luluka SNARC line dot CD 0 up 40 lctrl 0.347109079361
+luluka SNARC line dot CD 0 down 25 num_delete 0.333739995956
+luluka SNARC line dot CD 0 up 5 lctrl 0.368477106094
+luluka SNARC line dot CD 0 down 5 num_delete 0.287606954575
+luluka SNARC line dot CD 0 up 10 lctrl 0.322499036789
+luluka SNARC line dot CD 0 down 20 num_delete 0.300273895264
+luluka SNARC line dot CD 0 down 10 num_delete 0.361629009247
+luluka SNARC line dot CD 0 up 20 lctrl 0.28590297699
+luluka SNARC line dot CD 0 down 45 num_delete 0.452972888947
+luluka SNARC line dot CD 0 down 30 num_delete 0.336590051651
+luluka SNARC line dot CD 0 down 40 num_delete 0.315916061401
+luluka SNARC line dot CD 0 down 15 num_delete 0.275427103043
+luluka SNARC line dot CD 0 down 15 num_delete 0.268016815186
+luluka SNARC line dot CD 0 down 25 lctrl 0.231639146805
+luluka SNARC line dot CD 0 down 35 num_delete 0.335880041122
+luluka SNARC line dot CD 0 down 20 num_delete 0.309123039246
+luluka SNARC line dot CD 0 down 35 num_delete 0.353713989258
+luluka SNARC line dot CD 0 up 20 num_delete 0.237099885941
+luluka SNARC line dot CD 0 up 35 lctrl 0.489334106445
+luluka SNARC line dot CD 0 down 10 num_delete 0.361582040787
+luluka SNARC line dot CD 0 down 15 num_delete 0.29970407486
+luluka SNARC line dot CD 0 down 10 num_delete 0.282634019852
+luluka SNARC line dot CD 0 up 10 num_delete 0.265825986862
+luluka SNARC line dot CD 0 up 15 lctrl 0.483512878418
+luluka SNARC line dot CD 0 down 35 num_delete 0.394017934799
+luluka SNARC line dot CD 0 down 20 num_delete 0.332315206528
+luluka SNARC line dot CD 0 down 15 num_delete 0.2756690979
+luluka SNARC line dot CD 0 down 30 num_delete 0.311743974686
+luluka SNARC line dot CD 0 up 45 lctrl 0.269665002823
+luluka SNARC line dot CD 0 up 20 lctrl 0.277582883835
+{'delay': u'0', 'dateStr': u'05_18_1324', 'task': u'line', 'participant': u'luluka', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+luluka SNARC line arabic DC 0 up 4 num_delete 2.16498208046
+luluka SNARC line arabic DC 0 down 7 num_delete 0.343684911728
+luluka SNARC line arabic DC 0 up 2 num_delete 0.874917030334
+luluka SNARC line arabic DC 0 down 7 lctrl 0.527580022812
+luluka SNARC line arabic DC 0 up 5 num_delete 0.959041118622
+luluka SNARC line arabic DC 0 down 1 lctrl 1.04875206947
+luluka SNARC line arabic DC 0 down 5 lctrl 0.489003181458
+luluka SNARC line arabic DC 0 up 5 num_delete 0.520959854126
+luluka SNARC line arabic DC 0 down 3 lctrl 0.45433306694
+luluka SNARC line arabic DC 0 up 8 num_delete 1.42300105095
+luluka SNARC line arabic DC 0 down 5 lctrl 0.520083904266
+luluka SNARC line arabic DC 0 down 7 lctrl 0.473876953125
+luluka SNARC line arabic DC 0 down 2 lctrl 0.376024007797
+luluka SNARC line arabic DC 0 up 3 num_delete 0.321595907211
+luluka SNARC line arabic DC 0 down 3 lctrl 0.496516227722
+luluka SNARC line arabic DC 0 up 7 num_delete 0.48744392395
+luluka SNARC line arabic DC 0 up 1 num_delete 0.33744597435
+luluka SNARC line arabic DC 0 up 7 num_delete 0.528063058853
+luluka SNARC line arabic DC 0 up 7 num_delete 0.376517057419
+luluka SNARC line arabic DC 0 up 7 num_delete 0.312419891357
+luluka SNARC line arabic DC 0 up 7 num_delete 0.360793113708
+luluka SNARC line arabic DC 0 down 9 lctrl 0.257346868515
+luluka SNARC line arabic DC 0 up 3 num_delete 0.392149925232
+luluka SNARC line arabic DC 0 up 4 num_delete 0.872513055801
+luluka SNARC line arabic DC 0 up 8 num_delete 0.519056081772
+luluka SNARC line arabic DC 0 down 7 lctrl 0.529060125351
+luluka SNARC line arabic DC 0 up 5 num_delete 0.583482027054
+luluka SNARC line arabic DC 0 up 1 num_delete 0.409076929092
+luluka SNARC line arabic DC 0 down 8 lctrl 0.417706012726
+luluka SNARC line arabic DC 0 up 1 num_delete 0.512406110764
+luluka SNARC line arabic DC 0 up 9 num_delete 0.663783073425
+luluka SNARC line arabic DC 0 down 2 num_delete 0.360206127167
+luluka SNARC line arabic DC 0 down 1 num_delete 0.359277963638
+luluka SNARC line arabic DC 0 down 9 lctrl 0.784791946411
+luluka SNARC line arabic DC 0 up 5 num_delete 0.543989181519
+luluka SNARC line arabic DC 0 up 3 num_delete 0.840651035309
+luluka SNARC line arabic DC 0 up 7 num_delete 0.345072984695
+luluka SNARC line arabic DC 0 down 7 num_delete 0.320692062378
+luluka SNARC line arabic DC 0 up 6 num_delete 0.567583799362
+luluka SNARC line arabic DC 0 down 9 lctrl 0.296420097351
+luluka SNARC line arabic DC 0 up 2 num_delete 0.368072986603
+luluka SNARC line arabic DC 0 down 6 lctrl 0.535976171494
+luluka SNARC line arabic DC 0 down 1 lctrl 0.465185880661
+luluka SNARC line arabic DC 0 up 4 num_delete 0.4724650383
+luluka SNARC line arabic DC 0 down 8 lctrl 0.496831178665
+luluka SNARC line arabic DC 0 down 1 lctrl 0.481062889099
+luluka SNARC line arabic DC 0 down 1 lctrl 0.432483911514
+luluka SNARC line arabic DC 0 down 4 lctrl 0.360719919205
+luluka SNARC line arabic DC 0 down 3 lctrl 0.393440961838
+luluka SNARC line arabic DC 0 down 1 lctrl 0.305063009262
+luluka SNARC line arabic DC 0 down 8 lctrl 0.368773937225
+luluka SNARC line arabic DC 0 down 2 lctrl 0.519999027252
+luluka SNARC line arabic DC 0 down 6 lctrl 0.353015899658
+luluka SNARC line arabic DC 0 up 2 num_delete 0.504312992096
+luluka SNARC line arabic DC 0 down 9 lctrl 0.505831956863
+luluka SNARC line arabic DC 0 up 2 num_delete 0.43168091774
+luluka SNARC line arabic DC 0 down 4 num_delete 0.920840024948
+luluka SNARC line arabic DC 0 down 2 lctrl 0.449234962463
+luluka SNARC line arabic DC 0 up 4 num_delete 0.439615011215
+luluka SNARC line arabic DC 0 down 6 lctrl 0.43258690834
+luluka SNARC line arabic DC 0 down 3 lctrl 0.383927822113
+luluka SNARC line arabic DC 0 down 9 lctrl 0.249017953873
+luluka SNARC line arabic DC 0 up 6 num_delete 0.312080860138
+luluka SNARC line arabic DC 0 down 8 lctrl 0.392307043076
+luluka SNARC line arabic DC 0 up 3 lctrl 0.680358886719
+luluka SNARC line arabic DC 0 down 5 num_delete 0.342829942703
+luluka SNARC line arabic DC 0 down 6 lctrl 0.592750072479
+luluka SNARC line arabic DC 0 up 4 num_delete 0.352247953415
+luluka SNARC line arabic DC 0 down 3 lctrl 0.433842182159
+luluka SNARC line arabic DC 0 up 8 num_delete 0.460273981094
+luluka SNARC line arabic DC 0 down 3 lctrl 2.88206100464
+luluka SNARC line arabic DC 0 up 7 num_delete 0.352596998215
+luluka SNARC line arabic DC 0 up 2 num_delete 0.631628036499
+luluka SNARC line arabic DC 0 up 1 num_delete 0.312438011169
+luluka SNARC line arabic DC 0 down 6 lctrl 0.441452980042
+luluka SNARC line arabic DC 0 down 1 lctrl 0.328456163406
+luluka SNARC line arabic DC 0 up 3 num_delete 0.368716001511
+luluka SNARC line arabic DC 0 up 4 num_delete 0.38511800766
+luluka SNARC line arabic DC 0 up 2 num_delete 0.335718870163
+luluka SNARC line arabic DC 0 down 5 num_delete 0.287690162659
+luluka SNARC line arabic DC 0 down 4 lctrl 0.382841110229
+luluka SNARC line arabic DC 0 down 8 lctrl 0.335863828659
+luluka SNARC line arabic DC 0 down 7 lctrl 0.440937995911
+luluka SNARC line arabic DC 0 up 9 num_delete 0.480167865753
+luluka SNARC line arabic DC 0 down 6 lctrl 0.345097064972
+luluka SNARC line arabic DC 0 up 9 num_delete 1.24837708473
+luluka SNARC line arabic DC 0 down 9 lctrl 0.337218999863
+luluka SNARC line arabic DC 0 up 4 num_delete 0.472009181976
+luluka SNARC line arabic DC 0 up 5 num_delete 0.320045948029
+luluka SNARC line arabic DC 0 down 8 lctrl 0.432759046555
+luluka SNARC line arabic DC 0 up 4 num_delete 0.376548051834
+luluka SNARC line arabic DC 0 down 3 lctrl 0.377061843872
+luluka SNARC line arabic DC 0 up 6 num_delete 0.440317869186
+luluka SNARC line arabic DC 0 down 5 lctrl 0.521115064621
+luluka SNARC line arabic DC 0 up 5 num_delete 0.400220870972
+luluka SNARC line arabic DC 0 down 3 lctrl 0.336605072021
+luluka SNARC line arabic DC 0 down 6 lctrl 0.320080041885
+luluka SNARC line arabic DC 0 up 2 num_delete 0.327600002289
+luluka SNARC line arabic DC 0 down 4 lctrl 0.528230190277
+luluka SNARC line arabic DC 0 down 4 lctrl 0.408696889877
+luluka SNARC line arabic DC 0 up 3 num_delete 0.335932016373
+luluka SNARC line arabic DC 0 down 8 lctrl 0.425360918045
+luluka SNARC line arabic DC 0 up 6 num_delete 0.312114953995
+luluka SNARC line arabic DC 0 up 5 lctrl 0.353460073471
+luluka SNARC line arabic DC 0 up 6 num_delete 0.440085887909
+luluka SNARC line arabic DC 0 down 3 lctrl 0.271768093109
+luluka SNARC line arabic DC 0 up 5 num_delete 0.455709218979
+luluka SNARC line arabic DC 0 down 4 lctrl 0.393357038498
+luluka SNARC line arabic DC 0 down 9 lctrl 0.360033035278
+luluka SNARC line arabic DC 0 up 1 num_delete 0.400545120239
+luluka SNARC line arabic DC 0 down 4 num_delete 0.352543115616
+luluka SNARC line arabic DC 0 up 1 num_delete 0.472388029099
+luluka SNARC line arabic DC 0 down 8 lctrl 0.337723016739
+luluka SNARC line arabic DC 0 down 8 lctrl 0.248965024948
+luluka SNARC line arabic DC 0 down 4 lctrl 0.344691038132
+luluka SNARC line arabic DC 0 down 2 lctrl 0.344882965088
+luluka SNARC line arabic DC 0 down 7 lctrl 0.320736885071
+luluka SNARC line arabic DC 0 down 8 num_delete 0.432454109192
+luluka SNARC line arabic DC 0 down 6 lctrl 0.408462047577
+luluka SNARC line arabic DC 0 up 6 num_delete 0.392946958542
+luluka SNARC line arabic DC 0 down 7 lctrl 0.913076162338
+luluka SNARC line arabic DC 0 down 8 lctrl 0.312841176987
+luluka SNARC line arabic DC 0 down 1 lctrl 0.416465997696
+luluka SNARC line arabic DC 0 down 3 lctrl 0.335495948792
+luluka SNARC line arabic DC 0 up 8 num_delete 0.336044073105
+luluka SNARC line arabic DC 0 down 2 lctrl 0.33834695816
+luluka SNARC line arabic DC 0 down 2 lctrl 0.311454057693
+luluka SNARC line arabic DC 0 down 6 lctrl 0.336452007294
+luluka SNARC line arabic DC 0 down 2 lctrl 0.288640022278
+luluka SNARC line arabic DC 0 up 9 num_delete 0.520909070969
+luluka SNARC line arabic DC 0 up 5 num_delete 0.336812019348
+luluka SNARC line arabic DC 0 up 3 num_delete 0.328029870987
+luluka SNARC line arabic DC 0 down 8 num_delete 0.287338018417
+luluka SNARC line arabic DC 0 up 6 num_delete 0.367918014526
+luluka SNARC line arabic DC 0 up 4 num_delete 0.856420993805
+luluka SNARC line arabic DC 0 down 3 lctrl 0.336557149887
+luluka SNARC line arabic DC 0 down 3 lctrl 0.296379089355
+luluka SNARC line arabic DC 0 down 7 lctrl 0.344796895981
+luluka SNARC line arabic DC 0 down 1 lctrl 0.265059947968
+luluka SNARC line arabic DC 0 up 4 num_delete 0.432715892792
+luluka SNARC line arabic DC 0 down 7 lctrl 0.344362020493
+luluka SNARC line arabic DC 0 up 2 num_delete 0.591649055481
+luluka SNARC line arabic DC 0 down 4 lctrl 0.545443058014
+luluka SNARC line arabic DC 0 up 1 num_delete 0.527756929398
+luluka SNARC line arabic DC 0 up 2 num_delete 0.328424930573
+luluka SNARC line arabic DC 0 up 2 num_delete 0.312889099121
+luluka SNARC line arabic DC 0 up 5 num_delete 0.313484191895
+luluka SNARC line arabic DC 0 down 4 lctrl 0.393234014511
+luluka SNARC line arabic DC 0 down 9 num_delete 1.17631411552
+luluka SNARC line arabic DC 0 down 6 lctrl 0.393207788467
+luluka SNARC line arabic DC 0 down 2 lctrl 0.296080112457
+luluka SNARC line arabic DC 0 down 1 num_delete 0.320372819901
+luluka SNARC line arabic DC 0 up 7 num_delete 0.663676977158
+luluka SNARC line arabic DC 0 up 5 lctrl 0.321120023727
+luluka SNARC line arabic DC 0 up 5 num_delete 0.560293912888
+luluka SNARC line arabic DC 0 up 4 num_delete 0.376389980316
+luluka SNARC line arabic DC 0 down 6 lctrl 0.3770840168
+luluka SNARC line arabic DC 0 up 2 num_delete 0.328902006149
+luluka SNARC line arabic DC 0 down 3 lctrl 0.417380094528
+luluka SNARC line arabic DC 0 down 1 lctrl 0.432055950165
+luluka SNARC line arabic DC 0 down 3 lctrl 0.280714988708
+luluka SNARC line arabic DC 0 down 6 lctrl 0.321115970612
+luluka SNARC line arabic DC 0 down 3 lctrl 0.361661911011
+luluka SNARC line arabic DC 0 down 9 lctrl 0.321194171906
+luluka SNARC line arabic DC 0 down 7 lctrl 0.400807857513
+luluka SNARC line arabic DC 0 up 5 num_delete 0.583806991577
+luluka SNARC line arabic DC 0 up 8 num_delete 0.36896109581
+luluka SNARC line arabic DC 0 down 9 lctrl 0.361620187759
+luluka SNARC line arabic DC 0 down 2 lctrl 0.616308927536
+luluka SNARC line arabic DC 0 down 4 lctrl 0.304282903671
+luluka SNARC line arabic DC 0 up 2 lctrl 0.200654983521
+luluka SNARC line arabic DC 0 up 4 num_delete 0.368278026581
+luluka SNARC line arabic DC 0 up 3 num_delete 0.657098054886
+luluka SNARC line arabic DC 0 up 2 num_delete 0.36847114563
+luluka SNARC line arabic DC 0 up 8 num_delete 0.345372915268
+luluka SNARC line arabic DC 0 down 7 lctrl 0.393663883209
+luluka SNARC line arabic DC 0 up 1 num_delete 0.384561061859
+luluka SNARC line arabic DC 0 down 7 lctrl 0.493929862976
+luluka SNARC line arabic DC 0 up 9 lctrl 0.568308830261
+luluka SNARC line arabic DC 0 up 7 num_delete 0.399953842163
+luluka SNARC line arabic DC 0 up 2 num_delete 0.304189920425
+luluka SNARC line arabic DC 0 up 9 num_delete 0.328544855118
+luluka SNARC line arabic DC 0 down 5 lctrl 0.337631940842
+luluka SNARC line arabic DC 0 up 2 num_delete 0.640923023224
+luluka SNARC line arabic DC 0 down 3 lctrl 0.568859100342
+luluka SNARC line arabic DC 0 up 6 num_delete 0.37575006485
+luluka SNARC line arabic DC 0 up 4 num_delete 0.335517168045
+luluka SNARC line arabic DC 0 up 4 num_delete 0.32053399086
+luluka SNARC line arabic DC 0 down 3 lctrl 0.377343893051
+luluka SNARC line arabic DC 0 down 4 lctrl 0.609213829041
+luluka SNARC line arabic DC 0 up 7 num_delete 0.432281970978
+luluka SNARC line arabic DC 0 down 8 lctrl 0.489706039429
+luluka SNARC line arabic DC 0 down 7 lctrl 0.48849105835
+luluka SNARC line arabic DC 0 down 7 lctrl 0.33701300621
+luluka SNARC line arabic DC 0 down 5 lctrl 0.344491004944
+luluka SNARC line arabic DC 0 up 8 num_delete 0.495427846909
+luluka SNARC line arabic DC 0 down 8 lctrl 0.657659053802
+luluka SNARC line arabic DC 0 up 5 lctrl 0.305251121521
+luluka SNARC line arabic DC 0 up 6 num_delete 0.400489091873
+luluka SNARC line arabic DC 0 down 1 lctrl 0.320417881012
+luluka SNARC line arabic DC 0 down 8 lctrl 0.321293830872
+luluka SNARC line arabic DC 0 down 2 lctrl 0.360579967499
+luluka SNARC line arabic DC 0 down 2 lctrl 0.272444963455
+luluka SNARC line arabic DC 0 down 6 lctrl 0.36919093132
+luluka SNARC line arabic DC 0 down 3 lctrl 0.383367776871
+luluka SNARC line arabic DC 0 up 6 num_delete 0.439736127853
+luluka SNARC line arabic DC 0 up 3 num_delete 0.697103023529
+luluka SNARC line arabic DC 0 up 4 num_delete 0.37618303299
+luluka SNARC line arabic DC 0 up 8 num_delete 0.224892854691
+luluka SNARC line arabic DC 0 up 1 num_delete 0.28862786293
+luluka SNARC line arabic DC 0 down 8 lctrl 0.30527305603
+luluka SNARC line arabic DC 0 up 9 num_delete 0.440677165985
+luluka SNARC line arabic DC 0 up 1 num_delete 0.359863996506
+luluka SNARC line arabic DC 0 down 7 lctrl 0.319514989853
+luluka SNARC line arabic DC 0 down 3 lctrl 0.321167230606
+luluka SNARC line arabic DC 0 down 6 lctrl 0.296501874924
+luluka SNARC line arabic DC 0 down 1 lctrl 0.392592906952
+luluka SNARC line arabic DC 0 up 9 num_delete 0.384974956512
+luluka SNARC line arabic DC 0 up 4 num_delete 0.345118045807
+luluka SNARC line arabic DC 0 down 7 lctrl 0.384436130524
+luluka SNARC line arabic DC 0 up 1 lctrl 0.400801897049
+luluka SNARC line arabic DC 0 down 6 lctrl 0.30496096611
+luluka SNARC line arabic DC 0 down 4 lctrl 0.527835130692
+luluka SNARC line arabic DC 0 down 9 lctrl 0.280631065369
+luluka SNARC line arabic DC 0 up 8 num_delete 0.383386850357
+luluka SNARC line arabic DC 0 down 2 num_delete 0.289140939713
+luluka SNARC line arabic DC 0 up 8 num_delete 0.336111068726
+luluka SNARC line arabic DC 0 down 8 num_delete 0.360888004303
+luluka SNARC line arabic DC 0 up 8 lctrl 0.513569831848
+luluka SNARC line arabic DC 0 up 8 num_delete 0.560326814651
+luluka SNARC line arabic DC 0 down 9 lctrl 0.353069067001
+luluka SNARC line arabic DC 0 down 9 lctrl 0.288115978241
+luluka SNARC line arabic DC 0 down 1 lctrl 0.407887220383
+luluka SNARC line arabic DC 0 down 7 lctrl 0.944980144501
+luluka SNARC line arabic DC 0 up 8 num_delete 0.45530295372
+luluka SNARC line arabic DC 0 down 4 lctrl 0.312611818314
+luluka SNARC line arabic DC 0 up 3 num_delete 0.639918088913
+luluka SNARC line arabic DC 0 up 7 lctrl 0.393556833267
+luluka SNARC line arabic DC 0 up 6 num_delete 0.424565076828
+luluka SNARC line arabic DC 0 up 6 num_delete 0.321323156357
+luluka SNARC line arabic DC 0 down 9 lctrl 0.415539979935
+luluka SNARC line arabic DC 0 up 1 num_delete 0.920250892639
+luluka SNARC line arabic DC 0 up 1 num_delete 0.240970134735
+luluka SNARC line arabic DC 0 up 7 num_delete 0.448369979858
+luluka SNARC line arabic DC 0 down 4 lctrl 0.384654045105
+luluka SNARC line arabic DC 0 down 8 lctrl 0.417778968811
+luluka SNARC line arabic DC 0 down 5 lctrl 0.448405981064
+luluka SNARC line arabic DC 0 down 5 lctrl 0.376878023148
+luluka SNARC line arabic DC 0 down 5 lctrl 0.38501906395
+luluka SNARC line arabic DC 0 down 9 lctrl 0.288213968277
+luluka SNARC line arabic DC 0 down 9 lctrl 0.34449005127
+luluka SNARC line arabic DC 0 up 1 lctrl 0.304687976837
+luluka SNARC line arabic DC 0 up 7 lctrl 0.328864097595
+luluka SNARC line arabic DC 0 up 4 num_delete 0.423804998398
+luluka SNARC line arabic DC 0 down 1 num_delete 0.288295030594
+luluka SNARC line arabic DC 0 down 3 lctrl 0.56112408638
+luluka SNARC line arabic DC 0 up 7 num_delete 0.519654035568
+luluka SNARC line arabic DC 0 up 4 num_delete 0.513161897659
+luluka SNARC line arabic DC 0 up 2 num_delete 0.327967882156
+luluka SNARC line arabic DC 0 down 3 num_delete 0.351478099823
+luluka SNARC line arabic DC 0 up 3 lctrl 0.280977964401
+luluka SNARC line arabic DC 0 up 4 num_delete 0.359493017197
+luluka SNARC line arabic DC 0 down 1 lctrl 0.376664876938
+luluka SNARC line arabic DC 0 down 1 lctrl 0.297209978104
+luluka SNARC line arabic DC 0 up 8 num_delete 0.37716794014
+luluka SNARC line arabic DC 0 up 7 num_delete 0.400998830795
+luluka SNARC line arabic DC 0 down 8 lctrl 0.425103902817
+luluka SNARC line arabic DC 0 up 2 num_delete 0.383854866028
+luluka SNARC line arabic DC 0 down 1 lctrl 0.408173084259
+luluka SNARC line arabic DC 0 down 3 lctrl 0.375463962555
+luluka SNARC line arabic DC 0 up 6 num_delete 0.319735050201
+luluka SNARC line arabic DC 0 down 5 num_delete 0.329101085663
+luluka SNARC line arabic DC 0 down 5 lctrl 0.393023014069
+luluka SNARC line arabic DC 0 down 5 lctrl 0.305172920227
+luluka SNARC line arabic DC 0 up 9 lctrl 0.256428003311
+luluka SNARC line arabic DC 0 up 9 num_delete 0.343697071075
+luluka SNARC line arabic DC 0 up 2 num_delete 0.335824012756
+luluka SNARC line arabic DC 0 down 6 lctrl 0.336626052856
+luluka SNARC line arabic DC 0 up 8 num_delete 0.736014127731
+luluka SNARC line arabic DC 0 down 2 lctrl 0.297295808792
+luluka SNARC line arabic DC 0 up 2 num_delete 0.36782002449
+luluka SNARC line arabic DC 0 up 3 num_delete 0.352836847305
+luluka SNARC line arabic DC 0 up 3 num_delete 0.320115804672
+luluka SNARC line arabic DC 0 up 5 num_delete 0.352760791779
+luluka SNARC line arabic DC 0 down 6 lctrl 0.328444004059
+luluka SNARC line arabic DC 0 up 9 num_delete 0.469295024872
+luluka SNARC line arabic DC 0 up 5 num_delete 0.384843826294
+luluka SNARC line arabic DC 0 down 9 lctrl 0.456649065018
+luluka SNARC line arabic DC 0 down 9 lctrl 0.353319168091
+luluka SNARC line arabic DC 0 up 3 num_delete 0.328253030777
+luluka SNARC line arabic DC 0 up 1 num_delete 0.32063794136
+luluka SNARC line arabic DC 0 up 9 num_delete 0.328971862793
+luluka SNARC line arabic DC 0 up 6 num_delete 0.32793211937
+luluka SNARC line arabic DC 0 up 7 num_delete 0.305186986923
+luluka SNARC line arabic DC 0 up 3 num_delete 0.424504995346
+luluka SNARC line arabic DC 0 down 9 num_delete 0.312678098679
+luluka SNARC line arabic DC 0 down 2 lctrl 0.536576986313
+luluka SNARC line arabic DC 0 down 2 lctrl 0.210325956345
+luluka SNARC line arabic DC 0 down 1 lctrl 0.320744991302
+luluka SNARC line arabic DC 0 up 4 lctrl 0.320931196213
+luluka SNARC line arabic DC 0 up 8 num_delete 0.408376932144
+luluka SNARC line arabic DC 0 up 3 num_delete 0.408910989761
+luluka SNARC line arabic DC 0 down 5 lctrl 0.361775159836
+luluka SNARC line arabic DC 0 up 3 num_delete 0.487671852112
+luluka SNARC line arabic DC 0 down 6 lctrl 0.336501836777
+luluka SNARC line arabic DC 0 up 7 num_delete 0.487804889679
+luluka SNARC line arabic DC 0 up 4 lctrl 0.329493999481
+luluka SNARC line arabic DC 0 down 9 lctrl 0.352409124374
+luluka SNARC line arabic DC 0 down 9 lctrl 0.345494031906
+luluka SNARC line arabic DC 0 up 8 num_delete 0.359840154648
+luluka SNARC line arabic DC 0 up 9 num_delete 0.320871829987
+luluka SNARC line arabic DC 0 down 9 lctrl 0.504981994629
+luluka SNARC line arabic DC 0 down 9 lctrl 0.271716117859
+luluka SNARC line arabic DC 0 down 4 lctrl 0.336879968643
+luluka SNARC line arabic DC 0 up 5 num_delete 0.327886104584
+luluka SNARC line arabic DC 0 down 1 num_delete 0.400525808334
+luluka SNARC line arabic DC 0 up 1 num_delete 0.42536687851
+luluka SNARC line arabic DC 0 down 6 lctrl 0.353654146194
+luluka SNARC line arabic DC 0 down 4 lctrl 0.361379146576
+luluka SNARC line arabic DC 0 up 6 num_delete 0.416567087173
+luluka SNARC line arabic DC 0 down 7 lctrl 0.905082941055
+luluka SNARC line arabic DC 0 up 1 num_delete 0.352358818054
+luluka SNARC line arabic DC 0 up 8 num_delete 0.497133970261
+luluka SNARC line arabic DC 0 up 6 num_delete 0.424196958542
+luluka SNARC line arabic DC 0 up 7 num_delete 0.481069087982
+luluka SNARC line arabic DC 0 up 5 num_delete 0.360965967178
+luluka SNARC line arabic DC 0 up 4 lctrl 0.393744945526
+luluka SNARC line arabic DC 0 down 6 lctrl 0.424646139145
+luluka SNARC line arabic DC 0 down 6 lctrl 0.463277101517
+luluka SNARC line arabic DC 0 down 5 lctrl 0.369131803513
+luluka SNARC line arabic DC 0 down 6 lctrl 0.366189002991
+luluka SNARC line arabic DC 0 up 6 num_delete 0.35218501091
+luluka SNARC line arabic DC 0 up 2 num_delete 0.432832956314
+luluka SNARC line arabic DC 0 up 9 num_delete 0.456778049469
+luluka SNARC line arabic DC 0 down 5 lctrl 0.456495046616
+luluka SNARC line arabic DC 0 down 8 lctrl 0.329033136368
+luluka SNARC line arabic DC 0 down 7 lctrl 0.320301055908
+luluka SNARC line arabic DC 0 down 5 lctrl 0.321562051773
+luluka SNARC line arabic DC 0 up 5 num_delete 0.448748111725
+luluka SNARC line arabic DC 0 up 9 num_delete 0.496896028519
+luluka SNARC line arabic DC 0 down 5 lctrl 0.568916082382
+luluka SNARC line arabic DC 0 up 2 num_delete 0.400257110596
+luluka SNARC line arabic DC 0 up 1 num_delete 0.50501704216
+luluka SNARC line arabic DC 0 down 8 lctrl 0.329546928406
+luluka SNARC line arabic DC 0 up 9 num_delete 0.504398107529
+luluka SNARC line arabic DC 0 up 1 num_delete 0.392417907715
+luluka SNARC line arabic DC 0 up 5 num_delete 0.369073152542
+luluka SNARC line arabic DC 0 down 7 lctrl 0.368803024292
+luluka SNARC line arabic DC 0 up 6 num_delete 0.463140964508
+luluka SNARC line arabic DC 0 up 5 num_delete 0.353055000305
+luluka SNARC line arabic DC 0 up 2 num_delete 0.488249063492
+luluka SNARC line arabic DC 0 down 5 lctrl 0.457605838776
+luluka SNARC line arabic DC 0 down 2 lctrl 0.321084022522
+luluka SNARC line arabic DC 0 up 7 num_delete 0.4720890522
+luluka SNARC line arabic DC 0 down 2 num_delete 0.553295135498
+luluka SNARC line arabic DC 0 up 4 num_delete 1.06351113319
+luluka SNARC line arabic DC 0 up 1 num_delete 0.472182035446
+luluka SNARC line arabic DC 0 down 3 lctrl 0.352963209152
+luluka SNARC line arabic DC 0 down 9 lctrl 0.320761919022
+luluka SNARC line arabic DC 0 down 8 lctrl 0.344629049301
+{'delay': u'0', 'dateStr': u'05_18_1333', 'task': u'line', 'participant': u'luluka', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+luluka SNARC line dot DC 0 down 30 lctrl 3.48005795479
+luluka SNARC line dot DC 0 up 15 num_delete 0.808323860168
+luluka SNARC line dot DC 0 down 30 lctrl 1.21459507942
+luluka SNARC line dot DC 0 up 20 num_delete 0.395576953888
+luluka SNARC line dot DC 0 down 20 lctrl 0.370976924896
+luluka SNARC line dot DC 0 up 40 num_delete 0.664899110794
+luluka SNARC line dot DC 0 down 35 lctrl 0.34436583519
+luluka SNARC line dot DC 0 up 35 num_delete 0.391519069672
+luluka SNARC line dot DC 0 up 45 num_delete 0.352504014969
+luluka SNARC line dot DC 0 down 30 lctrl 0.48733496666
+luluka SNARC line dot DC 0 up 5 num_delete 0.399024009705
+luluka SNARC line dot DC 0 down 5 lctrl 0.440726995468
+luluka SNARC line dot DC 0 down 35 lctrl 0.408057928085
+luluka SNARC line dot DC 0 up 30 num_delete 0.359379053116
+luluka SNARC line dot DC 0 up 5 num_delete 0.303985834122
+luluka SNARC line dot DC 0 down 10 lctrl 0.321962118149
+luluka SNARC line dot DC 0 up 30 num_delete 0.326226949692
+luluka SNARC line dot DC 0 up 25 num_delete 0.340553998947
+luluka SNARC line dot DC 0 down 45 lctrl 0.298178911209
+luluka SNARC line dot DC 0 down 40 lctrl 0.354172945023
+luluka SNARC line dot DC 0 down 40 lctrl 0.329638957977
+luluka SNARC line dot DC 0 down 25 lctrl 0.357665061951
+luluka SNARC line dot DC 0 up 30 num_delete 0.325715065002
+luluka SNARC line dot DC 0 down 35 lctrl 0.352321147919
+luluka SNARC line dot DC 0 up 20 num_delete 0.435418128967
+luluka SNARC line dot DC 0 up 45 num_delete 0.418395996094
+luluka SNARC line dot DC 0 up 40 num_delete 0.321868896484
+luluka SNARC line dot DC 0 down 20 lctrl 0.404112815857
+luluka SNARC line dot DC 0 up 25 num_delete 0.316570997238
+luluka SNARC line dot DC 0 down 30 lctrl 0.343116044998
+luluka SNARC line dot DC 0 down 45 lctrl 0.371073961258
+luluka SNARC line dot DC 0 up 10 num_delete 0.32103395462
+luluka SNARC line dot DC 0 down 35 lctrl 0.440052986145
+luluka SNARC line dot DC 0 down 20 lctrl 1.59634423256
+luluka SNARC line dot DC 0 down 5 lctrl 0.343712091446
+luluka SNARC line dot DC 0 up 10 num_delete 0.385040044785
+luluka SNARC line dot DC 0 down 5 lctrl 0.39245891571
+luluka SNARC line dot DC 0 down 15 lctrl 0.346793889999
+luluka SNARC line dot DC 0 up 30 num_delete 0.310143947601
+luluka SNARC line dot DC 0 up 15 num_delete 0.323348999023
+luluka SNARC line dot DC 0 up 40 num_delete 0.321770906448
+luluka SNARC line dot DC 0 down 45 lctrl 0.315179824829
+luluka SNARC line dot DC 0 down 45 lctrl 0.314970970154
+luluka SNARC line dot DC 0 down 45 lctrl 0.474688053131
+luluka SNARC line dot DC 0 down 30 lctrl 0.526650190353
+luluka SNARC line dot DC 0 up 45 num_delete 0.40988612175
+luluka SNARC line dot DC 0 down 10 lctrl 0.561949014664
+luluka SNARC line dot DC 0 down 45 lctrl 0.426820993423
+luluka SNARC line dot DC 0 up 5 num_delete 0.408124923706
+luluka SNARC line dot DC 0 down 25 lctrl 0.397511005402
+luluka SNARC line dot DC 0 down 10 lctrl 0.320975065231
+luluka SNARC line dot DC 0 up 25 num_delete 0.261003017426
+luluka SNARC line dot DC 0 up 10 num_delete 0.313729047775
+luluka SNARC line dot DC 0 up 35 num_delete 0.328622817993
+luluka SNARC line dot DC 0 up 35 num_delete 0.335472106934
+luluka SNARC line dot DC 0 up 10 num_delete 0.297053098679
+luluka SNARC line dot DC 0 up 15 num_delete 0.259042978287
+luluka SNARC line dot DC 0 down 40 lctrl 0.386301040649
+luluka SNARC line dot DC 0 up 10 num_delete 0.337483882904
+luluka SNARC line dot DC 0 up 5 num_delete 0.343965053558
+luluka SNARC line dot DC 0 up 35 num_delete 0.303611040115
+luluka SNARC line dot DC 0 down 5 lctrl 0.392857074738
+luluka SNARC line dot DC 0 down 30 lctrl 0.502701997757
+luluka SNARC line dot DC 0 up 5 lctrl 0.393015146255
+luluka SNARC line dot DC 0 up 15 num_delete 0.491936922073
+luluka SNARC line dot DC 0 up 10 num_delete 0.289711952209
+luluka SNARC line dot DC 0 up 15 num_delete 0.282655000687
+luluka SNARC line dot DC 0 up 45 num_delete 0.290768861771
+luluka SNARC line dot DC 0 down 30 lctrl 0.367183923721
+luluka SNARC line dot DC 0 down 5 lctrl 0.352296113968
+luluka SNARC line dot DC 0 up 40 num_delete 0.35206413269
+luluka SNARC line dot DC 0 up 5 num_delete 0.296144962311
+luluka SNARC line dot DC 0 up 20 num_delete 0.387094020844
+luluka SNARC line dot DC 0 up 45 num_delete 0.323292016983
+luluka SNARC line dot DC 0 down 40 lctrl 0.34562087059
+luluka SNARC line dot DC 0 down 30 lctrl 0.405647039413
+luluka SNARC line dot DC 0 down 20 lctrl 0.316073894501
+luluka SNARC line dot DC 0 up 35 num_delete 0.343671798706
+luluka SNARC line dot DC 0 up 20 num_delete 0.324201822281
+luluka SNARC line dot DC 0 up 45 num_delete 0.322335004807
+luluka SNARC line dot DC 0 down 35 lctrl 0.336444854736
+luluka SNARC line dot DC 0 down 10 lctrl 0.329247951508
+luluka SNARC line dot DC 0 down 10 lctrl 0.322004079819
+luluka SNARC line dot DC 0 down 15 lctrl 0.449559211731
+luluka SNARC line dot DC 0 down 45 lctrl 0.410017967224
+luluka SNARC line dot DC 0 up 10 num_delete 0.312913179398
+luluka SNARC line dot DC 0 down 45 lctrl 0.63511800766
+luluka SNARC line dot DC 0 down 10 lctrl 0.361778974533
+luluka SNARC line dot DC 0 down 20 lctrl 0.315667867661
+luluka SNARC line dot DC 0 down 5 lctrl 0.304456949234
+luluka SNARC line dot DC 0 down 20 num_delete 0.418673992157
+luluka SNARC line dot DC 0 up 45 num_delete 0.280877113342
+luluka SNARC line dot DC 0 down 40 lctrl 0.457111120224
+luluka SNARC line dot DC 0 up 25 num_delete 0.981272935867
+luluka SNARC line dot DC 0 down 45 num_delete 0.313939809799
+luluka SNARC line dot DC 0 up 15 num_delete 0.474312067032
+luluka SNARC line dot DC 0 up 20 num_delete 0.331976890564
+luluka SNARC line dot DC 0 down 30 lctrl 0.295680046082
+luluka SNARC line dot DC 0 down 10 lctrl 0.320420026779
+luluka SNARC line dot DC 0 up 45 num_delete 0.321967124939
+luluka SNARC line dot DC 0 down 35 num_delete 0.703451156616
+luluka SNARC line dot DC 0 up 25 num_delete 1.26135492325
+luluka SNARC line dot DC 0 up 15 num_delete 0.35489988327
+luluka SNARC line dot DC 0 down 40 lctrl 0.329015016556
+luluka SNARC line dot DC 0 up 25 num_delete 0.3569688797
+luluka SNARC line dot DC 0 up 30 num_delete 0.34259390831
+luluka SNARC line dot DC 0 up 15 num_delete 0.322288036346
+luluka SNARC line dot DC 0 down 15 lctrl 0.27530503273
+luluka SNARC line dot DC 0 down 25 lctrl 0.334250926971
+luluka SNARC line dot DC 0 up 35 num_delete 0.33513879776
+luluka SNARC line dot DC 0 down 30 lctrl 0.335058927536
+luluka SNARC line dot DC 0 down 15 lctrl 0.330370903015
+luluka SNARC line dot DC 0 down 40 lctrl 0.345481157303
+luluka SNARC line dot DC 0 down 25 lctrl 0.342247009277
+luluka SNARC line dot DC 0 up 5 num_delete 0.344190120697
+luluka SNARC line dot DC 0 down 15 lctrl 0.434888124466
+luluka SNARC line dot DC 0 down 25 lctrl 0.397657871246
+luluka SNARC line dot DC 0 up 10 num_delete 0.401214122772
+luluka SNARC line dot DC 0 up 15 num_delete 0.362596035004
+luluka SNARC line dot DC 0 up 30 num_delete 0.326772928238
+luluka SNARC line dot DC 0 up 10 num_delete 0.305061101913
+luluka SNARC line dot DC 0 up 10 num_delete 0.34522485733
+luluka SNARC line dot DC 0 down 15 lctrl 0.419318914413
+luluka SNARC line dot DC 0 down 15 lctrl 0.31472992897
+luluka SNARC line dot DC 0 up 15 num_delete 0.41023015976
+luluka SNARC line dot DC 0 down 45 lctrl 0.475759029388
+luluka SNARC line dot DC 0 down 35 lctrl 0.407397031784
+luluka SNARC line dot DC 0 down 30 lctrl 0.326065063477
+luluka SNARC line dot DC 0 up 20 num_delete 0.419651031494
+luluka SNARC line dot DC 0 down 25 lctrl 0.582175016403
+luluka SNARC line dot DC 0 up 5 num_delete 0.335850954056
+luluka SNARC line dot DC 0 down 25 lctrl 0.445241928101
+luluka SNARC line dot DC 0 up 35 num_delete 0.4080119133
+luluka SNARC line dot DC 0 down 20 lctrl 0.420308113098
+luluka SNARC line dot DC 0 up 45 num_delete 0.40162396431
+luluka SNARC line dot DC 0 up 20 num_delete 0.396296977997
+luluka SNARC line dot DC 0 down 5 lctrl 0.408486127853
+luluka SNARC line dot DC 0 down 20 lctrl 0.420615911484
+luluka SNARC line dot DC 0 up 35 num_delete 0.350487947464
+luluka SNARC line dot DC 0 up 30 num_delete 0.366656780243
+luluka SNARC line dot DC 0 up 15 num_delete 0.345211982727
+luluka SNARC line dot DC 0 down 10 lctrl 0.418007135391
+luluka SNARC line dot DC 0 up 25 lctrl 0.79626584053
+luluka SNARC line dot DC 0 up 40 num_delete 0.328886032104
+luluka SNARC line dot DC 0 up 40 num_delete 0.338317155838
+luluka SNARC line dot DC 0 up 25 num_delete 0.301629781723
+luluka SNARC line dot DC 0 up 20 lctrl 0.228502988815
+luluka SNARC line dot DC 0 up 20 num_delete 0.314138889313
+luluka SNARC line dot DC 0 down 10 lctrl 0.432909011841
+luluka SNARC line dot DC 0 up 15 num_delete 0.35356092453
+luluka SNARC line dot DC 0 up 5 num_delete 0.391803979874
+luluka SNARC line dot DC 0 up 25 num_delete 0.301833152771
+luluka SNARC line dot DC 0 up 25 num_delete 0.317584991455
+luluka SNARC line dot DC 0 down 30 lctrl 0.398621082306
+luluka SNARC line dot DC 0 up 35 num_delete 1.51112794876
+luluka SNARC line dot DC 0 down 30 lctrl 0.35999417305
+luluka SNARC line dot DC 0 up 15 num_delete 0.4178211689
+luluka SNARC line dot DC 0 down 10 lctrl 0.353737831116
+luluka SNARC line dot DC 0 up 15 num_delete 0.753409862518
+luluka SNARC line dot DC 0 up 40 num_delete 0.345701932907
+luluka SNARC line dot DC 0 up 30 num_delete 0.286888122559
+luluka SNARC line dot DC 0 down 15 lctrl 0.379634857178
+luluka SNARC line dot DC 0 up 5 num_delete 0.303342819214
+luluka SNARC line dot DC 0 down 10 lctrl 0.328929901123
+luluka SNARC line dot DC 0 down 25 lctrl 0.829528093338
+luluka SNARC line dot DC 0 up 10 num_delete 0.37687087059
+luluka SNARC line dot DC 0 down 20 lctrl 0.357009887695
+luluka SNARC line dot DC 0 down 25 lctrl 0.325186014175
+luluka SNARC line dot DC 0 down 10 lctrl 0.344976902008
+luluka SNARC line dot DC 0 down 45 lctrl 0.337080001831
+luluka SNARC line dot DC 0 up 10 num_delete 0.408333063126
+luluka SNARC line dot DC 0 down 40 num_delete 0.681761980057
+luluka SNARC line dot DC 0 up 35 num_delete 0.383624076843
+luluka SNARC line dot DC 0 down 15 lctrl 0.363247156143
+luluka SNARC line dot DC 0 up 40 num_delete 0.336657047272
+luluka SNARC line dot DC 0 up 10 num_delete 0.329819917679
+luluka SNARC line dot DC 0 down 35 lctrl 0.35206413269
+luluka SNARC line dot DC 0 up 5 num_delete 0.423923969269
+luluka SNARC line dot DC 0 up 45 num_delete 0.354880809784
+luluka SNARC line dot DC 0 down 40 lctrl 0.393465995789
+luluka SNARC line dot DC 0 up 10 lctrl 0.489330053329
+luluka SNARC line dot DC 0 down 15 lctrl 0.322445869446
+luluka SNARC line dot DC 0 down 25 lctrl 0.325586080551
+luluka SNARC line dot DC 0 up 35 num_delete 0.344544172287
+luluka SNARC line dot DC 0 up 15 num_delete 0.330955982208
+luluka SNARC line dot DC 0 down 35 lctrl 0.424432992935
+luluka SNARC line dot DC 0 down 30 lctrl 0.31038403511
+luluka SNARC line dot DC 0 down 10 lctrl 0.304973840714
+luluka SNARC line dot DC 0 up 20 num_delete 0.347465991974
+luluka SNARC line dot DC 0 up 10 num_delete 0.329440832138
+luluka SNARC line dot DC 0 up 20 num_delete 0.274842977524
+luluka SNARC line dot DC 0 down 5 lctrl 0.408331871033
+luluka SNARC line dot DC 0 up 10 num_delete 0.361336946487
+luluka SNARC line dot DC 0 up 25 num_delete 0.348404884338
+luluka SNARC line dot DC 0 down 25 lctrl 0.429292917252
+luluka SNARC line dot DC 0 down 20 lctrl 1.41229891777
+luluka SNARC line dot DC 0 down 25 lctrl 0.444445133209
+luluka SNARC line dot DC 0 down 20 lctrl 0.355341911316
+luluka SNARC line dot DC 0 up 25 num_delete 0.379110097885
+luluka SNARC line dot DC 0 up 25 num_delete 0.30851817131
+luluka SNARC line dot DC 0 up 25 num_delete 0.277557134628
+luluka SNARC line dot DC 0 up 20 num_delete 0.316504955292
+luluka SNARC line dot DC 0 up 10 num_delete 0.290147066116
+luluka SNARC line dot DC 0 up 40 num_delete 0.274175167084
+luluka SNARC line dot DC 0 up 35 num_delete 0.288609027863
+luluka SNARC line dot DC 0 down 35 lctrl 0.400027990341
+luluka SNARC line dot DC 0 down 35 lctrl 0.336268186569
+luluka SNARC line dot DC 0 up 15 num_delete 0.402267932892
+luluka SNARC line dot DC 0 up 30 lctrl 0.47096991539
+luluka SNARC line dot DC 0 down 45 lctrl 0.337810993195
+luluka SNARC line dot DC 0 down 10 num_delete 0.384647130966
+luluka SNARC line dot DC 0 down 45 lctrl 0.346732139587
+luluka SNARC line dot DC 0 down 30 lctrl 0.286190032959
+luluka SNARC line dot DC 0 down 35 lctrl 0.304590940475
+luluka SNARC line dot DC 0 down 5 lctrl 0.295295953751
+luluka SNARC line dot DC 0 up 35 num_delete 0.288101911545
+luluka SNARC line dot DC 0 down 35 num_delete 0.351484060287
+luluka SNARC line dot DC 0 down 45 lctrl 0.402478933334
+luluka SNARC line dot DC 0 up 20 num_delete 0.291815042496
+luluka SNARC line dot DC 0 up 40 num_delete 0.32908987999
+luluka SNARC line dot DC 0 up 20 num_delete 0.300281047821
+luluka SNARC line dot DC 0 up 40 num_delete 0.337079048157
+luluka SNARC line dot DC 0 up 5 num_delete 0.328221082687
+luluka SNARC line dot DC 0 down 5 lctrl 0.304339885712
+luluka SNARC line dot DC 0 up 40 num_delete 0.383605003357
+luluka SNARC line dot DC 0 down 5 lctrl 0.335886955261
+luluka SNARC line dot DC 0 down 5 lctrl 0.367909908295
+luluka SNARC line dot DC 0 down 5 lctrl 0.272398948669
+luluka SNARC line dot DC 0 down 35 lctrl 0.288345098495
+luluka SNARC line dot DC 0 up 40 num_delete 0.337233066559
+luluka SNARC line dot DC 0 up 35 num_delete 0.335565090179
+luluka SNARC line dot DC 0 down 40 lctrl 0.386291027069
+luluka SNARC line dot DC 0 up 30 num_delete 0.34240603447
+luluka SNARC line dot DC 0 down 15 num_delete 0.522357940674
+luluka SNARC line dot DC 0 down 40 lctrl 1.20165109634
+luluka SNARC line dot DC 0 down 20 lctrl 0.315111160278
+luluka SNARC line dot DC 0 up 40 num_delete 0.288902044296
+luluka SNARC line dot DC 0 up 10 num_delete 0.320530891418
+luluka SNARC line dot DC 0 down 40 lctrl 0.427447080612
+luluka SNARC line dot DC 0 up 5 num_delete 0.343409061432
+luluka SNARC line dot DC 0 down 20 lctrl 0.540027856827
+luluka SNARC line dot DC 0 up 5 num_delete 0.464327096939
+luluka SNARC line dot DC 0 up 40 num_delete 0.344877004623
+luluka SNARC line dot DC 0 up 35 num_delete 0.328157901764
+luluka SNARC line dot DC 0 down 40 lctrl 0.337554931641
+luluka SNARC line dot DC 0 up 20 num_delete 0.355593919754
+luluka SNARC line dot DC 0 up 10 num_delete 0.66613817215
+luluka SNARC line dot DC 0 down 30 lctrl 0.342020988464
+luluka SNARC line dot DC 0 down 25 lctrl 0.348677158356
+luluka SNARC line dot DC 0 up 25 num_delete 0.331704139709
+luluka SNARC line dot DC 0 up 30 num_delete 0.318334102631
+luluka SNARC line dot DC 0 up 25 num_delete 0.382708787918
+luluka SNARC line dot DC 0 down 20 lctrl 0.371920824051
+luluka SNARC line dot DC 0 up 30 num_delete 0.45431303978
+luluka SNARC line dot DC 0 down 25 lctrl 0.390016078949
+luluka SNARC line dot DC 0 up 5 num_delete 0.35142993927
+luluka SNARC line dot DC 0 down 10 lctrl 0.474405050278
+luluka SNARC line dot DC 0 up 35 num_delete 0.423152923584
+luluka SNARC line dot DC 0 up 40 num_delete 0.322226047516
+luluka SNARC line dot DC 0 down 35 lctrl 0.390769004822
+luluka SNARC line dot DC 0 down 30 lctrl 0.397886037827
+luluka SNARC line dot DC 0 up 30 num_delete 0.350138902664
+luluka SNARC line dot DC 0 up 20 num_delete 0.931441068649
+luluka SNARC line dot DC 0 up 25 num_delete 0.341695070267
+luluka SNARC line dot DC 0 up 10 num_delete 0.290074825287
+luluka SNARC line dot DC 0 up 25 num_delete 0.25337600708
+luluka SNARC line dot DC 0 down 45 lctrl 0.37117600441
+luluka SNARC line dot DC 0 down 5 lctrl 0.319758176804
+luluka SNARC line dot DC 0 up 30 num_delete 0.357931137085
+luluka SNARC line dot DC 0 up 35 num_delete 0.271689891815
+luluka SNARC line dot DC 0 up 40 num_delete 0.273729085922
+luluka SNARC line dot DC 0 down 35 lctrl 0.232012987137
+luluka SNARC line dot DC 0 down 15 lctrl 0.355302095413
+luluka SNARC line dot DC 0 up 35 num_delete 0.335644006729
+luluka SNARC line dot DC 0 down 5 lctrl 1.16068696976
+luluka SNARC line dot DC 0 up 45 num_delete 0.354491233826
+luluka SNARC line dot DC 0 down 15 lctrl 0.33132314682
+luluka SNARC line dot DC 0 down 10 lctrl 0.338171005249
+luluka SNARC line dot DC 0 up 20 num_delete 0.331511974335
+luluka SNARC line dot DC 0 up 5 num_delete 0.272338867188
+luluka SNARC line dot DC 0 down 25 lctrl 0.372726202011
+luluka SNARC line dot DC 0 down 15 lctrl 0.459007978439
+luluka SNARC line dot DC 0 down 15 lctrl 0.329237222672
+luluka SNARC line dot DC 0 down 40 lctrl 0.321397066116
+luluka SNARC line dot DC 0 down 40 lctrl 0.321093082428
+luluka SNARC line dot DC 0 up 30 num_delete 0.366523981094
+luluka SNARC line dot DC 0 up 20 num_delete 0.307582855225
+luluka SNARC line dot DC 0 up 20 num_delete 0.291790962219
+luluka SNARC line dot DC 0 up 30 num_delete 0.341747999191
+luluka SNARC line dot DC 0 up 15 num_delete 0.362315177917
+luluka SNARC line dot DC 0 down 10 lctrl 0.394068956375
+luluka SNARC line dot DC 0 down 40 lctrl 0.320436954498
+luluka SNARC line dot DC 0 down 40 lctrl 0.448796033859
+luluka SNARC line dot DC 0 down 40 lctrl 0.233271121979
+luluka SNARC line dot DC 0 up 15 num_delete 0.353800058365
+luluka SNARC line dot DC 0 up 30 num_delete 0.302634000778
+luluka SNARC line dot DC 0 down 45 lctrl 0.40292096138
+luluka SNARC line dot DC 0 down 5 lctrl 0.319914102554
+luluka SNARC line dot DC 0 up 30 num_delete 0.334383010864
+luluka SNARC line dot DC 0 up 15 num_delete 0.31328701973
+luluka SNARC line dot DC 0 up 15 num_delete 0.29926109314
+luluka SNARC line dot DC 0 down 5 lctrl 0.384527921677
+luluka SNARC line dot DC 0 up 20 num_delete 0.619874954224
+luluka SNARC line dot DC 0 down 20 num_delete 0.324595928192
+luluka SNARC line dot DC 0 up 15 num_delete 0.3305311203
+luluka SNARC line dot DC 0 down 35 lctrl 0.360675096512
+luluka SNARC line dot DC 0 up 45 num_delete 0.368109941483
+luluka SNARC line dot DC 0 up 40 num_delete 0.305454969406
+luluka SNARC line dot DC 0 down 45 lctrl 0.305415868759
+luluka SNARC line dot DC 0 up 30 num_delete 0.41303396225
+luluka SNARC line dot DC 0 up 35 num_delete 0.359261989594
+luluka SNARC line dot DC 0 up 45 num_delete 0.346179008484
+luluka SNARC line dot DC 0 down 45 lctrl 0.411571979523
+luluka SNARC line dot DC 0 up 45 lctrl 0.393800020218
+luluka SNARC line dot DC 0 down 40 lctrl 0.328359127045
+luluka SNARC line dot DC 0 up 20 lctrl 0.372428178787
+luluka SNARC line dot DC 0 up 30 num_delete 0.373564004898
+luluka SNARC line dot DC 0 up 45 num_delete 0.28130698204
+luluka SNARC line dot DC 0 down 25 lctrl 0.349514961243
+luluka SNARC line dot DC 0 up 35 num_delete 0.391070842743
+luluka SNARC line dot DC 0 down 35 lctrl 0.406428098679
+luluka SNARC line dot DC 0 down 25 num_delete 0.341562986374
+luluka SNARC line dot DC 0 up 25 num_delete 0.38911819458
+luluka SNARC line dot DC 0 down 15 lctrl 0.483535051346
+luluka SNARC line dot DC 0 up 25 num_delete 0.355932950974
+luluka SNARC line dot DC 0 down 45 lctrl 0.362529993057
+luluka SNARC line dot DC 0 up 15 num_delete 0.386302947998
+luluka SNARC line dot DC 0 down 40 lctrl 0.377681016922
+luluka SNARC line dot DC 0 down 45 lctrl 0.338029146194
+luluka SNARC line dot DC 0 up 40 num_delete 0.359792947769
+luluka SNARC line dot DC 0 down 25 num_delete 0.453252077103
+luluka SNARC line dot DC 0 up 25 num_delete 0.341959953308
+luluka SNARC line dot DC 0 up 10 num_delete 0.441030979156
+luluka SNARC line dot DC 0 down 30 lctrl 0.374752998352
+luluka SNARC line dot DC 0 down 45 lctrl 0.369863033295
+luluka SNARC line dot DC 0 up 25 num_delete 0.37340092659
+luluka SNARC line dot DC 0 up 5 num_delete 0.319828987122
+luluka SNARC line dot DC 0 down 20 lctrl 0.324091911316
+luluka SNARC line dot DC 0 down 5 lctrl 0.304639101028
+luluka SNARC line dot DC 0 up 45 num_delete 0.29732298851
+luluka SNARC line dot DC 0 down 5 num_delete 0.312507867813
+luluka SNARC line dot DC 0 up 5 num_delete 0.271503925323
+luluka SNARC line dot DC 0 up 5 num_delete 0.287760019302
+luluka SNARC line dot DC 0 down 45 lctrl 0.371083021164
+luluka SNARC line dot DC 0 up 45 lctrl 0.489748001099
+luluka SNARC line dot DC 0 up 30 num_delete 0.412717103958
+luluka SNARC line dot DC 0 up 35 num_delete 0.320863962173
+luluka SNARC line dot DC 0 down 40 lctrl 0.337054014206
+luluka SNARC line dot DC 0 up 5 num_delete 0.343573093414
+luluka SNARC line dot DC 0 up 5 num_delete 0.304301977158
+luluka SNARC line dot DC 0 up 10 num_delete 0.217044115067
+luluka SNARC line dot DC 0 down 15 lctrl 0.323365926743
+luluka SNARC line dot DC 0 down 10 lctrl 0.297224998474
+luluka SNARC line dot DC 0 down 20 lctrl 0.252260923386
+luluka SNARC line dot DC 0 down 30 lctrl 0.278996944427
+luluka SNARC line dot DC 0 down 20 lctrl 0.275873184204
+luluka SNARC line dot DC 0 up 20 num_delete 0.334656000137
+luluka SNARC line dot DC 0 up 35 num_delete 0.308345079422
+luluka SNARC line dot DC 0 up 15 num_delete 0.338334083557
+luluka SNARC line dot DC 0 down 45 num_delete 0.281903028488
+{'participant': u'luluka', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1341', 'autopilot': False, 'exp_id': u'SNARC'}
+luluka SNARC_only CD 1 num_delete 3.24389100075
+luluka SNARC_only CD 6 lctrl 0.625988006592
+luluka SNARC_only CD 7 num_delete 0.959529876709
+luluka SNARC_only CD 4 lctrl 0.417470932007
+luluka SNARC_only CD 9 num_delete 0.560846090317
+luluka SNARC_only CD 2 lctrl 0.352725028992
+luluka SNARC_only CD 2 lctrl 0.337337017059
+luluka SNARC_only CD 1 num_delete 0.505440950394
+luluka SNARC_only CD 7 num_delete 0.657618045807
+luluka SNARC_only CD 9 lctrl 0.409409046173
+luluka SNARC_only CD 7 num_delete 0.442929983139
+luluka SNARC_only CD 8 lctrl 0.295467853546
+luluka SNARC_only CD 1 num_delete 0.37725186348
+luluka SNARC_only CD 5 num_delete 0.409033060074
+luluka SNARC_only CD 9 num_delete 0.473232984543
+luluka SNARC_only CD 5 num_delete 0.481895923615
+luluka SNARC_only CD 1 num_delete 0.53015089035
+luluka SNARC_only CD 3 lctrl 0.369117021561
+luluka SNARC_only CD 4 lctrl 0.297946929932
+luluka SNARC_only CD 9 num_delete 0.42494392395
+luluka SNARC_only CD 1 num_delete 0.561352968216
+luluka SNARC_only CD 2 lctrl 0.713442087173
+luluka SNARC_only CD 3 num_delete 0.640815973282
+luluka SNARC_only CD 3 num_delete 0.400666952133
+luluka SNARC_only CD 5 num_delete 1.04155111313
+luluka SNARC_only CD 8 lctrl 0.777873039246
+luluka SNARC_only CD 3 num_delete 0.560926914215
+luluka SNARC_only CD 9 num_delete 0.793862819672
+luluka SNARC_only CD 4 lctrl 0.905571937561
+luluka SNARC_only CD 6 lctrl 0.905191898346
+luluka SNARC_only CD 8 lctrl 0.424121141434
+luluka SNARC_only CD 9 num_delete 0.344610929489
+luluka SNARC_only CD 6 lctrl 0.489861965179
+luluka SNARC_only CD 7 num_delete 0.545099020004
+luluka SNARC_only CD 6 lctrl 0.466203927994
+luluka SNARC_only CD 3 num_delete 0.680683851242
+luluka SNARC_only CD 1 lctrl 0.513845205307
+luluka SNARC_only CD 7 lctrl 0.345450162888
+luluka SNARC_only CD 6 lctrl 0.345697164536
+luluka SNARC_only CD 1 num_delete 0.761288166046
+luluka SNARC_only CD 8 lctrl 0.433350801468
+luluka SNARC_only CD 1 lctrl 0.409654140472
+luluka SNARC_only CD 7 num_delete 0.464699029922
+luluka SNARC_only CD 7 num_delete 0.40967297554
+luluka SNARC_only CD 1 num_delete 0.441596031189
+luluka SNARC_only CD 1 num_delete 0.465502023697
+luluka SNARC_only CD 2 lctrl 0.522038936615
+luluka SNARC_only CD 3 num_delete 0.544450998306
+luluka SNARC_only CD 3 num_delete 0.417324066162
+luluka SNARC_only CD 9 num_delete 0.578003168106
+luluka SNARC_only CD 3 num_delete 0.553386926651
+luluka SNARC_only CD 1 num_delete 0.537536859512
+luluka SNARC_only CD 9 num_delete 0.47390294075
+luluka SNARC_only CD 4 lctrl 0.321512937546
+luluka SNARC_only CD 5 num_delete 0.417270898819
+luluka SNARC_only CD 7 num_delete 0.369651079178
+luluka SNARC_only CD 6 lctrl 0.529289960861
+luluka SNARC_only CD 3 num_delete 0.505163908005
+luluka SNARC_only CD 7 num_delete 0.409858942032
+luluka SNARC_only CD 5 num_delete 0.801316022873
+luluka SNARC_only CD 5 num_delete 0.409523010254
+luluka SNARC_only CD 5 num_delete 0.306328058243
+luluka SNARC_only CD 9 num_delete 0.290323019028
+luluka SNARC_only CD 8 lctrl 0.306082963943
+luluka SNARC_only CD 4 lctrl 0.417625904083
+luluka SNARC_only CD 7 num_delete 0.353150844574
+luluka SNARC_only CD 4 lctrl 0.393498897552
+luluka SNARC_only CD 7 num_delete 0.377497911453
+luluka SNARC_only CD 3 num_delete 0.610138893127
+luluka SNARC_only CD 8 lctrl 0.530428886414
+luluka SNARC_only CD 8 lctrl 0.321500062943
+luluka SNARC_only CD 9 num_delete 0.441423892975
+luluka SNARC_only CD 7 num_delete 0.457869052887
+luluka SNARC_only CD 2 lctrl 0.529494047165
+luluka SNARC_only CD 6 lctrl 0.576782941818
+luluka SNARC_only CD 7 num_delete 0.541793107986
+luluka SNARC_only CD 2 num_delete 0.482101917267
+luluka SNARC_only CD 5 num_delete 0.473662853241
+luluka SNARC_only CD 5 num_delete 0.297472000122
+luluka SNARC_only CD 2 num_delete 0.298222780228
+luluka SNARC_only CD 6 lctrl 0.418170928955
+luluka SNARC_only CD 5 num_delete 0.409952878952
+luluka SNARC_only CD 9 num_delete 0.617520809174
+luluka SNARC_only CD 1 num_delete 0.521373987198
+luluka SNARC_only CD 5 num_delete 0.664186000824
+luluka SNARC_only CD 9 num_delete 0.617568969727
+luluka SNARC_only CD 7 num_delete 0.33750295639
+luluka SNARC_only CD 3 num_delete 0.298093795776
+luluka SNARC_only CD 6 lctrl 0.354163169861
+luluka SNARC_only CD 8 lctrl 0.321547985077
+luluka SNARC_only CD 7 num_delete 0.393262147903
+luluka SNARC_only CD 4 lctrl 0.514116048813
+luluka SNARC_only CD 5 num_delete 0.489229917526
+luluka SNARC_only CD 7 num_delete 0.432971954346
+luluka SNARC_only CD 8 num_delete 0.354076147079
+luluka SNARC_only CD 4 lctrl 0.337461948395
+luluka SNARC_only CD 6 num_delete 0.305542945862
+luluka SNARC_only CD 6 lctrl 0.506484985352
+luluka SNARC_only CD 3 num_delete 0.624930143356
+luluka SNARC_only CD 2 lctrl 0.72218298912
+luluka SNARC_only CD 5 num_delete 0.872852087021
+luluka SNARC_only CD 2 lctrl 0.66619515419
+luluka SNARC_only CD 9 num_delete 0.60780787468
+luluka SNARC_only CD 5 num_delete 0.50576710701
+luluka SNARC_only CD 2 num_delete 0.314005851746
+luluka SNARC_only CD 9 num_delete 0.489386081696
+luluka SNARC_only CD 4 lctrl 0.370605945587
+luluka SNARC_only CD 4 lctrl 0.305603981018
+luluka SNARC_only CD 4 lctrl 0.329408884048
+luluka SNARC_only CD 1 num_delete 0.33730006218
+luluka SNARC_only CD 9 num_delete 0.345376014709
+luluka SNARC_only CD 6 lctrl 0.360923051834
+luluka SNARC_only CD 4 lctrl 0.417945146561
+luluka SNARC_only CD 4 lctrl 0.345461130142
+luluka SNARC_only CD 2 lctrl 0.361080169678
+luluka SNARC_only CD 5 num_delete 0.41784286499
+luluka SNARC_only CD 2 lctrl 0.418379068375
+luluka SNARC_only CD 4 lctrl 0.329344034195
+luluka SNARC_only CD 1 num_delete 0.393131017685
+luluka SNARC_only CD 6 lctrl 0.434066057205
+luluka SNARC_only CD 4 lctrl 0.60058093071
+luluka SNARC_only CD 2 lctrl 0.545069932938
+luluka SNARC_only CD 8 lctrl 0.689379930496
+luluka SNARC_only CD 4 lctrl 0.425328969955
+luluka SNARC_only CD 3 num_delete 0.393737792969
+luluka SNARC_only CD 6 lctrl 0.346500873566
+luluka SNARC_only CD 6 lctrl 0.289827108383
+luluka SNARC_only CD 8 lctrl 0.449965000153
+luluka SNARC_only CD 5 num_delete 0.329475879669
+luluka SNARC_only CD 6 lctrl 0.385720968246
+luluka SNARC_only CD 4 lctrl 0.43372297287
+luluka SNARC_only CD 1 num_delete 0.480600833893
+luluka SNARC_only CD 9 num_delete 0.393701076508
+luluka SNARC_only CD 7 num_delete 0.33766078949
+luluka SNARC_only CD 3 num_delete 0.561776161194
+luluka SNARC_only CD 5 num_delete 0.385955095291
+luluka SNARC_only CD 5 num_delete 1.04058003426
+luluka SNARC_only CD 1 lctrl 0.84925699234
+luluka SNARC_only CD 9 num_delete 1.28861188889
+luluka SNARC_only CD 4 lctrl 0.466451883316
+luluka SNARC_only CD 9 num_delete 9.2577548027
+luluka SNARC_only CD 4 lctrl 0.377928972244
+luluka SNARC_only CD 6 num_delete 0.505894899368
+luluka SNARC_only CD 3 num_delete 0.376930952072
+luluka SNARC_only CD 7 num_delete 0.50590801239
+luluka SNARC_only CD 8 lctrl 0.577392101288
+luluka SNARC_only CD 2 num_delete 0.449276924133
+luluka SNARC_only CD 3 num_delete 0.736215114594
+luluka SNARC_only CD 1 num_delete 0.658390045166
+luluka SNARC_only CD 6 lctrl 0.441934108734
+luluka SNARC_only CD 4 lctrl 0.697151899338
+luluka SNARC_only CD 1 num_delete 0.417551994324
+luluka SNARC_only CD 8 lctrl 0.610785007477
+luluka SNARC_only CD 7 num_delete 0.465575933456
+luluka SNARC_only CD 8 lctrl 0.482290029526
+luluka SNARC_only CD 6 lctrl 0.80129981041
+luluka SNARC_only CD 2 lctrl 0.55327296257
+luluka SNARC_only CD 7 num_delete 0.480859041214
+luluka SNARC_only CD 2 lctrl 0.536911964417
+luluka SNARC_only CD 4 num_delete 0.641279935837
+luluka SNARC_only CD 5 num_delete 0.535223007202
+luluka SNARC_only CD 5 num_delete 0.385609865189
+luluka SNARC_only CD 1 lctrl 0.370634078979
+luluka SNARC_only CD 5 num_delete 0.568117141724
+luluka SNARC_only CD 5 num_delete 0.3618080616
+luluka SNARC_only CD 1 num_delete 0.512687921524
+luluka SNARC_only CD 3 num_delete 0.449883937836
+luluka SNARC_only CD 2 lctrl 0.489358901978
+luluka SNARC_only CD 2 lctrl 0.464850187302
+luluka SNARC_only CD 4 lctrl 0.401378154755
+luluka SNARC_only CD 8 lctrl 0.417012929916
+luluka SNARC_only CD 1 num_delete 0.36954498291
+luluka SNARC_only CD 1 num_delete 0.410253047943
+luluka SNARC_only CD 2 lctrl 0.392693996429
+luluka SNARC_only CD 3 num_delete 0.465147018433
+luluka SNARC_only CD 5 num_delete 0.480200052261
+luluka SNARC_only CD 1 num_delete 0.529579162598
+luluka SNARC_only CD 2 num_delete 0.401553153992
+luluka SNARC_only CD 2 lctrl 0.473762989044
+luluka SNARC_only CD 5 num_delete 0.513345003128
+luluka SNARC_only CD 3 num_delete 0.37744307518
+luluka SNARC_only CD 5 num_delete 0.417392969131
+luluka SNARC_only CD 2 lctrl 0.61069893837
+luluka SNARC_only CD 2 lctrl 0.454645872116
+luluka SNARC_only CD 3 num_delete 0.417226076126
+luluka SNARC_only CD 8 lctrl 0.465749025345
+luluka SNARC_only CD 9 num_delete 0.401445865631
+luluka SNARC_only CD 5 num_delete 0.536983013153
+luluka SNARC_only CD 8 lctrl 0.506596088409
+luluka SNARC_only CD 5 num_delete 0.689517974854
+luluka SNARC_only CD 2 lctrl 0.842211008072
+luluka SNARC_only CD 2 lctrl 0.465065956116
+luluka SNARC_only CD 8 num_delete 0.424780130386
+luluka SNARC_only CD 2 lctrl 0.457782030106
+luluka SNARC_only CD 4 lctrl 0.691962003708
+luluka SNARC_only CD 6 lctrl 1.6551220417
+luluka SNARC_only CD 1 num_delete 0.480032920837
+luluka SNARC_only CD 6 num_delete 1.24661803246
+luluka SNARC_only CD 3 num_delete 2.26903104782
+luluka SNARC_only CD 1 num_delete 0.41637301445
+luluka SNARC_only CD 3 num_delete 0.416949033737
+luluka SNARC_only CD 3 num_delete 0.348691940308
+luluka SNARC_only CD 8 lctrl 0.420991182327
+luluka SNARC_only CD 5 num_delete 0.421622991562
+luluka SNARC_only CD 8 lctrl 0.978359937668
+luluka SNARC_only CD 4 lctrl 0.424329042435
+luluka SNARC_only CD 9 num_delete 0.696773052216
+luluka SNARC_only CD 3 num_delete 0.737344026566
+luluka SNARC_only CD 4 lctrl 0.585917949677
+luluka SNARC_only CD 1 lctrl 0.448795795441
+luluka SNARC_only CD 8 num_delete 0.443839073181
+luluka SNARC_only CD 2 lctrl 0.469175100327
+luluka SNARC_only CD 1 num_delete 0.455701112747
+luluka SNARC_only CD 7 num_delete 0.608090877533
+luluka SNARC_only CD 6 lctrl 0.35459113121
+luluka SNARC_only CD 7 num_delete 0.384896993637
+luluka SNARC_only CD 6 lctrl 0.448953151703
+luluka SNARC_only CD 5 num_delete 0.648734092712
+luluka SNARC_only CD 8 lctrl 0.50575709343
+luluka SNARC_only CD 2 num_delete 0.481005907059
+luluka SNARC_only CD 8 lctrl 0.409205198288
+luluka SNARC_only CD 5 num_delete 0.570056915283
+luluka SNARC_only CD 4 lctrl 0.938122034073
+luluka SNARC_only CD 7 num_delete 0.58501291275
+luluka SNARC_only CD 2 lctrl 0.706269979477
+luluka SNARC_only CD 9 num_delete 0.745176076889
+luluka SNARC_only CD 2 lctrl 0.76246714592
+luluka SNARC_only CD 4 lctrl 0.865211963654
+luluka SNARC_only CD 2 lctrl 1.13754296303
+luluka SNARC_only CD 5 num_delete 0.497447013855
+luluka SNARC_only CD 4 lctrl 1.68261599541
+luluka SNARC_only CD 1 num_delete 0.536334991455
+luluka SNARC_only CD 5 lctrl 0.785491943359
+luluka SNARC_only CD 4 lctrl 0.305316925049
+luluka SNARC_only CD 3 num_delete 0.52922296524
+luluka SNARC_only CD 8 lctrl 0.73056602478
+luluka SNARC_only CD 8 lctrl 0.416400909424
+luluka SNARC_only CD 4 num_delete 0.560590028763
+luluka SNARC_only CD 8 lctrl 0.353853940964
+luluka SNARC_only CD 7 num_delete 0.536985874176
+luluka SNARC_only CD 3 num_delete 0.513492107391
+luluka SNARC_only CD 9 num_delete 0.433562040329
+luluka SNARC_only CD 1 num_delete 0.60164809227
+luluka SNARC_only CD 8 lctrl 0.426536083221
+luluka SNARC_only CD 2 lctrl 0.505947113037
+luluka SNARC_only CD 9 num_delete 0.544547796249
+luluka SNARC_only CD 6 lctrl 0.761113882065
+luluka SNARC_only CD 6 lctrl 0.442137002945
+luluka SNARC_only CD 9 num_delete 0.536919116974
+luluka SNARC_only CD 7 num_delete 1.76180791855
+luluka SNARC_only CD 2 lctrl 0.369690895081
+luluka SNARC_only CD 6 lctrl 0.57713508606
+luluka SNARC_only CD 9 num_delete 0.809754133224
+luluka SNARC_only CD 5 num_delete 1.49678707123
+luluka SNARC_only CD 2 lctrl 0.313882827759
+luluka SNARC_only CD 6 lctrl 0.353121042252
+luluka SNARC_only CD 1 num_delete 0.352553129196
+luluka SNARC_only CD 9 num_delete 0.553218126297
+luluka SNARC_only CD 3 num_delete 0.377236843109
+luluka SNARC_only CD 8 lctrl 0.54597902298
+luluka SNARC_only CD 4 lctrl 0.432811975479
+luluka SNARC_only CD 7 num_delete 0.376945018768
+luluka SNARC_only CD 3 num_delete 0.497688055038
+luluka SNARC_only CD 8 lctrl 0.663637876511
+luluka SNARC_only CD 7 num_delete 0.504463911057
+luluka SNARC_only CD 5 num_delete 0.601514101028
+luluka SNARC_only CD 7 num_delete 0.425678014755
+luluka SNARC_only CD 8 lctrl 0.489850997925
+luluka SNARC_only CD 8 lctrl 0.330074071884
+luluka SNARC_only CD 9 num_delete 0.449367046356
+luluka SNARC_only CD 5 lctrl 0.554425954819
+luluka SNARC_only CD 9 num_delete 0.6489341259
+luluka SNARC_only CD 9 num_delete 0.305553913116
+luluka SNARC_only CD 3 num_delete 0.384141921997
+luluka SNARC_only CD 6 lctrl 0.320837974548
+luluka SNARC_only CD 4 lctrl 0.426260948181
+luluka SNARC_only CD 9 num_delete 0.44106221199
+luluka SNARC_only CD 3 num_delete 0.401558160782
+luluka SNARC_only CD 9 num_delete 0.40136885643
+luluka SNARC_only CD 2 lctrl 0.346648931503
+luluka SNARC_only CD 9 num_delete 0.367281913757
+luluka SNARC_only CD 6 lctrl 0.337596893311
+luluka SNARC_only CD 9 num_delete 0.42400598526
+luluka SNARC_only CD 7 num_delete 0.441468000412
+luluka SNARC_only CD 6 lctrl 0.378345966339
+luluka SNARC_only CD 1 num_delete 0.680857896805
+luluka SNARC_only CD 6 lctrl 0.810886144638
+luluka SNARC_only CD 9 num_delete 0.529410839081
+luluka SNARC_only CD 8 lctrl 0.554651021957
+luluka SNARC_only CD 6 lctrl 0.418239116669
+luluka SNARC_only CD 3 num_delete 0.457116127014
+luluka SNARC_only CD 1 num_delete 0.622547864914
+luluka SNARC_only CD 2 lctrl 0.329415082932
+luluka SNARC_only CD 4 lctrl 0.369536876678
+luluka SNARC_only CD 3 num_delete 0.407908916473
+luluka SNARC_only CD 4 lctrl 0.609909057617
+luluka SNARC_only CD 3 num_delete 0.41733288765
+luluka SNARC_only CD 8 lctrl 0.538170814514
+luluka SNARC_only CD 2 lctrl 0.506347894669
+luluka SNARC_only CD 7 num_delete 0.448817014694
+luluka SNARC_only CD 3 num_delete 0.344300985336
+luluka SNARC_only CD 7 num_delete 0.417616128922
+luluka SNARC_only CD 2 num_delete 0.353471040726
+luluka SNARC_only CD 8 lctrl 0.537683010101
+luluka SNARC_only CD 7 num_delete 0.328940868378
+luluka SNARC_only CD 7 num_delete 0.345667123795
+luluka SNARC_only CD 6 lctrl 0.354674100876
+luluka SNARC_only CD 5 lctrl 0.297338962555
+luluka SNARC_only CD 1 lctrl 0.313232898712
+luluka SNARC_only CD 4 lctrl 0.497575998306
+luluka SNARC_only CD 7 num_delete 0.641628026962
+luluka SNARC_only CD 7 num_delete 0.337247848511
+luluka SNARC_only CD 3 lctrl 0.338426828384
+luluka SNARC_only CD 1 num_delete 0.393214941025
+luluka SNARC_only CD 8 lctrl 0.386197090149
+luluka SNARC_only CD 6 lctrl 0.440773963928
+luluka SNARC_only CD 5 num_delete 0.401165962219
+luluka SNARC_only CD 5 num_delete 0.321297883987
+luluka SNARC_only CD 3 num_delete 0.37640619278
+luluka SNARC_only CD 8 num_delete 0.360913991928
+luluka SNARC_only CD 6 lctrl 0.481260061264
+luluka SNARC_only CD 8 lctrl 0.425231933594
+luluka SNARC_only CD 8 lctrl 0.305837869644
+luluka SNARC_only CD 9 num_delete 0.328778982162
+luluka SNARC_only CD 7 num_delete 0.625435113907
+luluka SNARC_only CD 7 num_delete 0.30567407608
+luluka SNARC_only CD 9 lctrl 0.369477033615
+luluka SNARC_only CD 7 num_delete 0.415853023529
+luluka SNARC_only CD 3 lctrl 0.329642057419
+luluka SNARC_only CD 3 num_delete 0.704900979996
+luluka SNARC_only CD 6 lctrl 0.434179067612
+luluka SNARC_only CD 1 num_delete 0.75377202034
+luluka SNARC_only CD 1 num_delete 0.321985960007
+luluka SNARC_only CD 4 lctrl 0.347321987152
+luluka SNARC_only CD 6 lctrl 0.472394943237
+luluka SNARC_only CD 7 num_delete 0.385055065155
+luluka SNARC_only CD 1 num_delete 0.401433944702
+luluka SNARC_only CD 4 lctrl 0.418247938156
+luluka SNARC_only CD 9 num_delete 0.45655298233
+luluka SNARC_only CD 3 num_delete 0.529385089874
+luluka SNARC_only CD 1 num_delete 0.481338977814
+luluka SNARC_only CD 4 lctrl 0.377354860306
+luluka SNARC_only CD 8 lctrl 0.409811019897
+luluka SNARC_only CD 1 num_delete 0.625066041946
+luluka SNARC_only CD 5 num_delete 0.362071990967
+luluka SNARC_only CD 6 lctrl 0.473875999451
+luluka SNARC_only CD 5 lctrl 0.481663942337
+luluka SNARC_only CD 6 lctrl 0.304436922073
+luluka SNARC_only CD 4 num_delete 0.376930952072
+luluka SNARC_only CD 2 lctrl 0.681609869003
+luluka SNARC_only CD 7 num_delete 0.369787931442
+luluka SNARC_only CD 6 lctrl 0.46610212326
+luluka SNARC_only CD 9 lctrl 0.353792905807
+luluka SNARC_only CD 2 lctrl 0.328835964203
+luluka SNARC_only CD 4 lctrl 0.680554866791
+luluka SNARC_only CD 9 num_delete 0.54536485672
+luluka SNARC_only CD 3 lctrl 0.675335884094
+luluka SNARC_only CD 8 lctrl 0.320353984833
+luluka SNARC_only CD 1 num_delete 0.393045902252
+luluka SNARC_only CD 9 num_delete 0.313735961914
+{'participant': u'luluka', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1350', 'autopilot': False, 'exp_id': u'SNARC'}
+luluka SNARC_only DC 2 num_delete 1.75061392784
+luluka SNARC_only DC 1 lctrl 0.426535844803
+luluka SNARC_only DC 8 num_delete 0.711254119873
+luluka SNARC_only DC 9 lctrl 0.417638063431
+luluka SNARC_only DC 4 num_delete 0.512101173401
+luluka SNARC_only DC 4 num_delete 0.401987075806
+luluka SNARC_only DC 3 lctrl 0.537509918213
+luluka SNARC_only DC 2 num_delete 0.425630092621
+luluka SNARC_only DC 6 num_delete 0.391821146011
+luluka SNARC_only DC 6 num_delete 0.313195943832
+luluka SNARC_only DC 1 lctrl 0.35471200943
+luluka SNARC_only DC 5 lctrl 0.521375894547
+luluka SNARC_only DC 8 num_delete 0.449418067932
+luluka SNARC_only DC 3 lctrl 0.473788022995
+luluka SNARC_only DC 5 lctrl 0.754166841507
+luluka SNARC_only DC 7 lctrl 1.13664293289
+luluka SNARC_only DC 3 lctrl 0.593800067902
+luluka SNARC_only DC 8 num_delete 0.729454994202
+luluka SNARC_only DC 8 num_delete 0.338451862335
+luluka SNARC_only DC 1 lctrl 0.338291883469
+luluka SNARC_only DC 9 lctrl 0.552515983582
+luluka SNARC_only DC 7 lctrl 0.505655050278
+luluka SNARC_only DC 7 lctrl 0.385529994965
+luluka SNARC_only DC 8 num_delete 0.376994132996
+luluka SNARC_only DC 4 num_delete 0.609736919403
+luluka SNARC_only DC 5 lctrl 0.449958086014
+luluka SNARC_only DC 8 num_delete 0.408841133118
+luluka SNARC_only DC 8 num_delete 0.393642902374
+luluka SNARC_only DC 9 lctrl 0.369655132294
+luluka SNARC_only DC 8 lctrl 0.393222093582
+luluka SNARC_only DC 2 num_delete 0.619192123413
+luluka SNARC_only DC 8 num_delete 0.464807033539
+luluka SNARC_only DC 9 num_delete 0.346204042435
+luluka SNARC_only DC 1 lctrl 0.354286909103
+luluka SNARC_only DC 2 num_delete 0.425345182419
+luluka SNARC_only DC 9 lctrl 0.594413995743
+luluka SNARC_only DC 8 num_delete 0.481656074524
+luluka SNARC_only DC 5 lctrl 0.513802051544
+luluka SNARC_only DC 4 num_delete 0.69758605957
+luluka SNARC_only DC 4 num_delete 0.393193006516
+luluka SNARC_only DC 9 lctrl 0.513377904892
+luluka SNARC_only DC 2 num_delete 0.433160066605
+luluka SNARC_only DC 4 num_delete 0.465750932693
+luluka SNARC_only DC 1 lctrl 0.40957403183
+luluka SNARC_only DC 4 num_delete 0.464942932129
+luluka SNARC_only DC 6 num_delete 0.881443023682
+luluka SNARC_only DC 5 lctrl 0.514309883118
+luluka SNARC_only DC 3 lctrl 0.745438098907
+luluka SNARC_only DC 6 num_delete 0.568227052689
+luluka SNARC_only DC 4 num_delete 0.497995138168
+luluka SNARC_only DC 2 num_delete 0.642488002777
+luluka SNARC_only DC 8 num_delete 0.585942029953
+luluka SNARC_only DC 3 lctrl 0.506901025772
+luluka SNARC_only DC 4 num_delete 1.03290700912
+luluka SNARC_only DC 1 lctrl 0.65779709816
+luluka SNARC_only DC 5 num_delete 0.689227819443
+luluka SNARC_only DC 4 num_delete 0.360957145691
+luluka SNARC_only DC 3 lctrl 0.554235935211
+luluka SNARC_only DC 5 lctrl 0.785217046738
+luluka SNARC_only DC 8 num_delete 0.512912034988
+luluka SNARC_only DC 7 lctrl 0.554510116577
+luluka SNARC_only DC 5 lctrl 0.369768857956
+luluka SNARC_only DC 8 num_delete 0.360814094543
+luluka SNARC_only DC 2 num_delete 0.633533000946
+luluka SNARC_only DC 2 num_delete 0.409276008606
+luluka SNARC_only DC 9 lctrl 0.585513114929
+luluka SNARC_only DC 4 num_delete 0.657496929169
+luluka SNARC_only DC 8 num_delete 0.720993995667
+luluka SNARC_only DC 3 lctrl 0.874110221863
+luluka SNARC_only DC 7 lctrl 1.04095101357
+luluka SNARC_only DC 8 num_delete 0.561315059662
+luluka SNARC_only DC 5 num_delete 0.537562847137
+luluka SNARC_only DC 5 lctrl 0.353219985962
+luluka SNARC_only DC 2 num_delete 0.497060060501
+luluka SNARC_only DC 4 lctrl 0.647179841995
+luluka SNARC_only DC 4 num_delete 0.41699385643
+luluka SNARC_only DC 5 lctrl 0.485251903534
+luluka SNARC_only DC 2 num_delete 0.414108991623
+luluka SNARC_only DC 3 lctrl 0.522478103638
+luluka SNARC_only DC 2 num_delete 0.512493848801
+luluka SNARC_only DC 2 num_delete 0.369097948074
+luluka SNARC_only DC 2 num_delete 0.304612874985
+luluka SNARC_only DC 8 num_delete 0.569916009903
+luluka SNARC_only DC 6 num_delete 0.43184709549
+luluka SNARC_only DC 1 lctrl 0.521941900253
+luluka SNARC_only DC 6 num_delete 0.513281822205
+luluka SNARC_only DC 3 lctrl 0.618366956711
+luluka SNARC_only DC 9 lctrl 0.753732204437
+luluka SNARC_only DC 6 num_delete 0.51157784462
+luluka SNARC_only DC 5 lctrl 0.562175035477
+luluka SNARC_only DC 6 num_delete 0.425477027893
+luluka SNARC_only DC 3 lctrl 3.89844918251
+luluka SNARC_only DC 3 lctrl 0.337304830551
+luluka SNARC_only DC 4 num_delete 0.513514041901
+luluka SNARC_only DC 8 lctrl 0.449833869934
+luluka SNARC_only DC 5 lctrl 0.36172580719
+luluka SNARC_only DC 4 num_delete 0.41687297821
+luluka SNARC_only DC 2 num_delete 0.433749914169
+luluka SNARC_only DC 2 num_delete 0.329226016998
+luluka SNARC_only DC 5 lctrl 0.410485982895
+luluka SNARC_only DC 3 lctrl 0.897780895233
+luluka SNARC_only DC 6 num_delete 0.536483049393
+luluka SNARC_only DC 1 lctrl 0.561926841736
+luluka SNARC_only DC 9 lctrl 0.393625020981
+luluka SNARC_only DC 1 lctrl 0.354051828384
+luluka SNARC_only DC 3 lctrl 0.456932067871
+luluka SNARC_only DC 2 num_delete 0.296509981155
+luluka SNARC_only DC 6 num_delete 0.433730125427
+luluka SNARC_only DC 9 lctrl 0.43380188942
+luluka SNARC_only DC 8 num_delete 0.585099220276
+luluka SNARC_only DC 1 lctrl 0.993594884872
+luluka SNARC_only DC 1 lctrl 0.353746891022
+luluka SNARC_only DC 3 lctrl 0.513220071793
+luluka SNARC_only DC 5 lctrl 0.529198884964
+luluka SNARC_only DC 3 lctrl 0.522332906723
+luluka SNARC_only DC 5 lctrl 0.431864976883
+luluka SNARC_only DC 5 lctrl 0.353144884109
+luluka SNARC_only DC 9 num_delete 0.39297413826
+luluka SNARC_only DC 9 lctrl 0.394031047821
+luluka SNARC_only DC 7 lctrl 0.433022022247
+luluka SNARC_only DC 4 num_delete 0.369137048721
+luluka SNARC_only DC 6 num_delete 0.418153047562
+luluka SNARC_only DC 2 num_delete 0.433100938797
+luluka SNARC_only DC 9 lctrl 0.545524835587
+luluka SNARC_only DC 3 num_delete 0.369531154633
+luluka SNARC_only DC 3 lctrl 0.345335006714
+luluka SNARC_only DC 7 lctrl 0.345813989639
+luluka SNARC_only DC 8 num_delete 0.424592971802
+luluka SNARC_only DC 9 lctrl 0.393903017044
+luluka SNARC_only DC 2 num_delete 0.505214929581
+luluka SNARC_only DC 6 num_delete 0.473380088806
+luluka SNARC_only DC 9 lctrl 0.481544017792
+luluka SNARC_only DC 1 lctrl 0.410494804382
+luluka SNARC_only DC 5 lctrl 0.34597992897
+luluka SNARC_only DC 1 lctrl 0.457640886307
+luluka SNARC_only DC 2 lctrl 0.416683912277
+luluka SNARC_only DC 6 lctrl 0.35352897644
+luluka SNARC_only DC 4 num_delete 0.375776052475
+luluka SNARC_only DC 3 lctrl 0.33807516098
+luluka SNARC_only DC 7 lctrl 0.378696918488
+luluka SNARC_only DC 4 num_delete 0.52081489563
+luluka SNARC_only DC 6 num_delete 0.752737998962
+luluka SNARC_only DC 2 num_delete 0.833389043808
+luluka SNARC_only DC 8 num_delete 0.450175046921
+luluka SNARC_only DC 4 num_delete 0.513931035995
+luluka SNARC_only DC 2 num_delete 0.338476896286
+luluka SNARC_only DC 8 num_delete 0.456661939621
+luluka SNARC_only DC 1 lctrl 0.433745861053
+luluka SNARC_only DC 6 num_delete 0.457422971725
+luluka SNARC_only DC 3 lctrl 0.690502166748
+luluka SNARC_only DC 4 num_delete 0.489056110382
+luluka SNARC_only DC 7 lctrl 0.610505819321
+luluka SNARC_only DC 1 lctrl 0.705702066422
+luluka SNARC_only DC 6 num_delete 0.401534080505
+luluka SNARC_only DC 9 lctrl 0.48219704628
+luluka SNARC_only DC 9 lctrl 0.393044948578
+luluka SNARC_only DC 1 num_delete 0.361192941666
+luluka SNARC_only DC 2 num_delete 0.344733953476
+luluka SNARC_only DC 1 lctrl 0.417774915695
+luluka SNARC_only DC 3 num_delete 0.552510023117
+luluka SNARC_only DC 5 lctrl 0.417280912399
+luluka SNARC_only DC 7 lctrl 0.336688041687
+luluka SNARC_only DC 1 lctrl 0.441947937012
+luluka SNARC_only DC 6 num_delete 0.473140001297
+luluka SNARC_only DC 1 lctrl 0.329843044281
+luluka SNARC_only DC 4 num_delete 0.448670148849
+luluka SNARC_only DC 7 lctrl 0.330190896988
+luluka SNARC_only DC 3 lctrl 0.466328859329
+luluka SNARC_only DC 1 lctrl 0.370009899139
+luluka SNARC_only DC 8 num_delete 0.369038820267
+luluka SNARC_only DC 4 lctrl 0.394917011261
+luluka SNARC_only DC 5 lctrl 0.577265024185
+luluka SNARC_only DC 7 lctrl 0.46569108963
+luluka SNARC_only DC 3 lctrl 0.967319011688
+luluka SNARC_only DC 5 num_delete 0.408926963806
+luluka SNARC_only DC 7 lctrl 0.377509832382
+luluka SNARC_only DC 9 lctrl 0.441550970078
+luluka SNARC_only DC 3 lctrl 0.345665931702
+luluka SNARC_only DC 4 lctrl 0.369406938553
+luluka SNARC_only DC 7 lctrl 0.472883939743
+luluka SNARC_only DC 6 num_delete 0.424772977829
+luluka SNARC_only DC 1 lctrl 0.394343137741
+luluka SNARC_only DC 5 lctrl 0.82311797142
+luluka SNARC_only DC 5 lctrl 0.361053943634
+luluka SNARC_only DC 6 num_delete 0.449253082275
+luluka SNARC_only DC 7 lctrl 0.610137939453
+luluka SNARC_only DC 5 lctrl 0.506087064743
+luluka SNARC_only DC 2 lctrl 0.353627920151
+luluka SNARC_only DC 5 lctrl 0.601413011551
+luluka SNARC_only DC 3 lctrl 1.92133998871
+luluka SNARC_only DC 6 num_delete 0.409478187561
+luluka SNARC_only DC 5 lctrl 0.504827976227
+luluka SNARC_only DC 5 lctrl 0.370661020279
+luluka SNARC_only DC 3 lctrl 0.640506982803
+luluka SNARC_only DC 6 num_delete 0.497563123703
+luluka SNARC_only DC 4 lctrl 0.481031894684
+luluka SNARC_only DC 9 lctrl 0.473747968674
+luluka SNARC_only DC 8 num_delete 0.528939008713
+luluka SNARC_only DC 6 num_delete 0.442086935043
+luluka SNARC_only DC 9 lctrl 0.786241054535
+luluka SNARC_only DC 3 lctrl 0.54473400116
+luluka SNARC_only DC 6 num_delete 0.560336112976
+luluka SNARC_only DC 8 num_delete 0.546333789825
+luluka SNARC_only DC 3 lctrl 0.546064138412
+luluka SNARC_only DC 7 lctrl 0.457756996155
+luluka SNARC_only DC 4 lctrl 0.402684926987
+luluka SNARC_only DC 7 lctrl 0.337433099747
+luluka SNARC_only DC 4 num_delete 0.465992927551
+luluka SNARC_only DC 9 num_delete 0.40912103653
+luluka SNARC_only DC 7 lctrl 0.537558078766
+luluka SNARC_only DC 7 lctrl 0.34587597847
+luluka SNARC_only DC 3 lctrl 0.537346839905
+luluka SNARC_only DC 1 lctrl 0.433745145798
+luluka SNARC_only DC 3 lctrl 0.513226985931
+luluka SNARC_only DC 7 lctrl 0.369910955429
+luluka SNARC_only DC 1 lctrl 0.641081094742
+luluka SNARC_only DC 9 lctrl 0.37703204155
+luluka SNARC_only DC 1 lctrl 0.369683027267
+luluka SNARC_only DC 2 num_delete 0.417109012604
+luluka SNARC_only DC 4 num_delete 0.441615104675
+luluka SNARC_only DC 2 num_delete 0.369585037231
+luluka SNARC_only DC 1 lctrl 0.377772092819
+luluka SNARC_only DC 1 lctrl 0.351191997528
+luluka SNARC_only DC 6 num_delete 0.433581113815
+luluka SNARC_only DC 3 lctrl 0.770612001419
+luluka SNARC_only DC 2 lctrl 0.410008907318
+luluka SNARC_only DC 9 lctrl 0.576251029968
+luluka SNARC_only DC 2 lctrl 0.400442123413
+luluka SNARC_only DC 8 lctrl 0.47367811203
+luluka SNARC_only DC 5 lctrl 0.513355970383
+luluka SNARC_only DC 6 num_delete 0.529399871826
+luluka SNARC_only DC 7 lctrl 0.506834030151
+luluka SNARC_only DC 6 num_delete 0.385124921799
+luluka SNARC_only DC 7 lctrl 0.39449095726
+luluka SNARC_only DC 9 lctrl 0.679913043976
+luluka SNARC_only DC 1 lctrl 0.409569978714
+luluka SNARC_only DC 6 num_delete 0.384433984756
+luluka SNARC_only DC 9 lctrl 0.611253976822
+luluka SNARC_only DC 7 lctrl 0.370440006256
+luluka SNARC_only DC 7 lctrl 0.360912084579
+luluka SNARC_only DC 1 lctrl 0.337832927704
+luluka SNARC_only DC 3 lctrl 0.537639141083
+luluka SNARC_only DC 5 lctrl 0.392857074738
+luluka SNARC_only DC 2 num_delete 0.337162017822
+luluka SNARC_only DC 6 num_delete 0.409590959549
+luluka SNARC_only DC 1 lctrl 0.329502105713
+luluka SNARC_only DC 4 num_delete 0.440639019012
+luluka SNARC_only DC 8 num_delete 0.353405952454
+luluka SNARC_only DC 8 num_delete 0.337509155273
+luluka SNARC_only DC 9 lctrl 0.401607036591
+luluka SNARC_only DC 7 lctrl 0.322313070297
+luluka SNARC_only DC 1 lctrl 0.425311803818
+luluka SNARC_only DC 7 lctrl 0.321439027786
+luluka SNARC_only DC 1 lctrl 0.329821109772
+luluka SNARC_only DC 9 num_delete 0.39240193367
+luluka SNARC_only DC 3 lctrl 0.401972055435
+luluka SNARC_only DC 3 lctrl 0.362011909485
+luluka SNARC_only DC 9 num_delete 0.657930135727
+luluka SNARC_only DC 6 num_delete 0.424865961075
+luluka SNARC_only DC 2 num_delete 0.409284114838
+luluka SNARC_only DC 1 lctrl 0.331191062927
+luluka SNARC_only DC 7 lctrl 0.368948936462
+luluka SNARC_only DC 4 num_delete 0.385367155075
+luluka SNARC_only DC 5 lctrl 0.448427915573
+luluka SNARC_only DC 9 lctrl 0.506671905518
+luluka SNARC_only DC 3 lctrl 0.577427148819
+luluka SNARC_only DC 7 lctrl 0.538318872452
+luluka SNARC_only DC 2 num_delete 0.817028999329
+luluka SNARC_only DC 9 lctrl 1.16282582283
+luluka SNARC_only DC 1 lctrl 0.489972114563
+luluka SNARC_only DC 4 num_delete 0.45719909668
+luluka SNARC_only DC 9 lctrl 2.00211000443
+luluka SNARC_only DC 9 lctrl 0.320281982422
+luluka SNARC_only DC 1 lctrl 0.465779066086
+luluka SNARC_only DC 7 lctrl 0.31424498558
+luluka SNARC_only DC 8 lctrl 0.4894759655
+luluka SNARC_only DC 6 num_delete 0.705314874649
+luluka SNARC_only DC 2 num_delete 0.520987033844
+luluka SNARC_only DC 5 lctrl 0.929948091507
+luluka SNARC_only DC 2 num_delete 0.69686794281
+luluka SNARC_only DC 9 lctrl 1.39342498779
+luluka SNARC_only DC 6 lctrl 0.368818044662
+luluka SNARC_only DC 9 lctrl 0.344826221466
+luluka SNARC_only DC 4 num_delete 0.633198022842
+luluka SNARC_only DC 2 num_delete 0.656883955002
+luluka SNARC_only DC 6 lctrl 0.666414022446
+luluka SNARC_only DC 2 num_delete 0.312716960907
+luluka SNARC_only DC 9 lctrl 0.386473178864
+luluka SNARC_only DC 5 lctrl 0.410009860992
+luluka SNARC_only DC 9 lctrl 0.296795129776
+luluka SNARC_only DC 7 lctrl 0.350178003311
+luluka SNARC_only DC 4 num_delete 0.424897193909
+luluka SNARC_only DC 1 lctrl 0.489573001862
+luluka SNARC_only DC 6 num_delete 0.457874059677
+luluka SNARC_only DC 8 num_delete 0.42616891861
+luluka SNARC_only DC 2 num_delete 0.441451072693
+luluka SNARC_only DC 4 num_delete 0.369472026825
+luluka SNARC_only DC 3 lctrl 0.321639060974
+luluka SNARC_only DC 7 lctrl 0.369241952896
+luluka SNARC_only DC 6 num_delete 0.368644952774
+luluka SNARC_only DC 7 lctrl 0.409367084503
+luluka SNARC_only DC 1 lctrl 0.569833040237
+luluka SNARC_only DC 2 num_delete 0.433259010315
+luluka SNARC_only DC 4 num_delete 0.376881122589
+luluka SNARC_only DC 6 num_delete 0.321525096893
+luluka SNARC_only DC 7 lctrl 0.448753833771
+luluka SNARC_only DC 7 lctrl 0.368616104126
+luluka SNARC_only DC 7 lctrl 0.385508060455
+luluka SNARC_only DC 5 lctrl 0.808752059937
+luluka SNARC_only DC 9 lctrl 0.953120946884
+luluka SNARC_only DC 8 num_delete 0.47386097908
+luluka SNARC_only DC 8 num_delete 0.337994813919
+luluka SNARC_only DC 7 lctrl 0.385720014572
+luluka SNARC_only DC 7 lctrl 0.346208810806
+luluka SNARC_only DC 5 lctrl 0.449758052826
+luluka SNARC_only DC 4 num_delete 0.472806215286
+luluka SNARC_only DC 4 num_delete 0.344755887985
+luluka SNARC_only DC 6 num_delete 0.49696803093
+luluka SNARC_only DC 8 num_delete 0.345778942108
+luluka SNARC_only DC 8 num_delete 0.297266960144
+luluka SNARC_only DC 9 lctrl 0.337655067444
+luluka SNARC_only DC 4 num_delete 0.448656797409
+luluka SNARC_only DC 5 lctrl 0.417829036713
+luluka SNARC_only DC 3 num_delete 0.609500169754
+luluka SNARC_only DC 8 num_delete 0.520550012589
+luluka SNARC_only DC 4 num_delete 0.466418981552
+luluka SNARC_only DC 8 num_delete 0.37683391571
+luluka SNARC_only DC 6 num_delete 0.50538110733
+luluka SNARC_only DC 2 num_delete 0.402637004852
+luluka SNARC_only DC 5 lctrl 0.450352191925
+luluka SNARC_only DC 9 lctrl 0.570648193359
+luluka SNARC_only DC 7 lctrl 0.672997951508
+luluka SNARC_only DC 8 lctrl 0.761476993561
+luluka SNARC_only DC 6 num_delete 0.274058103561
+luluka SNARC_only DC 3 lctrl 0.393312215805
+luluka SNARC_only DC 1 lctrl 0.433605194092
+luluka SNARC_only DC 8 num_delete 0.560986995697
+luluka SNARC_only DC 2 num_delete 0.521876096725
+luluka SNARC_only DC 3 lctrl 0.393924951553
+luluka SNARC_only DC 1 lctrl 0.385726928711
+luluka SNARC_only DC 5 lctrl 0.554125070572
+luluka SNARC_only DC 9 lctrl 0.577643156052
+luluka SNARC_only DC 5 lctrl 0.417752981186
+luluka SNARC_only DC 7 lctrl 0.433987140656
+luluka SNARC_only DC 4 num_delete 0.720696926117
+luluka SNARC_only DC 2 num_delete 0.554056882858
+luluka SNARC_only DC 5 lctrl 0.472810029984
+luluka SNARC_only DC 3 lctrl 0.377609014511
+luluka SNARC_only DC 1 lctrl 0.385768890381
+luluka SNARC_only DC 1 lctrl 0.321974039078
+luluka SNARC_only DC 5 lctrl 0.52193403244
+luluka SNARC_only DC 8 num_delete 0.384039163589
+luluka SNARC_only DC 8 num_delete 0.313277006149
+luluka SNARC_only DC 4 lctrl 0.521064043045
+luluka SNARC_only DC 3 lctrl 0.504811048508
+luluka SNARC_only DC 2 num_delete 0.481643915176
+luluka SNARC_only DC 8 num_delete 0.458332061768
+luluka SNARC_only DC 6 num_delete 0.513851881027
+luluka SNARC_only DC 7 num_delete 0.473873138428
+luluka SNARC_only DC 6 num_delete 0.425155878067
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'luluka', 'dateStr': u'05_18_1359'}
+luluka resp_prep 0.6 red p 0.640113830566
+luluka resp_prep 1.0 red p 0.448250055313
+luluka resp_prep 0.1 green q 0.430222988129
+luluka resp_prep 0.8 green q 0.367836952209
+luluka resp_prep 0.1 red p 0.42103099823
+luluka resp_prep 0.1 green q 0.493519067764
+luluka resp_prep 1.0 green q 0.448480129242
+luluka resp_prep 0.1 red p 0.389050006866
+luluka resp_prep 0.6 red p 0.320641040802
+luluka resp_prep 1.0 green q 0.376806020737
+luluka resp_prep 1.0 green q 0.336398839951
+luluka resp_prep 1.0 red p 0.368793010712
+luluka resp_prep 0.3 green q 0.389501094818
+luluka resp_prep 0.8 green q 0.304366827011
+luluka resp_prep 0.1 red p 0.356600046158
+luluka resp_prep 1.0 red p 0.280466079712
+luluka resp_prep 0.8 green q 0.367795944214
+luluka resp_prep 0.3 red p 0.453219890594
+luluka resp_prep 0.6 green q 0.353036165237
+luluka resp_prep 0.6 red p 0.280722141266
+luluka resp_prep 0.1 green q 0.412952899933
+luluka resp_prep 0.3 red p 0.421248912811
+luluka resp_prep 0.6 green q 0.344761133194
+luluka resp_prep 0.1 red p 0.428974151611
+luluka resp_prep 0.8 red p 0.488394975662
+luluka resp_prep 0.3 green q 0.380768060684
+luluka resp_prep 0.1 red p 0.501322984695
+luluka resp_prep 0.3 green q 0.372049093246
+luluka resp_prep 1.0 red p 0.368948936462
+luluka resp_prep 0.3 green q 0.325085878372
+luluka resp_prep 1.0 red p 0.304199934006
+luluka resp_prep 0.3 red p 0.340932846069
+luluka resp_prep 0.6 green q 0.328886032104
+luluka resp_prep 0.8 red p 0.384439945221
+luluka resp_prep 1.0 green q 0.328188180923
+luluka resp_prep 0.6 red p 0.41682600975
+luluka resp_prep 0.8 red p 0.592493057251
+luluka resp_prep 0.6 green q 0.352613925934
+luluka resp_prep 0.8 red p 0.416771173477
+luluka resp_prep 0.1 green q 0.469199895859
+luluka resp_prep 0.8 green q 0.376525163651
+luluka resp_prep 0.1 red p 0.389559030533
+luluka resp_prep 0.8 green q 0.328896045685
+luluka resp_prep 1.0 red p 0.391582012177
+luluka resp_prep 0.1 red p 0.397162914276
+luluka resp_prep 0.3 red q 0.291795969009
+luluka resp_prep 0.8 red p 0.304593086243
+luluka resp_prep 0.3 green q 0.39714217186
+luluka resp_prep 0.3 green q 0.300823926926
+luluka resp_prep 0.6 green q 0.32072687149
+luluka resp_prep 0.1 red p 0.333210945129
+luluka resp_prep 0.6 red p 0.417042970657
+luluka resp_prep 0.6 red p 0.415814876556
+luluka resp_prep 0.3 green p 0.389641046524
+luluka resp_prep 0.6 red p 0.336349964142
+luluka resp_prep 0.8 green q 0.408278942108
+luluka resp_prep 0.3 green q 0.373274087906
+luluka resp_prep 0.3 green q 0.564994096756
+luluka resp_prep 0.8 red p 0.67253112793
+luluka resp_prep 0.3 red p 0.581559896469
+luluka resp_prep 0.3 red p 0.29345202446
+luluka resp_prep 0.1 green q 0.508615016937
+luluka resp_prep 0.8 green q 0.296569108963
+luluka resp_prep 1.0 red p 0.496706008911
+luluka resp_prep 1.0 red p 0.31187081337
+luluka resp_prep 0.8 red p 0.368525981903
+luluka resp_prep 0.1 green q 0.365149021149
+luluka resp_prep 0.8 red p 0.432381868362
+luluka resp_prep 1.0 green q 0.488175868988
+luluka resp_prep 0.8 green q 0.617103815079
+luluka resp_prep 0.3 green q 0.460451841354
+luluka resp_prep 1.0 red p 0.376953125
+luluka resp_prep 0.6 red p 0.567936182022
+luluka resp_prep 0.1 green q 0.717746019363
+luluka resp_prep 1.0 green q 0.344388961792
+luluka resp_prep 0.6 green q 0.424753904343
+luluka resp_prep 0.3 green q 0.34126996994
+luluka resp_prep 0.1 red p 0.46887588501
+luluka resp_prep 0.1 red p 0.396924972534
+luluka resp_prep 1.0 green q 0.384231090546
+luluka resp_prep 0.6 red q 0.279654026031
+luluka resp_prep 0.1 red p 0.405193805695
+luluka resp_prep 0.3 red p 0.372744083405
+luluka resp_prep 0.8 green q 1.44818401337
+luluka resp_prep 0.1 green q 0.493338823318
+luluka resp_prep 0.6 green q 0.441008806229
+luluka resp_prep 0.3 green q 0.292107105255
+luluka resp_prep 0.6 green q 0.321249961853
+luluka resp_prep 0.8 red p 0.247925043106
+luluka resp_prep 0.6 red p 0.376802921295
+luluka resp_prep 0.1 red p 0.325078964233
+luluka resp_prep 0.1 red p 0.316561937332
+luluka resp_prep 0.8 green q 0.496427059174
+luluka resp_prep 0.3 red p 0.452707052231
+luluka resp_prep 0.1 green q 0.421488046646
+luluka resp_prep 0.3 green q 0.373184919357
+luluka resp_prep 0.6 red p 0.296938180923
+luluka resp_prep 0.8 red p 0.224500179291
+luluka resp_prep 0.1 red p 0.332865953445
+luluka resp_prep 0.8 green q 0.296514034271
+luluka resp_prep 0.3 red p 0.40504693985
+luluka resp_prep 0.6 green p 0.320812940598
+luluka resp_prep 0.6 green q 0.416797876358
+luluka resp_prep 0.3 red p 0.452651977539
+luluka resp_prep 0.6 green q 0.30437707901
+luluka resp_prep 0.3 red p 0.460936069489
+luluka resp_prep 0.1 green q 0.436532974243
+luluka resp_prep 0.8 green q 0.352321863174
+luluka resp_prep 1.0 red p 0.400282144547
+luluka resp_prep 0.8 red q 0.439984083176
+luluka resp_prep 0.1 green p 0.725188016891
+luluka resp_prep 0.6 green q 1.32811784744
+luluka resp_prep 1.0 red p 0.472513914108
+luluka resp_prep 0.8 red p 0.384830951691
+luluka resp_prep 0.3 red p 0.373478889465
+luluka resp_prep 0.1 green q 0.412714004517
+luluka resp_prep 0.8 red p 0.344444036484
+luluka resp_prep 1.0 red p 0.384627819061
+luluka resp_prep 0.6 red p 0.328575849533
+luluka resp_prep 1.0 green q 0.448230028152
+luluka resp_prep 0.3 green q 1.22888588905
+luluka resp_prep 1.0 green q 0.608129024506
+luluka resp_prep 1.0 red p 0.50514292717
+luluka resp_prep 0.8 red p 0.696784973145
+luluka resp_prep 0.1 red p 0.356951951981
+luluka resp_prep 0.6 red p 0.51224398613
+luluka resp_prep 1.0 green q 0.312882900238
+luluka resp_prep 0.8 green q 0.664284229279
+luluka resp_prep 1.0 green q 0.240607023239
+luluka resp_prep 0.8 green q 0.47286605835
+luluka resp_prep 0.1 green q 0.428814888
+luluka resp_prep 0.8 red p 0.528478145599
+luluka resp_prep 0.3 green q 0.405287981033
+luluka resp_prep 0.6 red p 0.425004005432
+luluka resp_prep 1.0 green q 0.647858858109
+luluka resp_prep 1.0 green q 0.479303836823
+luluka resp_prep 0.6 red p 0.479730844498
+luluka resp_prep 0.3 red p 0.357447147369
+luluka resp_prep 1.0 red p 0.455555915833
+luluka resp_prep 0.3 red p 0.388434171677
+luluka resp_prep 1.0 red p 0.432708024979
+luluka resp_prep 0.6 green q 0.48017001152
+luluka resp_prep 0.1 green q 0.405284881592
+luluka resp_prep 0.6 green q 0.400388002396
+luluka resp_prep 0.6 green q 0.296475172043
+luluka resp_prep 0.3 red p 0.340960025787
+luluka resp_prep 1.0 green p 0.344138860703
+luluka resp_prep 1.0 green q 0.351984024048
+luluka resp_prep 0.1 green q 0.356998920441
+luluka resp_prep 0.8 green q 0.392772197723

@@ -1,0 +1,2166 @@
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'CD', 'dateStr': '12_09_0926', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'kama', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+kama SNARC color dot CD 0 up 15 lctrl 1.0160559113
+kama SNARC color dot CD 0 up 45 lctrl 0.595806714668
+kama SNARC color dot CD 0 down 45 num_decimal 0.555946362588
+kama SNARC color dot CD 0 up 5 lctrl 0.545934496673
+kama SNARC color dot CD 0 up 10 lctrl 0.440526444483
+kama SNARC color dot CD 0 down 10 num_decimal 0.372484854202
+kama SNARC color dot CD 0 up 45 lctrl 0.352510770553
+kama SNARC color dot CD 0 down 45 num_decimal 0.539125869309
+kama SNARC color dot CD 0 down 35 num_decimal 0.368894049541
+kama SNARC color dot CD 0 down 25 num_decimal 0.443905003171
+kama SNARC color dot CD 0 down 35 num_decimal 0.36826413825
+kama SNARC color dot CD 0 up 35 lctrl 0.368163600684
+kama SNARC color dot CD 0 up 15 lctrl 0.402619748308
+kama SNARC color dot CD 0 up 30 lctrl 0.364399958296
+kama SNARC color dot CD 0 up 10 lctrl 0.342911294837
+kama SNARC color dot CD 0 down 30 num_decimal 0.337098734095
+kama SNARC color dot CD 0 down 25 num_decimal 0.387248050998
+kama SNARC color dot CD 0 down 5 num_decimal 0.39019839413
+kama SNARC color dot CD 0 up 30 lctrl 0.353351996911
+kama SNARC color dot CD 0 up 40 lctrl 0.411938091202
+kama SNARC color dot CD 0 down 30 num_decimal 0.423615963876
+kama SNARC color dot CD 0 down 5 num_decimal 0.41937756076
+kama SNARC color dot CD 0 up 15 lctrl 0.398956953786
+kama SNARC color dot CD 0 up 45 lctrl 0.347568604477
+kama SNARC color dot CD 0 up 40 lctrl 0.325157105462
+kama SNARC color dot CD 0 up 5 lctrl 0.350595591986
+kama SNARC color dot CD 0 up 10 lctrl 0.33673164786
+kama SNARC color dot CD 0 down 45 num_decimal 0.356040756192
+kama SNARC color dot CD 0 up 5 lctrl 0.461078619135
+kama SNARC color dot CD 0 up 40 lctrl 0.393766236506
+kama SNARC color dot CD 0 down 15 num_decimal 0.428783718872
+kama SNARC color dot CD 0 up 10 lctrl 0.472420125387
+kama SNARC color dot CD 0 up 30 lctrl 0.357541372449
+kama SNARC color dot CD 0 down 25 num_decimal 0.423831933462
+kama SNARC color dot CD 0 down 30 num_decimal 0.452131086092
+kama SNARC color dot CD 0 down 45 num_decimal 0.393799438728
+kama SNARC color dot CD 0 down 25 num_decimal 0.340204848393
+kama SNARC color dot CD 0 down 40 num_decimal 0.382300609804
+kama SNARC color dot CD 0 down 45 num_decimal 0.338775601394
+kama SNARC color dot CD 0 up 40 lctrl 0.331732386377
+kama SNARC color dot CD 0 down 35 num_decimal 0.353991217237
+kama SNARC color dot CD 0 up 20 lctrl 0.460087207029
+kama SNARC color dot CD 0 up 30 lctrl 0.450918739582
+kama SNARC color dot CD 0 up 10 lctrl 0.415406016615
+kama SNARC color dot CD 0 down 45 num_decimal 0.420477888561
+kama SNARC color dot CD 0 up 35 lctrl 0.575361593906
+kama SNARC color dot CD 0 down 15 num_decimal 0.422858518821
+kama SNARC color dot CD 0 up 10 lctrl 0.370483722223
+kama SNARC color dot CD 0 up 25 lctrl 0.405048785543
+kama SNARC color dot CD 0 down 30 num_decimal 0.408906759476
+kama SNARC color dot CD 0 down 20 num_decimal 0.388261804786
+kama SNARC color dot CD 0 up 45 lctrl 0.384655485069
+kama SNARC color dot CD 0 up 40 lctrl 0.410786253411
+kama SNARC color dot CD 0 down 5 num_decimal 0.390121749751
+kama SNARC color dot CD 0 up 45 lctrl 0.362471436782
+kama SNARC color dot CD 0 up 5 lctrl 0.499596608533
+kama SNARC color dot CD 0 up 40 lctrl 0.497730457545
+kama SNARC color dot CD 0 down 30 num_decimal 0.431984475014
+kama SNARC color dot CD 0 down 35 num_decimal 0.620411732362
+kama SNARC color dot CD 0 down 40 num_decimal 0.33336363941
+kama SNARC color dot CD 0 up 15 lctrl 0.367148605693
+kama SNARC color dot CD 0 up 15 lctrl 0.425645643559
+kama SNARC color dot CD 0 up 5 lctrl 0.381337124799
+kama SNARC color dot CD 0 up 45 lctrl 0.353713808028
+kama SNARC color dot CD 0 up 5 lctrl 0.370777887693
+kama SNARC color dot CD 0 up 25 lctrl 0.413573998751
+kama SNARC color dot CD 0 up 5 lctrl 0.345030341244
+kama SNARC color dot CD 0 up 5 lctrl 0.364887131068
+kama SNARC color dot CD 0 down 25 num_decimal 0.335658005955
+kama SNARC color dot CD 0 down 40 num_decimal 0.329847617321
+kama SNARC color dot CD 0 down 20 num_decimal 0.363287839051
+kama SNARC color dot CD 0 down 30 num_decimal 0.421431754232
+kama SNARC color dot CD 0 down 30 num_decimal 0.413471289078
+kama SNARC color dot CD 0 up 30 lctrl 0.39273324405
+kama SNARC color dot CD 0 up 25 lctrl 0.371972236738
+kama SNARC color dot CD 0 down 40 num_decimal 0.398898927475
+kama SNARC color dot CD 0 up 20 lctrl 0.434263326502
+kama SNARC color dot CD 0 down 40 num_decimal 0.406640940635
+kama SNARC color dot CD 0 up 30 lctrl 0.474237248796
+kama SNARC color dot CD 0 down 15 num_decimal 0.463159808805
+kama SNARC color dot CD 0 up 40 lctrl 0.371808397741
+kama SNARC color dot CD 0 up 15 lctrl 0.398395929346
+kama SNARC color dot CD 0 up 45 lctrl 0.418981926821
+kama SNARC color dot CD 0 up 30 lctrl 0.381992480783
+kama SNARC color dot CD 0 up 15 lctrl 0.42488447489
+kama SNARC color dot CD 0 up 45 lctrl 0.358147080253
+kama SNARC color dot CD 0 down 45 num_decimal 0.352695710025
+kama SNARC color dot CD 0 down 35 num_decimal 0.37797221936
+kama SNARC color dot CD 0 up 20 lctrl 0.372629454528
+kama SNARC color dot CD 0 up 15 lctrl 0.343166982967
+kama SNARC color dot CD 0 down 35 num_decimal 0.368659461888
+kama SNARC color dot CD 0 up 25 lctrl 0.404096471379
+kama SNARC color dot CD 0 up 30 lctrl 0.375845725725
+kama SNARC color dot CD 0 down 25 num_decimal 0.388692502753
+kama SNARC color dot CD 0 down 30 num_decimal 0.392076646861
+kama SNARC color dot CD 0 down 45 num_decimal 0.420415828336
+kama SNARC color dot CD 0 up 35 lctrl 0.375253671173
+kama SNARC color dot CD 0 down 20 num_decimal 0.385950992281
+kama SNARC color dot CD 0 down 30 num_decimal 0.373175894816
+kama SNARC color dot CD 0 down 35 num_decimal 0.416097988131
+kama SNARC color dot CD 0 up 20 lctrl 0.379697493636
+kama SNARC color dot CD 0 up 10 lctrl 0.350304529528
+kama SNARC color dot CD 0 up 30 lctrl 0.408738886566
+kama SNARC color dot CD 0 up 35 lctrl 0.403363540114
+kama SNARC color dot CD 0 up 35 lctrl 0.446984121271
+kama SNARC color dot CD 0 down 20 num_decimal 0.347053194302
+kama SNARC color dot CD 0 up 5 lctrl 0.372473993662
+kama SNARC color dot CD 0 down 30 num_decimal 0.327390032383
+kama SNARC color dot CD 0 up 45 lctrl 0.426206667998
+kama SNARC color dot CD 0 down 45 num_decimal 0.390272245798
+kama SNARC color dot CD 0 down 45 num_decimal 0.473574135283
+kama SNARC color dot CD 0 up 40 lctrl 0.405593053722
+kama SNARC color dot CD 0 down 25 num_decimal 0.385268019497
+kama SNARC color dot CD 0 up 30 lctrl 0.484521559101
+kama SNARC color dot CD 0 up 40 lctrl 0.354022247349
+kama SNARC color dot CD 0 down 40 num_decimal 0.388458846002
+kama SNARC color dot CD 0 up 35 lctrl 0.407872215513
+kama SNARC color dot CD 0 down 30 num_decimal 0.299528714646
+kama SNARC color dot CD 0 up 5 lctrl 0.364579932951
+kama SNARC color dot CD 0 up 10 lctrl 0.367066065593
+kama SNARC color dot CD 0 up 5 lctrl 0.402617886502
+kama SNARC color dot CD 0 up 35 lctrl 0.382225516931
+kama SNARC color dot CD 0 down 25 num_decimal 0.329581689255
+kama SNARC color dot CD 0 down 20 num_decimal 0.37099416758
+kama SNARC color dot CD 0 up 35 lctrl 0.389852408371
+kama SNARC color dot CD 0 up 25 lctrl 0.393142841539
+kama SNARC color dot CD 0 up 35 lctrl 0.372099149899
+kama SNARC color dot CD 0 down 15 num_decimal 0.335007614789
+kama SNARC color dot CD 0 down 35 num_decimal 0.344872087669
+kama SNARC color dot CD 0 up 40 lctrl 0.387230363835
+kama SNARC color dot CD 0 up 30 lctrl 0.414575650795
+kama SNARC color dot CD 0 up 40 lctrl 0.378523624467
+kama SNARC color dot CD 0 up 15 lctrl 0.365161126964
+kama SNARC color dot CD 0 down 15 num_decimal 0.406705172968
+kama SNARC color dot CD 0 up 10 lctrl 0.369969242953
+kama SNARC color dot CD 0 down 30 num_decimal 0.420768020117
+kama SNARC color dot CD 0 down 15 num_decimal 0.376561280129
+kama SNARC color dot CD 0 up 20 lctrl 0.402870781923
+kama SNARC color dot CD 0 down 20 num_decimal 0.478298159666
+kama SNARC color dot CD 0 up 25 lctrl 0.467374939336
+kama SNARC color dot CD 0 up 25 lctrl 0.432581494386
+kama SNARC color dot CD 0 down 15 num_decimal 0.404697524667
+kama SNARC color dot CD 0 down 10 num_decimal 0.352019563866
+kama SNARC color dot CD 0 up 15 lctrl 0.394046438426
+kama SNARC color dot CD 0 down 10 num_decimal 0.333003069499
+kama SNARC color dot CD 0 up 30 lctrl 0.335151284212
+kama SNARC color dot CD 0 up 5 lctrl 0.376953811056
+kama SNARC color dot CD 0 up 25 lctrl 0.395784435047
+kama SNARC color dot CD 0 up 15 lctrl 0.544008767869
+kama SNARC color dot CD 0 up 40 lctrl 0.391124642999
+kama SNARC color dot CD 0 up 5 lctrl 0.353976012481
+kama SNARC color dot CD 0 down 25 num_decimal 0.316630030447
+kama SNARC color dot CD 0 down 40 num_decimal 0.366300242407
+kama SNARC color dot CD 0 down 20 num_decimal 0.384952443249
+kama SNARC color dot CD 0 up 15 lctrl 0.363770357306
+kama SNARC color dot CD 0 up 10 lctrl 0.389936189677
+kama SNARC color dot CD 0 down 20 num_decimal 0.408834769614
+kama SNARC color dot CD 0 down 25 num_decimal 0.420358422627
+kama SNARC color dot CD 0 down 5 num_decimal 0.416223349788
+kama SNARC color dot CD 0 up 30 lctrl 0.412105033208
+kama SNARC color dot CD 0 down 45 num_decimal 0.416934559974
+kama SNARC color dot CD 0 down 45 num_decimal 0.428963072924
+kama SNARC color dot CD 0 up 20 lctrl 0.415492280328
+kama SNARC color dot CD 0 up 5 lctrl 0.41122036469
+kama SNARC color dot CD 0 up 20 lctrl 0.320651222773
+kama SNARC color dot CD 0 down 5 num_decimal 0.350954920693
+kama SNARC color dot CD 0 up 15 lctrl 0.409028397518
+kama SNARC color dot CD 0 down 35 num_decimal 0.436628131404
+kama SNARC color dot CD 0 up 25 lctrl 0.601101072525
+kama SNARC color dot CD 0 up 40 lctrl 0.361558220559
+kama SNARC color dot CD 0 up 30 lctrl 0.364103000115
+kama SNARC color dot CD 0 down 25 num_decimal 0.423045009799
+kama SNARC color dot CD 0 up 25 lctrl 0.38703673593
+kama SNARC color dot CD 0 up 20 lctrl 0.557864954466
+kama SNARC color dot CD 0 down 5 num_decimal 0.383809604192
+kama SNARC color dot CD 0 up 35 lctrl 0.363108484998
+kama SNARC color dot CD 0 down 10 num_decimal 0.429325504642
+kama SNARC color dot CD 0 up 5 lctrl 0.384917379221
+kama SNARC color dot CD 0 up 20 lctrl 0.467785157428
+kama SNARC color dot CD 0 down 25 num_decimal 0.377017733089
+kama SNARC color dot CD 0 down 15 num_decimal 0.355586165037
+kama SNARC color dot CD 0 up 20 lctrl 0.381654873155
+kama SNARC color dot CD 0 up 40 lctrl 0.360896348252
+kama SNARC color dot CD 0 down 35 num_decimal 0.435446194405
+kama SNARC color dot CD 0 down 45 num_decimal 0.328981566871
+kama SNARC color dot CD 0 down 25 num_decimal 0.369651804897
+kama SNARC color dot CD 0 up 10 lctrl 0.420156416593
+kama SNARC color dot CD 0 up 10 lctrl 0.303878205566
+kama SNARC color dot CD 0 down 45 num_decimal 0.38638510356
+kama SNARC color dot CD 0 up 25 lctrl 0.492486989074
+kama SNARC color dot CD 0 down 45 num_decimal 0.323131149393
+kama SNARC color dot CD 0 down 10 num_decimal 0.355521932705
+kama SNARC color dot CD 0 down 40 num_decimal 0.342013283371
+kama SNARC color dot CD 0 up 40 lctrl 0.328034838129
+kama SNARC color dot CD 0 down 15 num_decimal 0.361558530861
+kama SNARC color dot CD 0 up 15 lctrl 0.410694714578
+kama SNARC color dot CD 0 up 45 lctrl 0.527336598529
+kama SNARC color dot CD 0 up 35 lctrl 0.356870811711
+kama SNARC color dot CD 0 down 10 num_decimal 0.415145053365
+kama SNARC color dot CD 0 down 25 num_decimal 0.547189975039
+kama SNARC color dot CD 0 up 35 lctrl 0.322140668191
+kama SNARC color dot CD 0 up 25 lctrl 0.35988662838
+kama SNARC color dot CD 0 up 35 lctrl 0.378383678657
+kama SNARC color dot CD 0 down 30 num_decimal 0.445321527824
+kama SNARC color dot CD 0 down 35 num_decimal 0.369792681609
+kama SNARC color dot CD 0 down 35 num_decimal 0.348741232442
+kama SNARC color dot CD 0 down 35 num_decimal 0.359116150677
+kama SNARC color dot CD 0 down 10 num_decimal 0.425359235617
+kama SNARC color dot CD 0 down 5 num_decimal 0.429111396864
+kama SNARC color dot CD 0 up 35 lctrl 0.433055013908
+kama SNARC color dot CD 0 down 25 num_decimal 0.389452119915
+kama SNARC color dot CD 0 up 40 lctrl 0.352732325558
+kama SNARC color dot CD 0 down 45 num_decimal 0.372479579082
+kama SNARC color dot CD 0 up 30 lctrl 0.358104568998
+kama SNARC color dot CD 0 up 45 lctrl 0.345799577742
+kama SNARC color dot CD 0 down 40 num_decimal 0.426831614472
+kama SNARC color dot CD 0 up 25 lctrl 0.366869644978
+kama SNARC color dot CD 0 up 15 lctrl 0.385445511743
+kama SNARC color dot CD 0 down 20 num_decimal 0.366628541001
+kama SNARC color dot CD 0 down 15 num_decimal 0.39083637325
+kama SNARC color dot CD 0 up 40 lctrl 0.330093375816
+kama SNARC color dot CD 0 down 5 num_decimal 0.480973886298
+kama SNARC color dot CD 0 down 10 num_decimal 0.384347356048
+kama SNARC color dot CD 0 down 15 num_decimal 0.427300169176
+kama SNARC color dot CD 0 up 20 lctrl 0.369191628324
+kama SNARC color dot CD 0 down 15 num_decimal 0.385463509208
+kama SNARC color dot CD 0 up 40 lctrl 0.363642823541
+kama SNARC color dot CD 0 down 45 num_decimal 0.326180788885
+kama SNARC color dot CD 0 down 30 lctrl 0.33581625953
+kama SNARC color dot CD 0 down 15 num_decimal 0.814991330186
+kama SNARC color dot CD 0 up 40 lctrl 0.560124567284
+kama SNARC color dot CD 0 down 30 num_decimal 0.61232528495
+kama SNARC color dot CD 0 up 10 lctrl 0.487023827403
+kama SNARC color dot CD 0 up 40 lctrl 0.437218324151
+kama SNARC color dot CD 0 down 10 num_decimal 0.573734995389
+kama SNARC color dot CD 0 up 15 lctrl 0.377318414883
+kama SNARC color dot CD 0 down 30 num_decimal 0.404168771543
+kama SNARC color dot CD 0 down 15 num_decimal 0.422955022473
+kama SNARC color dot CD 0 down 30 num_decimal 0.359707584628
+kama SNARC color dot CD 0 down 15 num_decimal 0.379364540525
+kama SNARC color dot CD 0 up 35 lctrl 0.422606864606
+kama SNARC color dot CD 0 down 20 num_decimal 0.42296836542
+kama SNARC color dot CD 0 down 10 num_decimal 0.52089257499
+kama SNARC color dot CD 0 down 20 num_decimal 0.349636451198
+kama SNARC color dot CD 0 up 15 lctrl 0.442320295308
+kama SNARC color dot CD 0 down 10 num_decimal 0.387260773345
+kama SNARC color dot CD 0 up 15 lctrl 0.397965231379
+kama SNARC color dot CD 0 up 10 lctrl 0.423847138217
+kama SNARC color dot CD 0 up 45 lctrl 0.511645601357
+kama SNARC color dot CD 0 down 40 num_decimal 0.349148657823
+kama SNARC color dot CD 0 up 20 lctrl 0.417912939433
+kama SNARC color dot CD 0 down 35 num_decimal 0.387391720421
+kama SNARC color dot CD 0 down 10 num_decimal 0.422819110578
+kama SNARC color dot CD 0 down 20 num_decimal 0.384892555131
+kama SNARC color dot CD 0 up 45 lctrl 0.466563812186
+kama SNARC color dot CD 0 up 10 lctrl 0.570264897868
+kama SNARC color dot CD 0 down 25 num_decimal 0.492724369437
+kama SNARC color dot CD 0 up 40 num_decimal 0.395409901585
+kama SNARC color dot CD 0 up 25 lctrl 0.550116424984
+kama SNARC color dot CD 0 up 5 lctrl 0.45071207903
+kama SNARC color dot CD 0 down 10 num_decimal 0.451435080659
+kama SNARC color dot CD 0 down 30 num_decimal 0.475218110663
+kama SNARC color dot CD 0 down 40 num_decimal 0.521796792479
+kama SNARC color dot CD 0 down 45 num_decimal 0.486535723728
+kama SNARC color dot CD 0 down 20 num_decimal 0.565247949219
+kama SNARC color dot CD 0 down 20 num_decimal 0.376034388812
+kama SNARC color dot CD 0 up 40 lctrl 0.466797158635
+kama SNARC color dot CD 0 up 35 lctrl 0.682217821462
+kama SNARC color dot CD 0 down 25 num_decimal 0.415793272423
+kama SNARC color dot CD 0 up 20 lctrl 0.648541770876
+kama SNARC color dot CD 0 up 10 lctrl 0.513292679749
+kama SNARC color dot CD 0 up 5 lctrl 0.471625444196
+kama SNARC color dot CD 0 up 20 lctrl 0.511103194985
+kama SNARC color dot CD 0 up 45 lctrl 0.500364603826
+kama SNARC color dot CD 0 up 10 lctrl 0.467036090504
+kama SNARC color dot CD 0 down 10 num_decimal 0.491083497069
+kama SNARC color dot CD 0 up 30 lctrl 0.433400999666
+kama SNARC color dot CD 0 up 10 lctrl 0.466835635974
+kama SNARC color dot CD 0 down 30 num_decimal 0.481581145607
+kama SNARC color dot CD 0 up 30 lctrl 0.480088597178
+kama SNARC color dot CD 0 up 20 lctrl 0.503462339993
+kama SNARC color dot CD 0 down 25 num_decimal 0.429435040941
+kama SNARC color dot CD 0 up 10 lctrl 0.438504832629
+kama SNARC color dot CD 0 up 5 lctrl 0.527869075266
+kama SNARC color dot CD 0 down 35 num_decimal 0.42118103092
+kama SNARC color dot CD 0 up 10 lctrl 0.470670337322
+kama SNARC color dot CD 0 down 20 num_decimal 0.598623318013
+kama SNARC color dot CD 0 down 45 num_decimal 0.511393636841
+kama SNARC color dot CD 0 up 5 lctrl 0.542134859354
+kama SNARC color dot CD 0 up 15 lctrl 0.666876843964
+kama SNARC color dot CD 0 up 10 lctrl 0.442936863649
+kama SNARC color dot CD 0 up 5 lctrl 0.508210567864
+kama SNARC color dot CD 0 down 15 num_decimal 0.434472159162
+kama SNARC color dot CD 0 down 15 num_decimal 0.51560256135
+kama SNARC color dot CD 0 down 10 num_decimal 0.417469829422
+kama SNARC color dot CD 0 up 20 lctrl 0.490737821611
+kama SNARC color dot CD 0 up 15 lctrl 0.385684443611
+kama SNARC color dot CD 0 up 10 lctrl 0.452656115601
+kama SNARC color dot CD 0 up 15 lctrl 0.485238354709
+kama SNARC color dot CD 0 down 25 num_decimal 0.467720304492
+kama SNARC color dot CD 0 up 45 lctrl 0.465560608636
+kama SNARC color dot CD 0 up 20 lctrl 0.512433145622
+kama SNARC color dot CD 0 up 35 lctrl 0.446251190005
+kama SNARC color dot CD 0 down 20 num_decimal 0.407370148287
+kama SNARC color dot CD 0 down 35 num_decimal 0.472888680091
+kama SNARC color dot CD 0 down 45 num_decimal 0.495525768026
+kama SNARC color dot CD 0 down 15 num_decimal 0.430954275267
+kama SNARC color dot CD 0 up 25 lctrl 0.447450193566
+kama SNARC color dot CD 0 up 5 lctrl 0.424642750311
+kama SNARC color dot CD 0 down 10 num_decimal 0.434689059651
+kama SNARC color dot CD 0 up 45 lctrl 0.489980686857
+kama SNARC color dot CD 0 up 10 lctrl 0.432817633545
+kama SNARC color dot CD 0 up 40 lctrl 0.513052196374
+kama SNARC color dot CD 0 up 10 lctrl 0.447359895938
+kama SNARC color dot CD 0 down 25 num_decimal 0.448010907705
+kama SNARC color dot CD 0 up 40 lctrl 0.479303845625
+kama SNARC color dot CD 0 down 5 num_decimal 0.758764145077
+kama SNARC color dot CD 0 down 20 lctrl 0.418153733109
+kama SNARC color dot CD 0 down 25 num_decimal 0.627162643716
+kama SNARC color dot CD 0 down 45 num_decimal 1.11463082234
+kama SNARC color dot CD 0 up 30 lctrl 0.487639464843
+kama SNARC color dot CD 0 up 20 lctrl 0.462290034742
+kama SNARC color dot CD 0 down 30 num_decimal 0.542182645727
+kama SNARC color dot CD 0 up 25 lctrl 0.946276634698
+kama SNARC color dot CD 0 up 45 lctrl 0.404825679031
+kama SNARC color dot CD 0 up 35 lctrl 0.469635793359
+kama SNARC color dot CD 0 down 5 num_decimal 0.469531221879
+kama SNARC color dot CD 0 up 40 lctrl 0.468063497541
+kama SNARC color dot CD 0 down 20 num_decimal 0.49099878486
+kama SNARC color dot CD 0 down 40 num_decimal 0.480766605144
+kama SNARC color dot CD 0 down 5 num_decimal 0.43958530116
+kama SNARC color dot CD 0 down 35 num_decimal 0.520303623448
+kama SNARC color dot CD 0 up 25 lctrl 0.485552379451
+kama SNARC color dot CD 0 down 20 num_decimal 0.507436056247
+kama SNARC color dot CD 0 down 5 num_decimal 0.538104357993
+kama SNARC color dot CD 0 down 40 num_decimal 0.429732309422
+kama SNARC color dot CD 0 down 35 num_decimal 0.470692679003
+kama SNARC color dot CD 0 up 5 lctrl 0.454539022849
+kama SNARC color dot CD 0 up 5 lctrl 0.495156819984
+kama SNARC color dot CD 0 down 5 num_decimal 0.558059823576
+kama SNARC color dot CD 0 up 20 lctrl 0.448554555282
+kama SNARC color dot CD 0 up 5 lctrl 0.513137529184
+kama SNARC color dot CD 0 down 35 num_decimal 0.478997888711
+kama SNARC color dot CD 0 down 35 num_decimal 0.508692465516
+kama SNARC color dot CD 0 down 15 num_decimal 0.51534966593
+kama SNARC color dot CD 0 down 5 num_decimal 0.521067274526
+kama SNARC color dot CD 0 down 40 num_decimal 0.662191296922
+kama SNARC color dot CD 0 up 35 lctrl 0.374164824512
+kama SNARC color dot CD 0 up 20 lctrl 0.392761171152
+kama SNARC color dot CD 0 up 25 lctrl 0.458625378412
+kama SNARC color dot CD 0 up 5 lctrl 0.611148002467
+kama SNARC color dot CD 0 down 35 num_decimal 0.436765284503
+kama SNARC color dot CD 0 up 30 lctrl 0.573181728477
+kama SNARC color dot CD 0 down 45 num_decimal 0.463701284274
+kama SNARC color dot CD 0 down 45 num_decimal 0.598705237511
+kama SNARC color dot CD 0 up 30 lctrl 0.464665700182
+kama SNARC color dot CD 0 up 5 lctrl 0.471823416317
+kama SNARC color dot CD 0 down 20 num_decimal 0.422551941307
+kama SNARC color dot CD 0 up 40 lctrl 0.919271748076
+kama SNARC color dot CD 0 up 25 lctrl 0.500163218394
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'CD', 'dateStr': '12_09_0934', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'kama', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+kama SNARC color arabic CD 0 down 4 num_decimal 0.827557905293
+kama SNARC color arabic CD 0 up 1 lctrl 0.493076561218
+kama SNARC color arabic CD 0 down 1 num_decimal 0.620036888597
+kama SNARC color arabic CD 0 down 3 num_decimal 0.518058905083
+kama SNARC color arabic CD 0 up 7 lctrl 0.356050996129
+kama SNARC color arabic CD 0 up 2 lctrl 0.455823669522
+kama SNARC color arabic CD 0 down 3 num_decimal 0.352596723965
+kama SNARC color arabic CD 0 down 3 num_decimal 0.405258859408
+kama SNARC color arabic CD 0 up 5 lctrl 0.407860734371
+kama SNARC color arabic CD 0 down 9 num_decimal 0.442418660766
+kama SNARC color arabic CD 0 up 3 lctrl 0.442840049698
+kama SNARC color arabic CD 0 down 4 num_decimal 0.435697228017
+kama SNARC color arabic CD 0 down 3 num_decimal 0.485090961673
+kama SNARC color arabic CD 0 down 9 num_decimal 0.411645166936
+kama SNARC color arabic CD 0 down 2 num_decimal 0.4062741647
+kama SNARC color arabic CD 0 down 9 num_decimal 0.38505173961
+kama SNARC color arabic CD 0 up 5 lctrl 0.41208889755
+kama SNARC color arabic CD 0 down 3 num_decimal 0.550766816149
+kama SNARC color arabic CD 0 up 8 lctrl 0.395321776064
+kama SNARC color arabic CD 0 up 4 lctrl 0.422335040817
+kama SNARC color arabic CD 0 up 6 lctrl 0.456247230562
+kama SNARC color arabic CD 0 up 7 lctrl 0.42459061972
+kama SNARC color arabic CD 0 up 5 lctrl 0.522444390935
+kama SNARC color arabic CD 0 up 3 lctrl 0.399692988064
+kama SNARC color arabic CD 0 up 1 lctrl 0.426869781511
+kama SNARC color arabic CD 0 down 3 num_decimal 0.39670913241
+kama SNARC color arabic CD 0 down 6 num_decimal 0.391675427501
+kama SNARC color arabic CD 0 down 2 num_decimal 0.371067708948
+kama SNARC color arabic CD 0 up 1 lctrl 0.463018001189
+kama SNARC color arabic CD 0 down 8 num_decimal 0.550969442786
+kama SNARC color arabic CD 0 down 2 num_decimal 0.395572189075
+kama SNARC color arabic CD 0 up 7 lctrl 0.470940919907
+kama SNARC color arabic CD 0 down 9 num_decimal 0.446892582438
+kama SNARC color arabic CD 0 up 9 lctrl 0.544174468671
+kama SNARC color arabic CD 0 up 8 lctrl 0.845168735547
+kama SNARC color arabic CD 0 down 8 num_decimal 0.590673403097
+kama SNARC color arabic CD 0 down 7 num_decimal 0.48195567907
+kama SNARC color arabic CD 0 down 5 num_decimal 0.400822484172
+kama SNARC color arabic CD 0 down 7 num_decimal 0.442645180588
+kama SNARC color arabic CD 0 down 3 num_decimal 0.596025166663
+kama SNARC color arabic CD 0 down 1 num_decimal 0.382976135361
+kama SNARC color arabic CD 0 down 6 num_decimal 0.377975942974
+kama SNARC color arabic CD 0 down 2 num_decimal 0.381891943218
+kama SNARC color arabic CD 0 down 9 num_decimal 0.464538787021
+kama SNARC color arabic CD 0 down 9 num_decimal 0.424572622256
+kama SNARC color arabic CD 0 up 5 lctrl 0.337813047294
+kama SNARC color arabic CD 0 down 6 num_decimal 0.598596321815
+kama SNARC color arabic CD 0 down 6 num_decimal 0.433367176843
+kama SNARC color arabic CD 0 down 9 num_decimal 0.402125438611
+kama SNARC color arabic CD 0 up 9 lctrl 0.452851295011
+kama SNARC color arabic CD 0 up 3 lctrl 0.364424161783
+kama SNARC color arabic CD 0 down 2 num_decimal 0.408594906841
+kama SNARC color arabic CD 0 down 9 num_decimal 0.427124228437
+kama SNARC color arabic CD 0 down 7 num_decimal 0.405090986497
+kama SNARC color arabic CD 0 up 5 lctrl 0.406756682955
+kama SNARC color arabic CD 0 down 7 num_decimal 0.481409238782
+kama SNARC color arabic CD 0 down 3 num_decimal 0.408578460881
+kama SNARC color arabic CD 0 down 9 num_decimal 0.387120206934
+kama SNARC color arabic CD 0 up 3 lctrl 0.429868841919
+kama SNARC color arabic CD 0 down 9 num_decimal 0.39948849962
+kama SNARC color arabic CD 0 down 6 num_decimal 0.402440394257
+kama SNARC color arabic CD 0 up 5 lctrl 0.388968670757
+kama SNARC color arabic CD 0 up 9 lctrl 0.487940146636
+kama SNARC color arabic CD 0 down 2 num_decimal 0.518895166625
+kama SNARC color arabic CD 0 down 9 num_decimal 0.516365281524
+kama SNARC color arabic CD 0 up 2 lctrl 0.393654838402
+kama SNARC color arabic CD 0 up 7 lctrl 0.452617017659
+kama SNARC color arabic CD 0 down 2 num_decimal 0.605192392905
+kama SNARC color arabic CD 0 down 1 num_decimal 0.423925954704
+kama SNARC color arabic CD 0 up 6 lctrl 0.473308207217
+kama SNARC color arabic CD 0 down 8 num_decimal 0.793278939615
+kama SNARC color arabic CD 0 up 3 lctrl 0.379558168429
+kama SNARC color arabic CD 0 up 8 lctrl 0.543495840103
+kama SNARC color arabic CD 0 up 8 lctrl 0.436820518104
+kama SNARC color arabic CD 0 down 6 num_decimal 0.478188002765
+kama SNARC color arabic CD 0 up 7 lctrl 0.645794674984
+kama SNARC color arabic CD 0 up 7 lctrl 0.487153222974
+kama SNARC color arabic CD 0 up 1 lctrl 0.438034416119
+kama SNARC color arabic CD 0 up 1 lctrl 0.447054869928
+kama SNARC color arabic CD 0 up 5 lctrl 0.464265411726
+kama SNARC color arabic CD 0 up 4 lctrl 0.584248928531
+kama SNARC color arabic CD 0 up 2 lctrl 0.362989949967
+kama SNARC color arabic CD 0 up 4 lctrl 0.382727584157
+kama SNARC color arabic CD 0 down 4 num_decimal 0.362017776531
+kama SNARC color arabic CD 0 up 7 lctrl 0.430353221981
+kama SNARC color arabic CD 0 down 6 num_decimal 0.384015023539
+kama SNARC color arabic CD 0 down 9 num_decimal 0.475014242822
+kama SNARC color arabic CD 0 up 5 lctrl 0.459094243418
+kama SNARC color arabic CD 0 down 4 num_decimal 0.459285699214
+kama SNARC color arabic CD 0 down 1 num_decimal 0.491794707255
+kama SNARC color arabic CD 0 up 5 lctrl 0.435069178534
+kama SNARC color arabic CD 0 up 3 lctrl 0.364122549086
+kama SNARC color arabic CD 0 down 1 num_decimal 0.383793778835
+kama SNARC color arabic CD 0 up 9 lctrl 0.458783631988
+kama SNARC color arabic CD 0 down 4 num_decimal 0.387520185089
+kama SNARC color arabic CD 0 up 9 lctrl 0.454858322711
+kama SNARC color arabic CD 0 down 1 num_decimal 0.399232190888
+kama SNARC color arabic CD 0 down 1 num_decimal 0.393942177247
+kama SNARC color arabic CD 0 up 5 lctrl 0.412719739745
+kama SNARC color arabic CD 0 up 3 lctrl 0.455382421317
+kama SNARC color arabic CD 0 up 7 lctrl 0.584184075594
+kama SNARC color arabic CD 0 up 3 lctrl 0.418697070386
+kama SNARC color arabic CD 0 up 2 lctrl 0.420396899967
+kama SNARC color arabic CD 0 down 7 num_decimal 0.422006431922
+kama SNARC color arabic CD 0 down 7 num_decimal 0.399984050522
+kama SNARC color arabic CD 0 up 6 lctrl 0.426100545013
+kama SNARC color arabic CD 0 down 1 num_decimal 0.41205042021
+kama SNARC color arabic CD 0 down 6 num_decimal 0.438406777473
+kama SNARC color arabic CD 0 up 2 lctrl 0.399855896156
+kama SNARC color arabic CD 0 up 8 lctrl 0.609693000476
+kama SNARC color arabic CD 0 down 7 num_decimal 0.420392866054
+kama SNARC color arabic CD 0 down 6 num_decimal 0.366178294064
+kama SNARC color arabic CD 0 down 7 num_decimal 0.370033785587
+kama SNARC color arabic CD 0 up 1 lctrl 0.397585112497
+kama SNARC color arabic CD 0 up 9 lctrl 0.448247357165
+kama SNARC color arabic CD 0 down 6 num_decimal 0.457013364049
+kama SNARC color arabic CD 0 down 9 num_decimal 0.44176299448
+kama SNARC color arabic CD 0 down 6 num_decimal 0.4025623426
+kama SNARC color arabic CD 0 down 7 num_decimal 0.477415973558
+kama SNARC color arabic CD 0 up 5 lctrl 0.389157023542
+kama SNARC color arabic CD 0 down 5 num_decimal 0.384283434016
+kama SNARC color arabic CD 0 up 5 lctrl 0.443230718819
+kama SNARC color arabic CD 0 up 4 lctrl 0.419732545251
+kama SNARC color arabic CD 0 up 8 lctrl 0.461338961782
+kama SNARC color arabic CD 0 down 7 num_decimal 0.398279256122
+kama SNARC color arabic CD 0 down 5 num_decimal 0.328778319633
+kama SNARC color arabic CD 0 down 6 num_decimal 0.350959264909
+kama SNARC color arabic CD 0 down 4 num_decimal 0.442776437967
+kama SNARC color arabic CD 0 down 6 num_decimal 0.42800517334
+kama SNARC color arabic CD 0 down 8 num_decimal 0.414141539515
+kama SNARC color arabic CD 0 down 5 num_decimal 0.408343562927
+kama SNARC color arabic CD 0 down 7 num_decimal 0.395000304095
+kama SNARC color arabic CD 0 up 3 lctrl 0.317608409905
+kama SNARC color arabic CD 0 up 2 lctrl 0.379702458454
+kama SNARC color arabic CD 0 up 1 lctrl 0.423541491606
+kama SNARC color arabic CD 0 up 6 lctrl 0.353274731931
+kama SNARC color arabic CD 0 up 2 lctrl 0.350026189415
+kama SNARC color arabic CD 0 up 2 lctrl 0.346054645271
+kama SNARC color arabic CD 0 up 4 lctrl 0.398520980701
+kama SNARC color arabic CD 0 down 3 num_decimal 0.353074587702
+kama SNARC color arabic CD 0 down 3 num_decimal 0.397933580664
+kama SNARC color arabic CD 0 up 1 lctrl 0.383861424481
+kama SNARC color arabic CD 0 down 1 num_decimal 0.458882618048
+kama SNARC color arabic CD 0 down 5 num_decimal 0.363112208612
+kama SNARC color arabic CD 0 down 8 num_decimal 0.37568995456
+kama SNARC color arabic CD 0 up 6 lctrl 0.387527632315
+kama SNARC color arabic CD 0 up 5 lctrl 0.407012681387
+kama SNARC color arabic CD 0 down 9 num_decimal 0.376793075072
+kama SNARC color arabic CD 0 up 4 lctrl 0.460507665059
+kama SNARC color arabic CD 0 up 4 lctrl 0.469170962268
+kama SNARC color arabic CD 0 up 4 lctrl 0.452990930518
+kama SNARC color arabic CD 0 up 5 lctrl 0.429690729071
+kama SNARC color arabic CD 0 down 5 num_decimal 0.33573620184
+kama SNARC color arabic CD 0 up 4 lctrl 0.412503149557
+kama SNARC color arabic CD 0 up 3 lctrl 0.431308639156
+kama SNARC color arabic CD 0 down 2 num_decimal 0.400083036581
+kama SNARC color arabic CD 0 up 5 lctrl 0.434727536991
+kama SNARC color arabic CD 0 down 4 num_decimal 0.364015184896
+kama SNARC color arabic CD 0 down 8 num_decimal 0.383580291658
+kama SNARC color arabic CD 0 up 4 lctrl 0.56271868472
+kama SNARC color arabic CD 0 up 5 lctrl 0.399026771541
+kama SNARC color arabic CD 0 down 2 num_decimal 0.393955520195
+kama SNARC color arabic CD 0 down 1 num_decimal 0.428987897015
+kama SNARC color arabic CD 0 up 6 lctrl 0.406743650308
+kama SNARC color arabic CD 0 down 9 num_decimal 0.401515386592
+kama SNARC color arabic CD 0 up 2 lctrl 0.420137798526
+kama SNARC color arabic CD 0 up 4 lctrl 0.42197602241
+kama SNARC color arabic CD 0 down 8 num_decimal 0.479788225686
+kama SNARC color arabic CD 0 down 8 num_decimal 0.335682209444
+kama SNARC color arabic CD 0 down 8 num_decimal 0.388114722051
+kama SNARC color arabic CD 0 up 6 lctrl 0.503142419529
+kama SNARC color arabic CD 0 up 9 lctrl 0.41316409096
+kama SNARC color arabic CD 0 up 2 lctrl 0.471910610933
+kama SNARC color arabic CD 0 up 2 lctrl 0.424008494804
+kama SNARC color arabic CD 0 down 2 num_decimal 0.449877989596
+kama SNARC color arabic CD 0 up 3 lctrl 0.562285194044
+kama SNARC color arabic CD 0 up 9 lctrl 0.422721986324
+kama SNARC color arabic CD 0 up 2 lctrl 0.432778225301
+kama SNARC color arabic CD 0 down 5 num_decimal 0.402018695023
+kama SNARC color arabic CD 0 up 9 lctrl 0.459573968962
+kama SNARC color arabic CD 0 down 2 num_decimal 0.396189998623
+kama SNARC color arabic CD 0 down 5 num_decimal 0.439177875777
+kama SNARC color arabic CD 0 up 4 lctrl 0.423936194641
+kama SNARC color arabic CD 0 up 5 lctrl 0.481953506962
+kama SNARC color arabic CD 0 down 4 num_decimal 0.377024249413
+kama SNARC color arabic CD 0 down 6 num_decimal 0.468935754013
+kama SNARC color arabic CD 0 up 8 lctrl 0.380387913647
+kama SNARC color arabic CD 0 down 7 num_decimal 0.49622797948
+kama SNARC color arabic CD 0 up 6 lctrl 0.447225225248
+kama SNARC color arabic CD 0 down 8 num_decimal 0.463907324223
+kama SNARC color arabic CD 0 down 1 num_decimal 0.416563750126
+kama SNARC color arabic CD 0 down 6 num_decimal 0.426202013482
+kama SNARC color arabic CD 0 down 4 num_decimal 0.467652348545
+kama SNARC color arabic CD 0 up 3 lctrl 0.427505278222
+kama SNARC color arabic CD 0 down 6 num_decimal 0.445437270144
+kama SNARC color arabic CD 0 down 6 num_decimal 0.430282473324
+kama SNARC color arabic CD 0 up 8 lctrl 0.471933262916
+kama SNARC color arabic CD 0 up 5 lctrl 0.399827658753
+kama SNARC color arabic CD 0 down 8 num_decimal 0.378388643475
+kama SNARC color arabic CD 0 up 4 lctrl 0.478382251272
+kama SNARC color arabic CD 0 down 4 num_decimal 0.382536438662
+kama SNARC color arabic CD 0 down 7 num_decimal 0.425178950661
+kama SNARC color arabic CD 0 up 9 num_decimal 0.483196883583
+kama SNARC color arabic CD 0 up 3 lctrl 0.578189988693
+kama SNARC color arabic CD 0 down 4 num_decimal 0.469741295743
+kama SNARC color arabic CD 0 down 6 num_decimal 0.461292106312
+kama SNARC color arabic CD 0 up 6 lctrl 0.478123770432
+kama SNARC color arabic CD 0 down 8 num_decimal 0.40582577957
+kama SNARC color arabic CD 0 up 2 lctrl 0.551540707163
+kama SNARC color arabic CD 0 up 2 lctrl 0.492248057205
+kama SNARC color arabic CD 0 down 4 num_decimal 0.547122639694
+kama SNARC color arabic CD 0 down 9 num_decimal 0.440355468561
+kama SNARC color arabic CD 0 up 9 lctrl 0.545860955306
+kama SNARC color arabic CD 0 down 2 num_decimal 0.511122123354
+kama SNARC color arabic CD 0 up 6 lctrl 0.620928383741
+kama SNARC color arabic CD 0 up 1 lctrl 0.590447503875
+kama SNARC color arabic CD 0 up 1 lctrl 0.785940317922
+kama SNARC color arabic CD 0 up 1 lctrl 0.437214910838
+kama SNARC color arabic CD 0 down 6 num_decimal 0.438390952116
+kama SNARC color arabic CD 0 down 7 num_decimal 0.391017589109
+kama SNARC color arabic CD 0 down 1 num_decimal 0.473902433878
+kama SNARC color arabic CD 0 up 8 lctrl 0.497592063241
+kama SNARC color arabic CD 0 down 3 num_decimal 0.512296613125
+kama SNARC color arabic CD 0 up 5 lctrl 0.511047961384
+kama SNARC color arabic CD 0 down 6 num_decimal 0.420664379541
+kama SNARC color arabic CD 0 down 1 num_decimal 0.422884273815
+kama SNARC color arabic CD 0 down 4 num_decimal 0.440834263202
+kama SNARC color arabic CD 0 up 9 lctrl 0.409702681871
+kama SNARC color arabic CD 0 up 8 lctrl 0.420493403619
+kama SNARC color arabic CD 0 up 4 lctrl 0.470087902104
+kama SNARC color arabic CD 0 up 2 lctrl 0.557673808971
+kama SNARC color arabic CD 0 up 9 lctrl 0.538011267655
+kama SNARC color arabic CD 0 up 5 lctrl 0.414467976302
+kama SNARC color arabic CD 0 down 3 num_decimal 0.384239991858
+kama SNARC color arabic CD 0 up 5 lctrl 0.467147178308
+kama SNARC color arabic CD 0 up 8 lctrl 0.394834292992
+kama SNARC color arabic CD 0 down 9 num_decimal 0.413288211412
+kama SNARC color arabic CD 0 up 9 lctrl 0.383285195286
+kama SNARC color arabic CD 0 up 2 lctrl 0.554230707648
+kama SNARC color arabic CD 0 down 5 num_decimal 0.430836050537
+kama SNARC color arabic CD 0 up 2 lctrl 0.535874223782
+kama SNARC color arabic CD 0 down 7 num_decimal 0.533218977023
+kama SNARC color arabic CD 0 down 7 num_decimal 0.378078342346
+kama SNARC color arabic CD 0 down 7 num_decimal 0.357867809237
+kama SNARC color arabic CD 0 up 5 lctrl 0.434191026339
+kama SNARC color arabic CD 0 down 1 num_decimal 0.475055823173
+kama SNARC color arabic CD 0 down 4 num_decimal 0.498818993905
+kama SNARC color arabic CD 0 down 8 num_decimal 0.400847928864
+kama SNARC color arabic CD 0 up 6 lctrl 0.45867999141
+kama SNARC color arabic CD 0 down 2 num_decimal 0.491503334496
+kama SNARC color arabic CD 0 up 5 lctrl 0.394649353519
+kama SNARC color arabic CD 0 down 6 num_decimal 0.4296987969
+kama SNARC color arabic CD 0 up 6 lctrl 0.392117606611
+kama SNARC color arabic CD 0 up 5 lctrl 0.53941227725
+kama SNARC color arabic CD 0 down 2 num_decimal 0.383919140491
+kama SNARC color arabic CD 0 up 3 lctrl 0.434772220354
+kama SNARC color arabic CD 0 up 5 lctrl 0.46757135995
+kama SNARC color arabic CD 0 down 7 num_decimal 0.38735541519
+kama SNARC color arabic CD 0 down 1 num_decimal 0.438980834561
+kama SNARC color arabic CD 0 down 4 num_decimal 0.431409797324
+kama SNARC color arabic CD 0 down 7 num_decimal 0.392887774012
+kama SNARC color arabic CD 0 down 4 num_decimal 0.451900532353
+kama SNARC color arabic CD 0 down 6 num_decimal 0.603789211202
+kama SNARC color arabic CD 0 down 3 num_decimal 0.358380426701
+kama SNARC color arabic CD 0 up 7 lctrl 0.403179221244
+kama SNARC color arabic CD 0 down 4 num_decimal 0.380986484524
+kama SNARC color arabic CD 0 up 1 lctrl 0.455691791542
+kama SNARC color arabic CD 0 down 7 num_decimal 0.384299259374
+kama SNARC color arabic CD 0 up 8 lctrl 0.523123019503
+kama SNARC color arabic CD 0 up 3 lctrl 0.584750375154
+kama SNARC color arabic CD 0 up 7 lctrl 0.516026432691
+kama SNARC color arabic CD 0 up 3 lctrl 0.441444935823
+kama SNARC color arabic CD 0 down 3 num_decimal 0.40296945768
+kama SNARC color arabic CD 0 up 4 lctrl 0.38937113132
+kama SNARC color arabic CD 0 up 8 lctrl 0.496047694524
+kama SNARC color arabic CD 0 up 5 lctrl 0.398763946484
+kama SNARC color arabic CD 0 up 6 lctrl 0.417516995192
+kama SNARC color arabic CD 0 down 9 num_decimal 0.443473374301
+kama SNARC color arabic CD 0 down 8 num_decimal 0.388772250142
+kama SNARC color arabic CD 0 up 3 lctrl 0.407807672878
+kama SNARC color arabic CD 0 down 1 num_decimal 0.402558929287
+kama SNARC color arabic CD 0 up 8 lctrl 0.468946304251
+kama SNARC color arabic CD 0 up 6 lctrl 0.404781305971
+kama SNARC color arabic CD 0 down 1 num_decimal 0.398837487852
+kama SNARC color arabic CD 0 up 9 lctrl 0.337149933782
+kama SNARC color arabic CD 0 down 9 num_decimal 0.390172639136
+kama SNARC color arabic CD 0 down 3 num_decimal 0.480801358871
+kama SNARC color arabic CD 0 up 1 lctrl 0.391557202772
+kama SNARC color arabic CD 0 down 4 num_decimal 0.354566515529
+kama SNARC color arabic CD 0 down 2 num_decimal 0.303253879695
+kama SNARC color arabic CD 0 down 4 num_decimal 0.366025625908
+kama SNARC color arabic CD 0 up 1 lctrl 0.377570379399
+kama SNARC color arabic CD 0 up 1 lctrl 0.437721632581
+kama SNARC color arabic CD 0 up 3 lctrl 0.414995798523
+kama SNARC color arabic CD 0 up 1 lctrl 0.408910483089
+kama SNARC color arabic CD 0 down 6 num_decimal 0.418646801602
+kama SNARC color arabic CD 0 down 1 num_decimal 0.364306557655
+kama SNARC color arabic CD 0 up 9 lctrl 0.391640984077
+kama SNARC color arabic CD 0 down 2 num_decimal 0.370603498459
+kama SNARC color arabic CD 0 up 5 lctrl 0.398231780049
+kama SNARC color arabic CD 0 down 8 num_decimal 0.376966223102
+kama SNARC color arabic CD 0 down 4 num_decimal 0.396952408496
+kama SNARC color arabic CD 0 up 3 lctrl 0.431724752969
+kama SNARC color arabic CD 0 up 7 lctrl 0.457097765956
+kama SNARC color arabic CD 0 down 7 num_decimal 0.52131024031
+kama SNARC color arabic CD 0 up 8 lctrl 0.446958366277
+kama SNARC color arabic CD 0 down 8 num_decimal 0.384326255572
+kama SNARC color arabic CD 0 down 7 num_decimal 0.578377720875
+kama SNARC color arabic CD 0 up 9 lctrl 0.374118899945
+kama SNARC color arabic CD 0 up 8 lctrl 0.434035875775
+kama SNARC color arabic CD 0 down 4 num_decimal 0.43479052812
+kama SNARC color arabic CD 0 down 5 num_decimal 0.596166974279
+kama SNARC color arabic CD 0 up 7 lctrl 0.414851818799
+kama SNARC color arabic CD 0 down 1 num_decimal 0.408617869125
+kama SNARC color arabic CD 0 up 8 lctrl 0.371266301669
+kama SNARC color arabic CD 0 up 8 lctrl 0.351106347644
+kama SNARC color arabic CD 0 down 8 num_decimal 0.410965607464
+kama SNARC color arabic CD 0 down 6 num_decimal 0.436881647426
+kama SNARC color arabic CD 0 up 2 lctrl 0.709621755336
+kama SNARC color arabic CD 0 up 2 lctrl 0.356060615463
+kama SNARC color arabic CD 0 down 1 num_decimal 0.376950087443
+kama SNARC color arabic CD 0 down 2 num_decimal 0.41274052992
+kama SNARC color arabic CD 0 down 4 num_decimal 0.415363505361
+kama SNARC color arabic CD 0 down 1 num_decimal 0.409016606075
+kama SNARC color arabic CD 0 down 9 num_decimal 0.370932107354
+kama SNARC color arabic CD 0 up 9 lctrl 0.318770487632
+kama SNARC color arabic CD 0 down 4 num_decimal 0.404681699309
+kama SNARC color arabic CD 0 down 8 num_decimal 0.399329315141
+kama SNARC color arabic CD 0 up 5 lctrl 0.313303292046
+kama SNARC color arabic CD 0 down 7 num_decimal 0.375458469918
+kama SNARC color arabic CD 0 up 8 lctrl 0.483271666156
+kama SNARC color arabic CD 0 down 3 num_decimal 0.370181488925
+kama SNARC color arabic CD 0 up 7 lctrl 0.446127690156
+kama SNARC color arabic CD 0 up 9 lctrl 0.430797262896
+kama SNARC color arabic CD 0 up 2 lctrl 0.416196353589
+kama SNARC color arabic CD 0 up 1 lctrl 0.386065183096
+kama SNARC color arabic CD 0 down 3 num_decimal 0.444982989292
+kama SNARC color arabic CD 0 down 3 num_decimal 0.397941648494
+kama SNARC color arabic CD 0 up 5 lctrl 0.415355437531
+kama SNARC color arabic CD 0 up 5 lctrl 0.489501271614
+kama SNARC color arabic CD 0 down 1 num_decimal 0.480964266963
+kama SNARC color arabic CD 0 up 2 lctrl 0.431592254387
+kama SNARC color arabic CD 0 down 2 num_decimal 0.369051061913
+kama SNARC color arabic CD 0 up 6 lctrl 0.396814634794
+kama SNARC color arabic CD 0 down 7 num_decimal 0.423766149622
+kama SNARC color arabic CD 0 down 6 num_decimal 0.337413069138
+kama SNARC color arabic CD 0 up 3 lctrl 0.373857316094
+kama SNARC color arabic CD 0 up 8 lctrl 0.369336538951
+kama SNARC color arabic CD 0 up 4 lctrl 0.429238620327
+kama SNARC color arabic CD 0 up 1 lctrl 0.470948987735
+kama SNARC color arabic CD 0 up 4 lctrl 0.510580958185
+kama SNARC color arabic CD 0 down 7 num_decimal 0.437238493723
+kama SNARC color arabic CD 0 up 3 lctrl 0.430228480927
+kama SNARC color arabic CD 0 up 2 lctrl 0.736067169023
+kama SNARC color arabic CD 0 down 8 num_decimal 0.405513616634
+kama SNARC color arabic CD 0 down 9 num_decimal 0.431560913974
+kama SNARC color arabic CD 0 down 7 num_decimal 0.400303660685
+kama SNARC color arabic CD 0 down 8 num_decimal 0.395205723443
+kama SNARC color arabic CD 0 up 7 lctrl 0.477663904159
+kama SNARC color arabic CD 0 down 3 num_decimal 0.429408044743
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'DC', 'dateStr': '12_09_0941', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'kama', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+kama SNARC color dot DC 0 up 35 num_decimal 0.969780703987
+kama SNARC color dot DC 0 up 5 num_decimal 0.629609057814
+kama SNARC color dot DC 0 up 10 num_decimal 0.551268573074
+kama SNARC color dot DC 0 down 45 lctrl 0.506403374091
+kama SNARC color dot DC 0 up 30 num_decimal 0.432474750797
+kama SNARC color dot DC 0 up 45 num_decimal 0.480244368345
+kama SNARC color dot DC 0 down 15 lctrl 0.511900979186
+kama SNARC color dot DC 0 down 45 lctrl 0.748513036991
+kama SNARC color dot DC 0 up 25 num_decimal 0.471394269855
+kama SNARC color dot DC 0 up 25 num_decimal 0.415138226741
+kama SNARC color dot DC 0 up 40 num_decimal 0.528429168803
+kama SNARC color dot DC 0 down 5 lctrl 0.654098643488
+kama SNARC color dot DC 0 up 35 num_decimal 0.500669009233
+kama SNARC color dot DC 0 down 20 lctrl 0.450754900586
+kama SNARC color dot DC 0 up 15 num_decimal 0.394969273982
+kama SNARC color dot DC 0 down 35 lctrl 0.605216596394
+kama SNARC color dot DC 0 down 40 lctrl 0.703183937821
+kama SNARC color dot DC 0 up 10 num_decimal 0.494012739723
+kama SNARC color dot DC 0 down 5 lctrl 0.509289795188
+kama SNARC color dot DC 0 down 45 lctrl 0.530005188234
+kama SNARC color dot DC 0 up 30 num_decimal 0.494782286522
+kama SNARC color dot DC 0 up 25 num_decimal 0.485412123341
+kama SNARC color dot DC 0 up 5 num_decimal 0.532311656524
+kama SNARC color dot DC 0 up 20 num_decimal 0.416088058495
+kama SNARC color dot DC 0 up 40 num_decimal 0.425285383948
+kama SNARC color dot DC 0 up 40 num_decimal 0.577553250777
+kama SNARC color dot DC 0 down 25 lctrl 0.396806566965
+kama SNARC color dot DC 0 up 5 num_decimal 0.432063912102
+kama SNARC color dot DC 0 down 5 lctrl 0.472763628736
+kama SNARC color dot DC 0 up 5 num_decimal 0.43265131214
+kama SNARC color dot DC 0 down 35 lctrl 0.54526828015
+kama SNARC color dot DC 0 down 15 lctrl 0.510138158475
+kama SNARC color dot DC 0 down 30 lctrl 0.370810159011
+kama SNARC color dot DC 0 up 20 num_decimal 0.525685175922
+kama SNARC color dot DC 0 up 5 num_decimal 0.45141056687
+kama SNARC color dot DC 0 down 15 lctrl 0.508033075618
+kama SNARC color dot DC 0 up 35 num_decimal 1.10542387755
+kama SNARC color dot DC 0 up 30 num_decimal 0.543091517732
+kama SNARC color dot DC 0 down 45 lctrl 0.458533218977
+kama SNARC color dot DC 0 down 5 lctrl 0.755268602863
+kama SNARC color dot DC 0 down 15 lctrl 0.599729851837
+kama SNARC color dot DC 0 down 30 lctrl 0.50516620349
+kama SNARC color dot DC 0 down 35 lctrl 0.407188001524
+kama SNARC color dot DC 0 up 40 num_decimal 0.361149553973
+kama SNARC color dot DC 0 down 10 lctrl 0.493647825596
+kama SNARC color dot DC 0 down 10 lctrl 0.661076074666
+kama SNARC color dot DC 0 down 15 lctrl 0.405235897124
+kama SNARC color dot DC 0 down 35 lctrl 0.495179471967
+kama SNARC color dot DC 0 down 25 lctrl 0.405559541201
+kama SNARC color dot DC 0 up 45 num_decimal 0.39879838991
+kama SNARC color dot DC 0 up 30 num_decimal 0.408523847883
+kama SNARC color dot DC 0 up 40 num_decimal 0.450389986459
+kama SNARC color dot DC 0 up 40 num_decimal 0.410539874316
+kama SNARC color dot DC 0 up 20 num_decimal 0.411879444287
+kama SNARC color dot DC 0 up 25 num_decimal 0.40522379538
+kama SNARC color dot DC 0 up 20 num_decimal 0.375891339992
+kama SNARC color dot DC 0 up 5 num_decimal 0.379911601414
+kama SNARC color dot DC 0 up 15 num_decimal 0.471685022012
+kama SNARC color dot DC 0 up 45 num_decimal 0.398129070375
+kama SNARC color dot DC 0 up 25 num_decimal 0.36813474268
+kama SNARC color dot DC 0 up 35 num_decimal 0.403144777818
+kama SNARC color dot DC 0 up 35 num_decimal 0.428997206049
+kama SNARC color dot DC 0 down 5 lctrl 0.463119159357
+kama SNARC color dot DC 0 down 15 lctrl 0.463204492167
+kama SNARC color dot DC 0 up 35 num_decimal 0.446537597946
+kama SNARC color dot DC 0 down 20 lctrl 0.391248453149
+kama SNARC color dot DC 0 down 25 lctrl 0.36954537161
+kama SNARC color dot DC 0 down 30 lctrl 0.379856678115
+kama SNARC color dot DC 0 up 30 num_decimal 0.446719744708
+kama SNARC color dot DC 0 up 25 num_decimal 0.407392179666
+kama SNARC color dot DC 0 down 35 lctrl 0.441388771319
+kama SNARC color dot DC 0 up 35 num_decimal 0.40916896393
+kama SNARC color dot DC 0 down 30 lctrl 0.419180829845
+kama SNARC color dot DC 0 down 15 lctrl 0.349160449266
+kama SNARC color dot DC 0 up 20 num_decimal 0.393735206393
+kama SNARC color dot DC 0 down 25 lctrl 0.420492472716
+kama SNARC color dot DC 0 up 10 num_decimal 0.51785720935
+kama SNARC color dot DC 0 up 40 num_decimal 0.418857806369
+kama SNARC color dot DC 0 down 5 lctrl 0.39690679423
+kama SNARC color dot DC 0 up 40 num_decimal 0.39955738647
+kama SNARC color dot DC 0 up 40 num_decimal 0.3774608431
+kama SNARC color dot DC 0 up 15 num_decimal 0.421055358963
+kama SNARC color dot DC 0 up 40 num_decimal 0.34198287386
+kama SNARC color dot DC 0 up 10 num_decimal 0.362701059616
+kama SNARC color dot DC 0 up 40 num_decimal 0.397532981907
+kama SNARC color dot DC 0 up 20 num_decimal 0.343129746832
+kama SNARC color dot DC 0 down 40 lctrl 0.402942771783
+kama SNARC color dot DC 0 down 5 lctrl 0.428712039311
+kama SNARC color dot DC 0 down 10 lctrl 0.398740363598
+kama SNARC color dot DC 0 up 5 num_decimal 0.401287315262
+kama SNARC color dot DC 0 down 35 lctrl 0.531045317618
+kama SNARC color dot DC 0 down 20 lctrl 0.462763864564
+kama SNARC color dot DC 0 down 45 lctrl 0.366109407213
+kama SNARC color dot DC 0 up 45 num_decimal 0.344811578948
+kama SNARC color dot DC 0 down 20 lctrl 0.4047893738
+kama SNARC color dot DC 0 down 35 lctrl 0.406184177373
+kama SNARC color dot DC 0 down 25 lctrl 0.392060200901
+kama SNARC color dot DC 0 up 35 num_decimal 0.386812388214
+kama SNARC color dot DC 0 up 35 num_decimal 0.323887973846
+kama SNARC color dot DC 0 down 35 lctrl 0.409396724957
+kama SNARC color dot DC 0 up 40 num_decimal 0.411361241404
+kama SNARC color dot DC 0 down 35 lctrl 0.445150862203
+kama SNARC color dot DC 0 down 40 lctrl 0.461421501882
+kama SNARC color dot DC 0 down 45 lctrl 0.412367237662
+kama SNARC color dot DC 0 up 35 num_decimal 0.405559541201
+kama SNARC color dot DC 0 up 20 num_decimal 0.375107519341
+kama SNARC color dot DC 0 down 15 lctrl 0.403105369575
+kama SNARC color dot DC 0 up 10 num_decimal 0.445827318663
+kama SNARC color dot DC 0 down 10 lctrl 0.42262455177
+kama SNARC color dot DC 0 up 10 num_decimal 0.424636544288
+kama SNARC color dot DC 0 down 40 lctrl 0.409255537945
+kama SNARC color dot DC 0 up 40 num_decimal 0.427121746027
+kama SNARC color dot DC 0 up 5 num_decimal 0.405084780474
+kama SNARC color dot DC 0 down 10 lctrl 0.462789619559
+kama SNARC color dot DC 0 down 20 lctrl 0.390396055949
+kama SNARC color dot DC 0 down 35 lctrl 0.329135786533
+kama SNARC color dot DC 0 down 5 lctrl 0.423146478269
+kama SNARC color dot DC 0 down 40 lctrl 0.424506528115
+kama SNARC color dot DC 0 up 30 num_decimal 0.417065817352
+kama SNARC color dot DC 0 down 45 lctrl 0.505159376866
+kama SNARC color dot DC 0 down 40 lctrl 0.399075799119
+kama SNARC color dot DC 0 up 10 num_decimal 0.458019670609
+kama SNARC color dot DC 0 down 25 lctrl 0.377598306501
+kama SNARC color dot DC 0 down 30 lctrl 0.388978600393
+kama SNARC color dot DC 0 down 10 lctrl 0.384035503414
+kama SNARC color dot DC 0 up 25 num_decimal 0.418464034237
+kama SNARC color dot DC 0 down 20 lctrl 0.506682024504
+kama SNARC color dot DC 0 down 10 lctrl 0.425402988076
+kama SNARC color dot DC 0 up 10 num_decimal 0.459408888762
+kama SNARC color dot DC 0 down 45 lctrl 0.426709355827
+kama SNARC color dot DC 0 up 20 num_decimal 0.402981869725
+kama SNARC color dot DC 0 down 15 lctrl 0.460822620705
+kama SNARC color dot DC 0 down 15 lctrl 0.541322801299
+kama SNARC color dot DC 0 up 25 num_decimal 0.385594145983
+kama SNARC color dot DC 0 down 20 lctrl 0.564713610676
+kama SNARC color dot DC 0 up 20 num_decimal 0.399857447662
+kama SNARC color dot DC 0 up 40 num_decimal 0.496631060647
+kama SNARC color dot DC 0 down 20 lctrl 0.415343025486
+kama SNARC color dot DC 0 up 20 num_decimal 0.447872823704
+kama SNARC color dot DC 0 down 5 lctrl 0.45580381025
+kama SNARC color dot DC 0 down 45 lctrl 0.45452288719
+kama SNARC color dot DC 0 up 20 num_decimal 0.430313193136
+kama SNARC color dot DC 0 down 5 lctrl 0.528198615064
+kama SNARC color dot DC 0 down 40 lctrl 0.605283000836
+kama SNARC color dot DC 0 up 25 num_decimal 0.36729879144
+kama SNARC color dot DC 0 down 30 lctrl 0.482485363095
+kama SNARC color dot DC 0 down 20 lctrl 0.345977380289
+kama SNARC color dot DC 0 down 10 lctrl 0.359253924378
+kama SNARC color dot DC 0 down 35 lctrl 0.395211308863
+kama SNARC color dot DC 0 up 40 num_decimal 0.34121022405
+kama SNARC color dot DC 0 down 30 lctrl 0.369359190933
+kama SNARC color dot DC 0 down 10 lctrl 0.445209819417
+kama SNARC color dot DC 0 down 35 lctrl 0.437530797387
+kama SNARC color dot DC 0 up 10 num_decimal 0.422551320704
+kama SNARC color dot DC 0 down 20 lctrl 0.407272403431
+kama SNARC color dot DC 0 down 40 lctrl 0.432807083306
+kama SNARC color dot DC 0 down 35 lctrl 0.409128624783
+kama SNARC color dot DC 0 down 25 lctrl 0.483159337147
+kama SNARC color dot DC 0 up 30 num_decimal 0.521144539507
+kama SNARC color dot DC 0 up 45 num_decimal 0.365538142835
+kama SNARC color dot DC 0 up 15 num_decimal 0.385542325695
+kama SNARC color dot DC 0 up 25 num_decimal 0.372287192383
+kama SNARC color dot DC 0 up 25 num_decimal 0.407380388225
+kama SNARC color dot DC 0 up 45 num_decimal 0.368115814311
+kama SNARC color dot DC 0 up 45 num_decimal 0.394618633706
+kama SNARC color dot DC 0 up 20 num_decimal 0.412659231024
+kama SNARC color dot DC 0 down 30 lctrl 0.41451948629
+kama SNARC color dot DC 0 down 30 lctrl 0.407108254134
+kama SNARC color dot DC 0 up 30 num_decimal 0.416616191016
+kama SNARC color dot DC 0 up 10 num_decimal 0.458345486794
+kama SNARC color dot DC 0 up 40 num_decimal 0.410197922472
+kama SNARC color dot DC 0 up 40 num_decimal 0.5317552866
+kama SNARC color dot DC 0 up 5 num_decimal 0.401196707333
+kama SNARC color dot DC 0 up 45 num_decimal 0.345825332736
+kama SNARC color dot DC 0 down 25 lctrl 0.406222034111
+kama SNARC color dot DC 0 up 40 num_decimal 0.40022267209
+kama SNARC color dot DC 0 up 25 num_decimal 0.409362902135
+kama SNARC color dot DC 0 down 35 lctrl 0.4512259377
+kama SNARC color dot DC 0 down 45 lctrl 0.361952302993
+kama SNARC color dot DC 0 up 25 num_decimal 0.469349695718
+kama SNARC color dot DC 0 down 40 lctrl 0.523631603053
+kama SNARC color dot DC 0 up 5 num_decimal 0.41732088488
+kama SNARC color dot DC 0 up 45 num_decimal 0.393762823193
+kama SNARC color dot DC 0 up 30 num_decimal 0.404300959824
+kama SNARC color dot DC 0 down 40 lctrl 0.469969367073
+kama SNARC color dot DC 0 up 10 num_decimal 0.389851787769
+kama SNARC color dot DC 0 down 10 lctrl 0.472644162802
+kama SNARC color dot DC 0 down 15 lctrl 0.400300867975
+kama SNARC color dot DC 0 down 5 lctrl 0.427035172012
+kama SNARC color dot DC 0 up 35 num_decimal 0.356317855099
+kama SNARC color dot DC 0 up 35 num_decimal 0.359670348493
+kama SNARC color dot DC 0 down 25 lctrl 0.419079361375
+kama SNARC color dot DC 0 up 25 num_decimal 0.380271861024
+kama SNARC color dot DC 0 up 45 num_decimal 0.390995868031
+kama SNARC color dot DC 0 up 25 num_decimal 0.44104806068
+kama SNARC color dot DC 0 up 20 num_decimal 0.600532290556
+kama SNARC color dot DC 0 up 30 num_decimal 0.434061320468
+kama SNARC color dot DC 0 up 40 num_decimal 0.401745630029
+kama SNARC color dot DC 0 up 30 num_decimal 0.419577394687
+kama SNARC color dot DC 0 up 20 num_decimal 0.460461119889
+kama SNARC color dot DC 0 up 10 num_decimal 0.420316221674
+kama SNARC color dot DC 0 up 15 num_decimal 0.35784950147
+kama SNARC color dot DC 0 down 5 lctrl 0.473704461758
+kama SNARC color dot DC 0 down 20 lctrl 0.368340782629
+kama SNARC color dot DC 0 down 20 lctrl 0.379307134816
+kama SNARC color dot DC 0 down 5 lctrl 0.375002327259
+kama SNARC color dot DC 0 up 35 num_decimal 0.393821159806
+kama SNARC color dot DC 0 up 10 num_decimal 0.396659794531
+kama SNARC color dot DC 0 down 15 lctrl 0.423395029473
+kama SNARC color dot DC 0 down 25 lctrl 0.376655921973
+kama SNARC color dot DC 0 down 40 lctrl 0.378594993726
+kama SNARC color dot DC 0 down 5 lctrl 0.542449504697
+kama SNARC color dot DC 0 up 5 num_decimal 0.419344048238
+kama SNARC color dot DC 0 down 25 lctrl 0.460519456501
+kama SNARC color dot DC 0 up 10 num_decimal 0.476768375102
+kama SNARC color dot DC 0 up 5 num_decimal 0.412386166031
+kama SNARC color dot DC 0 up 10 num_decimal 0.471082106919
+kama SNARC color dot DC 0 down 25 lctrl 0.398305942018
+kama SNARC color dot DC 0 down 30 lctrl 0.375358552954
+kama SNARC color dot DC 0 down 30 lctrl 0.362077044047
+kama SNARC color dot DC 0 up 45 num_decimal 0.389061761096
+kama SNARC color dot DC 0 down 25 lctrl 0.439378330307
+kama SNARC color dot DC 0 down 45 lctrl 0.405725552305
+kama SNARC color dot DC 0 down 30 lctrl 0.383607908459
+kama SNARC color dot DC 0 up 20 num_decimal 0.402413087757
+kama SNARC color dot DC 0 down 45 lctrl 0.339243225195
+kama SNARC color dot DC 0 down 5 lctrl 0.392079439572
+kama SNARC color dot DC 0 down 10 lctrl 0.467052226162
+kama SNARC color dot DC 0 down 20 lctrl 0.369680662903
+kama SNARC color dot DC 0 down 45 lctrl 0.404309958557
+kama SNARC color dot DC 0 down 35 lctrl 0.350278774534
+kama SNARC color dot DC 0 up 10 num_decimal 0.418976341401
+kama SNARC color dot DC 0 down 15 lctrl 0.381094779617
+kama SNARC color dot DC 0 up 20 num_decimal 0.375161511737
+kama SNARC color dot DC 0 up 5 num_decimal 0.595220555836
+kama SNARC color dot DC 0 up 30 num_decimal 0.413430949931
+kama SNARC color dot DC 0 down 30 lctrl 0.455205549673
+kama SNARC color dot DC 0 down 40 lctrl 0.431235408089
+kama SNARC color dot DC 0 up 15 num_decimal 0.407839013292
+kama SNARC color dot DC 0 up 30 num_decimal 0.417046268381
+kama SNARC color dot DC 0 up 15 num_decimal 0.523120847395
+kama SNARC color dot DC 0 down 15 lctrl 0.401014870872
+kama SNARC color dot DC 0 down 25 lctrl 0.338363831797
+kama SNARC color dot DC 0 up 35 num_decimal 0.398139930914
+kama SNARC color dot DC 0 up 20 num_decimal 0.424221051077
+kama SNARC color dot DC 0 up 20 num_decimal 0.60941931488
+kama SNARC color dot DC 0 up 15 num_decimal 0.444050534401
+kama SNARC color dot DC 0 down 35 lctrl 0.411648269947
+kama SNARC color dot DC 0 down 20 lctrl 0.478299711172
+kama SNARC color dot DC 0 down 15 lctrl 0.406248409707
+kama SNARC color dot DC 0 up 15 lctrl 0.456764502544
+kama SNARC color dot DC 0 up 10 num_decimal 0.472663091171
+kama SNARC color dot DC 0 up 30 num_decimal 0.431246268629
+kama SNARC color dot DC 0 down 5 lctrl 0.480045775622
+kama SNARC color dot DC 0 down 45 lctrl 0.558561890802
+kama SNARC color dot DC 0 up 5 num_decimal 0.46719713679
+kama SNARC color dot DC 0 down 25 lctrl 0.410272705044
+kama SNARC color dot DC 0 down 35 lctrl 0.564291290841
+kama SNARC color dot DC 0 down 10 lctrl 0.424210811139
+kama SNARC color dot DC 0 down 25 lctrl 0.393537854876
+kama SNARC color dot DC 0 up 25 num_decimal 0.436143441041
+kama SNARC color dot DC 0 down 25 lctrl 0.444410483709
+kama SNARC color dot DC 0 down 5 lctrl 0.693517747362
+kama SNARC color dot DC 0 down 45 lctrl 0.802995398854
+kama SNARC color dot DC 0 up 15 num_decimal 0.445538738613
+kama SNARC color dot DC 0 down 10 lctrl 0.863010429842
+kama SNARC color dot DC 0 down 45 lctrl 0.412675366682
+kama SNARC color dot DC 0 up 35 num_decimal 0.414763072676
+kama SNARC color dot DC 0 up 45 num_decimal 0.430708206472
+kama SNARC color dot DC 0 up 25 num_decimal 0.439362194647
+kama SNARC color dot DC 0 down 45 lctrl 0.398878757902
+kama SNARC color dot DC 0 down 5 lctrl 0.464861189893
+kama SNARC color dot DC 0 down 5 lctrl 0.440608363981
+kama SNARC color dot DC 0 up 45 num_decimal 0.40820951284
+kama SNARC color dot DC 0 down 30 lctrl 0.425833375741
+kama SNARC color dot DC 0 down 35 lctrl 0.427186288662
+kama SNARC color dot DC 0 up 35 num_decimal 0.45254844111
+kama SNARC color dot DC 0 up 45 num_decimal 1.05188421051
+kama SNARC color dot DC 0 down 20 lctrl 0.603841652093
+kama SNARC color dot DC 0 up 30 num_decimal 0.51666937663
+kama SNARC color dot DC 0 up 20 num_decimal 0.385479644867
+kama SNARC color dot DC 0 down 5 lctrl 0.396803153652
+kama SNARC color dot DC 0 up 35 num_decimal 0.487466937415
+kama SNARC color dot DC 0 up 30 num_decimal 0.38979717477
+kama SNARC color dot DC 0 down 10 lctrl 0.440317922124
+kama SNARC color dot DC 0 down 10 lctrl 0.457074183069
+kama SNARC color dot DC 0 up 40 num_decimal 0.409119315749
+kama SNARC color dot DC 0 up 15 num_decimal 0.387868653256
+kama SNARC color dot DC 0 down 35 lctrl 0.47021078135
+kama SNARC color dot DC 0 up 15 num_decimal 0.461782071794
+kama SNARC color dot DC 0 down 40 lctrl 0.437117165983
+kama SNARC color dot DC 0 up 15 num_decimal 0.526404143637
+kama SNARC color dot DC 0 up 10 num_decimal 0.548194419793
+kama SNARC color dot DC 0 down 5 lctrl 0.432459856343
+kama SNARC color dot DC 0 down 45 lctrl 0.439942457759
+kama SNARC color dot DC 0 down 30 lctrl 0.471976705074
+kama SNARC color dot DC 0 down 10 lctrl 0.463919425967
+kama SNARC color dot DC 0 down 10 lctrl 0.39243380346
+kama SNARC color dot DC 0 down 5 lctrl 1.26759097098
+kama SNARC color dot DC 0 up 40 num_decimal 0.425602822002
+kama SNARC color dot DC 0 down 25 lctrl 0.562963512311
+kama SNARC color dot DC 0 up 15 num_decimal 0.431137352933
+kama SNARC color dot DC 0 down 25 lctrl 0.438673946745
+kama SNARC color dot DC 0 up 45 num_decimal 0.398499569923
+kama SNARC color dot DC 0 up 40 num_decimal 0.440425906917
+kama SNARC color dot DC 0 down 35 lctrl 0.409112799425
+kama SNARC color dot DC 0 down 5 lctrl 0.419813844147
+kama SNARC color dot DC 0 down 20 lctrl 0.564793358067
+kama SNARC color dot DC 0 down 5 lctrl 0.448560451004
+kama SNARC color dot DC 0 down 25 lctrl 0.376506046528
+kama SNARC color dot DC 0 down 40 lctrl 0.371420521331
+kama SNARC color dot DC 0 down 10 lctrl 0.398955712581
+kama SNARC color dot DC 0 up 40 num_decimal 0.488768030047
+kama SNARC color dot DC 0 down 25 lctrl 0.431431518403
+kama SNARC color dot DC 0 up 15 num_decimal 0.416731933337
+kama SNARC color dot DC 0 up 25 num_decimal 0.513511442044
+kama SNARC color dot DC 0 up 35 num_decimal 0.479497163227
+kama SNARC color dot DC 0 down 30 lctrl 0.445726470796
+kama SNARC color dot DC 0 up 15 num_decimal 0.479233096967
+kama SNARC color dot DC 0 down 15 lctrl 0.486408810566
+kama SNARC color dot DC 0 down 20 lctrl 0.468160932095
+kama SNARC color dot DC 0 down 30 lctrl 0.458916440871
+kama SNARC color dot DC 0 up 45 num_decimal 0.417527855732
+kama SNARC color dot DC 0 up 5 num_decimal 0.451438804273
+kama SNARC color dot DC 0 up 10 num_decimal 0.443716960687
+kama SNARC color dot DC 0 down 30 lctrl 0.476430457173
+kama SNARC color dot DC 0 down 30 lctrl 0.435158234958
+kama SNARC color dot DC 0 up 10 num_decimal 0.428031548937
+kama SNARC color dot DC 0 down 30 lctrl 0.453305575863
+kama SNARC color dot DC 0 down 30 lctrl 0.429265616525
+kama SNARC color dot DC 0 up 10 num_decimal 0.44735772383
+kama SNARC color dot DC 0 up 20 num_decimal 0.519182505471
+kama SNARC color dot DC 0 down 10 lctrl 0.436908333323
+kama SNARC color dot DC 0 down 30 lctrl 0.548606809993
+kama SNARC color dot DC 0 down 15 lctrl 0.801085185107
+kama SNARC color dot DC 0 down 20 lctrl 0.418318813309
+kama SNARC color dot DC 0 down 45 lctrl 0.5227373152
+kama SNARC color dot DC 0 down 40 lctrl 0.376091484221
+kama SNARC color dot DC 0 up 15 num_decimal 0.436234979873
+kama SNARC color dot DC 0 up 40 num_decimal 0.419699653332
+kama SNARC color dot DC 0 up 45 num_decimal 0.40351093315
+kama SNARC color dot DC 0 down 45 lctrl 0.396864282975
+kama SNARC color dot DC 0 up 45 num_decimal 0.638842688499
+kama SNARC color dot DC 0 down 45 lctrl 0.406493857899
+kama SNARC color dot DC 0 down 30 lctrl 0.568337617558
+kama SNARC color dot DC 0 down 15 lctrl 0.44430591223
+kama SNARC color dot DC 0 up 15 num_decimal 0.428673561972
+kama SNARC color dot DC 0 down 35 lctrl 0.413869405425
+kama SNARC color dot DC 0 down 30 lctrl 0.879576165895
+kama SNARC color dot DC 0 down 25 lctrl 0.414001593706
+kama SNARC color dot DC 0 down 15 lctrl 0.376747771107
+kama SNARC color dot DC 0 down 5 lctrl 0.436490978305
+kama SNARC color dot DC 0 up 20 num_decimal 0.428383740717
+kama SNARC color dot DC 0 up 15 num_decimal 0.502006717398
+kama SNARC color dot DC 0 down 40 lctrl 0.394486445426
+kama SNARC color dot DC 0 down 15 lctrl 0.413380060546
+kama SNARC color dot DC 0 up 20 num_decimal 0.447157889903
+kama SNARC color dot DC 0 up 35 num_decimal 0.703844879225
+kama SNARC color dot DC 0 up 15 num_decimal 0.406213655981
+kama SNARC color dot DC 0 up 45 num_decimal 0.446998705424
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '12_09_0949', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'kama', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+kama SNARC color arabic DC 0 up 5 num_decimal 1.0969154206
+kama SNARC color arabic DC 0 down 8 lctrl 0.48028129418
+kama SNARC color arabic DC 0 up 7 num_decimal 0.423847448518
+kama SNARC color arabic DC 0 up 2 num_decimal 0.561713309064
+kama SNARC color arabic DC 0 up 3 num_decimal 0.454106463077
+kama SNARC color arabic DC 0 up 8 num_decimal 0.510804685299
+kama SNARC color arabic DC 0 up 8 num_decimal 0.476761548477
+kama SNARC color arabic DC 0 down 8 lctrl 0.428814438684
+kama SNARC color arabic DC 0 down 8 lctrl 0.382455139766
+kama SNARC color arabic DC 0 down 4 lctrl 0.369801370041
+kama SNARC color arabic DC 0 down 3 lctrl 0.373776017198
+kama SNARC color arabic DC 0 up 9 num_decimal 0.425715151011
+kama SNARC color arabic DC 0 down 6 lctrl 0.403232282737
+kama SNARC color arabic DC 0 down 9 lctrl 0.429854568068
+kama SNARC color arabic DC 0 up 3 num_decimal 0.383719616865
+kama SNARC color arabic DC 0 down 7 lctrl 0.410480917101
+kama SNARC color arabic DC 0 down 3 lctrl 0.421082975763
+kama SNARC color arabic DC 0 down 4 lctrl 0.374814905377
+kama SNARC color arabic DC 0 up 3 num_decimal 0.410662443261
+kama SNARC color arabic DC 0 down 4 lctrl 0.412606169531
+kama SNARC color arabic DC 0 down 2 lctrl 0.439338611763
+kama SNARC color arabic DC 0 down 9 lctrl 0.399971948777
+kama SNARC color arabic DC 0 up 9 num_decimal 0.458079869029
+kama SNARC color arabic DC 0 up 7 num_decimal 0.442650145407
+kama SNARC color arabic DC 0 up 6 num_decimal 0.387635927409
+kama SNARC color arabic DC 0 up 4 num_decimal 0.398183993675
+kama SNARC color arabic DC 0 up 2 num_decimal 0.432756193921
+kama SNARC color arabic DC 0 up 8 num_decimal 0.401460773593
+kama SNARC color arabic DC 0 up 1 num_decimal 0.4041020568
+kama SNARC color arabic DC 0 down 6 lctrl 0.373898896445
+kama SNARC color arabic DC 0 down 9 lctrl 0.337807461873
+kama SNARC color arabic DC 0 down 7 lctrl 0.334403148191
+kama SNARC color arabic DC 0 up 4 num_decimal 0.411846862669
+kama SNARC color arabic DC 0 down 1 lctrl 0.398141482419
+kama SNARC color arabic DC 0 down 1 lctrl 0.504624728022
+kama SNARC color arabic DC 0 down 3 lctrl 0.471150683469
+kama SNARC color arabic DC 0 up 4 num_decimal 0.398865414953
+kama SNARC color arabic DC 0 down 9 lctrl 0.472446811284
+kama SNARC color arabic DC 0 up 9 num_decimal 0.504392933078
+kama SNARC color arabic DC 0 down 9 lctrl 0.359077052735
+kama SNARC color arabic DC 0 down 3 lctrl 0.371378010076
+kama SNARC color arabic DC 0 down 9 lctrl 0.343027968062
+kama SNARC color arabic DC 0 down 3 lctrl 0.363902235285
+kama SNARC color arabic DC 0 down 5 lctrl 0.360518401478
+kama SNARC color arabic DC 0 down 5 lctrl 0.405157080638
+kama SNARC color arabic DC 0 down 7 lctrl 0.407820084924
+kama SNARC color arabic DC 0 up 2 num_decimal 0.417520718806
+kama SNARC color arabic DC 0 up 4 num_decimal 0.37944552912
+kama SNARC color arabic DC 0 down 9 lctrl 0.399107760135
+kama SNARC color arabic DC 0 down 1 lctrl 0.409705474581
+kama SNARC color arabic DC 0 up 6 num_decimal 0.44433352903
+kama SNARC color arabic DC 0 up 4 num_decimal 0.365226910803
+kama SNARC color arabic DC 0 up 7 num_decimal 0.360937928604
+kama SNARC color arabic DC 0 up 8 num_decimal 0.388679159803
+kama SNARC color arabic DC 0 up 6 num_decimal 0.360089875619
+kama SNARC color arabic DC 0 up 9 num_decimal 0.443931378767
+kama SNARC color arabic DC 0 down 6 lctrl 0.500836882144
+kama SNARC color arabic DC 0 down 3 lctrl 0.379539550361
+kama SNARC color arabic DC 0 down 5 lctrl 0.463456456684
+kama SNARC color arabic DC 0 up 5 num_decimal 0.432019849343
+kama SNARC color arabic DC 0 up 1 num_decimal 1.128916776
+kama SNARC color arabic DC 0 down 8 lctrl 0.406747994523
+kama SNARC color arabic DC 0 down 8 lctrl 0.560907767333
+kama SNARC color arabic DC 0 down 4 lctrl 0.453456071911
+kama SNARC color arabic DC 0 up 5 num_decimal 0.382203485551
+kama SNARC color arabic DC 0 up 3 num_decimal 0.417259445257
+kama SNARC color arabic DC 0 up 3 num_decimal 0.483146614801
+kama SNARC color arabic DC 0 down 3 lctrl 0.425993180822
+kama SNARC color arabic DC 0 up 3 num_decimal 0.411843449358
+kama SNARC color arabic DC 0 down 2 lctrl 0.438532139129
+kama SNARC color arabic DC 0 up 4 num_decimal 0.599678652151
+kama SNARC color arabic DC 0 up 1 num_decimal 0.441689453113
+kama SNARC color arabic DC 0 up 6 num_decimal 0.539072807816
+kama SNARC color arabic DC 0 down 5 lctrl 0.407909141347
+kama SNARC color arabic DC 0 up 9 num_decimal 0.38545016626
+kama SNARC color arabic DC 0 down 1 lctrl 0.748294584998
+kama SNARC color arabic DC 0 down 7 num_decimal 0.368701042239
+kama SNARC color arabic DC 0 down 9 lctrl 0.716303159237
+kama SNARC color arabic DC 0 up 9 num_decimal 0.442277473751
+kama SNARC color arabic DC 0 down 2 lctrl 0.515596045026
+kama SNARC color arabic DC 0 down 5 lctrl 1.00903007314
+kama SNARC color arabic DC 0 up 5 num_decimal 0.37928913735
+kama SNARC color arabic DC 0 down 7 lctrl 0.415222628648
+kama SNARC color arabic DC 0 up 8 num_decimal 0.377089722951
+kama SNARC color arabic DC 0 up 2 num_decimal 0.396781122273
+kama SNARC color arabic DC 0 down 4 lctrl 0.448128201532
+kama SNARC color arabic DC 0 up 7 num_decimal 0.400823104774
+kama SNARC color arabic DC 0 up 8 num_decimal 0.442541229711
+kama SNARC color arabic DC 0 down 7 lctrl 0.435885270502
+kama SNARC color arabic DC 0 down 2 lctrl 0.436914849647
+kama SNARC color arabic DC 0 down 1 lctrl 0.429828502772
+kama SNARC color arabic DC 0 up 1 num_decimal 0.38386111418
+kama SNARC color arabic DC 0 up 7 num_decimal 0.371153352059
+kama SNARC color arabic DC 0 up 2 num_decimal 0.326950025382
+kama SNARC color arabic DC 0 up 8 num_decimal 0.40481419789
+kama SNARC color arabic DC 0 down 5 lctrl 0.462568064552
+kama SNARC color arabic DC 0 up 6 num_decimal 0.41528096526
+kama SNARC color arabic DC 0 up 3 num_decimal 0.456548532959
+kama SNARC color arabic DC 0 down 5 lctrl 0.424812795329
+kama SNARC color arabic DC 0 down 5 lctrl 0.466903591921
+kama SNARC color arabic DC 0 up 5 num_decimal 0.394772543066
+kama SNARC color arabic DC 0 down 2 lctrl 0.438179637047
+kama SNARC color arabic DC 0 down 1 lctrl 0.374880689216
+kama SNARC color arabic DC 0 up 9 num_decimal 0.378448531594
+kama SNARC color arabic DC 0 up 7 num_decimal 0.414277761711
+kama SNARC color arabic DC 0 down 6 lctrl 0.351955952135
+kama SNARC color arabic DC 0 down 5 lctrl 0.427695803116
+kama SNARC color arabic DC 0 down 9 lctrl 0.397305531179
+kama SNARC color arabic DC 0 up 5 num_decimal 0.384113388997
+kama SNARC color arabic DC 0 down 1 lctrl 0.394946001398
+kama SNARC color arabic DC 0 up 6 num_decimal 0.36583634222
+kama SNARC color arabic DC 0 down 3 lctrl 0.417783854163
+kama SNARC color arabic DC 0 up 1 num_decimal 0.4035522032
+kama SNARC color arabic DC 0 up 7 num_decimal 0.398146136938
+kama SNARC color arabic DC 0 down 2 lctrl 0.440892599814
+kama SNARC color arabic DC 0 down 7 lctrl 0.449592512558
+kama SNARC color arabic DC 0 up 4 num_decimal 0.418413144852
+kama SNARC color arabic DC 0 down 4 lctrl 0.43631069335
+kama SNARC color arabic DC 0 down 5 lctrl 0.44521044002
+kama SNARC color arabic DC 0 down 9 lctrl 0.389997318998
+kama SNARC color arabic DC 0 up 5 num_decimal 0.352923781354
+kama SNARC color arabic DC 0 down 9 lctrl 0.364561625184
+kama SNARC color arabic DC 0 up 2 num_decimal 0.448365892196
+kama SNARC color arabic DC 0 up 5 num_decimal 0.488947694401
+kama SNARC color arabic DC 0 up 2 num_decimal 0.399755979192
+kama SNARC color arabic DC 0 up 6 num_decimal 0.386426683911
+kama SNARC color arabic DC 0 down 9 lctrl 0.405372739922
+kama SNARC color arabic DC 0 down 4 lctrl 0.415780550077
+kama SNARC color arabic DC 0 up 5 num_decimal 0.377459601896
+kama SNARC color arabic DC 0 up 4 num_decimal 0.437332825267
+kama SNARC color arabic DC 0 up 1 num_decimal 0.397846696348
+kama SNARC color arabic DC 0 down 5 lctrl 0.343621884422
+kama SNARC color arabic DC 0 down 8 lctrl 0.412500667147
+kama SNARC color arabic DC 0 down 5 lctrl 0.431049848014
+kama SNARC color arabic DC 0 up 4 num_decimal 0.431947549179
+kama SNARC color arabic DC 0 up 6 num_decimal 0.432583976795
+kama SNARC color arabic DC 0 down 7 lctrl 0.401938947632
+kama SNARC color arabic DC 0 up 2 num_decimal 0.443782744527
+kama SNARC color arabic DC 0 up 9 num_decimal 0.445057771864
+kama SNARC color arabic DC 0 down 6 lctrl 0.405971000498
+kama SNARC color arabic DC 0 down 8 lctrl 0.415702974795
+kama SNARC color arabic DC 0 down 1 lctrl 0.401461083894
+kama SNARC color arabic DC 0 down 3 lctrl 0.396066809074
+kama SNARC color arabic DC 0 up 6 num_decimal 0.454888732222
+kama SNARC color arabic DC 0 up 9 num_decimal 0.534283930498
+kama SNARC color arabic DC 0 down 6 lctrl 0.442985270625
+kama SNARC color arabic DC 0 up 8 num_decimal 0.499632913766
+kama SNARC color arabic DC 0 up 7 num_decimal 0.394243479642
+kama SNARC color arabic DC 0 down 1 lctrl 0.405162976359
+kama SNARC color arabic DC 0 down 1 lctrl 0.49575508056
+kama SNARC color arabic DC 0 up 6 num_decimal 0.431181725994
+kama SNARC color arabic DC 0 up 1 num_decimal 0.544224116852
+kama SNARC color arabic DC 0 down 6 lctrl 0.468922411064
+kama SNARC color arabic DC 0 up 5 num_decimal 0.476479484752
+kama SNARC color arabic DC 0 up 8 num_decimal 0.45206778466
+kama SNARC color arabic DC 0 down 1 lctrl 0.628568307829
+kama SNARC color arabic DC 0 down 7 lctrl 0.47815604175
+kama SNARC color arabic DC 0 down 5 lctrl 0.525719309047
+kama SNARC color arabic DC 0 down 1 lctrl 0.387566419957
+kama SNARC color arabic DC 0 up 4 num_decimal 0.471006393444
+kama SNARC color arabic DC 0 up 2 num_decimal 0.446939748209
+kama SNARC color arabic DC 0 up 2 num_decimal 0.37627021767
+kama SNARC color arabic DC 0 down 7 lctrl 0.364259702185
+kama SNARC color arabic DC 0 down 4 lctrl 0.504032052865
+kama SNARC color arabic DC 0 up 3 num_decimal 0.437540727023
+kama SNARC color arabic DC 0 up 5 num_decimal 0.590853688052
+kama SNARC color arabic DC 0 down 9 lctrl 0.442195554254
+kama SNARC color arabic DC 0 down 7 lctrl 0.427508070932
+kama SNARC color arabic DC 0 down 7 lctrl 0.349289534535
+kama SNARC color arabic DC 0 down 7 lctrl 0.378012248206
+kama SNARC color arabic DC 0 down 2 lctrl 0.301942547126
+kama SNARC color arabic DC 0 down 4 lctrl 0.371948343551
+kama SNARC color arabic DC 0 down 4 lctrl 0.375861240782
+kama SNARC color arabic DC 0 up 6 num_decimal 0.443806327413
+kama SNARC color arabic DC 0 up 8 num_decimal 0.373301566772
+kama SNARC color arabic DC 0 down 3 lctrl 0.424872373146
+kama SNARC color arabic DC 0 down 9 lctrl 0.410770738355
+kama SNARC color arabic DC 0 down 5 lctrl 0.349325219166
+kama SNARC color arabic DC 0 up 3 num_decimal 0.362026775263
+kama SNARC color arabic DC 0 down 3 lctrl 0.390321893979
+kama SNARC color arabic DC 0 up 1 num_decimal 0.384910862897
+kama SNARC color arabic DC 0 down 1 lctrl 0.395869147255
+kama SNARC color arabic DC 0 down 3 lctrl 0.391271415432
+kama SNARC color arabic DC 0 down 7 lctrl 0.361803668753
+kama SNARC color arabic DC 0 up 1 num_decimal 0.445596764925
+kama SNARC color arabic DC 0 down 9 lctrl 0.654349056498
+kama SNARC color arabic DC 0 up 9 num_decimal 0.423041596487
+kama SNARC color arabic DC 0 down 5 lctrl 0.424627235254
+kama SNARC color arabic DC 0 up 1 num_decimal 0.394417868877
+kama SNARC color arabic DC 0 down 1 lctrl 0.429357465659
+kama SNARC color arabic DC 0 up 4 num_decimal 0.414806514834
+kama SNARC color arabic DC 0 down 1 lctrl 0.408632142977
+kama SNARC color arabic DC 0 down 8 lctrl 0.426751867082
+kama SNARC color arabic DC 0 up 5 num_decimal 0.404661840036
+kama SNARC color arabic DC 0 up 2 num_decimal 0.407264956204
+kama SNARC color arabic DC 0 up 7 num_decimal 0.385946958366
+kama SNARC color arabic DC 0 down 4 lctrl 0.420409312012
+kama SNARC color arabic DC 0 down 1 lctrl 0.686466154215
+kama SNARC color arabic DC 0 down 1 lctrl 0.373038741716
+kama SNARC color arabic DC 0 up 5 num_decimal 0.440915872399
+kama SNARC color arabic DC 0 down 6 lctrl 0.385155380187
+kama SNARC color arabic DC 0 down 5 lctrl 0.411947400235
+kama SNARC color arabic DC 0 down 7 lctrl 0.357767892274
+kama SNARC color arabic DC 0 up 6 num_decimal 0.345766996124
+kama SNARC color arabic DC 0 down 5 lctrl 0.39073459448
+kama SNARC color arabic DC 0 down 7 lctrl 0.378138540766
+kama SNARC color arabic DC 0 down 3 lctrl 0.357910010191
+kama SNARC color arabic DC 0 up 1 num_decimal 0.393229725855
+kama SNARC color arabic DC 0 down 3 lctrl 0.419953479654
+kama SNARC color arabic DC 0 up 9 num_decimal 0.421823974858
+kama SNARC color arabic DC 0 down 8 lctrl 0.447439643328
+kama SNARC color arabic DC 0 down 4 lctrl 0.288273161807
+kama SNARC color arabic DC 0 down 8 lctrl 0.343262245414
+kama SNARC color arabic DC 0 up 6 num_decimal 0.387859033921
+kama SNARC color arabic DC 0 down 1 lctrl 0.366737456697
+kama SNARC color arabic DC 0 down 2 lctrl 0.418331225354
+kama SNARC color arabic DC 0 up 4 num_decimal 0.404306855545
+kama SNARC color arabic DC 0 up 1 num_decimal 0.359029266361
+kama SNARC color arabic DC 0 up 8 num_decimal 0.371235271557
+kama SNARC color arabic DC 0 up 2 num_decimal 0.407189242729
+kama SNARC color arabic DC 0 down 7 lctrl 0.345326368521
+kama SNARC color arabic DC 0 up 9 num_decimal 0.662195641137
+kama SNARC color arabic DC 0 down 3 lctrl 0.486839508532
+kama SNARC color arabic DC 0 up 2 num_decimal 0.397698993011
+kama SNARC color arabic DC 0 down 7 lctrl 0.432385384072
+kama SNARC color arabic DC 0 down 7 lctrl 0.401363959641
+kama SNARC color arabic DC 0 up 8 num_decimal 0.403179841845
+kama SNARC color arabic DC 0 up 3 num_decimal 0.405935005567
+kama SNARC color arabic DC 0 down 2 lctrl 0.367989211451
+kama SNARC color arabic DC 0 down 8 lctrl 0.563962992246
+kama SNARC color arabic DC 0 up 2 num_decimal 0.408202065613
+kama SNARC color arabic DC 0 down 8 lctrl 0.39481474402
+kama SNARC color arabic DC 0 up 7 num_decimal 0.357787130944
+kama SNARC color arabic DC 0 down 3 lctrl 0.5376938296
+kama SNARC color arabic DC 0 down 3 lctrl 0.4550752232
+kama SNARC color arabic DC 0 down 4 lctrl 0.430880423598
+kama SNARC color arabic DC 0 up 4 num_decimal 0.511649324971
+kama SNARC color arabic DC 0 down 8 lctrl 0.398535254552
+kama SNARC color arabic DC 0 up 6 num_decimal 0.433127934672
+kama SNARC color arabic DC 0 up 6 num_decimal 0.474230111869
+kama SNARC color arabic DC 0 up 1 num_decimal 0.378278176274
+kama SNARC color arabic DC 0 down 3 lctrl 0.422218367593
+kama SNARC color arabic DC 0 down 9 lctrl 0.488190559647
+kama SNARC color arabic DC 0 down 6 lctrl 0.383035402877
+kama SNARC color arabic DC 0 up 4 num_decimal 0.449714460901
+kama SNARC color arabic DC 0 down 4 lctrl 0.378531071693
+kama SNARC color arabic DC 0 up 8 num_decimal 0.373967162693
+kama SNARC color arabic DC 0 down 9 lctrl 0.417850879207
+kama SNARC color arabic DC 0 down 5 lctrl 0.411492188479
+kama SNARC color arabic DC 0 down 6 lctrl 0.470243983571
+kama SNARC color arabic DC 0 down 8 lctrl 0.350163963117
+kama SNARC color arabic DC 0 up 6 num_decimal 0.458686818036
+kama SNARC color arabic DC 0 down 8 lctrl 0.387480156242
+kama SNARC color arabic DC 0 down 8 lctrl 0.470800974097
+kama SNARC color arabic DC 0 down 2 lctrl 0.558885534878
+kama SNARC color arabic DC 0 up 9 num_decimal 0.442831671568
+kama SNARC color arabic DC 0 up 3 num_decimal 0.395597633767
+kama SNARC color arabic DC 0 up 2 num_decimal 0.438366748627
+kama SNARC color arabic DC 0 up 2 num_decimal 0.375320696216
+kama SNARC color arabic DC 0 up 6 num_decimal 0.410731950714
+kama SNARC color arabic DC 0 down 6 lctrl 0.437387127964
+kama SNARC color arabic DC 0 down 3 lctrl 0.606267276015
+kama SNARC color arabic DC 0 up 6 num_decimal 0.441109810605
+kama SNARC color arabic DC 0 down 5 lctrl 0.497989558988
+kama SNARC color arabic DC 0 down 4 lctrl 0.543750907631
+kama SNARC color arabic DC 0 up 8 num_decimal 0.74846835363
+kama SNARC color arabic DC 0 down 7 lctrl 0.465020684673
+kama SNARC color arabic DC 0 down 3 lctrl 0.416923078833
+kama SNARC color arabic DC 0 down 8 lctrl 0.354609957687
+kama SNARC color arabic DC 0 up 6 num_decimal 0.479234338171
+kama SNARC color arabic DC 0 up 9 num_decimal 0.42310831123
+kama SNARC color arabic DC 0 up 8 num_decimal 0.368773342403
+kama SNARC color arabic DC 0 down 6 lctrl 0.444609076432
+kama SNARC color arabic DC 0 down 2 num_decimal 0.405953623635
+kama SNARC color arabic DC 0 up 6 num_decimal 0.447858549851
+kama SNARC color arabic DC 0 up 8 num_decimal 0.407553536254
+kama SNARC color arabic DC 0 up 6 num_decimal 0.434078697331
+kama SNARC color arabic DC 0 down 3 lctrl 0.434231986089
+kama SNARC color arabic DC 0 down 9 lctrl 0.500150806348
+kama SNARC color arabic DC 0 down 3 lctrl 0.39395148628
+kama SNARC color arabic DC 0 up 1 num_decimal 0.436782351065
+kama SNARC color arabic DC 0 up 1 num_decimal 0.430109635595
+kama SNARC color arabic DC 0 up 5 num_decimal 0.399979706306
+kama SNARC color arabic DC 0 down 3 lctrl 0.449947497049
+kama SNARC color arabic DC 0 down 7 lctrl 0.46597392974
+kama SNARC color arabic DC 0 up 6 num_decimal 0.401866957771
+kama SNARC color arabic DC 0 up 8 num_decimal 0.379570270173
+kama SNARC color arabic DC 0 up 9 num_decimal 0.495461535693
+kama SNARC color arabic DC 0 up 3 num_decimal 0.430049437176
+kama SNARC color arabic DC 0 up 1 num_decimal 0.431856010347
+kama SNARC color arabic DC 0 up 4 num_decimal 0.360672310837
+kama SNARC color arabic DC 0 up 2 num_decimal 0.413383784159
+kama SNARC color arabic DC 0 up 6 num_decimal 0.34409168033
+kama SNARC color arabic DC 0 up 9 num_decimal 0.412691812642
+kama SNARC color arabic DC 0 down 5 lctrl 0.446983190367
+kama SNARC color arabic DC 0 down 7 lctrl 0.34376710535
+kama SNARC color arabic DC 0 up 4 num_decimal 0.428776581946
+kama SNARC color arabic DC 0 up 3 num_decimal 0.502616148816
+kama SNARC color arabic DC 0 down 2 lctrl 0.50910857933
+kama SNARC color arabic DC 0 down 8 lctrl 0.363986947494
+kama SNARC color arabic DC 0 down 1 lctrl 0.464535684009
+kama SNARC color arabic DC 0 down 9 lctrl 0.408379247558
+kama SNARC color arabic DC 0 up 9 num_decimal 0.427173256015
+kama SNARC color arabic DC 0 down 2 lctrl 0.477072470208
+kama SNARC color arabic DC 0 down 4 lctrl 0.436762802094
+kama SNARC color arabic DC 0 up 9 num_decimal 0.42164834442
+kama SNARC color arabic DC 0 down 8 lctrl 0.399378963321
+kama SNARC color arabic DC 0 down 8 lctrl 0.370100190028
+kama SNARC color arabic DC 0 up 4 num_decimal 0.389854270178
+kama SNARC color arabic DC 0 down 6 lctrl 0.408566359138
+kama SNARC color arabic DC 0 up 4 num_decimal 0.379306824514
+kama SNARC color arabic DC 0 down 2 lctrl 0.423107380326
+kama SNARC color arabic DC 0 down 7 lctrl 0.352940537615
+kama SNARC color arabic DC 0 down 6 lctrl 0.420717130733
+kama SNARC color arabic DC 0 up 9 num_decimal 0.430604565895
+kama SNARC color arabic DC 0 down 7 lctrl 0.408169483994
+kama SNARC color arabic DC 0 down 3 lctrl 0.410862897791
+kama SNARC color arabic DC 0 up 7 num_decimal 0.460687950014
+kama SNARC color arabic DC 0 up 2 num_decimal 0.445290497711
+kama SNARC color arabic DC 0 up 5 num_decimal 0.382206588562
+kama SNARC color arabic DC 0 down 7 lctrl 0.569491006853
+kama SNARC color arabic DC 0 down 3 lctrl 0.421103145337
+kama SNARC color arabic DC 0 down 5 lctrl 0.462780310525
+kama SNARC color arabic DC 0 down 2 lctrl 0.391506003086
+kama SNARC color arabic DC 0 up 2 num_decimal 0.330973389817
+kama SNARC color arabic DC 0 down 3 lctrl 0.359892834403
+kama SNARC color arabic DC 0 down 1 lctrl 0.419880869191
+kama SNARC color arabic DC 0 up 3 num_decimal 0.421891930805
+kama SNARC color arabic DC 0 up 1 num_decimal 0.407996025663
+kama SNARC color arabic DC 0 up 1 num_decimal 0.434312664383
+kama SNARC color arabic DC 0 down 7 lctrl 0.435041561733
+kama SNARC color arabic DC 0 down 9 lctrl 0.651767351109
+kama SNARC color arabic DC 0 up 7 num_decimal 0.436465223312
+kama SNARC color arabic DC 0 down 9 lctrl 0.484959393994
+kama SNARC color arabic DC 0 down 4 lctrl 0.419791502466
+kama SNARC color arabic DC 0 down 2 lctrl 0.389549864771
+kama SNARC color arabic DC 0 down 2 lctrl 0.408876349965
+kama SNARC color arabic DC 0 up 7 num_decimal 0.45890247732
+kama SNARC color arabic DC 0 down 2 lctrl 0.682790327045
+kama SNARC color arabic DC 0 up 8 num_decimal 0.786048923317
+kama SNARC color arabic DC 0 down 8 lctrl 0.669442103394
+kama SNARC color arabic DC 0 down 6 lctrl 0.413122820911
+kama SNARC color arabic DC 0 up 5 num_decimal 0.384069326237
+kama SNARC color arabic DC 0 down 5 lctrl 0.539069084201
+kama SNARC color arabic DC 0 down 2 lctrl 0.423777941065
+kama SNARC color arabic DC 0 up 4 num_decimal 0.689352575313
+kama SNARC color arabic DC 0 up 4 num_decimal 0.415885431858
+kama SNARC color arabic DC 0 up 4 num_decimal 0.449787691968
+kama SNARC color arabic DC 0 up 8 num_decimal 0.4580997283
+kama SNARC color arabic DC 0 up 2 num_decimal 0.386880344161
+kama SNARC color arabic DC 0 up 7 num_decimal 0.461799758958
+kama SNARC color arabic DC 0 down 5 lctrl 0.42245667886
+kama SNARC color arabic DC 0 up 1 num_decimal 1.06412403853
+kama SNARC color arabic DC 0 down 4 lctrl 0.488225623674
+kama SNARC color arabic DC 0 down 4 lctrl 0.967172623001
+kama SNARC color arabic DC 0 down 5 lctrl 0.419025989581
+kama SNARC color arabic DC 0 down 6 lctrl 0.604922430924
+kama SNARC color arabic DC 0 up 2 num_decimal 0.351383136251
+kama SNARC color arabic DC 0 up 6 num_decimal 0.412051351113
+kama SNARC color arabic DC 0 up 1 num_decimal 0.453905387944
+{'participant': u'kama', 'interactive_setting': False, 'response_buttons': 'CD', 'range_in_instr': True, 'dateStr': '12_09_0956', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+kama SNARC_only CD 4 lctrl 0.752469376382
+kama SNARC_only CD 3 num_decimal 0.412807244663
+kama SNARC_only CD 4 lctrl 0.478322363154
+kama SNARC_only CD 5 num_decimal 0.726412770008
+kama SNARC_only CD 4 lctrl 0.403240350566
+kama SNARC_only CD 2 lctrl 0.50200423499
+kama SNARC_only CD 3 num_decimal 0.443548777475
+kama SNARC_only CD 1 num_decimal 0.540308426909
+kama SNARC_only CD 2 lctrl 0.912857823746
+kama SNARC_only CD 7 num_decimal 0.599311876217
+kama SNARC_only CD 7 num_decimal 0.546047135983
+kama SNARC_only CD 2 lctrl 0.382664593028
+kama SNARC_only CD 8 lctrl 0.442159559323
+kama SNARC_only CD 7 num_decimal 0.547219453647
+kama SNARC_only CD 3 num_decimal 0.600047600194
+kama SNARC_only CD 6 lctrl 0.426604784347
+kama SNARC_only CD 3 num_decimal 0.500526270715
+kama SNARC_only CD 1 num_decimal 0.603115547452
+kama SNARC_only CD 9 num_decimal 0.517342730079
+kama SNARC_only CD 6 lctrl 0.667130049686
+kama SNARC_only CD 2 lctrl 0.491136248261
+kama SNARC_only CD 2 lctrl 0.378114647579
+kama SNARC_only CD 5 num_decimal 0.501759097098
+kama SNARC_only CD 4 lctrl 0.532232529736
+kama SNARC_only CD 6 lctrl 0.488873842733
+kama SNARC_only CD 2 lctrl 0.591620131841
+kama SNARC_only CD 1 num_decimal 0.419103564864
+kama SNARC_only CD 3 num_decimal 0.428651840893
+kama SNARC_only CD 3 num_decimal 0.430573846083
+kama SNARC_only CD 5 lctrl 0.440446697093
+kama SNARC_only CD 4 lctrl 0.55340096243
+kama SNARC_only CD 7 num_decimal 0.573728789367
+kama SNARC_only CD 7 num_decimal 0.45798429628
+kama SNARC_only CD 2 lctrl 0.626459501358
+kama SNARC_only CD 1 num_decimal 0.611659378728
+kama SNARC_only CD 9 num_decimal 1.37376825967
+kama SNARC_only CD 1 num_decimal 0.401600719402
+kama SNARC_only CD 5 num_decimal 0.515713649153
+kama SNARC_only CD 4 lctrl 0.345472830654
+kama SNARC_only CD 9 num_decimal 0.542182025125
+kama SNARC_only CD 9 num_decimal 0.434923647304
+kama SNARC_only CD 2 lctrl 0.468234783763
+kama SNARC_only CD 1 num_decimal 0.523908081358
+kama SNARC_only CD 6 lctrl 0.553704747235
+kama SNARC_only CD 3 num_decimal 0.542382479653
+kama SNARC_only CD 2 num_decimal 0.643004757538
+kama SNARC_only CD 5 num_decimal 0.763320917151
+kama SNARC_only CD 8 lctrl 0.599916032515
+kama SNARC_only CD 7 num_decimal 0.833857018204
+kama SNARC_only CD 3 num_decimal 0.571365225669
+kama SNARC_only CD 6 lctrl 0.519045042071
+kama SNARC_only CD 4 lctrl 0.476899322179
+kama SNARC_only CD 2 lctrl 0.44471550972
+kama SNARC_only CD 7 num_decimal 0.501895629594
+kama SNARC_only CD 8 lctrl 0.61195695751
+kama SNARC_only CD 3 num_decimal 0.542313592803
+kama SNARC_only CD 6 lctrl 0.546448975944
+kama SNARC_only CD 9 num_decimal 0.792056663468
+kama SNARC_only CD 5 num_decimal 0.538634972923
+kama SNARC_only CD 3 num_decimal 0.472020767834
+kama SNARC_only CD 5 num_decimal 0.456041811216
+kama SNARC_only CD 9 num_decimal 0.488645771403
+kama SNARC_only CD 2 lctrl 0.431941343157
+kama SNARC_only CD 6 lctrl 0.417352535595
+kama SNARC_only CD 4 lctrl 0.435287009926
+kama SNARC_only CD 5 num_decimal 0.427675633542
+kama SNARC_only CD 5 num_decimal 0.573718239128
+kama SNARC_only CD 9 num_decimal 0.697568418296
+kama SNARC_only CD 3 num_decimal 0.456385935167
+kama SNARC_only CD 2 lctrl 0.624239607085
+kama SNARC_only CD 6 lctrl 0.682202306406
+kama SNARC_only CD 1 num_decimal 0.576787427592
+kama SNARC_only CD 7 num_decimal 0.628658295156
+kama SNARC_only CD 8 lctrl 0.437431811327
+kama SNARC_only CD 9 num_decimal 0.470673750635
+kama SNARC_only CD 9 num_decimal 0.534755588214
+kama SNARC_only CD 6 lctrl 0.587574425726
+kama SNARC_only CD 9 num_decimal 0.503039089254
+kama SNARC_only CD 5 num_decimal 0.44480922066
+kama SNARC_only CD 6 lctrl 0.581707251986
+kama SNARC_only CD 6 lctrl 0.512956623626
+kama SNARC_only CD 4 lctrl 0.582968315772
+kama SNARC_only CD 1 num_decimal 0.537588016915
+kama SNARC_only CD 8 lctrl 0.526995267287
+kama SNARC_only CD 1 num_decimal 0.748850334318
+kama SNARC_only CD 7 num_decimal 0.521407674863
+kama SNARC_only CD 1 lctrl 0.518870652837
+kama SNARC_only CD 1 num_decimal 0.572702623534
+kama SNARC_only CD 8 lctrl 0.712821890876
+kama SNARC_only CD 9 num_decimal 0.583514756059
+kama SNARC_only CD 1 num_decimal 0.490951619089
+kama SNARC_only CD 6 lctrl 0.897559667805
+kama SNARC_only CD 5 num_decimal 0.623797117674
+kama SNARC_only CD 7 num_decimal 0.554004808426
+kama SNARC_only CD 6 lctrl 0.542279149377
+kama SNARC_only CD 7 num_decimal 0.530968052637
+kama SNARC_only CD 8 lctrl 0.391522449046
+kama SNARC_only CD 8 lctrl 0.378771555068
+kama SNARC_only CD 3 num_decimal 0.406910902616
+kama SNARC_only CD 3 num_decimal 0.464665389881
+kama SNARC_only CD 4 lctrl 0.512265272711
+kama SNARC_only CD 7 num_decimal 0.551075565771
+kama SNARC_only CD 7 num_decimal 0.474789584805
+kama SNARC_only CD 4 lctrl 0.514523644325
+kama SNARC_only CD 3 num_decimal 0.400076209957
+kama SNARC_only CD 2 lctrl 0.53075735817
+kama SNARC_only CD 1 num_decimal 0.696729053742
+kama SNARC_only CD 9 num_decimal 0.440012585814
+kama SNARC_only CD 8 lctrl 0.561096430421
+kama SNARC_only CD 9 num_decimal 0.493459472811
+kama SNARC_only CD 6 lctrl 0.572169526195
+kama SNARC_only CD 2 lctrl 0.591528903309
+kama SNARC_only CD 4 lctrl 0.746902263832
+kama SNARC_only CD 3 num_decimal 0.624415858125
+kama SNARC_only CD 5 num_decimal 0.569901224944
+kama SNARC_only CD 5 num_decimal 0.61393078299
+kama SNARC_only CD 3 num_decimal 0.648203232345
+kama SNARC_only CD 7 num_decimal 0.552383795331
+kama SNARC_only CD 3 num_decimal 0.612722470394
+kama SNARC_only CD 8 lctrl 0.631388634787
+kama SNARC_only CD 7 num_decimal 0.871993957816
+kama SNARC_only CD 3 num_decimal 0.775462379712
+kama SNARC_only CD 3 num_decimal 0.450921842593
+kama SNARC_only CD 7 num_decimal 1.07554777458
+kama SNARC_only CD 8 lctrl 0.738934972054
+kama SNARC_only CD 6 lctrl 0.672301838596
+kama SNARC_only CD 1 num_decimal 0.479888763251
+kama SNARC_only CD 7 num_decimal 0.591318208842
+kama SNARC_only CD 1 lctrl 0.490008924261
+kama SNARC_only CD 1 num_decimal 0.560853154335
+kama SNARC_only CD 7 num_decimal 0.573104773796
+kama SNARC_only CD 9 num_decimal 0.488600157136
+kama SNARC_only CD 9 num_decimal 0.423917576573
+kama SNARC_only CD 4 lctrl 0.633870423214
+kama SNARC_only CD 6 lctrl 0.554578555213
+kama SNARC_only CD 7 num_decimal 0.447048663906
+kama SNARC_only CD 7 num_decimal 0.416583919698
+kama SNARC_only CD 2 lctrl 0.482385446133
+kama SNARC_only CD 1 num_decimal 0.793269940881
+kama SNARC_only CD 5 num_decimal 0.675307415328
+kama SNARC_only CD 2 lctrl 0.65079734978
+kama SNARC_only CD 1 num_decimal 0.87544543727
+kama SNARC_only CD 6 lctrl 0.730618281205
+kama SNARC_only CD 4 lctrl 0.520322551817
+kama SNARC_only CD 4 lctrl 0.398125346762
+kama SNARC_only CD 5 num_decimal 0.407881524547
+kama SNARC_only CD 4 lctrl 0.449685292595
+kama SNARC_only CD 2 lctrl 0.490149180371
+kama SNARC_only CD 6 lctrl 0.529138827484
+kama SNARC_only CD 1 lctrl 0.454571604468
+kama SNARC_only CD 3 num_decimal 0.495289008265
+kama SNARC_only CD 8 lctrl 0.710058349025
+kama SNARC_only CD 4 lctrl 0.708551837045
+kama SNARC_only CD 8 lctrl 0.515080014249
+kama SNARC_only CD 8 lctrl 0.656766612592
+kama SNARC_only CD 3 num_decimal 0.529287461724
+kama SNARC_only CD 4 lctrl 0.68623125626
+kama SNARC_only CD 4 lctrl 0.622256782872
+kama SNARC_only CD 5 num_decimal 0.416296270553
+kama SNARC_only CD 6 lctrl 0.481659341491
+kama SNARC_only CD 6 lctrl 0.8170846216
+kama SNARC_only CD 4 lctrl 0.554963018311
+kama SNARC_only CD 2 lctrl 0.550493440855
+kama SNARC_only CD 2 lctrl 0.419192000685
+kama SNARC_only CD 2 lctrl 0.468922721366
+kama SNARC_only CD 7 num_decimal 0.532892850538
+kama SNARC_only CD 5 num_decimal 0.50549326088
+kama SNARC_only CD 7 num_decimal 1.28014916796
+kama SNARC_only CD 7 num_decimal 0.536095468487
+kama SNARC_only CD 7 num_decimal 0.508834893734
+kama SNARC_only CD 8 lctrl 0.72354279487
+kama SNARC_only CD 9 num_decimal 0.937039901001
+kama SNARC_only CD 5 num_decimal 0.774164390091
+kama SNARC_only CD 6 lctrl 0.625647753605
+kama SNARC_only CD 8 lctrl 0.515093667499
+kama SNARC_only CD 9 num_decimal 0.656816881375
+kama SNARC_only CD 8 lctrl 1.11337565427
+kama SNARC_only CD 1 num_decimal 0.448176918809
+kama SNARC_only CD 3 num_decimal 0.656161215089
+kama SNARC_only CD 2 lctrl 0.568891505072
+kama SNARC_only CD 2 lctrl 0.660850485745
+kama SNARC_only CD 1 num_decimal 0.509115405955
+kama SNARC_only CD 2 lctrl 0.987876534904
+kama SNARC_only CD 9 num_decimal 0.46288891592
+kama SNARC_only CD 1 lctrl 0.486648052736
+kama SNARC_only CD 4 lctrl 0.829330965942
+kama SNARC_only CD 8 lctrl 0.502815672441
+kama SNARC_only CD 8 lctrl 0.437456014815
+kama SNARC_only CD 6 lctrl 0.606800373354
+kama SNARC_only CD 8 lctrl 0.560804437057
+kama SNARC_only CD 7 num_decimal 0.429514167729
+kama SNARC_only CD 1 num_decimal 0.767215196315
+kama SNARC_only CD 8 lctrl 0.490744958538
+kama SNARC_only CD 9 num_decimal 0.585419384387
+kama SNARC_only CD 5 num_decimal 0.523731520016
+kama SNARC_only CD 2 lctrl 0.577460160438
+kama SNARC_only CD 6 lctrl 0.717091634406
+kama SNARC_only CD 3 num_decimal 0.578578796007
+kama SNARC_only CD 4 lctrl 0.62237717971
+kama SNARC_only CD 7 num_decimal 0.447930539713
+kama SNARC_only CD 5 num_decimal 0.495619168666
+kama SNARC_only CD 7 num_decimal 0.374970366242
+kama SNARC_only CD 1 num_decimal 0.506727018168
+kama SNARC_only CD 2 lctrl 0.665311685072
+kama SNARC_only CD 1 num_decimal 0.480745504668
+kama SNARC_only CD 9 num_decimal 0.487706489886
+kama SNARC_only CD 6 lctrl 1.00642292306
+kama SNARC_only CD 8 lctrl 0.512732896513
+kama SNARC_only CD 9 num_decimal 0.583405840363
+kama SNARC_only CD 5 num_decimal 1.03396245853
+kama SNARC_only CD 8 lctrl 1.14700267728
+kama SNARC_only CD 2 lctrl 0.719937716358
+kama SNARC_only CD 9 num_decimal 0.445648585213
+kama SNARC_only CD 9 num_decimal 0.406958999291
+kama SNARC_only CD 3 num_decimal 0.552892378881
+kama SNARC_only CD 8 lctrl 0.541377724599
+kama SNARC_only CD 5 num_decimal 0.626269286767
+kama SNARC_only CD 3 num_decimal 0.467965752685
+kama SNARC_only CD 2 lctrl 0.499774411079
+kama SNARC_only CD 3 num_decimal 0.506438127817
+kama SNARC_only CD 5 num_decimal 0.585147250297
+kama SNARC_only CD 9 num_decimal 0.475416703386
+kama SNARC_only CD 7 num_decimal 0.507228464791
+kama SNARC_only CD 1 num_decimal 0.393981275189
+kama SNARC_only CD 9 num_decimal 0.388757355689
+kama SNARC_only CD 1 num_decimal 0.408208892238
+kama SNARC_only CD 2 lctrl 0.37038659797
+kama SNARC_only CD 6 lctrl 0.446167098399
+kama SNARC_only CD 1 num_decimal 0.511171771534
+kama SNARC_only CD 6 lctrl 0.637772770207
+kama SNARC_only CD 2 lctrl 0.71062061467
+kama SNARC_only CD 4 lctrl 0.413360821875
+kama SNARC_only CD 2 lctrl 0.40794575688
+kama SNARC_only CD 8 lctrl 0.465668903731
+kama SNARC_only CD 3 num_decimal 0.449159021881
+kama SNARC_only CD 4 lctrl 0.417685178404
+kama SNARC_only CD 3 num_decimal 0.403458181958
+kama SNARC_only CD 1 num_decimal 0.430249891705
+kama SNARC_only CD 9 num_decimal 0.495990288816
+kama SNARC_only CD 4 lctrl 0.486504693615
+kama SNARC_only CD 4 lctrl 0.422043047455
+kama SNARC_only CD 5 num_decimal 0.471946916166
+kama SNARC_only CD 8 lctrl 0.527733783973
+kama SNARC_only CD 9 num_decimal 0.677422427822
+kama SNARC_only CD 5 num_decimal 0.756953848293
+kama SNARC_only CD 9 num_decimal 0.569541275636
+kama SNARC_only CD 8 lctrl 0.636980571426
+kama SNARC_only CD 8 lctrl 0.694295672291
+kama SNARC_only CD 1 num_decimal 0.869147565563
+kama SNARC_only CD 8 lctrl 0.628664190877
+kama SNARC_only CD 8 lctrl 0.430283714528
+kama SNARC_only CD 6 lctrl 0.560433006606
+kama SNARC_only CD 1 num_decimal 0.500898632068
+kama SNARC_only CD 5 num_decimal 0.866701772067
+kama SNARC_only CD 8 lctrl 0.562031057419
+kama SNARC_only CD 2 lctrl 1.34976988068
+kama SNARC_only CD 5 num_decimal 0.481848004578
+kama SNARC_only CD 3 num_decimal 0.408654484658
+kama SNARC_only CD 3 num_decimal 0.531366789587
+kama SNARC_only CD 9 num_decimal 0.592253766746
+kama SNARC_only CD 3 num_decimal 0.467000405873
+kama SNARC_only CD 6 lctrl 0.642619053234
+kama SNARC_only CD 3 num_decimal 0.484090240533
+kama SNARC_only CD 6 lctrl 0.730888243187
+kama SNARC_only CD 9 num_decimal 0.503332634122
+kama SNARC_only CD 4 lctrl 0.629180221655
+kama SNARC_only CD 5 num_decimal 0.486617022623
+kama SNARC_only CD 3 num_decimal 0.661374894653
+kama SNARC_only CD 4 lctrl 0.477860635075
+kama SNARC_only CD 8 lctrl 0.597670693548
+kama SNARC_only CD 9 num_decimal 0.600201199251
+kama SNARC_only CD 2 lctrl 0.594560545335
+kama SNARC_only CD 2 lctrl 0.629855747211
+kama SNARC_only CD 9 num_decimal 0.487796477213
+kama SNARC_only CD 7 num_decimal 0.694436238703
+kama SNARC_only CD 3 num_decimal 0.669883972202
+kama SNARC_only CD 7 num_decimal 0.485507075487
+kama SNARC_only CD 2 lctrl 0.612035153395
+kama SNARC_only CD 4 lctrl 0.734835894145
+kama SNARC_only CD 6 lctrl 0.684088006365
+kama SNARC_only CD 6 lctrl 0.538863354554
+kama SNARC_only CD 1 num_decimal 0.583923112345
+kama SNARC_only CD 4 lctrl 0.610703030649
+kama SNARC_only CD 9 num_decimal 0.501242445719
+kama SNARC_only CD 6 lctrl 0.683867382262
+kama SNARC_only CD 5 num_decimal 0.578618514551
+kama SNARC_only CD 3 num_decimal 0.502018198541
+kama SNARC_only CD 7 num_decimal 0.475641982005
+kama SNARC_only CD 6 lctrl 0.563376212812
+kama SNARC_only CD 1 num_decimal 0.631949038625
+kama SNARC_only CD 1 num_decimal 0.473284624331
+kama SNARC_only CD 2 lctrl 0.657163798036
+kama SNARC_only CD 5 num_decimal 1.03369901287
+kama SNARC_only CD 5 num_decimal 0.394360152866
+kama SNARC_only CD 9 num_decimal 0.429164148056
+kama SNARC_only CD 3 num_decimal 0.47106007554
+kama SNARC_only CD 8 lctrl 0.534688563169
+kama SNARC_only CD 2 lctrl 0.460214740793
+kama SNARC_only CD 6 lctrl 0.484417918525
+kama SNARC_only CD 9 num_decimal 0.483107516859
+kama SNARC_only CD 8 lctrl 0.601833072887
+kama SNARC_only CD 4 lctrl 0.388365755663
+kama SNARC_only CD 6 lctrl 0.567012321437
+kama SNARC_only CD 6 lctrl 0.426865747597
+kama SNARC_only CD 1 num_decimal 0.404296305306
+kama SNARC_only CD 1 num_decimal 0.454981512259
+kama SNARC_only CD 1 num_decimal 0.486799169385
+kama SNARC_only CD 8 lctrl 0.510139399678
+kama SNARC_only CD 1 num_decimal 0.4037445899
+kama SNARC_only CD 6 lctrl 0.509556033557
+kama SNARC_only CD 6 lctrl 0.500095883049
+kama SNARC_only CD 7 num_decimal 0.410028808356
+kama SNARC_only CD 4 lctrl 1.11591981322
+kama SNARC_only CD 4 lctrl 0.505906581983
+kama SNARC_only CD 3 num_decimal 0.512578676851
+kama SNARC_only CD 7 num_decimal 0.551217683688
+kama SNARC_only CD 5 num_decimal 0.63571423252
+kama SNARC_only CD 7 num_decimal 0.572525751891
+kama SNARC_only CD 5 num_decimal 0.880045961803
+kama SNARC_only CD 7 num_decimal 0.559490001478
+kama SNARC_only CD 3 num_decimal 0.571991413348
+kama SNARC_only CD 2 lctrl 0.391591646197
+kama SNARC_only CD 9 num_decimal 0.426446841072
+kama SNARC_only CD 9 num_decimal 0.596410560664
+kama SNARC_only CD 7 num_decimal 0.518780355208
+kama SNARC_only CD 8 lctrl 1.24443040504
+kama SNARC_only CD 8 lctrl 0.405594605229
+kama SNARC_only CD 3 num_decimal 0.480064083389
+kama SNARC_only CD 2 lctrl 0.511562130353
+kama SNARC_only CD 4 lctrl 0.58234895472
+kama SNARC_only CD 5 lctrl 0.512725759586
+kama SNARC_only CD 5 num_decimal 0.63948377063
+kama SNARC_only CD 4 lctrl 0.61611126902
+kama SNARC_only CD 6 num_decimal 0.521654364261
+kama SNARC_only CD 3 num_decimal 0.45530081212
+kama SNARC_only CD 5 num_decimal 0.768023220454
+kama SNARC_only CD 8 lctrl 0.579512181802
+kama SNARC_only CD 4 lctrl 0.5671395449
+kama SNARC_only CD 5 num_decimal 0.586644453243
+kama SNARC_only CD 9 num_decimal 0.485924430504
+kama SNARC_only CD 4 lctrl 0.716592980491
+kama SNARC_only CD 2 lctrl 0.786043027596
+kama SNARC_only CD 9 num_decimal 0.605359955514
+kama SNARC_only CD 4 lctrl 0.663836823807
+kama SNARC_only CD 1 num_decimal 0.504460268423
+kama SNARC_only CD 4 lctrl 0.727241274021
+kama SNARC_only CD 6 lctrl 0.772677427082
+kama SNARC_only CD 5 num_decimal 0.551933238092
+kama SNARC_only CD 4 lctrl 1.10020771558
+kama SNARC_only CD 8 lctrl 0.482350071804
+kama SNARC_only CD 7 num_decimal 0.425220220711
+kama SNARC_only CD 5 num_decimal 0.49876810452
+kama SNARC_only CD 7 num_decimal 0.457430408766
+kama SNARC_only CD 7 num_decimal 0.561850772464
+kama SNARC_only CD 2 lctrl 0.422635412309
+kama SNARC_only CD 9 num_decimal 0.504551496955
+kama SNARC_only CD 7 num_decimal 0.58317404542
+kama SNARC_only CD 5 num_decimal 0.658092219013
+kama SNARC_only CD 8 lctrl 0.594400119652
+kama SNARC_only CD 1 num_decimal 0.629141744314
+{'participant': u'kama', 'interactive_setting': False, 'response_buttons': 'DC', 'range_in_instr': True, 'dateStr': '12_09_1005', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+kama SNARC_only DC 2 num_decimal 0.769816760978
+kama SNARC_only DC 1 lctrl 0.525742891932
+kama SNARC_only DC 5 lctrl 0.475307787689
+kama SNARC_only DC 7 lctrl 0.579042385893
+kama SNARC_only DC 7 lctrl 0.470809041926
+kama SNARC_only DC 8 num_decimal 0.446350486366
+kama SNARC_only DC 2 num_decimal 0.423342898883
+kama SNARC_only DC 2 num_decimal 0.449264213963
+kama SNARC_only DC 8 num_decimal 0.537607565886
+kama SNARC_only DC 5 lctrl 0.502340911714
+kama SNARC_only DC 6 num_decimal 0.589136171307
+kama SNARC_only DC 5 lctrl 0.63977514339
+kama SNARC_only DC 4 num_decimal 0.553167926282
+kama SNARC_only DC 2 num_decimal 0.444916895151
+kama SNARC_only DC 3 lctrl 0.517716642939
+kama SNARC_only DC 2 num_decimal 0.483536973621
+kama SNARC_only DC 4 num_decimal 0.538243062598
+kama SNARC_only DC 3 lctrl 0.454871045057
+kama SNARC_only DC 9 lctrl 0.534785687422
+kama SNARC_only DC 3 lctrl 0.604030315179
+kama SNARC_only DC 3 lctrl 0.461741422346
+kama SNARC_only DC 3 lctrl 0.518479363113
+kama SNARC_only DC 2 num_decimal 0.548407906969
+kama SNARC_only DC 6 num_decimal 0.504720921371
+kama SNARC_only DC 6 num_decimal 0.583480933236
+kama SNARC_only DC 4 num_decimal 0.554297112089
+kama SNARC_only DC 6 num_decimal 0.430987477488
+kama SNARC_only DC 9 lctrl 0.511852261909
+kama SNARC_only DC 9 lctrl 0.422513153665
+kama SNARC_only DC 5 num_decimal 0.432235818928
+kama SNARC_only DC 9 lctrl 0.504988711245
+kama SNARC_only DC 9 lctrl 0.478755853831
+kama SNARC_only DC 9 lctrl 0.446425268938
+kama SNARC_only DC 2 num_decimal 0.431182656897
+kama SNARC_only DC 7 lctrl 0.463833782856
+kama SNARC_only DC 1 lctrl 0.672493294393
+kama SNARC_only DC 6 num_decimal 0.632274234207
+kama SNARC_only DC 4 num_decimal 0.656654593884
+kama SNARC_only DC 3 lctrl 0.585237547925
+kama SNARC_only DC 3 lctrl 0.45186391682
+kama SNARC_only DC 2 num_decimal 0.427784859539
+kama SNARC_only DC 5 lctrl 0.461566412509
+kama SNARC_only DC 1 num_decimal 0.494129102646
+kama SNARC_only DC 5 lctrl 0.756808317064
+kama SNARC_only DC 5 lctrl 0.729126973981
+kama SNARC_only DC 5 lctrl 0.470952401049
+kama SNARC_only DC 6 num_decimal 0.718968645933
+kama SNARC_only DC 3 lctrl 0.63689927253
+kama SNARC_only DC 5 lctrl 0.494244844967
+kama SNARC_only DC 7 lctrl 0.533269245807
+kama SNARC_only DC 6 num_decimal 0.609898730123
+kama SNARC_only DC 9 lctrl 0.492404448974
+kama SNARC_only DC 3 lctrl 0.611131556508
+kama SNARC_only DC 8 num_decimal 0.669804535112
+kama SNARC_only DC 2 num_decimal 0.613468434308
+kama SNARC_only DC 7 lctrl 0.496167781062
+kama SNARC_only DC 5 lctrl 0.646959855722
+kama SNARC_only DC 1 num_decimal 1.06434373173
+kama SNARC_only DC 1 lctrl 0.679666835884
+kama SNARC_only DC 1 lctrl 0.479235579375
+kama SNARC_only DC 9 lctrl 0.583027893588
+kama SNARC_only DC 9 lctrl 0.634379317064
+kama SNARC_only DC 4 num_decimal 0.483060351087
+kama SNARC_only DC 9 lctrl 0.569656087054
+kama SNARC_only DC 9 lctrl 0.461422743087
+kama SNARC_only DC 2 num_decimal 0.50160829075
+kama SNARC_only DC 8 num_decimal 0.708284047171
+kama SNARC_only DC 3 lctrl 0.426903294033
+kama SNARC_only DC 7 lctrl 0.492863074041
+kama SNARC_only DC 1 lctrl 0.508177675943
+kama SNARC_only DC 8 num_decimal 0.54648621208
+kama SNARC_only DC 9 lctrl 0.439006589555
+kama SNARC_only DC 2 num_decimal 0.44755600625
+kama SNARC_only DC 9 lctrl 0.440169598185
+kama SNARC_only DC 4 num_decimal 0.449236907464
+kama SNARC_only DC 6 num_decimal 0.50607073128
+kama SNARC_only DC 3 lctrl 0.551752022233
+kama SNARC_only DC 1 lctrl 0.508276351703
+kama SNARC_only DC 2 num_decimal 0.459204710619
+kama SNARC_only DC 1 lctrl 0.523008518386
+kama SNARC_only DC 4 num_decimal 1.07271441498
+kama SNARC_only DC 6 num_decimal 0.423868238693
+kama SNARC_only DC 4 num_decimal 0.441475345334
+kama SNARC_only DC 1 num_decimal 0.490898557597
+kama SNARC_only DC 8 num_decimal 0.722114478775
+kama SNARC_only DC 1 lctrl 0.519425160953
+kama SNARC_only DC 8 num_decimal 0.773164289553
+kama SNARC_only DC 8 num_decimal 0.537066711019
+kama SNARC_only DC 9 num_decimal 0.502241305052
+kama SNARC_only DC 5 lctrl 0.644896973819
+kama SNARC_only DC 1 lctrl 0.598059500862
+kama SNARC_only DC 4 num_decimal 0.528817355515
+kama SNARC_only DC 1 lctrl 0.486555583
+kama SNARC_only DC 1 lctrl 0.437931706445
+kama SNARC_only DC 3 lctrl 0.654743759534
+kama SNARC_only DC 5 lctrl 0.606940939766
+kama SNARC_only DC 4 num_decimal 0.489733376858
+kama SNARC_only DC 4 num_decimal 0.569158364043
+kama SNARC_only DC 8 num_decimal 0.564912203398
+kama SNARC_only DC 5 lctrl 0.560492584424
+kama SNARC_only DC 1 lctrl 0.613107554094
+kama SNARC_only DC 9 lctrl 0.671535084508
+kama SNARC_only DC 1 lctrl 0.638872787708
+kama SNARC_only DC 5 lctrl 0.664289863455
+kama SNARC_only DC 8 num_decimal 0.727965827157
+kama SNARC_only DC 6 num_decimal 0.59802598834
+kama SNARC_only DC 7 lctrl 0.695879759553
+kama SNARC_only DC 8 num_decimal 0.886498053171
+kama SNARC_only DC 2 num_decimal 0.701742899379
+kama SNARC_only DC 7 lctrl 0.492504365937
+kama SNARC_only DC 8 num_decimal 0.539057913362
+kama SNARC_only DC 3 lctrl 0.551903449184
+kama SNARC_only DC 5 lctrl 0.676535276894
+kama SNARC_only DC 4 num_decimal 0.948110824668
+kama SNARC_only DC 5 lctrl 0.504331803755
+kama SNARC_only DC 6 num_decimal 1.59112116763
+kama SNARC_only DC 2 num_decimal 0.705969200751
+kama SNARC_only DC 6 num_decimal 0.607944763917
+kama SNARC_only DC 8 num_decimal 1.20252827154
+kama SNARC_only DC 4 num_decimal 0.805244771736
+kama SNARC_only DC 2 num_decimal 0.767781495874
+kama SNARC_only DC 3 lctrl 0.907243855728
+kama SNARC_only DC 6 num_decimal 0.617648500812
+kama SNARC_only DC 9 lctrl 0.667040993262
+kama SNARC_only DC 1 lctrl 0.570513759372
+kama SNARC_only DC 8 num_decimal 0.566063110286
+kama SNARC_only DC 2 num_decimal 0.633593324306
+kama SNARC_only DC 3 lctrl 0.514928897599
+kama SNARC_only DC 1 lctrl 0.536960898334
+kama SNARC_only DC 4 num_decimal 0.52566252394
+kama SNARC_only DC 5 lctrl 0.659311081847
+kama SNARC_only DC 5 lctrl 0.484003976819
+kama SNARC_only DC 7 lctrl 0.506633307226
+kama SNARC_only DC 6 num_decimal 0.497485319655
+kama SNARC_only DC 8 num_decimal 0.4481192028
+kama SNARC_only DC 9 lctrl 0.432845250345
+kama SNARC_only DC 7 lctrl 0.425601270497
+kama SNARC_only DC 4 num_decimal 0.507424885407
+kama SNARC_only DC 1 lctrl 0.473904916287
+kama SNARC_only DC 9 lctrl 0.593855230871
+kama SNARC_only DC 6 num_decimal 0.621267542874
+kama SNARC_only DC 8 num_decimal 0.543057074306
+kama SNARC_only DC 3 lctrl 0.483819968249
+kama SNARC_only DC 6 num_decimal 0.51447585795
+kama SNARC_only DC 7 lctrl 0.528049049921
+kama SNARC_only DC 2 num_decimal 0.581778931546
+kama SNARC_only DC 4 num_decimal 0.657168452552
+kama SNARC_only DC 6 num_decimal 0.449128302069
+kama SNARC_only DC 9 lctrl 0.400824656279
+kama SNARC_only DC 7 lctrl 0.56354625783
+kama SNARC_only DC 4 num_decimal 0.472204155802
+kama SNARC_only DC 1 lctrl 0.487992587527
+kama SNARC_only DC 1 lctrl 0.390651744077
+kama SNARC_only DC 6 num_decimal 0.497398745638
+kama SNARC_only DC 5 lctrl 0.584741066121
+kama SNARC_only DC 1 lctrl 0.523683733642
+kama SNARC_only DC 9 lctrl 0.513475136811
+kama SNARC_only DC 5 lctrl 0.496106341438
+kama SNARC_only DC 2 num_decimal 0.51893984999
+kama SNARC_only DC 1 lctrl 0.452540993881
+kama SNARC_only DC 2 num_decimal 0.469316493498
+kama SNARC_only DC 5 lctrl 0.596682384454
+kama SNARC_only DC 6 num_decimal 0.66412912747
+kama SNARC_only DC 7 lctrl 0.640725906049
+kama SNARC_only DC 8 num_decimal 0.482096245481
+kama SNARC_only DC 7 lctrl 0.48115293005
+kama SNARC_only DC 7 lctrl 0.407969339765
+kama SNARC_only DC 5 lctrl 1.04981015777
+kama SNARC_only DC 3 lctrl 0.522143088539
+kama SNARC_only DC 3 lctrl 0.423913542658
+kama SNARC_only DC 6 num_decimal 0.529946851622
+kama SNARC_only DC 4 num_decimal 1.01577105486
+kama SNARC_only DC 6 num_decimal 0.528700371988
+kama SNARC_only DC 6 num_decimal 0.454692621908
+kama SNARC_only DC 3 lctrl 0.471090485051
+kama SNARC_only DC 9 lctrl 0.662885750848
+kama SNARC_only DC 9 lctrl 0.527489266684
+kama SNARC_only DC 3 lctrl 0.436907092118
+kama SNARC_only DC 1 lctrl 0.597557433637
+kama SNARC_only DC 7 lctrl 0.656191003998
+kama SNARC_only DC 7 lctrl 0.408730818735
+kama SNARC_only DC 7 lctrl 0.435278631796
+kama SNARC_only DC 9 lctrl 0.396378041107
+kama SNARC_only DC 8 num_decimal 0.502991613181
+kama SNARC_only DC 8 num_decimal 0.44474622953
+kama SNARC_only DC 5 lctrl 0.565657236408
+kama SNARC_only DC 4 num_decimal 0.729141247832
+kama SNARC_only DC 3 lctrl 0.510586543605
+kama SNARC_only DC 1 lctrl 0.525229343564
+kama SNARC_only DC 9 lctrl 0.531215672936
+kama SNARC_only DC 9 lctrl 0.495850343008
+kama SNARC_only DC 4 num_decimal 0.567165610195
+kama SNARC_only DC 6 num_decimal 0.63515351838
+kama SNARC_only DC 3 lctrl 0.531669643487
+kama SNARC_only DC 3 lctrl 0.425045831478
+kama SNARC_only DC 1 lctrl 0.555025078536
+kama SNARC_only DC 3 lctrl 0.462723215116
+kama SNARC_only DC 7 lctrl 0.687414124162
+kama SNARC_only DC 5 lctrl 0.589997877541
+kama SNARC_only DC 7 lctrl 0.472762697833
+kama SNARC_only DC 4 num_decimal 0.536553783253
+kama SNARC_only DC 6 lctrl 0.461898124417
+kama SNARC_only DC 2 num_decimal 0.582069373402
+kama SNARC_only DC 3 lctrl 0.52852194884
+kama SNARC_only DC 6 num_decimal 0.558168739271
+kama SNARC_only DC 8 num_decimal 0.498684012913
+kama SNARC_only DC 7 lctrl 0.54510909567
+kama SNARC_only DC 8 num_decimal 0.589881204316
+kama SNARC_only DC 8 num_decimal 0.457192718102
+kama SNARC_only DC 3 lctrl 0.489206485541
+kama SNARC_only DC 5 lctrl 0.719992639657
+kama SNARC_only DC 4 num_decimal 0.645983648372
+kama SNARC_only DC 6 num_decimal 0.750839054252
+kama SNARC_only DC 7 lctrl 0.619476174459
+kama SNARC_only DC 3 lctrl 0.628803826385
+kama SNARC_only DC 5 lctrl 0.534274311161
+kama SNARC_only DC 4 num_decimal 0.570950353062
+kama SNARC_only DC 2 num_decimal 0.526567051729
+kama SNARC_only DC 7 lctrl 0.628098511919
+kama SNARC_only DC 1 lctrl 0.533689393535
+kama SNARC_only DC 5 lctrl 0.571071680803
+kama SNARC_only DC 7 lctrl 0.438996039316
+kama SNARC_only DC 1 lctrl 0.45555091483
+kama SNARC_only DC 8 num_decimal 0.632463828199
+kama SNARC_only DC 2 num_decimal 0.593277450169
+kama SNARC_only DC 5 lctrl 0.507975669909
+kama SNARC_only DC 2 num_decimal 0.505590074832
+kama SNARC_only DC 2 num_decimal 0.44821818886
+kama SNARC_only DC 9 lctrl 0.496911262566
+kama SNARC_only DC 4 num_decimal 0.583531822622
+kama SNARC_only DC 2 num_decimal 0.490073156594
+kama SNARC_only DC 9 lctrl 0.488607294063
+kama SNARC_only DC 1 lctrl 0.551466234892
+kama SNARC_only DC 2 num_decimal 0.63598915932
+kama SNARC_only DC 6 num_decimal 0.572671903723
+kama SNARC_only DC 4 num_decimal 0.560344881087
+kama SNARC_only DC 5 lctrl 0.500890253938
+kama SNARC_only DC 5 lctrl 0.467675000527
+kama SNARC_only DC 4 num_decimal 0.867389399369
+kama SNARC_only DC 4 num_decimal 0.515061706483
+kama SNARC_only DC 2 num_decimal 0.561039955615
+kama SNARC_only DC 4 num_decimal 0.581232180957
+kama SNARC_only DC 7 lctrl 0.63203313023
+kama SNARC_only DC 9 lctrl 0.592723562653
+kama SNARC_only DC 9 lctrl 0.604102615342
+kama SNARC_only DC 7 lctrl 0.862227850395
+kama SNARC_only DC 7 lctrl 0.518720777392
+kama SNARC_only DC 7 lctrl 0.484309313129
+kama SNARC_only DC 2 num_decimal 0.427653602163
+kama SNARC_only DC 6 num_decimal 0.461470839762
+kama SNARC_only DC 3 lctrl 0.494185577452
+kama SNARC_only DC 6 lctrl 0.996806380785
+kama SNARC_only DC 5 lctrl 0.439962937633
+kama SNARC_only DC 4 num_decimal 0.560759133094
+kama SNARC_only DC 8 num_decimal 0.589392480038
+kama SNARC_only DC 3 lctrl 0.50411024875
+kama SNARC_only DC 2 num_decimal 0.797791648929
+kama SNARC_only DC 9 lctrl 0.664152089754
+kama SNARC_only DC 7 lctrl 0.599820459767
+kama SNARC_only DC 2 num_decimal 0.906547539995
+kama SNARC_only DC 4 num_decimal 0.512780062283
+kama SNARC_only DC 4 num_decimal 0.47143150599
+kama SNARC_only DC 6 num_decimal 0.671318804621
+kama SNARC_only DC 8 num_decimal 0.639039729715
+kama SNARC_only DC 4 num_decimal 0.904420736058
+kama SNARC_only DC 9 lctrl 0.6147310496
+kama SNARC_only DC 7 lctrl 0.504315357797
+kama SNARC_only DC 9 lctrl 0.502894488927
+kama SNARC_only DC 5 lctrl 0.509308723558
+kama SNARC_only DC 9 lctrl 0.515999436493
+kama SNARC_only DC 5 lctrl 0.577600106248
+kama SNARC_only DC 5 lctrl 0.565464539408
+kama SNARC_only DC 6 num_decimal 0.465015099253
+kama SNARC_only DC 8 num_decimal 0.664738558886
+kama SNARC_only DC 1 lctrl 0.576526774643
+kama SNARC_only DC 9 lctrl 0.50027213409
+kama SNARC_only DC 9 lctrl 0.434809146189
+kama SNARC_only DC 2 num_decimal 0.499520895059
+kama SNARC_only DC 2 num_decimal 0.394264269818
+kama SNARC_only DC 1 lctrl 0.452968278536
+kama SNARC_only DC 1 lctrl 0.388654025413
+kama SNARC_only DC 7 lctrl 0.775460828205
+kama SNARC_only DC 2 num_decimal 0.434884549362
+kama SNARC_only DC 8 num_decimal 0.563593733903
+kama SNARC_only DC 3 lctrl 0.560295853509
+kama SNARC_only DC 1 lctrl 0.828787008064
+kama SNARC_only DC 6 num_decimal 0.50227357637
+kama SNARC_only DC 7 lctrl 0.460913538935
+kama SNARC_only DC 7 lctrl 0.573521197912
+kama SNARC_only DC 3 lctrl 0.673083797441
+kama SNARC_only DC 4 num_decimal 0.624649514875
+kama SNARC_only DC 2 num_decimal 0.706373212819
+kama SNARC_only DC 6 num_decimal 0.568945497469
+kama SNARC_only DC 9 lctrl 0.557021245699
+kama SNARC_only DC 8 num_decimal 0.569292414129
+kama SNARC_only DC 3 lctrl 0.580832513104
+kama SNARC_only DC 8 num_decimal 0.448210741632
+kama SNARC_only DC 7 lctrl 0.448683640552
+kama SNARC_only DC 4 num_decimal 0.473206738747
+kama SNARC_only DC 3 lctrl 0.384784260037
+kama SNARC_only DC 2 num_decimal 0.803512360535
+kama SNARC_only DC 3 lctrl 0.485818307518
+kama SNARC_only DC 1 lctrl 0.492619177354
+kama SNARC_only DC 1 lctrl 0.379971179231
+kama SNARC_only DC 8 num_decimal 0.471985703805
+kama SNARC_only DC 1 lctrl 0.472057073066
+kama SNARC_only DC 9 lctrl 0.463723936256
+kama SNARC_only DC 2 num_decimal 0.48054008532
+kama SNARC_only DC 5 lctrl 0.496016974714
+kama SNARC_only DC 9 lctrl 0.502840806834
+kama SNARC_only DC 1 lctrl 0.453406113429
+kama SNARC_only DC 8 num_decimal 0.422134896589
+kama SNARC_only DC 8 num_decimal 0.904113537941
+kama SNARC_only DC 4 num_decimal 0.430129805167
+kama SNARC_only DC 2 num_decimal 0.487790581492
+kama SNARC_only DC 6 num_decimal 0.398684509397
+kama SNARC_only DC 8 num_decimal 0.37733951536
+kama SNARC_only DC 8 num_decimal 0.41311723549
+kama SNARC_only DC 4 num_decimal 0.415939734556
+kama SNARC_only DC 7 lctrl 0.401578688021
+kama SNARC_only DC 5 lctrl 0.500356535997
+kama SNARC_only DC 6 num_decimal 0.643047889393
+kama SNARC_only DC 4 num_decimal 0.508399230948
+kama SNARC_only DC 8 num_decimal 0.442482893099
+kama SNARC_only DC 4 num_decimal 0.435234879336
+kama SNARC_only DC 8 num_decimal 0.451897429341
+kama SNARC_only DC 7 lctrl 0.323821879705
+kama SNARC_only DC 8 num_decimal 0.401647574872
+kama SNARC_only DC 7 lctrl 0.364357447041
+kama SNARC_only DC 9 lctrl 0.560294302002
+kama SNARC_only DC 6 num_decimal 0.412910264637
+kama SNARC_only DC 9 lctrl 0.446703609052
+kama SNARC_only DC 8 num_decimal 0.471554385238
+kama SNARC_only DC 8 num_decimal 0.495526078326
+kama SNARC_only DC 3 lctrl 0.429850534152
+kama SNARC_only DC 6 num_decimal 0.695718402967
+kama SNARC_only DC 3 lctrl 0.447021978009
+kama SNARC_only DC 1 lctrl 0.608119773753
+kama SNARC_only DC 2 num_decimal 0.44973059656
+kama SNARC_only DC 4 num_decimal 0.498309479452
+kama SNARC_only DC 2 num_decimal 0.408376765148
+kama SNARC_only DC 3 lctrl 0.491145867596
+kama SNARC_only DC 3 lctrl 0.465811952552
+kama SNARC_only DC 5 lctrl 0.513744167891
+kama SNARC_only DC 7 lctrl 0.952451627158
+kama SNARC_only DC 6 num_decimal 0.604944462304
+kama SNARC_only DC 2 num_decimal 0.439473282453
+kama SNARC_only DC 3 lctrl 0.472449603994
+kama SNARC_only DC 6 num_decimal 0.576072493792
+kama SNARC_only DC 1 lctrl 0.715863462538
+kama SNARC_only DC 8 num_decimal 0.617055205053
+kama SNARC_only DC 5 lctrl 0.914636469817
+kama SNARC_only DC 7 lctrl 0.751927590611
+kama SNARC_only DC 1 lctrl 0.676440635048
+kama SNARC_only DC 5 lctrl 0.612107143257
+kama SNARC_only DC 5 lctrl 0.429771407365
+kama SNARC_only DC 3 lctrl 0.51945991468
+kama SNARC_only DC 6 num_decimal 0.693328153373
+kama SNARC_only DC 4 num_decimal 0.419763265063
+kama SNARC_only DC 7 lctrl 0.597471480223

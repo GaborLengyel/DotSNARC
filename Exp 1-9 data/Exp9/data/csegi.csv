@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'03_23_1506', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'csegi', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+csegi SNARC color dot DC 0 up 40 num_separator 1.1768579483
+csegi SNARC color dot DC 0 down 45 lctrl 0.597665071487
+csegi SNARC color dot DC 0 down 25 lctrl 0.509333133698
+csegi SNARC color dot DC 0 up 5 num_separator 0.468552112579
+csegi SNARC color dot DC 0 down 10 lctrl 0.481657981873
+csegi SNARC color dot DC 0 down 20 lctrl 0.488819122314
+csegi SNARC color dot DC 0 down 25 lctrl 0.485015869141
+csegi SNARC color dot DC 0 down 5 num_separator 0.42067193985
+csegi SNARC color dot DC 0 up 15 num_separator 1.04991102219
+csegi SNARC color dot DC 0 up 40 num_separator 0.728884935379
+csegi SNARC color dot DC 0 up 35 num_separator 0.491930961609
+csegi SNARC color dot DC 0 up 15 num_separator 0.453032016754
+csegi SNARC color dot DC 0 up 40 num_separator 0.592296123505
+csegi SNARC color dot DC 0 up 30 num_separator 0.521079063416
+csegi SNARC color dot DC 0 down 35 lctrl 0.548859119415
+csegi SNARC color dot DC 0 down 30 lctrl 0.336691141129
+csegi SNARC color dot DC 0 up 40 num_separator 0.552263975143
+csegi SNARC color dot DC 0 down 30 lctrl 0.560420036316
+csegi SNARC color dot DC 0 down 10 lctrl 0.400658130646
+csegi SNARC color dot DC 0 down 20 lctrl 0.432680845261
+csegi SNARC color dot DC 0 down 40 lctrl 0.432336091995
+csegi SNARC color dot DC 0 up 40 num_separator 0.385496854782
+csegi SNARC color dot DC 0 down 10 lctrl 0.570168018341
+csegi SNARC color dot DC 0 up 5 num_separator 0.652721881866
+csegi SNARC color dot DC 0 down 5 lctrl 0.573707103729
+csegi SNARC color dot DC 0 down 35 lctrl 0.524879932404
+csegi SNARC color dot DC 0 down 40 lctrl 0.344151973724
+csegi SNARC color dot DC 0 down 15 lctrl 0.389098167419
+csegi SNARC color dot DC 0 up 10 num_separator 0.519801855087
+csegi SNARC color dot DC 0 up 45 num_separator 0.468976020813
+csegi SNARC color dot DC 0 up 25 num_separator 0.419854164124
+csegi SNARC color dot DC 0 down 45 lctrl 0.356236934662
+csegi SNARC color dot DC 0 up 20 num_separator 0.672830104828
+csegi SNARC color dot DC 0 up 15 num_separator 0.38893198967
+csegi SNARC color dot DC 0 up 45 num_separator 0.315852165222
+csegi SNARC color dot DC 0 up 5 num_separator 0.389160871506
+csegi SNARC color dot DC 0 down 10 lctrl 0.36931681633
+csegi SNARC color dot DC 0 up 10 num_separator 0.441009998322
+csegi SNARC color dot DC 0 down 40 lctrl 0.720676898956
+csegi SNARC color dot DC 0 down 20 lctrl 0.336750984192
+csegi SNARC color dot DC 0 up 20 num_separator 0.38409614563
+csegi SNARC color dot DC 0 down 40 lctrl 0.551841974258
+csegi SNARC color dot DC 0 down 30 lctrl 0.312879085541
+csegi SNARC color dot DC 0 down 15 lctrl 0.292087078094
+csegi SNARC color dot DC 0 down 20 lctrl 0.280944108963
+csegi SNARC color dot DC 0 up 40 num_separator 0.335657119751
+csegi SNARC color dot DC 0 up 40 num_separator 0.327898025513
+csegi SNARC color dot DC 0 up 30 num_separator 0.280364990234
+csegi SNARC color dot DC 0 down 35 lctrl 0.38919711113
+csegi SNARC color dot DC 0 down 35 lctrl 0.324219942093
+csegi SNARC color dot DC 0 down 15 lctrl 0.42062497139
+csegi SNARC color dot DC 0 down 5 lctrl 0.396118879318
+csegi SNARC color dot DC 0 up 30 num_separator 0.455059051514
+csegi SNARC color dot DC 0 down 25 lctrl 0.405758142471
+csegi SNARC color dot DC 0 down 15 lctrl 0.373123884201
+csegi SNARC color dot DC 0 down 35 lctrl 0.30814409256
+csegi SNARC color dot DC 0 down 5 lctrl 0.429095029831
+csegi SNARC color dot DC 0 up 25 num_separator 0.403703927994
+csegi SNARC color dot DC 0 down 30 lctrl 0.368571996689
+csegi SNARC color dot DC 0 up 20 num_separator 0.424890995026
+csegi SNARC color dot DC 0 up 35 num_separator 0.883954048157
+csegi SNARC color dot DC 0 up 35 num_separator 0.332926034927
+csegi SNARC color dot DC 0 down 40 lctrl 0.367985010147
+csegi SNARC color dot DC 0 up 40 num_separator 0.407742023468
+csegi SNARC color dot DC 0 down 15 lctrl 0.379870891571
+csegi SNARC color dot DC 0 down 15 lctrl 0.413665056229
+csegi SNARC color dot DC 0 up 35 num_separator 0.548100948334
+csegi SNARC color dot DC 0 down 20 lctrl 0.416460037231
+csegi SNARC color dot DC 0 up 5 num_separator 0.444887876511
+csegi SNARC color dot DC 0 down 30 lctrl 0.384858846664
+csegi SNARC color dot DC 0 down 30 lctrl 0.376137971878
+csegi SNARC color dot DC 0 up 15 num_separator 0.46834397316
+csegi SNARC color dot DC 0 down 5 lctrl 0.437174081802
+csegi SNARC color dot DC 0 up 5 num_separator 0.5172290802
+csegi SNARC color dot DC 0 down 45 lctrl 0.428313016891
+csegi SNARC color dot DC 0 up 5 num_separator 0.396625995636
+csegi SNARC color dot DC 0 down 20 lctrl 0.569896936417
+csegi SNARC color dot DC 0 down 20 lctrl 0.312525987625
+csegi SNARC color dot DC 0 down 30 lctrl 0.31272816658
+csegi SNARC color dot DC 0 down 5 lctrl 0.349129915237
+csegi SNARC color dot DC 0 down 30 lctrl 0.288861989975
+csegi SNARC color dot DC 0 down 25 lctrl 0.265109062195
+csegi SNARC color dot DC 0 down 35 lctrl 0.292070865631
+csegi SNARC color dot DC 0 down 25 lctrl 0.252763986588
+csegi SNARC color dot DC 0 down 15 lctrl 0.300898790359
+csegi SNARC color dot DC 0 up 35 num_separator 0.276389837265
+csegi SNARC color dot DC 0 down 40 lctrl 0.336221218109
+csegi SNARC color dot DC 0 down 30 lctrl 0.329096078873
+csegi SNARC color dot DC 0 down 30 lctrl 0.264796972275
+csegi SNARC color dot DC 0 up 5 num_separator 0.605067968369
+csegi SNARC color dot DC 0 up 15 num_separator 0.363682985306
+csegi SNARC color dot DC 0 up 10 num_separator 0.320423841476
+csegi SNARC color dot DC 0 up 5 num_separator 0.340395927429
+csegi SNARC color dot DC 0 down 45 lctrl 0.404420137405
+csegi SNARC color dot DC 0 down 45 lctrl 0.315965890884
+csegi SNARC color dot DC 0 down 5 lctrl 0.365281105042
+csegi SNARC color dot DC 0 up 5 num_separator 0.564321041107
+csegi SNARC color dot DC 0 down 30 lctrl 0.40140914917
+csegi SNARC color dot DC 0 down 25 lctrl 0.389173030853
+csegi SNARC color dot DC 0 down 10 lctrl 0.336146116257
+csegi SNARC color dot DC 0 up 40 num_separator 0.671979188919
+csegi SNARC color dot DC 0 up 25 num_separator 0.332525968552
+csegi SNARC color dot DC 0 down 40 lctrl 0.368762016296
+csegi SNARC color dot DC 0 up 15 num_separator 0.612737178802
+csegi SNARC color dot DC 0 down 10 lctrl 0.472706079483
+csegi SNARC color dot DC 0 up 30 num_separator 0.528072118759
+csegi SNARC color dot DC 0 down 20 lctrl 0.616281986237
+csegi SNARC color dot DC 0 up 40 num_separator 0.375856876373
+csegi SNARC color dot DC 0 up 35 num_separator 0.308170795441
+csegi SNARC color dot DC 0 up 40 num_separator 0.30369591713
+csegi SNARC color dot DC 0 up 20 num_separator 0.312320947647
+csegi SNARC color dot DC 0 up 10 num_separator 0.33695101738
+csegi SNARC color dot DC 0 down 25 lctrl 0.508921146393
+csegi SNARC color dot DC 0 down 15 num_separator 0.388804912567
+csegi SNARC color dot DC 0 up 25 num_separator 0.564121961594
+csegi SNARC color dot DC 0 down 10 lctrl 0.968388080597
+csegi SNARC color dot DC 0 up 20 num_separator 0.480687856674
+csegi SNARC color dot DC 0 down 35 lctrl 0.588697910309
+csegi SNARC color dot DC 0 up 5 num_separator 0.907405853271
+csegi SNARC color dot DC 0 down 25 lctrl 0.460399866104
+csegi SNARC color dot DC 0 up 15 num_separator 0.765097141266
+csegi SNARC color dot DC 0 down 40 lctrl 0.537676095963
+csegi SNARC color dot DC 0 down 25 lctrl 0.309736967087
+csegi SNARC color dot DC 0 up 40 num_separator 0.407098054886
+csegi SNARC color dot DC 0 up 15 num_separator 0.38977599144
+csegi SNARC color dot DC 0 up 10 num_separator 0.337404966354
+csegi SNARC color dot DC 0 up 5 num_separator 0.333913087845
+csegi SNARC color dot DC 0 up 5 num_separator 0.39523601532
+csegi SNARC color dot DC 0 up 40 num_separator 0.44575715065
+csegi SNARC color dot DC 0 up 40 num_separator 0.296580076218
+csegi SNARC color dot DC 0 down 10 lctrl 0.465366840363
+csegi SNARC color dot DC 0 down 25 lctrl 0.308830976486
+csegi SNARC color dot DC 0 down 20 lctrl 0.319240093231
+csegi SNARC color dot DC 0 down 20 lctrl 0.312358856201
+csegi SNARC color dot DC 0 down 25 lctrl 0.348610877991
+csegi SNARC color dot DC 0 down 10 lctrl 0.312385797501
+csegi SNARC color dot DC 0 up 10 num_separator 0.408066034317
+csegi SNARC color dot DC 0 down 5 lctrl 0.381815910339
+csegi SNARC color dot DC 0 down 30 lctrl 0.3687479496
+csegi SNARC color dot DC 0 down 40 lctrl 0.352272987366
+csegi SNARC color dot DC 0 up 5 num_separator 0.435803890228
+csegi SNARC color dot DC 0 up 40 num_separator 0.34450006485
+csegi SNARC color dot DC 0 up 40 num_separator 0.32798910141
+csegi SNARC color dot DC 0 up 40 num_separator 0.272032976151
+csegi SNARC color dot DC 0 down 40 lctrl 0.384639024734
+csegi SNARC color dot DC 0 up 10 num_separator 0.433032989502
+csegi SNARC color dot DC 0 up 30 num_separator 0.399945020676
+csegi SNARC color dot DC 0 up 10 num_separator 0.32968711853
+csegi SNARC color dot DC 0 down 25 lctrl 0.404860019684
+csegi SNARC color dot DC 0 up 20 num_separator 0.47234082222
+csegi SNARC color dot DC 0 up 30 num_separator 0.392056941986
+csegi SNARC color dot DC 0 down 15 lctrl 0.428333044052
+csegi SNARC color dot DC 0 up 45 num_separator 0.395172119141
+csegi SNARC color dot DC 0 up 10 num_separator 0.417489051819
+csegi SNARC color dot DC 0 down 20 lctrl 0.424856185913
+csegi SNARC color dot DC 0 down 45 lctrl 0.364067077637
+csegi SNARC color dot DC 0 down 40 lctrl 0.296887874603
+csegi SNARC color dot DC 0 up 40 num_separator 0.479337930679
+csegi SNARC color dot DC 0 down 10 lctrl 1.09003806114
+csegi SNARC color dot DC 0 up 30 num_separator 1.06514286995
+csegi SNARC color dot DC 0 up 10 num_separator 0.407742023468
+csegi SNARC color dot DC 0 down 25 lctrl 0.388335943222
+csegi SNARC color dot DC 0 up 25 num_separator 0.404385089874
+csegi SNARC color dot DC 0 down 5 lctrl 1.76589584351
+csegi SNARC color dot DC 0 up 35 num_separator 0.45951294899
+csegi SNARC color dot DC 0 down 15 lctrl 0.54057097435
+csegi SNARC color dot DC 0 up 30 num_separator 0.29540014267
+csegi SNARC color dot DC 0 up 30 num_separator 0.415755033493
+csegi SNARC color dot DC 0 up 45 num_separator 0.331264972687
+csegi SNARC color dot DC 0 up 20 num_separator 0.33708190918
+csegi SNARC color dot DC 0 down 20 lctrl 0.408679008484
+csegi SNARC color dot DC 0 down 40 lctrl 0.328082084656
+csegi SNARC color dot DC 0 up 25 num_separator 0.413260936737
+csegi SNARC color dot DC 0 up 25 num_separator 0.461004018784
+csegi SNARC color dot DC 0 up 30 num_separator 0.365885019302
+csegi SNARC color dot DC 0 up 5 num_separator 0.548477172852
+csegi SNARC color dot DC 0 down 15 lctrl 0.356681108475
+csegi SNARC color dot DC 0 up 45 num_separator 0.363960981369
+csegi SNARC color dot DC 0 up 5 num_separator 0.949393987656
+csegi SNARC color dot DC 0 up 30 num_separator 0.368141889572
+csegi SNARC color dot DC 0 down 35 lctrl 0.348711967468
+csegi SNARC color dot DC 0 down 40 lctrl 0.344207048416
+csegi SNARC color dot DC 0 down 10 lctrl 0.304812192917
+csegi SNARC color dot DC 0 down 10 lctrl 0.337067842484
+csegi SNARC color dot DC 0 down 35 lctrl 0.315958976746
+csegi SNARC color dot DC 0 up 45 num_separator 0.260043859482
+csegi SNARC color dot DC 0 up 10 num_separator 0.385333061218
+csegi SNARC color dot DC 0 up 15 num_separator 0.275790929794
+csegi SNARC color dot DC 0 down 35 lctrl 0.356430053711
+csegi SNARC color dot DC 0 up 25 num_separator 0.389187812805
+csegi SNARC color dot DC 0 up 5 num_separator 1.24437499046
+csegi SNARC color dot DC 0 up 25 num_separator 0.412739038467
+csegi SNARC color dot DC 0 down 5 lctrl 0.429122924805
+csegi SNARC color dot DC 0 up 45 num_separator 0.923986196518
+csegi SNARC color dot DC 0 down 10 lctrl 0.465292930603
+csegi SNARC color dot DC 0 down 15 lctrl 0.388222932816
+csegi SNARC color dot DC 0 up 40 num_separator 0.352207899094
+csegi SNARC color dot DC 0 down 35 lctrl 0.492967128754
+csegi SNARC color dot DC 0 down 15 lctrl 0.789199829102
+csegi SNARC color dot DC 0 down 10 lctrl 0.304478168488
+csegi SNARC color dot DC 0 down 40 lctrl 0.311964035034
+csegi SNARC color dot DC 0 down 40 lctrl 0.31961607933
+csegi SNARC color dot DC 0 up 45 num_separator 0.500271081924
+csegi SNARC color dot DC 0 up 15 num_separator 0.291961193085
+csegi SNARC color dot DC 0 up 5 num_separator 0.436753034592
+csegi SNARC color dot DC 0 down 15 lctrl 0.405535936356
+csegi SNARC color dot DC 0 up 30 num_separator 0.424339771271
+csegi SNARC color dot DC 0 down 15 lctrl 0.404654979706
+csegi SNARC color dot DC 0 up 35 num_separator 0.707758188248
+csegi SNARC color dot DC 0 down 45 lctrl 0.364125013351
+csegi SNARC color dot DC 0 down 15 lctrl 0.436336994171
+csegi SNARC color dot DC 0 up 25 num_separator 0.380130052567
+csegi SNARC color dot DC 0 up 45 num_separator 0.867616891861
+csegi SNARC color dot DC 0 down 15 lctrl 0.364356040955
+csegi SNARC color dot DC 0 up 10 num_separator 0.488857984543
+csegi SNARC color dot DC 0 up 40 num_separator 0.351148843765
+csegi SNARC color dot DC 0 down 40 lctrl 0.390705823898
+csegi SNARC color dot DC 0 up 20 num_separator 0.38413310051
+csegi SNARC color dot DC 0 up 5 num_separator 0.380494832993
+csegi SNARC color dot DC 0 down 15 lctrl 0.444490909576
+csegi SNARC color dot DC 0 down 30 lctrl 0.481177091599
+csegi SNARC color dot DC 0 up 35 num_separator 0.332705974579
+csegi SNARC color dot DC 0 up 15 num_separator 0.268851041794
+csegi SNARC color dot DC 0 up 45 num_separator 0.283269882202
+csegi SNARC color dot DC 0 down 20 lctrl 0.321128845215
+csegi SNARC color dot DC 0 up 20 num_separator 0.360761880875
+csegi SNARC color dot DC 0 up 25 num_separator 0.372112035751
+csegi SNARC color dot DC 0 down 45 lctrl 0.37140083313
+csegi SNARC color dot DC 0 down 25 lctrl 0.572695970535
+csegi SNARC color dot DC 0 up 5 num_separator 0.404652118683
+csegi SNARC color dot DC 0 down 25 lctrl 1.06002283096
+csegi SNARC color dot DC 0 down 45 lctrl 0.37184381485
+csegi SNARC color dot DC 0 down 10 lctrl 0.361077070236
+csegi SNARC color dot DC 0 down 45 lctrl 0.332776784897
+csegi SNARC color dot DC 0 down 30 lctrl 0.345731019974
+csegi SNARC color dot DC 0 down 20 lctrl 0.319972038269
+csegi SNARC color dot DC 0 up 20 num_separator 0.456026792526
+csegi SNARC color dot DC 0 down 35 lctrl 0.364108800888
+csegi SNARC color dot DC 0 down 45 lctrl 0.347895145416
+csegi SNARC color dot DC 0 up 30 num_separator 0.400228977203
+csegi SNARC color dot DC 0 up 35 num_separator 0.444579839706
+csegi SNARC color dot DC 0 down 10 lctrl 0.35210108757
+csegi SNARC color dot DC 0 down 45 lctrl 0.395883083344
+csegi SNARC color dot DC 0 down 35 lctrl 0.36306810379
+csegi SNARC color dot DC 0 down 35 lctrl 0.325159788132
+csegi SNARC color dot DC 0 down 10 lctrl 0.30442404747
+csegi SNARC color dot DC 0 down 20 lctrl 0.296495914459
+csegi SNARC color dot DC 0 up 20 num_separator 0.489151000977
+csegi SNARC color dot DC 0 up 40 num_separator 0.312402009964
+csegi SNARC color dot DC 0 down 20 lctrl 0.432378053665
+csegi SNARC color dot DC 0 up 30 num_separator 0.391956090927
+csegi SNARC color dot DC 0 up 15 num_separator 0.491960048676
+csegi SNARC color dot DC 0 down 25 lctrl 0.356827020645
+csegi SNARC color dot DC 0 up 20 num_separator 0.543324947357
+csegi SNARC color dot DC 0 down 25 lctrl 0.381963968277
+csegi SNARC color dot DC 0 down 10 lctrl 0.368330001831
+csegi SNARC color dot DC 0 down 35 lctrl 0.315464019775
+csegi SNARC color dot DC 0 up 5 num_separator 0.476704835892
+csegi SNARC color dot DC 0 up 35 num_separator 0.331629991531
+csegi SNARC color dot DC 0 down 10 lctrl 2.01727604866
+csegi SNARC color dot DC 0 down 5 lctrl 0.812690973282
+csegi SNARC color dot DC 0 up 30 num_separator 0.421669006348
+csegi SNARC color dot DC 0 down 25 lctrl 0.549283027649
+csegi SNARC color dot DC 0 down 30 lctrl 0.44849395752
+csegi SNARC color dot DC 0 up 10 num_separator 0.495368003845
+csegi SNARC color dot DC 0 down 15 lctrl 0.724020957947
+csegi SNARC color dot DC 0 up 45 num_separator 0.411741018295
+csegi SNARC color dot DC 0 down 45 lctrl 0.787714004517
+csegi SNARC color dot DC 0 up 25 num_separator 0.427946805954
+csegi SNARC color dot DC 0 down 5 lctrl 0.429888963699
+csegi SNARC color dot DC 0 up 30 num_separator 0.494731903076
+csegi SNARC color dot DC 0 up 40 num_separator 0.383208036423
+csegi SNARC color dot DC 0 down 20 lctrl 0.431435108185
+csegi SNARC color dot DC 0 up 10 num_separator 0.544002056122
+csegi SNARC color dot DC 0 up 45 num_separator 0.416907072067
+csegi SNARC color dot DC 0 down 20 lctrl 0.496670007706
+csegi SNARC color dot DC 0 up 30 num_separator 0.520254850388
+csegi SNARC color dot DC 0 up 5 num_separator 0.356943845749
+csegi SNARC color dot DC 0 down 25 lctrl 0.436225175858
+csegi SNARC color dot DC 0 up 10 num_separator 0.480937004089
+csegi SNARC color dot DC 0 down 35 lctrl 0.403234958649
+csegi SNARC color dot DC 0 down 20 lctrl 0.456835031509
+csegi SNARC color dot DC 0 down 45 lctrl 0.459010124207
+csegi SNARC color dot DC 0 up 35 num_separator 0.412214994431
+csegi SNARC color dot DC 0 down 45 lctrl 0.965631008148
+csegi SNARC color dot DC 0 down 15 lctrl 0.435616970062
+csegi SNARC color dot DC 0 down 30 lctrl 0.320370912552
+csegi SNARC color dot DC 0 up 15 num_separator 0.364590883255
+csegi SNARC color dot DC 0 down 35 lctrl 0.411762952805
+csegi SNARC color dot DC 0 down 40 lctrl 0.392180204391
+csegi SNARC color dot DC 0 down 10 lctrl 0.352678060532
+csegi SNARC color dot DC 0 down 30 lctrl 0.329259157181
+csegi SNARC color dot DC 0 up 15 num_separator 0.372138977051
+csegi SNARC color dot DC 0 down 20 lctrl 0.35254406929
+csegi SNARC color dot DC 0 up 5 lctrl 0.365461111069
+csegi SNARC color dot DC 0 up 20 num_separator 0.798801898956
+csegi SNARC color dot DC 0 down 45 lctrl 1.26787400246
+csegi SNARC color dot DC 0 up 45 num_separator 0.484152078629
+csegi SNARC color dot DC 0 down 5 lctrl 0.452570199966
+csegi SNARC color dot DC 0 up 5 num_separator 1.1163790226
+csegi SNARC color dot DC 0 down 45 lctrl 0.619521856308
+csegi SNARC color dot DC 0 up 45 num_separator 0.571109056473
+csegi SNARC color dot DC 0 down 35 lctrl 0.467547893524
+csegi SNARC color dot DC 0 up 45 num_separator 0.770870923996
+csegi SNARC color dot DC 0 up 15 num_separator 0.541234970093
+csegi SNARC color dot DC 0 up 20 num_separator 0.407857179642
+csegi SNARC color dot DC 0 down 35 lctrl 0.404143095016
+csegi SNARC color dot DC 0 up 35 num_separator 0.627538919449
+csegi SNARC color dot DC 0 down 30 lctrl 0.360977172852
+csegi SNARC color dot DC 0 up 30 num_separator 0.45618391037
+csegi SNARC color dot DC 0 up 5 num_separator 0.421639204025
+csegi SNARC color dot DC 0 up 20 num_separator 0.385143995285
+csegi SNARC color dot DC 0 up 45 num_separator 0.355911970139
+csegi SNARC color dot DC 0 down 45 lctrl 0.236717939377
+csegi SNARC color dot DC 0 down 45 lctrl 0.308074951172
+csegi SNARC color dot DC 0 up 20 num_separator 0.432242870331
+csegi SNARC color dot DC 0 down 15 lctrl 0.565103054047
+csegi SNARC color dot DC 0 down 35 lctrl 0.571615934372
+csegi SNARC color dot DC 0 down 45 lctrl 0.963765859604
+csegi SNARC color dot DC 0 up 35 num_separator 0.564503908157
+csegi SNARC color dot DC 0 up 30 num_separator 0.415374994278
+csegi SNARC color dot DC 0 up 25 num_separator 0.332695007324
+csegi SNARC color dot DC 0 down 15 lctrl 0.381067991257
+csegi SNARC color dot DC 0 down 10 lctrl 0.320611953735
+csegi SNARC color dot DC 0 down 45 lctrl 0.331998109818
+csegi SNARC color dot DC 0 up 25 num_separator 0.428112983704
+csegi SNARC color dot DC 0 up 35 num_separator 0.325374126434
+csegi SNARC color dot DC 0 down 35 lctrl 0.396765947342
+csegi SNARC color dot DC 0 down 15 lctrl 0.300680160522
+csegi SNARC color dot DC 0 down 25 lctrl 0.333004951477
+csegi SNARC color dot DC 0 down 10 lctrl 0.352720975876
+csegi SNARC color dot DC 0 up 35 num_separator 0.363525152206
+csegi SNARC color dot DC 0 up 10 num_separator 0.569092035294
+csegi SNARC color dot DC 0 up 15 num_separator 0.372380971909
+csegi SNARC color dot DC 0 up 5 num_separator 0.87633895874
+csegi SNARC color dot DC 0 up 25 num_separator 0.380737066269
+csegi SNARC color dot DC 0 up 20 num_separator 0.344416856766
+csegi SNARC color dot DC 0 down 30 lctrl 0.352392911911
+csegi SNARC color dot DC 0 down 45 lctrl 0.444861888885
+csegi SNARC color dot DC 0 down 30 lctrl 0.376835107803
+csegi SNARC color dot DC 0 down 25 lctrl 0.595481872559
+csegi SNARC color dot DC 0 up 20 num_separator 0.888027906418
+csegi SNARC color dot DC 0 down 5 lctrl 0.901314020157
+csegi SNARC color dot DC 0 down 10 lctrl 0.425577163696
+csegi SNARC color dot DC 0 down 30 lctrl 0.455054998398
+csegi SNARC color dot DC 0 down 25 lctrl 0.308391094208
+csegi SNARC color dot DC 0 up 5 num_separator 0.572396993637
+csegi SNARC color dot DC 0 down 25 lctrl 0.379724025726
+csegi SNARC color dot DC 0 down 40 lctrl 0.81604886055
+csegi SNARC color dot DC 0 up 25 num_separator 0.387940168381
+csegi SNARC color dot DC 0 down 10 lctrl 0.480698108673
+csegi SNARC color dot DC 0 down 25 lctrl 0.420697212219
+csegi SNARC color dot DC 0 down 20 lctrl 0.320760011673
+csegi SNARC color dot DC 0 down 35 lctrl 0.340380907059
+csegi SNARC color dot DC 0 up 35 num_separator 0.474627017975
+csegi SNARC color dot DC 0 down 45 lctrl 0.38769197464
+csegi SNARC color dot DC 0 up 35 num_separator 0.723927021027
+csegi SNARC color dot DC 0 down 15 lctrl 0.372408151627
+csegi SNARC color dot DC 0 down 45 lctrl 0.364057064056
+csegi SNARC color dot DC 0 down 20 lctrl 0.423962116241
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'03_23_1515', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'csegi', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+csegi SNARC color arabic DC 0 down 2 lctrl 0.868946075439
+csegi SNARC color arabic DC 0 up 6 num_separator 0.601099014282
+csegi SNARC color arabic DC 0 down 4 lctrl 0.418612957001
+csegi SNARC color arabic DC 0 down 4 lctrl 0.346706151962
+csegi SNARC color arabic DC 0 down 9 lctrl 0.682005882263
+csegi SNARC color arabic DC 0 down 5 lctrl 0.618394851685
+csegi SNARC color arabic DC 0 up 6 num_separator 0.474655866623
+csegi SNARC color arabic DC 0 down 5 lctrl 0.651569128036
+csegi SNARC color arabic DC 0 down 5 lctrl 0.660028934479
+csegi SNARC color arabic DC 0 down 9 lctrl 0.266859054565
+csegi SNARC color arabic DC 0 down 5 lctrl 0.307764053345
+csegi SNARC color arabic DC 0 down 8 lctrl 0.385390043259
+csegi SNARC color arabic DC 0 down 7 lctrl 0.354111909866
+csegi SNARC color arabic DC 0 up 3 num_separator 0.6739320755
+csegi SNARC color arabic DC 0 down 2 lctrl 0.747475147247
+csegi SNARC color arabic DC 0 up 4 num_separator 0.46647810936
+csegi SNARC color arabic DC 0 down 4 lctrl 0.387958049774
+csegi SNARC color arabic DC 0 up 1 num_separator 0.425097942352
+csegi SNARC color arabic DC 0 down 9 lctrl 0.363298892975
+csegi SNARC color arabic DC 0 up 5 num_separator 0.529209136963
+csegi SNARC color arabic DC 0 down 5 lctrl 0.603438138962
+csegi SNARC color arabic DC 0 up 7 num_separator 0.650763988495
+csegi SNARC color arabic DC 0 down 7 lctrl 0.420050859451
+csegi SNARC color arabic DC 0 down 7 lctrl 0.402949094772
+csegi SNARC color arabic DC 0 down 3 lctrl 0.443209171295
+csegi SNARC color arabic DC 0 down 3 lctrl 0.355077981949
+csegi SNARC color arabic DC 0 up 8 num_separator 0.554464101791
+csegi SNARC color arabic DC 0 up 2 num_separator 0.403017997742
+csegi SNARC color arabic DC 0 down 5 lctrl 0.337623119354
+csegi SNARC color arabic DC 0 down 1 lctrl 0.379073858261
+csegi SNARC color arabic DC 0 up 6 num_separator 0.602470874786
+csegi SNARC color arabic DC 0 up 3 num_separator 0.379011154175
+csegi SNARC color arabic DC 0 up 4 num_separator 0.379889011383
+csegi SNARC color arabic DC 0 down 6 lctrl 0.490936994553
+csegi SNARC color arabic DC 0 up 9 num_separator 0.426695823669
+csegi SNARC color arabic DC 0 down 5 lctrl 0.779412984848
+csegi SNARC color arabic DC 0 up 2 num_separator 0.530107975006
+csegi SNARC color arabic DC 0 up 3 num_separator 0.322707891464
+csegi SNARC color arabic DC 0 down 4 lctrl 0.411162137985
+csegi SNARC color arabic DC 0 down 7 lctrl 0.395362854004
+csegi SNARC color arabic DC 0 down 4 lctrl 0.426898002625
+csegi SNARC color arabic DC 0 up 2 num_separator 0.48269701004
+csegi SNARC color arabic DC 0 up 8 num_separator 0.34744310379
+csegi SNARC color arabic DC 0 down 7 lctrl 0.330729961395
+csegi SNARC color arabic DC 0 up 2 num_separator 0.475041866302
+csegi SNARC color arabic DC 0 down 4 lctrl 0.467279195786
+csegi SNARC color arabic DC 0 up 9 num_separator 0.785966873169
+csegi SNARC color arabic DC 0 up 7 num_separator 0.377321004868
+csegi SNARC color arabic DC 0 up 1 num_separator 0.355742931366
+csegi SNARC color arabic DC 0 up 7 num_separator 0.339360952377
+csegi SNARC color arabic DC 0 up 3 num_separator 0.554219961166
+csegi SNARC color arabic DC 0 down 7 lctrl 0.730603218079
+csegi SNARC color arabic DC 0 up 2 num_separator 0.442144870758
+csegi SNARC color arabic DC 0 up 6 num_separator 0.419022083282
+csegi SNARC color arabic DC 0 up 6 num_separator 0.354944944382
+csegi SNARC color arabic DC 0 up 8 num_separator 0.330366134644
+csegi SNARC color arabic DC 0 up 6 num_separator 0.355363130569
+csegi SNARC color arabic DC 0 up 1 num_separator 0.450443029404
+csegi SNARC color arabic DC 0 up 9 num_separator 0.378917217255
+csegi SNARC color arabic DC 0 down 2 lctrl 0.355492115021
+csegi SNARC color arabic DC 0 down 9 lctrl 0.338862895966
+csegi SNARC color arabic DC 0 down 9 lctrl 0.290848970413
+csegi SNARC color arabic DC 0 up 9 num_separator 0.402041196823
+csegi SNARC color arabic DC 0 up 2 num_separator 0.818920135498
+csegi SNARC color arabic DC 0 down 7 lctrl 0.451443195343
+csegi SNARC color arabic DC 0 up 3 num_separator 0.522160053253
+csegi SNARC color arabic DC 0 up 5 num_separator 0.362701892853
+csegi SNARC color arabic DC 0 down 6 lctrl 0.386622905731
+csegi SNARC color arabic DC 0 up 8 num_separator 0.442090988159
+csegi SNARC color arabic DC 0 up 2 num_separator 0.339631795883
+csegi SNARC color arabic DC 0 down 9 lctrl 0.411598920822
+csegi SNARC color arabic DC 0 down 4 lctrl 0.411603927612
+csegi SNARC color arabic DC 0 up 9 num_separator 0.401908874512
+csegi SNARC color arabic DC 0 down 9 lctrl 0.811196088791
+csegi SNARC color arabic DC 0 up 1 num_separator 0.369801998138
+csegi SNARC color arabic DC 0 down 7 lctrl 0.395906925201
+csegi SNARC color arabic DC 0 down 7 lctrl 0.635272026062
+csegi SNARC color arabic DC 0 down 3 lctrl 0.562736988068
+csegi SNARC color arabic DC 0 down 8 lctrl 0.291043043137
+csegi SNARC color arabic DC 0 up 6 num_separator 0.402907848358
+csegi SNARC color arabic DC 0 up 4 num_separator 0.387171983719
+csegi SNARC color arabic DC 0 down 7 lctrl 0.410953044891
+csegi SNARC color arabic DC 0 up 2 num_separator 0.361713886261
+csegi SNARC color arabic DC 0 up 1 num_separator 0.355180025101
+csegi SNARC color arabic DC 0 down 8 lctrl 0.346977949142
+csegi SNARC color arabic DC 0 up 7 num_separator 0.402585983276
+csegi SNARC color arabic DC 0 down 7 lctrl 0.498740911484
+csegi SNARC color arabic DC 0 down 7 lctrl 0.338980913162
+csegi SNARC color arabic DC 0 down 3 lctrl 0.354954957962
+csegi SNARC color arabic DC 0 down 2 lctrl 0.346859931946
+csegi SNARC color arabic DC 0 down 8 lctrl 0.31477689743
+csegi SNARC color arabic DC 0 up 2 num_separator 0.274228096008
+csegi SNARC color arabic DC 0 down 1 lctrl 0.427262067795
+csegi SNARC color arabic DC 0 up 9 num_separator 0.561730861664
+csegi SNARC color arabic DC 0 down 6 lctrl 0.379359960556
+csegi SNARC color arabic DC 0 up 3 num_separator 0.473635911942
+csegi SNARC color arabic DC 0 down 3 lctrl 0.355233192444
+csegi SNARC color arabic DC 0 up 9 num_separator 0.482688188553
+csegi SNARC color arabic DC 0 up 5 num_separator 0.595552921295
+csegi SNARC color arabic DC 0 down 6 lctrl 0.371963977814
+csegi SNARC color arabic DC 0 up 7 num_separator 0.401432991028
+csegi SNARC color arabic DC 0 down 7 lctrl 0.354876995087
+csegi SNARC color arabic DC 0 down 4 lctrl 0.474886894226
+csegi SNARC color arabic DC 0 down 3 lctrl 0.331453084946
+csegi SNARC color arabic DC 0 down 9 lctrl 0.306455135345
+csegi SNARC color arabic DC 0 up 4 num_separator 0.378639936447
+csegi SNARC color arabic DC 0 up 2 num_separator 0.338854789734
+csegi SNARC color arabic DC 0 up 5 num_separator 0.330121994019
+csegi SNARC color arabic DC 0 down 5 lctrl 0.355936050415
+csegi SNARC color arabic DC 0 down 7 lctrl 0.313915014267
+csegi SNARC color arabic DC 0 up 2 num_separator 0.449908971786
+csegi SNARC color arabic DC 0 up 2 num_separator 0.691639900208
+csegi SNARC color arabic DC 0 down 8 lctrl 0.355418920517
+csegi SNARC color arabic DC 0 down 2 lctrl 0.299176931381
+csegi SNARC color arabic DC 0 down 9 lctrl 0.31542301178
+csegi SNARC color arabic DC 0 down 5 lctrl 0.38664484024
+csegi SNARC color arabic DC 0 up 1 num_separator 0.466005086899
+csegi SNARC color arabic DC 0 up 6 num_separator 0.363051891327
+csegi SNARC color arabic DC 0 up 8 num_separator 0.329581975937
+csegi SNARC color arabic DC 0 down 3 lctrl 0.426957845688
+csegi SNARC color arabic DC 0 up 6 num_separator 0.361993074417
+csegi SNARC color arabic DC 0 down 4 lctrl 1.91541981697
+csegi SNARC color arabic DC 0 down 6 lctrl 0.394423961639
+csegi SNARC color arabic DC 0 down 8 lctrl 0.323413133621
+csegi SNARC color arabic DC 0 down 1 lctrl 0.370608091354
+csegi SNARC color arabic DC 0 down 9 lctrl 0.395328044891
+csegi SNARC color arabic DC 0 up 4 num_separator 0.490488052368
+csegi SNARC color arabic DC 0 up 2 num_separator 0.298245191574
+csegi SNARC color arabic DC 0 down 2 lctrl 0.46706199646
+csegi SNARC color arabic DC 0 down 8 lctrl 0.626694917679
+csegi SNARC color arabic DC 0 up 8 num_separator 0.459179878235
+csegi SNARC color arabic DC 0 down 6 lctrl 0.339149951935
+csegi SNARC color arabic DC 0 down 5 lctrl 0.347408056259
+csegi SNARC color arabic DC 0 up 1 num_separator 0.354189157486
+csegi SNARC color arabic DC 0 down 5 lctrl 0.434290885925
+csegi SNARC color arabic DC 0 down 8 lctrl 0.411381006241
+csegi SNARC color arabic DC 0 down 1 lctrl 0.416054964066
+csegi SNARC color arabic DC 0 down 4 lctrl 0.354550123215
+csegi SNARC color arabic DC 0 up 3 num_separator 0.418991088867
+csegi SNARC color arabic DC 0 down 7 lctrl 0.346737861633
+csegi SNARC color arabic DC 0 up 1 num_separator 0.962094068527
+csegi SNARC color arabic DC 0 up 9 num_separator 0.322761058807
+csegi SNARC color arabic DC 0 down 4 lctrl 0.36306810379
+csegi SNARC color arabic DC 0 down 2 lctrl 0.298966884613
+csegi SNARC color arabic DC 0 up 7 num_separator 0.378129959106
+csegi SNARC color arabic DC 0 up 8 num_separator 0.434412956238
+csegi SNARC color arabic DC 0 up 1 num_separator 0.363136053085
+csegi SNARC color arabic DC 0 up 3 num_separator 0.283351898193
+csegi SNARC color arabic DC 0 up 3 num_separator 0.290610074997
+csegi SNARC color arabic DC 0 up 3 num_separator 0.330841064453
+csegi SNARC color arabic DC 0 down 3 lctrl 0.347242116928
+csegi SNARC color arabic DC 0 down 6 lctrl 0.289574146271
+csegi SNARC color arabic DC 0 up 9 num_separator 0.378621816635
+csegi SNARC color arabic DC 0 up 7 num_separator 0.29031419754
+csegi SNARC color arabic DC 0 up 4 num_separator 0.330420970917
+csegi SNARC color arabic DC 0 up 6 num_separator 0.282607793808
+csegi SNARC color arabic DC 0 down 6 lctrl 0.403254985809
+csegi SNARC color arabic DC 0 down 4 lctrl 0.346575975418
+csegi SNARC color arabic DC 0 down 9 lctrl 0.322774887085
+csegi SNARC color arabic DC 0 down 8 lctrl 0.314177036285
+csegi SNARC color arabic DC 0 down 9 lctrl 0.3069190979
+csegi SNARC color arabic DC 0 up 9 num_separator 0.449970960617
+csegi SNARC color arabic DC 0 down 1 lctrl 0.387166023254
+csegi SNARC color arabic DC 0 up 8 num_separator 0.361458063126
+csegi SNARC color arabic DC 0 down 4 lctrl 0.362775087357
+csegi SNARC color arabic DC 0 down 8 lctrl 0.314331054688
+csegi SNARC color arabic DC 0 up 2 num_separator 0.425626039505
+csegi SNARC color arabic DC 0 up 9 num_separator 0.37068104744
+csegi SNARC color arabic DC 0 up 5 num_separator 0.347071886063
+csegi SNARC color arabic DC 0 up 8 num_separator 0.31435084343
+csegi SNARC color arabic DC 0 down 1 lctrl 0.379213094711
+csegi SNARC color arabic DC 0 down 5 lctrl 0.31475520134
+csegi SNARC color arabic DC 0 up 1 num_separator 0.457573890686
+csegi SNARC color arabic DC 0 down 1 lctrl 0.371371984482
+csegi SNARC color arabic DC 0 up 3 num_separator 0.594962835312
+csegi SNARC color arabic DC 0 down 6 lctrl 0.410176992416
+csegi SNARC color arabic DC 0 up 3 num_separator 0.514387845993
+csegi SNARC color arabic DC 0 down 4 lctrl 0.339171886444
+csegi SNARC color arabic DC 0 down 9 lctrl 0.355340003967
+csegi SNARC color arabic DC 0 down 8 lctrl 0.283082008362
+csegi SNARC color arabic DC 0 up 5 num_separator 0.378172159195
+csegi SNARC color arabic DC 0 up 2 num_separator 0.337653875351
+csegi SNARC color arabic DC 0 down 3 lctrl 0.386707782745
+csegi SNARC color arabic DC 0 down 5 lctrl 0.411133050919
+csegi SNARC color arabic DC 0 down 7 lctrl 0.330041885376
+csegi SNARC color arabic DC 0 up 5 num_separator 0.41086602211
+csegi SNARC color arabic DC 0 up 1 num_separator 0.402395963669
+csegi SNARC color arabic DC 0 down 8 lctrl 0.395048141479
+csegi SNARC color arabic DC 0 up 2 num_separator 0.651065826416
+csegi SNARC color arabic DC 0 up 2 num_separator 0.362931013107
+csegi SNARC color arabic DC 0 up 8 num_separator 0.321692943573
+csegi SNARC color arabic DC 0 down 6 lctrl 0.411721944809
+csegi SNARC color arabic DC 0 up 9 num_separator 0.506889104843
+csegi SNARC color arabic DC 0 down 1 lctrl 0.419545888901
+csegi SNARC color arabic DC 0 down 2 lctrl 0.354681968689
+csegi SNARC color arabic DC 0 up 3 num_separator 0.442333936691
+csegi SNARC color arabic DC 0 up 6 num_separator 0.362222909927
+csegi SNARC color arabic DC 0 down 1 lctrl 0.571484088898
+csegi SNARC color arabic DC 0 up 3 num_separator 0.370840072632
+csegi SNARC color arabic DC 0 down 3 lctrl 0.386067867279
+csegi SNARC color arabic DC 0 down 9 lctrl 0.322931051254
+csegi SNARC color arabic DC 0 up 5 num_separator 0.434706926346
+csegi SNARC color arabic DC 0 up 8 num_separator 0.418777942657
+csegi SNARC color arabic DC 0 up 9 num_separator 0.39520907402
+csegi SNARC color arabic DC 0 down 7 lctrl 0.427329063416
+csegi SNARC color arabic DC 0 up 7 num_separator 0.642378807068
+csegi SNARC color arabic DC 0 down 4 lctrl 0.35525894165
+csegi SNARC color arabic DC 0 down 5 lctrl 0.347168922424
+csegi SNARC color arabic DC 0 down 8 lctrl 0.305500030518
+csegi SNARC color arabic DC 0 down 1 lctrl 0.313369989395
+csegi SNARC color arabic DC 0 down 6 lctrl 0.34664607048
+csegi SNARC color arabic DC 0 up 1 num_separator 0.402626037598
+csegi SNARC color arabic DC 0 down 6 lctrl 0.402437925339
+csegi SNARC color arabic DC 0 up 4 num_separator 0.898453950882
+csegi SNARC color arabic DC 0 up 5 num_separator 0.458463907242
+csegi SNARC color arabic DC 0 down 4 lctrl 0.37925195694
+csegi SNARC color arabic DC 0 down 9 lctrl 0.3629591465
+csegi SNARC color arabic DC 0 up 7 num_separator 0.457456111908
+csegi SNARC color arabic DC 0 up 7 num_separator 0.330518960953
+csegi SNARC color arabic DC 0 down 6 lctrl 0.467905044556
+csegi SNARC color arabic DC 0 down 4 lctrl 0.306056976318
+csegi SNARC color arabic DC 0 up 6 num_separator 0.426080942154
+csegi SNARC color arabic DC 0 up 3 num_separator 0.362044095993
+csegi SNARC color arabic DC 0 down 8 lctrl 0.35474896431
+csegi SNARC color arabic DC 0 up 5 num_separator 0.386492013931
+csegi SNARC color arabic DC 0 down 8 lctrl 0.33146905899
+csegi SNARC color arabic DC 0 down 2 lctrl 0.306339025497
+csegi SNARC color arabic DC 0 down 5 lctrl 0.346686124802
+csegi SNARC color arabic DC 0 up 9 num_separator 0.386447906494
+csegi SNARC color arabic DC 0 down 2 lctrl 0.370692014694
+csegi SNARC color arabic DC 0 down 2 lctrl 0.362344026566
+csegi SNARC color arabic DC 0 down 1 lctrl 0.306246995926
+csegi SNARC color arabic DC 0 up 9 num_separator 0.666455030441
+csegi SNARC color arabic DC 0 down 8 lctrl 0.634650945663
+csegi SNARC color arabic DC 0 down 4 lctrl 0.378688097
+csegi SNARC color arabic DC 0 up 7 num_separator 0.434320926666
+csegi SNARC color arabic DC 0 down 1 lctrl 0.379145145416
+csegi SNARC color arabic DC 0 down 2 lctrl 0.514827013016
+csegi SNARC color arabic DC 0 down 1 lctrl 0.339793920517
+csegi SNARC color arabic DC 0 up 5 num_separator 0.442775964737
+csegi SNARC color arabic DC 0 down 6 lctrl 0.386775016785
+csegi SNARC color arabic DC 0 up 7 num_separator 0.586282968521
+csegi SNARC color arabic DC 0 down 1 lctrl 0.347236156464
+csegi SNARC color arabic DC 0 up 2 num_separator 0.402340173721
+csegi SNARC color arabic DC 0 up 2 num_separator 0.358921051025
+csegi SNARC color arabic DC 0 down 6 lctrl 0.370635986328
+csegi SNARC color arabic DC 0 down 3 lctrl 0.322504043579
+csegi SNARC color arabic DC 0 up 8 num_separator 0.426755905151
+csegi SNARC color arabic DC 0 down 7 lctrl 0.435595989227
+csegi SNARC color arabic DC 0 up 8 num_separator 0.586975812912
+csegi SNARC color arabic DC 0 up 3 lctrl 0.34762597084
+csegi SNARC color arabic DC 0 down 7 lctrl 0.542804956436
+csegi SNARC color arabic DC 0 up 4 num_separator 0.706737995148
+csegi SNARC color arabic DC 0 up 9 num_separator 1.27304601669
+csegi SNARC color arabic DC 0 up 9 num_separator 0.386849880219
+csegi SNARC color arabic DC 0 up 5 num_separator 0.459290981293
+csegi SNARC color arabic DC 0 down 9 lctrl 0.307578086853
+csegi SNARC color arabic DC 0 up 1 num_separator 0.483266830444
+csegi SNARC color arabic DC 0 down 2 lctrl 0.370948076248
+csegi SNARC color arabic DC 0 down 8 lctrl 0.402565002441
+csegi SNARC color arabic DC 0 up 3 num_separator 0.450368881226
+csegi SNARC color arabic DC 0 up 6 num_separator 0.363298177719
+csegi SNARC color arabic DC 0 down 9 lctrl 0.698741912842
+csegi SNARC color arabic DC 0 down 2 lctrl 0.35511302948
+csegi SNARC color arabic DC 0 up 7 num_separator 0.450210809708
+csegi SNARC color arabic DC 0 up 6 num_separator 0.370418071747
+csegi SNARC color arabic DC 0 down 5 lctrl 0.795492172241
+csegi SNARC color arabic DC 0 up 4 num_separator 0.434807062149
+csegi SNARC color arabic DC 0 down 3 lctrl 0.396007061005
+csegi SNARC color arabic DC 0 down 3 lctrl 0.355170965195
+csegi SNARC color arabic DC 0 down 5 lctrl 0.771123170853
+csegi SNARC color arabic DC 0 up 5 num_separator 0.569178104401
+csegi SNARC color arabic DC 0 up 4 num_separator 0.338888883591
+csegi SNARC color arabic DC 0 up 6 num_separator 0.395173072815
+csegi SNARC color arabic DC 0 up 7 num_separator 0.355534076691
+csegi SNARC color arabic DC 0 down 4 lctrl 0.459254980087
+csegi SNARC color arabic DC 0 up 6 num_separator 0.698929786682
+csegi SNARC color arabic DC 0 up 4 num_separator 0.395597934723
+csegi SNARC color arabic DC 0 down 8 lctrl 0.467647075653
+csegi SNARC color arabic DC 0 down 8 lctrl 0.379014968872
+csegi SNARC color arabic DC 0 down 8 lctrl 0.346016168594
+csegi SNARC color arabic DC 0 down 8 lctrl 0.282721042633
+csegi SNARC color arabic DC 0 down 1 lctrl 0.315254926682
+csegi SNARC color arabic DC 0 down 4 lctrl 0.314204931259
+csegi SNARC color arabic DC 0 up 3 num_separator 0.362407922745
+csegi SNARC color arabic DC 0 up 2 num_separator 0.394133090973
+csegi SNARC color arabic DC 0 down 3 lctrl 0.522613048553
+csegi SNARC color arabic DC 0 down 7 lctrl 0.39482998848
+csegi SNARC color arabic DC 0 up 5 num_separator 0.411149024963
+csegi SNARC color arabic DC 0 up 1 num_separator 0.386034965515
+csegi SNARC color arabic DC 0 up 2 num_separator 0.394568920135
+csegi SNARC color arabic DC 0 down 5 lctrl 0.474758148193
+csegi SNARC color arabic DC 0 down 5 lctrl 0.371083021164
+csegi SNARC color arabic DC 0 down 8 lctrl 0.347112894058
+csegi SNARC color arabic DC 0 down 8 lctrl 0.347274065018
+csegi SNARC color arabic DC 0 down 2 lctrl 0.33151102066
+csegi SNARC color arabic DC 0 down 6 lctrl 0.331007957458
+csegi SNARC color arabic DC 0 up 4 num_separator 0.361340045929
+csegi SNARC color arabic DC 0 down 3 lctrl 0.377691984177
+csegi SNARC color arabic DC 0 up 6 num_separator 0.403079986572
+csegi SNARC color arabic DC 0 down 3 lctrl 0.339102983475
+csegi SNARC color arabic DC 0 down 5 lctrl 0.444031000137
+csegi SNARC color arabic DC 0 down 1 lctrl 0.307119131088
+csegi SNARC color arabic DC 0 up 7 num_separator 0.402658939362
+csegi SNARC color arabic DC 0 up 6 num_separator 0.347221851349
+csegi SNARC color arabic DC 0 down 6 lctrl 0.402734994888
+csegi SNARC color arabic DC 0 down 1 lctrl 0.322773933411
+csegi SNARC color arabic DC 0 down 5 lctrl 0.314833164215
+csegi SNARC color arabic DC 0 down 2 lctrl 0.298264980316
+csegi SNARC color arabic DC 0 up 5 num_separator 0.386247158051
+csegi SNARC color arabic DC 0 down 7 lctrl 0.418040990829
+csegi SNARC color arabic DC 0 down 6 lctrl 0.779034137726
+csegi SNARC color arabic DC 0 down 4 lctrl 0.339280128479
+csegi SNARC color arabic DC 0 down 3 lctrl 0.370598077774
+csegi SNARC color arabic DC 0 up 7 num_separator 0.418335914612
+csegi SNARC color arabic DC 0 down 3 lctrl 0.499073982239
+csegi SNARC color arabic DC 0 down 1 lctrl 0.626311063766
+csegi SNARC color arabic DC 0 down 3 lctrl 0.314973831177
+csegi SNARC color arabic DC 0 up 1 num_separator 0.442989110947
+csegi SNARC color arabic DC 0 up 6 num_separator 0.418558120728
+csegi SNARC color arabic DC 0 down 1 lctrl 0.348077058792
+csegi SNARC color arabic DC 0 up 9 num_separator 0.481835842133
+csegi SNARC color arabic DC 0 up 7 num_separator 0.378489971161
+csegi SNARC color arabic DC 0 up 4 num_separator 0.370956897736
+csegi SNARC color arabic DC 0 up 4 num_separator 0.347716093063
+csegi SNARC color arabic DC 0 down 1 lctrl 0.378479957581
+csegi SNARC color arabic DC 0 down 4 lctrl 0.451498031616
+csegi SNARC color arabic DC 0 down 5 lctrl 0.346884965897
+csegi SNARC color arabic DC 0 up 7 num_separator 0.499127864838
+csegi SNARC color arabic DC 0 down 2 lctrl 1.32333397865
+csegi SNARC color arabic DC 0 up 5 num_separator 0.393600940704
+csegi SNARC color arabic DC 0 down 2 lctrl 0.426488876343
+csegi SNARC color arabic DC 0 up 6 num_separator 0.721873998642
+csegi SNARC color arabic DC 0 down 1 lctrl 0.435595035553
+csegi SNARC color arabic DC 0 up 8 num_separator 0.369827032089
+csegi SNARC color arabic DC 0 up 4 num_separator 0.395127058029
+csegi SNARC color arabic DC 0 down 7 lctrl 0.411832094193
+csegi SNARC color arabic DC 0 down 4 lctrl 0.354432821274
+csegi SNARC color arabic DC 0 down 8 lctrl 0.314470052719
+csegi SNARC color arabic DC 0 up 3 num_separator 0.593570947647
+csegi SNARC color arabic DC 0 up 1 num_separator 0.803107023239
+csegi SNARC color arabic DC 0 up 1 num_separator 0.40242099762
+csegi SNARC color arabic DC 0 down 8 lctrl 0.443462848663
+csegi SNARC color arabic DC 0 up 9 num_separator 0.417937040329
+csegi SNARC color arabic DC 0 up 2 num_separator 1.29874110222
+csegi SNARC color arabic DC 0 up 4 num_separator 0.338396072388
+csegi SNARC color arabic DC 0 up 6 num_separator 0.330361127853
+csegi SNARC color arabic DC 0 down 9 lctrl 0.394675016403
+csegi SNARC color arabic DC 0 up 5 num_separator 0.441328048706
+csegi SNARC color arabic DC 0 up 1 num_separator 0.395622968674
+csegi SNARC color arabic DC 0 up 5 num_separator 0.34668302536
+csegi SNARC color arabic DC 0 up 8 num_separator 0.331076860428
+csegi SNARC color arabic DC 0 up 1 num_separator 0.335118055344
+csegi SNARC color arabic DC 0 down 4 lctrl 0.39474606514
+csegi SNARC color arabic DC 0 down 9 lctrl 0.290667057037
+csegi SNARC color arabic DC 0 down 3 lctrl 0.275269031525
+csegi SNARC color arabic DC 0 up 3 num_separator 0.346770048141
+csegi SNARC color arabic DC 0 up 9 num_separator 0.275297880173
+csegi SNARC color arabic DC 0 up 9 num_separator 0.284059047699
+csegi SNARC color arabic DC 0 down 6 lctrl 0.354256868362
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'03_23_1523', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'csegi', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+csegi SNARC color dot CD 0 down 25 num_separator 1.09410595894
+csegi SNARC color dot CD 0 down 20 num_separator 0.353099107742
+csegi SNARC color dot CD 0 up 5 lctrl 0.469377040863
+csegi SNARC color dot CD 0 up 35 lctrl 0.503637075424
+csegi SNARC color dot CD 0 down 15 num_separator 0.750217199326
+csegi SNARC color dot CD 0 down 10 num_separator 0.361462831497
+csegi SNARC color dot CD 0 down 25 num_separator 0.382318973541
+csegi SNARC color dot CD 0 down 20 num_separator 0.336735010147
+csegi SNARC color dot CD 0 up 20 lctrl 0.57829117775
+csegi SNARC color dot CD 0 up 15 lctrl 0.3504550457
+csegi SNARC color dot CD 0 down 40 num_separator 0.441984891891
+csegi SNARC color dot CD 0 up 10 lctrl 0.602344036102
+csegi SNARC color dot CD 0 down 25 num_separator 0.581140995026
+csegi SNARC color dot CD 0 up 20 lctrl 0.602538108826
+csegi SNARC color dot CD 0 down 40 num_separator 0.60159611702
+csegi SNARC color dot CD 0 up 20 lctrl 0.482149839401
+csegi SNARC color dot CD 0 down 25 num_separator 0.692701101303
+csegi SNARC color dot CD 0 down 45 num_separator 0.63969707489
+csegi SNARC color dot CD 0 down 25 num_separator 0.390573978424
+csegi SNARC color dot CD 0 down 40 num_separator 0.441911935806
+csegi SNARC color dot CD 0 down 45 num_separator 0.287250995636
+csegi SNARC color dot CD 0 up 40 lctrl 0.410789966583
+csegi SNARC color dot CD 0 up 45 lctrl 0.319141149521
+csegi SNARC color dot CD 0 down 45 num_separator 0.398644924164
+csegi SNARC color dot CD 0 down 30 num_separator 0.329910993576
+csegi SNARC color dot CD 0 up 10 lctrl 0.537558078766
+csegi SNARC color dot CD 0 up 30 lctrl 0.474809885025
+csegi SNARC color dot CD 0 down 35 num_separator 0.694797992706
+csegi SNARC color dot CD 0 down 5 num_separator 0.444135904312
+csegi SNARC color dot CD 0 up 5 lctrl 0.517174005508
+csegi SNARC color dot CD 0 up 40 lctrl 0.569042921066
+csegi SNARC color dot CD 0 down 35 num_separator 0.485435009003
+csegi SNARC color dot CD 0 down 10 num_separator 0.362186908722
+csegi SNARC color dot CD 0 up 30 lctrl 0.545710086823
+csegi SNARC color dot CD 0 down 35 num_separator 1.11817193031
+csegi SNARC color dot CD 0 up 25 lctrl 0.502712965012
+csegi SNARC color dot CD 0 up 5 lctrl 1.22964596748
+csegi SNARC color dot CD 0 down 30 num_separator 0.361573934555
+csegi SNARC color dot CD 0 down 20 num_separator 0.305759906769
+csegi SNARC color dot CD 0 down 35 num_separator 0.407056093216
+csegi SNARC color dot CD 0 up 5 lctrl 0.42073392868
+csegi SNARC color dot CD 0 up 20 lctrl 0.304734945297
+csegi SNARC color dot CD 0 up 20 lctrl 0.297317028046
+csegi SNARC color dot CD 0 down 5 num_separator 0.3649559021
+csegi SNARC color dot CD 0 up 10 lctrl 0.617295980453
+csegi SNARC color dot CD 0 up 35 lctrl 0.382609128952
+csegi SNARC color dot CD 0 down 5 num_separator 0.500329971313
+csegi SNARC color dot CD 0 up 15 lctrl 0.398098945618
+csegi SNARC color dot CD 0 up 15 lctrl 0.357589960098
+csegi SNARC color dot CD 0 up 30 lctrl 0.3230240345
+csegi SNARC color dot CD 0 down 20 num_separator 0.450192928314
+csegi SNARC color dot CD 0 up 10 lctrl 0.825371026993
+csegi SNARC color dot CD 0 up 30 lctrl 0.306363105774
+csegi SNARC color dot CD 0 down 15 num_separator 0.525185108185
+csegi SNARC color dot CD 0 down 20 num_separator 0.353403091431
+csegi SNARC color dot CD 0 up 45 lctrl 0.550430059433
+csegi SNARC color dot CD 0 up 20 lctrl 0.5862429142
+csegi SNARC color dot CD 0 down 5 num_separator 0.50026679039
+csegi SNARC color dot CD 0 down 30 num_separator 1.33860087395
+csegi SNARC color dot CD 0 up 35 lctrl 0.374938011169
+csegi SNARC color dot CD 0 down 15 num_separator 0.389639139175
+csegi SNARC color dot CD 0 down 40 num_separator 2.14674806595
+csegi SNARC color dot CD 0 down 10 num_separator 0.369777917862
+csegi SNARC color dot CD 0 down 30 num_separator 0.378041982651
+csegi SNARC color dot CD 0 down 35 num_separator 0.3021068573
+csegi SNARC color dot CD 0 up 40 lctrl 0.386792898178
+csegi SNARC color dot CD 0 up 15 lctrl 0.414182901382
+csegi SNARC color dot CD 0 down 5 num_separator 0.381591796875
+csegi SNARC color dot CD 0 up 20 lctrl 0.410836935043
+csegi SNARC color dot CD 0 up 15 lctrl 0.388792037964
+csegi SNARC color dot CD 0 up 25 lctrl 0.32571387291
+csegi SNARC color dot CD 0 down 45 num_separator 0.399085044861
+csegi SNARC color dot CD 0 up 40 lctrl 0.666376113892
+csegi SNARC color dot CD 0 down 30 num_separator 1.29746294022
+csegi SNARC color dot CD 0 up 25 lctrl 0.350168943405
+csegi SNARC color dot CD 0 down 30 num_separator 0.42568898201
+csegi SNARC color dot CD 0 up 20 lctrl 0.394762039185
+csegi SNARC color dot CD 0 up 10 lctrl 0.370313882828
+csegi SNARC color dot CD 0 up 25 lctrl 0.293477058411
+csegi SNARC color dot CD 0 down 35 num_separator 0.389314889908
+csegi SNARC color dot CD 0 up 15 lctrl 0.630835056305
+csegi SNARC color dot CD 0 down 10 num_separator 0.736411809921
+csegi SNARC color dot CD 0 up 25 lctrl 0.526457071304
+csegi SNARC color dot CD 0 up 15 lctrl 0.30029797554
+csegi SNARC color dot CD 0 up 20 lctrl 0.297654867172
+csegi SNARC color dot CD 0 up 35 lctrl 0.278661966324
+csegi SNARC color dot CD 0 down 35 num_separator 0.405524969101
+csegi SNARC color dot CD 0 down 35 num_separator 0.414164066315
+csegi SNARC color dot CD 0 down 40 num_separator 0.339307069778
+csegi SNARC color dot CD 0 down 40 num_separator 0.306327104568
+csegi SNARC color dot CD 0 down 45 num_separator 0.350311994553
+csegi SNARC color dot CD 0 down 15 num_separator 0.31751203537
+csegi SNARC color dot CD 0 down 10 num_separator 0.320878982544
+csegi SNARC color dot CD 0 up 15 lctrl 0.358207941055
+csegi SNARC color dot CD 0 up 20 lctrl 0.282004833221
+csegi SNARC color dot CD 0 down 25 lctrl 0.245275020599
+csegi SNARC color dot CD 0 up 10 lctrl 2.49516797066
+csegi SNARC color dot CD 0 down 45 num_separator 0.524543046951
+csegi SNARC color dot CD 0 down 5 num_separator 0.397381782532
+csegi SNARC color dot CD 0 up 40 lctrl 0.362580060959
+csegi SNARC color dot CD 0 up 20 lctrl 0.425714015961
+csegi SNARC color dot CD 0 up 25 lctrl 0.317748785019
+csegi SNARC color dot CD 0 down 40 num_separator 1.13098096848
+csegi SNARC color dot CD 0 down 20 num_separator 0.329725027084
+csegi SNARC color dot CD 0 down 40 num_separator 1.35426282883
+csegi SNARC color dot CD 0 up 10 lctrl 0.394371986389
+csegi SNARC color dot CD 0 down 15 num_separator 0.413605928421
+csegi SNARC color dot CD 0 down 35 num_separator 1.9428730011
+csegi SNARC color dot CD 0 down 45 num_separator 0.350974082947
+csegi SNARC color dot CD 0 up 10 lctrl 0.378293037415
+csegi SNARC color dot CD 0 up 20 lctrl 0.297913074493
+csegi SNARC color dot CD 0 down 45 num_separator 0.806627035141
+csegi SNARC color dot CD 0 up 40 lctrl 0.585993051529
+csegi SNARC color dot CD 0 up 25 lctrl 0.31027007103
+csegi SNARC color dot CD 0 up 20 lctrl 0.321969985962
+csegi SNARC color dot CD 0 down 5 num_separator 0.437633991241
+csegi SNARC color dot CD 0 down 5 num_separator 0.332935094833
+csegi SNARC color dot CD 0 down 40 num_separator 0.329404830933
+csegi SNARC color dot CD 0 down 15 num_separator 0.325164079666
+csegi SNARC color dot CD 0 up 30 lctrl 0.36271905899
+csegi SNARC color dot CD 0 down 35 num_separator 0.380904912949
+csegi SNARC color dot CD 0 up 35 lctrl 0.319085121155
+csegi SNARC color dot CD 0 up 40 lctrl 0.314491987228
+csegi SNARC color dot CD 0 down 25 num_separator 0.510591983795
+csegi SNARC color dot CD 0 down 35 num_separator 0.318020105362
+csegi SNARC color dot CD 0 down 45 num_separator 0.406481027603
+csegi SNARC color dot CD 0 down 25 num_separator 0.35816192627
+csegi SNARC color dot CD 0 up 25 lctrl 0.29426407814
+csegi SNARC color dot CD 0 down 10 num_separator 0.4408659935
+csegi SNARC color dot CD 0 up 45 lctrl 0.35897397995
+csegi SNARC color dot CD 0 down 10 num_separator 0.361285924911
+csegi SNARC color dot CD 0 down 40 num_separator 1.1706829071
+csegi SNARC color dot CD 0 up 45 lctrl 0.358377933502
+csegi SNARC color dot CD 0 down 20 num_separator 0.376538038254
+csegi SNARC color dot CD 0 down 10 num_separator 0.385687112808
+csegi SNARC color dot CD 0 up 10 lctrl 0.498413085938
+csegi SNARC color dot CD 0 up 15 lctrl 0.372339010239
+csegi SNARC color dot CD 0 up 35 lctrl 0.318968057632
+csegi SNARC color dot CD 0 down 5 num_separator 0.396831035614
+csegi SNARC color dot CD 0 down 15 num_separator 0.32524895668
+csegi SNARC color dot CD 0 up 35 lctrl 0.414495944977
+csegi SNARC color dot CD 0 up 30 lctrl 0.307859897614
+csegi SNARC color dot CD 0 down 45 num_separator 0.350842952728
+csegi SNARC color dot CD 0 up 5 lctrl 0.365904808044
+csegi SNARC color dot CD 0 down 5 num_separator 0.89417386055
+csegi SNARC color dot CD 0 up 5 lctrl 0.357270956039
+csegi SNARC color dot CD 0 up 45 lctrl 0.408827066422
+csegi SNARC color dot CD 0 down 40 num_separator 0.406649112701
+csegi SNARC color dot CD 0 down 30 num_separator 0.417544841766
+csegi SNARC color dot CD 0 down 10 num_separator 0.529428958893
+csegi SNARC color dot CD 0 down 30 num_separator 0.354120016098
+csegi SNARC color dot CD 0 up 35 lctrl 0.477604866028
+csegi SNARC color dot CD 0 down 45 num_separator 0.43195605278
+csegi SNARC color dot CD 0 down 35 num_separator 0.525928974152
+csegi SNARC color dot CD 0 down 35 num_separator 0.349906921387
+csegi SNARC color dot CD 0 down 30 num_separator 0.361472129822
+csegi SNARC color dot CD 0 down 20 num_separator 0.346009016037
+csegi SNARC color dot CD 0 up 20 lctrl 0.372068881989
+csegi SNARC color dot CD 0 up 30 lctrl 0.241662025452
+csegi SNARC color dot CD 0 up 45 lctrl 0.303223848343
+csegi SNARC color dot CD 0 down 15 num_separator 0.413305997849
+csegi SNARC color dot CD 0 up 25 lctrl 0.373612880707
+csegi SNARC color dot CD 0 down 35 num_separator 0.431041955948
+csegi SNARC color dot CD 0 down 15 num_separator 0.413708209991
+csegi SNARC color dot CD 0 down 10 num_separator 0.304249048233
+csegi SNARC color dot CD 0 down 45 num_separator 0.317693948746
+csegi SNARC color dot CD 0 down 15 num_separator 0.318211078644
+csegi SNARC color dot CD 0 down 5 num_separator 0.3094830513
+csegi SNARC color dot CD 0 up 25 lctrl 0.38933801651
+csegi SNARC color dot CD 0 down 5 num_separator 0.38916683197
+csegi SNARC color dot CD 0 up 20 lctrl 0.321667909622
+csegi SNARC color dot CD 0 up 20 lctrl 0.297589063644
+csegi SNARC color dot CD 0 down 30 num_separator 0.393129110336
+csegi SNARC color dot CD 0 down 5 num_separator 0.365427017212
+csegi SNARC color dot CD 0 up 5 lctrl 0.349812984467
+csegi SNARC color dot CD 0 up 30 lctrl 0.330700159073
+csegi SNARC color dot CD 0 down 45 num_separator 0.374607801437
+csegi SNARC color dot CD 0 up 5 lctrl 0.437477111816
+csegi SNARC color dot CD 0 up 5 lctrl 0.341734170914
+csegi SNARC color dot CD 0 down 45 num_separator 0.421201229095
+csegi SNARC color dot CD 0 down 35 num_separator 0.302851915359
+csegi SNARC color dot CD 0 up 45 lctrl 0.342684984207
+csegi SNARC color dot CD 0 up 40 lctrl 0.291464805603
+csegi SNARC color dot CD 0 down 45 num_separator 0.398487091064
+csegi SNARC color dot CD 0 down 35 num_separator 0.286166191101
+csegi SNARC color dot CD 0 down 30 num_separator 0.32173705101
+csegi SNARC color dot CD 0 up 15 lctrl 0.421778202057
+csegi SNARC color dot CD 0 down 20 num_separator 0.376394987106
+csegi SNARC color dot CD 0 down 20 num_separator 0.370674848557
+csegi SNARC color dot CD 0 down 30 num_separator 0.329280853271
+csegi SNARC color dot CD 0 down 45 num_separator 0.294173955917
+csegi SNARC color dot CD 0 up 30 lctrl 0.362154006958
+csegi SNARC color dot CD 0 down 40 num_separator 0.442654132843
+csegi SNARC color dot CD 0 up 25 lctrl 0.303135871887
+csegi SNARC color dot CD 0 up 5 lctrl 0.612738847733
+csegi SNARC color dot CD 0 up 20 lctrl 0.337435007095
+csegi SNARC color dot CD 0 up 10 lctrl 0.312888145447
+csegi SNARC color dot CD 0 down 40 num_separator 0.353814840317
+csegi SNARC color dot CD 0 down 25 num_separator 0.278087854385
+csegi SNARC color dot CD 0 down 5 num_separator 0.341516017914
+csegi SNARC color dot CD 0 down 10 num_separator 0.313188076019
+csegi SNARC color dot CD 0 down 5 num_separator 0.332608938217
+csegi SNARC color dot CD 0 down 25 num_separator 0.34161400795
+csegi SNARC color dot CD 0 down 45 num_separator 0.285396099091
+csegi SNARC color dot CD 0 down 5 num_separator 0.373699188232
+csegi SNARC color dot CD 0 down 10 num_separator 0.36977314949
+csegi SNARC color dot CD 0 up 35 lctrl 0.358242988586
+csegi SNARC color dot CD 0 up 35 lctrl 0.270951986313
+csegi SNARC color dot CD 0 up 45 lctrl 0.262423038483
+csegi SNARC color dot CD 0 up 30 lctrl 0.322783946991
+csegi SNARC color dot CD 0 down 30 num_separator 0.43362903595
+csegi SNARC color dot CD 0 up 15 lctrl 0.365731954575
+csegi SNARC color dot CD 0 up 25 lctrl 0.348906040192
+csegi SNARC color dot CD 0 down 10 num_separator 0.43460392952
+csegi SNARC color dot CD 0 down 30 num_separator 0.345800876617
+csegi SNARC color dot CD 0 up 35 lctrl 0.358443021774
+csegi SNARC color dot CD 0 down 30 num_separator 0.417579889297
+csegi SNARC color dot CD 0 down 20 num_separator 0.489143133163
+csegi SNARC color dot CD 0 down 30 num_separator 0.378328800201
+csegi SNARC color dot CD 0 up 25 lctrl 0.470571041107
+csegi SNARC color dot CD 0 down 20 num_separator 0.394022941589
+csegi SNARC color dot CD 0 down 10 num_separator 0.344701051712
+csegi SNARC color dot CD 0 up 25 lctrl 0.357361078262
+csegi SNARC color dot CD 0 up 40 lctrl 0.298447847366
+csegi SNARC color dot CD 0 down 15 num_separator 0.468951940536
+csegi SNARC color dot CD 0 down 40 num_separator 0.418654203415
+csegi SNARC color dot CD 0 down 25 num_separator 0.349838018417
+csegi SNARC color dot CD 0 down 35 num_separator 0.367280006409
+csegi SNARC color dot CD 0 down 5 num_separator 0.365385055542
+csegi SNARC color dot CD 0 down 40 num_separator 0.311947107315
+csegi SNARC color dot CD 0 up 15 lctrl 0.526288032532
+csegi SNARC color dot CD 0 up 5 lctrl 0.373784065247
+csegi SNARC color dot CD 0 down 25 num_separator 0.475840091705
+csegi SNARC color dot CD 0 down 20 num_separator 0.290162086487
+csegi SNARC color dot CD 0 down 15 num_separator 0.333117008209
+csegi SNARC color dot CD 0 up 5 lctrl 0.414018154144
+csegi SNARC color dot CD 0 down 15 num_separator 0.364630937576
+csegi SNARC color dot CD 0 down 35 num_separator 0.32635807991
+csegi SNARC color dot CD 0 down 45 num_separator 0.263413906097
+csegi SNARC color dot CD 0 down 45 num_separator 0.350131988525
+csegi SNARC color dot CD 0 up 20 lctrl 0.378308057785
+csegi SNARC color dot CD 0 down 30 num_separator 0.355268001556
+csegi SNARC color dot CD 0 up 10 lctrl 0.40833902359
+csegi SNARC color dot CD 0 down 40 num_separator 0.378430128098
+csegi SNARC color dot CD 0 down 10 num_separator 0.392373800278
+csegi SNARC color dot CD 0 up 35 lctrl 0.349859952927
+csegi SNARC color dot CD 0 up 10 lctrl 0.304993867874
+csegi SNARC color dot CD 0 down 35 num_separator 0.405372142792
+csegi SNARC color dot CD 0 down 30 num_separator 0.322192192078
+csegi SNARC color dot CD 0 up 15 lctrl 0.389642000198
+csegi SNARC color dot CD 0 down 40 num_separator 0.385807037354
+csegi SNARC color dot CD 0 up 25 lctrl 0.333940029144
+csegi SNARC color dot CD 0 down 40 num_separator 0.362785100937
+csegi SNARC color dot CD 0 down 10 num_separator 0.369115114212
+csegi SNARC color dot CD 0 down 40 num_separator 0.36973118782
+csegi SNARC color dot CD 0 down 45 num_separator 0.415418863297
+csegi SNARC color dot CD 0 down 40 num_separator 0.345927000046
+csegi SNARC color dot CD 0 down 5 num_separator 0.420631170273
+csegi SNARC color dot CD 0 up 40 num_separator 0.355333089828
+csegi SNARC color dot CD 0 down 15 num_separator 1.0286591053
+csegi SNARC color dot CD 0 down 40 num_separator 0.466202974319
+csegi SNARC color dot CD 0 down 20 num_separator 0.305521011353
+csegi SNARC color dot CD 0 down 25 num_separator 0.310167074203
+csegi SNARC color dot CD 0 down 20 num_separator 0.314743041992
+csegi SNARC color dot CD 0 down 35 num_separator 0.366031885147
+csegi SNARC color dot CD 0 down 25 num_separator 0.341925859451
+csegi SNARC color dot CD 0 up 40 lctrl 0.330505847931
+csegi SNARC color dot CD 0 down 25 num_separator 0.74244093895
+csegi SNARC color dot CD 0 up 30 lctrl 0.450716972351
+csegi SNARC color dot CD 0 up 25 lctrl 0.438418865204
+csegi SNARC color dot CD 0 down 40 num_separator 0.480979919434
+csegi SNARC color dot CD 0 down 20 num_separator 0.416906118393
+csegi SNARC color dot CD 0 up 35 lctrl 0.421115159988
+csegi SNARC color dot CD 0 up 15 lctrl 0.334282875061
+csegi SNARC color dot CD 0 up 10 lctrl 0.386185884476
+csegi SNARC color dot CD 0 down 45 num_separator 0.47870182991
+csegi SNARC color dot CD 0 up 45 lctrl 0.423007965088
+csegi SNARC color dot CD 0 up 10 lctrl 0.809875011444
+csegi SNARC color dot CD 0 up 10 lctrl 0.361620187759
+csegi SNARC color dot CD 0 down 15 num_separator 0.389497995377
+csegi SNARC color dot CD 0 up 10 lctrl 0.433297872543
+csegi SNARC color dot CD 0 up 20 lctrl 0.433633089066
+csegi SNARC color dot CD 0 down 30 num_separator 0.521458864212
+csegi SNARC color dot CD 0 down 10 num_separator 1.45717000961
+csegi SNARC color dot CD 0 up 15 lctrl 0.629635095596
+csegi SNARC color dot CD 0 up 5 lctrl 0.397931098938
+csegi SNARC color dot CD 0 up 10 lctrl 0.35252904892
+csegi SNARC color dot CD 0 down 30 num_separator 0.586443901062
+csegi SNARC color dot CD 0 up 5 lctrl 0.397253990173
+csegi SNARC color dot CD 0 up 40 lctrl 0.418318033218
+csegi SNARC color dot CD 0 down 5 num_separator 0.467320919037
+csegi SNARC color dot CD 0 up 40 lctrl 1.29866695404
+csegi SNARC color dot CD 0 up 25 lctrl 0.374536037445
+csegi SNARC color dot CD 0 down 45 num_separator 0.432471990585
+csegi SNARC color dot CD 0 up 25 lctrl 0.414298772812
+csegi SNARC color dot CD 0 up 5 lctrl 0.42843580246
+csegi SNARC color dot CD 0 up 20 lctrl 0.353200912476
+csegi SNARC color dot CD 0 up 25 lctrl 0.365943193436
+csegi SNARC color dot CD 0 up 45 lctrl 0.327081918716
+csegi SNARC color dot CD 0 down 40 num_separator 0.354661941528
+csegi SNARC color dot CD 0 up 5 lctrl 0.453248977661
+csegi SNARC color dot CD 0 down 5 num_separator 0.525047063828
+csegi SNARC color dot CD 0 down 15 num_separator 0.797932863235
+csegi SNARC color dot CD 0 down 30 num_separator 0.362046003342
+csegi SNARC color dot CD 0 down 15 num_separator 0.413147926331
+csegi SNARC color dot CD 0 up 20 lctrl 0.402579069138
+csegi SNARC color dot CD 0 up 15 lctrl 0.301943063736
+csegi SNARC color dot CD 0 up 10 lctrl 0.32945895195
+csegi SNARC color dot CD 0 down 15 num_separator 0.412899017334
+csegi SNARC color dot CD 0 up 45 lctrl 0.510340929031
+csegi SNARC color dot CD 0 up 40 lctrl 0.435076951981
+csegi SNARC color dot CD 0 down 35 num_separator 0.741542100906
+csegi SNARC color dot CD 0 down 30 num_separator 0.290812969208
+csegi SNARC color dot CD 0 down 25 num_separator 0.317749023438
+csegi SNARC color dot CD 0 down 15 num_separator 0.422282934189
+csegi SNARC color dot CD 0 up 10 lctrl 0.306724071503
+csegi SNARC color dot CD 0 up 25 lctrl 0.285696983337
+csegi SNARC color dot CD 0 up 10 lctrl 0.313673019409
+csegi SNARC color dot CD 0 up 30 lctrl 0.305860042572
+csegi SNARC color dot CD 0 up 30 lctrl 0.322805166245
+csegi SNARC color dot CD 0 up 30 lctrl 0.378583908081
+csegi SNARC color dot CD 0 down 35 num_separator 1.62169289589
+csegi SNARC color dot CD 0 up 45 lctrl 0.494975805283
+csegi SNARC color dot CD 0 up 35 lctrl 0.414994955063
+csegi SNARC color dot CD 0 up 35 lctrl 0.319539070129
+csegi SNARC color dot CD 0 up 40 lctrl 0.339091062546
+csegi SNARC color dot CD 0 up 5 lctrl 0.452851057053
+csegi SNARC color dot CD 0 down 35 num_separator 0.878424882889
+csegi SNARC color dot CD 0 up 25 lctrl 0.41465306282
+csegi SNARC color dot CD 0 up 20 lctrl 1.00939702988
+csegi SNARC color dot CD 0 down 45 num_separator 0.446076869965
+csegi SNARC color dot CD 0 down 20 num_separator 0.345272064209
+csegi SNARC color dot CD 0 down 45 num_separator 0.333982944489
+csegi SNARC color dot CD 0 up 5 lctrl 0.629813909531
+csegi SNARC color dot CD 0 down 20 num_separator 0.456521034241
+csegi SNARC color dot CD 0 down 30 num_separator 0.353872060776
+csegi SNARC color dot CD 0 down 5 num_separator 0.445145130157
+csegi SNARC color dot CD 0 up 5 lctrl 0.573461055756
+csegi SNARC color dot CD 0 up 45 lctrl 0.671267032623
+csegi SNARC color dot CD 0 up 35 lctrl 0.365874052048
+csegi SNARC color dot CD 0 down 30 num_separator 0.553573131561
+csegi SNARC color dot CD 0 down 15 num_separator 0.341299057007
+csegi SNARC color dot CD 0 up 15 lctrl 0.414133071899
+csegi SNARC color dot CD 0 up 40 lctrl 0.410746097565
+csegi SNARC color dot CD 0 down 10 num_separator 0.468984127045
+csegi SNARC color dot CD 0 up 25 lctrl 0.414665937424
+csegi SNARC color dot CD 0 up 30 lctrl 0.361839056015
+csegi SNARC color dot CD 0 down 45 num_separator 0.445934057236
+csegi SNARC color dot CD 0 down 15 num_separator 0.316538095474
+csegi SNARC color dot CD 0 down 15 num_separator 0.381512880325
+csegi SNARC color dot CD 0 down 45 num_separator 0.574326038361
+csegi SNARC color dot CD 0 down 10 num_separator 0.378196001053
+csegi SNARC color dot CD 0 down 30 num_separator 0.409213066101
+csegi SNARC color dot CD 0 down 25 num_separator 0.342221021652
+csegi SNARC color dot CD 0 down 10 num_separator 0.401530981064
+csegi SNARC color dot CD 0 down 25 num_separator 0.358135938644
+csegi SNARC color dot CD 0 up 40 lctrl 0.467261075974
+csegi SNARC color dot CD 0 up 45 lctrl 0.295592069626
+csegi SNARC color dot CD 0 down 35 num_separator 0.422070980072
+csegi SNARC color dot CD 0 down 15 num_separator 1.12596511841
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'03_23_1532', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'csegi', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+csegi SNARC color arabic CD 0 down 6 num_separator 0.778594970703
+csegi SNARC color arabic CD 0 down 2 num_separator 0.3622610569
+csegi SNARC color arabic CD 0 down 9 num_separator 0.306354045868
+csegi SNARC color arabic CD 0 down 3 num_separator 0.305588960648
+csegi SNARC color arabic CD 0 up 8 lctrl 0.394434928894
+csegi SNARC color arabic CD 0 down 1 num_separator 0.433934926987
+csegi SNARC color arabic CD 0 up 2 lctrl 0.371216058731
+csegi SNARC color arabic CD 0 up 4 lctrl 0.34627699852
+csegi SNARC color arabic CD 0 down 4 num_separator 0.402230978012
+csegi SNARC color arabic CD 0 down 9 num_separator 0.331275939941
+csegi SNARC color arabic CD 0 up 5 lctrl 0.442179918289
+csegi SNARC color arabic CD 0 up 1 lctrl 0.361827850342
+csegi SNARC color arabic CD 0 down 8 num_separator 0.33841085434
+csegi SNARC color arabic CD 0 down 5 num_separator 0.321833848953
+csegi SNARC color arabic CD 0 down 9 num_separator 0.403027057648
+csegi SNARC color arabic CD 0 down 4 num_separator 0.305973052979
+csegi SNARC color arabic CD 0 down 6 num_separator 0.306610107422
+csegi SNARC color arabic CD 0 down 9 num_separator 0.371780872345
+csegi SNARC color arabic CD 0 down 5 num_separator 0.378381967545
+csegi SNARC color arabic CD 0 down 5 num_separator 0.275000095367
+csegi SNARC color arabic CD 0 up 8 lctrl 0.355032920837
+csegi SNARC color arabic CD 0 up 3 lctrl 0.306795120239
+csegi SNARC color arabic CD 0 down 9 num_separator 0.610808849335
+csegi SNARC color arabic CD 0 down 1 num_separator 2.44319391251
+csegi SNARC color arabic CD 0 down 8 num_separator 0.315276861191
+csegi SNARC color arabic CD 0 up 7 lctrl 0.393914222717
+csegi SNARC color arabic CD 0 up 9 lctrl 0.410758018494
+csegi SNARC color arabic CD 0 down 4 lctrl 0.355126142502
+csegi SNARC color arabic CD 0 up 3 lctrl 1.23668408394
+csegi SNARC color arabic CD 0 down 9 num_separator 2.49026107788
+csegi SNARC color arabic CD 0 down 1 num_separator 0.44310092926
+csegi SNARC color arabic CD 0 down 3 num_separator 0.394725799561
+csegi SNARC color arabic CD 0 up 2 lctrl 0.587548017502
+csegi SNARC color arabic CD 0 up 8 lctrl 0.403272867203
+csegi SNARC color arabic CD 0 down 4 num_separator 0.522181034088
+csegi SNARC color arabic CD 0 up 4 lctrl 0.459357976913
+csegi SNARC color arabic CD 0 up 5 lctrl 0.531092882156
+csegi SNARC color arabic CD 0 up 6 lctrl 0.313994884491
+csegi SNARC color arabic CD 0 down 5 num_separator 0.994049072266
+csegi SNARC color arabic CD 0 down 8 num_separator 0.387392997742
+csegi SNARC color arabic CD 0 down 6 num_separator 0.355205059052
+csegi SNARC color arabic CD 0 down 9 num_separator 0.363119840622
+csegi SNARC color arabic CD 0 up 1 lctrl 0.579353094101
+csegi SNARC color arabic CD 0 up 3 lctrl 0.426085948944
+csegi SNARC color arabic CD 0 up 1 lctrl 0.394342899323
+csegi SNARC color arabic CD 0 up 9 lctrl 0.354635953903
+csegi SNARC color arabic CD 0 up 1 lctrl 0.346477985382
+csegi SNARC color arabic CD 0 down 8 num_separator 0.70564198494
+csegi SNARC color arabic CD 0 down 3 num_separator 0.354960203171
+csegi SNARC color arabic CD 0 up 9 lctrl 0.594306945801
+csegi SNARC color arabic CD 0 down 3 num_separator 0.498401880264
+csegi SNARC color arabic CD 0 up 8 lctrl 0.691494941711
+csegi SNARC color arabic CD 0 down 1 num_separator 0.585906982422
+csegi SNARC color arabic CD 0 up 7 lctrl 0.507184028625
+csegi SNARC color arabic CD 0 up 3 lctrl 0.377737045288
+csegi SNARC color arabic CD 0 up 7 lctrl 0.299144983292
+csegi SNARC color arabic CD 0 up 4 lctrl 0.306617021561
+csegi SNARC color arabic CD 0 up 1 lctrl 0.331315994263
+csegi SNARC color arabic CD 0 down 3 num_separator 0.410326004028
+csegi SNARC color arabic CD 0 up 6 lctrl 0.395430088043
+csegi SNARC color arabic CD 0 down 2 num_separator 0.386023044586
+csegi SNARC color arabic CD 0 down 5 num_separator 0.306967973709
+csegi SNARC color arabic CD 0 down 6 num_separator 0.290407896042
+csegi SNARC color arabic CD 0 up 3 lctrl 0.435623884201
+csegi SNARC color arabic CD 0 down 9 num_separator 0.402062892914
+csegi SNARC color arabic CD 0 up 6 lctrl 0.73063492775
+csegi SNARC color arabic CD 0 down 5 num_separator 0.634501934052
+csegi SNARC color arabic CD 0 up 5 lctrl 0.682493925095
+csegi SNARC color arabic CD 0 up 1 lctrl 0.45118188858
+csegi SNARC color arabic CD 0 up 2 lctrl 0.411268949509
+csegi SNARC color arabic CD 0 down 4 num_separator 0.561814785004
+csegi SNARC color arabic CD 0 up 2 lctrl 0.627080917358
+csegi SNARC color arabic CD 0 up 3 lctrl 0.459107875824
+csegi SNARC color arabic CD 0 down 4 num_separator 0.498211145401
+csegi SNARC color arabic CD 0 up 4 lctrl 0.762362003326
+csegi SNARC color arabic CD 0 up 7 lctrl 0.355148077011
+csegi SNARC color arabic CD 0 down 9 num_separator 0.46541595459
+csegi SNARC color arabic CD 0 up 9 lctrl 0.531894922256
+csegi SNARC color arabic CD 0 up 9 lctrl 0.322114944458
+csegi SNARC color arabic CD 0 down 7 num_separator 0.482590913773
+csegi SNARC color arabic CD 0 up 7 lctrl 0.563390016556
+csegi SNARC color arabic CD 0 up 5 lctrl 0.370896100998
+csegi SNARC color arabic CD 0 down 2 num_separator 0.41715502739
+csegi SNARC color arabic CD 0 up 9 lctrl 0.355304002762
+csegi SNARC color arabic CD 0 up 8 lctrl 0.34659409523
+csegi SNARC color arabic CD 0 up 6 lctrl 0.362773180008
+csegi SNARC color arabic CD 0 down 3 num_separator 0.34589600563
+csegi SNARC color arabic CD 0 down 7 num_separator 0.322546005249
+csegi SNARC color arabic CD 0 down 2 num_separator 0.338227987289
+csegi SNARC color arabic CD 0 down 2 num_separator 0.3635160923
+csegi SNARC color arabic CD 0 down 4 num_separator 0.321632862091
+csegi SNARC color arabic CD 0 up 8 lctrl 0.362550020218
+csegi SNARC color arabic CD 0 down 2 num_separator 0.386501073837
+csegi SNARC color arabic CD 0 up 3 lctrl 0.331204175949
+csegi SNARC color arabic CD 0 down 2 num_separator 0.594403982162
+csegi SNARC color arabic CD 0 up 3 lctrl 0.746987104416
+csegi SNARC color arabic CD 0 up 4 lctrl 0.346232175827
+csegi SNARC color arabic CD 0 down 8 num_separator 0.394145965576
+csegi SNARC color arabic CD 0 up 8 lctrl 0.79548406601
+csegi SNARC color arabic CD 0 down 7 num_separator 0.442775964737
+csegi SNARC color arabic CD 0 down 6 num_separator 0.513797044754
+csegi SNARC color arabic CD 0 up 2 lctrl 0.418968915939
+csegi SNARC color arabic CD 0 down 1 num_separator 0.642645835876
+csegi SNARC color arabic CD 0 down 2 num_separator 0.60297203064
+csegi SNARC color arabic CD 0 down 5 num_separator 0.522588968277
+csegi SNARC color arabic CD 0 up 8 lctrl 0.418334960938
+csegi SNARC color arabic CD 0 up 9 lctrl 0.58690404892
+csegi SNARC color arabic CD 0 down 2 num_separator 0.402345895767
+csegi SNARC color arabic CD 0 up 4 lctrl 0.417876005173
+csegi SNARC color arabic CD 0 down 9 num_separator 0.745452165604
+csegi SNARC color arabic CD 0 down 4 num_separator 0.386755943298
+csegi SNARC color arabic CD 0 up 6 lctrl 0.627795934677
+csegi SNARC color arabic CD 0 up 4 lctrl 0.369960069656
+csegi SNARC color arabic CD 0 up 4 lctrl 0.298877954483
+csegi SNARC color arabic CD 0 up 3 lctrl 0.34654712677
+csegi SNARC color arabic CD 0 down 5 num_separator 0.450610876083
+csegi SNARC color arabic CD 0 down 6 num_separator 0.306761026382
+csegi SNARC color arabic CD 0 down 8 num_separator 0.346714019775
+csegi SNARC color arabic CD 0 down 6 num_separator 0.369445085526
+csegi SNARC color arabic CD 0 up 3 lctrl 0.435553073883
+csegi SNARC color arabic CD 0 down 7 num_separator 0.402292013168
+csegi SNARC color arabic CD 0 down 4 num_separator 0.666133165359
+csegi SNARC color arabic CD 0 up 6 lctrl 0.403693914413
+csegi SNARC color arabic CD 0 down 9 num_separator 0.520899057388
+csegi SNARC color arabic CD 0 up 9 lctrl 1.17987704277
+csegi SNARC color arabic CD 0 down 2 num_separator 0.370528936386
+csegi SNARC color arabic CD 0 up 4 lctrl 0.450973033905
+csegi SNARC color arabic CD 0 up 2 lctrl 0.450483798981
+csegi SNARC color arabic CD 0 down 3 num_separator 0.44260597229
+csegi SNARC color arabic CD 0 up 8 lctrl 1.13048005104
+csegi SNARC color arabic CD 0 down 6 num_separator 0.898931980133
+csegi SNARC color arabic CD 0 down 7 num_separator 0.337844848633
+csegi SNARC color arabic CD 0 down 1 num_separator 0.346762895584
+csegi SNARC color arabic CD 0 up 4 lctrl 0.619041919708
+csegi SNARC color arabic CD 0 up 1 lctrl 0.402718782425
+csegi SNARC color arabic CD 0 up 9 lctrl 0.378960132599
+csegi SNARC color arabic CD 0 down 3 num_separator 0.55921292305
+csegi SNARC color arabic CD 0 down 3 num_separator 0.874696969986
+csegi SNARC color arabic CD 0 down 2 num_separator 0.354585170746
+csegi SNARC color arabic CD 0 down 5 num_separator 0.346642971039
+csegi SNARC color arabic CD 0 up 7 lctrl 0.403608083725
+csegi SNARC color arabic CD 0 up 1 lctrl 0.322279930115
+csegi SNARC color arabic CD 0 down 9 num_separator 0.402362823486
+csegi SNARC color arabic CD 0 down 5 num_separator 0.298383951187
+csegi SNARC color arabic CD 0 down 6 num_separator 0.29111289978
+csegi SNARC color arabic CD 0 up 5 lctrl 0.466719865799
+csegi SNARC color arabic CD 0 down 3 num_separator 0.37050819397
+csegi SNARC color arabic CD 0 up 7 lctrl 0.394840955734
+csegi SNARC color arabic CD 0 up 3 lctrl 0.354155063629
+csegi SNARC color arabic CD 0 down 9 num_separator 0.410714864731
+csegi SNARC color arabic CD 0 down 5 lctrl 0.372092962265
+csegi SNARC color arabic CD 0 up 3 lctrl 1.56163191795
+csegi SNARC color arabic CD 0 up 6 lctrl 0.458969116211
+csegi SNARC color arabic CD 0 up 7 lctrl 0.466794967651
+csegi SNARC color arabic CD 0 up 4 lctrl 0.433768033981
+csegi SNARC color arabic CD 0 down 7 num_separator 2.40247011185
+csegi SNARC color arabic CD 0 up 6 lctrl 0.506886005402
+csegi SNARC color arabic CD 0 up 9 lctrl 0.40286898613
+csegi SNARC color arabic CD 0 up 3 lctrl 0.314868927002
+csegi SNARC color arabic CD 0 down 5 num_separator 0.514356136322
+csegi SNARC color arabic CD 0 up 3 lctrl 0.395396947861
+csegi SNARC color arabic CD 0 up 7 lctrl 0.858229875565
+csegi SNARC color arabic CD 0 down 4 num_separator 0.410616159439
+csegi SNARC color arabic CD 0 down 2 num_separator 0.369274139404
+csegi SNARC color arabic CD 0 down 1 num_separator 0.386775016785
+csegi SNARC color arabic CD 0 up 5 lctrl 0.410618066788
+csegi SNARC color arabic CD 0 up 4 lctrl 0.418063879013
+csegi SNARC color arabic CD 0 down 5 num_separator 0.402565956116
+csegi SNARC color arabic CD 0 down 2 num_separator 0.442942857742
+csegi SNARC color arabic CD 0 down 2 num_separator 0.378703832626
+csegi SNARC color arabic CD 0 up 2 lctrl 0.379693984985
+csegi SNARC color arabic CD 0 down 1 num_separator 0.586467027664
+csegi SNARC color arabic CD 0 down 5 num_separator 0.738585948944
+csegi SNARC color arabic CD 0 up 5 lctrl 0.434694051743
+csegi SNARC color arabic CD 0 down 7 num_separator 0.450680971146
+csegi SNARC color arabic CD 0 down 2 num_separator 0.409979104996
+csegi SNARC color arabic CD 0 down 7 num_separator 0.402902841568
+csegi SNARC color arabic CD 0 down 3 num_separator 0.386292934418
+csegi SNARC color arabic CD 0 down 8 num_separator 0.371293067932
+csegi SNARC color arabic CD 0 down 6 num_separator 0.330425024033
+csegi SNARC color arabic CD 0 down 3 num_separator 0.331352949142
+csegi SNARC color arabic CD 0 down 2 num_separator 0.321775913239
+csegi SNARC color arabic CD 0 up 7 lctrl 0.554844141006
+csegi SNARC color arabic CD 0 up 5 lctrl 0.370658159256
+csegi SNARC color arabic CD 0 down 7 num_separator 0.433787107468
+csegi SNARC color arabic CD 0 down 6 num_separator 0.330002069473
+csegi SNARC color arabic CD 0 up 9 lctrl 0.490744113922
+csegi SNARC color arabic CD 0 down 2 num_separator 0.834370851517
+csegi SNARC color arabic CD 0 down 8 num_separator 0.306933879852
+csegi SNARC color arabic CD 0 down 7 num_separator 0.377243995667
+csegi SNARC color arabic CD 0 down 6 num_separator 0.314773082733
+csegi SNARC color arabic CD 0 down 9 num_separator 0.338751077652
+csegi SNARC color arabic CD 0 up 7 lctrl 0.354541778564
+csegi SNARC color arabic CD 0 down 9 num_separator 0.402284860611
+csegi SNARC color arabic CD 0 up 7 lctrl 0.37219285965
+csegi SNARC color arabic CD 0 down 8 num_separator 0.441474914551
+csegi SNARC color arabic CD 0 up 4 lctrl 0.363171815872
+csegi SNARC color arabic CD 0 up 6 lctrl 0.658648014069
+csegi SNARC color arabic CD 0 up 3 lctrl 0.322852134705
+csegi SNARC color arabic CD 0 down 9 num_separator 0.4255900383
+csegi SNARC color arabic CD 0 down 3 num_separator 0.353928089142
+csegi SNARC color arabic CD 0 up 9 lctrl 0.435381889343
+csegi SNARC color arabic CD 0 down 7 num_separator 2.10623621941
+csegi SNARC color arabic CD 0 down 1 num_separator 0.426198959351
+csegi SNARC color arabic CD 0 up 4 lctrl 0.38684296608
+csegi SNARC color arabic CD 0 down 7 num_separator 0.521595001221
+csegi SNARC color arabic CD 0 up 8 lctrl 0.386651039124
+csegi SNARC color arabic CD 0 up 8 lctrl 0.810467004776
+csegi SNARC color arabic CD 0 down 9 num_separator 0.369818925858
+csegi SNARC color arabic CD 0 up 1 lctrl 0.394752979279
+csegi SNARC color arabic CD 0 up 8 lctrl 0.410131931305
+csegi SNARC color arabic CD 0 up 3 lctrl 0.339379787445
+csegi SNARC color arabic CD 0 down 5 num_separator 0.433428049088
+csegi SNARC color arabic CD 0 down 5 num_separator 0.362008810043
+csegi SNARC color arabic CD 0 up 2 lctrl 0.403800010681
+csegi SNARC color arabic CD 0 up 2 lctrl 0.290163040161
+csegi SNARC color arabic CD 0 down 5 num_separator 0.37908577919
+csegi SNARC color arabic CD 0 up 8 lctrl 0.386672973633
+csegi SNARC color arabic CD 0 up 3 lctrl 1.30676317215
+csegi SNARC color arabic CD 0 down 5 num_separator 0.353052139282
+csegi SNARC color arabic CD 0 down 8 num_separator 0.355312824249
+csegi SNARC color arabic CD 0 down 7 num_separator 0.34657907486
+csegi SNARC color arabic CD 0 down 2 num_separator 0.362700939178
+csegi SNARC color arabic CD 0 up 6 lctrl 0.387361049652
+csegi SNARC color arabic CD 0 up 2 lctrl 1.02641606331
+csegi SNARC color arabic CD 0 up 7 lctrl 0.386801958084
+csegi SNARC color arabic CD 0 down 6 num_separator 0.432814121246
+csegi SNARC color arabic CD 0 up 7 lctrl 1.29084205627
+csegi SNARC color arabic CD 0 up 1 lctrl 0.450043201447
+csegi SNARC color arabic CD 0 down 6 num_separator 0.585931062698
+csegi SNARC color arabic CD 0 up 6 lctrl 0.442944049835
+csegi SNARC color arabic CD 0 up 7 lctrl 0.337996959686
+csegi SNARC color arabic CD 0 up 7 lctrl 0.346169948578
+csegi SNARC color arabic CD 0 down 7 num_separator 0.402436971664
+csegi SNARC color arabic CD 0 down 4 num_separator 0.298119068146
+csegi SNARC color arabic CD 0 down 5 num_separator 0.290187835693
+csegi SNARC color arabic CD 0 down 1 num_separator 0.321802139282
+csegi SNARC color arabic CD 0 down 5 num_separator 0.363013982773
+csegi SNARC color arabic CD 0 down 9 num_separator 0.377858877182
+csegi SNARC color arabic CD 0 down 8 num_separator 0.362433195114
+csegi SNARC color arabic CD 0 up 7 lctrl 0.418390035629
+csegi SNARC color arabic CD 0 down 6 num_separator 0.458378076553
+csegi SNARC color arabic CD 0 down 7 num_separator 0.354195833206
+csegi SNARC color arabic CD 0 up 5 lctrl 0.402824878693
+csegi SNARC color arabic CD 0 up 8 lctrl 0.343393087387
+csegi SNARC color arabic CD 0 down 5 num_separator 0.410382032394
+csegi SNARC color arabic CD 0 up 8 lctrl 0.579113960266
+csegi SNARC color arabic CD 0 down 3 num_separator 0.769809007645
+csegi SNARC color arabic CD 0 down 1 num_separator 0.371381044388
+csegi SNARC color arabic CD 0 down 9 num_separator 0.322937965393
+csegi SNARC color arabic CD 0 down 7 num_separator 0.315135002136
+csegi SNARC color arabic CD 0 up 2 lctrl 0.411424875259
+csegi SNARC color arabic CD 0 down 1 num_separator 0.425993919373
+csegi SNARC color arabic CD 0 up 2 lctrl 0.530700922012
+csegi SNARC color arabic CD 0 up 6 lctrl 0.345864057541
+csegi SNARC color arabic CD 0 up 9 lctrl 0.363054037094
+csegi SNARC color arabic CD 0 up 2 lctrl 0.370616197586
+csegi SNARC color arabic CD 0 up 2 lctrl 0.314482927322
+csegi SNARC color arabic CD 0 down 1 num_separator 0.42610502243
+csegi SNARC color arabic CD 0 up 4 lctrl 0.698715925217
+csegi SNARC color arabic CD 0 up 8 lctrl 0.339218854904
+csegi SNARC color arabic CD 0 up 4 lctrl 0.322826862335
+csegi SNARC color arabic CD 0 down 6 num_separator 0.418546915054
+csegi SNARC color arabic CD 0 down 8 num_separator 0.378760099411
+csegi SNARC color arabic CD 0 down 3 num_separator 0.346782922745
+csegi SNARC color arabic CD 0 up 5 lctrl 0.444478988647
+csegi SNARC color arabic CD 0 down 1 num_separator 0.609398126602
+csegi SNARC color arabic CD 0 up 6 lctrl 0.339276075363
+csegi SNARC color arabic CD 0 up 3 lctrl 0.307011842728
+csegi SNARC color arabic CD 0 down 6 num_separator 0.418143987656
+csegi SNARC color arabic CD 0 up 6 lctrl 0.476055145264
+csegi SNARC color arabic CD 0 up 1 lctrl 0.489346027374
+csegi SNARC color arabic CD 0 up 3 lctrl 0.394787073135
+csegi SNARC color arabic CD 0 down 9 num_separator 0.402568101883
+csegi SNARC color arabic CD 0 down 7 num_separator 0.291115999222
+csegi SNARC color arabic CD 0 down 7 num_separator 0.289752006531
+csegi SNARC color arabic CD 0 up 1 lctrl 0.37969994545
+csegi SNARC color arabic CD 0 up 1 lctrl 0.322402000427
+csegi SNARC color arabic CD 0 up 9 lctrl 0.323673009872
+csegi SNARC color arabic CD 0 down 6 num_separator 0.466357946396
+csegi SNARC color arabic CD 0 up 5 lctrl 0.690248966217
+csegi SNARC color arabic CD 0 down 7 num_separator 0.546537876129
+csegi SNARC color arabic CD 0 down 2 num_separator 0.611134052277
+csegi SNARC color arabic CD 0 up 8 lctrl 0.443232059479
+csegi SNARC color arabic CD 0 up 2 lctrl 0.258798122406
+csegi SNARC color arabic CD 0 down 6 num_separator 0.714041948318
+csegi SNARC color arabic CD 0 up 4 lctrl 0.474926948547
+csegi SNARC color arabic CD 0 up 8 lctrl 0.322546958923
+csegi SNARC color arabic CD 0 up 1 lctrl 0.306836128235
+csegi SNARC color arabic CD 0 up 9 lctrl 0.408885002136
+csegi SNARC color arabic CD 0 down 8 num_separator 0.457640171051
+csegi SNARC color arabic CD 0 down 6 num_separator 0.442711114883
+csegi SNARC color arabic CD 0 up 8 lctrl 0.402796030045
+csegi SNARC color arabic CD 0 up 9 lctrl 0.283082962036
+csegi SNARC color arabic CD 0 down 8 num_separator 0.410005807877
+csegi SNARC color arabic CD 0 down 2 num_separator 0.410984992981
+csegi SNARC color arabic CD 0 down 4 num_separator 0.426352024078
+csegi SNARC color arabic CD 0 down 1 num_separator 0.370704889297
+csegi SNARC color arabic CD 0 up 4 lctrl 0.394884109497
+csegi SNARC color arabic CD 0 down 9 num_separator 0.554133892059
+csegi SNARC color arabic CD 0 up 6 lctrl 0.355773925781
+csegi SNARC color arabic CD 0 down 6 num_separator 0.642674922943
+csegi SNARC color arabic CD 0 down 5 num_separator 0.4102871418
+csegi SNARC color arabic CD 0 up 4 lctrl 0.467766046524
+csegi SNARC color arabic CD 0 down 2 num_separator 0.658299207687
+csegi SNARC color arabic CD 0 up 1 lctrl 0.36324596405
+csegi SNARC color arabic CD 0 up 7 lctrl 0.891273021698
+csegi SNARC color arabic CD 0 up 5 lctrl 0.401318788528
+csegi SNARC color arabic CD 0 up 6 lctrl 0.354676961899
+csegi SNARC color arabic CD 0 down 1 num_separator 0.410887956619
+csegi SNARC color arabic CD 0 up 4 lctrl 1.26665592194
+csegi SNARC color arabic CD 0 up 5 lctrl 0.395006895065
+csegi SNARC color arabic CD 0 down 3 num_separator 0.833906888962
+csegi SNARC color arabic CD 0 down 3 num_separator 0.323548078537
+csegi SNARC color arabic CD 0 down 6 num_separator 0.329826116562
+csegi SNARC color arabic CD 0 down 7 num_separator 0.306414842606
+csegi SNARC color arabic CD 0 down 8 num_separator 0.513022899628
+csegi SNARC color arabic CD 0 up 1 lctrl 0.498834133148
+csegi SNARC color arabic CD 0 down 8 num_separator 0.730470895767
+csegi SNARC color arabic CD 0 down 1 num_separator 0.355041027069
+csegi SNARC color arabic CD 0 down 4 num_separator 0.355389118195
+csegi SNARC color arabic CD 0 down 6 num_separator 0.354403972626
+csegi SNARC color arabic CD 0 up 5 lctrl 0.499379873276
+csegi SNARC color arabic CD 0 up 9 lctrl 0.689866065979
+csegi SNARC color arabic CD 0 up 2 lctrl 0.378733158112
+csegi SNARC color arabic CD 0 up 8 lctrl 0.297540187836
+csegi SNARC color arabic CD 0 down 5 num_separator 0.434070825577
+csegi SNARC color arabic CD 0 up 3 lctrl 0.37943983078
+csegi SNARC color arabic CD 0 up 5 lctrl 0.402500152588
+csegi SNARC color arabic CD 0 up 8 lctrl 0.322974920273
+csegi SNARC color arabic CD 0 down 1 num_separator 0.410173177719
+csegi SNARC color arabic CD 0 up 5 lctrl 0.371400117874
+csegi SNARC color arabic CD 0 up 3 lctrl 0.346719026566
+csegi SNARC color arabic CD 0 up 2 lctrl 0.306494951248
+csegi SNARC color arabic CD 0 up 6 lctrl 0.409582853317
+csegi SNARC color arabic CD 0 up 8 lctrl 0.387012004852
+csegi SNARC color arabic CD 0 down 4 num_separator 0.554496049881
+csegi SNARC color arabic CD 0 up 4 lctrl 0.827615976334
+csegi SNARC color arabic CD 0 down 2 num_separator 0.362010955811
+csegi SNARC color arabic CD 0 up 9 lctrl 0.378331899643
+csegi SNARC color arabic CD 0 down 7 num_separator 0.370755195618
+csegi SNARC color arabic CD 0 up 4 lctrl 0.378510951996
+csegi SNARC color arabic CD 0 down 4 num_separator 0.363044023514
+csegi SNARC color arabic CD 0 down 4 num_separator 0.329493999481
+csegi SNARC color arabic CD 0 up 1 lctrl 0.402760028839
+csegi SNARC color arabic CD 0 down 9 num_separator 0.498628854752
+csegi SNARC color arabic CD 0 down 3 num_separator 0.338669061661
+csegi SNARC color arabic CD 0 down 2 num_separator 0.297954082489
+csegi SNARC color arabic CD 0 up 1 lctrl 0.363300085068
+csegi SNARC color arabic CD 0 up 1 lctrl 0.338476896286
+csegi SNARC color arabic CD 0 down 3 num_separator 0.402570009232
+csegi SNARC color arabic CD 0 down 1 num_separator 0.338088989258
+csegi SNARC color arabic CD 0 down 8 num_separator 0.335541963577
+csegi SNARC color arabic CD 0 up 4 lctrl 0.371350049973
+csegi SNARC color arabic CD 0 down 8 num_separator 0.482180833817
+csegi SNARC color arabic CD 0 up 5 lctrl 0.379898071289
+csegi SNARC color arabic CD 0 down 4 num_separator 0.362454891205
+csegi SNARC color arabic CD 0 up 1 lctrl 0.578616857529
+csegi SNARC color arabic CD 0 up 7 lctrl 0.322849988937
+csegi SNARC color arabic CD 0 down 1 num_separator 0.386744022369
+{'participant': u'csegi', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'03_23_1541', 'autopilot': False, 'exp_id': u'SNARC'}
+csegi SNARC_only DC 9 lctrl 0.891355991364
+csegi SNARC_only DC 7 lctrl 0.761706113815
+csegi SNARC_only DC 7 lctrl 0.634700059891
+csegi SNARC_only DC 5 lctrl 0.353876113892
+csegi SNARC_only DC 4 lctrl 0.370546102524
+csegi SNARC_only DC 5 lctrl 0.975373029709
+csegi SNARC_only DC 1 lctrl 0.730484962463
+csegi SNARC_only DC 7 lctrl 1.50049591064
+csegi SNARC_only DC 1 lctrl 0.513800859451
+csegi SNARC_only DC 6 num_separator 0.569925069809
+csegi SNARC_only DC 4 num_separator 0.538625001907
+csegi SNARC_only DC 4 num_separator 0.40247797966
+csegi SNARC_only DC 4 num_separator 0.347607851028
+csegi SNARC_only DC 7 lctrl 0.611979961395
+csegi SNARC_only DC 2 num_separator 0.712448835373
+csegi SNARC_only DC 3 lctrl 0.585546970367
+csegi SNARC_only DC 1 lctrl 1.20321011543
+csegi SNARC_only DC 9 lctrl 0.699197053909
+csegi SNARC_only DC 7 lctrl 0.707195043564
+csegi SNARC_only DC 1 lctrl 0.474204063416
+csegi SNARC_only DC 3 lctrl 0.61918592453
+csegi SNARC_only DC 2 num_separator 0.426558017731
+csegi SNARC_only DC 6 num_separator 0.5063560009
+csegi SNARC_only DC 6 num_separator 0.362929105759
+csegi SNARC_only DC 8 num_separator 0.498553037643
+csegi SNARC_only DC 1 lctrl 0.545986890793
+csegi SNARC_only DC 9 lctrl 0.603200912476
+csegi SNARC_only DC 8 num_separator 0.522463083267
+csegi SNARC_only DC 2 num_separator 0.515012979507
+csegi SNARC_only DC 7 lctrl 2.04365491867
+csegi SNARC_only DC 8 num_separator 0.570485830307
+csegi SNARC_only DC 9 lctrl 0.883190870285
+csegi SNARC_only DC 9 lctrl 0.568948984146
+csegi SNARC_only DC 1 lctrl 2.52233791351
+csegi SNARC_only DC 8 num_separator 0.658639907837
+csegi SNARC_only DC 7 lctrl 0.803868055344
+csegi SNARC_only DC 4 num_separator 0.554197072983
+csegi SNARC_only DC 6 num_separator 1.34690403938
+csegi SNARC_only DC 3 lctrl 0.39507317543
+csegi SNARC_only DC 3 lctrl 0.371273994446
+csegi SNARC_only DC 1 lctrl 2.51566195488
+csegi SNARC_only DC 6 num_separator 0.569676876068
+csegi SNARC_only DC 9 lctrl 0.562893867493
+csegi SNARC_only DC 2 num_separator 0.578385829926
+csegi SNARC_only DC 6 num_separator 0.595329999924
+csegi SNARC_only DC 2 num_separator 0.426887989044
+csegi SNARC_only DC 6 num_separator 0.427123785019
+csegi SNARC_only DC 5 lctrl 0.531238079071
+csegi SNARC_only DC 5 lctrl 0.354715108871
+csegi SNARC_only DC 8 num_separator 0.523305892944
+csegi SNARC_only DC 4 num_separator 0.57778096199
+csegi SNARC_only DC 7 lctrl 0.434996128082
+csegi SNARC_only DC 6 lctrl 0.411638975143
+csegi SNARC_only DC 7 lctrl 0.930584907532
+csegi SNARC_only DC 2 num_separator 0.530411958694
+csegi SNARC_only DC 5 lctrl 0.908171892166
+csegi SNARC_only DC 9 lctrl 3.06666994095
+csegi SNARC_only DC 9 lctrl 0.386626005173
+csegi SNARC_only DC 7 lctrl 0.531646966934
+csegi SNARC_only DC 5 lctrl 0.609560012817
+csegi SNARC_only DC 2 num_separator 0.586762905121
+csegi SNARC_only DC 9 lctrl 0.573118925095
+csegi SNARC_only DC 9 lctrl 0.409046173096
+csegi SNARC_only DC 9 lctrl 0.362866163254
+csegi SNARC_only DC 9 lctrl 0.347419977188
+csegi SNARC_only DC 8 num_separator 0.970515012741
+csegi SNARC_only DC 3 lctrl 0.443451166153
+csegi SNARC_only DC 1 lctrl 0.810476064682
+csegi SNARC_only DC 1 lctrl 0.450538158417
+csegi SNARC_only DC 4 num_separator 0.906150817871
+csegi SNARC_only DC 1 lctrl 0.434644937515
+csegi SNARC_only DC 2 num_separator 0.73792219162
+csegi SNARC_only DC 5 lctrl 0.89964389801
+csegi SNARC_only DC 6 num_separator 0.754305839539
+csegi SNARC_only DC 3 lctrl 0.531685113907
+csegi SNARC_only DC 3 lctrl 0.401473999023
+csegi SNARC_only DC 1 lctrl 0.539248228073
+csegi SNARC_only DC 8 num_separator 0.51326918602
+csegi SNARC_only DC 6 num_separator 0.434259176254
+csegi SNARC_only DC 8 num_separator 1.0352909565
+csegi SNARC_only DC 9 lctrl 0.596405982971
+csegi SNARC_only DC 9 lctrl 0.321884155273
+csegi SNARC_only DC 8 num_separator 0.642879009247
+csegi SNARC_only DC 1 lctrl 0.426868915558
+csegi SNARC_only DC 4 num_separator 0.64178109169
+csegi SNARC_only DC 9 lctrl 0.955206871033
+csegi SNARC_only DC 1 lctrl 0.513845920563
+csegi SNARC_only DC 5 lctrl 0.554900884628
+csegi SNARC_only DC 8 num_separator 0.546811819077
+csegi SNARC_only DC 5 lctrl 0.538740158081
+csegi SNARC_only DC 3 lctrl 0.577511072159
+csegi SNARC_only DC 2 num_separator 0.795195817947
+csegi SNARC_only DC 9 lctrl 0.851624965668
+csegi SNARC_only DC 2 num_separator 0.586611032486
+csegi SNARC_only DC 1 lctrl 0.522197008133
+csegi SNARC_only DC 7 lctrl 0.865895986557
+csegi SNARC_only DC 2 num_separator 0.593668937683
+csegi SNARC_only DC 7 lctrl 0.491589784622
+csegi SNARC_only DC 8 num_separator 0.674561023712
+csegi SNARC_only DC 7 lctrl 0.547604799271
+csegi SNARC_only DC 6 num_separator 0.643186092377
+csegi SNARC_only DC 1 lctrl 0.394729137421
+csegi SNARC_only DC 3 lctrl 0.434341907501
+csegi SNARC_only DC 5 lctrl 0.371019124985
+csegi SNARC_only DC 7 lctrl 0.385728120804
+csegi SNARC_only DC 3 lctrl 0.618459939957
+csegi SNARC_only DC 4 lctrl 0.34719991684
+csegi SNARC_only DC 8 num_separator 0.929959058762
+csegi SNARC_only DC 7 lctrl 0.459196805954
+csegi SNARC_only DC 8 num_separator 0.682379007339
+csegi SNARC_only DC 3 lctrl 1.37879800797
+csegi SNARC_only DC 3 lctrl 0.491035938263
+csegi SNARC_only DC 2 num_separator 0.562001943588
+csegi SNARC_only DC 7 lctrl 0.666434049606
+csegi SNARC_only DC 2 num_separator 0.618517875671
+csegi SNARC_only DC 8 num_separator 0.994640827179
+csegi SNARC_only DC 2 num_separator 3.2106089592
+csegi SNARC_only DC 5 lctrl 0.498686075211
+csegi SNARC_only DC 8 num_separator 0.57893204689
+csegi SNARC_only DC 7 lctrl 0.460031986237
+csegi SNARC_only DC 9 lctrl 0.85867190361
+csegi SNARC_only DC 8 num_separator 0.833657026291
+csegi SNARC_only DC 4 num_separator 0.530650854111
+csegi SNARC_only DC 7 lctrl 0.483352899551
+csegi SNARC_only DC 4 num_separator 0.52157998085
+csegi SNARC_only DC 6 num_separator 1.29842615128
+csegi SNARC_only DC 5 lctrl 0.69801902771
+csegi SNARC_only DC 9 lctrl 1.17925095558
+csegi SNARC_only DC 5 lctrl 1.02650690079
+csegi SNARC_only DC 4 num_separator 0.680817127228
+csegi SNARC_only DC 8 num_separator 0.881896972656
+csegi SNARC_only DC 4 num_separator 1.13677692413
+csegi SNARC_only DC 2 num_separator 0.410616874695
+csegi SNARC_only DC 3 lctrl 0.547487974167
+csegi SNARC_only DC 6 num_separator 0.570858001709
+csegi SNARC_only DC 6 num_separator 0.426776885986
+csegi SNARC_only DC 9 lctrl 0.579457998276
+csegi SNARC_only DC 4 num_separator 0.57115983963
+csegi SNARC_only DC 7 lctrl 0.507143974304
+csegi SNARC_only DC 2 num_separator 0.53862786293
+csegi SNARC_only DC 9 lctrl 0.519556045532
+csegi SNARC_only DC 9 lctrl 1.89162611961
+csegi SNARC_only DC 9 lctrl 0.329394102097
+csegi SNARC_only DC 9 lctrl 0.378798961639
+csegi SNARC_only DC 3 num_separator 0.434664964676
+csegi SNARC_only DC 7 lctrl 1.04278707504
+csegi SNARC_only DC 2 num_separator 0.70690202713
+csegi SNARC_only DC 8 num_separator 0.451430797577
+csegi SNARC_only DC 3 lctrl 0.547058820724
+csegi SNARC_only DC 3 lctrl 0.363121032715
+csegi SNARC_only DC 9 lctrl 0.554849147797
+csegi SNARC_only DC 1 lctrl 0.42630982399
+csegi SNARC_only DC 2 num_separator 0.595424890518
+csegi SNARC_only DC 3 lctrl 0.6980509758
+csegi SNARC_only DC 3 lctrl 0.427520036697
+csegi SNARC_only DC 1 lctrl 0.482909917831
+csegi SNARC_only DC 2 num_separator 0.442933797836
+csegi SNARC_only DC 1 lctrl 1.69107294083
+csegi SNARC_only DC 1 lctrl 0.386095046997
+csegi SNARC_only DC 4 num_separator 0.522220134735
+csegi SNARC_only DC 5 lctrl 0.460024833679
+csegi SNARC_only DC 2 num_separator 0.618585824966
+csegi SNARC_only DC 4 num_separator 0.723410129547
+csegi SNARC_only DC 9 lctrl 0.411119937897
+csegi SNARC_only DC 8 num_separator 0.578364133835
+csegi SNARC_only DC 5 lctrl 0.555698871613
+csegi SNARC_only DC 3 lctrl 0.387143850327
+csegi SNARC_only DC 6 num_separator 0.60186290741
+csegi SNARC_only DC 2 num_separator 0.498548030853
+csegi SNARC_only DC 5 lctrl 0.537535905838
+csegi SNARC_only DC 6 num_separator 0.595038890839
+csegi SNARC_only DC 8 num_separator 0.562937021255
+csegi SNARC_only DC 1 lctrl 0.380085945129
+csegi SNARC_only DC 6 num_separator 0.712796926498
+csegi SNARC_only DC 7 lctrl 0.506045103073
+csegi SNARC_only DC 8 num_separator 1.50613689423
+csegi SNARC_only DC 3 lctrl 0.610500097275
+csegi SNARC_only DC 5 lctrl 0.538124084473
+csegi SNARC_only DC 1 lctrl 0.682729005814
+csegi SNARC_only DC 5 lctrl 0.603167057037
+csegi SNARC_only DC 9 lctrl 0.562653064728
+csegi SNARC_only DC 3 lctrl 0.451122999191
+csegi SNARC_only DC 4 num_separator 0.498686075211
+csegi SNARC_only DC 2 num_separator 0.362598896027
+csegi SNARC_only DC 3 lctrl 0.474837064743
+csegi SNARC_only DC 9 lctrl 0.801687002182
+csegi SNARC_only DC 6 num_separator 0.530316114426
+csegi SNARC_only DC 1 lctrl 0.411459922791
+csegi SNARC_only DC 2 num_separator 0.674170970917
+csegi SNARC_only DC 1 lctrl 0.482740879059
+csegi SNARC_only DC 4 num_separator 0.371101856232
+csegi SNARC_only DC 5 lctrl 0.441768169403
+csegi SNARC_only DC 5 lctrl 0.323372125626
+csegi SNARC_only DC 8 num_separator 0.530617952347
+csegi SNARC_only DC 7 lctrl 0.554576873779
+csegi SNARC_only DC 2 num_separator 0.426966905594
+csegi SNARC_only DC 1 lctrl 0.452310085297
+csegi SNARC_only DC 9 lctrl 0.658529996872
+csegi SNARC_only DC 3 lctrl 0.402914047241
+csegi SNARC_only DC 5 lctrl 0.42612195015
+csegi SNARC_only DC 4 num_separator 0.386234998703
+csegi SNARC_only DC 3 lctrl 0.474827051163
+csegi SNARC_only DC 3 lctrl 0.322176933289
+csegi SNARC_only DC 2 num_separator 0.417726039886
+csegi SNARC_only DC 8 num_separator 0.562903881073
+csegi SNARC_only DC 8 num_separator 0.363228797913
+csegi SNARC_only DC 8 num_separator 0.379228115082
+csegi SNARC_only DC 4 num_separator 0.594773054123
+csegi SNARC_only DC 1 lctrl 0.507347106934
+csegi SNARC_only DC 1 lctrl 0.394906997681
+csegi SNARC_only DC 9 lctrl 0.538635015488
+csegi SNARC_only DC 6 num_separator 0.394557952881
+csegi SNARC_only DC 4 num_separator 0.441549062729
+csegi SNARC_only DC 4 num_separator 0.370445013046
+csegi SNARC_only DC 9 lctrl 0.651359081268
+csegi SNARC_only DC 5 lctrl 0.458862066269
+csegi SNARC_only DC 7 lctrl 0.426883935928
+csegi SNARC_only DC 8 num_separator 0.561537027359
+csegi SNARC_only DC 7 lctrl 0.419412136078
+csegi SNARC_only DC 8 num_separator 0.754802942276
+csegi SNARC_only DC 9 lctrl 0.801624059677
+csegi SNARC_only DC 1 lctrl 0.505940914154
+csegi SNARC_only DC 9 lctrl 0.466902971268
+csegi SNARC_only DC 3 lctrl 0.538256168365
+csegi SNARC_only DC 4 num_separator 0.570907115936
+csegi SNARC_only DC 8 num_separator 0.45134806633
+csegi SNARC_only DC 5 lctrl 0.427103996277
+csegi SNARC_only DC 2 num_separator 0.618137121201
+csegi SNARC_only DC 7 lctrl 0.53219294548
+csegi SNARC_only DC 8 num_separator 0.457837820053
+csegi SNARC_only DC 9 lctrl 0.474614858627
+csegi SNARC_only DC 2 num_separator 0.426903009415
+csegi SNARC_only DC 5 lctrl 0.443919897079
+csegi SNARC_only DC 2 num_separator 0.362478971481
+csegi SNARC_only DC 7 lctrl 0.41056895256
+csegi SNARC_only DC 7 lctrl 0.651185035706
+csegi SNARC_only DC 5 lctrl 0.675081014633
+csegi SNARC_only DC 7 lctrl 0.434958934784
+csegi SNARC_only DC 2 num_separator 0.52156496048
+csegi SNARC_only DC 7 lctrl 0.4271671772
+csegi SNARC_only DC 7 lctrl 0.458438873291
+csegi SNARC_only DC 4 num_separator 0.491204023361
+csegi SNARC_only DC 7 lctrl 0.987478971481
+csegi SNARC_only DC 1 lctrl 0.443084955215
+csegi SNARC_only DC 6 num_separator 0.409738063812
+csegi SNARC_only DC 5 lctrl 0.499796152115
+csegi SNARC_only DC 8 num_separator 0.425696849823
+csegi SNARC_only DC 6 num_separator 0.490168094635
+csegi SNARC_only DC 6 num_separator 0.383964061737
+csegi SNARC_only DC 1 lctrl 0.37711596489
+csegi SNARC_only DC 9 lctrl 0.7142598629
+csegi SNARC_only DC 3 lctrl 0.362272024155
+csegi SNARC_only DC 3 lctrl 0.386312007904
+csegi SNARC_only DC 5 lctrl 0.506897926331
+csegi SNARC_only DC 4 num_separator 0.371063947678
+csegi SNARC_only DC 4 num_separator 0.370548963547
+csegi SNARC_only DC 6 num_separator 0.555014133453
+csegi SNARC_only DC 7 lctrl 0.490844964981
+csegi SNARC_only DC 7 lctrl 0.417548894882
+csegi SNARC_only DC 3 lctrl 0.506644964218
+csegi SNARC_only DC 2 num_separator 0.666579008102
+csegi SNARC_only DC 8 num_separator 0.50581407547
+csegi SNARC_only DC 6 num_separator 0.395414113998
+csegi SNARC_only DC 6 num_separator 0.379343032837
+csegi SNARC_only DC 6 num_separator 0.386027097702
+csegi SNARC_only DC 4 lctrl 0.45990896225
+csegi SNARC_only DC 3 lctrl 0.585910081863
+csegi SNARC_only DC 1 lctrl 0.482231855392
+csegi SNARC_only DC 5 lctrl 1.09126806259
+csegi SNARC_only DC 8 num_separator 0.529476881027
+csegi SNARC_only DC 2 num_separator 0.369058132172
+csegi SNARC_only DC 8 num_separator 0.419314861298
+csegi SNARC_only DC 4 num_separator 0.458955049515
+csegi SNARC_only DC 3 lctrl 0.898989915848
+csegi SNARC_only DC 6 num_separator 0.586714029312
+csegi SNARC_only DC 2 num_separator 0.530382871628
+csegi SNARC_only DC 3 lctrl 0.579216957092
+csegi SNARC_only DC 6 num_separator 0.666474103928
+csegi SNARC_only DC 2 num_separator 0.371119022369
+csegi SNARC_only DC 2 num_separator 0.379389047623
+csegi SNARC_only DC 5 lctrl 0.579469919205
+csegi SNARC_only DC 8 num_separator 0.44170999527
+csegi SNARC_only DC 6 num_separator 0.434249162674
+csegi SNARC_only DC 3 lctrl 0.41135597229
+csegi SNARC_only DC 5 lctrl 0.666195869446
+csegi SNARC_only DC 5 lctrl 0.419096231461
+csegi SNARC_only DC 4 num_separator 0.59422492981
+csegi SNARC_only DC 2 num_separator 0.547281980515
+csegi SNARC_only DC 1 lctrl 0.59512090683
+csegi SNARC_only DC 9 lctrl 0.603358983994
+csegi SNARC_only DC 7 lctrl 0.411113977432
+csegi SNARC_only DC 3 lctrl 0.514632940292
+csegi SNARC_only DC 6 num_separator 0.458950042725
+csegi SNARC_only DC 9 lctrl 0.601696014404
+csegi SNARC_only DC 6 num_separator 0.402323007584
+csegi SNARC_only DC 8 num_separator 0.482175111771
+csegi SNARC_only DC 6 num_separator 0.387195825577
+csegi SNARC_only DC 5 lctrl 0.435260772705
+csegi SNARC_only DC 7 lctrl 0.779161930084
+csegi SNARC_only DC 4 num_separator 0.650404930115
+csegi SNARC_only DC 5 lctrl 0.499840974808
+csegi SNARC_only DC 7 lctrl 0.634722948074
+csegi SNARC_only DC 7 lctrl 0.466135025024
+csegi SNARC_only DC 2 num_separator 0.514729976654
+csegi SNARC_only DC 6 num_separator 0.594613075256
+csegi SNARC_only DC 4 num_separator 0.907280921936
+csegi SNARC_only DC 5 lctrl 0.403245925903
+csegi SNARC_only DC 6 num_separator 0.498784065247
+csegi SNARC_only DC 8 num_separator 0.418118953705
+csegi SNARC_only DC 8 num_separator 0.394634008408
+csegi SNARC_only DC 7 lctrl 0.490909099579
+csegi SNARC_only DC 1 lctrl 1.03252220154
+csegi SNARC_only DC 2 num_separator 0.554292917252
+csegi SNARC_only DC 6 num_separator 0.435419082642
+csegi SNARC_only DC 5 lctrl 0.483342170715
+csegi SNARC_only DC 1 lctrl 0.586316108704
+csegi SNARC_only DC 4 num_separator 0.528569936752
+csegi SNARC_only DC 7 lctrl 0.491250038147
+csegi SNARC_only DC 6 num_separator 0.514604091644
+csegi SNARC_only DC 3 lctrl 0.506109952927
+csegi SNARC_only DC 4 num_separator 0.537183046341
+csegi SNARC_only DC 4 num_separator 0.386868953705
+csegi SNARC_only DC 6 num_separator 0.795132160187
+csegi SNARC_only DC 3 lctrl 0.594530105591
+csegi SNARC_only DC 1 lctrl 0.418588876724
+csegi SNARC_only DC 2 num_separator 0.512877941132
+csegi SNARC_only DC 1 lctrl 0.45130610466
+csegi SNARC_only DC 7 lctrl 0.474635124207
+csegi SNARC_only DC 5 lctrl 0.571506977081
+csegi SNARC_only DC 3 lctrl 0.354963064194
+csegi SNARC_only DC 1 lctrl 0.345058917999
+csegi SNARC_only DC 5 lctrl 0.476068019867
+csegi SNARC_only DC 4 num_separator 0.553287029266
+csegi SNARC_only DC 9 lctrl 0.426865100861
+csegi SNARC_only DC 4 num_separator 0.482657194138
+csegi SNARC_only DC 1 lctrl 0.427093982697
+csegi SNARC_only DC 9 lctrl 0.427443981171
+csegi SNARC_only DC 8 num_separator 0.386538982391
+csegi SNARC_only DC 5 lctrl 1.51433682442
+csegi SNARC_only DC 8 num_separator 0.561497926712
+csegi SNARC_only DC 3 lctrl 0.435055017471
+csegi SNARC_only DC 4 num_separator 0.546811103821
+csegi SNARC_only DC 1 lctrl 0.770868062973
+csegi SNARC_only DC 2 num_separator 0.401643037796
+csegi SNARC_only DC 9 lctrl 0.579364061356
+csegi SNARC_only DC 8 num_separator 1.33050584793
+csegi SNARC_only DC 4 num_separator 0.498470067978
+csegi SNARC_only DC 2 num_separator 0.402339935303
+csegi SNARC_only DC 3 lctrl 0.555261850357
+csegi SNARC_only DC 6 num_separator 0.498378038406
+csegi SNARC_only DC 1 lctrl 0.402497053146
+csegi SNARC_only DC 5 lctrl 0.475193023682
+csegi SNARC_only DC 6 num_separator 0.37898015976
+csegi SNARC_only DC 1 lctrl 0.514935970306
+csegi SNARC_only DC 4 num_separator 0.506517887115
+csegi SNARC_only DC 6 num_separator 0.411489009857
+csegi SNARC_only DC 4 num_separator 0.375423908234
+csegi SNARC_only DC 3 lctrl 0.529005050659
+csegi SNARC_only DC 9 lctrl 0.634582042694
+csegi SNARC_only DC 5 lctrl 0.410398006439
+{'participant': u'csegi', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'03_23_1550', 'autopilot': False, 'exp_id': u'SNARC'}
+csegi SNARC_only CD 5 num_separator 0.937698841095
+csegi SNARC_only CD 2 lctrl 0.490332841873
+csegi SNARC_only CD 1 num_separator 0.521973848343
+csegi SNARC_only CD 1 num_separator 0.458685159683
+csegi SNARC_only CD 6 lctrl 0.474549055099
+csegi SNARC_only CD 1 num_separator 0.546683073044
+csegi SNARC_only CD 5 num_separator 0.586522817612
+csegi SNARC_only CD 8 lctrl 0.418618917465
+csegi SNARC_only CD 8 lctrl 0.489969968796
+csegi SNARC_only CD 2 lctrl 0.443359851837
+csegi SNARC_only CD 3 num_separator 0.481286048889
+csegi SNARC_only CD 2 lctrl 0.499706983566
+csegi SNARC_only CD 8 lctrl 0.683506011963
+csegi SNARC_only CD 3 num_separator 0.530910015106
+csegi SNARC_only CD 1 num_separator 0.570481061935
+csegi SNARC_only CD 8 lctrl 0.395488977432
+csegi SNARC_only CD 3 num_separator 0.626367092133
+csegi SNARC_only CD 5 num_separator 0.611073970795
+csegi SNARC_only CD 2 lctrl 0.387426137924
+csegi SNARC_only CD 5 num_separator 0.515060901642
+csegi SNARC_only CD 6 lctrl 0.499419927597
+csegi SNARC_only CD 2 lctrl 0.482315063477
+csegi SNARC_only CD 2 lctrl 0.387104988098
+csegi SNARC_only CD 8 lctrl 0.459306955338
+csegi SNARC_only CD 9 num_separator 0.648664951324
+csegi SNARC_only CD 2 lctrl 0.563470125198
+csegi SNARC_only CD 3 num_separator 0.682662963867
+csegi SNARC_only CD 9 num_separator 0.635040044785
+csegi SNARC_only CD 5 num_separator 0.451177835464
+csegi SNARC_only CD 1 num_separator 0.483164072037
+csegi SNARC_only CD 7 num_separator 0.37044095993
+csegi SNARC_only CD 2 lctrl 0.539293050766
+csegi SNARC_only CD 9 num_separator 0.6190969944
+csegi SNARC_only CD 8 lctrl 0.649528980255
+csegi SNARC_only CD 8 lctrl 0.370847940445
+csegi SNARC_only CD 6 lctrl 0.514892101288
+csegi SNARC_only CD 7 num_separator 0.539150953293
+csegi SNARC_only CD 2 lctrl 0.436115980148
+csegi SNARC_only CD 9 num_separator 0.53820514679
+csegi SNARC_only CD 9 num_separator 0.515467882156
+csegi SNARC_only CD 4 lctrl 0.570897102356
+csegi SNARC_only CD 1 num_separator 0.554341077805
+csegi SNARC_only CD 7 num_separator 0.58633518219
+csegi SNARC_only CD 7 num_separator 0.354779958725
+csegi SNARC_only CD 6 lctrl 0.427109956741
+csegi SNARC_only CD 9 num_separator 0.554278850555
+csegi SNARC_only CD 8 lctrl 0.619246959686
+csegi SNARC_only CD 3 num_separator 0.402559995651
+csegi SNARC_only CD 1 num_separator 0.571646928787
+csegi SNARC_only CD 2 lctrl 0.547001123428
+csegi SNARC_only CD 4 lctrl 0.571298837662
+csegi SNARC_only CD 3 num_separator 0.473969936371
+csegi SNARC_only CD 1 num_separator 0.738869905472
+csegi SNARC_only CD 5 num_separator 0.490702867508
+csegi SNARC_only CD 2 lctrl 0.556002855301
+csegi SNARC_only CD 1 num_separator 0.474977970123
+csegi SNARC_only CD 2 lctrl 0.539661884308
+csegi SNARC_only CD 3 num_separator 0.602589130402
+csegi SNARC_only CD 6 lctrl 0.707778930664
+csegi SNARC_only CD 5 num_separator 1.31461405754
+csegi SNARC_only CD 1 num_separator 0.490535974503
+csegi SNARC_only CD 8 lctrl 0.522575139999
+csegi SNARC_only CD 9 num_separator 0.474776029587
+csegi SNARC_only CD 4 lctrl 0.395026922226
+csegi SNARC_only CD 7 num_separator 0.498110771179
+csegi SNARC_only CD 6 lctrl 0.523663043976
+csegi SNARC_only CD 8 lctrl 0.4271671772
+csegi SNARC_only CD 3 num_separator 0.4666659832
+csegi SNARC_only CD 5 num_separator 0.554203987122
+csegi SNARC_only CD 6 lctrl 0.506264209747
+csegi SNARC_only CD 4 lctrl 0.403053045273
+csegi SNARC_only CD 5 num_separator 0.442453145981
+csegi SNARC_only CD 4 lctrl 0.388052940369
+csegi SNARC_only CD 3 num_separator 0.498836040497
+csegi SNARC_only CD 9 num_separator 0.546605110168
+csegi SNARC_only CD 8 lctrl 0.499649047852
+csegi SNARC_only CD 3 num_separator 0.427245140076
+csegi SNARC_only CD 4 num_separator 0.426597118378
+csegi SNARC_only CD 1 num_separator 1.35857796669
+csegi SNARC_only CD 7 num_separator 0.963142871857
+csegi SNARC_only CD 1 num_separator 0.491997003555
+csegi SNARC_only CD 2 lctrl 0.362694978714
+csegi SNARC_only CD 1 num_separator 0.426839828491
+csegi SNARC_only CD 3 num_separator 0.474269866943
+csegi SNARC_only CD 2 lctrl 0.395653963089
+csegi SNARC_only CD 4 lctrl 1.50637316704
+csegi SNARC_only CD 7 num_separator 0.466648817062
+csegi SNARC_only CD 3 num_separator 0.603142976761
+csegi SNARC_only CD 3 num_separator 0.417986154556
+csegi SNARC_only CD 1 num_separator 0.547173976898
+csegi SNARC_only CD 8 lctrl 0.619569063187
+csegi SNARC_only CD 9 num_separator 0.466984987259
+csegi SNARC_only CD 7 num_separator 0.434219121933
+csegi SNARC_only CD 3 num_separator 0.490159988403
+csegi SNARC_only CD 9 num_separator 0.427196979523
+csegi SNARC_only CD 3 num_separator 0.410800933838
+csegi SNARC_only CD 6 lctrl 0.682903051376
+csegi SNARC_only CD 8 lctrl 0.55469083786
+csegi SNARC_only CD 4 lctrl 0.451213121414
+csegi SNARC_only CD 4 lctrl 0.451006889343
+csegi SNARC_only CD 2 lctrl 0.402608156204
+csegi SNARC_only CD 5 num_separator 0.442562818527
+csegi SNARC_only CD 8 lctrl 0.572603940964
+csegi SNARC_only CD 6 lctrl 0.649403095245
+csegi SNARC_only CD 6 lctrl 0.379222154617
+csegi SNARC_only CD 9 num_separator 0.577210187912
+csegi SNARC_only CD 7 num_separator 0.594768047333
+csegi SNARC_only CD 9 num_separator 0.626457214355
+csegi SNARC_only CD 7 num_separator 0.403640031815
+csegi SNARC_only CD 8 lctrl 0.482748031616
+csegi SNARC_only CD 7 num_separator 0.490002155304
+csegi SNARC_only CD 7 num_separator 0.403144836426
+csegi SNARC_only CD 9 lctrl 0.419075965881
+csegi SNARC_only CD 9 num_separator 1.2411699295
+csegi SNARC_only CD 1 num_separator 0.522864103317
+csegi SNARC_only CD 2 lctrl 0.506760120392
+csegi SNARC_only CD 7 num_separator 0.457570075989
+csegi SNARC_only CD 4 lctrl 0.883454084396
+csegi SNARC_only CD 1 num_separator 0.762904882431
+csegi SNARC_only CD 5 num_separator 0.482825994492
+csegi SNARC_only CD 5 num_separator 0.355372905731
+csegi SNARC_only CD 8 lctrl 0.434919118881
+csegi SNARC_only CD 6 lctrl 0.387043952942
+csegi SNARC_only CD 3 num_separator 0.401970863342
+csegi SNARC_only CD 1 num_separator 0.403249979019
+csegi SNARC_only CD 4 lctrl 0.475514888763
+csegi SNARC_only CD 8 lctrl 0.451191902161
+csegi SNARC_only CD 3 num_separator 0.434942007065
+csegi SNARC_only CD 8 lctrl 0.603126049042
+csegi SNARC_only CD 1 num_separator 0.482870817184
+csegi SNARC_only CD 8 lctrl 0.362813949585
+csegi SNARC_only CD 6 lctrl 0.426357030869
+csegi SNARC_only CD 7 num_separator 0.473577976227
+csegi SNARC_only CD 9 num_separator 0.610794067383
+csegi SNARC_only CD 1 num_separator 0.378674030304
+csegi SNARC_only CD 2 lctrl 0.779220819473
+csegi SNARC_only CD 4 lctrl 0.602710962296
+csegi SNARC_only CD 3 num_separator 0.51362991333
+csegi SNARC_only CD 6 lctrl 0.514688968658
+csegi SNARC_only CD 5 num_separator 0.6185297966
+csegi SNARC_only CD 5 num_separator 0.435243844986
+csegi SNARC_only CD 9 lctrl 0.528974056244
+csegi SNARC_only CD 3 num_separator 1.47511696815
+csegi SNARC_only CD 2 lctrl 0.63533782959
+csegi SNARC_only CD 9 num_separator 0.690753936768
+csegi SNARC_only CD 6 lctrl 0.634521961212
+csegi SNARC_only CD 2 lctrl 0.706511974335
+csegi SNARC_only CD 5 num_separator 0.514533996582
+csegi SNARC_only CD 1 num_separator 0.618883132935
+csegi SNARC_only CD 1 num_separator 0.434669971466
+csegi SNARC_only CD 3 num_separator 0.681715011597
+csegi SNARC_only CD 5 num_separator 0.491546154022
+csegi SNARC_only CD 9 num_separator 0.555502176285
+csegi SNARC_only CD 3 num_separator 0.425285100937
+csegi SNARC_only CD 2 lctrl 0.547941923141
+csegi SNARC_only CD 2 lctrl 0.427870988846
+csegi SNARC_only CD 1 num_separator 1.19419002533
+csegi SNARC_only CD 1 num_separator 0.395023822784
+csegi SNARC_only CD 6 lctrl 0.659033060074
+csegi SNARC_only CD 9 num_separator 1.11429095268
+csegi SNARC_only CD 7 num_separator 0.427452087402
+csegi SNARC_only CD 8 lctrl 0.628035068512
+csegi SNARC_only CD 6 lctrl 0.651273965836
+csegi SNARC_only CD 5 num_separator 0.593522071838
+csegi SNARC_only CD 8 lctrl 0.38748717308
+csegi SNARC_only CD 3 num_separator 0.466455221176
+csegi SNARC_only CD 4 lctrl 0.722882032394
+csegi SNARC_only CD 8 lctrl 0.626672029495
+csegi SNARC_only CD 3 num_separator 0.618098020554
+csegi SNARC_only CD 5 num_separator 0.722490787506
+csegi SNARC_only CD 2 num_separator 0.475193977356
+csegi SNARC_only CD 7 num_separator 2.13101887703
+csegi SNARC_only CD 6 lctrl 0.539166927338
+csegi SNARC_only CD 2 lctrl 0.465218067169
+csegi SNARC_only CD 9 num_separator 0.499323129654
+csegi SNARC_only CD 2 lctrl 0.650454044342
+csegi SNARC_only CD 6 lctrl 0.706810951233
+csegi SNARC_only CD 8 lctrl 0.505848884583
+csegi SNARC_only CD 8 lctrl 0.450529098511
+csegi SNARC_only CD 2 lctrl 0.611423969269
+csegi SNARC_only CD 4 lctrl 0.594299077988
+csegi SNARC_only CD 3 num_separator 0.538599014282
+csegi SNARC_only CD 6 lctrl 0.507558822632
+csegi SNARC_only CD 3 num_separator 0.77004981041
+csegi SNARC_only CD 5 num_separator 0.675341129303
+csegi SNARC_only CD 7 num_separator 0.442794799805
+csegi SNARC_only CD 7 num_separator 0.402419090271
+csegi SNARC_only CD 7 num_separator 0.371463060379
+csegi SNARC_only CD 4 lctrl 0.722222805023
+csegi SNARC_only CD 2 lctrl 0.507215976715
+csegi SNARC_only CD 1 num_separator 0.514801025391
+csegi SNARC_only CD 1 num_separator 0.404098033905
+csegi SNARC_only CD 1 num_separator 0.354429006577
+csegi SNARC_only CD 4 lctrl 0.54754281044
+csegi SNARC_only CD 1 num_separator 0.578866004944
+csegi SNARC_only CD 7 num_separator 0.59423494339
+csegi SNARC_only CD 5 num_separator 0.578816175461
+csegi SNARC_only CD 7 num_separator 0.418651103973
+csegi SNARC_only CD 5 num_separator 0.499427080154
+csegi SNARC_only CD 1 num_separator 0.33802819252
+csegi SNARC_only CD 6 lctrl 1.25895595551
+csegi SNARC_only CD 1 num_separator 0.434919834137
+csegi SNARC_only CD 7 num_separator 0.339002132416
+csegi SNARC_only CD 8 lctrl 0.507233142853
+csegi SNARC_only CD 2 lctrl 0.513168096542
+csegi SNARC_only CD 9 num_separator 0.562726020813
+csegi SNARC_only CD 5 num_separator 0.491294145584
+csegi SNARC_only CD 2 lctrl 0.579739093781
+csegi SNARC_only CD 5 num_separator 0.834998130798
+csegi SNARC_only CD 6 lctrl 0.515817165375
+csegi SNARC_only CD 5 num_separator 0.498424053192
+csegi SNARC_only CD 9 num_separator 0.474227190018
+csegi SNARC_only CD 6 lctrl 0.418836116791
+csegi SNARC_only CD 8 lctrl 0.442487955093
+csegi SNARC_only CD 4 lctrl 0.563241004944
+csegi SNARC_only CD 4 lctrl 0.379195928574
+csegi SNARC_only CD 6 lctrl 0.538414001465
+csegi SNARC_only CD 6 lctrl 0.42756819725
+csegi SNARC_only CD 5 num_separator 0.707154035568
+csegi SNARC_only CD 1 num_separator 0.569715976715
+csegi SNARC_only CD 3 num_separator 0.5469789505
+csegi SNARC_only CD 6 lctrl 0.546957015991
+csegi SNARC_only CD 6 lctrl 0.370368003845
+csegi SNARC_only CD 4 lctrl 0.835247993469
+csegi SNARC_only CD 9 num_separator 0.618896961212
+csegi SNARC_only CD 5 num_separator 0.531503915787
+csegi SNARC_only CD 5 num_separator 0.36364197731
+csegi SNARC_only CD 8 lctrl 0.650287151337
+csegi SNARC_only CD 8 lctrl 0.37665605545
+csegi SNARC_only CD 4 lctrl 0.747408151627
+csegi SNARC_only CD 1 num_separator 0.554800987244
+csegi SNARC_only CD 9 num_separator 0.545156002045
+csegi SNARC_only CD 9 num_separator 0.386831998825
+csegi SNARC_only CD 5 num_separator 0.626950025558
+csegi SNARC_only CD 2 lctrl 0.508292913437
+csegi SNARC_only CD 6 lctrl 0.433830022812
+csegi SNARC_only CD 7 num_separator 0.498428821564
+csegi SNARC_only CD 4 lctrl 0.619672060013
+csegi SNARC_only CD 4 lctrl 0.331045866013
+csegi SNARC_only CD 7 num_separator 0.529246807098
+csegi SNARC_only CD 5 num_separator 0.601967811584
+csegi SNARC_only CD 3 num_separator 0.611068964005
+csegi SNARC_only CD 3 num_separator 0.355077028275
+csegi SNARC_only CD 1 num_separator 0.379535198212
+csegi SNARC_only CD 6 lctrl 0.483491182327
+csegi SNARC_only CD 9 num_separator 0.578718185425
+csegi SNARC_only CD 4 lctrl 0.618630170822
+csegi SNARC_only CD 2 lctrl 0.354735136032
+csegi SNARC_only CD 2 lctrl 0.35520195961
+csegi SNARC_only CD 8 lctrl 0.615417003632
+csegi SNARC_only CD 8 lctrl 0.354123830795
+csegi SNARC_only CD 9 num_separator 0.457561016083
+csegi SNARC_only CD 3 num_separator 0.539880037308
+csegi SNARC_only CD 4 lctrl 0.650519132614
+csegi SNARC_only CD 6 lctrl 0.554868936539
+csegi SNARC_only CD 3 num_separator 0.522804021835
+csegi SNARC_only CD 1 num_separator 0.435147047043
+csegi SNARC_only CD 3 num_separator 0.474440813065
+csegi SNARC_only CD 7 num_separator 0.48987197876
+csegi SNARC_only CD 4 lctrl 0.442672967911
+csegi SNARC_only CD 8 lctrl 0.450545072556
+csegi SNARC_only CD 8 lctrl 0.378973960876
+csegi SNARC_only CD 7 num_separator 0.402645111084
+csegi SNARC_only CD 8 lctrl 0.4432721138
+csegi SNARC_only CD 5 num_separator 0.402831077576
+csegi SNARC_only CD 2 lctrl 0.355452060699
+csegi SNARC_only CD 6 lctrl 0.402714014053
+csegi SNARC_only CD 4 lctrl 0.386301040649
+csegi SNARC_only CD 1 num_separator 0.458163022995
+csegi SNARC_only CD 9 lctrl 0.387532949448
+csegi SNARC_only CD 9 num_separator 0.986226797104
+csegi SNARC_only CD 1 num_separator 0.531374931335
+csegi SNARC_only CD 2 lctrl 0.379140853882
+csegi SNARC_only CD 5 num_separator 0.490863084793
+csegi SNARC_only CD 2 lctrl 0.395992994308
+csegi SNARC_only CD 4 lctrl 0.514034986496
+csegi SNARC_only CD 8 lctrl 0.410597085953
+csegi SNARC_only CD 9 num_separator 0.522593021393
+csegi SNARC_only CD 5 num_separator 0.522818088531
+csegi SNARC_only CD 8 lctrl 0.612405061722
+csegi SNARC_only CD 7 num_separator 0.482115030289
+csegi SNARC_only CD 9 num_separator 0.546972990036
+csegi SNARC_only CD 5 num_separator 0.571527004242
+csegi SNARC_only CD 9 num_separator 0.659039974213
+csegi SNARC_only CD 3 num_separator 0.442595005035
+csegi SNARC_only CD 9 num_separator 0.425904035568
+csegi SNARC_only CD 2 lctrl 0.555495023727
+csegi SNARC_only CD 9 num_separator 0.450063943863
+csegi SNARC_only CD 8 lctrl 0.523637056351
+csegi SNARC_only CD 7 num_separator 0.530869960785
+csegi SNARC_only CD 6 lctrl 0.530930042267
+csegi SNARC_only CD 5 num_separator 0.530635118484
+csegi SNARC_only CD 8 lctrl 1.10737299919
+csegi SNARC_only CD 5 num_separator 0.586110830307
+csegi SNARC_only CD 1 num_separator 0.458002090454
+csegi SNARC_only CD 6 lctrl 0.651568889618
+csegi SNARC_only CD 6 lctrl 0.354862928391
+csegi SNARC_only CD 4 lctrl 0.426542043686
+csegi SNARC_only CD 4 lctrl 0.386828899384
+csegi SNARC_only CD 7 num_separator 0.554513931274
+csegi SNARC_only CD 9 num_separator 0.523319005966
+csegi SNARC_only CD 6 lctrl 0.729863882065
+csegi SNARC_only CD 5 num_separator 0.498789072037
+csegi SNARC_only CD 4 lctrl 0.594865083694
+csegi SNARC_only CD 9 num_separator 0.554401159286
+csegi SNARC_only CD 3 num_separator 0.698893070221
+csegi SNARC_only CD 4 lctrl 0.5948138237
+csegi SNARC_only CD 4 lctrl 0.401304960251
+csegi SNARC_only CD 7 num_separator 0.522537946701
+csegi SNARC_only CD 4 lctrl 0.466746091843
+csegi SNARC_only CD 3 num_separator 0.794924974442
+csegi SNARC_only CD 7 num_separator 0.587516069412
+csegi SNARC_only CD 6 lctrl 0.50666809082
+csegi SNARC_only CD 2 lctrl 0.570634126663
+csegi SNARC_only CD 7 num_separator 0.562201023102
+csegi SNARC_only CD 3 num_separator 0.506385087967
+csegi SNARC_only CD 8 lctrl 0.53070807457
+csegi SNARC_only CD 6 lctrl 0.386768817902
+csegi SNARC_only CD 4 lctrl 0.41148686409
+csegi SNARC_only CD 7 num_separator 0.666095018387
+csegi SNARC_only CD 3 num_separator 0.522927045822
+csegi SNARC_only CD 2 lctrl 0.530333995819
+csegi SNARC_only CD 8 lctrl 0.906960010529
+csegi SNARC_only CD 5 num_separator 0.49045085907
+csegi SNARC_only CD 2 lctrl 0.538190841675
+csegi SNARC_only CD 3 num_separator 0.58593583107
+csegi SNARC_only CD 3 num_separator 0.434947967529
+csegi SNARC_only CD 6 lctrl 0.563622951508
+csegi SNARC_only CD 2 lctrl 0.587080955505
+csegi SNARC_only CD 5 num_separator 0.563253164291
+csegi SNARC_only CD 5 num_separator 0.449959993362
+csegi SNARC_only CD 4 lctrl 0.56316614151
+csegi SNARC_only CD 3 num_separator 0.60267496109
+csegi SNARC_only CD 1 num_separator 0.474586963654
+csegi SNARC_only CD 9 num_separator 0.810033082962
+csegi SNARC_only CD 7 num_separator 0.411229133606
+csegi SNARC_only CD 6 lctrl 0.507025003433
+csegi SNARC_only CD 4 lctrl 0.37145614624
+csegi SNARC_only CD 1 num_separator 0.466054916382
+csegi SNARC_only CD 5 num_separator 0.481798887253
+csegi SNARC_only CD 7 num_separator 0.370841026306
+csegi SNARC_only CD 4 lctrl 0.596046924591
+csegi SNARC_only CD 6 lctrl 0.73109292984
+csegi SNARC_only CD 9 num_separator 0.562469005585
+csegi SNARC_only CD 1 num_separator 0.482862949371
+csegi SNARC_only CD 7 num_separator 0.451493024826
+csegi SNARC_only CD 2 lctrl 0.60222196579
+csegi SNARC_only CD 7 num_separator 0.47292304039
+csegi SNARC_only CD 1 num_separator 0.417781114578
+csegi SNARC_only CD 7 num_separator 0.411020040512
+csegi SNARC_only CD 9 num_separator 0.506500959396
+csegi SNARC_only CD 7 num_separator 0.410984039307
+csegi SNARC_only CD 4 lctrl 0.539510965347
+csegi SNARC_only CD 4 lctrl 0.378973007202
+csegi SNARC_only CD 3 num_separator 0.506706953049
+csegi SNARC_only CD 8 lctrl 0.507339000702
+csegi SNARC_only CD 6 lctrl 0.474644899368
+csegi SNARC_only CD 7 num_separator 0.607701063156
+csegi SNARC_only CD 9 num_separator 0.61111998558
+csegi SNARC_only CD 4 lctrl 0.571177005768

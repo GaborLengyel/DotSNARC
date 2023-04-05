@@ -1,0 +1,2166 @@
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '12_09_1047', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'trma', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+trma SNARC color arabic DC 0 up 1 lctrl 3.51122390212
+trma SNARC color arabic DC 0 down 9 lctrl 6.02975974004
+trma SNARC color arabic DC 0 down 1 lctrl 0.870691003376
+trma SNARC color arabic DC 0 down 9 lctrl 0.366187603098
+trma SNARC color arabic DC 0 up 5 comma 0.466085638145
+trma SNARC color arabic DC 0 down 9 lctrl 0.873818218151
+trma SNARC color arabic DC 0 up 4 comma 1.93781193021
+trma SNARC color arabic DC 0 down 4 lctrl 2.51057909638
+trma SNARC color arabic DC 0 up 6 num_decimal 6.07728825361
+trma SNARC color arabic DC 0 down 9 lctrl 0.740987924322
+trma SNARC color arabic DC 0 up 5 num_decimal 0.882421006641
+trma SNARC color arabic DC 0 up 1 num_decimal 0.457034154224
+trma SNARC color arabic DC 0 up 5 num_decimal 0.58463401223
+trma SNARC color arabic DC 0 down 4 lctrl 0.507329933262
+trma SNARC color arabic DC 0 up 8 num_decimal 0.528131900321
+trma SNARC color arabic DC 0 up 3 num_decimal 0.422243812285
+trma SNARC color arabic DC 0 up 4 num_decimal 0.351894822812
+trma SNARC color arabic DC 0 down 3 lctrl 0.331651397782
+trma SNARC color arabic DC 0 up 9 num_decimal 0.328659784602
+trma SNARC color arabic DC 0 up 9 num_decimal 0.302564700889
+trma SNARC color arabic DC 0 down 1 lctrl 0.396607974244
+trma SNARC color arabic DC 0 down 7 lctrl 0.495920471063
+trma SNARC color arabic DC 0 down 7 lctrl 0.279242778362
+trma SNARC color arabic DC 0 down 8 lctrl 0.303234951327
+trma SNARC color arabic DC 0 down 1 lctrl 0.277910965919
+trma SNARC color arabic DC 0 up 1 num_decimal 0.38994829142
+trma SNARC color arabic DC 0 down 8 lctrl 0.361015503886
+trma SNARC color arabic DC 0 up 3 num_decimal 0.380824817636
+trma SNARC color arabic DC 0 down 9 lctrl 0.439634328737
+trma SNARC color arabic DC 0 up 6 num_decimal 0.472567518424
+trma SNARC color arabic DC 0 up 5 num_decimal 0.448267526739
+trma SNARC color arabic DC 0 down 2 lctrl 0.416849227166
+trma SNARC color arabic DC 0 up 4 lctrl 0.4026724995
+trma SNARC color arabic DC 0 up 4 num_decimal 0.57351561249
+trma SNARC color arabic DC 0 up 4 num_decimal 0.369203730068
+trma SNARC color arabic DC 0 down 4 lctrl 0.476984344688
+trma SNARC color arabic DC 0 up 9 num_decimal 0.396883211342
+trma SNARC color arabic DC 0 up 7 num_decimal 0.415697079074
+trma SNARC color arabic DC 0 up 5 num_decimal 0.377683018709
+trma SNARC color arabic DC 0 down 7 lctrl 0.445646102804
+trma SNARC color arabic DC 0 down 5 lctrl 0.614597930416
+trma SNARC color arabic DC 0 down 9 lctrl 0.55221840483
+trma SNARC color arabic DC 0 up 7 num_decimal 0.412884199342
+trma SNARC color arabic DC 0 up 5 num_decimal 0.374748500935
+trma SNARC color arabic DC 0 up 6 num_decimal 0.330533072514
+trma SNARC color arabic DC 0 up 4 num_decimal 0.312589599451
+trma SNARC color arabic DC 0 down 3 lctrl 0.399326832732
+trma SNARC color arabic DC 0 up 7 num_decimal 0.39329426849
+trma SNARC color arabic DC 0 up 5 num_decimal 0.50813299258
+trma SNARC color arabic DC 0 down 3 lctrl 0.36982588383
+trma SNARC color arabic DC 0 down 2 lctrl 0.421669444897
+trma SNARC color arabic DC 0 down 8 lctrl 0.367590784801
+trma SNARC color arabic DC 0 down 6 lctrl 0.363479915448
+trma SNARC color arabic DC 0 up 1 num_decimal 0.376242600871
+trma SNARC color arabic DC 0 up 9 num_decimal 0.291378965803
+trma SNARC color arabic DC 0 down 4 lctrl 0.29025319331
+trma SNARC color arabic DC 0 up 1 num_decimal 0.265340046593
+trma SNARC color arabic DC 0 up 6 num_decimal 0.345357088334
+trma SNARC color arabic DC 0 up 6 num_decimal 0.390365956739
+trma SNARC color arabic DC 0 up 4 num_decimal 0.281026078948
+trma SNARC color arabic DC 0 down 8 lctrl 0.368103712566
+trma SNARC color arabic DC 0 down 4 num_decimal 0.355910429718
+trma SNARC color arabic DC 0 down 7 lctrl 0.503862318148
+trma SNARC color arabic DC 0 up 5 num_decimal 0.446639997319
+trma SNARC color arabic DC 0 down 1 lctrl 0.983375617034
+trma SNARC color arabic DC 0 up 1 num_decimal 0.578764976684
+trma SNARC color arabic DC 0 down 5 lctrl 0.590546179636
+trma SNARC color arabic DC 0 up 7 num_decimal 0.721231361764
+trma SNARC color arabic DC 0 down 3 lctrl 0.590769286146
+trma SNARC color arabic DC 0 up 2 num_decimal 0.64226593055
+trma SNARC color arabic DC 0 down 3 lctrl 0.867048068128
+trma SNARC color arabic DC 0 up 2 num_decimal 0.427173876618
+trma SNARC color arabic DC 0 down 7 lctrl 0.429203866599
+trma SNARC color arabic DC 0 down 6 lctrl 0.383110185448
+trma SNARC color arabic DC 0 down 6 lctrl 0.306099341044
+trma SNARC color arabic DC 0 up 6 num_decimal 0.368149637134
+trma SNARC color arabic DC 0 down 1 lctrl 0.547997688878
+trma SNARC color arabic DC 0 up 3 num_decimal 0.472736011936
+trma SNARC color arabic DC 0 down 7 lctrl 0.344594678461
+trma SNARC color arabic DC 0 up 1 num_decimal 0.365652954253
+trma SNARC color arabic DC 0 up 6 num_decimal 0.361186790109
+trma SNARC color arabic DC 0 up 1 num_decimal 0.294150575484
+trma SNARC color arabic DC 0 down 6 lctrl 0.541352279908
+trma SNARC color arabic DC 0 down 5 lctrl 0.434147584183
+trma SNARC color arabic DC 0 up 4 num_decimal 0.507054075557
+trma SNARC color arabic DC 0 up 3 num_decimal 0.376820071269
+trma SNARC color arabic DC 0 up 6 num_decimal 0.332674460604
+trma SNARC color arabic DC 0 down 3 lctrl 0.521573685968
+trma SNARC color arabic DC 0 down 3 lctrl 0.559387912406
+trma SNARC color arabic DC 0 up 3 num_decimal 0.500050579085
+trma SNARC color arabic DC 0 up 3 num_decimal 0.417833502344
+trma SNARC color arabic DC 0 down 7 lctrl 0.347623838077
+trma SNARC color arabic DC 0 up 8 num_decimal 0.352422955331
+trma SNARC color arabic DC 0 down 9 lctrl 0.47664952977
+trma SNARC color arabic DC 0 down 4 lctrl 0.396425827479
+trma SNARC color arabic DC 0 down 9 lctrl 0.319266969438
+trma SNARC color arabic DC 0 down 1 lctrl 0.60521008007
+trma SNARC color arabic DC 0 up 7 num_decimal 0.455824290124
+trma SNARC color arabic DC 0 down 1 lctrl 0.407762679215
+trma SNARC color arabic DC 0 down 8 lctrl 0.362475160395
+trma SNARC color arabic DC 0 down 8 lctrl 0.29514198759
+trma SNARC color arabic DC 0 down 7 lctrl 0.334468932031
+trma SNARC color arabic DC 0 down 5 lctrl 0.339617758658
+trma SNARC color arabic DC 0 down 8 lctrl 0.296598230787
+trma SNARC color arabic DC 0 down 8 lctrl 0.303967261991
+trma SNARC color arabic DC 0 up 2 num_decimal 0.41423338865
+trma SNARC color arabic DC 0 down 4 lctrl 0.424081415569
+trma SNARC color arabic DC 0 up 2 num_decimal 0.401884644934
+trma SNARC color arabic DC 0 up 9 num_decimal 0.467877937466
+trma SNARC color arabic DC 0 up 2 num_decimal 0.283655881014
+trma SNARC color arabic DC 0 up 1 num_decimal 0.322715345879
+trma SNARC color arabic DC 0 down 3 lctrl 0.392619363536
+trma SNARC color arabic DC 0 down 5 lctrl 0.316000119157
+trma SNARC color arabic DC 0 up 1 lctrl 0.281263769613
+trma SNARC color arabic DC 0 down 2 lctrl 0.56003240785
+trma SNARC color arabic DC 0 up 2 num_decimal 0.395941137118
+trma SNARC color arabic DC 0 down 2 lctrl 0.374766188101
+trma SNARC color arabic DC 0 down 2 lctrl 0.418658593044
+trma SNARC color arabic DC 0 down 6 lctrl 0.41261144465
+trma SNARC color arabic DC 0 down 3 lctrl 0.431351771012
+trma SNARC color arabic DC 0 down 2 lctrl 0.392435975567
+trma SNARC color arabic DC 0 down 8 lctrl 0.37111208201
+trma SNARC color arabic DC 0 up 7 num_decimal 0.479111458924
+trma SNARC color arabic DC 0 down 5 lctrl 0.582927045722
+trma SNARC color arabic DC 0 down 4 lctrl 0.602294800967
+trma SNARC color arabic DC 0 down 7 lctrl 0.484300314398
+trma SNARC color arabic DC 0 up 6 num_decimal 0.403120884632
+trma SNARC color arabic DC 0 down 4 lctrl 0.429837811806
+trma SNARC color arabic DC 0 up 3 num_decimal 0.494911992393
+trma SNARC color arabic DC 0 up 9 num_decimal 0.469756810799
+trma SNARC color arabic DC 0 down 8 lctrl 0.397573010752
+trma SNARC color arabic DC 0 up 3 num_decimal 0.399913612167
+trma SNARC color arabic DC 0 down 4 lctrl 0.346918523612
+trma SNARC color arabic DC 0 up 9 num_decimal 0.295937289382
+trma SNARC color arabic DC 0 up 9 num_decimal 0.398986742694
+trma SNARC color arabic DC 0 down 6 lctrl 0.384852836587
+trma SNARC color arabic DC 0 up 4 num_decimal 0.364213157016
+trma SNARC color arabic DC 0 up 8 num_decimal 0.35142688871
+trma SNARC color arabic DC 0 up 7 num_decimal 0.364318349099
+trma SNARC color arabic DC 0 up 9 num_decimal 0.392150188229
+trma SNARC color arabic DC 0 down 9 lctrl 0.587145279265
+trma SNARC color arabic DC 0 down 9 lctrl 0.390458426476
+trma SNARC color arabic DC 0 down 1 lctrl 0.31347457827
+trma SNARC color arabic DC 0 up 2 num_decimal 0.375559317785
+trma SNARC color arabic DC 0 up 7 num_decimal 0.427495038286
+trma SNARC color arabic DC 0 up 1 num_decimal 0.413519075451
+trma SNARC color arabic DC 0 down 2 lctrl 0.408075773053
+trma SNARC color arabic DC 0 up 6 num_decimal 0.338052599764
+trma SNARC color arabic DC 0 down 6 lctrl 0.678943213652
+trma SNARC color arabic DC 0 up 9 num_decimal 0.40656026234
+trma SNARC color arabic DC 0 down 9 lctrl 0.641205631593
+trma SNARC color arabic DC 0 down 8 lctrl 0.394157526229
+trma SNARC color arabic DC 0 down 6 lctrl 0.325108388184
+trma SNARC color arabic DC 0 down 1 lctrl 0.306921018433
+trma SNARC color arabic DC 0 down 2 lctrl 0.385115351341
+trma SNARC color arabic DC 0 down 3 lctrl 0.347821810197
+trma SNARC color arabic DC 0 up 7 num_decimal 0.367783481803
+trma SNARC color arabic DC 0 down 6 lctrl 0.35569383953
+trma SNARC color arabic DC 0 down 4 lctrl 0.392313716924
+trma SNARC color arabic DC 0 down 4 lctrl 0.347433623487
+trma SNARC color arabic DC 0 down 2 lctrl 0.30438523761
+trma SNARC color arabic DC 0 down 8 lctrl 0.495108723309
+trma SNARC color arabic DC 0 up 6 num_decimal 0.382172765738
+trma SNARC color arabic DC 0 up 9 num_decimal 0.37712757969
+trma SNARC color arabic DC 0 up 9 num_decimal 0.324904210041
+trma SNARC color arabic DC 0 down 9 lctrl 0.386975296307
+trma SNARC color arabic DC 0 down 2 lctrl 0.365877922572
+trma SNARC color arabic DC 0 down 4 lctrl 0.297846882529
+trma SNARC color arabic DC 0 up 5 num_decimal 0.375907165349
+trma SNARC color arabic DC 0 down 5 num_decimal 0.403795168984
+trma SNARC color arabic DC 0 down 7 lctrl 0.614479085083
+trma SNARC color arabic DC 0 down 9 lctrl 0.344396706339
+trma SNARC color arabic DC 0 down 5 lctrl 0.357182664344
+trma SNARC color arabic DC 0 down 6 lctrl 0.449903123988
+trma SNARC color arabic DC 0 down 5 lctrl 0.330084997684
+trma SNARC color arabic DC 0 up 3 num_decimal 0.480031812072
+trma SNARC color arabic DC 0 down 2 lctrl 0.447873134004
+trma SNARC color arabic DC 0 down 2 lctrl 0.392189906772
+trma SNARC color arabic DC 0 up 9 num_decimal 0.811112876381
+trma SNARC color arabic DC 0 up 1 num_decimal 0.51764837669
+trma SNARC color arabic DC 0 down 2 lctrl 0.499302132761
+trma SNARC color arabic DC 0 down 4 lctrl 0.346026718169
+trma SNARC color arabic DC 0 down 6 lctrl 0.351123414206
+trma SNARC color arabic DC 0 down 5 lctrl 0.347081431704
+trma SNARC color arabic DC 0 down 9 lctrl 0.351827797767
+trma SNARC color arabic DC 0 down 6 lctrl 0.291936887234
+trma SNARC color arabic DC 0 up 6 num_decimal 0.403019416162
+trma SNARC color arabic DC 0 up 2 num_decimal 0.340724602784
+trma SNARC color arabic DC 0 up 2 num_decimal 0.298115293004
+trma SNARC color arabic DC 0 down 2 lctrl 0.400718843595
+trma SNARC color arabic DC 0 down 7 lctrl 0.315350969195
+trma SNARC color arabic DC 0 down 7 lctrl 0.337414930946
+trma SNARC color arabic DC 0 down 6 lctrl 0.342335065641
+trma SNARC color arabic DC 0 up 1 num_decimal 0.459352724258
+trma SNARC color arabic DC 0 down 2 lctrl 0.827958814352
+trma SNARC color arabic DC 0 up 1 num_decimal 1.30942452794
+trma SNARC color arabic DC 0 up 6 num_decimal 0.587604524935
+trma SNARC color arabic DC 0 up 8 num_decimal 0.502288781125
+trma SNARC color arabic DC 0 up 1 num_decimal 0.565054011015
+trma SNARC color arabic DC 0 up 1 num_decimal 0.624918545955
+trma SNARC color arabic DC 0 up 9 num_decimal 0.370572158045
+trma SNARC color arabic DC 0 up 7 num_decimal 0.342327618413
+trma SNARC color arabic DC 0 up 6 num_decimal 0.307260487867
+trma SNARC color arabic DC 0 down 5 lctrl 0.49731403343
+trma SNARC color arabic DC 0 down 3 lctrl 0.424014700828
+trma SNARC color arabic DC 0 down 2 lctrl 0.345988861431
+trma SNARC color arabic DC 0 up 3 num_decimal 0.422716711206
+trma SNARC color arabic DC 0 down 5 lctrl 0.432804290596
+trma SNARC color arabic DC 0 up 6 num_decimal 0.433778946441
+trma SNARC color arabic DC 0 up 5 num_decimal 0.410503569085
+trma SNARC color arabic DC 0 up 5 num_decimal 0.389206671722
+trma SNARC color arabic DC 0 up 4 num_decimal 0.368347919553
+trma SNARC color arabic DC 0 down 1 lctrl 0.4122949375
+trma SNARC color arabic DC 0 up 7 num_decimal 0.454920382936
+trma SNARC color arabic DC 0 up 1 num_decimal 0.407074741614
+trma SNARC color arabic DC 0 down 7 lctrl 0.384624765258
+trma SNARC color arabic DC 0 down 2 lctrl 0.371517024982
+trma SNARC color arabic DC 0 down 6 lctrl 0.327467607665
+trma SNARC color arabic DC 0 up 8 lctrl 0.341328759081
+trma SNARC color arabic DC 0 down 6 lctrl 0.40243325733
+trma SNARC color arabic DC 0 down 5 lctrl 1.14110137041
+trma SNARC color arabic DC 0 down 5 lctrl 0.354457910134
+trma SNARC color arabic DC 0 up 8 num_decimal 0.438498626607
+trma SNARC color arabic DC 0 up 4 num_decimal 0.399968535465
+trma SNARC color arabic DC 0 down 3 lctrl 0.394209036218
+trma SNARC color arabic DC 0 down 4 lctrl 0.429178732209
+trma SNARC color arabic DC 0 down 4 lctrl 0.407012371084
+trma SNARC color arabic DC 0 up 3 num_decimal 0.392880016483
+trma SNARC color arabic DC 0 down 1 lctrl 0.363808834645
+trma SNARC color arabic DC 0 down 9 lctrl 0.520476150876
+trma SNARC color arabic DC 0 up 5 num_decimal 0.470397892932
+trma SNARC color arabic DC 0 up 7 num_decimal 0.430297678078
+trma SNARC color arabic DC 0 down 2 lctrl 0.336153867158
+trma SNARC color arabic DC 0 up 8 num_decimal 0.348995369066
+trma SNARC color arabic DC 0 down 7 lctrl 0.320875570487
+trma SNARC color arabic DC 0 up 2 num_decimal 0.294862406274
+trma SNARC color arabic DC 0 up 4 num_decimal 0.509817307107
+trma SNARC color arabic DC 0 down 7 lctrl 0.396546534619
+trma SNARC color arabic DC 0 up 5 num_decimal 0.447567487392
+trma SNARC color arabic DC 0 up 4 num_decimal 0.456115662884
+trma SNARC color arabic DC 0 up 8 num_decimal 0.320794892195
+trma SNARC color arabic DC 0 up 3 num_decimal 0.350850038911
+trma SNARC color arabic DC 0 up 8 num_decimal 0.354857267686
+trma SNARC color arabic DC 0 down 5 lctrl 0.438776346118
+trma SNARC color arabic DC 0 down 7 lctrl 0.463681735302
+trma SNARC color arabic DC 0 down 9 lctrl 0.392461109961
+trma SNARC color arabic DC 0 down 7 lctrl 0.315485639883
+trma SNARC color arabic DC 0 up 6 num_decimal 0.369506583969
+trma SNARC color arabic DC 0 down 1 lctrl 0.349391933909
+trma SNARC color arabic DC 0 down 2 lctrl 0.418048230726
+trma SNARC color arabic DC 0 down 1 lctrl 0.292027805463
+trma SNARC color arabic DC 0 down 8 lctrl 0.307083616224
+trma SNARC color arabic DC 0 up 5 num_decimal 0.425214014687
+trma SNARC color arabic DC 0 up 8 num_decimal 0.475126882133
+trma SNARC color arabic DC 0 down 1 lctrl 0.402919188897
+trma SNARC color arabic DC 0 up 3 num_decimal 0.452645565363
+trma SNARC color arabic DC 0 up 7 num_decimal 0.421459371033
+trma SNARC color arabic DC 0 down 3 lctrl 0.471413198224
+trma SNARC color arabic DC 0 down 2 lctrl 0.407244166028
+trma SNARC color arabic DC 0 up 3 num_decimal 0.385968989747
+trma SNARC color arabic DC 0 up 6 lctrl 0.397101353035
+trma SNARC color arabic DC 0 up 3 lctrl 0.440005138587
+trma SNARC color arabic DC 0 up 9 num_decimal 0.512863533288
+trma SNARC color arabic DC 0 down 1 lctrl 0.639581205183
+trma SNARC color arabic DC 0 down 5 lctrl 0.384298638772
+trma SNARC color arabic DC 0 down 3 lctrl 0.411157373563
+trma SNARC color arabic DC 0 up 6 num_decimal 0.413046486832
+trma SNARC color arabic DC 0 up 8 num_decimal 0.358984582999
+trma SNARC color arabic DC 0 up 9 num_decimal 0.338828662887
+trma SNARC color arabic DC 0 down 3 lctrl 0.447856067442
+trma SNARC color arabic DC 0 down 3 lctrl 0.352585553124
+trma SNARC color arabic DC 0 up 9 num_decimal 0.428537960377
+trma SNARC color arabic DC 0 down 8 lctrl 0.718384659209
+trma SNARC color arabic DC 0 down 9 lctrl 0.363937919916
+trma SNARC color arabic DC 0 up 3 num_decimal 0.416677940941
+trma SNARC color arabic DC 0 up 5 num_decimal 0.30665384916
+trma SNARC color arabic DC 0 down 3 lctrl 0.401359305124
+trma SNARC color arabic DC 0 down 4 lctrl 0.371419280127
+trma SNARC color arabic DC 0 up 1 num_decimal 0.399413096446
+trma SNARC color arabic DC 0 down 8 lctrl 0.402030486466
+trma SNARC color arabic DC 0 up 5 num_decimal 0.468266434478
+trma SNARC color arabic DC 0 down 5 lctrl 0.707981813872
+trma SNARC color arabic DC 0 down 8 lctrl 0.346591776524
+trma SNARC color arabic DC 0 down 4 lctrl 0.407485270005
+trma SNARC color arabic DC 0 down 7 lctrl 0.330227736205
+trma SNARC color arabic DC 0 down 1 lctrl 0.304172681337
+trma SNARC color arabic DC 0 up 2 num_decimal 0.414977801058
+trma SNARC color arabic DC 0 up 2 num_decimal 0.312961340203
+trma SNARC color arabic DC 0 down 3 lctrl 0.398881860912
+trma SNARC color arabic DC 0 down 4 lctrl 0.729457134381
+trma SNARC color arabic DC 0 up 4 num_decimal 0.399431404212
+trma SNARC color arabic DC 0 down 2 lctrl 0.37810161493
+trma SNARC color arabic DC 0 up 7 num_decimal 0.406009477838
+trma SNARC color arabic DC 0 up 5 num_decimal 0.511821852398
+trma SNARC color arabic DC 0 down 2 lctrl 0.470516117663
+trma SNARC color arabic DC 0 down 4 lctrl 0.470327144274
+trma SNARC color arabic DC 0 down 4 lctrl 0.214154323923
+trma SNARC color arabic DC 0 down 1 lctrl 0.384789224856
+trma SNARC color arabic DC 0 up 7 num_decimal 0.396039192274
+trma SNARC color arabic DC 0 down 5 lctrl 0.350884482335
+trma SNARC color arabic DC 0 down 1 lctrl 0.41902288657
+trma SNARC color arabic DC 0 down 5 lctrl 0.380665012555
+trma SNARC color arabic DC 0 up 1 num_decimal 0.408546499864
+trma SNARC color arabic DC 0 down 4 lctrl 0.37124458059
+trma SNARC color arabic DC 0 down 9 lctrl 0.335349876936
+trma SNARC color arabic DC 0 up 3 num_decimal 0.460340102449
+trma SNARC color arabic DC 0 down 2 lctrl 0.421064357695
+trma SNARC color arabic DC 0 down 4 lctrl 0.383082258348
+trma SNARC color arabic DC 0 down 7 lctrl 0.353973219771
+trma SNARC color arabic DC 0 down 6 lctrl 0.317905368087
+trma SNARC color arabic DC 0 up 5 num_decimal 0.963928735
+trma SNARC color arabic DC 0 down 1 lctrl 0.544320930805
+trma SNARC color arabic DC 0 up 9 num_decimal 0.613005775323
+trma SNARC color arabic DC 0 up 4 num_decimal 0.375597795124
+trma SNARC color arabic DC 0 down 9 lctrl 0.499556579687
+trma SNARC color arabic DC 0 up 7 num_decimal 0.802194821943
+trma SNARC color arabic DC 0 up 8 num_decimal 0.708646168589
+trma SNARC color arabic DC 0 down 2 lctrl 0.387166441802
+trma SNARC color arabic DC 0 up 7 num_decimal 0.350138208121
+trma SNARC color arabic DC 0 up 8 num_decimal 0.361930892215
+trma SNARC color arabic DC 0 down 8 lctrl 0.350025879114
+trma SNARC color arabic DC 0 up 8 num_decimal 0.386091248391
+trma SNARC color arabic DC 0 up 1 num_decimal 0.580971528008
+trma SNARC color arabic DC 0 down 8 num_decimal 0.527588873347
+trma SNARC color arabic DC 0 up 8 num_decimal 0.541455299883
+trma SNARC color arabic DC 0 up 8 num_decimal 0.546079717602
+trma SNARC color arabic DC 0 up 8 num_decimal 0.454812087843
+trma SNARC color arabic DC 0 up 8 num_decimal 0.375504704785
+trma SNARC color arabic DC 0 down 7 lctrl 0.459445814597
+trma SNARC color arabic DC 0 down 6 lctrl 0.356227867773
+trma SNARC color arabic DC 0 up 6 num_decimal 0.512332297756
+trma SNARC color arabic DC 0 down 7 lctrl 0.462826235091
+trma SNARC color arabic DC 0 down 7 lctrl 0.478866941636
+trma SNARC color arabic DC 0 down 3 lctrl 1.01472347825
+trma SNARC color arabic DC 0 up 1 num_decimal 0.784076028742
+trma SNARC color arabic DC 0 down 7 lctrl 0.595423182473
+trma SNARC color arabic DC 0 up 9 num_decimal 0.470310388013
+trma SNARC color arabic DC 0 up 9 num_decimal 0.590111758054
+trma SNARC color arabic DC 0 up 3 num_decimal 0.360715442694
+trma SNARC color arabic DC 0 up 8 num_decimal 0.389377957947
+trma SNARC color arabic DC 0 up 4 num_decimal 0.64056982458
+trma SNARC color arabic DC 0 up 6 num_decimal 0.409173928747
+trma SNARC color arabic DC 0 down 5 lctrl 0.475907910073
+trma SNARC color arabic DC 0 up 6 num_decimal 0.403732798457
+trma SNARC color arabic DC 0 up 2 num_decimal 0.422546045585
+trma SNARC color arabic DC 0 down 3 lctrl 0.560451624675
+trma SNARC color arabic DC 0 down 3 lctrl 0.461218254643
+trma SNARC color arabic DC 0 down 2 lctrl 0.396978473789
+trma SNARC color arabic DC 0 down 4 lctrl 0.399948055592
+trma SNARC color arabic DC 0 down 6 lctrl 0.313777432171
+trma SNARC color arabic DC 0 down 8 lctrl 0.336519712189
+trma SNARC color arabic DC 0 down 9 lctrl 0.365601133964
+trma SNARC color arabic DC 0 down 8 lctrl 0.393487275793
+trma SNARC color arabic DC 0 down 5 lctrl 0.420900829
+trma SNARC color arabic DC 0 down 3 lctrl 0.326172100455
+trma SNARC color arabic DC 0 up 8 num_decimal 0.572273166772
+trma SNARC color arabic DC 0 down 2 lctrl 0.495928538892
+trma SNARC color arabic DC 0 up 6 num_decimal 0.566721258978
+trma SNARC color arabic DC 0 down 2 lctrl 0.426403709216
+trma SNARC color arabic DC 0 down 5 lctrl 0.468314531154
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'DC', 'dateStr': '12_09_1056', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'trma', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+trma SNARC color dot DC 0 down 25 lctrl 1.61811519371
+trma SNARC color dot DC 0 up 35 num_decimal 0.459346828535
+trma SNARC color dot DC 0 down 30 lctrl 0.458574489026
+trma SNARC color dot DC 0 up 15 num_decimal 0.403365091619
+trma SNARC color dot DC 0 up 35 num_decimal 0.38927742038
+trma SNARC color dot DC 0 up 30 num_decimal 0.343612265086
+trma SNARC color dot DC 0 up 45 num_decimal 0.314977056334
+trma SNARC color dot DC 0 down 45 lctrl 0.383751888183
+trma SNARC color dot DC 0 up 25 num_decimal 0.402414018659
+trma SNARC color dot DC 0 down 20 lctrl 0.355608817021
+trma SNARC color dot DC 0 up 10 num_decimal 0.456421619798
+trma SNARC color dot DC 0 up 10 num_decimal 0.376433436064
+trma SNARC color dot DC 0 down 45 lctrl 0.395100531359
+trma SNARC color dot DC 0 up 25 num_decimal 0.405251722481
+trma SNARC color dot DC 0 down 30 lctrl 0.375062215375
+trma SNARC color dot DC 0 up 15 num_decimal 0.306990215584
+trma SNARC color dot DC 0 up 35 num_decimal 0.29602200159
+trma SNARC color dot DC 0 down 30 lctrl 0.365936569484
+trma SNARC color dot DC 0 up 20 num_decimal 0.400819381161
+trma SNARC color dot DC 0 down 10 lctrl 0.330682637659
+trma SNARC color dot DC 0 up 35 num_decimal 0.367497073859
+trma SNARC color dot DC 0 up 10 num_decimal 0.291560491964
+trma SNARC color dot DC 0 up 30 num_decimal 0.433442269717
+trma SNARC color dot DC 0 up 35 num_decimal 0.386188993247
+trma SNARC color dot DC 0 down 10 lctrl 0.373356179771
+trma SNARC color dot DC 0 down 25 lctrl 0.328248325306
+trma SNARC color dot DC 0 up 45 num_decimal 0.428511274482
+trma SNARC color dot DC 0 up 10 num_decimal 0.44664061792
+trma SNARC color dot DC 0 down 15 lctrl 0.486839198231
+trma SNARC color dot DC 0 down 25 lctrl 0.485283658674
+trma SNARC color dot DC 0 up 40 num_decimal 0.403231662134
+trma SNARC color dot DC 0 down 25 lctrl 0.453196039565
+trma SNARC color dot DC 0 up 25 num_decimal 0.589169063227
+trma SNARC color dot DC 0 up 10 num_decimal 0.44797087886
+trma SNARC color dot DC 0 down 40 lctrl 0.471113757636
+trma SNARC color dot DC 0 down 20 lctrl 0.343197392478
+trma SNARC color dot DC 0 down 30 lctrl 0.355759002767
+trma SNARC color dot DC 0 up 30 num_decimal 0.415658291431
+trma SNARC color dot DC 0 down 30 lctrl 0.368138466294
+trma SNARC color dot DC 0 up 25 num_decimal 0.579144164663
+trma SNARC color dot DC 0 down 45 lctrl 0.525400009185
+trma SNARC color dot DC 0 down 10 lctrl 0.42728496442
+trma SNARC color dot DC 0 up 20 num_decimal 0.404723589962
+trma SNARC color dot DC 0 up 5 num_decimal 0.43937926121
+trma SNARC color dot DC 0 up 35 num_decimal 0.303173822003
+trma SNARC color dot DC 0 up 35 num_decimal 0.332832714179
+trma SNARC color dot DC 0 down 30 lctrl 0.393345778477
+trma SNARC color dot DC 0 down 25 lctrl 0.291435130308
+trma SNARC color dot DC 0 down 40 lctrl 0.273627258837
+trma SNARC color dot DC 0 up 45 num_decimal 0.336396522642
+trma SNARC color dot DC 0 down 20 lctrl 0.412441709932
+trma SNARC color dot DC 0 up 45 num_decimal 0.325963888396
+trma SNARC color dot DC 0 down 10 lctrl 0.323008270147
+trma SNARC color dot DC 0 up 40 num_decimal 0.312292641271
+trma SNARC color dot DC 0 down 40 lctrl 0.278194581149
+trma SNARC color dot DC 0 down 10 lctrl 0.446217367182
+trma SNARC color dot DC 0 up 30 num_decimal 0.36646625351
+trma SNARC color dot DC 0 down 40 lctrl 0.449086101116
+trma SNARC color dot DC 0 up 15 num_decimal 0.536793956326
+trma SNARC color dot DC 0 up 25 lctrl 0.30962839578
+trma SNARC color dot DC 0 up 40 num_decimal 0.570159395484
+trma SNARC color dot DC 0 up 45 num_decimal 0.35637619171
+trma SNARC color dot DC 0 down 20 lctrl 0.424279077388
+trma SNARC color dot DC 0 up 5 num_decimal 0.506002465032
+trma SNARC color dot DC 0 up 20 num_decimal 0.336032849718
+trma SNARC color dot DC 0 up 20 num_decimal 0.284415808477
+trma SNARC color dot DC 0 down 20 lctrl 0.37063670068
+trma SNARC color dot DC 0 down 5 num_decimal 0.3909601834
+trma SNARC color dot DC 0 up 10 num_decimal 0.736776207103
+trma SNARC color dot DC 0 up 30 num_decimal 0.477455071499
+trma SNARC color dot DC 0 up 45 num_decimal 0.427853436089
+trma SNARC color dot DC 0 up 20 num_decimal 0.293207260052
+trma SNARC color dot DC 0 up 35 num_decimal 0.362646136316
+trma SNARC color dot DC 0 up 10 num_decimal 0.302835283472
+trma SNARC color dot DC 0 up 25 num_decimal 0.404239830501
+trma SNARC color dot DC 0 up 10 num_decimal 0.775067986977
+trma SNARC color dot DC 0 up 20 num_decimal 0.338077734155
+trma SNARC color dot DC 0 up 25 num_decimal 0.358162285009
+trma SNARC color dot DC 0 down 45 lctrl 0.393471140133
+trma SNARC color dot DC 0 up 40 num_decimal 0.403895085947
+trma SNARC color dot DC 0 down 40 lctrl 0.396690204041
+trma SNARC color dot DC 0 up 35 num_decimal 0.383516679927
+trma SNARC color dot DC 0 down 5 lctrl 0.442396008782
+trma SNARC color dot DC 0 down 5 lctrl 0.371713135295
+trma SNARC color dot DC 0 up 30 num_decimal 0.462874642068
+trma SNARC color dot DC 0 down 15 lctrl 0.591756354037
+trma SNARC color dot DC 0 up 10 num_decimal 0.379205666346
+trma SNARC color dot DC 0 down 20 lctrl 0.59007731463
+trma SNARC color dot DC 0 down 5 num_decimal 0.480545050139
+trma SNARC color dot DC 0 up 5 num_decimal 0.36043337897
+trma SNARC color dot DC 0 up 10 num_decimal 0.412129236696
+trma SNARC color dot DC 0 up 45 lctrl 0.325515192964
+trma SNARC color dot DC 0 down 40 lctrl 0.546435632996
+trma SNARC color dot DC 0 down 5 lctrl 0.527583908528
+trma SNARC color dot DC 0 up 5 num_decimal 0.437472150474
+trma SNARC color dot DC 0 down 40 lctrl 0.63759496766
+trma SNARC color dot DC 0 up 35 num_decimal 0.470146238717
+trma SNARC color dot DC 0 up 5 lctrl 3.54237503243
+trma SNARC color dot DC 0 down 40 lctrl 0.730272295446
+trma SNARC color dot DC 0 down 45 lctrl 0.702038616355
+trma SNARC color dot DC 0 down 15 lctrl 0.493447371067
+trma SNARC color dot DC 0 up 15 num_decimal 0.636969710888
+trma SNARC color dot DC 0 down 40 lctrl 0.580871300745
+trma SNARC color dot DC 0 up 40 lctrl 1.01472658126
+trma SNARC color dot DC 0 down 30 lctrl 0.551835803537
+trma SNARC color dot DC 0 up 15 num_decimal 1.15649168579
+trma SNARC color dot DC 0 up 20 num_decimal 0.553216022958
+trma SNARC color dot DC 0 down 45 lctrl 0.67610799224
+trma SNARC color dot DC 0 down 5 lctrl 0.987609055332
+trma SNARC color dot DC 0 down 10 lctrl 0.535096298852
+trma SNARC color dot DC 0 down 25 lctrl 0.418672246295
+trma SNARC color dot DC 0 down 45 lctrl 0.379247246699
+trma SNARC color dot DC 0 up 5 num_decimal 0.439260415878
+trma SNARC color dot DC 0 down 5 lctrl 0.543879372299
+trma SNARC color dot DC 0 up 25 num_decimal 0.620584259788
+trma SNARC color dot DC 0 down 30 lctrl 0.43658872316
+trma SNARC color dot DC 0 up 5 num_decimal 0.565485329584
+trma SNARC color dot DC 0 up 15 num_decimal 0.393674697674
+trma SNARC color dot DC 0 up 5 num_decimal 0.413047728036
+trma SNARC color dot DC 0 down 30 lctrl 0.638616168675
+trma SNARC color dot DC 0 down 15 lctrl 0.384153107541
+trma SNARC color dot DC 0 down 45 lctrl 0.344934768496
+trma SNARC color dot DC 0 up 5 num_decimal 0.389983355448
+trma SNARC color dot DC 0 down 25 lctrl 0.375901269628
+trma SNARC color dot DC 0 down 25 lctrl 0.402874195233
+trma SNARC color dot DC 0 down 35 lctrl 0.371621286162
+trma SNARC color dot DC 0 up 20 num_decimal 0.414539966165
+trma SNARC color dot DC 0 down 15 lctrl 0.368617571236
+trma SNARC color dot DC 0 up 45 lctrl 0.355088131726
+trma SNARC color dot DC 0 down 45 lctrl 0.365999250313
+trma SNARC color dot DC 0 down 40 lctrl 0.441481551357
+trma SNARC color dot DC 0 up 10 num_decimal 0.466200449566
+trma SNARC color dot DC 0 up 45 num_decimal 0.368694836216
+trma SNARC color dot DC 0 up 15 num_decimal 0.43595632946
+trma SNARC color dot DC 0 up 30 num_decimal 0.420691375737
+trma SNARC color dot DC 0 down 40 lctrl 0.469903583233
+trma SNARC color dot DC 0 down 20 lctrl 0.445169480272
+trma SNARC color dot DC 0 down 5 lctrl 0.390355716803
+trma SNARC color dot DC 0 up 15 num_decimal 0.480289362009
+trma SNARC color dot DC 0 down 5 lctrl 0.856073648112
+trma SNARC color dot DC 0 up 5 num_decimal 0.534544583446
+trma SNARC color dot DC 0 down 45 lctrl 0.570550374907
+trma SNARC color dot DC 0 up 25 num_decimal 0.405026133561
+trma SNARC color dot DC 0 down 35 lctrl 0.469972780384
+trma SNARC color dot DC 0 down 30 lctrl 0.749242865246
+trma SNARC color dot DC 0 down 30 lctrl 0.457246400196
+trma SNARC color dot DC 0 up 15 num_decimal 0.46528413033
+trma SNARC color dot DC 0 down 10 lctrl 0.544994904856
+trma SNARC color dot DC 0 up 15 num_decimal 0.645963168497
+trma SNARC color dot DC 0 down 15 lctrl 0.670502712652
+trma SNARC color dot DC 0 down 40 lctrl 0.420138419127
+trma SNARC color dot DC 0 up 30 num_decimal 0.57304271357
+trma SNARC color dot DC 0 up 25 num_decimal 0.375750152978
+trma SNARC color dot DC 0 down 40 lctrl 0.722467291158
+trma SNARC color dot DC 0 up 20 num_decimal 0.536243792425
+trma SNARC color dot DC 0 down 15 lctrl 0.693044227841
+trma SNARC color dot DC 0 up 40 num_decimal 0.491697583004
+trma SNARC color dot DC 0 down 30 lctrl 0.625496326655
+trma SNARC color dot DC 0 up 30 num_decimal 0.418275060851
+trma SNARC color dot DC 0 down 30 lctrl 0.403479592736
+trma SNARC color dot DC 0 up 25 num_decimal 0.413035936594
+trma SNARC color dot DC 0 down 20 lctrl 0.685839345935
+trma SNARC color dot DC 0 down 40 lctrl 0.32450485249
+trma SNARC color dot DC 0 down 40 lctrl 0.337141865954
+trma SNARC color dot DC 0 down 5 lctrl 0.414640193429
+trma SNARC color dot DC 0 up 10 num_decimal 0.504415274758
+trma SNARC color dot DC 0 down 25 lctrl 0.462184842658
+trma SNARC color dot DC 0 down 30 lctrl 0.468919618355
+trma SNARC color dot DC 0 down 15 lctrl 0.588820284758
+trma SNARC color dot DC 0 down 15 lctrl 2.91156448864
+trma SNARC color dot DC 0 down 15 lctrl 0.638041801285
+trma SNARC color dot DC 0 up 20 num_decimal 0.735491250129
+trma SNARC color dot DC 0 up 45 num_decimal 0.55430300781
+trma SNARC color dot DC 0 down 35 lctrl 0.558094887601
+trma SNARC color dot DC 0 down 45 lctrl 0.392467626283
+trma SNARC color dot DC 0 up 25 num_decimal 1.18724252764
+trma SNARC color dot DC 0 down 35 lctrl 0.724863436473
+trma SNARC color dot DC 0 down 35 lctrl 0.386238951729
+trma SNARC color dot DC 0 down 15 lctrl 0.333425079034
+trma SNARC color dot DC 0 up 25 num_decimal 0.401332619227
+trma SNARC color dot DC 0 down 10 lctrl 0.9240351807
+trma SNARC color dot DC 0 up 5 num_decimal 0.681718546946
+trma SNARC color dot DC 0 down 25 lctrl 1.21625847588
+trma SNARC color dot DC 0 down 5 lctrl 0.906305815415
+trma SNARC color dot DC 0 up 40 num_decimal 0.671566114619
+trma SNARC color dot DC 0 down 25 lctrl 0.422524634805
+trma SNARC color dot DC 0 up 40 num_decimal 0.583381947177
+trma SNARC color dot DC 0 down 45 lctrl 0.408781397819
+trma SNARC color dot DC 0 up 25 num_decimal 2.55404235486
+trma SNARC color dot DC 0 up 30 num_decimal 0.492790153276
+trma SNARC color dot DC 0 down 40 lctrl 1.20251368738
+trma SNARC color dot DC 0 down 45 lctrl 0.539554395167
+trma SNARC color dot DC 0 up 5 num_decimal 0.537095569023
+trma SNARC color dot DC 0 down 45 lctrl 0.556253250405
+trma SNARC color dot DC 0 down 45 lctrl 0.335493856659
+trma SNARC color dot DC 0 down 15 lctrl 0.340942744479
+trma SNARC color dot DC 0 up 20 num_decimal 0.43305594481
+trma SNARC color dot DC 0 up 40 num_decimal 0.720808421323
+trma SNARC color dot DC 0 up 5 num_decimal 0.518476570403
+trma SNARC color dot DC 0 down 15 lctrl 1.66019109585
+trma SNARC color dot DC 0 down 35 lctrl 0.595702763791
+trma SNARC color dot DC 0 down 35 lctrl 0.941892079749
+trma SNARC color dot DC 0 down 15 lctrl 0.395137457193
+trma SNARC color dot DC 0 down 5 lctrl 0.541928509103
+trma SNARC color dot DC 0 up 35 num_decimal 0.338645274922
+trma SNARC color dot DC 0 up 15 num_decimal 0.319162397958
+trma SNARC color dot DC 0 up 20 num_decimal 0.285131983483
+trma SNARC color dot DC 0 up 5 num_decimal 0.364608170354
+trma SNARC color dot DC 0 up 30 num_decimal 0.36762088401
+trma SNARC color dot DC 0 up 30 num_decimal 0.387022151777
+trma SNARC color dot DC 0 down 40 lctrl 0.437491699446
+trma SNARC color dot DC 0 down 10 lctrl 0.366401710877
+trma SNARC color dot DC 0 up 5 num_decimal 0.450328546834
+trma SNARC color dot DC 0 down 20 lctrl 0.522109886319
+trma SNARC color dot DC 0 down 35 lctrl 1.42281724877
+trma SNARC color dot DC 0 down 35 lctrl 1.10372435827
+trma SNARC color dot DC 0 down 15 lctrl 0.430117082822
+trma SNARC color dot DC 0 up 35 num_decimal 1.3190376569
+trma SNARC color dot DC 0 up 20 num_decimal 0.443960547072
+trma SNARC color dot DC 0 up 30 num_decimal 0.531847756338
+trma SNARC color dot DC 0 up 10 num_decimal 0.616650572381
+trma SNARC color dot DC 0 down 45 lctrl 0.392286720724
+trma SNARC color dot DC 0 up 5 num_decimal 0.675319517073
+trma SNARC color dot DC 0 up 35 num_decimal 0.745882304022
+trma SNARC color dot DC 0 up 10 num_decimal 0.791242743609
+trma SNARC color dot DC 0 up 10 num_decimal 0.730095113502
+trma SNARC color dot DC 0 down 20 num_decimal 0.702633463618
+trma SNARC color dot DC 0 up 25 num_decimal 1.10019530353
+trma SNARC color dot DC 0 up 35 num_decimal 0.401304381825
+trma SNARC color dot DC 0 up 25 num_decimal 0.69135308669
+trma SNARC color dot DC 0 down 15 lctrl 1.96193660176
+trma SNARC color dot DC 0 up 35 num_decimal 0.773099436617
+trma SNARC color dot DC 0 down 45 lctrl 0.479580013629
+trma SNARC color dot DC 0 up 40 num_decimal 0.470335212103
+trma SNARC color dot DC 0 up 15 num_decimal 0.438319893157
+trma SNARC color dot DC 0 down 5 num_decimal 0.423536216485
+trma SNARC color dot DC 0 up 10 num_decimal 0.46536356742
+trma SNARC color dot DC 0 up 45 num_decimal 0.431886109556
+trma SNARC color dot DC 0 down 10 lctrl 0.528992675652
+trma SNARC color dot DC 0 up 20 num_decimal 0.590440677252
+trma SNARC color dot DC 0 down 30 lctrl 0.72830188328
+trma SNARC color dot DC 0 down 35 lctrl 0.389191156666
+trma SNARC color dot DC 0 down 30 lctrl 0.390970733639
+trma SNARC color dot DC 0 down 35 lctrl 0.385319529485
+trma SNARC color dot DC 0 down 40 lctrl 0.31451377675
+trma SNARC color dot DC 0 down 10 lctrl 0.407880593644
+trma SNARC color dot DC 0 up 45 lctrl 0.360690618603
+trma SNARC color dot DC 0 down 20 lctrl 0.38074631145
+trma SNARC color dot DC 0 down 35 lctrl 0.376071935249
+trma SNARC color dot DC 0 down 35 lctrl 0.387295527073
+trma SNARC color dot DC 0 up 35 num_decimal 0.340400648405
+trma SNARC color dot DC 0 down 25 lctrl 0.352833483726
+trma SNARC color dot DC 0 down 25 lctrl 0.404390947149
+trma SNARC color dot DC 0 down 5 lctrl 0.407097083295
+trma SNARC color dot DC 0 down 20 lctrl 0.424168920486
+trma SNARC color dot DC 0 down 5 lctrl 0.362020258941
+trma SNARC color dot DC 0 down 35 lctrl 0.316944675791
+trma SNARC color dot DC 0 up 20 num_decimal 0.377975012072
+trma SNARC color dot DC 0 up 25 num_decimal 0.30069048207
+trma SNARC color dot DC 0 up 15 num_decimal 0.402982490328
+trma SNARC color dot DC 0 down 10 lctrl 0.500895529056
+trma SNARC color dot DC 0 down 25 lctrl 0.410525290163
+trma SNARC color dot DC 0 down 40 lctrl 0.355362748225
+trma SNARC color dot DC 0 up 10 num_decimal 0.32806555794
+trma SNARC color dot DC 0 down 35 lctrl 0.381399805628
+trma SNARC color dot DC 0 down 25 lctrl 0.367631123949
+trma SNARC color dot DC 0 down 25 lctrl 0.402216046539
+trma SNARC color dot DC 0 up 5 num_decimal 0.412954637699
+trma SNARC color dot DC 0 down 40 lctrl 0.413704635526
+trma SNARC color dot DC 0 down 40 lctrl 0.406816881374
+trma SNARC color dot DC 0 up 45 num_decimal 0.487417909837
+trma SNARC color dot DC 0 up 10 num_decimal 0.438924049455
+trma SNARC color dot DC 0 down 5 lctrl 0.440216763956
+trma SNARC color dot DC 0 up 45 num_decimal 0.99207056496
+trma SNARC color dot DC 0 down 15 lctrl 0.610774399909
+trma SNARC color dot DC 0 down 30 lctrl 0.39645592669
+trma SNARC color dot DC 0 up 15 num_decimal 0.551383074189
+trma SNARC color dot DC 0 up 5 num_decimal 0.412065314664
+trma SNARC color dot DC 0 up 45 num_decimal 0.860714511791
+trma SNARC color dot DC 0 down 20 lctrl 0.597360702719
+trma SNARC color dot DC 0 up 10 num_decimal 0.552797116434
+trma SNARC color dot DC 0 up 15 num_decimal 0.405011549408
+trma SNARC color dot DC 0 up 30 num_decimal 0.430147492334
+trma SNARC color dot DC 0 up 25 num_decimal 0.391569925119
+trma SNARC color dot DC 0 down 45 lctrl 0.441475035033
+trma SNARC color dot DC 0 down 30 num_decimal 0.41813170173
+trma SNARC color dot DC 0 up 5 num_decimal 0.524245378685
+trma SNARC color dot DC 0 up 10 num_decimal 0.37829369133
+trma SNARC color dot DC 0 up 30 num_decimal 0.365162678469
+trma SNARC color dot DC 0 up 25 num_decimal 0.34414381092
+trma SNARC color dot DC 0 down 35 lctrl 0.444328874513
+trma SNARC color dot DC 0 down 40 lctrl 0.379829992218
+trma SNARC color dot DC 0 up 15 num_decimal 0.471941020443
+trma SNARC color dot DC 0 up 35 num_decimal 0.486855333889
+trma SNARC color dot DC 0 down 40 lctrl 0.396546224318
+trma SNARC color dot DC 0 down 10 lctrl 0.351364828484
+trma SNARC color dot DC 0 down 15 lctrl 0.308115677779
+trma SNARC color dot DC 0 down 45 lctrl 0.31305132753
+trma SNARC color dot DC 0 down 5 lctrl 0.359338946888
+trma SNARC color dot DC 0 down 45 lctrl 0.410225849573
+trma SNARC color dot DC 0 up 25 lctrl 0.284212250937
+trma SNARC color dot DC 0 up 10 num_decimal 0.49931795812
+trma SNARC color dot DC 0 up 5 num_decimal 0.46586656555
+trma SNARC color dot DC 0 down 40 lctrl 0.512521271143
+trma SNARC color dot DC 0 down 35 lctrl 0.382480274156
+trma SNARC color dot DC 0 down 20 lctrl 0.40051714786
+trma SNARC color dot DC 0 up 25 num_decimal 0.570452630051
+trma SNARC color dot DC 0 up 45 num_decimal 0.332830542071
+trma SNARC color dot DC 0 down 20 lctrl 0.473128232563
+trma SNARC color dot DC 0 down 5 lctrl 0.529008190708
+trma SNARC color dot DC 0 down 35 lctrl 0.574280194473
+trma SNARC color dot DC 0 up 5 num_decimal 1.08237377881
+trma SNARC color dot DC 0 down 15 num_decimal 0.632762958485
+trma SNARC color dot DC 0 down 10 lctrl 0.441446177028
+trma SNARC color dot DC 0 down 20 lctrl 0.338266397242
+trma SNARC color dot DC 0 up 40 num_decimal 0.438709941674
+trma SNARC color dot DC 0 down 30 lctrl 0.415175152575
+trma SNARC color dot DC 0 down 15 lctrl 0.409146311946
+trma SNARC color dot DC 0 down 25 lctrl 0.361939270346
+trma SNARC color dot DC 0 up 40 num_decimal 0.435742221682
+trma SNARC color dot DC 0 up 20 num_decimal 0.445391035277
+trma SNARC color dot DC 0 down 5 lctrl 0.462482111139
+trma SNARC color dot DC 0 up 15 num_decimal 0.422611829425
+trma SNARC color dot DC 0 down 30 lctrl 0.535362537221
+trma SNARC color dot DC 0 down 10 lctrl 0.436211396987
+trma SNARC color dot DC 0 up 20 num_decimal 0.420406829604
+trma SNARC color dot DC 0 up 30 num_decimal 0.397275742273
+trma SNARC color dot DC 0 down 20 lctrl 0.407795260833
+trma SNARC color dot DC 0 up 40 num_decimal 0.377216325811
+trma SNARC color dot DC 0 up 40 num_decimal 0.356421495675
+trma SNARC color dot DC 0 up 15 num_decimal 0.384691790301
+trma SNARC color dot DC 0 down 15 lctrl 0.419987612779
+trma SNARC color dot DC 0 down 20 lctrl 0.405252963687
+trma SNARC color dot DC 0 down 30 lctrl 0.375325040432
+trma SNARC color dot DC 0 up 30 num_decimal 0.506627101204
+trma SNARC color dot DC 0 down 20 lctrl 0.544142197354
+trma SNARC color dot DC 0 up 10 num_decimal 0.428858501446
+trma SNARC color dot DC 0 down 20 lctrl 1.02163264318
+trma SNARC color dot DC 0 down 20 lctrl 0.551108767993
+trma SNARC color dot DC 0 down 30 lctrl 0.395083154497
+trma SNARC color dot DC 0 up 10 num_decimal 0.446410064184
+trma SNARC color dot DC 0 up 10 num_decimal 0.383755301495
+trma SNARC color dot DC 0 down 35 lctrl 0.498207080078
+trma SNARC color dot DC 0 down 25 lctrl 0.400175506318
+trma SNARC color dot DC 0 down 40 lctrl 0.434214298923
+trma SNARC color dot DC 0 up 35 num_decimal 0.482108036924
+trma SNARC color dot DC 0 up 20 num_decimal 0.496028145553
+trma SNARC color dot DC 0 down 45 lctrl 0.573349291086
+trma SNARC color dot DC 0 up 35 num_decimal 0.504439788547
+trma SNARC color dot DC 0 up 40 num_decimal 0.549132149803
+trma SNARC color dot DC 0 down 15 lctrl 0.625802283568
+trma SNARC color dot DC 0 up 45 num_decimal 0.466404007106
+trma SNARC color dot DC 0 up 25 num_decimal 0.369576401723
+trma SNARC color dot DC 0 down 35 lctrl 0.531457397517
+trma SNARC color dot DC 0 down 45 lctrl 1.26290542394
+trma SNARC color dot DC 0 down 10 lctrl 0.423316833589
+trma SNARC color dot DC 0 down 45 lctrl 0.33582960248
+trma SNARC color dot DC 0 up 20 num_decimal 0.388164680531
+trma SNARC color dot DC 0 down 35 lctrl 0.422020085171
+trma SNARC color dot DC 0 down 30 lctrl 0.439236522692
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'CD', 'dateStr': '12_09_1105', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'trma', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+trma SNARC color arabic CD 0 down 3 num_0 1.10451159223
+trma SNARC color arabic CD 0 up 6 lctrl 0.490621148387
+trma SNARC color arabic CD 0 down 9 num_decimal 0.521321411152
+trma SNARC color arabic CD 0 up 8 lctrl 0.495244635204
+trma SNARC color arabic CD 0 up 5 lctrl 0.334056541829
+trma SNARC color arabic CD 0 up 6 lctrl 0.322988410875
+trma SNARC color arabic CD 0 up 2 lctrl 0.337081977834
+trma SNARC color arabic CD 0 down 3 num_decimal 0.38202226969
+trma SNARC color arabic CD 0 up 3 lctrl 0.376963430392
+trma SNARC color arabic CD 0 down 6 num_decimal 0.452957107695
+trma SNARC color arabic CD 0 down 8 num_decimal 0.348645349393
+trma SNARC color arabic CD 0 up 6 lctrl 0.384717545296
+trma SNARC color arabic CD 0 down 2 num_decimal 0.443740543573
+trma SNARC color arabic CD 0 down 6 num_decimal 0.356585644973
+trma SNARC color arabic CD 0 down 1 num_decimal 0.344543168472
+trma SNARC color arabic CD 0 down 2 num_decimal 0.349522880986
+trma SNARC color arabic CD 0 down 6 num_decimal 0.345498585648
+trma SNARC color arabic CD 0 down 7 num_decimal 0.342474701149
+trma SNARC color arabic CD 0 down 4 num_decimal 0.355478800848
+trma SNARC color arabic CD 0 down 7 num_decimal 0.399266944612
+trma SNARC color arabic CD 0 down 1 num_decimal 0.33805973669
+trma SNARC color arabic CD 0 up 9 lctrl 0.551222338207
+trma SNARC color arabic CD 0 up 1 num_decimal 0.339037805848
+trma SNARC color arabic CD 0 up 8 lctrl 0.40786321678
+trma SNARC color arabic CD 0 down 3 num_decimal 0.617924979117
+trma SNARC color arabic CD 0 up 7 lctrl 0.571620603499
+trma SNARC color arabic CD 0 up 8 lctrl 0.359437932948
+trma SNARC color arabic CD 0 down 1 num_decimal 0.500000310301
+trma SNARC color arabic CD 0 up 1 lctrl 0.530134273504
+trma SNARC color arabic CD 0 down 6 lctrl 0.367949803207
+trma SNARC color arabic CD 0 up 5 lctrl 0.659847902798
+trma SNARC color arabic CD 0 down 6 num_decimal 0.444606904324
+trma SNARC color arabic CD 0 up 8 lctrl 0.429534957906
+trma SNARC color arabic CD 0 down 9 num_decimal 0.47135951613
+trma SNARC color arabic CD 0 down 8 num_decimal 0.39125931369
+trma SNARC color arabic CD 0 down 4 num_decimal 0.362149033908
+trma SNARC color arabic CD 0 down 4 num_decimal 0.350100041083
+trma SNARC color arabic CD 0 up 1 lctrl 0.426035071474
+trma SNARC color arabic CD 0 down 8 num_decimal 0.403956525572
+trma SNARC color arabic CD 0 down 2 num_decimal 0.350635310531
+trma SNARC color arabic CD 0 down 3 num_decimal 0.338867760831
+trma SNARC color arabic CD 0 up 6 lctrl 0.415826474644
+trma SNARC color arabic CD 0 down 4 num_decimal 0.401708704196
+trma SNARC color arabic CD 0 down 5 num_decimal 0.380365261664
+trma SNARC color arabic CD 0 down 7 num_decimal 0.408335805398
+trma SNARC color arabic CD 0 up 8 lctrl 0.394455415313
+trma SNARC color arabic CD 0 down 5 num_decimal 0.805378201221
+trma SNARC color arabic CD 0 down 7 num_decimal 0.359935345656
+trma SNARC color arabic CD 0 up 6 lctrl 0.387814660859
+trma SNARC color arabic CD 0 down 8 num_decimal 0.342838684372
+trma SNARC color arabic CD 0 up 7 lctrl 0.427796340682
+trma SNARC color arabic CD 0 up 3 lctrl 0.317691260307
+trma SNARC color arabic CD 0 down 3 num_decimal 0.387705745163
+trma SNARC color arabic CD 0 up 6 lctrl 0.574631145048
+trma SNARC color arabic CD 0 up 5 lctrl 0.730298981343
+trma SNARC color arabic CD 0 up 6 lctrl 0.343948321208
+trma SNARC color arabic CD 0 up 4 lctrl 0.332933251744
+trma SNARC color arabic CD 0 down 1 num_decimal 0.513931279471
+trma SNARC color arabic CD 0 up 7 lctrl 0.376579277594
+trma SNARC color arabic CD 0 up 4 lctrl 0.380552683546
+trma SNARC color arabic CD 0 up 2 lctrl 0.344569233766
+trma SNARC color arabic CD 0 up 7 lctrl 0.405592433121
+trma SNARC color arabic CD 0 down 6 num_decimal 0.352287974341
+trma SNARC color arabic CD 0 up 8 lctrl 0.356453146391
+trma SNARC color arabic CD 0 down 1 num_decimal 0.377101824695
+trma SNARC color arabic CD 0 up 4 lctrl 0.412382752718
+trma SNARC color arabic CD 0 down 8 num_decimal 0.303039151315
+trma SNARC color arabic CD 0 up 4 lctrl 0.325303567593
+trma SNARC color arabic CD 0 down 2 num_decimal 0.379328855894
+trma SNARC color arabic CD 0 up 5 lctrl 0.29518884306
+trma SNARC color arabic CD 0 down 2 num_decimal 0.254317529903
+trma SNARC color arabic CD 0 down 9 num_decimal 0.462366679121
+trma SNARC color arabic CD 0 up 6 lctrl 0.414988351295
+trma SNARC color arabic CD 0 up 4 lctrl 0.392998241214
+trma SNARC color arabic CD 0 up 9 lctrl 0.235930946828
+trma SNARC color arabic CD 0 up 8 lctrl 0.245027424413
+trma SNARC color arabic CD 0 up 9 lctrl 0.270141335959
+trma SNARC color arabic CD 0 up 3 lctrl 0.278167895252
+trma SNARC color arabic CD 0 up 4 lctrl 0.294140335547
+trma SNARC color arabic CD 0 down 3 num_decimal 0.349316530734
+trma SNARC color arabic CD 0 up 2 lctrl 0.433231575249
+trma SNARC color arabic CD 0 down 6 num_decimal 0.354167157977
+trma SNARC color arabic CD 0 up 1 lctrl 0.2620700933
+trma SNARC color arabic CD 0 down 7 num_decimal 0.294167952348
+trma SNARC color arabic CD 0 down 8 num_decimal 0.381157770747
+trma SNARC color arabic CD 0 up 6 lctrl 0.376110102286
+trma SNARC color arabic CD 0 up 4 lctrl 0.380038204275
+trma SNARC color arabic CD 0 up 9 lctrl 0.312018024772
+trma SNARC color arabic CD 0 down 3 lctrl 0.269995184126
+trma SNARC color arabic CD 0 down 1 num_decimal 0.814013571329
+trma SNARC color arabic CD 0 up 8 lctrl 0.416515032848
+trma SNARC color arabic CD 0 up 9 lctrl 0.322438246973
+trma SNARC color arabic CD 0 up 9 lctrl 0.328401614062
+trma SNARC color arabic CD 0 up 6 lctrl 0.286363568663
+trma SNARC color arabic CD 0 down 8 num_decimal 0.429474759487
+trma SNARC color arabic CD 0 up 5 lctrl 0.631376533043
+trma SNARC color arabic CD 0 down 3 num_decimal 0.408086943893
+trma SNARC color arabic CD 0 up 8 lctrl 0.673946744881
+trma SNARC color arabic CD 0 up 4 lctrl 0.345596330504
+trma SNARC color arabic CD 0 up 5 lctrl 0.342539864387
+trma SNARC color arabic CD 0 up 3 lctrl 0.347520818103
+trma SNARC color arabic CD 0 up 1 lctrl 0.552553219746
+trma SNARC color arabic CD 0 down 1 num_decimal 0.613206850456
+trma SNARC color arabic CD 0 up 2 lctrl 0.590992082356
+trma SNARC color arabic CD 0 up 2 lctrl 0.482362173547
+trma SNARC color arabic CD 0 down 5 num_decimal 0.481645067641
+trma SNARC color arabic CD 0 down 9 num_decimal 0.352349724266
+trma SNARC color arabic CD 0 up 1 lctrl 0.404327335418
+trma SNARC color arabic CD 0 up 8 lctrl 0.367077857036
+trma SNARC color arabic CD 0 up 1 lctrl 0.346978101428
+trma SNARC color arabic CD 0 down 1 num_decimal 0.416388429987
+trma SNARC color arabic CD 0 down 9 num_decimal 0.354165606472
+trma SNARC color arabic CD 0 up 4 num_decimal 0.294104030314
+trma SNARC color arabic CD 0 up 2 lctrl 0.797043823208
+trma SNARC color arabic CD 0 up 5 lctrl 0.368417427007
+trma SNARC color arabic CD 0 down 2 num_decimal 0.412447605653
+trma SNARC color arabic CD 0 up 9 lctrl 0.358509201669
+trma SNARC color arabic CD 0 down 8 num_decimal 0.378460012735
+trma SNARC color arabic CD 0 up 2 lctrl 0.302403034002
+trma SNARC color arabic CD 0 down 3 num_decimal 0.292438644159
+trma SNARC color arabic CD 0 up 6 lctrl 0.483423403406
+trma SNARC color arabic CD 0 down 6 num_decimal 0.306318103339
+trma SNARC color arabic CD 0 down 5 num_decimal 0.368388258701
+trma SNARC color arabic CD 0 down 5 num_decimal 0.292222984874
+trma SNARC color arabic CD 0 down 4 num_decimal 0.283249076232
+trma SNARC color arabic CD 0 up 7 lctrl 0.426247007144
+trma SNARC color arabic CD 0 up 5 lctrl 0.340166060752
+trma SNARC color arabic CD 0 down 3 num_decimal 0.425192293609
+trma SNARC color arabic CD 0 up 8 lctrl 0.411053732985
+trma SNARC color arabic CD 0 up 7 lctrl 0.356972900783
+trma SNARC color arabic CD 0 up 1 lctrl 0.360894486445
+trma SNARC color arabic CD 0 down 5 num_decimal 0.460896472372
+trma SNARC color arabic CD 0 up 5 lctrl 0.44555704638
+trma SNARC color arabic CD 0 up 3 lctrl 0.382514407282
+trma SNARC color arabic CD 0 down 6 num_decimal 0.425548209005
+trma SNARC color arabic CD 0 up 8 lctrl 0.435476293615
+trma SNARC color arabic CD 0 up 4 lctrl 0.532328723086
+trma SNARC color arabic CD 0 up 2 lctrl 0.321111399346
+trma SNARC color arabic CD 0 down 3 num_decimal 0.383148042187
+trma SNARC color arabic CD 0 up 6 lctrl 0.434065044081
+trma SNARC color arabic CD 0 down 4 num_decimal 0.346850877964
+trma SNARC color arabic CD 0 down 7 num_decimal 0.439899325902
+trma SNARC color arabic CD 0 down 9 num_decimal 0.424695501502
+trma SNARC color arabic CD 0 down 4 num_decimal 0.362717195276
+trma SNARC color arabic CD 0 up 3 lctrl 0.382650008874
+trma SNARC color arabic CD 0 down 7 num_decimal 0.537576535775
+trma SNARC color arabic CD 0 down 2 num_decimal 0.382385322011
+trma SNARC color arabic CD 0 up 3 lctrl 0.521300931276
+trma SNARC color arabic CD 0 down 2 num_decimal 0.407138043043
+trma SNARC color arabic CD 0 up 2 num_decimal 0.401002148525
+trma SNARC color arabic CD 0 down 3 num_decimal 0.338882034683
+trma SNARC color arabic CD 0 down 5 num_decimal 0.375972018286
+trma SNARC color arabic CD 0 down 7 num_decimal 0.395916623327
+trma SNARC color arabic CD 0 down 9 num_decimal 0.366788966685
+trma SNARC color arabic CD 0 up 9 lctrl 0.402717803465
+trma SNARC color arabic CD 0 down 7 num_decimal 0.500587400036
+trma SNARC color arabic CD 0 up 4 lctrl 0.57117563168
+trma SNARC color arabic CD 0 up 8 lctrl 0.423216296023
+trma SNARC color arabic CD 0 up 7 lctrl 0.353119891668
+trma SNARC color arabic CD 0 down 9 num_decimal 0.477079607133
+trma SNARC color arabic CD 0 down 3 num_decimal 0.364903887328
+trma SNARC color arabic CD 0 down 5 num_decimal 0.312877869199
+trma SNARC color arabic CD 0 down 6 num_decimal 0.247502386217
+trma SNARC color arabic CD 0 down 1 num_decimal 0.296863538251
+trma SNARC color arabic CD 0 down 7 num_decimal 0.303991155177
+trma SNARC color arabic CD 0 up 4 lctrl 0.469939578164
+trma SNARC color arabic CD 0 up 9 lctrl 0.429799334466
+trma SNARC color arabic CD 0 down 2 num_decimal 0.439665979453
+trma SNARC color arabic CD 0 up 3 lctrl 0.504584078573
+trma SNARC color arabic CD 0 up 7 lctrl 0.375238466417
+trma SNARC color arabic CD 0 up 5 lctrl 0.515270539143
+trma SNARC color arabic CD 0 up 7 lctrl 0.377165126125
+trma SNARC color arabic CD 0 down 2 num_decimal 0.445140001664
+trma SNARC color arabic CD 0 down 4 num_decimal 0.325842560655
+trma SNARC color arabic CD 0 down 5 num_decimal 0.339999118745
+trma SNARC color arabic CD 0 up 6 lctrl 0.792939159879
+trma SNARC color arabic CD 0 up 7 lctrl 0.308150121204
+trma SNARC color arabic CD 0 down 9 num_decimal 0.346506133412
+trma SNARC color arabic CD 0 down 2 num_decimal 0.343489696141
+trma SNARC color arabic CD 0 up 1 lctrl 0.420346941484
+trma SNARC color arabic CD 0 down 3 num_decimal 0.462371333637
+trma SNARC color arabic CD 0 up 8 lctrl 0.51100824284
+trma SNARC color arabic CD 0 up 1 lctrl 0.3490049884
+trma SNARC color arabic CD 0 down 4 num_decimal 0.401027593218
+trma SNARC color arabic CD 0 up 7 lctrl 0.378864335105
+trma SNARC color arabic CD 0 down 7 num_decimal 0.534839679818
+trma SNARC color arabic CD 0 down 9 num_decimal 0.484247252904
+trma SNARC color arabic CD 0 down 2 num_decimal 0.395454584946
+trma SNARC color arabic CD 0 down 3 num_decimal 0.310408492818
+trma SNARC color arabic CD 0 down 1 num_decimal 0.308454216311
+trma SNARC color arabic CD 0 up 3 num_decimal 0.282415297101
+trma SNARC color arabic CD 0 down 7 num_decimal 0.529477986618
+trma SNARC color arabic CD 0 up 4 lctrl 0.43921945613
+trma SNARC color arabic CD 0 up 1 lctrl 0.392121640525
+trma SNARC color arabic CD 0 down 9 num_decimal 0.387004154312
+trma SNARC color arabic CD 0 up 7 lctrl 0.445906755751
+trma SNARC color arabic CD 0 down 3 num_decimal 0.574811740305
+trma SNARC color arabic CD 0 down 4 num_decimal 0.69053668442
+trma SNARC color arabic CD 0 up 8 lctrl 0.377341066865
+trma SNARC color arabic CD 0 up 5 lctrl 0.517177960179
+trma SNARC color arabic CD 0 up 7 lctrl 0.347010683048
+trma SNARC color arabic CD 0 up 3 lctrl 0.24832871812
+trma SNARC color arabic CD 0 up 7 lctrl 0.256990463826
+trma SNARC color arabic CD 0 down 8 lctrl 0.281152681808
+trma SNARC color arabic CD 0 down 8 num_decimal 0.448080725459
+trma SNARC color arabic CD 0 down 2 num_decimal 0.423957295117
+trma SNARC color arabic CD 0 down 4 num_decimal 0.361853006632
+trma SNARC color arabic CD 0 up 9 lctrl 0.421818389437
+trma SNARC color arabic CD 0 down 3 num_decimal 0.439760931598
+trma SNARC color arabic CD 0 down 3 num_decimal 0.393091021249
+trma SNARC color arabic CD 0 up 5 lctrl 0.500289200652
+trma SNARC color arabic CD 0 up 3 lctrl 0.418312607288
+trma SNARC color arabic CD 0 down 2 lctrl 0.284235213221
+trma SNARC color arabic CD 0 down 8 num_decimal 0.403301169588
+trma SNARC color arabic CD 0 down 1 num_decimal 0.294076103215
+trma SNARC color arabic CD 0 down 5 num_decimal 0.317208742052
+trma SNARC color arabic CD 0 up 4 lctrl 0.411245188781
+trma SNARC color arabic CD 0 up 2 lctrl 0.405029857175
+trma SNARC color arabic CD 0 up 7 lctrl 0.35099494954
+trma SNARC color arabic CD 0 up 1 lctrl 0.354925223633
+trma SNARC color arabic CD 0 down 6 num_decimal 0.454945207028
+trma SNARC color arabic CD 0 up 5 lctrl 0.38352847137
+trma SNARC color arabic CD 0 up 3 lctrl 0.410717366562
+trma SNARC color arabic CD 0 down 4 num_decimal 0.404632671731
+trma SNARC color arabic CD 0 down 3 num_decimal 0.390596200177
+trma SNARC color arabic CD 0 up 4 lctrl 0.833514135458
+trma SNARC color arabic CD 0 up 6 lctrl 0.425998455941
+trma SNARC color arabic CD 0 up 1 lctrl 0.40387677818
+trma SNARC color arabic CD 0 down 4 num_decimal 0.405860843597
+trma SNARC color arabic CD 0 up 1 lctrl 0.37559686422
+trma SNARC color arabic CD 0 up 4 lctrl 0.459657129664
+trma SNARC color arabic CD 0 up 5 lctrl 0.820310512134
+trma SNARC color arabic CD 0 up 2 lctrl 0.358092777557
+trma SNARC color arabic CD 0 down 7 num_decimal 0.394004237472
+trma SNARC color arabic CD 0 up 6 lctrl 0.340930953033
+trma SNARC color arabic CD 0 down 8 num_decimal 0.449918949345
+trma SNARC color arabic CD 0 up 2 lctrl 0.27455723132
+trma SNARC color arabic CD 0 up 6 lctrl 0.385808874364
+trma SNARC color arabic CD 0 up 5 lctrl 0.356625363518
+trma SNARC color arabic CD 0 up 7 lctrl 0.289413828757
+trma SNARC color arabic CD 0 up 2 lctrl 0.336700928048
+trma SNARC color arabic CD 0 down 9 num_decimal 0.373696580109
+trma SNARC color arabic CD 0 up 3 lctrl 0.337527259955
+trma SNARC color arabic CD 0 down 4 num_decimal 0.41451638328
+trma SNARC color arabic CD 0 down 6 num_decimal 0.496594445112
+trma SNARC color arabic CD 0 down 6 num_decimal 0.327830039383
+trma SNARC color arabic CD 0 down 2 num_decimal 0.293396543742
+trma SNARC color arabic CD 0 down 1 num_decimal 0.292426852715
+trma SNARC color arabic CD 0 up 2 lctrl 0.347414384814
+trma SNARC color arabic CD 0 up 3 lctrl 0.312327705298
+trma SNARC color arabic CD 0 down 7 num_decimal 0.430539092356
+trma SNARC color arabic CD 0 up 4 lctrl 0.41629533965
+trma SNARC color arabic CD 0 down 7 num_decimal 0.466202931973
+trma SNARC color arabic CD 0 up 9 lctrl 0.369908113629
+trma SNARC color arabic CD 0 down 8 num_decimal 0.438006489016
+trma SNARC color arabic CD 0 down 4 num_decimal 0.414889985837
+trma SNARC color arabic CD 0 up 1 lctrl 0.384735232459
+trma SNARC color arabic CD 0 up 5 lctrl 0.355670877247
+trma SNARC color arabic CD 0 down 3 num_decimal 0.480322253929
+trma SNARC color arabic CD 0 down 3 num_decimal 0.408341080518
+trma SNARC color arabic CD 0 down 8 num_decimal 0.290439994589
+trma SNARC color arabic CD 0 down 7 num_decimal 0.321421390174
+trma SNARC color arabic CD 0 down 6 num_decimal 0.311400525527
+trma SNARC color arabic CD 0 down 5 num_decimal 0.302071942697
+trma SNARC color arabic CD 0 down 6 num_decimal 0.292451676805
+trma SNARC color arabic CD 0 down 8 num_decimal 0.315414891227
+trma SNARC color arabic CD 0 down 6 num_decimal 0.265387522668
+trma SNARC color arabic CD 0 down 9 num_decimal 0.321463901428
+trma SNARC color arabic CD 0 down 5 num_decimal 0.311394629804
+trma SNARC color arabic CD 0 up 5 num_decimal 0.310080814825
+trma SNARC color arabic CD 0 down 2 lctrl 0.268511013828
+trma SNARC color arabic CD 0 down 4 num_decimal 0.492467440103
+trma SNARC color arabic CD 0 up 5 lctrl 0.563303602348
+trma SNARC color arabic CD 0 up 9 lctrl 0.415864641682
+trma SNARC color arabic CD 0 up 9 lctrl 0.385982953296
+trma SNARC color arabic CD 0 up 8 lctrl 0.348957512328
+trma SNARC color arabic CD 0 up 1 lctrl 0.320885810426
+trma SNARC color arabic CD 0 up 4 lctrl 0.422981398069
+trma SNARC color arabic CD 0 down 8 num_decimal 0.432809255415
+trma SNARC color arabic CD 0 down 9 num_decimal 0.386180615116
+trma SNARC color arabic CD 0 down 2 num_decimal 0.349449649917
+trma SNARC color arabic CD 0 down 7 num_decimal 0.345605639535
+trma SNARC color arabic CD 0 up 9 lctrl 0.422437129888
+trma SNARC color arabic CD 0 up 3 lctrl 0.344471178611
+trma SNARC color arabic CD 0 up 1 lctrl 0.389498975386
+trma SNARC color arabic CD 0 down 1 num_decimal 0.416427527931
+trma SNARC color arabic CD 0 up 8 lctrl 0.426327064837
+trma SNARC color arabic CD 0 up 8 lctrl 0.38018807972
+trma SNARC color arabic CD 0 up 8 lctrl 0.320138915609
+trma SNARC color arabic CD 0 down 1 lctrl 0.174088552494
+trma SNARC color arabic CD 0 up 8 num_decimal 0.466158869212
+trma SNARC color arabic CD 0 down 8 num_decimal 0.578065247639
+trma SNARC color arabic CD 0 down 5 num_decimal 0.365833859811
+trma SNARC color arabic CD 0 up 5 lctrl 0.441799610015
+trma SNARC color arabic CD 0 down 5 num_decimal 0.603118960764
+trma SNARC color arabic CD 0 up 5 lctrl 0.381402908639
+trma SNARC color arabic CD 0 up 3 lctrl 0.504375556215
+trma SNARC color arabic CD 0 down 1 num_decimal 0.743009536174
+trma SNARC color arabic CD 0 up 7 lctrl 0.467713477869
+trma SNARC color arabic CD 0 up 2 lctrl 0.395564431547
+trma SNARC color arabic CD 0 up 9 lctrl 0.342424742668
+trma SNARC color arabic CD 0 down 5 lctrl 0.451307236593
+trma SNARC color arabic CD 0 up 5 lctrl 0.36412068728
+trma SNARC color arabic CD 0 up 6 lctrl 0.400787109842
+trma SNARC color arabic CD 0 up 6 lctrl 0.371265370766
+trma SNARC color arabic CD 0 down 4 num_decimal 0.391207803701
+trma SNARC color arabic CD 0 up 9 lctrl 0.474074340702
+trma SNARC color arabic CD 0 down 6 num_decimal 0.593958250845
+trma SNARC color arabic CD 0 down 5 num_decimal 0.452695523845
+trma SNARC color arabic CD 0 down 1 num_decimal 0.389374234332
+trma SNARC color arabic CD 0 down 2 num_decimal 0.384513677454
+trma SNARC color arabic CD 0 down 9 num_decimal 0.403507209538
+trma SNARC color arabic CD 0 up 4 num_decimal 0.43734492701
+trma SNARC color arabic CD 0 up 7 lctrl 0.534140261074
+trma SNARC color arabic CD 0 up 2 lctrl 0.339001500615
+trma SNARC color arabic CD 0 up 7 lctrl 0.303957022054
+trma SNARC color arabic CD 0 up 7 lctrl 0.309881601503
+trma SNARC color arabic CD 0 up 9 lctrl 0.419938274899
+trma SNARC color arabic CD 0 up 9 lctrl 0.349875072765
+trma SNARC color arabic CD 0 up 6 lctrl 0.369805403956
+trma SNARC color arabic CD 0 down 1 num_decimal 0.389781349413
+trma SNARC color arabic CD 0 down 1 num_decimal 0.369137635927
+trma SNARC color arabic CD 0 up 7 lctrl 0.380645773886
+trma SNARC color arabic CD 0 up 9 lctrl 0.512548577641
+trma SNARC color arabic CD 0 down 2 num_decimal 0.423257566072
+trma SNARC color arabic CD 0 down 3 num_decimal 0.529249915287
+trma SNARC color arabic CD 0 up 6 lctrl 0.447006773253
+trma SNARC color arabic CD 0 down 4 num_decimal 0.399997393471
+trma SNARC color arabic CD 0 up 1 num_decimal 0.513971618619
+trma SNARC color arabic CD 0 down 2 lctrl 0.472575896552
+trma SNARC color arabic CD 0 down 6 num_decimal 0.43250857362
+trma SNARC color arabic CD 0 down 8 num_decimal 0.393481069768
+trma SNARC color arabic CD 0 up 2 lctrl 0.476409977298
+trma SNARC color arabic CD 0 up 5 lctrl 0.340247049346
+trma SNARC color arabic CD 0 up 9 lctrl 0.305211879815
+trma SNARC color arabic CD 0 up 9 lctrl 0.303233089518
+trma SNARC color arabic CD 0 down 6 num_decimal 0.373229887213
+trma SNARC color arabic CD 0 up 9 lctrl 0.377122614871
+trma SNARC color arabic CD 0 up 4 lctrl 0.421078631547
+trma SNARC color arabic CD 0 down 2 num_decimal 0.390998971043
+trma SNARC color arabic CD 0 down 9 num_decimal 0.305951637707
+trma SNARC color arabic CD 0 up 2 lctrl 0.439921667583
+trma SNARC color arabic CD 0 up 2 lctrl 0.361246367926
+trma SNARC color arabic CD 0 down 1 num_decimal 0.421756329213
+trma SNARC color arabic CD 0 up 8 lctrl 0.34368487555
+trma SNARC color arabic CD 0 down 3 lctrl 0.356608607257
+trma SNARC color arabic CD 0 down 8 num_decimal 1.04865925088
+trma SNARC color arabic CD 0 up 3 lctrl 0.704903006073
+trma SNARC color arabic CD 0 up 5 lctrl 0.839486811581
+trma SNARC color arabic CD 0 up 4 lctrl 0.384007576313
+trma SNARC color arabic CD 0 up 7 lctrl 0.426888709879
+trma SNARC color arabic CD 0 down 9 num_decimal 0.508780591037
+trma SNARC color arabic CD 0 up 7 lctrl 0.371529126725
+trma SNARC color arabic CD 0 down 1 num_decimal 0.423549559435
+trma SNARC color arabic CD 0 up 4 lctrl 0.505483951845
+trma SNARC color arabic CD 0 up 6 lctrl 0.496074690724
+trma SNARC color arabic CD 0 up 1 lctrl 0.487250036926
+trma SNARC color arabic CD 0 up 9 num_decimal 0.365996457604
+trma SNARC color arabic CD 0 up 1 lctrl 0.377985252009
+trma SNARC color arabic CD 0 up 5 lctrl 0.397824975269
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'CD', 'dateStr': '12_09_1112', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'trma', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+trma SNARC color dot CD 0 up 35 lctrl 1.20877928777
+trma SNARC color dot CD 0 down 35 num_decimal 0.394573640042
+trma SNARC color dot CD 0 up 20 lctrl 0.397897896035
+trma SNARC color dot CD 0 down 15 num_decimal 0.400446399204
+trma SNARC color dot CD 0 down 15 num_decimal 0.370352464846
+trma SNARC color dot CD 0 up 25 lctrl 0.429220002259
+trma SNARC color dot CD 0 up 35 lctrl 1.02214557095
+trma SNARC color dot CD 0 down 15 num_decimal 0.791404410496
+trma SNARC color dot CD 0 up 35 lctrl 0.54494401547
+trma SNARC color dot CD 0 down 30 num_decimal 0.565703471277
+trma SNARC color dot CD 0 up 10 lctrl 0.425488320887
+trma SNARC color dot CD 0 up 30 lctrl 0.362726504309
+trma SNARC color dot CD 0 down 15 num_decimal 0.48738346641
+trma SNARC color dot CD 0 down 5 num_decimal 0.414231526844
+trma SNARC color dot CD 0 up 30 lctrl 0.464044477323
+trma SNARC color dot CD 0 down 40 num_decimal 0.382852945813
+trma SNARC color dot CD 0 down 10 num_decimal 0.426254454373
+trma SNARC color dot CD 0 up 5 lctrl 0.827759601028
+trma SNARC color dot CD 0 down 40 num_decimal 0.387908061499
+trma SNARC color dot CD 0 down 25 num_decimal 0.334134737715
+trma SNARC color dot CD 0 down 20 num_decimal 0.395227754823
+trma SNARC color dot CD 0 down 25 num_decimal 0.58934034945
+trma SNARC color dot CD 0 down 25 num_decimal 0.336028505504
+trma SNARC color dot CD 0 up 15 lctrl 0.396723406262
+trma SNARC color dot CD 0 down 40 num_decimal 0.375397340595
+trma SNARC color dot CD 0 down 15 num_decimal 0.363424681849
+trma SNARC color dot CD 0 up 10 lctrl 0.423470742948
+trma SNARC color dot CD 0 up 30 num_decimal 0.376793695674
+trma SNARC color dot CD 0 up 20 lctrl 0.411707227162
+trma SNARC color dot CD 0 down 45 num_decimal 0.396922619588
+trma SNARC color dot CD 0 up 15 lctrl 0.464282478288
+trma SNARC color dot CD 0 up 5 lctrl 0.448014321017
+trma SNARC color dot CD 0 down 40 num_decimal 0.55138028148
+trma SNARC color dot CD 0 up 30 lctrl 0.459252496992
+trma SNARC color dot CD 0 down 30 num_decimal 0.386460506736
+trma SNARC color dot CD 0 down 5 num_decimal 0.549406456003
+trma SNARC color dot CD 0 down 40 num_decimal 0.473264454757
+trma SNARC color dot CD 0 up 35 lctrl 0.647609315984
+trma SNARC color dot CD 0 down 15 num_decimal 0.663642264999
+trma SNARC color dot CD 0 down 45 num_decimal 0.614965016652
+trma SNARC color dot CD 0 down 5 num_decimal 0.392949834239
+trma SNARC color dot CD 0 up 5 lctrl 1.13190776857
+trma SNARC color dot CD 0 down 20 num_decimal 1.91314361109
+trma SNARC color dot CD 0 down 35 num_decimal 0.366480217061
+trma SNARC color dot CD 0 down 35 num_decimal 0.345845812612
+trma SNARC color dot CD 0 up 5 lctrl 0.398461092584
+trma SNARC color dot CD 0 up 40 lctrl 0.488308474076
+trma SNARC color dot CD 0 up 5 lctrl 0.439259795276
+trma SNARC color dot CD 0 down 40 num_decimal 0.415428047994
+trma SNARC color dot CD 0 up 10 lctrl 0.432890244008
+trma SNARC color dot CD 0 down 45 num_decimal 0.336639178126
+trma SNARC color dot CD 0 down 10 num_decimal 0.405768373861
+trma SNARC color dot CD 0 down 30 num_decimal 0.319733972636
+trma SNARC color dot CD 0 up 20 lctrl 0.445618486003
+trma SNARC color dot CD 0 up 10 lctrl 0.438971525527
+trma SNARC color dot CD 0 up 35 lctrl 0.270929500824
+trma SNARC color dot CD 0 down 35 num_decimal 0.437491078843
+trma SNARC color dot CD 0 down 10 num_decimal 0.41434882067
+trma SNARC color dot CD 0 down 40 num_decimal 0.407501095362
+trma SNARC color dot CD 0 up 30 lctrl 0.441395908245
+trma SNARC color dot CD 0 up 20 lctrl 0.37806562
+trma SNARC color dot CD 0 down 30 num_decimal 0.4128451014
+trma SNARC color dot CD 0 down 30 num_decimal 0.382857290029
+trma SNARC color dot CD 0 up 40 lctrl 0.512732275911
+trma SNARC color dot CD 0 down 10 lctrl 0.527462891088
+trma SNARC color dot CD 0 down 40 num_decimal 0.612220403167
+trma SNARC color dot CD 0 down 20 num_decimal 0.367003384765
+trma SNARC color dot CD 0 up 45 lctrl 0.456838664515
+trma SNARC color dot CD 0 down 10 num_decimal 0.353594652395
+trma SNARC color dot CD 0 up 20 lctrl 0.55009873782
+trma SNARC color dot CD 0 down 40 num_decimal 0.385421618555
+trma SNARC color dot CD 0 up 35 lctrl 0.347647110662
+trma SNARC color dot CD 0 up 45 lctrl 0.534879088062
+trma SNARC color dot CD 0 down 15 num_decimal 0.54808922771
+trma SNARC color dot CD 0 up 5 lctrl 0.447868789788
+trma SNARC color dot CD 0 up 10 lctrl 0.560520201225
+trma SNARC color dot CD 0 up 30 lctrl 0.380502414762
+trma SNARC color dot CD 0 up 35 lctrl 0.359367804893
+trma SNARC color dot CD 0 up 5 lctrl 0.452071197975
+trma SNARC color dot CD 0 down 5 num_decimal 0.404325473612
+trma SNARC color dot CD 0 down 20 num_decimal 0.358951380778
+trma SNARC color dot CD 0 up 45 lctrl 0.313037984582
+trma SNARC color dot CD 0 up 35 lctrl 0.382048334986
+trma SNARC color dot CD 0 down 45 num_decimal 0.391655257929
+trma SNARC color dot CD 0 down 20 num_decimal 0.354144505995
+trma SNARC color dot CD 0 up 10 lctrl 0.398884963925
+trma SNARC color dot CD 0 up 15 lctrl 0.47273725314
+trma SNARC color dot CD 0 up 45 lctrl 0.439257623168
+trma SNARC color dot CD 0 down 20 num_decimal 0.399467709443
+trma SNARC color dot CD 0 down 35 num_decimal 0.441374807768
+trma SNARC color dot CD 0 up 40 lctrl 0.433134140696
+trma SNARC color dot CD 0 down 15 num_decimal 0.42611637037
+trma SNARC color dot CD 0 down 45 num_decimal 0.450581442255
+trma SNARC color dot CD 0 down 30 num_decimal 0.338685924367
+trma SNARC color dot CD 0 down 5 num_decimal 0.375810661697
+trma SNARC color dot CD 0 down 10 num_decimal 0.283696530461
+trma SNARC color dot CD 0 up 5 lctrl 0.458774943558
+trma SNARC color dot CD 0 down 10 num_decimal 0.371478857944
+trma SNARC color dot CD 0 down 15 num_decimal 0.343413982666
+trma SNARC color dot CD 0 down 35 num_decimal 0.331957354696
+trma SNARC color dot CD 0 down 15 num_decimal 0.296573096395
+trma SNARC color dot CD 0 down 40 num_decimal 0.270465910939
+trma SNARC color dot CD 0 down 15 num_decimal 0.262512893012
+trma SNARC color dot CD 0 up 35 lctrl 0.454404972763
+trma SNARC color dot CD 0 down 25 num_decimal 0.374100592178
+trma SNARC color dot CD 0 down 25 num_decimal 0.409329699913
+trma SNARC color dot CD 0 up 45 lctrl 0.426176879091
+trma SNARC color dot CD 0 up 35 lctrl 0.451086612493
+trma SNARC color dot CD 0 down 30 num_decimal 0.410326387138
+trma SNARC color dot CD 0 up 20 lctrl 0.819800066776
+trma SNARC color dot CD 0 down 15 num_decimal 0.421396690203
+trma SNARC color dot CD 0 up 5 lctrl 0.415292756703
+trma SNARC color dot CD 0 down 15 num_decimal 0.384147522122
+trma SNARC color dot CD 0 down 35 num_decimal 0.434056976252
+trma SNARC color dot CD 0 down 35 num_decimal 0.337887519563
+trma SNARC color dot CD 0 down 30 num_decimal 0.365890644916
+trma SNARC color dot CD 0 down 15 num_decimal 0.369789578599
+trma SNARC color dot CD 0 down 10 num_decimal 0.381867119127
+trma SNARC color dot CD 0 up 45 lctrl 0.431619871188
+trma SNARC color dot CD 0 down 10 num_decimal 0.528448717774
+trma SNARC color dot CD 0 down 40 num_decimal 0.525301954029
+trma SNARC color dot CD 0 down 45 num_decimal 0.505075285258
+trma SNARC color dot CD 0 up 10 lctrl 0.606895946103
+trma SNARC color dot CD 0 up 10 lctrl 0.425548519304
+trma SNARC color dot CD 0 up 35 lctrl 0.450474078063
+trma SNARC color dot CD 0 down 30 lctrl 0.402402227217
+trma SNARC color dot CD 0 up 10 lctrl 0.604288796019
+trma SNARC color dot CD 0 up 15 lctrl 0.526903418153
+trma SNARC color dot CD 0 up 5 lctrl 0.388894819089
+trma SNARC color dot CD 0 down 15 num_decimal 0.408202065611
+trma SNARC color dot CD 0 up 35 lctrl 0.38596743824
+trma SNARC color dot CD 0 down 10 num_decimal 0.445376761425
+trma SNARC color dot CD 0 down 25 num_decimal 0.42144261477
+trma SNARC color dot CD 0 down 25 num_decimal 0.342679189593
+trma SNARC color dot CD 0 up 35 lctrl 0.411229363424
+trma SNARC color dot CD 0 up 25 lctrl 0.445236505313
+trma SNARC color dot CD 0 up 40 lctrl 0.445347593119
+trma SNARC color dot CD 0 down 20 num_decimal 0.412938502041
+trma SNARC color dot CD 0 down 45 num_decimal 0.430172316423
+trma SNARC color dot CD 0 up 30 lctrl 0.431536400183
+trma SNARC color dot CD 0 down 35 num_decimal 0.415526413453
+trma SNARC color dot CD 0 up 45 lctrl 1.21607632911
+trma SNARC color dot CD 0 up 30 lctrl 0.465213381674
+trma SNARC color dot CD 0 up 25 lctrl 0.384690549097
+trma SNARC color dot CD 0 up 45 lctrl 0.30615891886
+trma SNARC color dot CD 0 up 25 lctrl 0.311236686532
+trma SNARC color dot CD 0 down 30 num_decimal 0.421240608735
+trma SNARC color dot CD 0 down 35 lctrl 0.390057207116
+trma SNARC color dot CD 0 down 35 num_decimal 0.496399886306
+trma SNARC color dot CD 0 up 45 lctrl 0.988858637977
+trma SNARC color dot CD 0 up 40 lctrl 0.423452435181
+trma SNARC color dot CD 0 up 45 lctrl 0.36694163484
+trma SNARC color dot CD 0 down 15 num_decimal 0.442966031955
+trma SNARC color dot CD 0 down 20 num_decimal 0.364265908207
+trma SNARC color dot CD 0 down 45 num_decimal 0.3267349867
+trma SNARC color dot CD 0 up 30 lctrl 0.643743584524
+trma SNARC color dot CD 0 up 25 lctrl 0.412204019267
+trma SNARC color dot CD 0 down 35 num_decimal 0.398367381642
+trma SNARC color dot CD 0 up 15 lctrl 0.456159415344
+trma SNARC color dot CD 0 up 20 lctrl 0.384888831519
+trma SNARC color dot CD 0 up 40 lctrl 0.419334118602
+trma SNARC color dot CD 0 up 25 lctrl 0.36461561758
+trma SNARC color dot CD 0 down 10 lctrl 0.392700352129
+trma SNARC color dot CD 0 up 15 lctrl 0.435770148782
+trma SNARC color dot CD 0 up 15 lctrl 0.452605226215
+trma SNARC color dot CD 0 down 45 num_decimal 0.683217611699
+trma SNARC color dot CD 0 up 40 lctrl 0.761107228898
+trma SNARC color dot CD 0 up 30 lctrl 0.36505003916
+trma SNARC color dot CD 0 up 15 lctrl 0.345011723177
+trma SNARC color dot CD 0 up 5 lctrl 0.381584124498
+trma SNARC color dot CD 0 down 45 num_decimal 0.607135188273
+trma SNARC color dot CD 0 up 5 lctrl 0.47315802147
+trma SNARC color dot CD 0 up 15 lctrl 0.409042361069
+trma SNARC color dot CD 0 up 5 lctrl 0.490908176933
+trma SNARC color dot CD 0 up 40 lctrl 0.560671007574
+trma SNARC color dot CD 0 down 10 lctrl 0.525328019323
+trma SNARC color dot CD 0 down 35 num_decimal 0.418680934727
+trma SNARC color dot CD 0 down 25 num_decimal 0.387194058601
+trma SNARC color dot CD 0 up 25 lctrl 0.405445350387
+trma SNARC color dot CD 0 down 15 lctrl 0.431309570058
+trma SNARC color dot CD 0 down 25 num_decimal 0.39186471119
+trma SNARC color dot CD 0 up 20 lctrl 0.49115765904
+trma SNARC color dot CD 0 up 35 lctrl 0.41719738503
+trma SNARC color dot CD 0 up 25 lctrl 0.570474351131
+trma SNARC color dot CD 0 up 10 lctrl 0.318240183004
+trma SNARC color dot CD 0 up 20 lctrl 0.395470720607
+trma SNARC color dot CD 0 down 25 num_decimal 0.349177515829
+trma SNARC color dot CD 0 down 20 num_decimal 0.505110969889
+trma SNARC color dot CD 0 down 10 num_decimal 0.398944852042
+trma SNARC color dot CD 0 up 20 lctrl 0.432824460167
+trma SNARC color dot CD 0 up 5 lctrl 0.338164618473
+trma SNARC color dot CD 0 down 30 num_decimal 0.36665801961
+trma SNARC color dot CD 0 up 10 lctrl 0.426610990369
+trma SNARC color dot CD 0 down 40 num_decimal 0.603424917677
+trma SNARC color dot CD 0 up 30 lctrl 0.389166953179
+trma SNARC color dot CD 0 down 10 num_decimal 0.392155463347
+trma SNARC color dot CD 0 up 15 lctrl 0.339014843565
+trma SNARC color dot CD 0 down 10 num_decimal 0.34402558619
+trma SNARC color dot CD 0 down 30 num_decimal 0.39635445822
+trma SNARC color dot CD 0 up 20 lctrl 0.485674327794
+trma SNARC color dot CD 0 up 30 lctrl 0.316302973057
+trma SNARC color dot CD 0 down 20 num_decimal 0.433650171473
+trma SNARC color dot CD 0 up 35 num_decimal 0.450270520525
+trma SNARC color dot CD 0 down 10 num_decimal 0.378411605758
+trma SNARC color dot CD 0 up 45 lctrl 0.388955638109
+trma SNARC color dot CD 0 up 45 lctrl 0.422845486173
+trma SNARC color dot CD 0 down 30 num_decimal 0.568260352577
+trma SNARC color dot CD 0 up 45 lctrl 1.01880735141
+trma SNARC color dot CD 0 down 15 num_decimal 0.412175471565
+trma SNARC color dot CD 0 down 20 num_decimal 0.398131552784
+trma SNARC color dot CD 0 up 30 lctrl 0.431230443271
+trma SNARC color dot CD 0 up 25 lctrl 0.367949803207
+trma SNARC color dot CD 0 down 5 num_decimal 0.396031745047
+trma SNARC color dot CD 0 up 5 lctrl 0.574612837281
+trma SNARC color dot CD 0 up 25 lctrl 0.41744717744
+trma SNARC color dot CD 0 down 25 num_decimal 0.618628431776
+trma SNARC color dot CD 0 up 45 lctrl 0.418634079257
+trma SNARC color dot CD 0 down 45 num_decimal 0.410799286059
+trma SNARC color dot CD 0 down 5 lctrl 0.436737978005
+trma SNARC color dot CD 0 up 45 lctrl 0.356525446554
+trma SNARC color dot CD 0 down 45 num_decimal 0.343843129125
+trma SNARC color dot CD 0 up 5 lctrl 0.452497862025
+trma SNARC color dot CD 0 up 40 lctrl 0.484317070659
+trma SNARC color dot CD 0 up 5 lctrl 0.411268461365
+trma SNARC color dot CD 0 up 30 lctrl 0.389033213391
+trma SNARC color dot CD 0 down 15 num_decimal 0.288005992536
+trma SNARC color dot CD 0 down 20 num_decimal 0.31906992822
+trma SNARC color dot CD 0 down 40 num_decimal 0.338990640075
+trma SNARC color dot CD 0 up 40 lctrl 0.446931059778
+trma SNARC color dot CD 0 up 5 lctrl 0.424245875167
+trma SNARC color dot CD 0 down 45 lctrl 0.864501116464
+trma SNARC color dot CD 0 up 40 lctrl 0.343399398513
+trma SNARC color dot CD 0 down 45 num_decimal 0.403503175621
+trma SNARC color dot CD 0 down 30 num_decimal 0.365059658496
+trma SNARC color dot CD 0 down 10 num_decimal 0.392949213634
+trma SNARC color dot CD 0 up 35 lctrl 0.499554717881
+trma SNARC color dot CD 0 down 10 num_decimal 0.465658663794
+trma SNARC color dot CD 0 up 25 lctrl 0.968506607553
+trma SNARC color dot CD 0 down 10 num_decimal 0.507897474025
+trma SNARC color dot CD 0 down 15 num_decimal 0.713736348302
+trma SNARC color dot CD 0 up 5 lctrl 0.392283307412
+trma SNARC color dot CD 0 down 35 num_decimal 0.345965278544
+trma SNARC color dot CD 0 down 20 num_decimal 0.430571363675
+trma SNARC color dot CD 0 down 5 num_decimal 0.568086273644
+trma SNARC color dot CD 0 up 35 lctrl 0.411282424915
+trma SNARC color dot CD 0 up 15 lctrl 0.461676879711
+trma SNARC color dot CD 0 down 25 num_decimal 0.509529347661
+trma SNARC color dot CD 0 down 20 num_decimal 0.379482454953
+trma SNARC color dot CD 0 down 35 num_decimal 0.294657297227
+trma SNARC color dot CD 0 up 20 lctrl 0.42120864772
+trma SNARC color dot CD 0 down 45 num_decimal 0.4051195342
+trma SNARC color dot CD 0 up 30 lctrl 0.622010714078
+trma SNARC color dot CD 0 up 40 lctrl 0.950654673321
+trma SNARC color dot CD 0 up 40 lctrl 0.386455541917
+trma SNARC color dot CD 0 up 20 lctrl 0.340339829383
+trma SNARC color dot CD 0 up 35 lctrl 0.303972537109
+trma SNARC color dot CD 0 up 25 lctrl 0.309033858817
+trma SNARC color dot CD 0 up 20 lctrl 0.346915730901
+trma SNARC color dot CD 0 up 30 lctrl 0.359634353563
+trma SNARC color dot CD 0 up 15 lctrl 0.363909992813
+trma SNARC color dot CD 0 up 35 lctrl 0.367808926494
+trma SNARC color dot CD 0 down 20 num_decimal 0.45081944322
+trma SNARC color dot CD 0 down 30 num_decimal 0.514607735931
+trma SNARC color dot CD 0 down 15 num_decimal 0.632530232639
+trma SNARC color dot CD 0 down 5 num_decimal 0.649112104351
+trma SNARC color dot CD 0 up 35 lctrl 0.504750710279
+trma SNARC color dot CD 0 down 25 num_decimal 0.430596187764
+trma SNARC color dot CD 0 down 10 num_decimal 0.496523696456
+trma SNARC color dot CD 0 down 20 num_decimal 0.334225035343
+trma SNARC color dot CD 0 up 25 lctrl 1.47425338445
+trma SNARC color dot CD 0 up 15 lctrl 0.410191095847
+trma SNARC color dot CD 0 up 15 lctrl 0.339018567178
+trma SNARC color dot CD 0 down 5 num_decimal 0.46402989317
+trma SNARC color dot CD 0 up 40 lctrl 0.358586776953
+trma SNARC color dot CD 0 up 45 lctrl 0.329615201776
+trma SNARC color dot CD 0 up 15 lctrl 0.327760842232
+trma SNARC color dot CD 0 up 15 lctrl 0.30979068327
+trma SNARC color dot CD 0 up 25 lctrl 0.379718283812
+trma SNARC color dot CD 0 down 20 num_decimal 0.303621586532
+trma SNARC color dot CD 0 down 10 num_decimal 0.326414135332
+trma SNARC color dot CD 0 down 35 num_decimal 0.25968884244
+trma SNARC color dot CD 0 up 15 lctrl 0.371676209459
+trma SNARC color dot CD 0 up 10 lctrl 0.303671545014
+trma SNARC color dot CD 0 down 25 num_decimal 0.421682167242
+trma SNARC color dot CD 0 up 20 lctrl 0.374869208074
+trma SNARC color dot CD 0 down 5 num_decimal 0.402545586338
+trma SNARC color dot CD 0 down 30 num_decimal 0.33240667073
+trma SNARC color dot CD 0 down 25 num_decimal 0.312334221622
+trma SNARC color dot CD 0 down 30 num_decimal 0.39028931236
+trma SNARC color dot CD 0 up 25 lctrl 0.488233691503
+trma SNARC color dot CD 0 up 35 lctrl 0.405959519356
+trma SNARC color dot CD 0 up 20 lctrl 0.438947632339
+trma SNARC color dot CD 0 down 45 num_decimal 0.406765061085
+trma SNARC color dot CD 0 down 5 num_decimal 0.344781169437
+trma SNARC color dot CD 0 down 35 num_decimal 0.389349720543
+trma SNARC color dot CD 0 up 10 lctrl 0.392542408856
+trma SNARC color dot CD 0 down 40 num_decimal 0.347235961666
+trma SNARC color dot CD 0 down 10 num_decimal 0.456556290486
+trma SNARC color dot CD 0 up 5 lctrl 0.385189203011
+trma SNARC color dot CD 0 up 40 lctrl 0.347574500198
+trma SNARC color dot CD 0 up 5 lctrl 0.336166279203
+trma SNARC color dot CD 0 down 30 num_decimal 0.428127121684
+trma SNARC color dot CD 0 up 5 lctrl 0.574089359277
+trma SNARC color dot CD 0 up 25 lctrl 0.336798983204
+trma SNARC color dot CD 0 up 40 lctrl 0.348615250183
+trma SNARC color dot CD 0 down 40 num_decimal 0.407676725801
+trma SNARC color dot CD 0 up 45 lctrl 0.408496851685
+trma SNARC color dot CD 0 up 40 lctrl 0.514440793924
+trma SNARC color dot CD 0 down 15 num_decimal 0.40044236529
+trma SNARC color dot CD 0 down 25 num_decimal 0.34619179837
+trma SNARC color dot CD 0 up 5 lctrl 0.399146237474
+trma SNARC color dot CD 0 up 40 lctrl 0.352613790526
+trma SNARC color dot CD 0 down 30 num_decimal 0.484314277948
+trma SNARC color dot CD 0 up 25 lctrl 0.441825365007
+trma SNARC color dot CD 0 up 30 lctrl 0.322509616233
+trma SNARC color dot CD 0 up 45 lctrl 0.335130183736
+trma SNARC color dot CD 0 down 5 num_decimal 0.444488369294
+trma SNARC color dot CD 0 down 45 num_decimal 0.315453368567
+trma SNARC color dot CD 0 up 15 num_decimal 0.241474786792
+trma SNARC color dot CD 0 down 25 num_decimal 0.369435525012
+trma SNARC color dot CD 0 down 45 num_decimal 0.348113182958
+trma SNARC color dot CD 0 up 40 lctrl 0.375727811299
+trma SNARC color dot CD 0 down 25 num_decimal 0.386281462983
+trma SNARC color dot CD 0 down 10 num_decimal 0.397215854155
+trma SNARC color dot CD 0 up 40 lctrl 0.375057560859
+trma SNARC color dot CD 0 up 25 lctrl 0.345996618958
+trma SNARC color dot CD 0 up 40 lctrl 0.349611627107
+trma SNARC color dot CD 0 up 40 lctrl 0.40129507279
+trma SNARC color dot CD 0 up 30 lctrl 0.290837800636
+trma SNARC color dot CD 0 down 35 lctrl 0.344748277517
+trma SNARC color dot CD 0 down 20 num_decimal 0.429525959173
+trma SNARC color dot CD 0 down 5 num_decimal 0.351522771758
+trma SNARC color dot CD 0 down 45 num_decimal 0.298587571322
+trma SNARC color dot CD 0 up 5 num_decimal 0.784705940034
+trma SNARC color dot CD 0 down 5 num_decimal 0.63600870829
+trma SNARC color dot CD 0 up 45 lctrl 0.434774392461
+trma SNARC color dot CD 0 down 40 num_decimal 0.571479416485
+trma SNARC color dot CD 0 up 45 lctrl 0.254125763806
+trma SNARC color dot CD 0 down 25 num_decimal 0.654147360765
+trma SNARC color dot CD 0 up 30 lctrl 0.46145656591
+trma SNARC color dot CD 0 up 10 lctrl 0.509967182554
+trma SNARC color dot CD 0 up 45 lctrl 0.394669833393
+trma SNARC color dot CD 0 down 20 num_decimal 0.446132654974
+trma SNARC color dot CD 0 down 40 num_decimal 0.342799586431
+trma SNARC color dot CD 0 up 35 lctrl 0.379338785531
+trma SNARC color dot CD 0 down 10 num_decimal 0.647394897904
+trma SNARC color dot CD 0 down 20 num_decimal 0.400033698703
+trma SNARC color dot CD 0 down 30 num_decimal 0.665010692977
+trma SNARC color dot CD 0 down 20 num_decimal 0.528273707936
+trma SNARC color dot CD 0 down 20 num_decimal 0.365347307641
+trma SNARC color dot CD 0 down 10 num_decimal 0.289453857602
+trma SNARC color dot CD 0 down 20 num_decimal 0.319868643328
+trma SNARC color dot CD 0 up 20 lctrl 0.588396413415
+trma SNARC color dot CD 0 down 40 num_decimal 0.566567039317
+trma SNARC color dot CD 0 down 25 num_decimal 0.424831413397
+trma SNARC color dot CD 0 down 10 num_decimal 0.402756591107
+trma SNARC color dot CD 0 up 5 lctrl 0.412665126745
+trma SNARC color dot CD 0 up 25 lctrl 0.318394402664
+trma SNARC color dot CD 0 up 30 lctrl 0.395794985287
+trma SNARC color dot CD 0 down 25 num_decimal 0.286519960429
+{'participant': u'trma', 'interactive_setting': False, 'response_buttons': 'DC', 'range_in_instr': True, 'dateStr': '12_09_1120', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+trma SNARC_only DC 4 num_decimal 0.635417584641
+trma SNARC_only DC 3 lctrl 0.492107801094
+trma SNARC_only DC 6 num_decimal 0.570987899497
+trma SNARC_only DC 4 num_decimal 0.30270774971
+trma SNARC_only DC 5 num_decimal 0.37339465711
+trma SNARC_only DC 5 lctrl 0.433337387936
+trma SNARC_only DC 7 lctrl 0.874540288878
+trma SNARC_only DC 5 lctrl 0.538064949749
+trma SNARC_only DC 8 num_decimal 0.526915830198
+trma SNARC_only DC 6 num_decimal 0.428618328371
+trma SNARC_only DC 8 num_decimal 0.398547356297
+trma SNARC_only DC 5 lctrl 0.59242039845
+trma SNARC_only DC 2 num_decimal 0.547104952531
+trma SNARC_only DC 3 lctrl 0.983992185376
+trma SNARC_only DC 4 num_decimal 0.763245203676
+trma SNARC_only DC 4 num_decimal 0.391865021493
+trma SNARC_only DC 8 num_decimal 0.506815143688
+trma SNARC_only DC 4 num_decimal 0.377478530267
+trma SNARC_only DC 2 num_decimal 0.373524673283
+trma SNARC_only DC 3 lctrl 0.585444208478
+trma SNARC_only DC 8 num_decimal 0.540221542593
+trma SNARC_only DC 5 lctrl 1.08108168491
+trma SNARC_only DC 6 num_decimal 0.968345871568
+trma SNARC_only DC 3 lctrl 0.44368468937
+trma SNARC_only DC 6 num_decimal 0.500642013034
+trma SNARC_only DC 2 num_decimal 1.2983613618
+trma SNARC_only DC 9 lctrl 0.553014637524
+trma SNARC_only DC 9 lctrl 0.429175939498
+trma SNARC_only DC 6 num_decimal 0.503103011286
+trma SNARC_only DC 4 num_decimal 0.412925159091
+trma SNARC_only DC 4 num_decimal 0.391573648732
+trma SNARC_only DC 4 num_decimal 0.378728733513
+trma SNARC_only DC 7 lctrl 0.438671154034
+trma SNARC_only DC 8 num_decimal 0.391552858555
+trma SNARC_only DC 4 num_decimal 0.386517602141
+trma SNARC_only DC 1 num_decimal 0.349426687635
+trma SNARC_only DC 3 lctrl 0.633319018109
+trma SNARC_only DC 1 lctrl 0.466055538938
+trma SNARC_only DC 3 lctrl 0.41790114799
+trma SNARC_only DC 4 num_decimal 0.627833204455
+trma SNARC_only DC 4 num_decimal 0.357496689086
+trma SNARC_only DC 9 lctrl 0.506175613064
+trma SNARC_only DC 1 num_decimal 0.392179977136
+trma SNARC_only DC 6 num_decimal 0.515338184789
+trma SNARC_only DC 7 lctrl 0.537100533842
+trma SNARC_only DC 8 num_decimal 0.557948115169
+trma SNARC_only DC 8 num_decimal 0.450437152231
+trma SNARC_only DC 7 lctrl 0.546486522382
+trma SNARC_only DC 4 num_decimal 0.639332653982
+trma SNARC_only DC 1 lctrl 0.543817622372
+trma SNARC_only DC 6 num_decimal 0.652727422801
+trma SNARC_only DC 1 lctrl 0.621355668394
+trma SNARC_only DC 2 num_decimal 0.647167136876
+trma SNARC_only DC 7 lctrl 1.0718145417
+trma SNARC_only DC 9 lctrl 0.583061406112
+trma SNARC_only DC 5 lctrl 0.441789059774
+trma SNARC_only DC 1 lctrl 0.475142397188
+trma SNARC_only DC 1 lctrl 0.531065797493
+trma SNARC_only DC 9 num_decimal 0.384359147491
+trma SNARC_only DC 5 lctrl 0.483200296896
+trma SNARC_only DC 4 num_decimal 0.41014517128
+trma SNARC_only DC 9 lctrl 0.523910563768
+trma SNARC_only DC 7 lctrl 0.569575408761
+trma SNARC_only DC 6 num_decimal 0.40517942232
+trma SNARC_only DC 2 num_decimal 0.815080696912
+trma SNARC_only DC 1 lctrl 0.496349307223
+trma SNARC_only DC 6 num_decimal 0.423366792069
+trma SNARC_only DC 7 lctrl 0.553095315818
+trma SNARC_only DC 7 lctrl 0.981714575093
+trma SNARC_only DC 3 lctrl 0.545019728946
+trma SNARC_only DC 7 lctrl 0.405821125052
+trma SNARC_only DC 6 num_decimal 0.679574055846
+trma SNARC_only DC 2 num_decimal 0.471245325314
+trma SNARC_only DC 7 lctrl 0.422634791708
+trma SNARC_only DC 8 num_decimal 0.552434064113
+trma SNARC_only DC 3 lctrl 0.533153813787
+trma SNARC_only DC 2 num_decimal 0.481770429296
+trma SNARC_only DC 7 lctrl 0.440453834019
+trma SNARC_only DC 9 lctrl 0.529051632866
+trma SNARC_only DC 1 lctrl 0.686882578329
+trma SNARC_only DC 8 num_decimal 0.606279067459
+trma SNARC_only DC 7 lctrl 1.00885009849
+trma SNARC_only DC 6 num_decimal 0.691054577004
+trma SNARC_only DC 9 lctrl 1.02616428087
+trma SNARC_only DC 5 lctrl 0.708047287409
+trma SNARC_only DC 8 num_decimal 0.634590632133
+trma SNARC_only DC 3 lctrl 0.547085093258
+trma SNARC_only DC 7 lctrl 0.45591117444
+trma SNARC_only DC 3 lctrl 0.568591754181
+trma SNARC_only DC 7 lctrl 0.412428677284
+trma SNARC_only DC 8 lctrl 0.454241444068
+trma SNARC_only DC 3 lctrl 0.550959202848
+trma SNARC_only DC 8 num_decimal 1.32241311258
+trma SNARC_only DC 6 num_decimal 0.560307024349
+trma SNARC_only DC 3 lctrl 0.589020118683
+trma SNARC_only DC 4 num_decimal 0.831627504596
+trma SNARC_only DC 1 num_decimal 0.3771582995
+trma SNARC_only DC 7 lctrl 0.540963782894
+trma SNARC_only DC 1 lctrl 0.401650057282
+trma SNARC_only DC 1 lctrl 0.348345598502
+trma SNARC_only DC 2 num_decimal 0.505162790179
+trma SNARC_only DC 2 num_decimal 1.0790724851
+trma SNARC_only DC 7 lctrl 0.64704736064
+trma SNARC_only DC 3 num_decimal 0.736403225146
+trma SNARC_only DC 7 lctrl 0.508671675341
+trma SNARC_only DC 3 lctrl 1.67537878459
+trma SNARC_only DC 8 num_decimal 3.13911575349
+trma SNARC_only DC 4 num_decimal 0.736142882499
+trma SNARC_only DC 4 num_decimal 0.56479956409
+trma SNARC_only DC 8 num_decimal 0.40829236324
+trma SNARC_only DC 1 lctrl 0.394965550369
+trma SNARC_only DC 4 num_decimal 0.421688993867
+trma SNARC_only DC 8 num_decimal 0.479529124243
+trma SNARC_only DC 4 num_decimal 0.62291058735
+trma SNARC_only DC 9 lctrl 0.696533253731
+trma SNARC_only DC 4 num_decimal 0.623976471728
+trma SNARC_only DC 6 num_decimal 0.537665592197
+trma SNARC_only DC 7 lctrl 0.567027836494
+trma SNARC_only DC 6 num_decimal 0.522750658149
+trma SNARC_only DC 9 lctrl 0.752441759581
+trma SNARC_only DC 1 num_decimal 0.364936779248
+trma SNARC_only DC 1 lctrl 0.376857617708
+trma SNARC_only DC 3 lctrl 0.388651232703
+trma SNARC_only DC 8 num_decimal 0.416014206827
+trma SNARC_only DC 3 lctrl 0.745194987023
+trma SNARC_only DC 7 num_decimal 0.59835894145
+trma SNARC_only DC 8 num_decimal 0.769159232887
+trma SNARC_only DC 1 lctrl 0.39659059738
+trma SNARC_only DC 2 num_decimal 0.543397784946
+trma SNARC_only DC 2 num_decimal 0.484292246567
+trma SNARC_only DC 3 lctrl 0.546810476759
+trma SNARC_only DC 7 lctrl 0.448054349863
+trma SNARC_only DC 9 lctrl 0.384191584881
+trma SNARC_only DC 4 num_decimal 0.386759947323
+trma SNARC_only DC 1 lctrl 0.397712025657
+trma SNARC_only DC 3 lctrl 0.600278464233
+trma SNARC_only DC 1 lctrl 0.426835338085
+trma SNARC_only DC 7 lctrl 0.356527618662
+trma SNARC_only DC 1 lctrl 0.625394237584
+trma SNARC_only DC 5 lctrl 0.70703291302
+trma SNARC_only DC 8 lctrl 1.52141512209
+trma SNARC_only DC 8 lctrl 0.655347915832
+trma SNARC_only DC 5 lctrl 1.20794550864
+trma SNARC_only DC 6 num_decimal 0.826073734994
+trma SNARC_only DC 8 num_decimal 0.555464464935
+trma SNARC_only DC 3 lctrl 0.719982710021
+trma SNARC_only DC 9 lctrl 1.24553600796
+trma SNARC_only DC 5 lctrl 0.646561429074
+trma SNARC_only DC 5 lctrl 0.591986597474
+trma SNARC_only DC 2 num_decimal 0.426940530169
+trma SNARC_only DC 1 lctrl 0.38082016312
+trma SNARC_only DC 2 num_decimal 0.48820266139
+trma SNARC_only DC 2 num_decimal 0.32724853507
+trma SNARC_only DC 5 lctrl 0.533057310136
+trma SNARC_only DC 8 num_decimal 0.401828790731
+trma SNARC_only DC 5 lctrl 0.571760859608
+trma SNARC_only DC 5 lctrl 0.343208253016
+trma SNARC_only DC 5 lctrl 0.30115189985
+trma SNARC_only DC 8 num_decimal 0.435399959537
+trma SNARC_only DC 3 lctrl 0.412228222756
+trma SNARC_only DC 5 lctrl 0.398858898629
+trma SNARC_only DC 8 num_decimal 0.512970897476
+trma SNARC_only DC 7 lctrl 0.518628307655
+trma SNARC_only DC 6 lctrl 0.380139983046
+trma SNARC_only DC 7 lctrl 0.384049156664
+trma SNARC_only DC 2 lctrl 0.426750315577
+trma SNARC_only DC 2 num_decimal 0.636829454776
+trma SNARC_only DC 9 lctrl 0.582064718885
+trma SNARC_only DC 8 num_decimal 0.576622967992
+trma SNARC_only DC 7 lctrl 0.524308990418
+trma SNARC_only DC 3 lctrl 0.482097486685
+trma SNARC_only DC 3 lctrl 0.424818380749
+trma SNARC_only DC 9 lctrl 0.570556580929
+trma SNARC_only DC 8 num_decimal 0.534303789769
+trma SNARC_only DC 6 num_decimal 0.611219371727
+trma SNARC_only DC 9 lctrl 0.653838921442
+trma SNARC_only DC 6 num_decimal 1.12652373369
+trma SNARC_only DC 2 num_decimal 0.492446029326
+trma SNARC_only DC 1 lctrl 0.515379454837
+trma SNARC_only DC 8 num_decimal 0.393027099219
+trma SNARC_only DC 8 num_decimal 0.476088505329
+trma SNARC_only DC 5 lctrl 0.539647485506
+trma SNARC_only DC 9 lctrl 0.561050195551
+trma SNARC_only DC 9 lctrl 0.508488597676
+trma SNARC_only DC 6 num_decimal 0.419062605115
+trma SNARC_only DC 9 lctrl 0.596798747378
+trma SNARC_only DC 6 num_decimal 0.423566315696
+trma SNARC_only DC 2 num_decimal 0.561352739152
+trma SNARC_only DC 4 num_decimal 0.48602248566
+trma SNARC_only DC 3 lctrl 0.420668103154
+trma SNARC_only DC 4 num_decimal 0.566601482744
+trma SNARC_only DC 4 num_decimal 0.482352864514
+trma SNARC_only DC 6 num_decimal 0.465190109089
+trma SNARC_only DC 6 num_decimal 0.432989850671
+trma SNARC_only DC 1 lctrl 0.52962196634
+trma SNARC_only DC 2 num_decimal 0.783271728216
+trma SNARC_only DC 3 lctrl 0.865677468042
+trma SNARC_only DC 3 lctrl 0.409087665035
+trma SNARC_only DC 1 num_decimal 0.427790134658
+trma SNARC_only DC 1 lctrl 0.357680697656
+trma SNARC_only DC 2 num_decimal 0.522397535466
+trma SNARC_only DC 5 lctrl 0.552310564264
+trma SNARC_only DC 8 num_decimal 0.517026843529
+trma SNARC_only DC 7 lctrl 0.386863587901
+trma SNARC_only DC 6 num_decimal 1.10175084309
+trma SNARC_only DC 1 lctrl 0.579873682616
+trma SNARC_only DC 1 lctrl 0.479927240591
+trma SNARC_only DC 7 lctrl 0.415308892361
+trma SNARC_only DC 5 lctrl 0.481160687577
+trma SNARC_only DC 9 lctrl 0.359818051829
+trma SNARC_only DC 5 lctrl 0.403523655496
+trma SNARC_only DC 2 num_decimal 0.549317399578
+trma SNARC_only DC 2 num_decimal 0.434104452324
+trma SNARC_only DC 7 lctrl 2.2668546264
+trma SNARC_only DC 4 num_decimal 0.426940840471
+trma SNARC_only DC 4 num_decimal 0.540831594613
+trma SNARC_only DC 7 lctrl 0.497588339627
+trma SNARC_only DC 3 num_decimal 0.400346792541
+trma SNARC_only DC 4 num_decimal 0.402251110567
+trma SNARC_only DC 8 num_decimal 0.548925489253
+trma SNARC_only DC 6 lctrl 0.368628742075
+trma SNARC_only DC 9 lctrl 0.628397642207
+trma SNARC_only DC 5 lctrl 0.542162165852
+trma SNARC_only DC 4 num_decimal 0.610714511791
+trma SNARC_only DC 6 num_decimal 0.853393266962
+trma SNARC_only DC 6 num_decimal 0.429579641266
+trma SNARC_only DC 9 lctrl 0.487644119359
+trma SNARC_only DC 9 lctrl 0.423090934368
+trma SNARC_only DC 8 lctrl 0.360487371365
+trma SNARC_only DC 9 lctrl 0.612327457056
+trma SNARC_only DC 1 lctrl 0.502934517774
+trma SNARC_only DC 3 lctrl 0.725501105293
+trma SNARC_only DC 5 lctrl 0.491110803569
+trma SNARC_only DC 9 lctrl 0.61786788371
+trma SNARC_only DC 4 num_decimal 0.627473565448
+trma SNARC_only DC 2 num_decimal 0.804809419253
+trma SNARC_only DC 9 lctrl 0.719449612683
+trma SNARC_only DC 8 num_decimal 0.468956854489
+trma SNARC_only DC 2 num_decimal 0.516714059992
+trma SNARC_only DC 8 num_decimal 0.370306229977
+trma SNARC_only DC 1 lctrl 0.638068487184
+trma SNARC_only DC 3 lctrl 0.510598024746
+trma SNARC_only DC 4 num_decimal 0.869216142113
+trma SNARC_only DC 7 lctrl 0.852620927453
+trma SNARC_only DC 6 num_decimal 0.589006465434
+trma SNARC_only DC 1 lctrl 0.495715982619
+trma SNARC_only DC 2 lctrl 0.39055896404
+trma SNARC_only DC 2 num_decimal 0.545895088431
+trma SNARC_only DC 9 lctrl 0.582977004204
+trma SNARC_only DC 8 num_decimal 0.673653820615
+trma SNARC_only DC 9 lctrl 0.585216447449
+trma SNARC_only DC 7 lctrl 0.475729176622
+trma SNARC_only DC 4 num_decimal 0.667506134652
+trma SNARC_only DC 5 lctrl 0.55519915747
+trma SNARC_only DC 3 lctrl 0.479674345172
+trma SNARC_only DC 1 lctrl 0.327456436824
+trma SNARC_only DC 2 lctrl 0.373437478665
+trma SNARC_only DC 5 lctrl 0.537266234645
+trma SNARC_only DC 3 lctrl 0.47794193397
+trma SNARC_only DC 8 num_decimal 0.437716047161
+trma SNARC_only DC 8 num_decimal 0.367081270348
+trma SNARC_only DC 3 lctrl 0.402384850353
+trma SNARC_only DC 5 lctrl 0.525037887768
+trma SNARC_only DC 2 lctrl 0.466912900956
+trma SNARC_only DC 7 lctrl 0.61053019292
+trma SNARC_only DC 7 lctrl 0.373282017801
+trma SNARC_only DC 3 lctrl 0.489209278252
+trma SNARC_only DC 4 num_decimal 0.584120463864
+trma SNARC_only DC 9 lctrl 0.48334706933
+trma SNARC_only DC 6 num_decimal 0.506240776298
+trma SNARC_only DC 3 lctrl 0.448587447201
+trma SNARC_only DC 6 num_decimal 0.433315356555
+trma SNARC_only DC 1 lctrl 0.354110683171
+trma SNARC_only DC 7 lctrl 0.485908294846
+trma SNARC_only DC 2 num_decimal 0.460748458734
+trma SNARC_only DC 8 num_decimal 0.421459681333
+trma SNARC_only DC 2 num_decimal 0.439184392102
+trma SNARC_only DC 6 num_decimal 0.447874685511
+trma SNARC_only DC 4 num_decimal 0.567766663482
+trma SNARC_only DC 1 lctrl 0.427333371397
+trma SNARC_only DC 3 lctrl 0.381278477886
+trma SNARC_only DC 6 num_decimal 0.559889979633
+trma SNARC_only DC 3 lctrl 0.572519235566
+trma SNARC_only DC 6 num_decimal 0.416487416049
+trma SNARC_only DC 7 lctrl 0.610130835368
+trma SNARC_only DC 5 lctrl 0.987776617942
+trma SNARC_only DC 6 num_decimal 2.16715115016
+trma SNARC_only DC 6 num_decimal 1.00300154282
+trma SNARC_only DC 3 lctrl 0.733568003734
+trma SNARC_only DC 9 num_decimal 0.48222781316
+trma SNARC_only DC 2 num_decimal 0.633045642813
+trma SNARC_only DC 4 num_decimal 0.537620908835
+trma SNARC_only DC 9 lctrl 0.526377457742
+trma SNARC_only DC 1 lctrl 0.42791487571
+trma SNARC_only DC 3 lctrl 0.39783087099
+trma SNARC_only DC 8 num_decimal 0.487806717152
+trma SNARC_only DC 1 lctrl 0.390597751682
+trma SNARC_only DC 5 num_decimal 0.401298175801
+trma SNARC_only DC 2 num_decimal 0.515975233004
+trma SNARC_only DC 8 num_decimal 0.385816631891
+trma SNARC_only DC 4 num_decimal 0.436612926649
+trma SNARC_only DC 5 lctrl 0.565367104853
+trma SNARC_only DC 6 num_decimal 0.992906826501
+trma SNARC_only DC 5 lctrl 0.924271009559
+trma SNARC_only DC 1 lctrl 0.521571824162
+trma SNARC_only DC 1 lctrl 0.44713244521
+trma SNARC_only DC 5 lctrl 0.416659322873
+trma SNARC_only DC 3 lctrl 0.529737708663
+trma SNARC_only DC 7 lctrl 0.479554879237
+trma SNARC_only DC 1 lctrl 0.439297962314
+trma SNARC_only DC 9 num_decimal 0.43218679135
+trma SNARC_only DC 5 lctrl 1.29675741527
+trma SNARC_only DC 2 num_decimal 0.479791018395
+trma SNARC_only DC 8 num_decimal 0.471505978261
+trma SNARC_only DC 6 num_decimal 0.3830971528
+trma SNARC_only DC 3 lctrl 0.441872530779
+trma SNARC_only DC 7 lctrl 0.37885719818
+trma SNARC_only DC 7 lctrl 0.374813353872
+trma SNARC_only DC 7 lctrl 0.402894364806
+trma SNARC_only DC 2 num_decimal 0.629357713899
+trma SNARC_only DC 1 lctrl 0.54251094432
+trma SNARC_only DC 9 lctrl 0.707287359945
+trma SNARC_only DC 9 lctrl 0.410028808357
+trma SNARC_only DC 2 lctrl 0.411787595154
+trma SNARC_only DC 6 num_decimal 0.70982065836
+trma SNARC_only DC 2 num_decimal 0.42019117032
+trma SNARC_only DC 2 num_decimal 0.389936499978
+trma SNARC_only DC 4 num_decimal 0.361029157135
+trma SNARC_only DC 2 num_decimal 0.420845595399
+trma SNARC_only DC 8 num_decimal 0.462867505143
+trma SNARC_only DC 4 num_decimal 0.415495073039
+trma SNARC_only DC 5 lctrl 0.425395540848
+trma SNARC_only DC 4 num_decimal 0.459264288436
+trma SNARC_only DC 5 lctrl 0.42787826018
+trma SNARC_only DC 5 lctrl 0.477894147598
+trma SNARC_only DC 9 lctrl 0.357321058649
+trma SNARC_only DC 6 num_decimal 0.625281287974
+trma SNARC_only DC 5 lctrl 0.498986556515
+trma SNARC_only DC 9 lctrl 0.496743389655
+trma SNARC_only DC 5 lctrl 0.431669209067
+trma SNARC_only DC 3 lctrl 0.400507218224
+trma SNARC_only DC 9 lctrl 0.387257980636
+trma SNARC_only DC 1 lctrl 0.366147263951
+trma SNARC_only DC 5 lctrl 0.346128807241
+trma SNARC_only DC 7 lctrl 0.398690405116
+trma SNARC_only DC 6 num_decimal 0.72863204368
+trma SNARC_only DC 4 num_decimal 0.462008281316
+trma SNARC_only DC 4 num_decimal 0.374019603585
+trma SNARC_only DC 5 lctrl 0.553725537411
+trma SNARC_only DC 9 lctrl 0.622391763862
+trma SNARC_only DC 9 lctrl 0.536105087822
+trma SNARC_only DC 5 lctrl 0.828532871441
+trma SNARC_only DC 9 lctrl 1.93406783679
+trma SNARC_only DC 1 lctrl 0.539375972019
+trma SNARC_only DC 6 num_decimal 0.439932528123
+trma SNARC_only DC 4 num_decimal 1.00106371227
+trma SNARC_only DC 9 lctrl 1.05910150446
+trma SNARC_only DC 2 num_decimal 1.24346474793
+trma SNARC_only DC 7 lctrl 0.45264184175
+trma SNARC_only DC 2 num_decimal 0.861245126722
+{'participant': u'trma', 'interactive_setting': False, 'response_buttons': 'CD', 'range_in_instr': True, 'dateStr': '12_09_1129', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+trma SNARC_only CD 4 lctrl 0.757602377653
+trma SNARC_only CD 1 num_decimal 0.417889046246
+trma SNARC_only CD 2 lctrl 0.459387788285
+trma SNARC_only CD 3 num_decimal 0.868011863431
+trma SNARC_only CD 7 num_decimal 0.395650074659
+trma SNARC_only CD 6 lctrl 0.390562687655
+trma SNARC_only CD 2 lctrl 0.425928017587
+trma SNARC_only CD 2 lctrl 0.371756887755
+trma SNARC_only CD 3 num_decimal 0.367880916358
+trma SNARC_only CD 2 lctrl 0.395107668284
+trma SNARC_only CD 1 num_decimal 0.462281036009
+trma SNARC_only CD 3 num_decimal 0.374878517108
+trma SNARC_only CD 2 lctrl 0.53084238068
+trma SNARC_only CD 1 num_decimal 1.10420656622
+trma SNARC_only CD 8 lctrl 0.446157789365
+trma SNARC_only CD 9 num_decimal 0.551016298255
+trma SNARC_only CD 2 num_decimal 0.38675932672
+trma SNARC_only CD 6 lctrl 0.389746905987
+trma SNARC_only CD 6 lctrl 0.345065094971
+trma SNARC_only CD 4 lctrl 0.550397868108
+trma SNARC_only CD 6 lctrl 0.347036748342
+trma SNARC_only CD 5 lctrl 0.359778643586
+trma SNARC_only CD 4 lctrl 0.371790089974
+trma SNARC_only CD 5 num_decimal 0.647689994279
+trma SNARC_only CD 9 num_decimal 0.584390425845
+trma SNARC_only CD 5 num_decimal 0.451058375089
+trma SNARC_only CD 5 num_decimal 0.354974251213
+trma SNARC_only CD 9 num_decimal 0.439456526192
+trma SNARC_only CD 7 num_decimal 0.336191723898
+trma SNARC_only CD 7 num_decimal 0.349152691739
+trma SNARC_only CD 4 lctrl 0.345023514621
+trma SNARC_only CD 9 num_decimal 0.397961818066
+trma SNARC_only CD 7 num_decimal 0.423742877038
+trma SNARC_only CD 1 lctrl 0.553640204602
+trma SNARC_only CD 3 num_decimal 0.534216595152
+trma SNARC_only CD 7 num_decimal 0.490950067584
+trma SNARC_only CD 4 lctrl 0.553821420459
+trma SNARC_only CD 2 lctrl 0.382382839603
+trma SNARC_only CD 4 lctrl 0.369019100895
+trma SNARC_only CD 8 lctrl 0.452965485825
+trma SNARC_only CD 7 num_decimal 0.684718227958
+trma SNARC_only CD 6 lctrl 0.547992413758
+trma SNARC_only CD 5 num_decimal 0.839590762458
+trma SNARC_only CD 9 num_decimal 1.19290707474
+trma SNARC_only CD 2 lctrl 0.627832894153
+trma SNARC_only CD 4 lctrl 0.397181410728
+trma SNARC_only CD 1 num_decimal 0.672205024644
+trma SNARC_only CD 8 lctrl 0.615526971995
+trma SNARC_only CD 1 num_decimal 0.433029879516
+trma SNARC_only CD 2 lctrl 0.465955001371
+trma SNARC_only CD 4 lctrl 0.529714746379
+trma SNARC_only CD 2 lctrl 0.343455873317
+trma SNARC_only CD 2 lctrl 0.460501769337
+trma SNARC_only CD 3 lctrl 0.380749414462
+trma SNARC_only CD 1 num_decimal 0.680700448944
+trma SNARC_only CD 4 lctrl 0.512677042308
+trma SNARC_only CD 6 lctrl 0.527135523398
+trma SNARC_only CD 6 lctrl 0.404865707878
+trma SNARC_only CD 9 num_decimal 0.518909440478
+trma SNARC_only CD 9 num_decimal 0.476882876217
+trma SNARC_only CD 7 num_decimal 0.428241002199
+trma SNARC_only CD 8 num_decimal 0.365892196423
+trma SNARC_only CD 7 num_decimal 0.497917569124
+trma SNARC_only CD 2 lctrl 0.54329693708
+trma SNARC_only CD 8 lctrl 0.539872143523
+trma SNARC_only CD 6 lctrl 0.481209404854
+trma SNARC_only CD 5 num_decimal 0.584280268944
+trma SNARC_only CD 8 lctrl 0.634875178268
+trma SNARC_only CD 3 num_decimal 0.516288947445
+trma SNARC_only CD 6 lctrl 0.730015366111
+trma SNARC_only CD 1 num_decimal 0.639756215021
+trma SNARC_only CD 7 lctrl 0.409063461546
+trma SNARC_only CD 3 num_decimal 0.71495365963
+trma SNARC_only CD 5 num_decimal 0.472305003666
+trma SNARC_only CD 4 lctrl 0.512206625797
+trma SNARC_only CD 2 lctrl 0.390536001758
+trma SNARC_only CD 6 num_decimal 0.425395540848
+trma SNARC_only CD 9 num_decimal 0.491130973141
+trma SNARC_only CD 5 num_decimal 0.594073372564
+trma SNARC_only CD 5 num_decimal 0.436617581165
+trma SNARC_only CD 5 num_decimal 0.525920694479
+trma SNARC_only CD 6 lctrl 0.891256831279
+trma SNARC_only CD 3 num_decimal 0.506739119912
+trma SNARC_only CD 3 num_decimal 0.497213185563
+trma SNARC_only CD 4 lctrl 0.567923055251
+trma SNARC_only CD 6 lctrl 0.379323270474
+trma SNARC_only CD 1 num_decimal 0.471270770006
+trma SNARC_only CD 2 lctrl 0.551078048182
+trma SNARC_only CD 4 lctrl 0.426646675
+trma SNARC_only CD 8 lctrl 0.580345030032
+trma SNARC_only CD 6 lctrl 0.576042394581
+trma SNARC_only CD 9 num_decimal 0.771727595329
+trma SNARC_only CD 9 num_decimal 0.463108609118
+trma SNARC_only CD 8 lctrl 0.575886933715
+trma SNARC_only CD 7 num_decimal 0.595570885811
+trma SNARC_only CD 3 num_decimal 0.590290491506
+trma SNARC_only CD 2 num_decimal 0.44907337877
+trma SNARC_only CD 8 lctrl 0.648902340787
+trma SNARC_only CD 8 lctrl 0.401455808775
+trma SNARC_only CD 7 num_decimal 0.635416653737
+trma SNARC_only CD 3 num_decimal 0.652023659841
+trma SNARC_only CD 2 lctrl 0.884724371919
+trma SNARC_only CD 7 num_decimal 0.404089334454
+trma SNARC_only CD 6 lctrl 0.582052617143
+trma SNARC_only CD 1 num_decimal 0.752626078451
+trma SNARC_only CD 8 lctrl 0.445075148727
+trma SNARC_only CD 6 lctrl 0.765914724285
+trma SNARC_only CD 7 lctrl 0.44135836181
+trma SNARC_only CD 8 lctrl 0.322059058994
+trma SNARC_only CD 9 lctrl 0.392038479824
+trma SNARC_only CD 2 lctrl 0.418804124274
+trma SNARC_only CD 7 num_decimal 0.380786960899
+trma SNARC_only CD 7 num_decimal 0.39227430868
+trma SNARC_only CD 3 num_decimal 0.56355742867
+trma SNARC_only CD 4 lctrl 0.776238132534
+trma SNARC_only CD 7 num_decimal 0.555797418046
+trma SNARC_only CD 2 lctrl 0.488500550473
+trma SNARC_only CD 5 num_decimal 0.447436850616
+trma SNARC_only CD 7 num_decimal 0.416159427756
+trma SNARC_only CD 5 num_decimal 0.418127667814
+trma SNARC_only CD 8 lctrl 0.515869110019
+trma SNARC_only CD 6 num_decimal 0.473538450655
+trma SNARC_only CD 1 num_decimal 0.59336061087
+trma SNARC_only CD 2 lctrl 0.891842990111
+trma SNARC_only CD 2 lctrl 0.451219421375
+trma SNARC_only CD 4 lctrl 0.571792200022
+trma SNARC_only CD 8 lctrl 0.455603666021
+trma SNARC_only CD 2 num_decimal 0.448315002812
+trma SNARC_only CD 9 num_decimal 0.624273740208
+trma SNARC_only CD 2 lctrl 0.537977755133
+trma SNARC_only CD 4 lctrl 0.44672005501
+trma SNARC_only CD 8 lctrl 0.423602310626
+trma SNARC_only CD 7 num_decimal 0.457270293384
+trma SNARC_only CD 6 lctrl 0.545945667514
+trma SNARC_only CD 1 num_decimal 0.686829206536
+trma SNARC_only CD 8 lctrl 0.582124296703
+trma SNARC_only CD 6 lctrl 0.544968218959
+trma SNARC_only CD 2 lctrl 0.637659820597
+trma SNARC_only CD 4 lctrl 0.694192652318
+trma SNARC_only CD 5 num_decimal 0.628725009898
+trma SNARC_only CD 7 num_decimal 0.430394181729
+trma SNARC_only CD 4 lctrl 1.23224425912
+trma SNARC_only CD 9 num_decimal 0.609433588732
+trma SNARC_only CD 5 lctrl 0.612084491275
+trma SNARC_only CD 9 num_decimal 0.73386713402
+trma SNARC_only CD 3 num_decimal 0.51505798287
+trma SNARC_only CD 3 num_decimal 0.384762538959
+trma SNARC_only CD 9 num_decimal 0.427428944146
+trma SNARC_only CD 8 lctrl 0.485251387357
+trma SNARC_only CD 6 lctrl 0.419908485992
+trma SNARC_only CD 6 lctrl 0.485716218447
+trma SNARC_only CD 2 lctrl 0.532661676198
+trma SNARC_only CD 7 lctrl 0.370107016653
+trma SNARC_only CD 5 num_decimal 0.622048881116
+trma SNARC_only CD 4 lctrl 0.5759648193
+trma SNARC_only CD 2 lctrl 0.571668700173
+trma SNARC_only CD 9 num_decimal 0.543438744697
+trma SNARC_only CD 3 num_decimal 0.492103456878
+trma SNARC_only CD 4 lctrl 0.562703479965
+trma SNARC_only CD 2 lctrl 0.495300179105
+trma SNARC_only CD 6 lctrl 0.406066262945
+trma SNARC_only CD 7 lctrl 0.367811408903
+trma SNARC_only CD 3 num_decimal 0.475537720826
+trma SNARC_only CD 2 lctrl 0.395180899352
+trma SNARC_only CD 9 num_decimal 0.862034532793
+trma SNARC_only CD 1 lctrl 0.662667919456
+trma SNARC_only CD 4 num_decimal 0.471163716116
+trma SNARC_only CD 9 num_decimal 0.798808816027
+trma SNARC_only CD 3 num_decimal 0.521213736658
+trma SNARC_only CD 9 num_decimal 0.48694625212
+trma SNARC_only CD 3 num_decimal 0.389578102175
+trma SNARC_only CD 4 lctrl 0.512501722171
+trma SNARC_only CD 4 lctrl 0.35891042103
+trma SNARC_only CD 9 num_decimal 0.450900742117
+trma SNARC_only CD 8 lctrl 0.626662438297
+trma SNARC_only CD 1 num_decimal 0.708182889004
+trma SNARC_only CD 7 num_decimal 1.57873301567
+trma SNARC_only CD 2 lctrl 0.534147398001
+trma SNARC_only CD 6 lctrl 0.962616161227
+trma SNARC_only CD 5 num_decimal 0.662778076356
+trma SNARC_only CD 7 num_decimal 0.807523933527
+trma SNARC_only CD 9 num_decimal 0.554005429029
+trma SNARC_only CD 7 num_decimal 0.413658090358
+trma SNARC_only CD 3 num_decimal 0.512413286351
+trma SNARC_only CD 4 lctrl 0.32709493601
+trma SNARC_only CD 5 num_decimal 0.49290403379
+trma SNARC_only CD 3 num_decimal 0.443654279859
+trma SNARC_only CD 3 num_decimal 0.437006698781
+trma SNARC_only CD 3 num_decimal 0.374187786796
+trma SNARC_only CD 3 num_decimal 0.330156987546
+trma SNARC_only CD 2 lctrl 0.407466962239
+trma SNARC_only CD 5 num_decimal 0.570154430665
+trma SNARC_only CD 1 num_decimal 0.541921372176
+trma SNARC_only CD 9 num_decimal 0.522624365591
+trma SNARC_only CD 4 num_decimal 0.41643869877
+trma SNARC_only CD 9 num_decimal 0.450301550636
+trma SNARC_only CD 4 num_decimal 0.394152871713
+trma SNARC_only CD 9 lctrl 0.589060147529
+trma SNARC_only CD 2 lctrl 0.687636610073
+trma SNARC_only CD 3 num_decimal 0.535077991086
+trma SNARC_only CD 1 num_decimal 0.531949845408
+trma SNARC_only CD 1 num_decimal 0.3533765107
+trma SNARC_only CD 1 num_decimal 0.301983196572
+trma SNARC_only CD 2 num_decimal 0.372318843098
+trma SNARC_only CD 3 num_decimal 0.424201502106
+trma SNARC_only CD 9 lctrl 0.401852063316
+trma SNARC_only CD 3 num_decimal 0.61984232979
+trma SNARC_only CD 8 lctrl 0.605458631275
+trma SNARC_only CD 8 lctrl 0.488184043323
+trma SNARC_only CD 1 num_decimal 0.406948138752
+trma SNARC_only CD 6 lctrl 0.592824410522
+trma SNARC_only CD 9 num_decimal 0.547409047636
+trma SNARC_only CD 5 num_decimal 0.512040614694
+trma SNARC_only CD 8 lctrl 0.605775448726
+trma SNARC_only CD 5 num_decimal 1.63248772138
+trma SNARC_only CD 6 lctrl 0.825169207204
+trma SNARC_only CD 9 num_decimal 0.538759093373
+trma SNARC_only CD 8 lctrl 0.535379914083
+trma SNARC_only CD 5 num_decimal 0.540019846861
+trma SNARC_only CD 6 num_decimal 0.424762526545
+trma SNARC_only CD 9 num_decimal 0.466525955448
+trma SNARC_only CD 4 lctrl 0.450380677425
+trma SNARC_only CD 5 num_decimal 0.419084326193
+trma SNARC_only CD 5 num_decimal 0.540990779093
+trma SNARC_only CD 3 lctrl 0.465954691072
+trma SNARC_only CD 3 num_decimal 0.505998431117
+trma SNARC_only CD 1 num_decimal 0.472507009703
+trma SNARC_only CD 6 lctrl 0.440082093268
+trma SNARC_only CD 1 num_decimal 0.497037244822
+trma SNARC_only CD 7 num_decimal 0.592300932518
+trma SNARC_only CD 9 num_decimal 0.659432099286
+trma SNARC_only CD 4 lctrl 0.78007004117
+trma SNARC_only CD 3 num_decimal 0.423470122347
+trma SNARC_only CD 5 num_decimal 0.473323722272
+trma SNARC_only CD 6 lctrl 0.600801942237
+trma SNARC_only CD 5 num_decimal 0.427643362224
+trma SNARC_only CD 7 num_decimal 0.525493720126
+trma SNARC_only CD 6 lctrl 0.499327887755
+trma SNARC_only CD 6 lctrl 0.409922995672
+trma SNARC_only CD 8 lctrl 0.507710672744
+trma SNARC_only CD 4 lctrl 0.586207549253
+trma SNARC_only CD 3 num_decimal 0.596915420601
+trma SNARC_only CD 5 num_decimal 0.584337984954
+trma SNARC_only CD 1 num_decimal 0.427191563782
+trma SNARC_only CD 8 lctrl 0.405007515494
+trma SNARC_only CD 1 num_decimal 0.430913005215
+trma SNARC_only CD 3 num_decimal 0.439779549666
+trma SNARC_only CD 7 num_decimal 0.360665484213
+trma SNARC_only CD 9 lctrl 0.413249423769
+trma SNARC_only CD 1 num_decimal 0.671413756765
+trma SNARC_only CD 8 lctrl 0.750697246636
+trma SNARC_only CD 6 lctrl 0.619344917082
+trma SNARC_only CD 1 num_decimal 0.589085281921
+trma SNARC_only CD 6 lctrl 0.663710841549
+trma SNARC_only CD 8 lctrl 0.416093333615
+trma SNARC_only CD 9 num_decimal 0.570084923213
+trma SNARC_only CD 1 num_decimal 1.10976374913
+trma SNARC_only CD 4 lctrl 0.819919532712
+trma SNARC_only CD 6 lctrl 0.437279763773
+trma SNARC_only CD 4 lctrl 0.350176685462
+trma SNARC_only CD 7 num_decimal 0.418842601614
+trma SNARC_only CD 9 num_decimal 0.460587102149
+trma SNARC_only CD 2 lctrl 0.5412402612
+trma SNARC_only CD 1 num_decimal 0.562055571208
+trma SNARC_only CD 6 lctrl 0.621835083639
+trma SNARC_only CD 1 num_decimal 0.535287134046
+trma SNARC_only CD 3 num_decimal 0.611978678589
+trma SNARC_only CD 2 num_decimal 0.525754683375
+trma SNARC_only CD 8 lctrl 0.459502289403
+trma SNARC_only CD 1 num_decimal 0.436160817904
+trma SNARC_only CD 5 num_decimal 0.404987035618
+trma SNARC_only CD 5 num_decimal 0.446751085125
+trma SNARC_only CD 5 num_decimal 0.504247091547
+trma SNARC_only CD 8 lctrl 0.565845589193
+trma SNARC_only CD 4 lctrl 0.601555973979
+trma SNARC_only CD 9 num_decimal 0.499760137227
+trma SNARC_only CD 5 num_decimal 0.578547145293
+trma SNARC_only CD 4 lctrl 0.566199953082
+trma SNARC_only CD 1 num_decimal 0.681703962793
+trma SNARC_only CD 8 lctrl 0.432134971063
+trma SNARC_only CD 5 num_decimal 0.456819115543
+trma SNARC_only CD 6 lctrl 0.440752654005
+trma SNARC_only CD 9 num_decimal 0.561601910958
+trma SNARC_only CD 3 num_decimal 0.582237866916
+trma SNARC_only CD 9 num_decimal 0.384928239762
+trma SNARC_only CD 6 num_decimal 0.40370300955
+trma SNARC_only CD 1 num_decimal 0.606423667783
+trma SNARC_only CD 6 lctrl 0.601010774895
+trma SNARC_only CD 2 lctrl 0.6428024412
+trma SNARC_only CD 1 num_decimal 0.419443965202
+trma SNARC_only CD 8 lctrl 0.469361797463
+trma SNARC_only CD 3 num_decimal 0.493186407819
+trma SNARC_only CD 3 num_decimal 0.41207803701
+trma SNARC_only CD 4 num_decimal 0.45385170585
+trma SNARC_only CD 7 num_decimal 0.454602324278
+trma SNARC_only CD 4 lctrl 0.518327625861
+trma SNARC_only CD 5 num_decimal 0.564078734567
+trma SNARC_only CD 8 lctrl 0.584786990687
+trma SNARC_only CD 5 num_decimal 0.579167437249
+trma SNARC_only CD 7 num_decimal 0.558819751039
+trma SNARC_only CD 1 num_decimal 0.39530657131
+trma SNARC_only CD 3 num_decimal 0.438161639582
+trma SNARC_only CD 7 num_decimal 0.454939311305
+trma SNARC_only CD 2 lctrl 0.495618237763
+trma SNARC_only CD 9 num_decimal 0.414346027959
+trma SNARC_only CD 2 lctrl 0.44823773783
+trma SNARC_only CD 8 lctrl 0.60084383289
+trma SNARC_only CD 4 lctrl 0.387332452905
+trma SNARC_only CD 6 lctrl 0.39013261029
+trma SNARC_only CD 9 num_decimal 0.441163803001
+trma SNARC_only CD 8 lctrl 0.417672145757
+trma SNARC_only CD 8 lctrl 0.387477053233
+trma SNARC_only CD 2 num_decimal 0.446400755149
+trma SNARC_only CD 4 num_decimal 0.631173906406
+trma SNARC_only CD 5 num_decimal 0.9997247629
+trma SNARC_only CD 8 lctrl 0.545872746749
+trma SNARC_only CD 5 num_decimal 0.463358401526
+trma SNARC_only CD 4 lctrl 0.919132422869
+trma SNARC_only CD 4 lctrl 0.501201485971
+trma SNARC_only CD 4 lctrl 0.499137673163
+trma SNARC_only CD 6 lctrl 0.489867116645
+trma SNARC_only CD 7 num_decimal 0.512802093663
+trma SNARC_only CD 8 lctrl 0.414497144609
+trma SNARC_only CD 7 num_decimal 0.759981146104
+trma SNARC_only CD 1 num_decimal 1.69237677011
+trma SNARC_only CD 8 lctrl 0.58678688146
+trma SNARC_only CD 5 num_decimal 0.734276731511
+trma SNARC_only CD 6 lctrl 0.619148496467
+trma SNARC_only CD 3 num_decimal 0.620581156778
+trma SNARC_only CD 8 lctrl 0.422097660454
+trma SNARC_only CD 3 num_decimal 0.559948005943
+trma SNARC_only CD 9 num_decimal 0.691548576402
+trma SNARC_only CD 7 num_decimal 0.474965525545
+trma SNARC_only CD 8 lctrl 0.570735314379
+trma SNARC_only CD 7 num_decimal 0.558503554188
+trma SNARC_only CD 5 num_decimal 0.451067994425
+trma SNARC_only CD 7 num_decimal 0.467872972647
+trma SNARC_only CD 8 lctrl 0.538349495884
+trma SNARC_only CD 7 num_decimal 0.471047042893
+trma SNARC_only CD 1 lctrl 0.454657247579
+trma SNARC_only CD 1 num_decimal 0.471341208362
+trma SNARC_only CD 5 num_decimal 0.615230944717
+trma SNARC_only CD 6 num_decimal 0.408879452976
+trma SNARC_only CD 9 num_decimal 0.522758105377
+trma SNARC_only CD 4 lctrl 0.608508891368
+trma SNARC_only CD 2 lctrl 0.595096745685
+trma SNARC_only CD 3 num_decimal 0.469700646294
+trma SNARC_only CD 7 num_decimal 0.453479034193
+trma SNARC_only CD 3 num_decimal 0.462151640439
+trma SNARC_only CD 2 lctrl 0.653925185155
+trma SNARC_only CD 1 num_decimal 0.414526933517
+trma SNARC_only CD 5 num_decimal 0.704175660227
+trma SNARC_only CD 5 num_decimal 0.454428865949
+trma SNARC_only CD 7 num_decimal 0.479374904582
+trma SNARC_only CD 7 num_decimal 0.415205251784
+trma SNARC_only CD 2 lctrl 0.433100938475
+trma SNARC_only CD 1 num_decimal 0.44195538118
+trma SNARC_only CD 1 num_decimal 0.386817663333
+trma SNARC_only CD 9 lctrl 0.429623704029
+trma SNARC_only CD 1 num_decimal 0.567560623533

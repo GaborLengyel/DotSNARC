@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_17_1115', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'kave', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+kave SNARC line dot CD 0 down 10 num_separator 0.83674287796
+kave SNARC line dot CD 0 up 25 lctrl 0.542855024338
+kave SNARC line dot CD 0 down 25 num_separator 0.517008066177
+kave SNARC line dot CD 0 up 10 lctrl 0.437385082245
+kave SNARC line dot CD 0 up 5 lctrl 0.489612102509
+kave SNARC line dot CD 0 up 15 lctrl 0.410830974579
+kave SNARC line dot CD 0 down 20 num_separator 0.478860139847
+kave SNARC line dot CD 0 up 15 lctrl 1.96139001846
+kave SNARC line dot CD 0 up 45 lctrl 0.513253927231
+kave SNARC line dot CD 0 up 45 lctrl 0.399954795837
+kave SNARC line dot CD 0 down 30 num_separator 0.571370840073
+kave SNARC line dot CD 0 down 25 num_separator 0.648554086685
+kave SNARC line dot CD 0 up 5 lctrl 0.491460084915
+kave SNARC line dot CD 0 down 5 num_separator 0.581321954727
+kave SNARC line dot CD 0 up 45 lctrl 0.496418952942
+kave SNARC line dot CD 0 up 30 lctrl 0.51225399971
+kave SNARC line dot CD 0 down 10 num_separator 0.544829130173
+kave SNARC line dot CD 0 down 15 num_separator 0.48792719841
+kave SNARC line dot CD 0 up 5 lctrl 0.466610908508
+kave SNARC line dot CD 0 down 30 num_separator 0.522822141647
+kave SNARC line dot CD 0 down 20 num_separator 0.498058080673
+kave SNARC line dot CD 0 down 20 num_separator 0.410041093826
+kave SNARC line dot CD 0 up 25 lctrl 0.494496107101
+kave SNARC line dot CD 0 up 30 lctrl 0.430608034134
+kave SNARC line dot CD 0 up 45 lctrl 0.448168992996
+kave SNARC line dot CD 0 down 35 num_separator 0.464891910553
+kave SNARC line dot CD 0 down 10 num_separator 0.459128856659
+kave SNARC line dot CD 0 up 5 lctrl 0.470887184143
+kave SNARC line dot CD 0 up 25 lctrl 0.440060853958
+kave SNARC line dot CD 0 down 20 num_separator 0.498939990997
+kave SNARC line dot CD 0 up 25 lctrl 0.44350194931
+kave SNARC line dot CD 0 up 20 lctrl 0.390348911285
+kave SNARC line dot CD 0 up 45 lctrl 0.401635169983
+kave SNARC line dot CD 0 up 40 lctrl 0.436309099197
+kave SNARC line dot CD 0 down 40 num_separator 0.493443012238
+kave SNARC line dot CD 0 down 15 num_separator 0.42289185524
+kave SNARC line dot CD 0 down 25 num_separator 0.578490972519
+kave SNARC line dot CD 0 up 45 lctrl 0.438627004623
+kave SNARC line dot CD 0 down 10 num_separator 0.449687957764
+kave SNARC line dot CD 0 up 40 lctrl 0.466867923737
+kave SNARC line dot CD 0 down 20 num_separator 0.492160081863
+kave SNARC line dot CD 0 down 10 num_separator 0.429021120071
+kave SNARC line dot CD 0 down 10 num_separator 0.361301183701
+kave SNARC line dot CD 0 down 30 num_separator 0.391052961349
+kave SNARC line dot CD 0 down 5 num_separator 0.453511953354
+kave SNARC line dot CD 0 down 30 num_separator 0.51086306572
+kave SNARC line dot CD 0 down 5 num_separator 0.384456157684
+kave SNARC line dot CD 0 up 40 lctrl 0.428092956543
+kave SNARC line dot CD 0 down 10 num_separator 0.488098859787
+kave SNARC line dot CD 0 up 20 lctrl 0.633171081543
+kave SNARC line dot CD 0 up 40 lctrl 0.385803937912
+kave SNARC line dot CD 0 down 45 num_separator 0.484939098358
+kave SNARC line dot CD 0 up 30 lctrl 0.429265022278
+kave SNARC line dot CD 0 down 40 num_separator 0.463042020798
+kave SNARC line dot CD 0 up 35 lctrl 0.392848968506
+kave SNARC line dot CD 0 down 40 num_separator 0.420042037964
+kave SNARC line dot CD 0 down 45 num_separator 0.502173900604
+kave SNARC line dot CD 0 up 15 num_separator 0.390861988068
+kave SNARC line dot CD 0 up 35 lctrl 0.562643051147
+kave SNARC line dot CD 0 up 5 lctrl 0.378013849258
+kave SNARC line dot CD 0 up 45 lctrl 0.390244960785
+kave SNARC line dot CD 0 down 15 num_separator 0.627757072449
+kave SNARC line dot CD 0 up 45 lctrl 0.54162311554
+kave SNARC line dot CD 0 up 15 lctrl 0.356677055359
+kave SNARC line dot CD 0 up 5 lctrl 0.324712991714
+kave SNARC line dot CD 0 down 10 num_separator 0.596889019012
+kave SNARC line dot CD 0 up 20 lctrl 0.457391023636
+kave SNARC line dot CD 0 up 35 lctrl 0.370994091034
+kave SNARC line dot CD 0 up 30 lctrl 0.360002994537
+kave SNARC line dot CD 0 down 45 num_separator 0.540509939194
+kave SNARC line dot CD 0 down 40 num_separator 0.801528215408
+kave SNARC line dot CD 0 down 45 num_separator 0.515108823776
+kave SNARC line dot CD 0 up 35 lctrl 0.498162031174
+kave SNARC line dot CD 0 up 5 lctrl 0.419543027878
+kave SNARC line dot CD 0 up 40 lctrl 0.413607120514
+kave SNARC line dot CD 0 up 40 lctrl 0.472440004349
+kave SNARC line dot CD 0 down 5 num_separator 0.426869153976
+kave SNARC line dot CD 0 down 45 num_separator 0.421090126038
+kave SNARC line dot CD 0 up 30 lctrl 0.600115060806
+kave SNARC line dot CD 0 down 35 num_separator 0.538889884949
+kave SNARC line dot CD 0 down 40 num_separator 0.439905166626
+kave SNARC line dot CD 0 up 35 lctrl 0.474278926849
+kave SNARC line dot CD 0 up 25 lctrl 0.467545032501
+kave SNARC line dot CD 0 up 35 lctrl 0.420440912247
+kave SNARC line dot CD 0 down 10 num_separator 0.440240859985
+kave SNARC line dot CD 0 down 40 num_separator 0.617614030838
+kave SNARC line dot CD 0 up 25 lctrl 0.524956941605
+kave SNARC line dot CD 0 up 20 lctrl 0.404529094696
+kave SNARC line dot CD 0 down 15 num_separator 0.47296500206
+kave SNARC line dot CD 0 up 45 lctrl 0.424458026886
+kave SNARC line dot CD 0 down 40 num_separator 0.594181060791
+kave SNARC line dot CD 0 up 15 lctrl 0.415624856949
+kave SNARC line dot CD 0 down 45 num_separator 0.457393169403
+kave SNARC line dot CD 0 down 20 num_separator 0.491450071335
+kave SNARC line dot CD 0 down 35 num_separator 0.579548120499
+kave SNARC line dot CD 0 up 20 lctrl 0.481101989746
+kave SNARC line dot CD 0 up 30 lctrl 0.424821138382
+kave SNARC line dot CD 0 down 10 num_separator 0.469101905823
+kave SNARC line dot CD 0 down 30 num_separator 0.413557052612
+kave SNARC line dot CD 0 up 15 lctrl 0.483167886734
+kave SNARC line dot CD 0 down 35 num_separator 0.498467922211
+kave SNARC line dot CD 0 down 15 num_separator 0.466911077499
+kave SNARC line dot CD 0 up 5 lctrl 0.438178062439
+kave SNARC line dot CD 0 up 30 lctrl 0.504384994507
+kave SNARC line dot CD 0 down 5 num_separator 0.489506959915
+kave SNARC line dot CD 0 down 10 num_separator 0.450762033463
+kave SNARC line dot CD 0 down 20 lctrl 0.405382156372
+kave SNARC line dot CD 0 up 15 lctrl 0.850202083588
+kave SNARC line dot CD 0 up 25 lctrl 0.46710395813
+kave SNARC line dot CD 0 up 15 lctrl 0.41329908371
+kave SNARC line dot CD 0 up 45 lctrl 0.368060827255
+kave SNARC line dot CD 0 down 35 num_separator 0.540675878525
+kave SNARC line dot CD 0 down 15 num_separator 0.548027992249
+kave SNARC line dot CD 0 up 35 lctrl 0.496603965759
+kave SNARC line dot CD 0 down 30 num_separator 0.62456703186
+kave SNARC line dot CD 0 down 30 num_separator 0.586384057999
+kave SNARC line dot CD 0 down 25 num_separator 0.415004968643
+kave SNARC line dot CD 0 down 15 num_separator 0.411463022232
+kave SNARC line dot CD 0 down 35 num_separator 0.454915046692
+kave SNARC line dot CD 0 down 45 num_separator 0.407300949097
+kave SNARC line dot CD 0 down 35 num_separator 0.411020994186
+kave SNARC line dot CD 0 up 10 lctrl 0.600262880325
+kave SNARC line dot CD 0 up 5 lctrl 0.517470121384
+kave SNARC line dot CD 0 up 40 lctrl 0.411211967468
+kave SNARC line dot CD 0 up 20 lctrl 0.375853061676
+kave SNARC line dot CD 0 down 30 num_separator 0.508007049561
+kave SNARC line dot CD 0 up 40 lctrl 0.539225101471
+kave SNARC line dot CD 0 up 20 lctrl 0.473782062531
+kave SNARC line dot CD 0 down 40 num_separator 0.529145956039
+kave SNARC line dot CD 0 up 25 lctrl 0.512641191483
+kave SNARC line dot CD 0 up 15 lctrl 0.449600934982
+kave SNARC line dot CD 0 down 30 num_separator 0.546303987503
+kave SNARC line dot CD 0 down 25 num_separator 0.47295498848
+kave SNARC line dot CD 0 up 15 lctrl 0.619297981262
+kave SNARC line dot CD 0 up 20 lctrl 0.502323865891
+kave SNARC line dot CD 0 down 30 num_separator 0.429805994034
+kave SNARC line dot CD 0 down 35 num_separator 0.512015104294
+kave SNARC line dot CD 0 down 40 num_separator 0.438555002213
+kave SNARC line dot CD 0 down 30 num_separator 0.440733909607
+kave SNARC line dot CD 0 down 45 num_separator 0.418536901474
+kave SNARC line dot CD 0 down 40 num_separator 0.427892923355
+kave SNARC line dot CD 0 down 15 num_separator 0.488498926163
+kave SNARC line dot CD 0 up 5 lctrl 0.482988119125
+kave SNARC line dot CD 0 down 15 num_separator 0.619939088821
+kave SNARC line dot CD 0 up 10 lctrl 0.528079986572
+kave SNARC line dot CD 0 up 35 lctrl 0.558371067047
+kave SNARC line dot CD 0 up 10 lctrl 0.501039028168
+kave SNARC line dot CD 0 down 35 num_separator 0.532700061798
+kave SNARC line dot CD 0 up 15 lctrl 0.51570892334
+kave SNARC line dot CD 0 up 15 lctrl 0.467485904694
+kave SNARC line dot CD 0 up 20 lctrl 0.381027936935
+kave SNARC line dot CD 0 up 25 lctrl 0.393952131271
+kave SNARC line dot CD 0 up 10 lctrl 0.351608991623
+kave SNARC line dot CD 0 down 30 num_separator 0.388849973679
+kave SNARC line dot CD 0 down 5 num_separator 0.443621873856
+kave SNARC line dot CD 0 up 10 lctrl 0.50318813324
+kave SNARC line dot CD 0 down 40 num_separator 0.485080957413
+kave SNARC line dot CD 0 down 10 num_separator 0.518731117249
+kave SNARC line dot CD 0 down 30 num_separator 0.397322893143
+kave SNARC line dot CD 0 down 35 num_separator 0.425006866455
+kave SNARC line dot CD 0 down 10 num_separator 0.357195138931
+kave SNARC line dot CD 0 up 30 lctrl 0.515206098557
+kave SNARC line dot CD 0 up 20 lctrl 0.418395996094
+kave SNARC line dot CD 0 up 25 lctrl 0.334197998047
+kave SNARC line dot CD 0 up 45 lctrl 0.347725152969
+kave SNARC line dot CD 0 up 35 lctrl 0.345396995544
+kave SNARC line dot CD 0 up 40 lctrl 0.447266101837
+kave SNARC line dot CD 0 up 40 lctrl 0.375621795654
+kave SNARC line dot CD 0 down 30 num_separator 0.420259952545
+kave SNARC line dot CD 0 up 35 lctrl 0.45557808876
+kave SNARC line dot CD 0 up 5 lctrl 0.411508083344
+kave SNARC line dot CD 0 down 10 num_separator 0.455724954605
+kave SNARC line dot CD 0 down 20 num_separator 0.48996090889
+kave SNARC line dot CD 0 up 25 lctrl 0.531192064285
+kave SNARC line dot CD 0 up 20 lctrl 0.457417964935
+kave SNARC line dot CD 0 up 5 lctrl 0.389075040817
+kave SNARC line dot CD 0 up 35 lctrl 0.353480815887
+kave SNARC line dot CD 0 up 30 lctrl 0.374831914902
+kave SNARC line dot CD 0 down 5 num_separator 0.509782075882
+kave SNARC line dot CD 0 up 20 lctrl 0.670195102692
+kave SNARC line dot CD 0 up 10 lctrl 0.527474880219
+kave SNARC line dot CD 0 down 5 num_separator 0.575942993164
+kave SNARC line dot CD 0 down 10 num_separator 0.933690071106
+kave SNARC line dot CD 0 down 10 num_separator 0.387670993805
+kave SNARC line dot CD 0 up 25 lctrl 0.504982948303
+kave SNARC line dot CD 0 up 15 lctrl 0.489773035049
+kave SNARC line dot CD 0 up 25 lctrl 0.418387889862
+kave SNARC line dot CD 0 up 5 lctrl 0.447361946106
+kave SNARC line dot CD 0 down 40 num_separator 0.487758874893
+kave SNARC line dot CD 0 down 5 num_separator 0.690196990967
+kave SNARC line dot CD 0 up 25 lctrl 0.458259105682
+kave SNARC line dot CD 0 up 45 lctrl 0.474992036819
+kave SNARC line dot CD 0 down 20 num_separator 0.48407292366
+kave SNARC line dot CD 0 down 15 num_separator 0.47779417038
+kave SNARC line dot CD 0 down 45 num_separator 0.621247053146
+kave SNARC line dot CD 0 down 5 num_separator 0.609663009644
+kave SNARC line dot CD 0 up 45 lctrl 0.52419090271
+kave SNARC line dot CD 0 up 20 lctrl 0.547551870346
+kave SNARC line dot CD 0 up 20 lctrl 0.401188135147
+kave SNARC line dot CD 0 down 20 num_separator 0.589167118073
+kave SNARC line dot CD 0 down 15 num_separator 0.618273019791
+kave SNARC line dot CD 0 down 35 num_separator 0.532372951508
+kave SNARC line dot CD 0 down 45 num_separator 0.417460203171
+kave SNARC line dot CD 0 up 20 lctrl 0.477475166321
+kave SNARC line dot CD 0 down 40 num_separator 0.501128911972
+kave SNARC line dot CD 0 up 35 lctrl 0.500617027283
+kave SNARC line dot CD 0 down 25 num_separator 0.492126941681
+kave SNARC line dot CD 0 up 15 lctrl 0.694494009018
+kave SNARC line dot CD 0 up 10 lctrl 0.422909021378
+kave SNARC line dot CD 0 down 30 num_separator 0.417350053787
+kave SNARC line dot CD 0 down 20 num_separator 0.412806034088
+kave SNARC line dot CD 0 up 35 lctrl 0.479894161224
+kave SNARC line dot CD 0 up 45 lctrl 0.423828125
+kave SNARC line dot CD 0 up 40 lctrl 0.385965824127
+kave SNARC line dot CD 0 up 20 lctrl 0.318935155869
+kave SNARC line dot CD 0 down 30 num_separator 0.453771114349
+kave SNARC line dot CD 0 down 25 num_separator 0.616101980209
+kave SNARC line dot CD 0 down 5 num_separator 0.420485019684
+kave SNARC line dot CD 0 up 45 lctrl 0.486573219299
+kave SNARC line dot CD 0 up 25 lctrl 0.495453119278
+kave SNARC line dot CD 0 down 35 num_separator 0.503054857254
+kave SNARC line dot CD 0 down 10 num_separator 0.463847875595
+kave SNARC line dot CD 0 up 35 lctrl 0.473885059357
+kave SNARC line dot CD 0 down 5 num_separator 0.484019994736
+kave SNARC line dot CD 0 down 30 num_separator 0.395939826965
+kave SNARC line dot CD 0 down 5 num_separator 0.394427061081
+kave SNARC line dot CD 0 down 45 num_separator 0.461865901947
+kave SNARC line dot CD 0 up 10 lctrl 0.465147972107
+kave SNARC line dot CD 0 down 10 num_separator 0.466991186142
+kave SNARC line dot CD 0 up 20 lctrl 0.46059513092
+kave SNARC line dot CD 0 down 25 num_separator 0.454265832901
+kave SNARC line dot CD 0 down 35 num_separator 0.463649988174
+kave SNARC line dot CD 0 up 30 lctrl 0.465972900391
+kave SNARC line dot CD 0 up 40 lctrl 0.49755692482
+kave SNARC line dot CD 0 down 25 num_separator 0.457024097443
+kave SNARC line dot CD 0 up 5 lctrl 0.485482931137
+kave SNARC line dot CD 0 up 30 lctrl 0.405052185059
+kave SNARC line dot CD 0 down 15 num_separator 0.44168305397
+kave SNARC line dot CD 0 up 10 lctrl 0.422008991241
+kave SNARC line dot CD 0 up 10 lctrl 0.353723049164
+kave SNARC line dot CD 0 up 15 lctrl 0.361021995544
+kave SNARC line dot CD 0 up 45 lctrl 0.381127119064
+kave SNARC line dot CD 0 down 5 num_separator 0.459039926529
+kave SNARC line dot CD 0 up 35 lctrl 0.452898979187
+kave SNARC line dot CD 0 up 5 lctrl 0.425013065338
+kave SNARC line dot CD 0 down 20 num_separator 0.483576059341
+kave SNARC line dot CD 0 down 5 num_separator 0.38995718956
+kave SNARC line dot CD 0 down 35 num_separator 0.426152944565
+kave SNARC line dot CD 0 up 35 lctrl 0.581354141235
+kave SNARC line dot CD 0 down 40 num_separator 0.647901058197
+kave SNARC line dot CD 0 up 30 lctrl 0.480952978134
+kave SNARC line dot CD 0 up 25 lctrl 0.401806116104
+kave SNARC line dot CD 0 up 25 lctrl 0.381963968277
+kave SNARC line dot CD 0 up 45 lctrl 0.353316068649
+kave SNARC line dot CD 0 down 25 num_separator 0.463145971298
+kave SNARC line dot CD 0 down 25 num_separator 0.393862009048
+kave SNARC line dot CD 0 down 45 num_separator 0.437160968781
+kave SNARC line dot CD 0 down 40 num_separator 0.398602962494
+kave SNARC line dot CD 0 up 15 num_separator 0.339689016342
+kave SNARC line dot CD 0 up 5 lctrl 0.732645988464
+kave SNARC line dot CD 0 down 15 num_separator 0.450915813446
+kave SNARC line dot CD 0 up 30 lctrl 0.412464857101
+kave SNARC line dot CD 0 down 20 num_separator 0.448417186737
+kave SNARC line dot CD 0 up 10 lctrl 0.547801017761
+kave SNARC line dot CD 0 down 45 num_separator 0.472028017044
+kave SNARC line dot CD 0 down 10 num_separator 0.620457172394
+kave SNARC line dot CD 0 up 25 lctrl 0.4395840168
+kave SNARC line dot CD 0 down 40 num_separator 0.46942782402
+kave SNARC line dot CD 0 up 20 lctrl 0.44701218605
+kave SNARC line dot CD 0 down 10 num_separator 0.433630943298
+kave SNARC line dot CD 0 up 15 lctrl 0.469460010529
+kave SNARC line dot CD 0 up 35 lctrl 0.437565088272
+kave SNARC line dot CD 0 up 10 lctrl 0.369110107422
+kave SNARC line dot CD 0 down 35 num_separator 0.509734153748
+kave SNARC line dot CD 0 down 10 num_separator 0.526498794556
+kave SNARC line dot CD 0 up 25 lctrl 0.445966005325
+kave SNARC line dot CD 0 down 10 num_separator 0.473205089569
+kave SNARC line dot CD 0 down 35 num_separator 0.465776205063
+kave SNARC line dot CD 0 up 25 lctrl 0.459436893463
+kave SNARC line dot CD 0 down 40 num_separator 0.555890083313
+kave SNARC line dot CD 0 up 30 lctrl 0.456710100174
+kave SNARC line dot CD 0 down 15 num_separator 0.499101161957
+kave SNARC line dot CD 0 up 5 lctrl 0.589193105698
+kave SNARC line dot CD 0 up 45 lctrl 0.399113893509
+kave SNARC line dot CD 0 down 40 num_separator 0.513366222382
+kave SNARC line dot CD 0 up 40 lctrl 0.800364971161
+kave SNARC line dot CD 0 down 45 num_separator 0.473626852036
+kave SNARC line dot CD 0 down 5 num_separator 0.444410800934
+kave SNARC line dot CD 0 up 15 lctrl 0.400710821152
+kave SNARC line dot CD 0 up 15 lctrl 0.437409877777
+kave SNARC line dot CD 0 down 45 num_separator 0.445563077927
+kave SNARC line dot CD 0 down 40 num_separator 0.487458944321
+kave SNARC line dot CD 0 up 5 lctrl 0.513705015182
+kave SNARC line dot CD 0 up 20 lctrl 0.401442050934
+kave SNARC line dot CD 0 down 25 num_separator 0.493479967117
+kave SNARC line dot CD 0 down 45 num_separator 0.508980035782
+kave SNARC line dot CD 0 up 20 lctrl 0.468987941742
+kave SNARC line dot CD 0 up 20 lctrl 0.390278100967
+kave SNARC line dot CD 0 up 20 lctrl 0.395402908325
+kave SNARC line dot CD 0 up 45 lctrl 0.40679192543
+kave SNARC line dot CD 0 up 30 lctrl 0.402525901794
+kave SNARC line dot CD 0 up 40 lctrl 0.373097896576
+kave SNARC line dot CD 0 down 40 num_separator 0.497142076492
+kave SNARC line dot CD 0 down 35 num_separator 0.393456935883
+kave SNARC line dot CD 0 down 30 num_separator 0.437171936035
+kave SNARC line dot CD 0 down 5 num_separator 0.417943000793
+kave SNARC line dot CD 0 down 40 num_separator 0.436002016068
+kave SNARC line dot CD 0 up 25 lctrl 0.40693116188
+kave SNARC line dot CD 0 down 15 num_separator 0.379595994949
+kave SNARC line dot CD 0 down 25 num_separator 0.345413923264
+kave SNARC line dot CD 0 down 25 num_separator 0.360534906387
+kave SNARC line dot CD 0 up 5 lctrl 0.408794164658
+kave SNARC line dot CD 0 down 5 num_separator 0.406606912613
+kave SNARC line dot CD 0 down 35 num_separator 0.48082780838
+kave SNARC line dot CD 0 down 30 num_separator 0.360739946365
+kave SNARC line dot CD 0 down 20 num_separator 0.383367061615
+kave SNARC line dot CD 0 down 5 num_separator 0.357751846313
+kave SNARC line dot CD 0 up 35 lctrl 0.363981962204
+kave SNARC line dot CD 0 up 45 lctrl 0.335230112076
+kave SNARC line dot CD 0 down 25 num_separator 0.437955856323
+kave SNARC line dot CD 0 up 20 lctrl 0.393254041672
+kave SNARC line dot CD 0 up 30 lctrl 0.373501062393
+kave SNARC line dot CD 0 up 40 lctrl 0.345698833466
+kave SNARC line dot CD 0 down 40 num_separator 0.383059978485
+kave SNARC line dot CD 0 up 30 lctrl 0.347739934921
+kave SNARC line dot CD 0 up 45 lctrl 0.384657859802
+kave SNARC line dot CD 0 up 35 lctrl 0.349285125732
+kave SNARC line dot CD 0 down 20 num_separator 0.379200935364
+kave SNARC line dot CD 0 up 10 lctrl 0.353936910629
+kave SNARC line dot CD 0 up 35 lctrl 0.311827898026
+kave SNARC line dot CD 0 up 45 lctrl 0.326168060303
+kave SNARC line dot CD 0 down 40 num_separator 0.443969964981
+kave SNARC line dot CD 0 down 25 num_separator 0.446805953979
+kave SNARC line dot CD 0 up 10 lctrl 0.547163963318
+kave SNARC line dot CD 0 down 35 num_separator 0.424332141876
+kave SNARC line dot CD 0 down 15 num_separator 0.388967990875
+kave SNARC line dot CD 0 up 35 lctrl 0.473167181015
+kave SNARC line dot CD 0 down 15 num_separator 0.483073949814
+kave SNARC line dot CD 0 up 15 lctrl 0.556846141815
+kave SNARC line dot CD 0 up 10 lctrl 0.379125833511
+kave SNARC line dot CD 0 up 15 lctrl 0.433754920959
+kave SNARC line dot CD 0 up 25 lctrl 0.356393814087
+kave SNARC line dot CD 0 up 40 lctrl 0.353468894958
+kave SNARC line dot CD 0 up 30 lctrl 0.38304400444
+kave SNARC line dot CD 0 up 30 lctrl 0.355393886566
+kave SNARC line dot CD 0 down 45 num_separator 0.447432994843
+kave SNARC line dot CD 0 up 20 lctrl 0.481948137283
+kave SNARC line dot CD 0 down 25 num_separator 0.474243879318
+kave SNARC line dot CD 0 down 25 num_separator 0.659440040588
+kave SNARC line dot CD 0 down 15 num_separator 0.405710935593
+kave SNARC line dot CD 0 up 15 lctrl 0.499051809311
+kave SNARC line dot CD 0 down 45 num_separator 0.464293003082
+kave SNARC line dot CD 0 down 5 num_separator 0.427544116974
+kave SNARC line dot CD 0 up 30 lctrl 0.438567876816
+kave SNARC line dot CD 0 up 10 lctrl 0.370078086853
+kave SNARC line dot CD 0 up 20 lctrl 0.335844993591
+kave SNARC line dot CD 0 down 30 num_separator 0.493846178055
+kave SNARC line dot CD 0 up 5 lctrl 0.44856595993
+kave SNARC line dot CD 0 up 40 lctrl 0.448899030685
+kave SNARC line dot CD 0 up 10 lctrl 0.387976884842
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_17_1123', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'kave', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+kave SNARC line arabic CD 0 up 4 lctrl 0.957684993744
+kave SNARC line arabic CD 0 up 4 lctrl 0.468091011047
+kave SNARC line arabic CD 0 down 4 num_separator 0.437970876694
+kave SNARC line arabic CD 0 up 4 lctrl 0.442681074142
+kave SNARC line arabic CD 0 down 8 num_separator 0.414874076843
+kave SNARC line arabic CD 0 down 1 num_separator 0.395730018616
+kave SNARC line arabic CD 0 up 7 lctrl 0.474710941315
+kave SNARC line arabic CD 0 up 1 lctrl 0.333266019821
+kave SNARC line arabic CD 0 down 8 num_separator 0.413383960724
+kave SNARC line arabic CD 0 up 2 lctrl 0.587481975555
+kave SNARC line arabic CD 0 up 9 lctrl 0.313422203064
+kave SNARC line arabic CD 0 down 2 num_separator 0.411365032196
+kave SNARC line arabic CD 0 down 1 num_separator 0.416733026505
+kave SNARC line arabic CD 0 up 8 lctrl 0.373920917511
+kave SNARC line arabic CD 0 up 8 lctrl 0.365200996399
+kave SNARC line arabic CD 0 down 4 num_separator 0.500098228455
+kave SNARC line arabic CD 0 up 9 lctrl 0.437673091888
+kave SNARC line arabic CD 0 up 1 lctrl 0.33006811142
+kave SNARC line arabic CD 0 up 1 lctrl 0.299685001373
+kave SNARC line arabic CD 0 down 9 num_separator 0.420998096466
+kave SNARC line arabic CD 0 up 8 lctrl 0.442363977432
+kave SNARC line arabic CD 0 down 2 num_separator 0.422502994537
+kave SNARC line arabic CD 0 up 5 lctrl 0.347675800323
+kave SNARC line arabic CD 0 up 5 lctrl 0.395519971848
+kave SNARC line arabic CD 0 up 6 lctrl 0.305958032608
+kave SNARC line arabic CD 0 up 5 lctrl 0.291814088821
+kave SNARC line arabic CD 0 up 2 lctrl 0.318512916565
+kave SNARC line arabic CD 0 down 5 num_separator 0.447647809982
+kave SNARC line arabic CD 0 up 7 lctrl 0.403424978256
+kave SNARC line arabic CD 0 down 7 num_separator 0.440682888031
+kave SNARC line arabic CD 0 up 3 lctrl 0.469488143921
+kave SNARC line arabic CD 0 up 2 lctrl 0.560338973999
+kave SNARC line arabic CD 0 up 4 lctrl 0.31173491478
+kave SNARC line arabic CD 0 down 3 num_separator 0.401225090027
+kave SNARC line arabic CD 0 down 6 num_separator 0.406926870346
+kave SNARC line arabic CD 0 down 2 num_separator 0.35666012764
+kave SNARC line arabic CD 0 up 8 lctrl 0.373126029968
+kave SNARC line arabic CD 0 up 7 lctrl 0.331978082657
+kave SNARC line arabic CD 0 down 3 num_separator 0.404201984406
+kave SNARC line arabic CD 0 down 5 num_separator 0.329988002777
+kave SNARC line arabic CD 0 down 1 num_separator 0.387540102005
+kave SNARC line arabic CD 0 down 4 num_separator 0.345541000366
+kave SNARC line arabic CD 0 down 3 num_separator 0.330208063126
+kave SNARC line arabic CD 0 down 9 num_separator 0.307414054871
+kave SNARC line arabic CD 0 up 3 lctrl 0.422117948532
+kave SNARC line arabic CD 0 up 5 lctrl 0.322912931442
+kave SNARC line arabic CD 0 down 2 num_separator 0.419820070267
+kave SNARC line arabic CD 0 up 9 lctrl 0.4091360569
+kave SNARC line arabic CD 0 up 4 lctrl 0.295033931732
+kave SNARC line arabic CD 0 up 1 lctrl 0.273489952087
+kave SNARC line arabic CD 0 up 1 lctrl 0.309211969376
+kave SNARC line arabic CD 0 down 4 num_separator 0.398962974548
+kave SNARC line arabic CD 0 down 3 num_separator 0.428555965424
+kave SNARC line arabic CD 0 down 4 num_separator 0.353387832642
+kave SNARC line arabic CD 0 down 5 num_separator 0.30557012558
+kave SNARC line arabic CD 0 up 3 num_separator 0.363260984421
+kave SNARC line arabic CD 0 down 5 num_separator 0.690427064896
+kave SNARC line arabic CD 0 up 2 lctrl 0.388088941574
+kave SNARC line arabic CD 0 up 4 lctrl 0.38684296608
+kave SNARC line arabic CD 0 up 8 lctrl 0.369236946106
+kave SNARC line arabic CD 0 up 5 lctrl 0.296221971512
+kave SNARC line arabic CD 0 down 4 num_separator 0.41864490509
+kave SNARC line arabic CD 0 up 8 lctrl 0.424061059952
+kave SNARC line arabic CD 0 down 8 num_separator 0.436913013458
+kave SNARC line arabic CD 0 down 2 num_separator 0.433280944824
+kave SNARC line arabic CD 0 down 5 num_separator 0.356986045837
+kave SNARC line arabic CD 0 up 4 lctrl 0.445471048355
+kave SNARC line arabic CD 0 up 8 lctrl 0.353999853134
+kave SNARC line arabic CD 0 down 5 num_separator 0.417124032974
+kave SNARC line arabic CD 0 up 9 lctrl 0.398536920547
+kave SNARC line arabic CD 0 down 1 num_separator 0.444341182709
+kave SNARC line arabic CD 0 up 9 lctrl 0.40038394928
+kave SNARC line arabic CD 0 down 1 num_separator 0.445836782455
+kave SNARC line arabic CD 0 down 3 num_separator 0.489964008331
+kave SNARC line arabic CD 0 down 7 num_separator 0.388231039047
+kave SNARC line arabic CD 0 down 1 num_separator 0.378691911697
+kave SNARC line arabic CD 0 up 8 lctrl 0.490009069443
+kave SNARC line arabic CD 0 up 3 lctrl 0.508168935776
+kave SNARC line arabic CD 0 up 9 lctrl 0.445612192154
+kave SNARC line arabic CD 0 down 6 num_separator 0.465902090073
+kave SNARC line arabic CD 0 down 6 num_separator 0.692336082458
+kave SNARC line arabic CD 0 up 4 lctrl 0.534305095673
+kave SNARC line arabic CD 0 down 7 num_separator 0.573761940002
+kave SNARC line arabic CD 0 up 6 lctrl 0.428635835648
+kave SNARC line arabic CD 0 down 6 num_separator 0.433293104172
+kave SNARC line arabic CD 0 up 6 num_separator 0.557676076889
+kave SNARC line arabic CD 0 down 5 num_separator 0.796882152557
+kave SNARC line arabic CD 0 down 9 num_separator 0.497994184494
+kave SNARC line arabic CD 0 up 4 lctrl 0.411736011505
+kave SNARC line arabic CD 0 down 8 num_separator 0.489098072052
+kave SNARC line arabic CD 0 down 4 num_separator 0.419264793396
+kave SNARC line arabic CD 0 up 4 lctrl 0.440985918045
+kave SNARC line arabic CD 0 down 6 num_separator 0.444499015808
+kave SNARC line arabic CD 0 down 7 num_separator 0.696805000305
+kave SNARC line arabic CD 0 up 3 lctrl 0.770539045334
+kave SNARC line arabic CD 0 up 6 lctrl 0.344388008118
+kave SNARC line arabic CD 0 down 1 num_separator 0.496608018875
+kave SNARC line arabic CD 0 down 9 num_separator 0.370823144913
+kave SNARC line arabic CD 0 down 5 num_separator 0.362097978592
+kave SNARC line arabic CD 0 down 8 num_separator 0.361713171005
+kave SNARC line arabic CD 0 up 1 lctrl 0.457767009735
+kave SNARC line arabic CD 0 up 1 lctrl 0.357972860336
+kave SNARC line arabic CD 0 down 2 num_separator 0.413208961487
+kave SNARC line arabic CD 0 down 9 num_separator 0.626812934875
+kave SNARC line arabic CD 0 up 8 lctrl 0.383561134338
+kave SNARC line arabic CD 0 up 3 lctrl 0.478208065033
+kave SNARC line arabic CD 0 up 1 lctrl 0.320739984512
+kave SNARC line arabic CD 0 down 7 num_separator 0.425661087036
+kave SNARC line arabic CD 0 down 8 num_separator 0.39103102684
+kave SNARC line arabic CD 0 up 3 lctrl 0.47750711441
+kave SNARC line arabic CD 0 up 7 lctrl 0.352258205414
+kave SNARC line arabic CD 0 up 4 lctrl 0.320294857025
+kave SNARC line arabic CD 0 up 7 lctrl 0.33754491806
+kave SNARC line arabic CD 0 up 4 lctrl 0.290464878082
+kave SNARC line arabic CD 0 down 2 num_separator 0.412639141083
+kave SNARC line arabic CD 0 down 8 num_separator 0.35426402092
+kave SNARC line arabic CD 0 down 7 num_separator 0.401943206787
+kave SNARC line arabic CD 0 down 2 num_separator 0.34361410141
+kave SNARC line arabic CD 0 up 2 lctrl 0.456732988358
+kave SNARC line arabic CD 0 up 9 lctrl 0.324182033539
+kave SNARC line arabic CD 0 up 9 lctrl 0.341395139694
+kave SNARC line arabic CD 0 up 7 lctrl 0.334396839142
+kave SNARC line arabic CD 0 down 2 num_separator 0.398181915283
+kave SNARC line arabic CD 0 up 7 lctrl 0.452306032181
+kave SNARC line arabic CD 0 down 5 num_separator 0.391540050507
+kave SNARC line arabic CD 0 down 1 num_separator 0.493911027908
+kave SNARC line arabic CD 0 up 6 lctrl 0.448740005493
+kave SNARC line arabic CD 0 up 1 lctrl 0.452030897141
+kave SNARC line arabic CD 0 down 4 num_separator 0.49528002739
+kave SNARC line arabic CD 0 down 7 num_separator 0.41739487648
+kave SNARC line arabic CD 0 up 8 lctrl 0.406667232513
+kave SNARC line arabic CD 0 down 7 num_separator 0.436036109924
+kave SNARC line arabic CD 0 down 5 num_separator 0.408234834671
+kave SNARC line arabic CD 0 up 9 lctrl 0.430302143097
+kave SNARC line arabic CD 0 up 6 lctrl 0.379338979721
+kave SNARC line arabic CD 0 down 5 num_separator 0.490052938461
+kave SNARC line arabic CD 0 down 6 num_separator 0.396296024323
+kave SNARC line arabic CD 0 down 6 num_separator 0.362658977509
+kave SNARC line arabic CD 0 up 9 lctrl 0.563012123108
+kave SNARC line arabic CD 0 down 5 num_separator 0.577850103378
+kave SNARC line arabic CD 0 down 9 num_separator 0.424304962158
+kave SNARC line arabic CD 0 down 4 num_separator 0.381268978119
+kave SNARC line arabic CD 0 up 8 lctrl 0.460253953934
+kave SNARC line arabic CD 0 down 9 num_separator 0.455237150192
+kave SNARC line arabic CD 0 up 1 lctrl 0.451107025146
+kave SNARC line arabic CD 0 up 8 lctrl 0.422889947891
+kave SNARC line arabic CD 0 down 2 num_separator 0.435449838638
+kave SNARC line arabic CD 0 down 2 num_separator 0.423712015152
+kave SNARC line arabic CD 0 down 2 num_separator 0.404700040817
+kave SNARC line arabic CD 0 down 4 num_separator 0.44234919548
+kave SNARC line arabic CD 0 down 9 num_separator 0.422821998596
+kave SNARC line arabic CD 0 up 7 lctrl 0.428030967712
+kave SNARC line arabic CD 0 up 5 lctrl 0.360903978348
+kave SNARC line arabic CD 0 down 4 num_separator 0.45653796196
+kave SNARC line arabic CD 0 up 8 lctrl 0.372314929962
+kave SNARC line arabic CD 0 up 1 lctrl 0.331479072571
+kave SNARC line arabic CD 0 up 3 lctrl 0.307919979095
+kave SNARC line arabic CD 0 down 3 num_separator 0.485709905624
+kave SNARC line arabic CD 0 down 7 num_separator 0.535866975784
+kave SNARC line arabic CD 0 down 6 num_separator 0.41592502594
+kave SNARC line arabic CD 0 down 7 num_separator 0.292841911316
+kave SNARC line arabic CD 0 down 8 num_separator 0.319607019424
+kave SNARC line arabic CD 0 down 5 num_separator 0.320847988129
+kave SNARC line arabic CD 0 up 7 lctrl 0.442562103271
+kave SNARC line arabic CD 0 down 2 num_separator 0.414413928986
+kave SNARC line arabic CD 0 up 9 lctrl 0.371658086777
+kave SNARC line arabic CD 0 down 7 num_separator 0.482591152191
+kave SNARC line arabic CD 0 down 9 num_separator 0.436676025391
+kave SNARC line arabic CD 0 down 3 num_separator 0.368768930435
+kave SNARC line arabic CD 0 up 3 lctrl 0.360674858093
+kave SNARC line arabic CD 0 up 7 lctrl 0.376255989075
+kave SNARC line arabic CD 0 down 2 num_separator 0.423075199127
+kave SNARC line arabic CD 0 up 4 lctrl 0.380398988724
+kave SNARC line arabic CD 0 up 6 lctrl 0.338641166687
+kave SNARC line arabic CD 0 down 6 num_separator 0.402915000916
+kave SNARC line arabic CD 0 down 7 num_separator 0.360762119293
+kave SNARC line arabic CD 0 down 4 num_separator 0.408658981323
+kave SNARC line arabic CD 0 up 8 lctrl 0.43080496788
+kave SNARC line arabic CD 0 up 7 lctrl 0.394991874695
+kave SNARC line arabic CD 0 up 4 lctrl 0.369831085205
+kave SNARC line arabic CD 0 up 6 lctrl 0.296622991562
+kave SNARC line arabic CD 0 up 6 lctrl 0.283145904541
+kave SNARC line arabic CD 0 down 2 num_separator 0.445715904236
+kave SNARC line arabic CD 0 up 6 lctrl 0.418334007263
+kave SNARC line arabic CD 0 up 8 lctrl 0.319229125977
+kave SNARC line arabic CD 0 down 6 num_separator 0.424058914185
+kave SNARC line arabic CD 0 up 3 lctrl 0.421587944031
+kave SNARC line arabic CD 0 up 5 lctrl 0.338397979736
+kave SNARC line arabic CD 0 down 6 num_separator 0.458789110184
+kave SNARC line arabic CD 0 down 5 num_separator 0.406372070312
+kave SNARC line arabic CD 0 down 3 num_separator 0.404095172882
+kave SNARC line arabic CD 0 down 1 num_separator 0.35352897644
+kave SNARC line arabic CD 0 up 9 lctrl 0.362477064133
+kave SNARC line arabic CD 0 down 6 num_separator 0.441389083862
+kave SNARC line arabic CD 0 up 9 lctrl 0.406036138535
+kave SNARC line arabic CD 0 up 3 lctrl 0.411818027496
+kave SNARC line arabic CD 0 down 9 num_separator 0.401230096817
+kave SNARC line arabic CD 0 up 5 lctrl 0.375056028366
+kave SNARC line arabic CD 0 down 6 num_separator 0.381973981857
+kave SNARC line arabic CD 0 up 7 lctrl 0.452665090561
+kave SNARC line arabic CD 0 up 8 lctrl 0.28032207489
+kave SNARC line arabic CD 0 up 3 lctrl 0.323015928268
+kave SNARC line arabic CD 0 down 9 num_separator 0.427986860275
+kave SNARC line arabic CD 0 up 7 lctrl 0.385266065598
+kave SNARC line arabic CD 0 down 2 lctrl 0.311761140823
+kave SNARC line arabic CD 0 up 1 lctrl 0.569699048996
+kave SNARC line arabic CD 0 up 5 lctrl 0.368204832077
+kave SNARC line arabic CD 0 down 3 num_separator 0.382990121841
+kave SNARC line arabic CD 0 down 2 num_separator 0.406079053879
+kave SNARC line arabic CD 0 up 2 lctrl 0.379979848862
+kave SNARC line arabic CD 0 up 3 lctrl 0.410714864731
+kave SNARC line arabic CD 0 up 2 lctrl 0.384317159653
+kave SNARC line arabic CD 0 up 3 lctrl 0.350756168365
+kave SNARC line arabic CD 0 down 9 num_separator 0.518378019333
+kave SNARC line arabic CD 0 up 4 num_separator 0.431066036224
+kave SNARC line arabic CD 0 down 6 num_separator 0.635162830353
+kave SNARC line arabic CD 0 up 5 lctrl 0.431595087051
+kave SNARC line arabic CD 0 up 2 lctrl 0.331674098969
+kave SNARC line arabic CD 0 down 7 num_separator 0.459779977798
+kave SNARC line arabic CD 0 up 7 lctrl 0.431758165359
+kave SNARC line arabic CD 0 down 5 num_separator 0.459552049637
+kave SNARC line arabic CD 0 down 6 num_separator 0.455132007599
+kave SNARC line arabic CD 0 up 1 lctrl 0.387145042419
+kave SNARC line arabic CD 0 up 6 lctrl 0.321563005447
+kave SNARC line arabic CD 0 down 6 num_separator 0.466700077057
+kave SNARC line arabic CD 0 down 8 num_separator 0.49325299263
+kave SNARC line arabic CD 0 up 1 lctrl 0.375759124756
+kave SNARC line arabic CD 0 down 6 num_separator 0.414558887482
+kave SNARC line arabic CD 0 down 1 num_separator 0.403182983398
+kave SNARC line arabic CD 0 down 2 num_separator 0.337277173996
+kave SNARC line arabic CD 0 down 4 num_separator 0.41780090332
+kave SNARC line arabic CD 0 down 1 num_separator 0.43078994751
+kave SNARC line arabic CD 0 up 5 lctrl 0.443295955658
+kave SNARC line arabic CD 0 down 5 num_separator 0.447420120239
+kave SNARC line arabic CD 0 up 7 lctrl 0.395418167114
+kave SNARC line arabic CD 0 down 3 num_separator 0.417193174362
+kave SNARC line arabic CD 0 down 1 num_separator 0.534546136856
+kave SNARC line arabic CD 0 down 7 num_separator 0.438271045685
+kave SNARC line arabic CD 0 up 1 num_separator 0.394577980042
+kave SNARC line arabic CD 0 down 3 num_separator 0.600835084915
+kave SNARC line arabic CD 0 down 5 num_separator 0.566019058228
+kave SNARC line arabic CD 0 down 9 num_separator 0.37237906456
+kave SNARC line arabic CD 0 up 6 lctrl 0.387998104095
+kave SNARC line arabic CD 0 down 2 num_separator 0.458164930344
+kave SNARC line arabic CD 0 down 6 num_separator 0.597728967667
+kave SNARC line arabic CD 0 up 8 lctrl 0.427978038788
+kave SNARC line arabic CD 0 down 9 num_separator 0.520481824875
+kave SNARC line arabic CD 0 up 5 lctrl 0.457357883453
+kave SNARC line arabic CD 0 down 6 lctrl 0.485113859177
+kave SNARC line arabic CD 0 up 6 lctrl 0.607129096985
+kave SNARC line arabic CD 0 up 9 lctrl 0.468200922012
+kave SNARC line arabic CD 0 up 4 lctrl 0.41507101059
+kave SNARC line arabic CD 0 up 4 lctrl 0.332025051117
+kave SNARC line arabic CD 0 up 2 lctrl 0.324529886246
+kave SNARC line arabic CD 0 up 2 lctrl 0.366369962692
+kave SNARC line arabic CD 0 down 7 num_separator 0.485049962997
+kave SNARC line arabic CD 0 down 4 num_separator 0.43877696991
+kave SNARC line arabic CD 0 up 6 lctrl 0.483720064163
+kave SNARC line arabic CD 0 up 7 lctrl 0.405702829361
+kave SNARC line arabic CD 0 down 5 num_separator 0.458984136581
+kave SNARC line arabic CD 0 down 3 num_separator 0.422465085983
+kave SNARC line arabic CD 0 up 9 lctrl 0.484302043915
+kave SNARC line arabic CD 0 down 7 num_separator 0.477676153183
+kave SNARC line arabic CD 0 down 2 num_separator 0.520646095276
+kave SNARC line arabic CD 0 down 9 num_separator 0.48118519783
+kave SNARC line arabic CD 0 up 5 lctrl 0.371247053146
+kave SNARC line arabic CD 0 up 1 lctrl 0.386738061905
+kave SNARC line arabic CD 0 down 8 num_separator 0.440743923187
+kave SNARC line arabic CD 0 down 2 num_separator 0.493090867996
+kave SNARC line arabic CD 0 down 1 num_separator 0.479231119156
+kave SNARC line arabic CD 0 up 4 lctrl 0.674371957779
+kave SNARC line arabic CD 0 up 8 lctrl 0.356513977051
+kave SNARC line arabic CD 0 down 1 num_separator 0.500081062317
+kave SNARC line arabic CD 0 up 9 lctrl 0.437721014023
+kave SNARC line arabic CD 0 up 2 lctrl 0.42606306076
+kave SNARC line arabic CD 0 up 6 lctrl 0.350955963135
+kave SNARC line arabic CD 0 up 1 lctrl 0.302953004837
+kave SNARC line arabic CD 0 down 1 num_separator 0.480651855469
+kave SNARC line arabic CD 0 up 1 lctrl 0.460525035858
+kave SNARC line arabic CD 0 down 3 num_separator 0.534904003143
+kave SNARC line arabic CD 0 up 8 lctrl 0.383171081543
+kave SNARC line arabic CD 0 up 7 lctrl 0.437798976898
+kave SNARC line arabic CD 0 up 4 lctrl 0.337902069092
+kave SNARC line arabic CD 0 up 2 lctrl 0.306450128555
+kave SNARC line arabic CD 0 down 6 num_separator 0.40425992012
+kave SNARC line arabic CD 0 down 8 num_separator 0.37800693512
+kave SNARC line arabic CD 0 up 5 lctrl 0.377327203751
+kave SNARC line arabic CD 0 up 2 lctrl 0.368658065796
+kave SNARC line arabic CD 0 down 2 num_separator 0.439293861389
+kave SNARC line arabic CD 0 up 2 lctrl 0.692013025284
+kave SNARC line arabic CD 0 down 5 num_separator 0.54915189743
+kave SNARC line arabic CD 0 down 6 num_separator 0.476585865021
+kave SNARC line arabic CD 0 up 3 lctrl 0.407417058945
+kave SNARC line arabic CD 0 up 1 lctrl 0.357462882996
+kave SNARC line arabic CD 0 up 9 lctrl 0.349148988724
+kave SNARC line arabic CD 0 up 7 lctrl 0.364904165268
+kave SNARC line arabic CD 0 up 8 lctrl 0.340005159378
+kave SNARC line arabic CD 0 down 8 num_separator 0.524388790131
+kave SNARC line arabic CD 0 up 1 lctrl 0.421710968018
+kave SNARC line arabic CD 0 up 2 lctrl 0.474277973175
+kave SNARC line arabic CD 0 down 4 num_separator 0.517185926437
+kave SNARC line arabic CD 0 down 8 num_separator 0.557574987411
+kave SNARC line arabic CD 0 down 3 num_separator 0.44479393959
+kave SNARC line arabic CD 0 down 3 num_separator 0.361013889313
+kave SNARC line arabic CD 0 up 1 lctrl 0.401190042496
+kave SNARC line arabic CD 0 up 3 lctrl 0.44705581665
+kave SNARC line arabic CD 0 down 8 num_separator 0.51495885849
+kave SNARC line arabic CD 0 up 5 lctrl 0.467944860458
+kave SNARC line arabic CD 0 down 3 num_separator 0.430447101593
+kave SNARC line arabic CD 0 up 3 lctrl 0.403750181198
+kave SNARC line arabic CD 0 down 7 num_separator 0.553504943848
+kave SNARC line arabic CD 0 down 1 num_separator 0.432171821594
+kave SNARC line arabic CD 0 down 3 num_separator 0.388542890549
+kave SNARC line arabic CD 0 up 9 lctrl 0.435575962067
+kave SNARC line arabic CD 0 up 6 lctrl 0.439563989639
+kave SNARC line arabic CD 0 up 5 lctrl 0.379796028137
+kave SNARC line arabic CD 0 down 6 num_separator 0.402741193771
+kave SNARC line arabic CD 0 down 7 num_separator 0.424473047256
+kave SNARC line arabic CD 0 up 2 lctrl 0.381940841675
+kave SNARC line arabic CD 0 up 1 lctrl 0.452081918716
+kave SNARC line arabic CD 0 down 9 num_separator 0.455794811249
+kave SNARC line arabic CD 0 down 7 num_separator 0.434919834137
+kave SNARC line arabic CD 0 down 2 num_separator 0.423227071762
+kave SNARC line arabic CD 0 down 5 num_separator 0.372205018997
+kave SNARC line arabic CD 0 down 3 num_separator 0.403357982635
+kave SNARC line arabic CD 0 down 9 num_separator 0.433619976044
+kave SNARC line arabic CD 0 up 9 lctrl 0.389657974243
+kave SNARC line arabic CD 0 up 7 lctrl 0.396266937256
+kave SNARC line arabic CD 0 down 9 num_separator 1.78601694107
+kave SNARC line arabic CD 0 down 8 num_separator 0.43615603447
+kave SNARC line arabic CD 0 up 8 lctrl 0.488987922668
+kave SNARC line arabic CD 0 down 4 num_separator 0.674588918686
+kave SNARC line arabic CD 0 down 3 num_separator 0.452789068222
+kave SNARC line arabic CD 0 up 5 lctrl 0.496752023697
+kave SNARC line arabic CD 0 down 8 num_separator 0.530400037766
+kave SNARC line arabic CD 0 down 6 num_separator 0.419148921967
+kave SNARC line arabic CD 0 up 1 lctrl 0.416595935822
+kave SNARC line arabic CD 0 up 4 lctrl 0.525463104248
+kave SNARC line arabic CD 0 up 3 lctrl 0.350197076797
+kave SNARC line arabic CD 0 up 8 lctrl 0.325833082199
+kave SNARC line arabic CD 0 up 1 lctrl 0.319226980209
+kave SNARC line arabic CD 0 down 5 num_separator 0.504705905914
+kave SNARC line arabic CD 0 up 7 lctrl 0.497945785522
+kave SNARC line arabic CD 0 down 9 num_separator 0.467011928558
+kave SNARC line arabic CD 0 down 3 num_separator 0.509901046753
+kave SNARC line arabic CD 0 down 7 num_separator 0.487330913544
+kave SNARC line arabic CD 0 up 4 lctrl 0.361848115921
+kave SNARC line arabic CD 0 down 4 num_separator 0.529653072357
+kave SNARC line arabic CD 0 up 9 lctrl 0.426199913025
+kave SNARC line arabic CD 0 up 4 lctrl 0.367108106613
+kave SNARC line arabic CD 0 up 3 lctrl 0.350672960281
+kave SNARC line arabic CD 0 up 9 lctrl 0.414365053177
+kave SNARC line arabic CD 0 down 8 lctrl 0.331554889679
+kave SNARC line arabic CD 0 up 6 lctrl 0.571805000305
+kave SNARC line arabic CD 0 down 2 num_separator 0.498089075089
+kave SNARC line arabic CD 0 up 8 lctrl 0.403682947159
+kave SNARC line arabic CD 0 down 3 num_separator 0.521087884903
+kave SNARC line arabic CD 0 up 5 lctrl 0.441974878311
+kave SNARC line arabic CD 0 up 5 lctrl 0.406352996826
+kave SNARC line arabic CD 0 up 4 lctrl 0.348097801208
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_17_1132', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'kave', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+kave SNARC line dot DC 0 up 45 num_separator 0.851351976395
+kave SNARC line dot DC 0 down 20 lctrl 0.541162967682
+kave SNARC line dot DC 0 up 15 num_separator 0.539561033249
+kave SNARC line dot DC 0 down 10 lctrl 0.491211891174
+kave SNARC line dot DC 0 down 45 lctrl 0.458434104919
+kave SNARC line dot DC 0 down 35 lctrl 0.404211997986
+kave SNARC line dot DC 0 up 5 num_separator 0.425097942352
+kave SNARC line dot DC 0 down 40 lctrl 0.515619039536
+kave SNARC line dot DC 0 down 5 lctrl 0.460407018661
+kave SNARC line dot DC 0 down 20 lctrl 0.438795089722
+kave SNARC line dot DC 0 down 35 lctrl 0.352560043335
+kave SNARC line dot DC 0 up 35 num_separator 0.485914945602
+kave SNARC line dot DC 0 down 20 lctrl 0.423146009445
+kave SNARC line dot DC 0 down 5 lctrl 0.38827085495
+kave SNARC line dot DC 0 up 10 num_separator 0.44881606102
+kave SNARC line dot DC 0 up 20 num_separator 0.427497148514
+kave SNARC line dot DC 0 up 25 num_separator 0.35898900032
+kave SNARC line dot DC 0 up 25 num_separator 0.365269899368
+kave SNARC line dot DC 0 up 10 num_separator 0.323830127716
+kave SNARC line dot DC 0 up 5 num_separator 0.31705904007
+kave SNARC line dot DC 0 up 45 num_separator 0.419248104095
+kave SNARC line dot DC 0 up 25 num_separator 0.351081848145
+kave SNARC line dot DC 0 up 15 num_separator 0.317931175232
+kave SNARC line dot DC 0 up 30 num_separator 0.341578960419
+kave SNARC line dot DC 0 up 40 num_separator 0.354986190796
+kave SNARC line dot DC 0 up 5 num_separator 0.306879043579
+kave SNARC line dot DC 0 down 5 lctrl 0.461397886276
+kave SNARC line dot DC 0 up 5 lctrl 0.352715015411
+kave SNARC line dot DC 0 up 5 num_separator 0.591730117798
+kave SNARC line dot DC 0 down 30 lctrl 0.683794021606
+kave SNARC line dot DC 0 up 40 num_separator 0.425775051117
+kave SNARC line dot DC 0 down 10 lctrl 0.646549940109
+kave SNARC line dot DC 0 down 35 lctrl 0.495911121368
+kave SNARC line dot DC 0 up 15 num_separator 0.481194019318
+kave SNARC line dot DC 0 up 20 num_separator 0.425629854202
+kave SNARC line dot DC 0 down 45 lctrl 0.548411130905
+kave SNARC line dot DC 0 up 30 num_separator 0.496982812881
+kave SNARC line dot DC 0 down 35 lctrl 0.497315168381
+kave SNARC line dot DC 0 up 5 num_separator 0.546976089478
+kave SNARC line dot DC 0 up 35 num_separator 0.432842969894
+kave SNARC line dot DC 0 down 5 lctrl 0.557595968246
+kave SNARC line dot DC 0 down 20 lctrl 0.531363010406
+kave SNARC line dot DC 0 up 30 num_separator 0.560652017593
+kave SNARC line dot DC 0 up 25 num_separator 0.366442918777
+kave SNARC line dot DC 0 down 15 lctrl 0.493125915527
+kave SNARC line dot DC 0 up 20 num_separator 0.517529010773
+kave SNARC line dot DC 0 down 5 lctrl 0.631206989288
+kave SNARC line dot DC 0 up 15 num_separator 0.481229066849
+kave SNARC line dot DC 0 up 25 num_separator 0.39382314682
+kave SNARC line dot DC 0 up 15 num_separator 0.431731939316
+kave SNARC line dot DC 0 up 25 num_separator 0.346482038498
+kave SNARC line dot DC 0 down 15 lctrl 0.594602108002
+kave SNARC line dot DC 0 down 40 lctrl 0.493496179581
+kave SNARC line dot DC 0 down 35 lctrl 0.39745092392
+kave SNARC line dot DC 0 up 5 num_separator 0.450862884521
+kave SNARC line dot DC 0 up 40 num_separator 0.443593025208
+kave SNARC line dot DC 0 down 30 lctrl 0.581968784332
+kave SNARC line dot DC 0 down 35 lctrl 0.385490894318
+kave SNARC line dot DC 0 down 20 lctrl 0.374627828598
+kave SNARC line dot DC 0 down 25 lctrl 0.364469051361
+kave SNARC line dot DC 0 up 30 num_separator 0.361041069031
+kave SNARC line dot DC 0 down 40 lctrl 0.51827287674
+kave SNARC line dot DC 0 up 30 num_separator 0.404500961304
+kave SNARC line dot DC 0 up 45 num_separator 0.487231016159
+kave SNARC line dot DC 0 down 35 lctrl 0.511565923691
+kave SNARC line dot DC 0 down 10 lctrl 0.44836807251
+kave SNARC line dot DC 0 down 25 num_separator 0.426088094711
+kave SNARC line dot DC 0 down 40 lctrl 0.692506074905
+kave SNARC line dot DC 0 down 25 lctrl 0.39670586586
+kave SNARC line dot DC 0 down 15 lctrl 0.418278932571
+kave SNARC line dot DC 0 up 30 num_separator 0.476826906204
+kave SNARC line dot DC 0 up 40 num_separator 0.436653137207
+kave SNARC line dot DC 0 down 25 lctrl 0.463833093643
+kave SNARC line dot DC 0 up 20 num_separator 0.553076028824
+kave SNARC line dot DC 0 up 20 num_separator 0.422725200653
+kave SNARC line dot DC 0 down 10 lctrl 0.56353521347
+kave SNARC line dot DC 0 down 45 lctrl 0.583831071854
+kave SNARC line dot DC 0 down 45 lctrl 0.737870931625
+kave SNARC line dot DC 0 down 10 lctrl 0.400640010834
+kave SNARC line dot DC 0 down 10 lctrl 0.389595985413
+kave SNARC line dot DC 0 up 5 num_separator 0.587950944901
+kave SNARC line dot DC 0 down 35 lctrl 0.870903015137
+kave SNARC line dot DC 0 down 45 lctrl 0.462110042572
+kave SNARC line dot DC 0 up 10 num_separator 0.568087100983
+kave SNARC line dot DC 0 down 35 lctrl 0.492822885513
+kave SNARC line dot DC 0 up 10 num_separator 0.573872089386
+kave SNARC line dot DC 0 down 25 lctrl 0.619395017624
+kave SNARC line dot DC 0 up 45 num_separator 0.524520158768
+kave SNARC line dot DC 0 up 40 num_separator 0.514347076416
+kave SNARC line dot DC 0 up 5 num_separator 0.403203010559
+kave SNARC line dot DC 0 down 10 lctrl 0.488390207291
+kave SNARC line dot DC 0 up 45 num_separator 0.471246004105
+kave SNARC line dot DC 0 down 15 lctrl 0.545454025269
+kave SNARC line dot DC 0 down 45 lctrl 0.414735794067
+kave SNARC line dot DC 0 down 30 lctrl 0.353551149368
+kave SNARC line dot DC 0 down 10 lctrl 0.728852987289
+kave SNARC line dot DC 0 down 5 lctrl 0.40096616745
+kave SNARC line dot DC 0 up 20 num_separator 0.468377113342
+kave SNARC line dot DC 0 down 25 lctrl 0.462506055832
+kave SNARC line dot DC 0 down 30 lctrl 0.472092866898
+kave SNARC line dot DC 0 up 35 num_separator 0.479923009872
+kave SNARC line dot DC 0 up 35 num_separator 0.352722167969
+kave SNARC line dot DC 0 up 5 num_separator 0.416970968246
+kave SNARC line dot DC 0 up 25 num_separator 0.348283052444
+kave SNARC line dot DC 0 down 10 lctrl 0.435702085495
+kave SNARC line dot DC 0 up 10 num_separator 0.551083087921
+kave SNARC line dot DC 0 up 20 num_separator 0.436695098877
+kave SNARC line dot DC 0 down 10 lctrl 0.568663835526
+kave SNARC line dot DC 0 up 5 num_separator 0.646708965302
+kave SNARC line dot DC 0 down 10 lctrl 0.46608710289
+kave SNARC line dot DC 0 up 30 num_separator 0.482387065887
+kave SNARC line dot DC 0 down 35 lctrl 0.61070394516
+kave SNARC line dot DC 0 down 15 lctrl 0.543079853058
+kave SNARC line dot DC 0 up 45 num_separator 0.499561071396
+kave SNARC line dot DC 0 down 15 lctrl 0.732972860336
+kave SNARC line dot DC 0 down 10 lctrl 0.483582019806
+kave SNARC line dot DC 0 down 30 lctrl 0.483506917953
+kave SNARC line dot DC 0 up 35 num_separator 0.563111066818
+kave SNARC line dot DC 0 down 45 lctrl 0.560085058212
+kave SNARC line dot DC 0 down 20 lctrl 0.525473833084
+kave SNARC line dot DC 0 down 45 lctrl 0.50723695755
+kave SNARC line dot DC 0 up 40 num_separator 0.465445041656
+kave SNARC line dot DC 0 up 40 num_separator 0.481490850449
+kave SNARC line dot DC 0 up 45 num_separator 0.40075802803
+kave SNARC line dot DC 0 down 25 lctrl 0.533364057541
+kave SNARC line dot DC 0 up 35 num_separator 0.450860023499
+kave SNARC line dot DC 0 down 30 lctrl 0.660726070404
+kave SNARC line dot DC 0 up 10 num_separator 0.470388889313
+kave SNARC line dot DC 0 up 15 num_separator 0.376392126083
+kave SNARC line dot DC 0 down 15 lctrl 0.543714046478
+kave SNARC line dot DC 0 up 30 num_separator 0.444650173187
+kave SNARC line dot DC 0 up 15 num_separator 0.392313957214
+kave SNARC line dot DC 0 up 15 num_separator 0.341865062714
+kave SNARC line dot DC 0 up 30 num_separator 0.30828499794
+kave SNARC line dot DC 0 down 10 lctrl 0.509927988052
+kave SNARC line dot DC 0 down 15 lctrl 0.382871866226
+kave SNARC line dot DC 0 down 45 lctrl 0.402091026306
+kave SNARC line dot DC 0 down 5 lctrl 0.344012975693
+kave SNARC line dot DC 0 down 20 lctrl 0.359214067459
+kave SNARC line dot DC 0 up 40 num_separator 0.403681993484
+kave SNARC line dot DC 0 down 10 lctrl 0.36114692688
+kave SNARC line dot DC 0 up 20 num_separator 0.663630008698
+kave SNARC line dot DC 0 down 45 lctrl 0.439549922943
+kave SNARC line dot DC 0 up 25 num_separator 0.45724105835
+kave SNARC line dot DC 0 down 30 lctrl 0.419055938721
+kave SNARC line dot DC 0 down 10 lctrl 0.408113002777
+kave SNARC line dot DC 0 down 45 lctrl 0.466270923615
+kave SNARC line dot DC 0 down 45 lctrl 0.409920930862
+kave SNARC line dot DC 0 down 40 lctrl 0.340320825577
+kave SNARC line dot DC 0 down 35 lctrl 0.338726997375
+kave SNARC line dot DC 0 up 45 lctrl 0.328530073166
+kave SNARC line dot DC 0 up 5 num_separator 0.46542596817
+kave SNARC line dot DC 0 up 45 num_separator 0.377351999283
+kave SNARC line dot DC 0 up 15 num_separator 0.343858957291
+kave SNARC line dot DC 0 up 45 num_separator 0.357392072678
+kave SNARC line dot DC 0 up 35 num_separator 0.363066911697
+kave SNARC line dot DC 0 down 15 lctrl 0.466807126999
+kave SNARC line dot DC 0 down 30 lctrl 0.507623910904
+kave SNARC line dot DC 0 up 40 num_separator 0.473512887955
+kave SNARC line dot DC 0 down 30 lctrl 0.506427049637
+kave SNARC line dot DC 0 down 15 lctrl 0.411233901978
+kave SNARC line dot DC 0 down 35 lctrl 0.43869304657
+kave SNARC line dot DC 0 down 25 lctrl 0.44168806076
+kave SNARC line dot DC 0 up 10 num_separator 0.564801216125
+kave SNARC line dot DC 0 down 10 lctrl 0.595076084137
+kave SNARC line dot DC 0 up 35 num_separator 0.510277986526
+kave SNARC line dot DC 0 down 45 lctrl 0.59711098671
+kave SNARC line dot DC 0 down 25 lctrl 0.408694982529
+kave SNARC line dot DC 0 up 30 num_separator 0.467951059341
+kave SNARC line dot DC 0 up 35 num_separator 0.388575077057
+kave SNARC line dot DC 0 down 30 lctrl 0.489261865616
+kave SNARC line dot DC 0 down 40 lctrl 0.45653796196
+kave SNARC line dot DC 0 up 40 num_separator 0.464738845825
+kave SNARC line dot DC 0 down 40 lctrl 0.585359096527
+kave SNARC line dot DC 0 up 25 num_separator 0.541210889816
+kave SNARC line dot DC 0 up 30 num_separator 0.458891868591
+kave SNARC line dot DC 0 up 40 num_separator 0.411911010742
+kave SNARC line dot DC 0 up 5 num_separator 0.441428184509
+kave SNARC line dot DC 0 up 15 num_separator 0.349023103714
+kave SNARC line dot DC 0 up 20 num_separator 0.347358942032
+kave SNARC line dot DC 0 down 45 lctrl 0.568557024002
+kave SNARC line dot DC 0 down 5 lctrl 0.50376200676
+kave SNARC line dot DC 0 up 5 num_separator 0.480494976044
+kave SNARC line dot DC 0 down 45 lctrl 0.736464977264
+kave SNARC line dot DC 0 up 20 num_separator 0.630026817322
+kave SNARC line dot DC 0 down 35 lctrl 0.656718969345
+kave SNARC line dot DC 0 up 5 num_separator 0.603176116943
+kave SNARC line dot DC 0 up 45 num_separator 0.429480075836
+kave SNARC line dot DC 0 up 35 num_separator 0.456184864044
+kave SNARC line dot DC 0 down 10 lctrl 0.49936413765
+kave SNARC line dot DC 0 down 35 lctrl 0.498731136322
+kave SNARC line dot DC 0 up 15 num_separator 0.50696182251
+kave SNARC line dot DC 0 down 20 lctrl 0.459318161011
+kave SNARC line dot DC 0 down 35 lctrl 0.460608005524
+kave SNARC line dot DC 0 up 35 num_separator 0.589011907578
+kave SNARC line dot DC 0 down 30 lctrl 0.601006031036
+kave SNARC line dot DC 0 up 10 num_separator 0.492915153503
+kave SNARC line dot DC 0 up 30 num_separator 0.397096157074
+kave SNARC line dot DC 0 up 35 num_separator 0.416599035263
+kave SNARC line dot DC 0 up 40 num_separator 0.370539903641
+kave SNARC line dot DC 0 down 40 lctrl 0.551440954208
+kave SNARC line dot DC 0 down 40 lctrl 0.451551914215
+kave SNARC line dot DC 0 up 20 num_separator 0.5013859272
+kave SNARC line dot DC 0 up 10 num_separator 0.373955965042
+kave SNARC line dot DC 0 down 30 lctrl 0.739347934723
+kave SNARC line dot DC 0 down 5 lctrl 0.41886806488
+kave SNARC line dot DC 0 up 25 num_separator 0.469853878021
+kave SNARC line dot DC 0 up 45 num_separator 0.36606502533
+kave SNARC line dot DC 0 down 15 lctrl 0.580793142319
+kave SNARC line dot DC 0 up 5 num_separator 0.466685056686
+kave SNARC line dot DC 0 up 5 num_separator 0.42184305191
+kave SNARC line dot DC 0 down 25 lctrl 0.737477064133
+kave SNARC line dot DC 0 down 40 lctrl 0.510213136673
+kave SNARC line dot DC 0 up 45 num_separator 0.428253173828
+kave SNARC line dot DC 0 down 40 lctrl 0.463273048401
+kave SNARC line dot DC 0 down 35 lctrl 0.408062934875
+kave SNARC line dot DC 0 up 5 num_separator 0.54936504364
+kave SNARC line dot DC 0 down 15 lctrl 0.484370946884
+kave SNARC line dot DC 0 up 25 num_separator 0.508624076843
+kave SNARC line dot DC 0 up 45 num_separator 0.571156978607
+kave SNARC line dot DC 0 up 35 num_separator 0.423536062241
+kave SNARC line dot DC 0 up 10 num_separator 0.451799869537
+kave SNARC line dot DC 0 down 30 lctrl 0.445470094681
+kave SNARC line dot DC 0 up 25 num_separator 0.576112031937
+kave SNARC line dot DC 0 down 35 lctrl 0.452855110168
+kave SNARC line dot DC 0 down 25 num_separator 0.494570016861
+kave SNARC line dot DC 0 up 45 num_separator 0.637825012207
+kave SNARC line dot DC 0 down 15 lctrl 0.4730219841
+kave SNARC line dot DC 0 up 10 num_separator 0.514858007431
+kave SNARC line dot DC 0 down 15 lctrl 0.475224971771
+kave SNARC line dot DC 0 up 5 num_separator 0.733646869659
+kave SNARC line dot DC 0 down 30 lctrl 0.595053911209
+kave SNARC line dot DC 0 up 10 num_separator 0.519953012466
+kave SNARC line dot DC 0 up 35 num_separator 0.622286081314
+kave SNARC line dot DC 0 up 35 num_separator 0.49656701088
+kave SNARC line dot DC 0 up 25 num_separator 0.481312990189
+kave SNARC line dot DC 0 up 20 num_separator 0.442390918732
+kave SNARC line dot DC 0 down 25 lctrl 0.573246002197
+kave SNARC line dot DC 0 up 30 num_separator 0.601027011871
+kave SNARC line dot DC 0 up 30 num_separator 0.579919099808
+kave SNARC line dot DC 0 up 25 num_separator 0.465261936188
+kave SNARC line dot DC 0 up 25 num_separator 0.522626876831
+kave SNARC line dot DC 0 up 40 num_separator 0.488284111023
+kave SNARC line dot DC 0 down 5 lctrl 0.547001123428
+kave SNARC line dot DC 0 down 15 lctrl 0.586175918579
+kave SNARC line dot DC 0 up 45 num_separator 0.524566173553
+kave SNARC line dot DC 0 down 45 lctrl 0.778929948807
+kave SNARC line dot DC 0 down 5 lctrl 0.584703922272
+kave SNARC line dot DC 0 up 35 num_separator 0.547886133194
+kave SNARC line dot DC 0 up 20 num_separator 0.537715196609
+kave SNARC line dot DC 0 down 20 lctrl 0.576652050018
+kave SNARC line dot DC 0 up 15 num_separator 0.462252855301
+kave SNARC line dot DC 0 down 20 lctrl 0.481154918671
+kave SNARC line dot DC 0 down 15 lctrl 0.473966121674
+kave SNARC line dot DC 0 up 20 num_separator 0.474961996078
+kave SNARC line dot DC 0 down 10 lctrl 0.510108947754
+kave SNARC line dot DC 0 up 5 num_separator 0.590628862381
+kave SNARC line dot DC 0 up 40 num_separator 0.497442960739
+kave SNARC line dot DC 0 down 30 lctrl 0.577029943466
+kave SNARC line dot DC 0 up 30 num_separator 0.469245910645
+kave SNARC line dot DC 0 up 40 num_separator 0.404897212982
+kave SNARC line dot DC 0 down 25 lctrl 0.529611110687
+kave SNARC line dot DC 0 up 45 num_separator 0.479121923447
+kave SNARC line dot DC 0 down 15 lctrl 0.513688087463
+kave SNARC line dot DC 0 down 30 lctrl 0.448798894882
+kave SNARC line dot DC 0 up 35 num_separator 0.538133859634
+kave SNARC line dot DC 0 up 45 num_separator 0.57492184639
+kave SNARC line dot DC 0 down 35 lctrl 0.491571187973
+kave SNARC line dot DC 0 down 25 lctrl 0.460302829742
+kave SNARC line dot DC 0 down 10 lctrl 0.439116001129
+kave SNARC line dot DC 0 down 10 lctrl 0.586848974228
+kave SNARC line dot DC 0 down 40 lctrl 0.430083990097
+kave SNARC line dot DC 0 down 5 lctrl 0.370774030685
+kave SNARC line dot DC 0 down 10 lctrl 0.408997058868
+kave SNARC line dot DC 0 down 15 lctrl 0.37410402298
+kave SNARC line dot DC 0 up 5 num_separator 0.676815986633
+kave SNARC line dot DC 0 up 15 num_separator 0.390259027481
+kave SNARC line dot DC 0 up 15 num_separator 0.371968984604
+kave SNARC line dot DC 0 up 45 num_separator 0.42351603508
+kave SNARC line dot DC 0 down 20 lctrl 0.523589849472
+kave SNARC line dot DC 0 up 20 num_separator 0.434322834015
+kave SNARC line dot DC 0 down 10 lctrl 0.478286027908
+kave SNARC line dot DC 0 up 25 num_separator 0.470515012741
+kave SNARC line dot DC 0 down 40 lctrl 0.583018064499
+kave SNARC line dot DC 0 up 30 num_separator 0.474105119705
+kave SNARC line dot DC 0 up 40 num_separator 0.434136867523
+kave SNARC line dot DC 0 up 5 num_separator 0.430568933487
+kave SNARC line dot DC 0 down 40 lctrl 0.496263980865
+kave SNARC line dot DC 0 up 10 num_separator 0.537252902985
+kave SNARC line dot DC 0 down 20 lctrl 0.480561971664
+kave SNARC line dot DC 0 down 40 lctrl 0.592257022858
+kave SNARC line dot DC 0 up 25 num_separator 0.41216802597
+kave SNARC line dot DC 0 down 40 lctrl 0.535147190094
+kave SNARC line dot DC 0 up 40 num_separator 0.443974971771
+kave SNARC line dot DC 0 up 20 num_separator 0.470611810684
+kave SNARC line dot DC 0 down 35 lctrl 0.607848167419
+kave SNARC line dot DC 0 down 25 lctrl 0.483515977859
+kave SNARC line dot DC 0 up 40 num_separator 0.426280975342
+kave SNARC line dot DC 0 down 30 lctrl 0.525551080704
+kave SNARC line dot DC 0 up 45 num_separator 0.51499414444
+kave SNARC line dot DC 0 up 35 num_separator 0.737571001053
+kave SNARC line dot DC 0 down 15 lctrl 0.688554048538
+kave SNARC line dot DC 0 up 15 num_separator 0.585047006607
+kave SNARC line dot DC 0 down 25 lctrl 0.533752918243
+kave SNARC line dot DC 0 down 45 lctrl 0.490772008896
+kave SNARC line dot DC 0 up 5 num_separator 0.468549013138
+kave SNARC line dot DC 0 up 15 num_separator 0.486680984497
+kave SNARC line dot DC 0 up 5 num_separator 0.544725894928
+kave SNARC line dot DC 0 down 20 lctrl 0.487509965897
+kave SNARC line dot DC 0 up 10 num_separator 0.496711969376
+kave SNARC line dot DC 0 down 20 lctrl 0.561732053757
+kave SNARC line dot DC 0 up 45 num_separator 0.677687168121
+kave SNARC line dot DC 0 up 15 num_separator 0.399176120758
+kave SNARC line dot DC 0 up 30 num_separator 0.442687988281
+kave SNARC line dot DC 0 down 10 lctrl 0.550765037537
+kave SNARC line dot DC 0 up 30 num_separator 0.45147895813
+kave SNARC line dot DC 0 down 25 lctrl 0.556915998459
+kave SNARC line dot DC 0 down 20 lctrl 0.59502196312
+kave SNARC line dot DC 0 up 15 num_separator 0.511746883392
+kave SNARC line dot DC 0 up 20 num_separator 0.719642162323
+kave SNARC line dot DC 0 up 30 num_separator 0.797446012497
+kave SNARC line dot DC 0 up 20 num_separator 0.657158851624
+kave SNARC line dot DC 0 down 25 lctrl 0.563555002213
+kave SNARC line dot DC 0 up 35 num_separator 0.551606893539
+kave SNARC line dot DC 0 down 40 lctrl 0.916476011276
+kave SNARC line dot DC 0 down 15 lctrl 0.427315950394
+kave SNARC line dot DC 0 down 10 lctrl 0.431719064713
+kave SNARC line dot DC 0 up 20 num_separator 0.506036996841
+kave SNARC line dot DC 0 up 40 num_separator 0.856485128403
+kave SNARC line dot DC 0 up 35 num_separator 0.432792186737
+kave SNARC line dot DC 0 down 20 lctrl 0.467889070511
+kave SNARC line dot DC 0 up 30 num_separator 0.620102882385
+kave SNARC line dot DC 0 up 10 num_separator 0.783799886703
+kave SNARC line dot DC 0 down 20 lctrl 0.571877002716
+kave SNARC line dot DC 0 up 40 num_separator 0.633459091187
+kave SNARC line dot DC 0 down 15 lctrl 0.499359846115
+kave SNARC line dot DC 0 up 20 num_separator 0.514820098877
+kave SNARC line dot DC 0 down 35 lctrl 0.641637086868
+kave SNARC line dot DC 0 down 25 lctrl 0.483892917633
+kave SNARC line dot DC 0 down 5 lctrl 0.518379926682
+kave SNARC line dot DC 0 up 40 num_separator 0.499334812164
+kave SNARC line dot DC 0 down 5 lctrl 0.645226955414
+kave SNARC line dot DC 0 down 25 lctrl 0.559449911118
+kave SNARC line dot DC 0 up 20 num_separator 0.556988954544
+kave SNARC line dot DC 0 up 25 num_separator 0.602736949921
+kave SNARC line dot DC 0 down 40 lctrl 0.501310110092
+kave SNARC line dot DC 0 up 40 num_separator 0.587411165237
+kave SNARC line dot DC 0 up 30 num_separator 0.455143928528
+kave SNARC line dot DC 0 up 45 num_separator 0.463735103607
+kave SNARC line dot DC 0 up 30 num_separator 0.425170183182
+kave SNARC line dot DC 0 down 15 lctrl 0.469860076904
+kave SNARC line dot DC 0 down 20 lctrl 0.399529933929
+kave SNARC line dot DC 0 up 30 num_separator 0.482825040817
+kave SNARC line dot DC 0 down 5 lctrl 0.532939910889
+kave SNARC line dot DC 0 up 25 num_separator 0.459053993225
+kave SNARC line dot DC 0 down 20 lctrl 0.565575838089
+kave SNARC line dot DC 0 up 10 num_separator 0.514975070953
+kave SNARC line dot DC 0 down 5 lctrl 0.419970989227
+kave SNARC line dot DC 0 down 25 lctrl 0.80764913559
+kave SNARC line dot DC 0 down 45 lctrl 0.465198040009
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_17_1142', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'kave', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+kave SNARC line arabic DC 0 up 1 num_separator 0.85907793045
+kave SNARC line arabic DC 0 down 3 lctrl 0.52626991272
+kave SNARC line arabic DC 0 down 5 lctrl 0.430686950684
+kave SNARC line arabic DC 0 down 2 lctrl 0.371088981628
+kave SNARC line arabic DC 0 down 1 lctrl 0.31406211853
+kave SNARC line arabic DC 0 down 1 lctrl 0.315346956253
+kave SNARC line arabic DC 0 down 9 lctrl 0.324532985687
+kave SNARC line arabic DC 0 down 1 lctrl 0.30221414566
+kave SNARC line arabic DC 0 down 6 lctrl 0.296071052551
+kave SNARC line arabic DC 0 down 8 lctrl 0.282721042633
+kave SNARC line arabic DC 0 down 7 lctrl 0.397436141968
+kave SNARC line arabic DC 0 up 8 num_separator 0.410938978195
+kave SNARC line arabic DC 0 up 7 num_separator 0.344558954239
+kave SNARC line arabic DC 0 up 8 num_separator 0.305186033249
+kave SNARC line arabic DC 0 up 8 num_separator 0.275060892105
+kave SNARC line arabic DC 0 down 7 lctrl 0.358734846115
+kave SNARC line arabic DC 0 down 2 lctrl 0.446847915649
+kave SNARC line arabic DC 0 up 5 num_separator 0.419007062912
+kave SNARC line arabic DC 0 down 5 lctrl 0.456012010574
+kave SNARC line arabic DC 0 up 9 num_separator 0.467265129089
+kave SNARC line arabic DC 0 down 6 lctrl 0.390439987183
+kave SNARC line arabic DC 0 up 9 num_separator 0.420503854752
+kave SNARC line arabic DC 0 up 1 num_separator 0.369684934616
+kave SNARC line arabic DC 0 up 1 num_separator 0.33655500412
+kave SNARC line arabic DC 0 up 1 num_separator 0.321214914322
+kave SNARC line arabic DC 0 down 9 lctrl 0.459295034409
+kave SNARC line arabic DC 0 up 7 num_separator 0.406113862991
+kave SNARC line arabic DC 0 down 2 lctrl 0.436136007309
+kave SNARC line arabic DC 0 down 6 lctrl 0.400232791901
+kave SNARC line arabic DC 0 up 9 lctrl 0.398050069809
+kave SNARC line arabic DC 0 up 3 num_separator 0.554888010025
+kave SNARC line arabic DC 0 down 2 lctrl 0.450411081314
+kave SNARC line arabic DC 0 up 8 num_separator 0.461591005325
+kave SNARC line arabic DC 0 down 6 lctrl 0.457325935364
+kave SNARC line arabic DC 0 up 4 num_separator 0.4446849823
+kave SNARC line arabic DC 0 down 2 lctrl 0.457256793976
+kave SNARC line arabic DC 0 down 4 lctrl 0.404875993729
+kave SNARC line arabic DC 0 up 3 num_separator 0.409787893295
+kave SNARC line arabic DC 0 up 4 num_separator 0.407757043839
+kave SNARC line arabic DC 0 down 7 lctrl 0.414020061493
+kave SNARC line arabic DC 0 up 4 num_separator 0.514708042145
+kave SNARC line arabic DC 0 down 3 lctrl 0.41951918602
+kave SNARC line arabic DC 0 down 4 lctrl 0.408565044403
+kave SNARC line arabic DC 0 up 4 num_separator 0.413758993149
+kave SNARC line arabic DC 0 up 2 num_separator 0.467071056366
+kave SNARC line arabic DC 0 up 6 num_separator 0.637757062912
+kave SNARC line arabic DC 0 up 1 num_separator 0.449229001999
+kave SNARC line arabic DC 0 up 1 num_separator 0.356826066971
+kave SNARC line arabic DC 0 up 3 num_separator 0.324683189392
+kave SNARC line arabic DC 0 up 1 num_separator 0.302042007446
+kave SNARC line arabic DC 0 up 8 num_separator 0.304126024246
+kave SNARC line arabic DC 0 up 8 num_separator 0.306342124939
+kave SNARC line arabic DC 0 down 4 lctrl 0.444541931152
+kave SNARC line arabic DC 0 up 9 num_separator 0.432401895523
+kave SNARC line arabic DC 0 down 9 lctrl 0.437052965164
+kave SNARC line arabic DC 0 up 7 num_separator 0.560847997665
+kave SNARC line arabic DC 0 up 5 num_separator 0.544133901596
+kave SNARC line arabic DC 0 up 7 num_separator 0.408876180649
+kave SNARC line arabic DC 0 down 5 lctrl 0.502049207687
+kave SNARC line arabic DC 0 down 6 lctrl 0.615436077118
+kave SNARC line arabic DC 0 down 8 lctrl 0.403918981552
+kave SNARC line arabic DC 0 down 9 lctrl 0.369656085968
+kave SNARC line arabic DC 0 up 6 num_separator 0.528407096863
+kave SNARC line arabic DC 0 up 1 num_separator 0.673189163208
+kave SNARC line arabic DC 0 down 3 lctrl 0.483566999435
+kave SNARC line arabic DC 0 down 4 lctrl 0.477777957916
+kave SNARC line arabic DC 0 down 6 lctrl 0.408737182617
+kave SNARC line arabic DC 0 up 3 num_separator 0.517913103104
+kave SNARC line arabic DC 0 up 8 num_separator 0.39060997963
+kave SNARC line arabic DC 0 up 6 num_separator 0.365211963654
+kave SNARC line arabic DC 0 up 2 num_separator 0.356168031693
+kave SNARC line arabic DC 0 up 8 num_separator 0.356377840042
+kave SNARC line arabic DC 0 up 8 num_separator 0.323801994324
+kave SNARC line arabic DC 0 up 6 num_separator 0.349156141281
+kave SNARC line arabic DC 0 down 2 lctrl 0.47741484642
+kave SNARC line arabic DC 0 up 2 num_separator 0.471994161606
+kave SNARC line arabic DC 0 down 8 lctrl 0.459045171738
+kave SNARC line arabic DC 0 down 7 lctrl 0.502759933472
+kave SNARC line arabic DC 0 down 8 lctrl 0.439991950989
+kave SNARC line arabic DC 0 up 1 num_separator 0.475977182388
+kave SNARC line arabic DC 0 up 5 num_separator 0.439022064209
+kave SNARC line arabic DC 0 up 1 num_separator 0.45103597641
+kave SNARC line arabic DC 0 up 1 num_separator 0.374876976013
+kave SNARC line arabic DC 0 down 9 lctrl 0.638193845749
+kave SNARC line arabic DC 0 up 8 num_separator 0.969548940659
+kave SNARC line arabic DC 0 down 4 lctrl 0.479166984558
+kave SNARC line arabic DC 0 up 2 num_separator 0.449501037598
+kave SNARC line arabic DC 0 up 1 num_separator 0.381018877029
+kave SNARC line arabic DC 0 down 4 lctrl 0.499852895737
+kave SNARC line arabic DC 0 down 2 lctrl 0.421580076218
+kave SNARC line arabic DC 0 up 9 num_separator 0.513961076736
+kave SNARC line arabic DC 0 up 1 num_separator 0.47528886795
+kave SNARC line arabic DC 0 up 5 num_separator 0.454045057297
+kave SNARC line arabic DC 0 up 2 num_separator 0.465721845627
+kave SNARC line arabic DC 0 up 8 num_separator 0.332503080368
+kave SNARC line arabic DC 0 up 2 num_separator 0.349107980728
+kave SNARC line arabic DC 0 up 9 num_separator 0.277075052261
+kave SNARC line arabic DC 0 up 4 num_separator 0.328495979309
+kave SNARC line arabic DC 0 down 5 lctrl 0.48211312294
+kave SNARC line arabic DC 0 up 8 num_separator 0.387943983078
+kave SNARC line arabic DC 0 down 2 lctrl 0.42666387558
+kave SNARC line arabic DC 0 up 1 num_separator 0.679333925247
+kave SNARC line arabic DC 0 down 5 lctrl 0.577776908875
+kave SNARC line arabic DC 0 up 9 num_separator 0.40845489502
+kave SNARC line arabic DC 0 up 6 num_separator 0.349813938141
+kave SNARC line arabic DC 0 down 5 lctrl 0.405976057053
+kave SNARC line arabic DC 0 up 7 num_separator 0.41930103302
+kave SNARC line arabic DC 0 up 8 num_separator 0.584104061127
+kave SNARC line arabic DC 0 up 7 num_separator 0.405907869339
+kave SNARC line arabic DC 0 up 1 num_separator 0.339651823044
+kave SNARC line arabic DC 0 down 9 lctrl 0.420647144318
+kave SNARC line arabic DC 0 up 6 num_separator 0.505208015442
+kave SNARC line arabic DC 0 down 3 lctrl 0.475510120392
+kave SNARC line arabic DC 0 down 5 lctrl 0.429519891739
+kave SNARC line arabic DC 0 down 8 lctrl 0.379168987274
+kave SNARC line arabic DC 0 down 3 lctrl 0.385974884033
+kave SNARC line arabic DC 0 down 5 lctrl 0.336613178253
+kave SNARC line arabic DC 0 down 7 lctrl 0.33713889122
+kave SNARC line arabic DC 0 down 2 lctrl 0.394011974335
+kave SNARC line arabic DC 0 down 1 lctrl 0.384066104889
+kave SNARC line arabic DC 0 down 4 lctrl 0.326622009277
+kave SNARC line arabic DC 0 down 5 lctrl 0.367707967758
+kave SNARC line arabic DC 0 down 2 lctrl 0.294898033142
+kave SNARC line arabic DC 0 up 8 num_separator 0.465276002884
+kave SNARC line arabic DC 0 up 5 num_separator 0.452126026154
+kave SNARC line arabic DC 0 down 8 lctrl 0.512156963348
+kave SNARC line arabic DC 0 down 7 lctrl 0.481456041336
+kave SNARC line arabic DC 0 up 8 num_separator 0.587361097336
+kave SNARC line arabic DC 0 down 7 lctrl 0.46525812149
+kave SNARC line arabic DC 0 down 3 lctrl 0.388221025467
+kave SNARC line arabic DC 0 up 8 num_separator 0.466222047806
+kave SNARC line arabic DC 0 down 3 lctrl 0.613451004028
+kave SNARC line arabic DC 0 up 1 num_separator 0.498686075211
+kave SNARC line arabic DC 0 down 6 lctrl 0.604202985764
+kave SNARC line arabic DC 0 down 6 lctrl 0.417079210281
+kave SNARC line arabic DC 0 down 5 lctrl 0.342133998871
+kave SNARC line arabic DC 0 up 3 num_separator 0.550168991089
+kave SNARC line arabic DC 0 down 3 lctrl 0.525791883469
+kave SNARC line arabic DC 0 down 8 lctrl 0.462342023849
+kave SNARC line arabic DC 0 up 7 num_separator 0.514090061188
+kave SNARC line arabic DC 0 up 4 num_separator 0.410400152206
+kave SNARC line arabic DC 0 down 7 lctrl 0.488522052765
+kave SNARC line arabic DC 0 down 8 lctrl 0.587040901184
+kave SNARC line arabic DC 0 down 5 lctrl 0.352377891541
+kave SNARC line arabic DC 0 up 7 num_separator 0.479719877243
+kave SNARC line arabic DC 0 up 5 num_separator 0.411254882812
+kave SNARC line arabic DC 0 down 9 lctrl 0.464762926102
+kave SNARC line arabic DC 0 up 3 num_separator 0.451309919357
+kave SNARC line arabic DC 0 up 3 num_separator 0.57486987114
+kave SNARC line arabic DC 0 down 9 lctrl 0.421584129333
+kave SNARC line arabic DC 0 up 8 num_separator 0.418241024017
+kave SNARC line arabic DC 0 up 3 num_separator 0.439128875732
+kave SNARC line arabic DC 0 up 1 num_separator 0.339348077774
+kave SNARC line arabic DC 0 down 9 lctrl 0.428424835205
+kave SNARC line arabic DC 0 down 5 lctrl 0.697388887405
+kave SNARC line arabic DC 0 down 9 lctrl 0.355031013489
+kave SNARC line arabic DC 0 up 9 num_separator 0.450680971146
+kave SNARC line arabic DC 0 down 6 lctrl 0.446354150772
+kave SNARC line arabic DC 0 down 3 lctrl 0.346661090851
+kave SNARC line arabic DC 0 up 8 num_separator 0.426831960678
+kave SNARC line arabic DC 0 down 6 lctrl 0.784111976624
+kave SNARC line arabic DC 0 up 6 num_separator 0.517014026642
+kave SNARC line arabic DC 0 down 4 lctrl 0.454405069351
+kave SNARC line arabic DC 0 down 1 lctrl 0.521576166153
+kave SNARC line arabic DC 0 down 5 lctrl 0.32225894928
+kave SNARC line arabic DC 0 down 9 lctrl 0.323628902435
+kave SNARC line arabic DC 0 down 1 lctrl 0.308865070343
+kave SNARC line arabic DC 0 up 4 num_separator 0.430519104004
+kave SNARC line arabic DC 0 up 3 num_separator 0.595539808273
+kave SNARC line arabic DC 0 down 2 lctrl 0.585597038269
+kave SNARC line arabic DC 0 down 7 lctrl 0.407557010651
+kave SNARC line arabic DC 0 up 6 num_separator 0.484827041626
+kave SNARC line arabic DC 0 up 2 num_separator 0.510822057724
+kave SNARC line arabic DC 0 down 9 lctrl 0.513427972794
+kave SNARC line arabic DC 0 down 4 lctrl 0.434059143066
+kave SNARC line arabic DC 0 down 6 lctrl 0.310395956039
+kave SNARC line arabic DC 0 up 8 num_separator 0.415814161301
+kave SNARC line arabic DC 0 down 2 lctrl 0.437355041504
+kave SNARC line arabic DC 0 up 6 num_separator 0.505406141281
+kave SNARC line arabic DC 0 down 9 lctrl 0.362941026688
+kave SNARC line arabic DC 0 down 6 lctrl 0.498895168304
+kave SNARC line arabic DC 0 up 2 num_separator 0.499994039536
+kave SNARC line arabic DC 0 down 5 lctrl 0.325758934021
+kave SNARC line arabic DC 0 down 5 num_separator 0.36660695076
+kave SNARC line arabic DC 0 up 5 num_separator 0.557700157166
+kave SNARC line arabic DC 0 up 2 num_separator 0.468910932541
+kave SNARC line arabic DC 0 up 9 num_separator 0.352215051651
+kave SNARC line arabic DC 0 down 5 lctrl 0.383985042572
+kave SNARC line arabic DC 0 up 9 num_separator 0.454125165939
+kave SNARC line arabic DC 0 down 2 lctrl 0.409961938858
+kave SNARC line arabic DC 0 up 9 num_separator 0.383599042892
+kave SNARC line arabic DC 0 up 2 num_separator 0.389827013016
+kave SNARC line arabic DC 0 up 8 num_separator 0.364163160324
+kave SNARC line arabic DC 0 down 7 lctrl 0.40372300148
+kave SNARC line arabic DC 0 up 9 num_separator 0.520946025848
+kave SNARC line arabic DC 0 up 9 num_separator 0.42568898201
+kave SNARC line arabic DC 0 down 9 lctrl 0.41521191597
+kave SNARC line arabic DC 0 up 7 num_separator 0.539720058441
+kave SNARC line arabic DC 0 down 1 lctrl 0.412036895752
+kave SNARC line arabic DC 0 up 4 num_separator 0.553385972977
+kave SNARC line arabic DC 0 down 9 lctrl 0.625043869019
+kave SNARC line arabic DC 0 up 7 num_separator 0.541160106659
+kave SNARC line arabic DC 0 up 8 num_separator 0.428974866867
+kave SNARC line arabic DC 0 up 4 num_separator 0.417843103409
+kave SNARC line arabic DC 0 up 4 num_separator 0.335232973099
+kave SNARC line arabic DC 0 down 7 lctrl 0.447975158691
+kave SNARC line arabic DC 0 up 8 num_separator 0.491276025772
+kave SNARC line arabic DC 0 down 2 lctrl 0.382005929947
+kave SNARC line arabic DC 0 down 9 lctrl 0.507997989655
+kave SNARC line arabic DC 0 down 4 lctrl 0.453347206116
+kave SNARC line arabic DC 0 down 2 lctrl 0.401160955429
+kave SNARC line arabic DC 0 up 6 num_separator 0.422298908234
+kave SNARC line arabic DC 0 down 6 lctrl 0.459676980972
+kave SNARC line arabic DC 0 down 6 lctrl 0.391063928604
+kave SNARC line arabic DC 0 down 2 lctrl 0.341524839401
+kave SNARC line arabic DC 0 down 3 lctrl 0.35004901886
+kave SNARC line arabic DC 0 down 6 lctrl 0.31013917923
+kave SNARC line arabic DC 0 up 7 num_separator 0.487750053406
+kave SNARC line arabic DC 0 up 3 lctrl 0.473873853683
+kave SNARC line arabic DC 0 down 4 lctrl 0.45309305191
+kave SNARC line arabic DC 0 down 2 lctrl 0.360488891602
+kave SNARC line arabic DC 0 up 2 num_separator 0.40798997879
+kave SNARC line arabic DC 0 down 7 lctrl 0.470181941986
+kave SNARC line arabic DC 0 down 3 lctrl 0.360949039459
+kave SNARC line arabic DC 0 down 1 lctrl 0.560657978058
+kave SNARC line arabic DC 0 down 2 lctrl 0.511986970901
+kave SNARC line arabic DC 0 down 6 lctrl 0.417532920837
+kave SNARC line arabic DC 0 up 5 num_separator 0.654043912888
+kave SNARC line arabic DC 0 up 9 num_separator 0.585097074509
+kave SNARC line arabic DC 0 down 3 lctrl 0.495208978653
+kave SNARC line arabic DC 0 up 9 num_separator 0.657011032104
+kave SNARC line arabic DC 0 down 5 lctrl 0.420255899429
+kave SNARC line arabic DC 0 down 4 lctrl 1.20124983788
+kave SNARC line arabic DC 0 up 1 num_separator 0.507916927338
+kave SNARC line arabic DC 0 up 1 num_separator 0.477447986603
+kave SNARC line arabic DC 0 up 5 num_separator 0.752240896225
+kave SNARC line arabic DC 0 up 8 num_separator 0.478787183762
+kave SNARC line arabic DC 0 up 5 num_separator 0.585587978363
+kave SNARC line arabic DC 0 down 3 lctrl 0.519911050797
+kave SNARC line arabic DC 0 down 4 lctrl 0.376410007477
+kave SNARC line arabic DC 0 up 3 num_separator 0.431519031525
+kave SNARC line arabic DC 0 up 4 num_separator 0.411581993103
+kave SNARC line arabic DC 0 up 8 num_separator 0.385329008102
+kave SNARC line arabic DC 0 up 9 num_separator 0.343665838242
+kave SNARC line arabic DC 0 down 8 lctrl 0.473353147507
+kave SNARC line arabic DC 0 down 1 lctrl 0.507884025574
+kave SNARC line arabic DC 0 up 5 num_separator 0.476832866669
+kave SNARC line arabic DC 0 up 3 num_separator 0.751319885254
+kave SNARC line arabic DC 0 down 3 lctrl 0.430507898331
+kave SNARC line arabic DC 0 down 9 lctrl 0.491013050079
+kave SNARC line arabic DC 0 down 9 lctrl 0.405462026596
+kave SNARC line arabic DC 0 down 7 lctrl 0.427165985107
+kave SNARC line arabic DC 0 up 1 num_separator 0.447765111923
+kave SNARC line arabic DC 0 down 5 lctrl 0.444341897964
+kave SNARC line arabic DC 0 up 5 num_separator 0.639890909195
+kave SNARC line arabic DC 0 up 8 num_separator 0.371361970901
+kave SNARC line arabic DC 0 down 7 lctrl 0.41087603569
+kave SNARC line arabic DC 0 down 7 lctrl 0.36855006218
+kave SNARC line arabic DC 0 up 6 num_separator 0.423254013062
+kave SNARC line arabic DC 0 down 8 lctrl 0.476891994476
+kave SNARC line arabic DC 0 down 6 lctrl 0.407423019409
+kave SNARC line arabic DC 0 up 1 num_separator 0.404878139496
+kave SNARC line arabic DC 0 down 7 lctrl 0.586758136749
+kave SNARC line arabic DC 0 down 1 lctrl 0.400663137436
+kave SNARC line arabic DC 0 down 2 lctrl 0.342432022095
+kave SNARC line arabic DC 0 up 7 num_separator 0.4306640625
+kave SNARC line arabic DC 0 up 4 num_separator 0.482813835144
+kave SNARC line arabic DC 0 down 7 lctrl 0.453420877457
+kave SNARC line arabic DC 0 up 5 num_separator 0.512573957443
+kave SNARC line arabic DC 0 up 5 num_separator 0.354038953781
+kave SNARC line arabic DC 0 up 6 num_separator 0.362108945847
+kave SNARC line arabic DC 0 down 3 lctrl 0.369829177856
+kave SNARC line arabic DC 0 down 6 lctrl 0.401233911514
+kave SNARC line arabic DC 0 up 5 lctrl 0.302753925323
+kave SNARC line arabic DC 0 up 6 num_separator 0.432331800461
+kave SNARC line arabic DC 0 down 9 lctrl 0.389154911041
+kave SNARC line arabic DC 0 down 4 lctrl 0.467461109161
+kave SNARC line arabic DC 0 up 2 num_separator 0.38213300705
+kave SNARC line arabic DC 0 down 2 lctrl 0.404927968979
+kave SNARC line arabic DC 0 down 2 lctrl 0.386663198471
+kave SNARC line arabic DC 0 up 2 num_separator 0.416472196579
+kave SNARC line arabic DC 0 down 3 lctrl 0.414053916931
+kave SNARC line arabic DC 0 down 9 lctrl 0.754791975021
+kave SNARC line arabic DC 0 up 2 num_separator 0.497390031815
+kave SNARC line arabic DC 0 up 3 num_separator 0.354578018188
+kave SNARC line arabic DC 0 up 3 num_separator 0.330457925797
+kave SNARC line arabic DC 0 down 3 lctrl 0.547425985336
+kave SNARC line arabic DC 0 up 3 num_separator 0.435306787491
+kave SNARC line arabic DC 0 down 6 lctrl 0.471932888031
+kave SNARC line arabic DC 0 down 6 lctrl 0.38655090332
+kave SNARC line arabic DC 0 down 7 lctrl 0.392917156219
+kave SNARC line arabic DC 0 up 5 num_separator 0.431125164032
+kave SNARC line arabic DC 0 up 1 num_separator 0.419162988663
+kave SNARC line arabic DC 0 down 7 lctrl 0.456918001175
+kave SNARC line arabic DC 0 up 4 num_separator 0.403807163239
+kave SNARC line arabic DC 0 down 4 lctrl 0.433903932571
+kave SNARC line arabic DC 0 down 9 lctrl 0.438114881516
+kave SNARC line arabic DC 0 down 7 lctrl 0.362241029739
+kave SNARC line arabic DC 0 down 4 lctrl 0.346330881119
+kave SNARC line arabic DC 0 down 3 lctrl 0.546834945679
+kave SNARC line arabic DC 0 up 7 num_separator 0.458263874054
+kave SNARC line arabic DC 0 down 6 lctrl 0.414440155029
+kave SNARC line arabic DC 0 down 2 lctrl 0.363291025162
+kave SNARC line arabic DC 0 down 7 lctrl 0.347019910812
+kave SNARC line arabic DC 0 up 2 num_separator 0.458591938019
+kave SNARC line arabic DC 0 up 8 num_separator 0.510195970535
+kave SNARC line arabic DC 0 up 5 num_separator 0.367569923401
+kave SNARC line arabic DC 0 up 4 num_separator 0.310745954514
+kave SNARC line arabic DC 0 up 1 num_separator 0.368981122971
+kave SNARC line arabic DC 0 down 8 lctrl 0.536643028259
+kave SNARC line arabic DC 0 down 6 lctrl 0.376605987549
+kave SNARC line arabic DC 0 down 5 lctrl 0.383900165558
+kave SNARC line arabic DC 0 down 6 lctrl 0.445863008499
+kave SNARC line arabic DC 0 up 9 num_separator 0.417776107788
+kave SNARC line arabic DC 0 up 4 num_separator 0.422621011734
+kave SNARC line arabic DC 0 up 3 num_separator 0.395520210266
+kave SNARC line arabic DC 0 down 3 lctrl 0.458410024643
+kave SNARC line arabic DC 0 down 4 lctrl 0.366055011749
+kave SNARC line arabic DC 0 up 1 num_separator 0.404715776443
+kave SNARC line arabic DC 0 down 3 lctrl 0.474919080734
+kave SNARC line arabic DC 0 down 1 lctrl 0.405673027039
+kave SNARC line arabic DC 0 down 3 lctrl 0.363479137421
+kave SNARC line arabic DC 0 up 8 num_separator 0.506772994995
+kave SNARC line arabic DC 0 up 4 num_separator 0.452700138092
+kave SNARC line arabic DC 0 down 5 lctrl 0.472252845764
+kave SNARC line arabic DC 0 down 8 lctrl 0.435052871704
+kave SNARC line arabic DC 0 down 2 lctrl 0.415421962738
+kave SNARC line arabic DC 0 down 1 lctrl 0.340316057205
+kave SNARC line arabic DC 0 down 5 lctrl 0.348901987076
+kave SNARC line arabic DC 0 up 7 num_separator 0.396369934082
+kave SNARC line arabic DC 0 down 5 lctrl 0.395249843597
+kave SNARC line arabic DC 0 up 2 num_separator 0.521214962006
+kave SNARC line arabic DC 0 down 7 lctrl 0.61824798584
+kave SNARC line arabic DC 0 up 6 num_separator 0.438292980194
+kave SNARC line arabic DC 0 up 4 num_separator 0.402498006821
+kave SNARC line arabic DC 0 up 1 num_separator 0.384232997894
+kave SNARC line arabic DC 0 down 5 lctrl 0.383008003235
+kave SNARC line arabic DC 0 down 7 lctrl 0.573377132416
+kave SNARC line arabic DC 0 down 3 lctrl 0.388054132462
+kave SNARC line arabic DC 0 down 9 lctrl 0.378373146057
+kave SNARC line arabic DC 0 down 6 lctrl 0.305469989777
+kave SNARC line arabic DC 0 down 7 lctrl 0.363651990891
+kave SNARC line arabic DC 0 down 4 lctrl 0.33177614212
+kave SNARC line arabic DC 0 up 7 num_separator 0.699559926987
+kave SNARC line arabic DC 0 down 2 lctrl 0.468821048737
+kave SNARC line arabic DC 0 up 6 num_separator 0.431347846985
+kave SNARC line arabic DC 0 up 4 num_separator 0.33154296875
+kave SNARC line arabic DC 0 up 7 num_separator 0.348000049591
+kave SNARC line arabic DC 0 down 1 lctrl 0.484452009201
+kave SNARC line arabic DC 0 up 4 num_separator 0.462033033371
+kave SNARC line arabic DC 0 up 3 num_separator 0.521623134613
+kave SNARC line arabic DC 0 up 4 num_separator 0.330288887024
+kave SNARC line arabic DC 0 up 1 num_separator 0.317399024963
+kave SNARC line arabic DC 0 down 1 lctrl 0.47661280632
+kave SNARC line arabic DC 0 down 4 lctrl 0.439419984818
+kave SNARC line arabic DC 0 up 3 num_separator 0.411254882812
+kave SNARC line arabic DC 0 up 4 num_separator 0.368983030319
+kave SNARC line arabic DC 0 down 6 lctrl 0.416529893875
+kave SNARC line arabic DC 0 down 8 lctrl 0.39741897583
+kave SNARC line arabic DC 0 up 9 num_separator 0.394912004471
+{'participant': u'kave', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_17_1151', 'autopilot': False, 'exp_id': u'SNARC'}
+kave SNARC_only CD 7 num_separator 1.11530303955
+kave SNARC_only CD 5 num_separator 1.26660084724
+kave SNARC_only CD 9 num_separator 0.570998191833
+kave SNARC_only CD 8 lctrl 0.457870960236
+kave SNARC_only CD 1 num_separator 0.765436887741
+kave SNARC_only CD 8 lctrl 0.715506076813
+kave SNARC_only CD 2 lctrl 0.691557884216
+kave SNARC_only CD 8 lctrl 0.428927898407
+kave SNARC_only CD 4 lctrl 0.66594004631
+kave SNARC_only CD 1 num_separator 0.531738042831
+kave SNARC_only CD 3 num_separator 0.611737012863
+kave SNARC_only CD 6 lctrl 0.6012840271
+kave SNARC_only CD 8 lctrl 0.582310914993
+kave SNARC_only CD 2 lctrl 0.756152868271
+kave SNARC_only CD 8 lctrl 0.427129030228
+kave SNARC_only CD 4 lctrl 0.57573890686
+kave SNARC_only CD 1 num_separator 0.541823148727
+kave SNARC_only CD 8 lctrl 0.766152143478
+kave SNARC_only CD 5 num_separator 0.611785888672
+kave SNARC_only CD 6 lctrl 0.67315196991
+kave SNARC_only CD 9 num_separator 0.531076192856
+kave SNARC_only CD 6 lctrl 0.891185998917
+kave SNARC_only CD 8 lctrl 0.492349863052
+kave SNARC_only CD 3 num_separator 0.446063995361
+kave SNARC_only CD 6 lctrl 0.498797893524
+kave SNARC_only CD 5 num_separator 0.499642848969
+kave SNARC_only CD 3 num_separator 0.516986846924
+kave SNARC_only CD 5 num_separator 0.509673118591
+kave SNARC_only CD 7 num_separator 0.43141913414
+kave SNARC_only CD 2 lctrl 0.459927082062
+kave SNARC_only CD 6 lctrl 0.583278894424
+kave SNARC_only CD 2 num_separator 0.460360765457
+kave SNARC_only CD 6 lctrl 0.455929040909
+kave SNARC_only CD 2 lctrl 0.491460084915
+kave SNARC_only CD 6 lctrl 0.333547830582
+kave SNARC_only CD 3 num_separator 0.525855064392
+kave SNARC_only CD 6 lctrl 0.462721824646
+kave SNARC_only CD 5 num_separator 0.673876047134
+kave SNARC_only CD 1 num_separator 0.460119962692
+kave SNARC_only CD 2 lctrl 0.552000999451
+kave SNARC_only CD 6 lctrl 0.527333021164
+kave SNARC_only CD 9 num_separator 0.590983867645
+kave SNARC_only CD 5 num_separator 0.604856014252
+kave SNARC_only CD 5 num_separator 0.689846992493
+kave SNARC_only CD 8 lctrl 0.539710998535
+kave SNARC_only CD 2 lctrl 0.635694980621
+kave SNARC_only CD 2 lctrl 0.423350095749
+kave SNARC_only CD 8 lctrl 0.396315097809
+kave SNARC_only CD 6 lctrl 0.450706958771
+kave SNARC_only CD 1 num_separator 0.82964015007
+kave SNARC_only CD 4 lctrl 0.546487092972
+kave SNARC_only CD 4 lctrl 0.441843032837
+kave SNARC_only CD 6 lctrl 0.37421298027
+kave SNARC_only CD 8 lctrl 0.445331096649
+kave SNARC_only CD 3 num_separator 0.417287826538
+kave SNARC_only CD 8 lctrl 0.486654043198
+kave SNARC_only CD 9 num_separator 0.584300041199
+kave SNARC_only CD 4 lctrl 1.06277799606
+kave SNARC_only CD 3 num_separator 0.727739095688
+kave SNARC_only CD 4 lctrl 0.464339017868
+kave SNARC_only CD 7 num_separator 0.66676902771
+kave SNARC_only CD 3 num_separator 0.54092001915
+kave SNARC_only CD 4 lctrl 0.525228977203
+kave SNARC_only CD 4 lctrl 0.390179872513
+kave SNARC_only CD 5 num_separator 0.644037008286
+kave SNARC_only CD 8 lctrl 0.479950904846
+kave SNARC_only CD 9 num_separator 0.57856798172
+kave SNARC_only CD 8 lctrl 0.473263978958
+kave SNARC_only CD 6 lctrl 0.812300920486
+kave SNARC_only CD 2 lctrl 0.729135990143
+kave SNARC_only CD 1 num_separator 0.608452796936
+kave SNARC_only CD 2 lctrl 0.629729986191
+kave SNARC_only CD 7 num_separator 0.513812065125
+kave SNARC_only CD 5 num_separator 0.539385080338
+kave SNARC_only CD 1 num_separator 0.475117921829
+kave SNARC_only CD 7 num_separator 0.510030031204
+kave SNARC_only CD 4 lctrl 0.599728107452
+kave SNARC_only CD 7 num_separator 0.548461198807
+kave SNARC_only CD 4 lctrl 0.804050922394
+kave SNARC_only CD 5 num_separator 0.608227968216
+kave SNARC_only CD 4 lctrl 0.557667970657
+kave SNARC_only CD 9 num_separator 0.564495801926
+kave SNARC_only CD 4 lctrl 0.515904903412
+kave SNARC_only CD 4 lctrl 0.684096097946
+kave SNARC_only CD 5 num_separator 0.565146923065
+kave SNARC_only CD 9 num_separator 0.523736953735
+kave SNARC_only CD 9 num_separator 0.527397155762
+kave SNARC_only CD 9 num_separator 0.430686950684
+kave SNARC_only CD 1 num_separator 0.52215886116
+kave SNARC_only CD 2 lctrl 0.523221969604
+kave SNARC_only CD 4 lctrl 0.41982793808
+kave SNARC_only CD 4 lctrl 0.353029966354
+kave SNARC_only CD 3 num_separator 0.512331962585
+kave SNARC_only CD 1 num_separator 0.569667100906
+kave SNARC_only CD 3 num_separator 0.416278839111
+kave SNARC_only CD 3 num_separator 0.341143846512
+kave SNARC_only CD 6 lctrl 0.478197097778
+kave SNARC_only CD 6 lctrl 0.288985013962
+kave SNARC_only CD 8 lctrl 0.339745998383
+kave SNARC_only CD 1 num_separator 0.411689043045
+kave SNARC_only CD 7 lctrl 0.466034889221
+kave SNARC_only CD 3 num_separator 0.644453048706
+kave SNARC_only CD 3 num_separator 0.359876871109
+kave SNARC_only CD 4 lctrl 0.440148830414
+kave SNARC_only CD 1 num_separator 0.628165006638
+kave SNARC_only CD 3 num_separator 0.472631931305
+kave SNARC_only CD 9 lctrl 0.475771903992
+kave SNARC_only CD 7 num_separator 0.582187891006
+kave SNARC_only CD 8 lctrl 0.540519952774
+kave SNARC_only CD 2 lctrl 0.620277881622
+kave SNARC_only CD 5 num_separator 0.472447156906
+kave SNARC_only CD 3 num_separator 0.435199022293
+kave SNARC_only CD 7 num_separator 0.519479990005
+kave SNARC_only CD 8 lctrl 0.512702941895
+kave SNARC_only CD 5 num_separator 0.489506006241
+kave SNARC_only CD 4 lctrl 0.628066062927
+kave SNARC_only CD 5 num_separator 0.560126066208
+kave SNARC_only CD 8 lctrl 0.503558158875
+kave SNARC_only CD 6 lctrl 0.720983982086
+kave SNARC_only CD 2 lctrl 0.617122173309
+kave SNARC_only CD 6 lctrl 0.493548870087
+kave SNARC_only CD 9 num_separator 0.447375059128
+kave SNARC_only CD 6 lctrl 0.491245031357
+kave SNARC_only CD 4 lctrl 0.693367958069
+kave SNARC_only CD 1 num_separator 0.542479991913
+kave SNARC_only CD 6 lctrl 0.518764972687
+kave SNARC_only CD 5 lctrl 0.463493108749
+kave SNARC_only CD 3 num_separator 1.44255208969
+kave SNARC_only CD 3 num_separator 0.467722892761
+kave SNARC_only CD 6 lctrl 0.934942007065
+kave SNARC_only CD 1 num_separator 0.549302101135
+kave SNARC_only CD 4 lctrl 0.548895835876
+kave SNARC_only CD 7 num_separator 0.571750879288
+kave SNARC_only CD 1 num_separator 0.482542037964
+kave SNARC_only CD 9 num_separator 0.524331092834
+kave SNARC_only CD 3 num_separator 0.581501960754
+kave SNARC_only CD 3 num_separator 0.450883865356
+kave SNARC_only CD 4 lctrl 0.502809047699
+kave SNARC_only CD 6 lctrl 0.376129150391
+kave SNARC_only CD 4 lctrl 0.455347061157
+kave SNARC_only CD 7 num_separator 0.490658998489
+kave SNARC_only CD 8 lctrl 0.604911088943
+kave SNARC_only CD 2 lctrl 0.514137983322
+kave SNARC_only CD 1 num_separator 0.515042066574
+kave SNARC_only CD 3 num_separator 0.411731004715
+kave SNARC_only CD 8 lctrl 0.46591591835
+kave SNARC_only CD 1 num_separator 0.732288122177
+kave SNARC_only CD 6 lctrl 0.420526981354
+kave SNARC_only CD 1 num_separator 0.456576108932
+kave SNARC_only CD 6 lctrl 0.436598062515
+kave SNARC_only CD 2 lctrl 0.608852148056
+kave SNARC_only CD 8 lctrl 0.382495880127
+kave SNARC_only CD 8 lctrl 0.292257070541
+kave SNARC_only CD 2 lctrl 0.479478120804
+kave SNARC_only CD 3 lctrl 0.354036092758
+kave SNARC_only CD 2 lctrl 0.513699054718
+kave SNARC_only CD 3 num_separator 0.434802055359
+kave SNARC_only CD 7 num_separator 0.495109081268
+kave SNARC_only CD 6 lctrl 0.473689079285
+kave SNARC_only CD 4 lctrl 0.580332994461
+kave SNARC_only CD 8 lctrl 0.395004034042
+kave SNARC_only CD 2 lctrl 0.521232843399
+kave SNARC_only CD 7 num_separator 0.577631950378
+kave SNARC_only CD 9 num_separator 0.680135965347
+kave SNARC_only CD 2 lctrl 0.578716993332
+kave SNARC_only CD 4 lctrl 0.433555841446
+kave SNARC_only CD 1 num_separator 0.565207958221
+kave SNARC_only CD 2 lctrl 0.500617027283
+kave SNARC_only CD 5 num_separator 0.629097938538
+kave SNARC_only CD 5 num_separator 0.409363031387
+kave SNARC_only CD 9 num_separator 0.447286128998
+kave SNARC_only CD 5 lctrl 0.451205015182
+kave SNARC_only CD 6 lctrl 0.414577960968
+kave SNARC_only CD 1 num_separator 0.531270027161
+kave SNARC_only CD 8 lctrl 0.53956580162
+kave SNARC_only CD 6 lctrl 0.499480962753
+kave SNARC_only CD 3 num_separator 0.564642190933
+kave SNARC_only CD 8 lctrl 0.475342988968
+kave SNARC_only CD 5 num_separator 0.485862970352
+kave SNARC_only CD 9 num_separator 0.927979946136
+kave SNARC_only CD 5 num_separator 0.519489049911
+kave SNARC_only CD 2 lctrl 0.584508895874
+kave SNARC_only CD 9 num_separator 1.57396697998
+kave SNARC_only CD 2 lctrl 0.489845991135
+kave SNARC_only CD 6 lctrl 0.484061956406
+kave SNARC_only CD 6 lctrl 0.374075174332
+kave SNARC_only CD 4 lctrl 0.524886846542
+kave SNARC_only CD 1 num_separator 0.429569005966
+kave SNARC_only CD 2 lctrl 0.618748188019
+kave SNARC_only CD 2 lctrl 0.455223083496
+kave SNARC_only CD 2 lctrl 0.3306620121
+kave SNARC_only CD 8 lctrl 0.507184028625
+kave SNARC_only CD 3 num_separator 0.580237150192
+kave SNARC_only CD 1 num_separator 0.866787910461
+kave SNARC_only CD 7 num_separator 0.564445018768
+kave SNARC_only CD 8 lctrl 0.491277933121
+kave SNARC_only CD 7 num_separator 0.525043010712
+kave SNARC_only CD 8 lctrl 0.5020840168
+kave SNARC_only CD 5 num_separator 0.527236938477
+kave SNARC_only CD 3 num_separator 0.519654989243
+kave SNARC_only CD 8 lctrl 0.489054918289
+kave SNARC_only CD 1 num_separator 0.546457052231
+kave SNARC_only CD 9 num_separator 0.930552959442
+kave SNARC_only CD 3 num_separator 0.474366903305
+kave SNARC_only CD 9 num_separator 0.860989093781
+kave SNARC_only CD 4 lctrl 0.711450815201
+kave SNARC_only CD 9 num_separator 0.543846130371
+kave SNARC_only CD 4 lctrl 0.504146814346
+kave SNARC_only CD 1 num_separator 0.513616800308
+kave SNARC_only CD 4 lctrl 0.619241952896
+kave SNARC_only CD 7 num_separator 0.639107942581
+kave SNARC_only CD 7 num_separator 0.402548789978
+kave SNARC_only CD 5 num_separator 0.48025894165
+kave SNARC_only CD 4 num_separator 0.347249031067
+kave SNARC_only CD 1 num_separator 0.866998910904
+kave SNARC_only CD 9 num_separator 0.772634029388
+kave SNARC_only CD 9 num_separator 0.426446914673
+kave SNARC_only CD 9 num_separator 0.359477996826
+kave SNARC_only CD 8 lctrl 0.55215215683
+kave SNARC_only CD 5 num_separator 0.550563097
+kave SNARC_only CD 9 num_separator 0.597774982452
+kave SNARC_only CD 5 num_separator 0.667026996613
+kave SNARC_only CD 3 num_separator 0.525229930878
+kave SNARC_only CD 7 num_separator 0.557917118073
+kave SNARC_only CD 1 num_separator 0.533069133759
+kave SNARC_only CD 5 num_separator 0.500915050507
+kave SNARC_only CD 7 num_separator 0.494333982468
+kave SNARC_only CD 9 num_separator 0.464587926865
+kave SNARC_only CD 8 lctrl 0.795758008957
+kave SNARC_only CD 7 num_separator 0.552485942841
+kave SNARC_only CD 5 num_separator 0.479955911636
+kave SNARC_only CD 1 num_separator 0.418678045273
+kave SNARC_only CD 5 num_separator 0.415528059006
+kave SNARC_only CD 8 lctrl 0.532950878143
+kave SNARC_only CD 1 num_separator 0.428526878357
+kave SNARC_only CD 1 num_separator 0.481296062469
+kave SNARC_only CD 3 num_separator 0.539604187012
+kave SNARC_only CD 1 num_separator 0.915668010712
+kave SNARC_only CD 9 num_separator 0.555400133133
+kave SNARC_only CD 3 num_separator 0.410337924957
+kave SNARC_only CD 7 num_separator 0.503983974457
+kave SNARC_only CD 6 lctrl 0.385762214661
+kave SNARC_only CD 5 num_separator 0.527831077576
+kave SNARC_only CD 5 num_separator 0.352344989777
+kave SNARC_only CD 8 lctrl 0.48860502243
+kave SNARC_only CD 4 num_separator 0.474367856979
+kave SNARC_only CD 6 lctrl 0.549645900726
+kave SNARC_only CD 9 num_separator 1.42846989632
+kave SNARC_only CD 2 lctrl 0.542907953262
+kave SNARC_only CD 3 num_separator 0.606337070465
+kave SNARC_only CD 4 lctrl 0.427823066711
+kave SNARC_only CD 3 num_separator 0.584951877594
+kave SNARC_only CD 8 lctrl 0.438512086868
+kave SNARC_only CD 9 num_separator 0.922478914261
+kave SNARC_only CD 5 num_separator 0.498124837875
+kave SNARC_only CD 3 num_separator 0.515315771103
+kave SNARC_only CD 2 lctrl 0.604402065277
+kave SNARC_only CD 5 num_separator 0.585099935532
+kave SNARC_only CD 4 lctrl 0.895255088806
+kave SNARC_only CD 7 num_separator 0.503797054291
+kave SNARC_only CD 6 lctrl 0.569446802139
+kave SNARC_only CD 9 num_separator 0.55995798111
+kave SNARC_only CD 2 lctrl 0.591760158539
+kave SNARC_only CD 9 num_separator 0.485059022903
+kave SNARC_only CD 6 lctrl 0.615074872971
+kave SNARC_only CD 2 num_separator 0.467149972916
+kave SNARC_only CD 2 lctrl 0.462506055832
+kave SNARC_only CD 7 num_separator 0.52956199646
+kave SNARC_only CD 3 num_separator 0.530284881592
+kave SNARC_only CD 5 num_separator 0.738928079605
+kave SNARC_only CD 7 num_separator 0.578323841095
+kave SNARC_only CD 1 num_separator 0.58488702774
+kave SNARC_only CD 9 num_separator 0.71040892601
+kave SNARC_only CD 4 lctrl 0.527909040451
+kave SNARC_only CD 7 num_separator 0.576125860214
+kave SNARC_only CD 9 num_separator 0.614689826965
+kave SNARC_only CD 6 lctrl 0.651249885559
+kave SNARC_only CD 6 lctrl 0.414242982864
+kave SNARC_only CD 7 num_separator 0.490753889084
+kave SNARC_only CD 7 num_separator 0.804995059967
+kave SNARC_only CD 8 lctrl 0.4975669384
+kave SNARC_only CD 7 num_separator 0.490854978561
+kave SNARC_only CD 2 lctrl 0.685301065445
+kave SNARC_only CD 4 lctrl 0.518779039383
+kave SNARC_only CD 8 lctrl 0.399644136429
+kave SNARC_only CD 2 lctrl 0.477231025696
+kave SNARC_only CD 3 num_separator 0.671797990799
+kave SNARC_only CD 6 lctrl 0.554227828979
+kave SNARC_only CD 6 lctrl 0.433539867401
+kave SNARC_only CD 7 num_separator 0.469392776489
+kave SNARC_only CD 6 lctrl 0.60044503212
+kave SNARC_only CD 2 lctrl 0.645627975464
+kave SNARC_only CD 9 num_separator 0.792869091034
+kave SNARC_only CD 9 num_separator 0.718080043793
+kave SNARC_only CD 6 lctrl 0.678560972214
+kave SNARC_only CD 7 num_separator 2.07235693932
+kave SNARC_only CD 3 num_separator 0.462593078613
+kave SNARC_only CD 7 num_separator 0.353785991669
+kave SNARC_only CD 3 num_separator 0.977587938309
+kave SNARC_only CD 2 lctrl 0.567250967026
+kave SNARC_only CD 7 num_separator 0.565551042557
+kave SNARC_only CD 2 lctrl 1.74032211304
+kave SNARC_only CD 1 num_separator 0.608183145523
+kave SNARC_only CD 9 num_separator 0.709275007248
+kave SNARC_only CD 7 num_separator 0.374356031418
+kave SNARC_only CD 5 num_separator 1.41317296028
+kave SNARC_only CD 8 lctrl 0.688117980957
+kave SNARC_only CD 1 num_separator 1.08086895943
+kave SNARC_only CD 7 num_separator 0.754255056381
+kave SNARC_only CD 3 num_separator 0.440814971924
+kave SNARC_only CD 2 lctrl 0.469488859177
+kave SNARC_only CD 4 lctrl 0.496520996094
+kave SNARC_only CD 5 lctrl 0.378448009491
+kave SNARC_only CD 7 num_separator 0.649564027786
+kave SNARC_only CD 1 num_separator 0.516062021255
+kave SNARC_only CD 4 lctrl 0.541353940964
+kave SNARC_only CD 1 num_separator 0.540816068649
+kave SNARC_only CD 2 lctrl 0.565067052841
+kave SNARC_only CD 2 lctrl 0.363658905029
+kave SNARC_only CD 1 num_separator 0.450528144836
+kave SNARC_only CD 7 num_separator 0.566071033478
+kave SNARC_only CD 5 num_separator 0.500485897064
+kave SNARC_only CD 4 num_separator 0.429882049561
+kave SNARC_only CD 8 lctrl 0.427308082581
+kave SNARC_only CD 5 num_separator 0.472276926041
+kave SNARC_only CD 7 num_separator 0.874866962433
+kave SNARC_only CD 9 num_separator 0.428911924362
+kave SNARC_only CD 7 num_separator 0.40905880928
+kave SNARC_only CD 5 num_separator 0.550998926163
+kave SNARC_only CD 5 num_separator 0.446322917938
+kave SNARC_only CD 6 lctrl 0.618722915649
+kave SNARC_only CD 6 lctrl 0.359201908112
+kave SNARC_only CD 2 lctrl 0.551086187363
+kave SNARC_only CD 4 lctrl 0.414520025253
+kave SNARC_only CD 3 num_separator 0.506832122803
+kave SNARC_only CD 1 num_separator 0.884327888489
+kave SNARC_only CD 6 lctrl 0.501615047455
+kave SNARC_only CD 8 lctrl 0.415000915527
+kave SNARC_only CD 2 lctrl 0.604032039642
+kave SNARC_only CD 9 num_separator 0.504755973816
+kave SNARC_only CD 4 lctrl 0.490400075912
+kave SNARC_only CD 1 num_separator 0.708056211472
+kave SNARC_only CD 5 num_separator 0.685153007507
+kave SNARC_only CD 9 num_separator 0.414364099503
+kave SNARC_only CD 9 num_separator 0.387485027313
+kave SNARC_only CD 9 num_separator 0.31394982338
+kave SNARC_only CD 3 num_separator 0.531164169312
+kave SNARC_only CD 3 num_separator 0.371260881424
+kave SNARC_only CD 3 num_separator 0.346317052841
+kave SNARC_only CD 4 lctrl 0.515367984772
+kave SNARC_only CD 5 num_separator 0.603529214859
+kave SNARC_only CD 1 num_separator 0.496667861938
+kave SNARC_only CD 8 lctrl 0.523165941238
+kave SNARC_only CD 7 num_separator 0.659291028976
+kave SNARC_only CD 7 num_separator 0.446290969849
+kave SNARC_only CD 1 num_separator 0.506557941437
+kave SNARC_only CD 1 num_separator 0.388000965118
+kave SNARC_only CD 8 lctrl 0.427067995071
+kave SNARC_only CD 4 lctrl 0.511756181717
+kave SNARC_only CD 9 num_separator 0.600823879242
+{'participant': u'kave', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_17_1201', 'autopilot': False, 'exp_id': u'SNARC'}
+kave SNARC_only DC 4 num_separator 0.584595918655
+kave SNARC_only DC 3 lctrl 0.42294216156
+kave SNARC_only DC 1 lctrl 0.571807146072
+kave SNARC_only DC 4 num_separator 0.378023862839
+kave SNARC_only DC 3 lctrl 0.561867237091
+kave SNARC_only DC 2 lctrl 0.360696077347
+kave SNARC_only DC 1 lctrl 1.89625191689
+kave SNARC_only DC 7 lctrl 0.733649969101
+kave SNARC_only DC 8 num_separator 0.556694030762
+kave SNARC_only DC 8 num_separator 0.38788819313
+kave SNARC_only DC 8 num_separator 0.33035492897
+kave SNARC_only DC 5 lctrl 0.443436861038
+kave SNARC_only DC 8 num_separator 1.27122592926
+kave SNARC_only DC 6 num_separator 0.503747224808
+kave SNARC_only DC 4 num_separator 0.513053894043
+kave SNARC_only DC 7 lctrl 0.594827890396
+kave SNARC_only DC 2 num_separator 0.776118993759
+kave SNARC_only DC 4 num_separator 0.646174907684
+kave SNARC_only DC 1 lctrl 0.538130044937
+kave SNARC_only DC 7 lctrl 0.602088928223
+kave SNARC_only DC 6 num_separator 0.53470993042
+kave SNARC_only DC 3 lctrl 1.07901000977
+kave SNARC_only DC 7 lctrl 0.528115987778
+kave SNARC_only DC 1 lctrl 0.448973178864
+kave SNARC_only DC 5 lctrl 0.36433506012
+kave SNARC_only DC 6 num_separator 0.354914188385
+kave SNARC_only DC 8 num_separator 0.33907699585
+kave SNARC_only DC 1 lctrl 0.620090961456
+kave SNARC_only DC 6 num_separator 0.736032962799
+kave SNARC_only DC 4 num_separator 0.575223922729
+kave SNARC_only DC 5 num_separator 0.381762981415
+kave SNARC_only DC 6 num_separator 0.748482942581
+kave SNARC_only DC 6 num_separator 0.338733911514
+kave SNARC_only DC 4 num_separator 0.635324001312
+kave SNARC_only DC 8 num_separator 0.478963851929
+kave SNARC_only DC 4 num_separator 0.577708005905
+kave SNARC_only DC 5 lctrl 0.496783971786
+kave SNARC_only DC 3 lctrl 0.618845939636
+kave SNARC_only DC 5 num_separator 0.454862117767
+kave SNARC_only DC 9 lctrl 1.22674608231
+kave SNARC_only DC 5 lctrl 0.476438045502
+kave SNARC_only DC 2 num_separator 0.59916806221
+kave SNARC_only DC 1 lctrl 1.04441308975
+kave SNARC_only DC 7 lctrl 0.462896823883
+kave SNARC_only DC 9 lctrl 0.378731012344
+kave SNARC_only DC 9 lctrl 0.36186504364
+kave SNARC_only DC 7 lctrl 0.457326889038
+kave SNARC_only DC 9 lctrl 0.412924051285
+kave SNARC_only DC 2 num_separator 0.442336797714
+kave SNARC_only DC 4 num_separator 0.408967018127
+kave SNARC_only DC 4 num_separator 0.396259069443
+kave SNARC_only DC 2 num_separator 0.490610122681
+kave SNARC_only DC 1 lctrl 0.589177846909
+kave SNARC_only DC 3 lctrl 0.619009017944
+kave SNARC_only DC 5 lctrl 0.495498895645
+kave SNARC_only DC 1 lctrl 0.473604917526
+kave SNARC_only DC 8 num_separator 0.995758056641
+kave SNARC_only DC 7 lctrl 0.616797924042
+kave SNARC_only DC 3 lctrl 0.709273099899
+kave SNARC_only DC 6 num_separator 0.550017118454
+kave SNARC_only DC 8 num_separator 0.412852048874
+kave SNARC_only DC 8 num_separator 0.346598863602
+kave SNARC_only DC 8 num_separator 0.307087898254
+kave SNARC_only DC 3 lctrl 0.533484220505
+kave SNARC_only DC 3 lctrl 0.413498878479
+kave SNARC_only DC 5 lctrl 0.555588006973
+kave SNARC_only DC 7 lctrl 0.434459924698
+kave SNARC_only DC 9 lctrl 0.454954147339
+kave SNARC_only DC 1 lctrl 0.450450897217
+kave SNARC_only DC 5 lctrl 0.45388007164
+kave SNARC_only DC 3 lctrl 0.433242082596
+kave SNARC_only DC 6 num_separator 0.780991077423
+kave SNARC_only DC 2 num_separator 0.723268032074
+kave SNARC_only DC 6 num_separator 0.835191965103
+kave SNARC_only DC 5 lctrl 0.526709079742
+kave SNARC_only DC 9 lctrl 0.559335947037
+kave SNARC_only DC 7 lctrl 0.662620067596
+kave SNARC_only DC 8 num_separator 0.865130186081
+kave SNARC_only DC 4 lctrl 0.675353050232
+kave SNARC_only DC 2 num_separator 0.6448969841
+kave SNARC_only DC 2 num_separator 0.536535024643
+kave SNARC_only DC 1 lctrl 0.600961208344
+kave SNARC_only DC 5 lctrl 0.534216165543
+kave SNARC_only DC 5 lctrl 0.445901155472
+kave SNARC_only DC 9 lctrl 0.658179044724
+kave SNARC_only DC 6 lctrl 0.565275192261
+kave SNARC_only DC 3 lctrl 0.58754491806
+kave SNARC_only DC 3 lctrl 0.361392974854
+kave SNARC_only DC 1 lctrl 0.449176073074
+kave SNARC_only DC 9 lctrl 0.612847089767
+kave SNARC_only DC 8 num_separator 0.545547962189
+kave SNARC_only DC 2 num_separator 0.441351890564
+kave SNARC_only DC 4 num_separator 0.40580201149
+kave SNARC_only DC 6 num_separator 0.403435945511
+kave SNARC_only DC 8 num_separator 0.393320083618
+kave SNARC_only DC 7 lctrl 0.64805316925
+kave SNARC_only DC 9 lctrl 0.534312963486
+kave SNARC_only DC 6 num_separator 0.546504020691
+kave SNARC_only DC 2 num_separator 0.794934988022
+kave SNARC_only DC 8 num_separator 0.471655130386
+kave SNARC_only DC 4 num_separator 0.426519155502
+kave SNARC_only DC 1 lctrl 0.887923002243
+kave SNARC_only DC 7 lctrl 0.544704914093
+kave SNARC_only DC 6 num_separator 0.600431919098
+kave SNARC_only DC 2 num_separator 1.48541617393
+kave SNARC_only DC 8 num_separator 0.516450166702
+kave SNARC_only DC 3 lctrl 0.653314113617
+kave SNARC_only DC 3 lctrl 0.496462106705
+kave SNARC_only DC 7 lctrl 0.594516038895
+kave SNARC_only DC 9 lctrl 1.14420700073
+kave SNARC_only DC 4 num_separator 0.549932956696
+kave SNARC_only DC 2 num_separator 0.509124040604
+kave SNARC_only DC 2 num_separator 0.382899045944
+kave SNARC_only DC 5 lctrl 0.597434043884
+kave SNARC_only DC 7 lctrl 0.699074983597
+kave SNARC_only DC 8 num_separator 0.619639158249
+kave SNARC_only DC 8 num_separator 0.408024072647
+kave SNARC_only DC 1 lctrl 0.734217882156
+kave SNARC_only DC 5 lctrl 0.749469041824
+kave SNARC_only DC 9 lctrl 0.836110115051
+kave SNARC_only DC 7 lctrl 0.83105301857
+kave SNARC_only DC 3 lctrl 0.546921014786
+kave SNARC_only DC 2 num_separator 0.578417062759
+kave SNARC_only DC 3 lctrl 2.39354085922
+kave SNARC_only DC 6 num_separator 0.61712884903
+kave SNARC_only DC 7 lctrl 0.621850013733
+kave SNARC_only DC 6 num_separator 0.529894113541
+kave SNARC_only DC 8 num_separator 0.522547960281
+kave SNARC_only DC 9 lctrl 0.555620193481
+kave SNARC_only DC 9 num_separator 0.426408052444
+kave SNARC_only DC 4 num_separator 0.743665933609
+kave SNARC_only DC 5 lctrl 0.527101993561
+kave SNARC_only DC 9 lctrl 0.775975942612
+kave SNARC_only DC 2 num_separator 0.533448219299
+kave SNARC_only DC 9 lctrl 0.581713914871
+kave SNARC_only DC 6 num_separator 0.467190027237
+kave SNARC_only DC 2 num_separator 0.677914857864
+kave SNARC_only DC 1 lctrl 0.520637989044
+kave SNARC_only DC 6 num_separator 0.78477191925
+kave SNARC_only DC 5 lctrl 0.582489967346
+kave SNARC_only DC 1 lctrl 1.1247279644
+kave SNARC_only DC 4 num_separator 0.858702898026
+kave SNARC_only DC 3 lctrl 0.589423179626
+kave SNARC_only DC 7 lctrl 0.763041973114
+kave SNARC_only DC 4 num_separator 0.505362987518
+kave SNARC_only DC 5 lctrl 0.627166032791
+kave SNARC_only DC 1 lctrl 0.583359956741
+kave SNARC_only DC 3 lctrl 0.493271112442
+kave SNARC_only DC 9 lctrl 0.407676935196
+kave SNARC_only DC 7 lctrl 0.30908703804
+kave SNARC_only DC 6 lctrl 0.39909696579
+kave SNARC_only DC 7 lctrl 0.452863931656
+kave SNARC_only DC 6 num_separator 0.424309968948
+kave SNARC_only DC 4 num_separator 0.533008098602
+kave SNARC_only DC 1 lctrl 0.581478834152
+kave SNARC_only DC 4 lctrl 0.419363021851
+kave SNARC_only DC 1 lctrl 0.472065925598
+kave SNARC_only DC 4 num_separator 0.682445049286
+kave SNARC_only DC 5 lctrl 0.652287006378
+kave SNARC_only DC 3 num_separator 0.647000074387
+kave SNARC_only DC 6 num_separator 0.634720087051
+kave SNARC_only DC 7 lctrl 0.606647014618
+kave SNARC_only DC 5 lctrl 0.723732948303
+kave SNARC_only DC 5 lctrl 0.395659923553
+kave SNARC_only DC 1 lctrl 0.530179977417
+kave SNARC_only DC 4 num_separator 0.514514923096
+kave SNARC_only DC 2 num_separator 0.555346012115
+kave SNARC_only DC 3 lctrl 0.530853033066
+kave SNARC_only DC 4 lctrl 0.466783046722
+kave SNARC_only DC 2 num_separator 0.973245859146
+kave SNARC_only DC 9 lctrl 0.578835010529
+kave SNARC_only DC 7 lctrl 0.609405994415
+kave SNARC_only DC 9 lctrl 0.638815164566
+kave SNARC_only DC 8 num_separator 0.593774080276
+kave SNARC_only DC 4 num_separator 0.91179895401
+kave SNARC_only DC 9 lctrl 0.511959075928
+kave SNARC_only DC 9 lctrl 0.457378864288
+kave SNARC_only DC 4 num_separator 0.620649814606
+kave SNARC_only DC 1 lctrl 1.0096590519
+kave SNARC_only DC 1 lctrl 0.365254878998
+kave SNARC_only DC 1 lctrl 0.372381210327
+kave SNARC_only DC 6 num_separator 0.419162988663
+kave SNARC_only DC 4 num_separator 0.86462187767
+kave SNARC_only DC 1 lctrl 0.450911998749
+kave SNARC_only DC 6 num_separator 0.510116100311
+kave SNARC_only DC 5 lctrl 0.607802152634
+kave SNARC_only DC 3 lctrl 1.20480799675
+kave SNARC_only DC 8 num_separator 0.49569606781
+kave SNARC_only DC 4 num_separator 0.545844078064
+kave SNARC_only DC 3 lctrl 0.450278043747
+kave SNARC_only DC 3 lctrl 0.413707017899
+kave SNARC_only DC 1 lctrl 0.530701875687
+kave SNARC_only DC 4 num_separator 0.755200862885
+kave SNARC_only DC 5 lctrl 0.562038183212
+kave SNARC_only DC 4 num_separator 0.560832977295
+kave SNARC_only DC 8 num_separator 0.912153959274
+kave SNARC_only DC 4 num_separator 0.52821803093
+kave SNARC_only DC 7 lctrl 0.569272994995
+kave SNARC_only DC 6 num_separator 0.527498960495
+kave SNARC_only DC 1 lctrl 0.560516119003
+kave SNARC_only DC 5 num_separator 0.495379924774
+kave SNARC_only DC 1 lctrl 0.577913999557
+kave SNARC_only DC 7 lctrl 0.872417926788
+kave SNARC_only DC 8 num_separator 0.473594903946
+kave SNARC_only DC 2 num_separator 0.6044049263
+kave SNARC_only DC 2 num_separator 0.377496957779
+kave SNARC_only DC 2 num_separator 0.336642980576
+kave SNARC_only DC 7 lctrl 0.48169708252
+kave SNARC_only DC 2 num_separator 0.835496902466
+kave SNARC_only DC 3 lctrl 0.598973035812
+kave SNARC_only DC 9 lctrl 0.627863883972
+kave SNARC_only DC 5 lctrl 1.24844694138
+kave SNARC_only DC 3 lctrl 0.546064138412
+kave SNARC_only DC 9 lctrl 0.993959903717
+kave SNARC_only DC 3 lctrl 1.01467084885
+kave SNARC_only DC 9 lctrl 0.490432977676
+kave SNARC_only DC 8 lctrl 0.564479827881
+kave SNARC_only DC 1 lctrl 0.610955953598
+kave SNARC_only DC 8 num_separator 0.471681118011
+kave SNARC_only DC 1 lctrl 0.450914144516
+kave SNARC_only DC 2 num_separator 0.462146043777
+kave SNARC_only DC 2 num_separator 0.3862221241
+kave SNARC_only DC 3 lctrl 0.576330184937
+kave SNARC_only DC 5 lctrl 0.910825014114
+kave SNARC_only DC 6 num_separator 0.638772964478
+kave SNARC_only DC 2 num_separator 0.586400985718
+kave SNARC_only DC 5 lctrl 0.544869184494
+kave SNARC_only DC 7 lctrl 0.632449150085
+kave SNARC_only DC 3 num_separator 0.547819137573
+kave SNARC_only DC 5 lctrl 0.6599650383
+kave SNARC_only DC 8 num_separator 0.630222082138
+kave SNARC_only DC 4 num_separator 0.586318969727
+kave SNARC_only DC 9 lctrl 0.600547075272
+kave SNARC_only DC 9 lctrl 0.389719009399
+kave SNARC_only DC 8 num_separator 0.515641212463
+kave SNARC_only DC 2 num_separator 1.03625893593
+kave SNARC_only DC 9 lctrl 0.623305082321
+kave SNARC_only DC 6 num_separator 0.515079975128
+kave SNARC_only DC 7 lctrl 0.540055990219
+kave SNARC_only DC 8 num_separator 0.507707118988
+kave SNARC_only DC 6 num_separator 0.549102067947
+kave SNARC_only DC 5 lctrl 0.508993148804
+kave SNARC_only DC 1 lctrl 1.61415886879
+kave SNARC_only DC 9 lctrl 0.504335165024
+kave SNARC_only DC 7 lctrl 0.369445800781
+kave SNARC_only DC 4 num_separator 0.568112134933
+kave SNARC_only DC 9 lctrl 0.567203998566
+kave SNARC_only DC 5 lctrl 0.477648973465
+kave SNARC_only DC 7 lctrl 0.520457983017
+kave SNARC_only DC 6 num_separator 0.624772071838
+kave SNARC_only DC 5 lctrl 0.525564193726
+kave SNARC_only DC 7 lctrl 0.406197071075
+kave SNARC_only DC 4 lctrl 0.379982948303
+kave SNARC_only DC 2 num_separator 0.57071685791
+kave SNARC_only DC 2 num_separator 0.361196041107
+kave SNARC_only DC 4 num_separator 0.352966070175
+kave SNARC_only DC 8 num_separator 0.39315700531
+kave SNARC_only DC 1 lctrl 0.471848964691
+kave SNARC_only DC 2 num_separator 0.554194927216
+kave SNARC_only DC 2 num_separator 0.385439872742
+kave SNARC_only DC 9 lctrl 0.544321060181
+kave SNARC_only DC 3 lctrl 0.720208883286
+kave SNARC_only DC 6 num_separator 0.615831136703
+kave SNARC_only DC 9 lctrl 0.597054004669
+kave SNARC_only DC 7 lctrl 0.44232583046
+kave SNARC_only DC 3 lctrl 0.582791090012
+kave SNARC_only DC 6 num_separator 0.412134885788
+kave SNARC_only DC 2 num_separator 0.473961114883
+kave SNARC_only DC 6 num_separator 0.484619140625
+kave SNARC_only DC 4 num_separator 0.51069688797
+kave SNARC_only DC 5 lctrl 0.560588121414
+kave SNARC_only DC 3 lctrl 0.855762004852
+kave SNARC_only DC 3 lctrl 0.370331048965
+kave SNARC_only DC 4 lctrl 0.569201946259
+kave SNARC_only DC 1 lctrl 0.727997779846
+kave SNARC_only DC 3 lctrl 0.471829891205
+kave SNARC_only DC 8 num_separator 0.498227834702
+kave SNARC_only DC 5 lctrl 0.67610001564
+kave SNARC_only DC 1 lctrl 0.502246141434
+kave SNARC_only DC 8 num_separator 0.423231124878
+kave SNARC_only DC 5 lctrl 0.564659833908
+kave SNARC_only DC 8 num_separator 0.530804872513
+kave SNARC_only DC 2 num_separator 0.79464507103
+kave SNARC_only DC 7 lctrl 0.528333902359
+kave SNARC_only DC 3 lctrl 1.08142089844
+kave SNARC_only DC 9 lctrl 0.578211069107
+kave SNARC_only DC 9 lctrl 0.336506843567
+kave SNARC_only DC 8 lctrl 0.305038928986
+kave SNARC_only DC 6 num_separator 1.21879291534
+kave SNARC_only DC 9 lctrl 0.493678808212
+kave SNARC_only DC 7 lctrl 0.951425075531
+kave SNARC_only DC 1 lctrl 0.389554977417
+kave SNARC_only DC 5 lctrl 0.620202064514
+kave SNARC_only DC 4 num_separator 0.600301980972
+kave SNARC_only DC 6 num_separator 0.469228982925
+kave SNARC_only DC 2 num_separator 0.448098897934
+kave SNARC_only DC 2 num_separator 0.291601896286
+kave SNARC_only DC 6 num_separator 0.334489107132
+kave SNARC_only DC 3 lctrl 0.487467050552
+kave SNARC_only DC 6 num_separator 0.616891860962
+kave SNARC_only DC 5 lctrl 0.517788887024
+kave SNARC_only DC 7 lctrl 0.534456968307
+kave SNARC_only DC 3 lctrl 0.478257894516
+kave SNARC_only DC 3 lctrl 0.322026014328
+kave SNARC_only DC 3 lctrl 0.378947019577
+kave SNARC_only DC 5 lctrl 0.537616014481
+kave SNARC_only DC 7 lctrl 0.385630130768
+kave SNARC_only DC 6 num_separator 0.543962955475
+kave SNARC_only DC 2 lctrl 0.49592590332
+kave SNARC_only DC 9 lctrl 0.618116855621
+kave SNARC_only DC 2 num_separator 0.526385068893
+kave SNARC_only DC 7 lctrl 0.543229103088
+kave SNARC_only DC 3 lctrl 0.455425977707
+kave SNARC_only DC 2 num_separator 0.41826415062
+kave SNARC_only DC 6 num_separator 0.447370052338
+kave SNARC_only DC 9 lctrl 0.595371961594
+kave SNARC_only DC 8 num_separator 0.408586025238
+kave SNARC_only DC 8 num_separator 0.374467849731
+kave SNARC_only DC 5 lctrl 0.478172063828
+kave SNARC_only DC 9 lctrl 0.808855056763
+kave SNARC_only DC 1 lctrl 0.50898194313
+kave SNARC_only DC 5 lctrl 0.422580003738
+kave SNARC_only DC 8 num_separator 0.48300409317
+kave SNARC_only DC 4 num_separator 0.669291973114
+kave SNARC_only DC 8 num_separator 0.55153298378
+kave SNARC_only DC 8 num_separator 0.342740058899
+kave SNARC_only DC 9 lctrl 0.535627126694
+kave SNARC_only DC 7 lctrl 0.463664054871
+kave SNARC_only DC 3 lctrl 0.459371805191
+kave SNARC_only DC 5 lctrl 0.462774991989
+kave SNARC_only DC 5 lctrl 0.354452848434
+kave SNARC_only DC 1 lctrl 0.45788192749
+kave SNARC_only DC 8 num_separator 0.48527097702
+kave SNARC_only DC 8 num_separator 1.07146215439
+kave SNARC_only DC 2 num_separator 0.384152889252
+kave SNARC_only DC 4 num_separator 0.382817029953
+kave SNARC_only DC 7 lctrl 0.445685148239
+kave SNARC_only DC 9 num_separator 0.481688976288
+kave SNARC_only DC 6 num_separator 0.563563108444
+kave SNARC_only DC 8 num_separator 0.370929002762
+kave SNARC_only DC 7 lctrl 0.618438959122
+kave SNARC_only DC 3 lctrl 0.631154060364
+kave SNARC_only DC 4 num_separator 0.602080106735
+kave SNARC_only DC 7 lctrl 0.727437973022
+kave SNARC_only DC 4 num_separator 0.975193023682
+kave SNARC_only DC 1 lctrl 0.652770996094
+kave SNARC_only DC 1 lctrl 0.487874031067
+kave SNARC_only DC 2 num_separator 0.633426904678
+kave SNARC_only DC 1 lctrl 0.501545190811
+kave SNARC_only DC 4 num_separator 0.518378973007
+kave SNARC_only DC 7 lctrl 0.511642217636
+kave SNARC_only DC 2 num_separator 1.05646920204
+kave SNARC_only DC 6 num_separator 0.39462518692
+kave SNARC_only DC 9 lctrl 0.505113840103
+kave SNARC_only DC 6 num_separator 0.72213101387
+kave SNARC_only DC 7 lctrl 0.554740190506
+kave SNARC_only DC 1 lctrl 0.457790851593
+kave SNARC_only DC 6 num_separator 1.24493002892
+kave SNARC_only DC 1 lctrl 0.423060894012
+kave SNARC_only DC 9 lctrl 0.603864908218

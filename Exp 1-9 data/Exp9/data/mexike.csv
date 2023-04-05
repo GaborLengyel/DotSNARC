@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'03_23_1011', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'mexike', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+mexike SNARC color dot CD 0 up 40 lctrl 3.02761006355
+mexike SNARC color dot CD 0 up 5 lctrl 0.989845991135
+mexike SNARC color dot CD 0 up 15 lctrl 0.885885953903
+mexike SNARC color dot CD 0 down 10 num_separator 0.748411893845
+mexike SNARC color dot CD 0 up 15 lctrl 0.434238910675
+mexike SNARC color dot CD 0 down 40 num_separator 0.497470855713
+mexike SNARC color dot CD 0 down 25 num_separator 0.58824801445
+mexike SNARC color dot CD 0 up 35 lctrl 0.446178913116
+mexike SNARC color dot CD 0 down 25 num_separator 0.535086870193
+mexike SNARC color dot CD 0 down 30 num_separator 0.481682062149
+mexike SNARC color dot CD 0 up 20 lctrl 0.459820985794
+mexike SNARC color dot CD 0 up 45 lctrl 0.627840042114
+mexike SNARC color dot CD 0 up 25 lctrl 0.546504020691
+mexike SNARC color dot CD 0 down 30 num_separator 0.377055883408
+mexike SNARC color dot CD 0 up 40 lctrl 0.683900117874
+mexike SNARC color dot CD 0 up 5 lctrl 0.491849899292
+mexike SNARC color dot CD 0 up 25 lctrl 0.466377019882
+mexike SNARC color dot CD 0 down 45 num_separator 0.402198076248
+mexike SNARC color dot CD 0 up 25 lctrl 0.382656812668
+mexike SNARC color dot CD 0 up 20 lctrl 0.512567043304
+mexike SNARC color dot CD 0 down 15 num_separator 0.354331016541
+mexike SNARC color dot CD 0 down 40 num_separator 0.600383996964
+mexike SNARC color dot CD 0 down 25 num_separator 0.668570041656
+mexike SNARC color dot CD 0 up 20 lctrl 0.537378072739
+mexike SNARC color dot CD 0 up 5 lctrl 0.478641986847
+mexike SNARC color dot CD 0 down 25 num_separator 0.314943790436
+mexike SNARC color dot CD 0 down 45 num_separator 0.361974000931
+mexike SNARC color dot CD 0 down 25 num_separator 0.392472028732
+mexike SNARC color dot CD 0 down 15 num_separator 0.389657974243
+mexike SNARC color dot CD 0 down 35 num_separator 0.408754110336
+mexike SNARC color dot CD 0 down 30 num_separator 0.411271095276
+mexike SNARC color dot CD 0 up 35 lctrl 0.374953985214
+mexike SNARC color dot CD 0 up 15 lctrl 0.427587985992
+mexike SNARC color dot CD 0 down 20 num_separator 0.391212940216
+mexike SNARC color dot CD 0 down 20 num_separator 0.581922054291
+mexike SNARC color dot CD 0 up 10 lctrl 0.412431001663
+mexike SNARC color dot CD 0 down 5 num_separator 0.448179006577
+mexike SNARC color dot CD 0 up 35 lctrl 0.378591060638
+mexike SNARC color dot CD 0 up 10 num_separator 0.331645011902
+mexike SNARC color dot CD 0 up 30 lctrl 0.649627923965
+mexike SNARC color dot CD 0 down 5 num_separator 0.55538392067
+mexike SNARC color dot CD 0 down 45 num_separator 0.739547967911
+mexike SNARC color dot CD 0 down 10 num_separator 0.481024980545
+mexike SNARC color dot CD 0 up 5 lctrl 1.37946200371
+mexike SNARC color dot CD 0 up 45 lctrl 0.669888019562
+mexike SNARC color dot CD 0 down 20 num_separator 0.422497987747
+mexike SNARC color dot CD 0 down 45 num_separator 0.507864952087
+mexike SNARC color dot CD 0 down 45 num_separator 0.380640029907
+mexike SNARC color dot CD 0 up 10 lctrl 0.588088989258
+mexike SNARC color dot CD 0 up 35 lctrl 0.60079908371
+mexike SNARC color dot CD 0 down 40 num_separator 0.652328014374
+mexike SNARC color dot CD 0 up 30 lctrl 0.830785036087
+mexike SNARC color dot CD 0 up 20 lctrl 0.661138057709
+mexike SNARC color dot CD 0 up 45 lctrl 0.435658931732
+mexike SNARC color dot CD 0 down 10 num_separator 0.859589099884
+mexike SNARC color dot CD 0 up 30 lctrl 0.683182001114
+mexike SNARC color dot CD 0 down 20 num_separator 0.397099971771
+mexike SNARC color dot CD 0 up 45 lctrl 0.476941823959
+mexike SNARC color dot CD 0 up 30 lctrl 0.446907997131
+mexike SNARC color dot CD 0 up 25 lctrl 0.510130882263
+mexike SNARC color dot CD 0 down 15 num_separator 0.545463085175
+mexike SNARC color dot CD 0 down 5 num_separator 0.447994947433
+mexike SNARC color dot CD 0 up 45 lctrl 0.632739067078
+mexike SNARC color dot CD 0 down 45 num_separator 0.479440927505
+mexike SNARC color dot CD 0 up 15 lctrl 0.354611158371
+mexike SNARC color dot CD 0 up 5 lctrl 0.479120016098
+mexike SNARC color dot CD 0 down 30 num_separator 0.371572971344
+mexike SNARC color dot CD 0 up 20 lctrl 0.424003839493
+mexike SNARC color dot CD 0 up 30 lctrl 0.603374004364
+mexike SNARC color dot CD 0 down 15 num_separator 0.422685146332
+mexike SNARC color dot CD 0 up 30 lctrl 0.52459692955
+mexike SNARC color dot CD 0 up 20 lctrl 0.543285131454
+mexike SNARC color dot CD 0 down 25 num_separator 0.467853069305
+mexike SNARC color dot CD 0 up 5 lctrl 1.21142983437
+mexike SNARC color dot CD 0 down 20 num_separator 0.430791854858
+mexike SNARC color dot CD 0 down 40 num_separator 1.92666602135
+mexike SNARC color dot CD 0 up 15 lctrl 0.390944004059
+mexike SNARC color dot CD 0 up 30 lctrl 0.409986019135
+mexike SNARC color dot CD 0 up 15 lctrl 0.622774124146
+mexike SNARC color dot CD 0 down 15 num_separator 0.502880811691
+mexike SNARC color dot CD 0 down 20 num_separator 0.654319047928
+mexike SNARC color dot CD 0 down 5 num_separator 2.16957807541
+mexike SNARC color dot CD 0 down 15 num_separator 0.538876056671
+mexike SNARC color dot CD 0 down 20 num_separator 0.489010810852
+mexike SNARC color dot CD 0 down 45 num_separator 1.01099801064
+mexike SNARC color dot CD 0 up 25 lctrl 0.391628980637
+mexike SNARC color dot CD 0 down 5 num_separator 0.637779951096
+mexike SNARC color dot CD 0 up 20 lctrl 0.565524101257
+mexike SNARC color dot CD 0 up 10 lctrl 0.722227096558
+mexike SNARC color dot CD 0 down 15 num_separator 0.643997192383
+mexike SNARC color dot CD 0 up 5 lctrl 0.485430955887
+mexike SNARC color dot CD 0 down 45 num_separator 0.426422834396
+mexike SNARC color dot CD 0 down 35 num_separator 0.60594201088
+mexike SNARC color dot CD 0 up 40 lctrl 0.602007865906
+mexike SNARC color dot CD 0 down 5 num_separator 0.437991142273
+mexike SNARC color dot CD 0 up 40 lctrl 0.484415054321
+mexike SNARC color dot CD 0 down 40 num_separator 0.442331790924
+mexike SNARC color dot CD 0 down 10 num_separator 0.831998109818
+mexike SNARC color dot CD 0 down 10 num_separator 1.67719388008
+mexike SNARC color dot CD 0 down 20 num_separator 0.855970144272
+mexike SNARC color dot CD 0 down 25 num_separator 0.463962078094
+mexike SNARC color dot CD 0 up 20 lctrl 0.43326997757
+mexike SNARC color dot CD 0 up 20 lctrl 0.426359176636
+mexike SNARC color dot CD 0 up 10 lctrl 0.554244995117
+mexike SNARC color dot CD 0 up 25 lctrl 0.539469957352
+mexike SNARC color dot CD 0 down 10 num_separator 0.829277038574
+mexike SNARC color dot CD 0 down 10 num_separator 0.7970058918
+mexike SNARC color dot CD 0 up 15 lctrl 0.458487987518
+mexike SNARC color dot CD 0 up 20 lctrl 0.573310136795
+mexike SNARC color dot CD 0 up 15 lctrl 1.27195692062
+mexike SNARC color dot CD 0 up 20 lctrl 0.485016822815
+mexike SNARC color dot CD 0 up 25 lctrl 0.498154163361
+mexike SNARC color dot CD 0 down 40 num_separator 0.649605989456
+mexike SNARC color dot CD 0 down 20 num_separator 1.17129802704
+mexike SNARC color dot CD 0 up 15 lctrl 0.656273841858
+mexike SNARC color dot CD 0 down 10 num_separator 0.713238954544
+mexike SNARC color dot CD 0 down 20 num_separator 0.509874820709
+mexike SNARC color dot CD 0 up 25 lctrl 0.45458817482
+mexike SNARC color dot CD 0 up 30 lctrl 0.678091049194
+mexike SNARC color dot CD 0 down 20 num_separator 0.546824932098
+mexike SNARC color dot CD 0 up 15 lctrl 0.587558031082
+mexike SNARC color dot CD 0 down 35 num_separator 0.638976097107
+mexike SNARC color dot CD 0 up 40 lctrl 0.679179906845
+mexike SNARC color dot CD 0 up 30 lctrl 0.724801778793
+mexike SNARC color dot CD 0 up 10 lctrl 0.737365961075
+mexike SNARC color dot CD 0 up 30 lctrl 0.793740987778
+mexike SNARC color dot CD 0 down 35 num_separator 0.761260032654
+mexike SNARC color dot CD 0 down 20 num_separator 0.662928104401
+mexike SNARC color dot CD 0 up 40 lctrl 0.415381908417
+mexike SNARC color dot CD 0 down 10 num_separator 0.79972410202
+mexike SNARC color dot CD 0 down 10 num_separator 0.529795885086
+mexike SNARC color dot CD 0 up 40 lctrl 0.68652677536
+mexike SNARC color dot CD 0 up 25 lctrl 0.344969034195
+mexike SNARC color dot CD 0 down 10 num_separator 0.395612955093
+mexike SNARC color dot CD 0 down 15 num_separator 0.54761505127
+mexike SNARC color dot CD 0 down 10 num_separator 0.372628927231
+mexike SNARC color dot CD 0 down 10 num_separator 0.364399909973
+mexike SNARC color dot CD 0 up 10 lctrl 0.510900020599
+mexike SNARC color dot CD 0 up 30 lctrl 0.684322118759
+mexike SNARC color dot CD 0 up 25 lctrl 0.536437988281
+mexike SNARC color dot CD 0 down 10 num_separator 0.516391038895
+mexike SNARC color dot CD 0 up 35 lctrl 0.45760512352
+mexike SNARC color dot CD 0 up 45 lctrl 0.586900949478
+mexike SNARC color dot CD 0 down 20 num_separator 0.638539075851
+mexike SNARC color dot CD 0 down 10 num_separator 0.660311937332
+mexike SNARC color dot CD 0 down 35 num_separator 0.451591014862
+mexike SNARC color dot CD 0 up 40 lctrl 0.442954063416
+mexike SNARC color dot CD 0 up 45 lctrl 0.472651004791
+mexike SNARC color dot CD 0 down 20 num_separator 0.425221920013
+mexike SNARC color dot CD 0 up 35 lctrl 0.451654911041
+mexike SNARC color dot CD 0 down 30 num_separator 0.479623794556
+mexike SNARC color dot CD 0 down 25 num_separator 0.470844984055
+mexike SNARC color dot CD 0 down 15 num_separator 0.423398017883
+mexike SNARC color dot CD 0 down 10 num_separator 0.442574977875
+mexike SNARC color dot CD 0 down 25 num_separator 0.415108919144
+mexike SNARC color dot CD 0 down 35 num_separator 0.417651891708
+mexike SNARC color dot CD 0 down 30 num_separator 0.49757194519
+mexike SNARC color dot CD 0 up 40 lctrl 0.519780158997
+mexike SNARC color dot CD 0 down 40 num_separator 0.637953996658
+mexike SNARC color dot CD 0 down 5 num_separator 0.479280948639
+mexike SNARC color dot CD 0 down 5 num_separator 1.02924489975
+mexike SNARC color dot CD 0 up 15 lctrl 0.470510005951
+mexike SNARC color dot CD 0 down 30 num_separator 0.703014135361
+mexike SNARC color dot CD 0 down 40 num_separator 0.947735071182
+mexike SNARC color dot CD 0 down 45 num_separator 0.477829933167
+mexike SNARC color dot CD 0 up 25 lctrl 1.24347400665
+mexike SNARC color dot CD 0 down 5 num_separator 0.446258068085
+mexike SNARC color dot CD 0 down 25 num_separator 0.819220066071
+mexike SNARC color dot CD 0 up 20 lctrl 0.49925494194
+mexike SNARC color dot CD 0 down 45 num_separator 0.827616930008
+mexike SNARC color dot CD 0 up 40 lctrl 0.826467037201
+mexike SNARC color dot CD 0 down 40 num_separator 0.64465212822
+mexike SNARC color dot CD 0 up 25 lctrl 0.81774187088
+mexike SNARC color dot CD 0 down 35 num_separator 0.519902944565
+mexike SNARC color dot CD 0 down 30 num_separator 0.444504976273
+mexike SNARC color dot CD 0 up 20 lctrl 1.165995121
+mexike SNARC color dot CD 0 up 40 lctrl 0.496076107025
+mexike SNARC color dot CD 0 up 35 lctrl 0.415209054947
+mexike SNARC color dot CD 0 up 35 lctrl 0.340203046799
+mexike SNARC color dot CD 0 down 30 num_separator 0.434932947159
+mexike SNARC color dot CD 0 down 45 num_separator 0.567852020264
+mexike SNARC color dot CD 0 up 35 lctrl 0.442583799362
+mexike SNARC color dot CD 0 down 35 num_separator 0.450278997421
+mexike SNARC color dot CD 0 up 5 lctrl 0.414127826691
+mexike SNARC color dot CD 0 down 30 num_separator 0.416471004486
+mexike SNARC color dot CD 0 down 5 num_separator 0.60728096962
+mexike SNARC color dot CD 0 down 35 num_separator 0.564578056335
+mexike SNARC color dot CD 0 down 5 num_separator 0.605380058289
+mexike SNARC color dot CD 0 up 35 lctrl 0.756239175797
+mexike SNARC color dot CD 0 down 10 num_separator 0.558393001556
+mexike SNARC color dot CD 0 down 40 num_separator 0.410850048065
+mexike SNARC color dot CD 0 up 40 lctrl 0.628970861435
+mexike SNARC color dot CD 0 down 20 num_separator 0.27664899826
+mexike SNARC color dot CD 0 down 45 num_separator 0.395741939545
+mexike SNARC color dot CD 0 up 5 lctrl 0.40971493721
+mexike SNARC color dot CD 0 down 15 num_separator 0.351218938828
+mexike SNARC color dot CD 0 down 45 num_separator 0.541827917099
+mexike SNARC color dot CD 0 up 30 lctrl 0.914405107498
+mexike SNARC color dot CD 0 up 40 lctrl 0.920367956161
+mexike SNARC color dot CD 0 down 10 num_separator 0.633353948593
+mexike SNARC color dot CD 0 down 15 num_separator 0.461540937424
+mexike SNARC color dot CD 0 up 40 lctrl 0.375192165375
+mexike SNARC color dot CD 0 down 40 num_separator 0.527229070663
+mexike SNARC color dot CD 0 down 15 num_separator 0.507174015045
+mexike SNARC color dot CD 0 up 20 lctrl 0.426520109177
+mexike SNARC color dot CD 0 down 25 num_separator 0.506303071976
+mexike SNARC color dot CD 0 down 25 num_separator 0.309284925461
+mexike SNARC color dot CD 0 up 35 lctrl 0.476027011871
+mexike SNARC color dot CD 0 down 30 num_separator 0.434015989304
+mexike SNARC color dot CD 0 up 15 lctrl 0.359230041504
+mexike SNARC color dot CD 0 up 10 lctrl 0.560976982117
+mexike SNARC color dot CD 0 up 25 lctrl 0.452095031738
+mexike SNARC color dot CD 0 down 40 num_separator 0.507636070251
+mexike SNARC color dot CD 0 up 5 num_separator 0.482258081436
+mexike SNARC color dot CD 0 down 45 num_separator 0.711077928543
+mexike SNARC color dot CD 0 down 45 num_separator 0.474447011948
+mexike SNARC color dot CD 0 up 45 lctrl 0.47106218338
+mexike SNARC color dot CD 0 up 35 lctrl 0.445596933365
+mexike SNARC color dot CD 0 up 35 lctrl 0.715136051178
+mexike SNARC color dot CD 0 up 35 lctrl 0.449179172516
+mexike SNARC color dot CD 0 up 40 lctrl 0.418081998825
+mexike SNARC color dot CD 0 up 20 lctrl 0.42057299614
+mexike SNARC color dot CD 0 down 10 num_separator 0.478505134583
+mexike SNARC color dot CD 0 up 40 lctrl 0.491605043411
+mexike SNARC color dot CD 0 down 25 num_separator 0.466234922409
+mexike SNARC color dot CD 0 down 30 num_separator 0.418692111969
+mexike SNARC color dot CD 0 down 15 num_separator 0.459959030151
+mexike SNARC color dot CD 0 up 25 lctrl 0.390321969986
+mexike SNARC color dot CD 0 up 20 lctrl 0.409493923187
+mexike SNARC color dot CD 0 up 10 lctrl 0.428600072861
+mexike SNARC color dot CD 0 down 45 num_separator 0.397515058517
+mexike SNARC color dot CD 0 up 30 lctrl 0.416736125946
+mexike SNARC color dot CD 0 down 5 lctrl 0.33442902565
+mexike SNARC color dot CD 0 down 30 num_separator 0.621067047119
+mexike SNARC color dot CD 0 down 30 num_separator 0.600499868393
+mexike SNARC color dot CD 0 up 40 lctrl 1.0298769474
+mexike SNARC color dot CD 0 down 30 num_separator 0.408421993256
+mexike SNARC color dot CD 0 up 30 lctrl 0.60454082489
+mexike SNARC color dot CD 0 down 40 num_separator 0.390301942825
+mexike SNARC color dot CD 0 up 10 lctrl 0.365365982056
+mexike SNARC color dot CD 0 up 30 lctrl 0.572589874268
+mexike SNARC color dot CD 0 up 40 lctrl 0.597366094589
+mexike SNARC color dot CD 0 down 25 num_separator 0.471932888031
+mexike SNARC color dot CD 0 down 40 num_separator 0.623389959335
+mexike SNARC color dot CD 0 up 5 lctrl 0.597491979599
+mexike SNARC color dot CD 0 up 5 lctrl 0.682312965393
+mexike SNARC color dot CD 0 up 45 lctrl 0.556213855743
+mexike SNARC color dot CD 0 down 25 num_separator 0.696490049362
+mexike SNARC color dot CD 0 down 25 num_separator 0.780882835388
+mexike SNARC color dot CD 0 down 5 num_separator 0.759938955307
+mexike SNARC color dot CD 0 down 40 num_separator 0.644779920578
+mexike SNARC color dot CD 0 up 10 lctrl 0.486059188843
+mexike SNARC color dot CD 0 down 40 num_separator 0.620778083801
+mexike SNARC color dot CD 0 up 15 lctrl 0.578245162964
+mexike SNARC color dot CD 0 down 45 num_separator 0.358616828918
+mexike SNARC color dot CD 0 up 30 lctrl 0.565890789032
+mexike SNARC color dot CD 0 down 35 num_separator 0.5346159935
+mexike SNARC color dot CD 0 up 35 lctrl 0.812962055206
+mexike SNARC color dot CD 0 up 30 lctrl 0.802733182907
+mexike SNARC color dot CD 0 up 45 lctrl 0.659696817398
+mexike SNARC color dot CD 0 down 35 num_separator 0.528472900391
+mexike SNARC color dot CD 0 down 15 num_separator 0.430999994278
+mexike SNARC color dot CD 0 down 45 num_separator 0.516176939011
+mexike SNARC color dot CD 0 up 10 lctrl 0.490678071976
+mexike SNARC color dot CD 0 up 40 lctrl 0.732430934906
+mexike SNARC color dot CD 0 down 20 num_separator 0.505049943924
+mexike SNARC color dot CD 0 up 30 lctrl 0.484967947006
+mexike SNARC color dot CD 0 up 40 lctrl 0.525624990463
+mexike SNARC color dot CD 0 up 20 lctrl 0.58304309845
+mexike SNARC color dot CD 0 up 15 lctrl 0.590574026108
+mexike SNARC color dot CD 0 down 5 num_separator 0.481755971909
+mexike SNARC color dot CD 0 up 10 lctrl 0.489449977875
+mexike SNARC color dot CD 0 down 5 num_separator 0.519450187683
+mexike SNARC color dot CD 0 up 10 lctrl 0.516270160675
+mexike SNARC color dot CD 0 up 10 lctrl 0.80026102066
+mexike SNARC color dot CD 0 up 10 lctrl 0.409511089325
+mexike SNARC color dot CD 0 down 15 num_separator 0.428606033325
+mexike SNARC color dot CD 0 down 35 num_separator 0.607948064804
+mexike SNARC color dot CD 0 up 20 lctrl 0.533938169479
+mexike SNARC color dot CD 0 up 15 lctrl 0.390378952026
+mexike SNARC color dot CD 0 down 45 num_separator 0.422163009644
+mexike SNARC color dot CD 0 up 25 lctrl 0.472759008408
+mexike SNARC color dot CD 0 up 5 lctrl 0.441793203354
+mexike SNARC color dot CD 0 up 35 lctrl 0.410778999329
+mexike SNARC color dot CD 0 up 15 lctrl 0.468599081039
+mexike SNARC color dot CD 0 down 20 num_separator 0.498568058014
+mexike SNARC color dot CD 0 up 5 lctrl 0.644580125809
+mexike SNARC color dot CD 0 up 15 lctrl 0.391597986221
+mexike SNARC color dot CD 0 down 35 num_separator 0.914041996002
+mexike SNARC color dot CD 0 up 45 lctrl 0.516060113907
+mexike SNARC color dot CD 0 up 30 lctrl 1.11548399925
+mexike SNARC color dot CD 0 up 10 lctrl 0.451497077942
+mexike SNARC color dot CD 0 down 35 num_separator 0.442651987076
+mexike SNARC color dot CD 0 up 25 lctrl 0.351116895676
+mexike SNARC color dot CD 0 down 5 num_separator 0.492207050323
+mexike SNARC color dot CD 0 down 30 num_separator 0.604843854904
+mexike SNARC color dot CD 0 down 10 num_separator 0.363410949707
+mexike SNARC color dot CD 0 down 25 num_separator 0.548638105392
+mexike SNARC color dot CD 0 down 15 num_separator 0.511945009232
+mexike SNARC color dot CD 0 down 30 num_separator 0.530570030212
+mexike SNARC color dot CD 0 down 20 num_separator 0.433096885681
+mexike SNARC color dot CD 0 up 35 lctrl 0.418819904327
+mexike SNARC color dot CD 0 up 35 lctrl 0.6423869133
+mexike SNARC color dot CD 0 up 35 lctrl 0.394906044006
+mexike SNARC color dot CD 0 up 15 lctrl 0.430666923523
+mexike SNARC color dot CD 0 up 25 lctrl 0.377659082413
+mexike SNARC color dot CD 0 down 25 num_separator 0.46882891655
+mexike SNARC color dot CD 0 up 35 lctrl 0.504106044769
+mexike SNARC color dot CD 0 up 15 lctrl 0.728410005569
+mexike SNARC color dot CD 0 up 30 lctrl 0.452935934067
+mexike SNARC color dot CD 0 up 45 lctrl 0.311125040054
+mexike SNARC color dot CD 0 up 5 lctrl 0.369606971741
+mexike SNARC color dot CD 0 up 5 lctrl 0.361268997192
+mexike SNARC color dot CD 0 up 40 lctrl 0.435631990433
+mexike SNARC color dot CD 0 up 25 lctrl 0.344079971313
+mexike SNARC color dot CD 0 down 5 num_separator 0.519335031509
+mexike SNARC color dot CD 0 down 45 num_separator 0.427018880844
+mexike SNARC color dot CD 0 down 40 num_separator 0.412863016129
+mexike SNARC color dot CD 0 up 35 lctrl 0.415334939957
+mexike SNARC color dot CD 0 up 5 lctrl 0.412435054779
+mexike SNARC color dot CD 0 up 45 lctrl 0.397994041443
+mexike SNARC color dot CD 0 down 30 num_separator 0.417129993439
+mexike SNARC color dot CD 0 up 5 lctrl 0.491700172424
+mexike SNARC color dot CD 0 up 20 lctrl 0.42741394043
+mexike SNARC color dot CD 0 up 25 lctrl 0.429793834686
+mexike SNARC color dot CD 0 down 45 num_separator 0.476317167282
+mexike SNARC color dot CD 0 up 15 lctrl 0.424175977707
+mexike SNARC color dot CD 0 down 15 num_separator 0.581490039825
+mexike SNARC color dot CD 0 down 45 num_separator 0.555413961411
+mexike SNARC color dot CD 0 down 35 num_separator 0.407964229584
+mexike SNARC color dot CD 0 up 45 lctrl 0.432456016541
+mexike SNARC color dot CD 0 up 35 lctrl 0.418231010437
+mexike SNARC color dot CD 0 up 20 lctrl 0.381897926331
+mexike SNARC color dot CD 0 up 45 lctrl 0.362210035324
+mexike SNARC color dot CD 0 down 10 num_separator 0.448024988174
+mexike SNARC color dot CD 0 down 5 lctrl 0.411652088165
+mexike SNARC color dot CD 0 up 45 lctrl 0.508772850037
+mexike SNARC color dot CD 0 up 25 lctrl 0.427907943726
+mexike SNARC color dot CD 0 down 45 num_separator 0.396988868713
+mexike SNARC color dot CD 0 down 15 num_separator 0.432759046555
+mexike SNARC color dot CD 0 up 30 lctrl 0.495934009552
+mexike SNARC color dot CD 0 down 25 num_separator 0.393015861511
+mexike SNARC color dot CD 0 up 5 lctrl 0.561665058136
+mexike SNARC color dot CD 0 down 35 num_separator 0.47489118576
+mexike SNARC color dot CD 0 down 35 num_separator 0.449506998062
+mexike SNARC color dot CD 0 up 20 lctrl 0.512677907944
+mexike SNARC color dot CD 0 up 10 lctrl 0.874392032623
+mexike SNARC color dot CD 0 down 15 num_separator 0.465716838837
+mexike SNARC color dot CD 0 down 25 num_separator 0.512304782867
+mexike SNARC color dot CD 0 down 5 num_separator 0.448148965836
+mexike SNARC color dot CD 0 up 45 lctrl 0.400480031967
+mexike SNARC color dot CD 0 down 5 num_separator 0.414342164993
+mexike SNARC color dot CD 0 down 30 num_separator 0.610380887985
+mexike SNARC color dot CD 0 down 35 num_separator 0.606529951096
+mexike SNARC color dot CD 0 down 20 num_separator 0.658081054688
+mexike SNARC color dot CD 0 up 5 lctrl 0.637601137161
+mexike SNARC color dot CD 0 down 40 num_separator 0.600255966187
+mexike SNARC color dot CD 0 down 10 num_separator 0.569035053253
+mexike SNARC color dot CD 0 down 15 num_separator 0.692615032196
+mexike SNARC color dot CD 0 up 40 lctrl 0.60528588295
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'03_23_1020', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'mexike', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+mexike SNARC color arabic CD 0 down 1 num_separator 1.8750538826
+mexike SNARC color arabic CD 0 down 3 num_separator 1.64493203163
+mexike SNARC color arabic CD 0 down 9 num_separator 0.564040184021
+mexike SNARC color arabic CD 0 up 2 lctrl 0.411007881165
+mexike SNARC color arabic CD 0 down 7 num_separator 0.679097890854
+mexike SNARC color arabic CD 0 down 8 num_separator 0.52574801445
+mexike SNARC color arabic CD 0 down 4 num_separator 0.35821390152
+mexike SNARC color arabic CD 0 down 6 num_separator 0.375856161118
+mexike SNARC color arabic CD 0 up 5 lctrl 0.406175851822
+mexike SNARC color arabic CD 0 up 2 lctrl 0.829332113266
+mexike SNARC color arabic CD 0 up 3 lctrl 0.487082958221
+mexike SNARC color arabic CD 0 down 1 num_separator 0.478242874146
+mexike SNARC color arabic CD 0 up 8 lctrl 0.980158090591
+mexike SNARC color arabic CD 0 up 6 lctrl 0.674345016479
+mexike SNARC color arabic CD 0 up 8 lctrl 0.559683084488
+mexike SNARC color arabic CD 0 down 8 num_separator 0.484202861786
+mexike SNARC color arabic CD 0 up 2 lctrl 0.564894914627
+mexike SNARC color arabic CD 0 up 3 lctrl 1.186439991
+mexike SNARC color arabic CD 0 up 7 lctrl 0.82625412941
+mexike SNARC color arabic CD 0 down 2 num_separator 0.522922992706
+mexike SNARC color arabic CD 0 up 1 lctrl 0.55815911293
+mexike SNARC color arabic CD 0 up 6 lctrl 0.482654809952
+mexike SNARC color arabic CD 0 down 5 num_separator 0.490581035614
+mexike SNARC color arabic CD 0 down 4 num_separator 0.365527868271
+mexike SNARC color arabic CD 0 down 2 num_separator 0.412672996521
+mexike SNARC color arabic CD 0 down 2 num_separator 0.332291126251
+mexike SNARC color arabic CD 0 down 6 num_separator 1.01907682419
+mexike SNARC color arabic CD 0 down 3 num_separator 0.38643693924
+mexike SNARC color arabic CD 0 down 5 num_separator 0.361409902573
+mexike SNARC color arabic CD 0 down 8 num_separator 0.408440113068
+mexike SNARC color arabic CD 0 down 5 num_separator 0.405534982681
+mexike SNARC color arabic CD 0 down 8 num_separator 0.402580022812
+mexike SNARC color arabic CD 0 up 6 lctrl 0.438364028931
+mexike SNARC color arabic CD 0 down 5 num_separator 0.363382101059
+mexike SNARC color arabic CD 0 down 2 num_separator 0.487763166428
+mexike SNARC color arabic CD 0 down 3 num_separator 0.362877845764
+mexike SNARC color arabic CD 0 up 1 lctrl 0.448563098907
+mexike SNARC color arabic CD 0 down 5 num_separator 0.373569965363
+mexike SNARC color arabic CD 0 up 7 lctrl 0.365222930908
+mexike SNARC color arabic CD 0 up 1 lctrl 0.489627122879
+mexike SNARC color arabic CD 0 up 3 lctrl 0.364588022232
+mexike SNARC color arabic CD 0 up 6 lctrl 0.450318813324
+mexike SNARC color arabic CD 0 down 9 num_separator 0.414102077484
+mexike SNARC color arabic CD 0 up 8 lctrl 0.333508014679
+mexike SNARC color arabic CD 0 up 6 lctrl 0.375250816345
+mexike SNARC color arabic CD 0 up 4 lctrl 0.328075885773
+mexike SNARC color arabic CD 0 up 9 lctrl 0.369586229324
+mexike SNARC color arabic CD 0 up 2 lctrl 0.322521924973
+mexike SNARC color arabic CD 0 up 7 lctrl 0.402788877487
+mexike SNARC color arabic CD 0 up 3 lctrl 0.322345018387
+mexike SNARC color arabic CD 0 down 7 num_separator 0.46706199646
+mexike SNARC color arabic CD 0 down 9 num_separator 0.491579055786
+mexike SNARC color arabic CD 0 up 1 lctrl 0.443983078003
+mexike SNARC color arabic CD 0 up 9 lctrl 0.592159032822
+mexike SNARC color arabic CD 0 up 1 lctrl 0.359745979309
+mexike SNARC color arabic CD 0 down 2 num_separator 0.561506032944
+mexike SNARC color arabic CD 0 down 8 num_separator 0.447348833084
+mexike SNARC color arabic CD 0 up 5 lctrl 0.4497859478
+mexike SNARC color arabic CD 0 up 8 lctrl 0.607060909271
+mexike SNARC color arabic CD 0 down 9 num_separator 0.399582862854
+mexike SNARC color arabic CD 0 down 1 num_separator 0.761766910553
+mexike SNARC color arabic CD 0 up 1 lctrl 0.525013923645
+mexike SNARC color arabic CD 0 down 3 num_separator 0.560376167297
+mexike SNARC color arabic CD 0 down 1 num_separator 0.717173099518
+mexike SNARC color arabic CD 0 down 3 num_separator 0.53048491478
+mexike SNARC color arabic CD 0 down 6 num_separator 0.410942077637
+mexike SNARC color arabic CD 0 up 9 lctrl 0.640285968781
+mexike SNARC color arabic CD 0 down 9 num_separator 0.404093027115
+mexike SNARC color arabic CD 0 up 4 lctrl 0.633317947388
+mexike SNARC color arabic CD 0 down 3 num_separator 0.297650098801
+mexike SNARC color arabic CD 0 down 7 num_separator 0.48880314827
+mexike SNARC color arabic CD 0 down 6 num_separator 0.401350021362
+mexike SNARC color arabic CD 0 down 5 num_separator 0.425111055374
+mexike SNARC color arabic CD 0 down 3 num_separator 0.328097105026
+mexike SNARC color arabic CD 0 down 1 num_separator 0.369710206985
+mexike SNARC color arabic CD 0 down 7 num_separator 0.400092840195
+mexike SNARC color arabic CD 0 up 6 lctrl 0.400628805161
+mexike SNARC color arabic CD 0 up 9 lctrl 0.414307117462
+mexike SNARC color arabic CD 0 down 5 num_separator 0.828015804291
+mexike SNARC color arabic CD 0 up 5 lctrl 0.362414836884
+mexike SNARC color arabic CD 0 up 2 lctrl 0.448225975037
+mexike SNARC color arabic CD 0 up 7 lctrl 0.407212972641
+mexike SNARC color arabic CD 0 up 9 lctrl 0.40413403511
+mexike SNARC color arabic CD 0 up 7 lctrl 0.401152133942
+mexike SNARC color arabic CD 0 down 4 num_separator 0.448906898499
+mexike SNARC color arabic CD 0 up 4 lctrl 0.567440986633
+mexike SNARC color arabic CD 0 down 3 num_separator 0.478862047195
+mexike SNARC color arabic CD 0 down 8 num_separator 0.525510072708
+mexike SNARC color arabic CD 0 up 2 lctrl 0.522047042847
+mexike SNARC color arabic CD 0 down 5 num_separator 0.402469873428
+mexike SNARC color arabic CD 0 up 7 lctrl 0.902684926987
+mexike SNARC color arabic CD 0 up 3 lctrl 0.709660053253
+mexike SNARC color arabic CD 0 down 6 num_separator 0.406821012497
+mexike SNARC color arabic CD 0 down 4 num_separator 0.442593097687
+mexike SNARC color arabic CD 0 up 3 lctrl 0.406280994415
+mexike SNARC color arabic CD 0 down 4 num_separator 0.674318790436
+mexike SNARC color arabic CD 0 down 9 num_separator 0.598457098007
+mexike SNARC color arabic CD 0 down 7 num_separator 0.412261962891
+mexike SNARC color arabic CD 0 up 7 lctrl 0.448125839233
+mexike SNARC color arabic CD 0 down 9 num_separator 0.450462818146
+mexike SNARC color arabic CD 0 up 9 lctrl 0.917412042618
+mexike SNARC color arabic CD 0 down 8 num_separator 1.42121505737
+mexike SNARC color arabic CD 0 down 2 num_separator 0.479430913925
+mexike SNARC color arabic CD 0 up 8 lctrl 0.409782886505
+mexike SNARC color arabic CD 0 down 3 num_separator 0.561635971069
+mexike SNARC color arabic CD 0 up 6 lctrl 0.60236787796
+mexike SNARC color arabic CD 0 down 7 num_separator 0.476959943771
+mexike SNARC color arabic CD 0 up 5 lctrl 0.291146039963
+mexike SNARC color arabic CD 0 up 5 lctrl 0.482254981995
+mexike SNARC color arabic CD 0 up 5 lctrl 0.485298871994
+mexike SNARC color arabic CD 0 up 1 lctrl 0.476385116577
+mexike SNARC color arabic CD 0 up 1 lctrl 0.406726837158
+mexike SNARC color arabic CD 0 up 7 lctrl 0.674762010574
+mexike SNARC color arabic CD 0 down 8 num_separator 0.405215978622
+mexike SNARC color arabic CD 0 down 4 num_separator 0.711903095245
+mexike SNARC color arabic CD 0 up 2 lctrl 0.409060001373
+mexike SNARC color arabic CD 0 up 6 lctrl 0.444844007492
+mexike SNARC color arabic CD 0 down 4 num_separator 0.485853910446
+mexike SNARC color arabic CD 0 up 9 lctrl 0.515774965286
+mexike SNARC color arabic CD 0 down 5 num_separator 0.412879943848
+mexike SNARC color arabic CD 0 down 5 num_separator 0.448648929596
+mexike SNARC color arabic CD 0 down 1 num_separator 0.683388948441
+mexike SNARC color arabic CD 0 up 5 lctrl 0.37505197525
+mexike SNARC color arabic CD 0 down 7 num_separator 0.560388088226
+mexike SNARC color arabic CD 0 down 9 num_separator 0.484952926636
+mexike SNARC color arabic CD 0 down 1 num_separator 0.437514781952
+mexike SNARC color arabic CD 0 up 4 lctrl 0.788424968719
+mexike SNARC color arabic CD 0 down 9 num_separator 0.440810918808
+mexike SNARC color arabic CD 0 up 5 lctrl 0.636859178543
+mexike SNARC color arabic CD 0 up 7 lctrl 0.439234972
+mexike SNARC color arabic CD 0 up 6 lctrl 0.48032617569
+mexike SNARC color arabic CD 0 up 9 lctrl 0.449414014816
+mexike SNARC color arabic CD 0 up 2 lctrl 0.374361991882
+mexike SNARC color arabic CD 0 up 6 lctrl 0.404819965363
+mexike SNARC color arabic CD 0 down 2 num_separator 0.634124040604
+mexike SNARC color arabic CD 0 up 2 lctrl 0.440029859543
+mexike SNARC color arabic CD 0 up 5 lctrl 0.443536996841
+mexike SNARC color arabic CD 0 up 7 lctrl 0.406112194061
+mexike SNARC color arabic CD 0 up 2 lctrl 0.480552911758
+mexike SNARC color arabic CD 0 up 3 lctrl 0.294932126999
+mexike SNARC color arabic CD 0 down 4 num_separator 0.447162866592
+mexike SNARC color arabic CD 0 down 7 num_separator 0.372201919556
+mexike SNARC color arabic CD 0 up 3 lctrl 0.55736207962
+mexike SNARC color arabic CD 0 up 2 lctrl 0.399914979935
+mexike SNARC color arabic CD 0 down 2 num_separator 0.684617996216
+mexike SNARC color arabic CD 0 up 4 lctrl 0.282336950302
+mexike SNARC color arabic CD 0 down 7 num_separator 0.412536859512
+mexike SNARC color arabic CD 0 down 2 num_separator 0.435229063034
+mexike SNARC color arabic CD 0 up 2 lctrl 0.398946046829
+mexike SNARC color arabic CD 0 up 2 lctrl 0.36462187767
+mexike SNARC color arabic CD 0 up 1 lctrl 0.404135942459
+mexike SNARC color arabic CD 0 down 5 num_separator 0.36253619194
+mexike SNARC color arabic CD 0 down 4 num_separator 0.396455764771
+mexike SNARC color arabic CD 0 down 4 num_separator 0.410130023956
+mexike SNARC color arabic CD 0 up 4 lctrl 0.44590306282
+mexike SNARC color arabic CD 0 down 5 num_separator 0.37090587616
+mexike SNARC color arabic CD 0 up 9 lctrl 0.478703022003
+mexike SNARC color arabic CD 0 down 7 num_separator 0.68007683754
+mexike SNARC color arabic CD 0 down 5 num_separator 0.759066104889
+mexike SNARC color arabic CD 0 up 9 lctrl 0.470587015152
+mexike SNARC color arabic CD 0 up 7 lctrl 0.672040939331
+mexike SNARC color arabic CD 0 down 3 num_separator 0.402374982834
+mexike SNARC color arabic CD 0 up 6 lctrl 0.476758956909
+mexike SNARC color arabic CD 0 down 8 num_separator 0.600793838501
+mexike SNARC color arabic CD 0 up 3 lctrl 0.337044000626
+mexike SNARC color arabic CD 0 down 9 num_separator 0.516903877258
+mexike SNARC color arabic CD 0 up 4 lctrl 0.375306844711
+mexike SNARC color arabic CD 0 down 4 num_separator 0.469919919968
+mexike SNARC color arabic CD 0 up 1 lctrl 0.322838783264
+mexike SNARC color arabic CD 0 up 3 lctrl 0.442048072815
+mexike SNARC color arabic CD 0 up 6 lctrl 0.870340824127
+mexike SNARC color arabic CD 0 down 1 num_separator 0.516974925995
+mexike SNARC color arabic CD 0 down 6 num_separator 0.685029983521
+mexike SNARC color arabic CD 0 down 7 num_separator 0.553771972656
+mexike SNARC color arabic CD 0 down 9 num_separator 0.47826385498
+mexike SNARC color arabic CD 0 down 6 num_separator 0.382400035858
+mexike SNARC color arabic CD 0 down 3 num_separator 0.335378885269
+mexike SNARC color arabic CD 0 up 3 lctrl 1.17337584496
+mexike SNARC color arabic CD 0 up 8 lctrl 0.520149946213
+mexike SNARC color arabic CD 0 up 1 lctrl 0.63289308548
+mexike SNARC color arabic CD 0 up 2 lctrl 0.335795164108
+mexike SNARC color arabic CD 0 up 6 lctrl 0.322032213211
+mexike SNARC color arabic CD 0 up 2 lctrl 0.44104218483
+mexike SNARC color arabic CD 0 down 7 lctrl 0.174345970154
+mexike SNARC color arabic CD 0 down 8 num_separator 0.741979837418
+mexike SNARC color arabic CD 0 down 8 num_separator 0.437076807022
+mexike SNARC color arabic CD 0 up 8 lctrl 0.387664794922
+mexike SNARC color arabic CD 0 down 4 num_separator 0.59491610527
+mexike SNARC color arabic CD 0 down 5 lctrl 0.44743013382
+mexike SNARC color arabic CD 0 up 1 lctrl 0.759411811829
+mexike SNARC color arabic CD 0 down 2 num_separator 0.324610948563
+mexike SNARC color arabic CD 0 up 7 lctrl 0.482388019562
+mexike SNARC color arabic CD 0 up 7 lctrl 0.451464891434
+mexike SNARC color arabic CD 0 up 7 lctrl 0.393965005875
+mexike SNARC color arabic CD 0 down 8 num_separator 0.485064983368
+mexike SNARC color arabic CD 0 up 4 lctrl 0.471508026123
+mexike SNARC color arabic CD 0 up 9 lctrl 0.556588888168
+mexike SNARC color arabic CD 0 down 9 num_separator 0.442555904388
+mexike SNARC color arabic CD 0 down 8 num_separator 0.63850903511
+mexike SNARC color arabic CD 0 down 6 num_separator 0.402312994003
+mexike SNARC color arabic CD 0 down 2 num_separator 0.438100814819
+mexike SNARC color arabic CD 0 up 4 lctrl 0.440500974655
+mexike SNARC color arabic CD 0 up 1 lctrl 0.404165029526
+mexike SNARC color arabic CD 0 up 5 num_separator 0.401256084442
+mexike SNARC color arabic CD 0 down 4 num_separator 0.772291898727
+mexike SNARC color arabic CD 0 down 9 num_separator 0.441455125809
+mexike SNARC color arabic CD 0 down 3 num_separator 0.430973052979
+mexike SNARC color arabic CD 0 down 4 num_separator 0.411211967468
+mexike SNARC color arabic CD 0 up 3 lctrl 0.369431018829
+mexike SNARC color arabic CD 0 up 9 lctrl 0.515889167786
+mexike SNARC color arabic CD 0 up 6 lctrl 0.490417957306
+mexike SNARC color arabic CD 0 down 5 num_separator 0.48149394989
+mexike SNARC color arabic CD 0 up 4 lctrl 0.489414215088
+mexike SNARC color arabic CD 0 down 5 num_separator 0.519270896912
+mexike SNARC color arabic CD 0 up 9 lctrl 0.438365936279
+mexike SNARC color arabic CD 0 down 2 num_separator 0.556990861893
+mexike SNARC color arabic CD 0 up 1 lctrl 0.403995990753
+mexike SNARC color arabic CD 0 up 5 lctrl 0.478441953659
+mexike SNARC color arabic CD 0 down 2 num_separator 0.525009155273
+mexike SNARC color arabic CD 0 down 6 num_separator 0.521564006805
+mexike SNARC color arabic CD 0 up 4 lctrl 1.13759088516
+mexike SNARC color arabic CD 0 up 1 lctrl 0.634027004242
+mexike SNARC color arabic CD 0 up 3 lctrl 0.49168419838
+mexike SNARC color arabic CD 0 up 7 lctrl 0.482872962952
+mexike SNARC color arabic CD 0 up 6 lctrl 0.413260936737
+mexike SNARC color arabic CD 0 down 8 num_separator 0.410207033157
+mexike SNARC color arabic CD 0 down 7 num_separator 0.44602894783
+mexike SNARC color arabic CD 0 down 5 num_separator 0.487179040909
+mexike SNARC color arabic CD 0 down 4 num_separator 0.362226963043
+mexike SNARC color arabic CD 0 down 1 num_separator 0.409276008606
+mexike SNARC color arabic CD 0 down 8 num_separator 0.483736038208
+mexike SNARC color arabic CD 0 down 3 num_separator 0.452869176865
+mexike SNARC color arabic CD 0 down 1 num_separator 0.438627958298
+mexike SNARC color arabic CD 0 down 2 num_separator 0.441166162491
+mexike SNARC color arabic CD 0 up 5 lctrl 0.559746980667
+mexike SNARC color arabic CD 0 down 8 num_separator 0.552432060242
+mexike SNARC color arabic CD 0 up 2 lctrl 0.524898767471
+mexike SNARC color arabic CD 0 down 5 num_separator 0.28452205658
+mexike SNARC color arabic CD 0 up 2 lctrl 0.53098487854
+mexike SNARC color arabic CD 0 down 2 num_separator 0.488848924637
+mexike SNARC color arabic CD 0 down 8 num_separator 0.480031967163
+mexike SNARC color arabic CD 0 down 8 num_separator 0.565328836441
+mexike SNARC color arabic CD 0 up 1 lctrl 0.515434026718
+mexike SNARC color arabic CD 0 down 9 num_separator 0.489855051041
+mexike SNARC color arabic CD 0 up 7 lctrl 0.471763134003
+mexike SNARC color arabic CD 0 down 6 num_separator 0.488886117935
+mexike SNARC color arabic CD 0 up 3 lctrl 0.479965925217
+mexike SNARC color arabic CD 0 down 6 num_separator 0.565291166306
+mexike SNARC color arabic CD 0 down 5 num_separator 0.45102596283
+mexike SNARC color arabic CD 0 up 8 lctrl 0.492094039917
+mexike SNARC color arabic CD 0 up 6 lctrl 0.405784130096
+mexike SNARC color arabic CD 0 down 8 num_separator 0.480406045914
+mexike SNARC color arabic CD 0 up 7 lctrl 0.720347881317
+mexike SNARC color arabic CD 0 down 6 num_separator 0.555707931519
+mexike SNARC color arabic CD 0 up 3 lctrl 0.359461069107
+mexike SNARC color arabic CD 0 down 5 num_separator 0.600003957748
+mexike SNARC color arabic CD 0 up 2 lctrl 0.491142034531
+mexike SNARC color arabic CD 0 up 7 lctrl 0.443512201309
+mexike SNARC color arabic CD 0 up 1 lctrl 0.445942878723
+mexike SNARC color arabic CD 0 up 9 lctrl 0.486979007721
+mexike SNARC color arabic CD 0 up 8 lctrl 0.400810003281
+mexike SNARC color arabic CD 0 down 7 num_separator 0.41429400444
+mexike SNARC color arabic CD 0 up 9 lctrl 0.411315202713
+mexike SNARC color arabic CD 0 up 8 lctrl 0.445546150208
+mexike SNARC color arabic CD 0 up 9 lctrl 0.473505020142
+mexike SNARC color arabic CD 0 down 9 num_separator 0.437187194824
+mexike SNARC color arabic CD 0 up 1 lctrl 0.395420074463
+mexike SNARC color arabic CD 0 down 1 num_separator 0.360813140869
+mexike SNARC color arabic CD 0 down 8 num_separator 0.485105991364
+mexike SNARC color arabic CD 0 up 2 lctrl 0.446846961975
+mexike SNARC color arabic CD 0 down 2 num_separator 0.449227809906
+mexike SNARC color arabic CD 0 up 7 lctrl 0.515987873077
+mexike SNARC color arabic CD 0 down 5 num_separator 0.374351978302
+mexike SNARC color arabic CD 0 down 1 num_separator 0.443474054337
+mexike SNARC color arabic CD 0 up 8 lctrl 0.484647989273
+mexike SNARC color arabic CD 0 down 5 num_separator 0.398404121399
+mexike SNARC color arabic CD 0 up 5 lctrl 0.4120221138
+mexike SNARC color arabic CD 0 down 5 num_separator 0.370414018631
+mexike SNARC color arabic CD 0 down 4 lctrl 0.439517021179
+mexike SNARC color arabic CD 0 up 9 lctrl 0.674122095108
+mexike SNARC color arabic CD 0 down 1 num_separator 0.356653928757
+mexike SNARC color arabic CD 0 up 3 lctrl 0.412935018539
+mexike SNARC color arabic CD 0 up 4 lctrl 0.448642969131
+mexike SNARC color arabic CD 0 up 9 lctrl 0.489740848541
+mexike SNARC color arabic CD 0 up 8 lctrl 0.480930089951
+mexike SNARC color arabic CD 0 up 5 lctrl 0.411290884018
+mexike SNARC color arabic CD 0 down 5 num_separator 0.485711097717
+mexike SNARC color arabic CD 0 down 6 num_separator 0.425133943558
+mexike SNARC color arabic CD 0 down 1 num_separator 0.637742042542
+mexike SNARC color arabic CD 0 down 4 num_separator 0.362841129303
+mexike SNARC color arabic CD 0 down 2 num_separator 0.409871101379
+mexike SNARC color arabic CD 0 up 9 lctrl 0.368185997009
+mexike SNARC color arabic CD 0 up 6 lctrl 0.43711400032
+mexike SNARC color arabic CD 0 up 9 lctrl 0.439529895782
+mexike SNARC color arabic CD 0 up 6 lctrl 0.403314113617
+mexike SNARC color arabic CD 0 up 4 lctrl 0.361518144608
+mexike SNARC color arabic CD 0 down 5 num_separator 0.331281900406
+mexike SNARC color arabic CD 0 up 9 lctrl 0.682543039322
+mexike SNARC color arabic CD 0 up 6 lctrl 0.41296005249
+mexike SNARC color arabic CD 0 up 1 lctrl 0.371391773224
+mexike SNARC color arabic CD 0 down 1 num_separator 0.362949132919
+mexike SNARC color arabic CD 0 down 8 num_separator 0.526146888733
+mexike SNARC color arabic CD 0 down 1 num_separator 0.625727176666
+mexike SNARC color arabic CD 0 up 4 lctrl 0.444833040237
+mexike SNARC color arabic CD 0 up 6 lctrl 0.408576011658
+mexike SNARC color arabic CD 0 down 3 num_separator 0.483118772507
+mexike SNARC color arabic CD 0 down 7 num_separator 0.529600143433
+mexike SNARC color arabic CD 0 up 3 lctrl 0.487414836884
+mexike SNARC color arabic CD 0 up 3 lctrl 0.362312078476
+mexike SNARC color arabic CD 0 up 5 lctrl 0.370647192001
+mexike SNARC color arabic CD 0 down 7 num_separator 0.401048898697
+mexike SNARC color arabic CD 0 up 4 lctrl 0.453388929367
+mexike SNARC color arabic CD 0 up 2 lctrl 0.361737012863
+mexike SNARC color arabic CD 0 down 4 num_separator 0.370000123978
+mexike SNARC color arabic CD 0 up 8 lctrl 0.748922109604
+mexike SNARC color arabic CD 0 down 9 num_separator 0.412687063217
+mexike SNARC color arabic CD 0 up 4 lctrl 0.487119913101
+mexike SNARC color arabic CD 0 up 6 lctrl 0.400819063187
+mexike SNARC color arabic CD 0 up 7 lctrl 0.414587020874
+mexike SNARC color arabic CD 0 down 6 num_separator 0.37288403511
+mexike SNARC color arabic CD 0 down 3 num_separator 0.403272867203
+mexike SNARC color arabic CD 0 down 4 num_separator 0.40219783783
+mexike SNARC color arabic CD 0 up 3 lctrl 0.384119033813
+mexike SNARC color arabic CD 0 down 7 num_separator 0.414612054825
+mexike SNARC color arabic CD 0 up 8 lctrl 0.372895002365
+mexike SNARC color arabic CD 0 down 8 num_separator 0.403304100037
+mexike SNARC color arabic CD 0 up 9 lctrl 0.580754995346
+mexike SNARC color arabic CD 0 up 3 lctrl 0.566076993942
+mexike SNARC color arabic CD 0 down 1 num_separator 0.490615844727
+mexike SNARC color arabic CD 0 up 7 lctrl 0.520481109619
+mexike SNARC color arabic CD 0 down 8 num_separator 0.362282991409
+mexike SNARC color arabic CD 0 up 4 lctrl 0.525608062744
+mexike SNARC color arabic CD 0 down 8 num_separator 0.599640130997
+mexike SNARC color arabic CD 0 down 1 num_separator 0.80042886734
+mexike SNARC color arabic CD 0 up 8 lctrl 0.491727113724
+mexike SNARC color arabic CD 0 up 1 lctrl 0.396177053452
+mexike SNARC color arabic CD 0 down 4 num_separator 0.441213846207
+mexike SNARC color arabic CD 0 down 3 num_separator 0.521111011505
+mexike SNARC color arabic CD 0 up 6 lctrl 0.36288690567
+mexike SNARC color arabic CD 0 down 3 num_separator 0.629019021988
+mexike SNARC color arabic CD 0 down 2 num_separator 0.525660037994
+mexike SNARC color arabic CD 0 up 7 lctrl 0.431614160538
+mexike SNARC color arabic CD 0 up 6 lctrl 1.07015013695
+mexike SNARC color arabic CD 0 up 2 lctrl 0.400642871857
+mexike SNARC color arabic CD 0 down 4 num_separator 0.414450883865
+mexike SNARC color arabic CD 0 up 4 lctrl 0.450094938278
+mexike SNARC color arabic CD 0 down 3 num_separator 0.607396125793
+mexike SNARC color arabic CD 0 up 9 lctrl 1.17892384529
+mexike SNARC color arabic CD 0 up 7 lctrl 0.33208489418
+mexike SNARC color arabic CD 0 down 2 num_separator 0.451241016388
+mexike SNARC color arabic CD 0 up 1 lctrl 0.393721818924
+mexike SNARC color arabic CD 0 up 6 lctrl 0.36860203743
+mexike SNARC color arabic CD 0 up 6 lctrl 0.360199928284
+mexike SNARC color arabic CD 0 up 3 lctrl 0.368417024612
+mexike SNARC color arabic CD 0 up 9 lctrl 0.360071897507
+mexike SNARC color arabic CD 0 up 3 lctrl 0.871645927429
+mexike SNARC color arabic CD 0 down 4 num_separator 0.479682922363
+mexike SNARC color arabic CD 0 down 6 num_separator 0.526198148727
+mexike SNARC color arabic CD 0 up 1 lctrl 0.367845058441
+mexike SNARC color arabic CD 0 down 8 num_separator 0.465505123138
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'03_23_1028', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'mexike', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+mexike SNARC color dot DC 0 up 10 num_separator 1.50845003128
+mexike SNARC color dot DC 0 down 30 lctrl 0.449934005737
+mexike SNARC color dot DC 0 down 10 lctrl 0.60733795166
+mexike SNARC color dot DC 0 down 10 lctrl 0.520584821701
+mexike SNARC color dot DC 0 down 40 lctrl 0.428316116333
+mexike SNARC color dot DC 0 down 35 lctrl 0.590975046158
+mexike SNARC color dot DC 0 down 15 lctrl 0.388111114502
+mexike SNARC color dot DC 0 up 20 num_separator 0.535403966904
+mexike SNARC color dot DC 0 down 40 lctrl 0.404512166977
+mexike SNARC color dot DC 0 down 5 lctrl 0.866194963455
+mexike SNARC color dot DC 0 down 40 lctrl 0.496133089066
+mexike SNARC color dot DC 0 down 15 lctrl 0.85796713829
+mexike SNARC color dot DC 0 down 30 lctrl 0.909219026566
+mexike SNARC color dot DC 0 up 30 num_separator 0.411804199219
+mexike SNARC color dot DC 0 down 40 lctrl 0.375351190567
+mexike SNARC color dot DC 0 up 35 num_separator 0.411216974258
+mexike SNARC color dot DC 0 down 15 lctrl 0.314346075058
+mexike SNARC color dot DC 0 down 10 lctrl 0.411202192307
+mexike SNARC color dot DC 0 down 45 lctrl 0.35831284523
+mexike SNARC color dot DC 0 down 45 lctrl 0.377361059189
+mexike SNARC color dot DC 0 up 35 num_separator 0.408492088318
+mexike SNARC color dot DC 0 up 20 num_separator 0.505076885223
+mexike SNARC color dot DC 0 up 15 num_separator 0.385513067245
+mexike SNARC color dot DC 0 down 25 lctrl 0.382469177246
+mexike SNARC color dot DC 0 up 10 lctrl 0.412874937057
+mexike SNARC color dot DC 0 down 20 lctrl 0.664226055145
+mexike SNARC color dot DC 0 up 45 num_separator 0.54176402092
+mexike SNARC color dot DC 0 up 40 num_separator 0.410948038101
+mexike SNARC color dot DC 0 down 10 lctrl 0.524295091629
+mexike SNARC color dot DC 0 up 35 num_separator 0.48731303215
+mexike SNARC color dot DC 0 down 10 lctrl 0.827022075653
+mexike SNARC color dot DC 0 down 20 lctrl 0.507046937943
+mexike SNARC color dot DC 0 up 5 num_separator 0.481546878815
+mexike SNARC color dot DC 0 down 35 lctrl 0.494688987732
+mexike SNARC color dot DC 0 up 15 num_separator 0.895128011703
+mexike SNARC color dot DC 0 down 25 lctrl 0.469782114029
+mexike SNARC color dot DC 0 down 5 lctrl 0.390933990479
+mexike SNARC color dot DC 0 down 35 lctrl 0.457910060883
+mexike SNARC color dot DC 0 down 40 lctrl 0.410305023193
+mexike SNARC color dot DC 0 down 25 lctrl 0.390702962875
+mexike SNARC color dot DC 0 up 5 num_separator 0.52060508728
+mexike SNARC color dot DC 0 up 40 num_separator 0.445111989975
+mexike SNARC color dot DC 0 down 5 lctrl 0.370198011398
+mexike SNARC color dot DC 0 up 20 num_separator 1.50677895546
+mexike SNARC color dot DC 0 down 5 lctrl 0.365461826324
+mexike SNARC color dot DC 0 up 45 num_separator 0.401223897934
+mexike SNARC color dot DC 0 up 35 num_separator 0.403656005859
+mexike SNARC color dot DC 0 down 40 lctrl 0.401448011398
+mexike SNARC color dot DC 0 up 5 num_separator 0.747133016586
+mexike SNARC color dot DC 0 up 45 num_separator 0.399517059326
+mexike SNARC color dot DC 0 down 40 lctrl 0.479458093643
+mexike SNARC color dot DC 0 down 30 lctrl 0.631011962891
+mexike SNARC color dot DC 0 up 20 num_separator 0.356064081192
+mexike SNARC color dot DC 0 up 25 num_separator 0.347748041153
+mexike SNARC color dot DC 0 down 15 lctrl 0.433485031128
+mexike SNARC color dot DC 0 up 15 num_separator 0.62953209877
+mexike SNARC color dot DC 0 down 5 lctrl 1.22318601608
+mexike SNARC color dot DC 0 down 10 lctrl 0.403667926788
+mexike SNARC color dot DC 0 up 40 num_separator 0.633791923523
+mexike SNARC color dot DC 0 down 10 lctrl 0.530571937561
+mexike SNARC color dot DC 0 down 5 lctrl 0.527023077011
+mexike SNARC color dot DC 0 down 45 lctrl 0.473477840424
+mexike SNARC color dot DC 0 down 10 lctrl 0.44266295433
+mexike SNARC color dot DC 0 up 20 num_separator 0.467235088348
+mexike SNARC color dot DC 0 down 45 lctrl 0.519323825836
+mexike SNARC color dot DC 0 up 40 num_separator 0.427178859711
+mexike SNARC color dot DC 0 up 5 num_separator 0.872292995453
+mexike SNARC color dot DC 0 down 35 lctrl 0.330902814865
+mexike SNARC color dot DC 0 down 5 lctrl 0.411123991013
+mexike SNARC color dot DC 0 down 35 lctrl 0.452188968658
+mexike SNARC color dot DC 0 up 5 num_separator 0.399307966232
+mexike SNARC color dot DC 0 down 40 lctrl 0.34087395668
+mexike SNARC color dot DC 0 down 25 lctrl 0.731685876846
+mexike SNARC color dot DC 0 up 35 num_separator 0.572482824326
+mexike SNARC color dot DC 0 up 45 num_separator 0.507788181305
+mexike SNARC color dot DC 0 down 40 lctrl 0.836196899414
+mexike SNARC color dot DC 0 up 20 num_separator 0.770756006241
+mexike SNARC color dot DC 0 down 30 lctrl 0.36789894104
+mexike SNARC color dot DC 0 up 20 num_separator 0.49781703949
+mexike SNARC color dot DC 0 down 10 lctrl 0.372951984406
+mexike SNARC color dot DC 0 up 5 num_separator 0.596934080124
+mexike SNARC color dot DC 0 up 5 num_separator 0.759215116501
+mexike SNARC color dot DC 0 up 20 num_separator 1.86098313332
+mexike SNARC color dot DC 0 up 45 num_separator 0.435923814774
+mexike SNARC color dot DC 0 up 40 num_separator 0.405114889145
+mexike SNARC color dot DC 0 up 10 num_separator 0.402252912521
+mexike SNARC color dot DC 0 up 25 num_separator 0.382580041885
+mexike SNARC color dot DC 0 up 10 num_separator 0.396348953247
+mexike SNARC color dot DC 0 up 30 num_separator 0.376805782318
+mexike SNARC color dot DC 0 down 5 lctrl 0.471558094025
+mexike SNARC color dot DC 0 down 30 lctrl 0.445961952209
+mexike SNARC color dot DC 0 up 45 num_separator 0.475808143616
+mexike SNARC color dot DC 0 up 10 num_separator 0.754804134369
+mexike SNARC color dot DC 0 down 30 lctrl 0.446143865585
+mexike SNARC color dot DC 0 down 45 lctrl 0.437175035477
+mexike SNARC color dot DC 0 down 35 lctrl 0.445056915283
+mexike SNARC color dot DC 0 down 5 lctrl 0.447595119476
+mexike SNARC color dot DC 0 down 30 lctrl 0.334671020508
+mexike SNARC color dot DC 0 up 45 num_separator 0.541938066483
+mexike SNARC color dot DC 0 up 25 num_separator 0.427855014801
+mexike SNARC color dot DC 0 up 20 num_separator 0.430378913879
+mexike SNARC color dot DC 0 up 30 num_separator 0.378795862198
+mexike SNARC color dot DC 0 down 40 lctrl 0.490688085556
+mexike SNARC color dot DC 0 down 35 lctrl 0.354428052902
+mexike SNARC color dot DC 0 down 10 lctrl 0.40157699585
+mexike SNARC color dot DC 0 down 5 lctrl 0.355338096619
+mexike SNARC color dot DC 0 down 25 lctrl 0.346904039383
+mexike SNARC color dot DC 0 up 15 num_separator 0.432745933533
+mexike SNARC color dot DC 0 up 20 num_separator 0.435193061829
+mexike SNARC color dot DC 0 up 40 num_separator 0.636621952057
+mexike SNARC color dot DC 0 down 20 lctrl 0.577435970306
+mexike SNARC color dot DC 0 down 30 lctrl 0.4519739151
+mexike SNARC color dot DC 0 down 5 lctrl 0.321583032608
+mexike SNARC color dot DC 0 up 20 num_separator 0.424103021622
+mexike SNARC color dot DC 0 down 10 lctrl 0.481960058212
+mexike SNARC color dot DC 0 up 20 num_separator 0.550577163696
+mexike SNARC color dot DC 0 up 20 num_separator 0.436456918716
+mexike SNARC color dot DC 0 down 30 lctrl 0.439705848694
+mexike SNARC color dot DC 0 up 40 num_separator 0.679802894592
+mexike SNARC color dot DC 0 down 35 lctrl 0.647979974747
+mexike SNARC color dot DC 0 up 5 num_separator 0.450596809387
+mexike SNARC color dot DC 0 up 30 num_separator 0.380995035172
+mexike SNARC color dot DC 0 down 10 lctrl 0.875934839249
+mexike SNARC color dot DC 0 down 25 lctrl 0.73832321167
+mexike SNARC color dot DC 0 up 15 num_separator 0.540358066559
+mexike SNARC color dot DC 0 down 15 lctrl 0.813364028931
+mexike SNARC color dot DC 0 up 15 num_separator 0.419507980347
+mexike SNARC color dot DC 0 up 15 num_separator 0.847855806351
+mexike SNARC color dot DC 0 down 5 lctrl 0.450474023819
+mexike SNARC color dot DC 0 up 35 num_separator 0.380807161331
+mexike SNARC color dot DC 0 up 40 num_separator 0.455358028412
+mexike SNARC color dot DC 0 up 5 num_separator 0.393290996552
+mexike SNARC color dot DC 0 up 45 num_separator 0.349576950073
+mexike SNARC color dot DC 0 down 15 lctrl 0.590446949005
+mexike SNARC color dot DC 0 down 40 lctrl 0.564243078232
+mexike SNARC color dot DC 0 up 35 num_separator 0.416787862778
+mexike SNARC color dot DC 0 up 10 num_separator 0.375246047974
+mexike SNARC color dot DC 0 up 25 num_separator 0.505159854889
+mexike SNARC color dot DC 0 down 5 lctrl 0.440984964371
+mexike SNARC color dot DC 0 up 25 num_separator 0.448837041855
+mexike SNARC color dot DC 0 down 5 lctrl 0.412690162659
+mexike SNARC color dot DC 0 up 35 num_separator 0.424026966095
+mexike SNARC color dot DC 0 down 45 lctrl 0.586852788925
+mexike SNARC color dot DC 0 up 30 num_separator 0.40597820282
+mexike SNARC color dot DC 0 up 40 num_separator 0.83438205719
+mexike SNARC color dot DC 0 down 30 lctrl 0.403625011444
+mexike SNARC color dot DC 0 up 40 num_separator 0.715903043747
+mexike SNARC color dot DC 0 up 30 num_separator 0.496069908142
+mexike SNARC color dot DC 0 down 30 lctrl 0.492743015289
+mexike SNARC color dot DC 0 up 10 num_separator 0.909907102585
+mexike SNARC color dot DC 0 down 35 lctrl 0.41245508194
+mexike SNARC color dot DC 0 down 20 lctrl 0.465723991394
+mexike SNARC color dot DC 0 up 25 num_separator 0.473611116409
+mexike SNARC color dot DC 0 down 25 lctrl 0.448158025742
+mexike SNARC color dot DC 0 down 30 lctrl 0.533537149429
+mexike SNARC color dot DC 0 down 30 lctrl 0.341936826706
+mexike SNARC color dot DC 0 up 25 num_separator 0.582649946213
+mexike SNARC color dot DC 0 down 20 lctrl 0.473882913589
+mexike SNARC color dot DC 0 up 25 num_separator 0.387696027756
+mexike SNARC color dot DC 0 up 45 num_separator 0.467545032501
+mexike SNARC color dot DC 0 down 30 lctrl 0.458842992783
+mexike SNARC color dot DC 0 up 30 num_separator 0.411413908005
+mexike SNARC color dot DC 0 down 10 lctrl 0.408499002457
+mexike SNARC color dot DC 0 down 35 lctrl 0.411012172699
+mexike SNARC color dot DC 0 down 45 lctrl 0.551692962646
+mexike SNARC color dot DC 0 up 25 num_separator 0.459583997726
+mexike SNARC color dot DC 0 down 25 lctrl 1.88338398933
+mexike SNARC color dot DC 0 up 15 num_separator 0.358954191208
+mexike SNARC color dot DC 0 up 45 num_separator 0.510861873627
+mexike SNARC color dot DC 0 up 20 num_separator 0.452233076096
+mexike SNARC color dot DC 0 up 5 num_separator 0.747835874557
+mexike SNARC color dot DC 0 up 15 num_separator 0.511181116104
+mexike SNARC color dot DC 0 up 5 num_separator 0.433926105499
+mexike SNARC color dot DC 0 down 20 lctrl 0.358922958374
+mexike SNARC color dot DC 0 up 20 num_separator 0.471680879593
+mexike SNARC color dot DC 0 down 5 lctrl 0.621340036392
+mexike SNARC color dot DC 0 down 15 lctrl 0.694865942001
+mexike SNARC color dot DC 0 up 45 num_separator 0.629631996155
+mexike SNARC color dot DC 0 up 15 num_separator 0.97433590889
+mexike SNARC color dot DC 0 down 5 lctrl 0.521159172058
+mexike SNARC color dot DC 0 up 25 num_separator 0.794114112854
+mexike SNARC color dot DC 0 down 25 lctrl 0.378297805786
+mexike SNARC color dot DC 0 down 15 lctrl 0.585499048233
+mexike SNARC color dot DC 0 down 35 lctrl 0.559610128403
+mexike SNARC color dot DC 0 down 25 lctrl 0.777189016342
+mexike SNARC color dot DC 0 up 35 num_separator 0.413074970245
+mexike SNARC color dot DC 0 up 30 num_separator 0.338088989258
+mexike SNARC color dot DC 0 up 40 num_separator 0.407179832458
+mexike SNARC color dot DC 0 down 45 lctrl 0.531297922134
+mexike SNARC color dot DC 0 down 25 lctrl 0.317555189133
+mexike SNARC color dot DC 0 up 10 num_separator 0.375864982605
+mexike SNARC color dot DC 0 up 20 num_separator 0.428367853165
+mexike SNARC color dot DC 0 down 20 lctrl 0.469530105591
+mexike SNARC color dot DC 0 up 45 num_separator 0.46604013443
+mexike SNARC color dot DC 0 down 20 lctrl 0.745085954666
+mexike SNARC color dot DC 0 down 45 lctrl 0.474822998047
+mexike SNARC color dot DC 0 down 40 lctrl 0.38933801651
+mexike SNARC color dot DC 0 up 5 num_separator 0.441868066788
+mexike SNARC color dot DC 0 down 25 lctrl 0.52713394165
+mexike SNARC color dot DC 0 down 40 lctrl 0.412857055664
+mexike SNARC color dot DC 0 down 5 lctrl 0.719790935516
+mexike SNARC color dot DC 0 up 25 num_separator 0.538469076157
+mexike SNARC color dot DC 0 down 40 lctrl 0.584509849548
+mexike SNARC color dot DC 0 up 35 num_separator 0.442420959473
+mexike SNARC color dot DC 0 down 15 lctrl 0.466962099075
+mexike SNARC color dot DC 0 up 30 num_separator 0.574351072311
+mexike SNARC color dot DC 0 up 20 num_separator 0.697937011719
+mexike SNARC color dot DC 0 up 20 num_separator 0.536890983582
+mexike SNARC color dot DC 0 down 35 lctrl 0.599570989609
+mexike SNARC color dot DC 0 down 15 lctrl 0.435438156128
+mexike SNARC color dot DC 0 down 35 lctrl 0.404495000839
+mexike SNARC color dot DC 0 down 10 lctrl 0.362845897675
+mexike SNARC color dot DC 0 up 45 num_separator 0.437313079834
+mexike SNARC color dot DC 0 up 15 num_separator 0.4231300354
+mexike SNARC color dot DC 0 up 30 num_separator 0.525106191635
+mexike SNARC color dot DC 0 up 20 num_separator 0.350220918655
+mexike SNARC color dot DC 0 up 25 num_separator 0.39732003212
+mexike SNARC color dot DC 0 down 45 num_separator 0.361080884933
+mexike SNARC color dot DC 0 up 35 num_separator 0.994356870651
+mexike SNARC color dot DC 0 up 25 num_separator 0.43045592308
+mexike SNARC color dot DC 0 down 35 lctrl 0.377347946167
+mexike SNARC color dot DC 0 down 40 lctrl 0.374424934387
+mexike SNARC color dot DC 0 up 20 num_separator 0.465651988983
+mexike SNARC color dot DC 0 down 30 lctrl 0.53423500061
+mexike SNARC color dot DC 0 down 20 lctrl 0.35929107666
+mexike SNARC color dot DC 0 up 40 num_separator 0.437204122543
+mexike SNARC color dot DC 0 up 35 num_separator 0.505975008011
+mexike SNARC color dot DC 0 down 10 lctrl 0.325612068176
+mexike SNARC color dot DC 0 down 25 lctrl 0.350614070892
+mexike SNARC color dot DC 0 down 10 lctrl 0.491767883301
+mexike SNARC color dot DC 0 up 20 num_separator 0.427655935287
+mexike SNARC color dot DC 0 down 40 lctrl 0.568233013153
+mexike SNARC color dot DC 0 down 45 lctrl 0.503512144089
+mexike SNARC color dot DC 0 up 30 num_separator 0.522249937057
+mexike SNARC color dot DC 0 up 25 num_separator 0.450409889221
+mexike SNARC color dot DC 0 up 25 num_separator 0.668493032455
+mexike SNARC color dot DC 0 down 35 lctrl 0.365623950958
+mexike SNARC color dot DC 0 down 20 lctrl 0.434895038605
+mexike SNARC color dot DC 0 up 40 num_separator 0.868499994278
+mexike SNARC color dot DC 0 up 45 num_separator 0.426534175873
+mexike SNARC color dot DC 0 up 10 num_separator 0.445806026459
+mexike SNARC color dot DC 0 down 10 lctrl 0.719241857529
+mexike SNARC color dot DC 0 down 15 lctrl 0.610789060593
+mexike SNARC color dot DC 0 up 5 num_separator 0.562801837921
+mexike SNARC color dot DC 0 up 15 num_separator 0.43200802803
+mexike SNARC color dot DC 0 up 15 num_separator 0.502621889114
+mexike SNARC color dot DC 0 up 15 num_separator 0.585946083069
+mexike SNARC color dot DC 0 up 30 num_separator 0.792403936386
+mexike SNARC color dot DC 0 up 35 num_separator 0.411610841751
+mexike SNARC color dot DC 0 down 45 lctrl 0.784605979919
+mexike SNARC color dot DC 0 down 20 lctrl 0.532301902771
+mexike SNARC color dot DC 0 up 10 num_separator 0.412621974945
+mexike SNARC color dot DC 0 up 45 num_separator 0.66944694519
+mexike SNARC color dot DC 0 down 45 lctrl 0.311352014542
+mexike SNARC color dot DC 0 down 15 lctrl 0.546570062637
+mexike SNARC color dot DC 0 up 35 num_separator 0.415756940842
+mexike SNARC color dot DC 0 down 15 lctrl 0.473699092865
+mexike SNARC color dot DC 0 down 30 lctrl 0.370661973953
+mexike SNARC color dot DC 0 down 45 lctrl 0.389740943909
+mexike SNARC color dot DC 0 up 35 num_separator 0.409018039703
+mexike SNARC color dot DC 0 down 5 lctrl 0.483633995056
+mexike SNARC color dot DC 0 down 15 lctrl 0.435914993286
+mexike SNARC color dot DC 0 down 25 lctrl 0.421731948853
+mexike SNARC color dot DC 0 up 15 num_separator 0.462890863419
+mexike SNARC color dot DC 0 down 20 lctrl 0.393341064453
+mexike SNARC color dot DC 0 down 40 lctrl 0.528541088104
+mexike SNARC color dot DC 0 down 45 lctrl 0.320334911346
+mexike SNARC color dot DC 0 down 40 lctrl 0.483482837677
+mexike SNARC color dot DC 0 down 10 lctrl 0.452637910843
+mexike SNARC color dot DC 0 up 45 num_separator 0.616046905518
+mexike SNARC color dot DC 0 up 35 num_separator 0.324511051178
+mexike SNARC color dot DC 0 up 25 num_separator 0.427039861679
+mexike SNARC color dot DC 0 up 25 num_separator 0.352110862732
+mexike SNARC color dot DC 0 up 40 num_separator 0.443258047104
+mexike SNARC color dot DC 0 up 20 num_separator 0.429114103317
+mexike SNARC color dot DC 0 up 35 num_separator 0.414853096008
+mexike SNARC color dot DC 0 up 15 num_separator 0.434113025665
+mexike SNARC color dot DC 0 down 10 lctrl 0.53071808815
+mexike SNARC color dot DC 0 down 40 lctrl 1.26825714111
+mexike SNARC color dot DC 0 down 5 lctrl 0.515192985535
+mexike SNARC color dot DC 0 down 35 lctrl 0.45650100708
+mexike SNARC color dot DC 0 down 45 lctrl 0.392135858536
+mexike SNARC color dot DC 0 down 15 lctrl 0.311822891235
+mexike SNARC color dot DC 0 down 45 lctrl 0.900909900665
+mexike SNARC color dot DC 0 down 5 lctrl 0.492403030396
+mexike SNARC color dot DC 0 down 25 lctrl 0.389440059662
+mexike SNARC color dot DC 0 down 10 lctrl 0.287046909332
+mexike SNARC color dot DC 0 down 45 lctrl 0.384881973267
+mexike SNARC color dot DC 0 down 10 lctrl 0.321159124374
+mexike SNARC color dot DC 0 up 25 num_separator 0.449197053909
+mexike SNARC color dot DC 0 down 40 lctrl 0.633934020996
+mexike SNARC color dot DC 0 up 20 num_separator 0.475342988968
+mexike SNARC color dot DC 0 up 35 num_separator 0.56605219841
+mexike SNARC color dot DC 0 down 10 lctrl 0.72295999527
+mexike SNARC color dot DC 0 down 20 lctrl 0.386740922928
+mexike SNARC color dot DC 0 up 25 num_separator 0.538897037506
+mexike SNARC color dot DC 0 down 5 lctrl 1.0222158432
+mexike SNARC color dot DC 0 down 25 lctrl 0.502305030823
+mexike SNARC color dot DC 0 up 30 num_separator 0.637152910233
+mexike SNARC color dot DC 0 down 20 lctrl 0.34567284584
+mexike SNARC color dot DC 0 up 30 num_separator 0.569725036621
+mexike SNARC color dot DC 0 down 35 lctrl 0.48296713829
+mexike SNARC color dot DC 0 up 30 num_separator 0.651098012924
+mexike SNARC color dot DC 0 up 35 num_separator 0.636039972305
+mexike SNARC color dot DC 0 up 20 num_separator 0.84793305397
+mexike SNARC color dot DC 0 up 25 num_separator 0.62754201889
+mexike SNARC color dot DC 0 down 25 lctrl 0.413449048996
+mexike SNARC color dot DC 0 up 10 lctrl 0.449282169342
+mexike SNARC color dot DC 0 down 10 lctrl 1.37188100815
+mexike SNARC color dot DC 0 down 15 lctrl 0.472552061081
+mexike SNARC color dot DC 0 down 30 lctrl 0.369690895081
+mexike SNARC color dot DC 0 down 5 lctrl 0.361465930939
+mexike SNARC color dot DC 0 down 5 lctrl 0.369826078415
+mexike SNARC color dot DC 0 down 5 lctrl 0.434274196625
+mexike SNARC color dot DC 0 up 10 num_separator 0.414703130722
+mexike SNARC color dot DC 0 down 15 lctrl 0.433857917786
+mexike SNARC color dot DC 0 down 15 lctrl 0.358937978745
+mexike SNARC color dot DC 0 up 10 num_separator 0.483505964279
+mexike SNARC color dot DC 0 up 25 num_separator 0.358569860458
+mexike SNARC color dot DC 0 down 45 lctrl 0.355625867844
+mexike SNARC color dot DC 0 up 45 num_separator 0.468986988068
+mexike SNARC color dot DC 0 up 10 num_separator 0.472182035446
+mexike SNARC color dot DC 0 up 30 num_separator 0.789829969406
+mexike SNARC color dot DC 0 up 10 num_separator 0.464014053345
+mexike SNARC color dot DC 0 down 15 lctrl 0.510544061661
+mexike SNARC color dot DC 0 down 35 lctrl 0.435119152069
+mexike SNARC color dot DC 0 up 35 num_separator 0.675328016281
+mexike SNARC color dot DC 0 up 40 num_separator 0.449954986572
+mexike SNARC color dot DC 0 up 30 num_separator 0.535382032394
+mexike SNARC color dot DC 0 up 15 num_separator 0.485666036606
+mexike SNARC color dot DC 0 up 45 num_separator 0.426869153976
+mexike SNARC color dot DC 0 up 30 num_separator 0.412724971771
+mexike SNARC color dot DC 0 down 20 lctrl 0.43195104599
+mexike SNARC color dot DC 0 down 40 lctrl 0.534023046494
+mexike SNARC color dot DC 0 down 15 lctrl 0.475224018097
+mexike SNARC color dot DC 0 up 15 num_separator 0.427747964859
+mexike SNARC color dot DC 0 down 5 lctrl 0.446886062622
+mexike SNARC color dot DC 0 up 30 num_separator 0.57092499733
+mexike SNARC color dot DC 0 up 45 num_separator 0.661120891571
+mexike SNARC color dot DC 0 down 45 lctrl 0.397080898285
+mexike SNARC color dot DC 0 up 40 num_separator 0.80352807045
+mexike SNARC color dot DC 0 up 45 num_separator 0.466942071915
+mexike SNARC color dot DC 0 down 40 lctrl 0.458275079727
+mexike SNARC color dot DC 0 up 5 num_separator 0.483023881912
+mexike SNARC color dot DC 0 up 35 num_separator 0.496237039566
+mexike SNARC color dot DC 0 up 40 num_separator 0.415479898453
+mexike SNARC color dot DC 0 down 25 lctrl 0.512051105499
+mexike SNARC color dot DC 0 up 20 num_separator 0.431421041489
+mexike SNARC color dot DC 0 down 30 lctrl 0.645058870316
+mexike SNARC color dot DC 0 down 10 lctrl 0.524948835373
+mexike SNARC color dot DC 0 up 30 num_separator 0.362856149673
+mexike SNARC color dot DC 0 down 35 lctrl 0.330562829971
+mexike SNARC color dot DC 0 up 10 num_separator 0.527210950851
+mexike SNARC color dot DC 0 up 25 num_separator 0.429776191711
+mexike SNARC color dot DC 0 down 30 lctrl 0.415764093399
+mexike SNARC color dot DC 0 down 40 lctrl 0.4567527771
+mexike SNARC color dot DC 0 up 15 num_separator 0.426014900208
+mexike SNARC color dot DC 0 down 15 lctrl 0.312382936478
+mexike SNARC color dot DC 0 up 5 num_separator 0.525631904602
+mexike SNARC color dot DC 0 up 30 num_separator 0.489030838013
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'03_23_1037', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'mexike', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+mexike SNARC color arabic DC 0 down 2 lctrl 1.20383882523
+mexike SNARC color arabic DC 0 up 3 num_separator 0.401275873184
+mexike SNARC color arabic DC 0 down 7 lctrl 0.548766136169
+mexike SNARC color arabic DC 0 up 4 num_separator 0.335133075714
+mexike SNARC color arabic DC 0 up 6 num_separator 0.669970035553
+mexike SNARC color arabic DC 0 up 3 num_separator 0.361916065216
+mexike SNARC color arabic DC 0 up 6 num_separator 0.408982992172
+mexike SNARC color arabic DC 0 down 2 lctrl 0.445008039474
+mexike SNARC color arabic DC 0 up 1 num_separator 0.408694028854
+mexike SNARC color arabic DC 0 down 5 lctrl 0.431450843811
+mexike SNARC color arabic DC 0 down 4 lctrl 0.411819934845
+mexike SNARC color arabic DC 0 up 1 num_separator 0.370254993439
+mexike SNARC color arabic DC 0 down 4 lctrl 0.473442077637
+mexike SNARC color arabic DC 0 down 2 lctrl 0.984868049622
+mexike SNARC color arabic DC 0 down 5 lctrl 0.708518981934
+mexike SNARC color arabic DC 0 down 4 lctrl 0.71546792984
+mexike SNARC color arabic DC 0 down 6 lctrl 0.412651062012
+mexike SNARC color arabic DC 0 up 3 num_separator 0.371094942093
+mexike SNARC color arabic DC 0 down 1 lctrl 0.310892820358
+mexike SNARC color arabic DC 0 up 2 num_separator 0.408117055893
+mexike SNARC color arabic DC 0 down 5 lctrl 1.17969107628
+mexike SNARC color arabic DC 0 up 3 num_separator 0.333010911942
+mexike SNARC color arabic DC 0 down 9 lctrl 0.607089996338
+mexike SNARC color arabic DC 0 down 6 lctrl 0.791511058807
+mexike SNARC color arabic DC 0 up 5 num_separator 0.366686105728
+mexike SNARC color arabic DC 0 down 5 lctrl 0.529936075211
+mexike SNARC color arabic DC 0 down 6 lctrl 0.488045215607
+mexike SNARC color arabic DC 0 down 4 lctrl 0.44042801857
+mexike SNARC color arabic DC 0 up 1 num_separator 0.511103868484
+mexike SNARC color arabic DC 0 down 2 lctrl 0.284663915634
+mexike SNARC color arabic DC 0 up 6 num_separator 0.398357868195
+mexike SNARC color arabic DC 0 down 8 lctrl 0.799384117126
+mexike SNARC color arabic DC 0 up 9 num_separator 0.761913776398
+mexike SNARC color arabic DC 0 up 7 num_separator 0.718850135803
+mexike SNARC color arabic DC 0 down 7 lctrl 0.541380882263
+mexike SNARC color arabic DC 0 down 8 lctrl 0.44390296936
+mexike SNARC color arabic DC 0 up 5 num_separator 0.484988927841
+mexike SNARC color arabic DC 0 up 8 num_separator 0.350824117661
+mexike SNARC color arabic DC 0 down 7 lctrl 0.794445991516
+mexike SNARC color arabic DC 0 up 5 num_separator 0.390618801117
+mexike SNARC color arabic DC 0 down 8 lctrl 0.472638130188
+mexike SNARC color arabic DC 0 up 9 num_separator 0.334944009781
+mexike SNARC color arabic DC 0 up 2 num_separator 0.553617954254
+mexike SNARC color arabic DC 0 up 7 num_separator 0.594527006149
+mexike SNARC color arabic DC 0 up 2 num_separator 0.408293962479
+mexike SNARC color arabic DC 0 down 8 lctrl 0.715254068375
+mexike SNARC color arabic DC 0 down 7 lctrl 0.528640985489
+mexike SNARC color arabic DC 0 down 2 lctrl 0.486513853073
+mexike SNARC color arabic DC 0 up 8 num_separator 0.477867126465
+mexike SNARC color arabic DC 0 up 5 num_separator 0.60199713707
+mexike SNARC color arabic DC 0 up 9 num_separator 0.437965869904
+mexike SNARC color arabic DC 0 down 4 lctrl 0.401698112488
+mexike SNARC color arabic DC 0 up 5 num_separator 0.979757070541
+mexike SNARC color arabic DC 0 down 7 lctrl 0.75887298584
+mexike SNARC color arabic DC 0 up 6 num_separator 1.41292405128
+mexike SNARC color arabic DC 0 down 2 lctrl 0.565274953842
+mexike SNARC color arabic DC 0 down 5 lctrl 0.838371038437
+mexike SNARC color arabic DC 0 down 1 lctrl 0.402298927307
+mexike SNARC color arabic DC 0 up 7 num_separator 0.631804943085
+mexike SNARC color arabic DC 0 down 6 lctrl 0.678772926331
+mexike SNARC color arabic DC 0 up 3 num_separator 0.68038892746
+mexike SNARC color arabic DC 0 up 4 num_separator 0.682025194168
+mexike SNARC color arabic DC 0 up 2 lctrl 0.335130929947
+mexike SNARC color arabic DC 0 down 1 lctrl 0.537177085876
+mexike SNARC color arabic DC 0 up 5 num_separator 0.517164945602
+mexike SNARC color arabic DC 0 up 1 num_separator 1.03392505646
+mexike SNARC color arabic DC 0 down 9 lctrl 0.453269958496
+mexike SNARC color arabic DC 0 down 3 lctrl 0.477902173996
+mexike SNARC color arabic DC 0 down 1 lctrl 0.563288927078
+mexike SNARC color arabic DC 0 up 8 num_separator 0.48791885376
+mexike SNARC color arabic DC 0 up 5 num_separator 0.479248046875
+mexike SNARC color arabic DC 0 up 6 num_separator 0.874356031418
+mexike SNARC color arabic DC 0 down 7 lctrl 0.327501058578
+mexike SNARC color arabic DC 0 down 4 lctrl 0.601480007172
+mexike SNARC color arabic DC 0 down 1 lctrl 0.553580999374
+mexike SNARC color arabic DC 0 down 1 lctrl 0.396153926849
+mexike SNARC color arabic DC 0 down 2 lctrl 0.487388134003
+mexike SNARC color arabic DC 0 up 6 num_separator 0.517441987991
+mexike SNARC color arabic DC 0 up 9 num_separator 0.337242126465
+mexike SNARC color arabic DC 0 down 9 lctrl 0.478364944458
+mexike SNARC color arabic DC 0 up 2 num_separator 0.48636507988
+mexike SNARC color arabic DC 0 up 6 num_separator 0.580636024475
+mexike SNARC color arabic DC 0 up 7 num_separator 0.604788064957
+mexike SNARC color arabic DC 0 down 8 lctrl 0.40198802948
+mexike SNARC color arabic DC 0 up 8 num_separator 0.786386966705
+mexike SNARC color arabic DC 0 up 8 lctrl 0.271106958389
+mexike SNARC color arabic DC 0 up 8 num_separator 0.633859157562
+mexike SNARC color arabic DC 0 down 7 lctrl 0.453242063522
+mexike SNARC color arabic DC 0 up 5 num_separator 0.464758872986
+mexike SNARC color arabic DC 0 down 1 lctrl 0.33441901207
+mexike SNARC color arabic DC 0 up 9 num_separator 0.531039953232
+mexike SNARC color arabic DC 0 up 3 num_separator 0.605307102203
+mexike SNARC color arabic DC 0 down 5 lctrl 0.380145788193
+mexike SNARC color arabic DC 0 up 6 num_separator 0.558059930801
+mexike SNARC color arabic DC 0 up 1 num_separator 0.831250905991
+mexike SNARC color arabic DC 0 up 6 num_separator 0.528010129929
+mexike SNARC color arabic DC 0 down 6 lctrl 0.331250905991
+mexike SNARC color arabic DC 0 down 1 lctrl 0.798889875412
+mexike SNARC color arabic DC 0 down 2 lctrl 0.95472407341
+mexike SNARC color arabic DC 0 up 4 num_separator 0.982886075974
+mexike SNARC color arabic DC 0 down 2 lctrl 0.477850198746
+mexike SNARC color arabic DC 0 up 3 num_separator 0.447148084641
+mexike SNARC color arabic DC 0 down 2 lctrl 0.410929918289
+mexike SNARC color arabic DC 0 up 1 num_separator 0.485554933548
+mexike SNARC color arabic DC 0 down 9 lctrl 0.502447128296
+mexike SNARC color arabic DC 0 down 1 lctrl 0.631986856461
+mexike SNARC color arabic DC 0 up 6 num_separator 0.644788980484
+mexike SNARC color arabic DC 0 up 1 num_separator 0.718508005142
+mexike SNARC color arabic DC 0 down 9 lctrl 0.321620941162
+mexike SNARC color arabic DC 0 down 7 lctrl 0.479724884033
+mexike SNARC color arabic DC 0 down 6 lctrl 0.564790010452
+mexike SNARC color arabic DC 0 up 5 num_separator 0.605530977249
+mexike SNARC color arabic DC 0 down 9 lctrl 0.519042015076
+mexike SNARC color arabic DC 0 up 1 num_separator 0.476874828339
+mexike SNARC color arabic DC 0 down 6 lctrl 0.446084976196
+mexike SNARC color arabic DC 0 down 2 lctrl 0.564707040787
+mexike SNARC color arabic DC 0 up 2 num_separator 0.566780090332
+mexike SNARC color arabic DC 0 up 7 num_separator 0.839910984039
+mexike SNARC color arabic DC 0 down 9 lctrl 0.520064115524
+mexike SNARC color arabic DC 0 down 4 lctrl 0.787741184235
+mexike SNARC color arabic DC 0 up 1 num_separator 0.401731014252
+mexike SNARC color arabic DC 0 up 1 num_separator 0.515008926392
+mexike SNARC color arabic DC 0 up 6 num_separator 0.528336048126
+mexike SNARC color arabic DC 0 down 7 lctrl 0.486407995224
+mexike SNARC color arabic DC 0 down 7 lctrl 0.322814941406
+mexike SNARC color arabic DC 0 down 3 lctrl 0.751643180847
+mexike SNARC color arabic DC 0 up 2 num_separator 0.747339010239
+mexike SNARC color arabic DC 0 up 4 num_separator 0.68239402771
+mexike SNARC color arabic DC 0 up 4 num_separator 0.490380048752
+mexike SNARC color arabic DC 0 down 6 lctrl 0.365522861481
+mexike SNARC color arabic DC 0 down 1 lctrl 0.761038064957
+mexike SNARC color arabic DC 0 down 1 lctrl 0.485749959946
+mexike SNARC color arabic DC 0 up 6 num_separator 0.322250127792
+mexike SNARC color arabic DC 0 up 3 num_separator 0.518765211105
+mexike SNARC color arabic DC 0 down 2 lctrl 0.438111782074
+mexike SNARC color arabic DC 0 down 8 lctrl 0.63422703743
+mexike SNARC color arabic DC 0 up 5 num_separator 0.879415035248
+mexike SNARC color arabic DC 0 up 4 num_separator 0.603652000427
+mexike SNARC color arabic DC 0 down 2 lctrl 0.478274106979
+mexike SNARC color arabic DC 0 down 4 num_separator 0.44752407074
+mexike SNARC color arabic DC 0 down 2 lctrl 0.488759040833
+mexike SNARC color arabic DC 0 up 3 num_separator 0.441404819489
+mexike SNARC color arabic DC 0 up 7 num_separator 0.947283029556
+mexike SNARC color arabic DC 0 up 2 num_separator 0.604912042618
+mexike SNARC color arabic DC 0 down 8 lctrl 0.324672937393
+mexike SNARC color arabic DC 0 up 4 num_separator 0.985987901688
+mexike SNARC color arabic DC 0 down 3 lctrl 0.748458147049
+mexike SNARC color arabic DC 0 down 1 lctrl 0.838418006897
+mexike SNARC color arabic DC 0 down 4 lctrl 0.51846408844
+mexike SNARC color arabic DC 0 down 2 lctrl 0.553864955902
+mexike SNARC color arabic DC 0 up 1 num_separator 0.551373958588
+mexike SNARC color arabic DC 0 down 8 lctrl 0.553426027298
+mexike SNARC color arabic DC 0 down 5 lctrl 0.439456224442
+mexike SNARC color arabic DC 0 down 5 lctrl 0.480559825897
+mexike SNARC color arabic DC 0 up 7 num_separator 0.643389940262
+mexike SNARC color arabic DC 0 down 4 lctrl 0.484723091125
+mexike SNARC color arabic DC 0 down 9 lctrl 0.398557901382
+mexike SNARC color arabic DC 0 up 6 num_separator 0.760885000229
+mexike SNARC color arabic DC 0 up 7 num_separator 0.717964172363
+mexike SNARC color arabic DC 0 up 4 num_separator 0.544281005859
+mexike SNARC color arabic DC 0 down 3 lctrl 1.09759092331
+mexike SNARC color arabic DC 0 down 2 lctrl 0.411651849747
+mexike SNARC color arabic DC 0 up 9 num_separator 0.563679933548
+mexike SNARC color arabic DC 0 up 7 num_separator 0.643300056458
+mexike SNARC color arabic DC 0 down 7 lctrl 0.484583854675
+mexike SNARC color arabic DC 0 up 1 num_separator 0.514546871185
+mexike SNARC color arabic DC 0 down 3 lctrl 0.915349960327
+mexike SNARC color arabic DC 0 down 3 num_separator 0.451232194901
+mexike SNARC color arabic DC 0 down 4 lctrl 0.630850076675
+mexike SNARC color arabic DC 0 down 3 lctrl 0.643586158752
+mexike SNARC color arabic DC 0 down 5 lctrl 0.368781089783
+mexike SNARC color arabic DC 0 up 6 num_separator 0.592877864838
+mexike SNARC color arabic DC 0 up 9 num_separator 0.639086008072
+mexike SNARC color arabic DC 0 down 9 lctrl 0.519203901291
+mexike SNARC color arabic DC 0 up 3 num_separator 0.502752065659
+mexike SNARC color arabic DC 0 up 4 num_separator 0.554866075516
+mexike SNARC color arabic DC 0 down 5 lctrl 0.363269090652
+mexike SNARC color arabic DC 0 up 9 num_separator 0.86594581604
+mexike SNARC color arabic DC 0 up 5 num_separator 0.483199834824
+mexike SNARC color arabic DC 0 down 5 lctrl 0.491115808487
+mexike SNARC color arabic DC 0 up 8 num_separator 0.947064876556
+mexike SNARC color arabic DC 0 down 9 lctrl 0.372419118881
+mexike SNARC color arabic DC 0 down 3 lctrl 2.30016112328
+mexike SNARC color arabic DC 0 up 1 num_separator 0.840703964233
+mexike SNARC color arabic DC 0 up 8 num_separator 0.404699087143
+mexike SNARC color arabic DC 0 up 1 num_separator 0.479311943054
+mexike SNARC color arabic DC 0 down 1 lctrl 0.526061058044
+mexike SNARC color arabic DC 0 down 9 lctrl 0.629578828812
+mexike SNARC color arabic DC 0 down 7 lctrl 0.673731803894
+mexike SNARC color arabic DC 0 up 8 num_separator 0.48188996315
+mexike SNARC color arabic DC 0 up 7 num_separator 0.915808916092
+mexike SNARC color arabic DC 0 up 5 num_separator 0.490481853485
+mexike SNARC color arabic DC 0 up 6 num_separator 0.559365034103
+mexike SNARC color arabic DC 0 up 6 num_separator 0.677599906921
+mexike SNARC color arabic DC 0 up 9 num_separator 0.485641002655
+mexike SNARC color arabic DC 0 down 8 lctrl 0.386431932449
+mexike SNARC color arabic DC 0 down 3 lctrl 0.400135993958
+mexike SNARC color arabic DC 0 down 1 lctrl 0.365949869156
+mexike SNARC color arabic DC 0 down 4 lctrl 0.43979883194
+mexike SNARC color arabic DC 0 up 6 num_separator 0.584120988846
+mexike SNARC color arabic DC 0 up 2 num_separator 0.569511890411
+mexike SNARC color arabic DC 0 down 1 lctrl 0.554981946945
+mexike SNARC color arabic DC 0 up 3 num_separator 0.673256874084
+mexike SNARC color arabic DC 0 down 9 lctrl 0.51997089386
+mexike SNARC color arabic DC 0 down 9 lctrl 0.477962017059
+mexike SNARC color arabic DC 0 up 2 num_separator 0.524505853653
+mexike SNARC color arabic DC 0 up 1 num_separator 0.366317033768
+mexike SNARC color arabic DC 0 up 3 num_separator 0.374760150909
+mexike SNARC color arabic DC 0 down 6 lctrl 0.521424055099
+mexike SNARC color arabic DC 0 up 5 num_separator 0.3973300457
+mexike SNARC color arabic DC 0 down 3 lctrl 0.449851036072
+mexike SNARC color arabic DC 0 down 4 lctrl 0.41365480423
+mexike SNARC color arabic DC 0 down 3 lctrl 0.372213840485
+mexike SNARC color arabic DC 0 up 7 num_separator 0.480031967163
+mexike SNARC color arabic DC 0 up 4 num_separator 0.449248790741
+mexike SNARC color arabic DC 0 down 6 lctrl 0.335644960403
+mexike SNARC color arabic DC 0 up 6 num_separator 0.438154935837
+mexike SNARC color arabic DC 0 down 2 lctrl 0.513487100601
+mexike SNARC color arabic DC 0 down 4 lctrl 0.526859998703
+mexike SNARC color arabic DC 0 up 8 num_separator 0.484838008881
+mexike SNARC color arabic DC 0 up 5 num_separator 0.398679018021
+mexike SNARC color arabic DC 0 down 7 lctrl 0.283176898956
+mexike SNARC color arabic DC 0 down 9 lctrl 0.370245933533
+mexike SNARC color arabic DC 0 up 8 num_separator 0.516919851303
+mexike SNARC color arabic DC 0 up 2 num_separator 0.33660697937
+mexike SNARC color arabic DC 0 down 8 lctrl 0.439157009125
+mexike SNARC color arabic DC 0 up 3 num_separator 0.831856966019
+mexike SNARC color arabic DC 0 up 1 num_separator 0.644830942154
+mexike SNARC color arabic DC 0 up 1 num_separator 0.486137866974
+mexike SNARC color arabic DC 0 down 2 lctrl 0.516142845154
+mexike SNARC color arabic DC 0 up 2 num_separator 0.452013015747
+mexike SNARC color arabic DC 0 up 6 num_separator 0.43794298172
+mexike SNARC color arabic DC 0 down 3 lctrl 0.479168176651
+mexike SNARC color arabic DC 0 up 3 num_separator 1.06786799431
+mexike SNARC color arabic DC 0 down 5 lctrl 0.398591995239
+mexike SNARC color arabic DC 0 down 8 lctrl 0.441744089127
+mexike SNARC color arabic DC 0 down 2 lctrl 0.453564882278
+mexike SNARC color arabic DC 0 up 6 num_separator 0.478103876114
+mexike SNARC color arabic DC 0 down 4 lctrl 1.0281021595
+mexike SNARC color arabic DC 0 up 7 num_separator 1.72530293465
+mexike SNARC color arabic DC 0 down 4 lctrl 0.588604927063
+mexike SNARC color arabic DC 0 down 2 lctrl 0.527819871902
+mexike SNARC color arabic DC 0 down 9 lctrl 0.447026014328
+mexike SNARC color arabic DC 0 down 2 lctrl 0.488229990005
+mexike SNARC color arabic DC 0 up 9 num_separator 0.402074098587
+mexike SNARC color arabic DC 0 down 7 lctrl 0.549349069595
+mexike SNARC color arabic DC 0 up 3 num_separator 0.297113895416
+mexike SNARC color arabic DC 0 down 8 lctrl 0.4108710289
+mexike SNARC color arabic DC 0 up 9 num_separator 0.485432863235
+mexike SNARC color arabic DC 0 up 8 num_separator 0.631659030914
+mexike SNARC color arabic DC 0 up 6 num_separator 0.528290987015
+mexike SNARC color arabic DC 0 down 1 lctrl 0.408801078796
+mexike SNARC color arabic DC 0 up 7 num_separator 0.405913114548
+mexike SNARC color arabic DC 0 up 8 num_separator 0.574280023575
+mexike SNARC color arabic DC 0 down 1 lctrl 0.452795982361
+mexike SNARC color arabic DC 0 down 2 lctrl 0.477404117584
+mexike SNARC color arabic DC 0 up 8 num_separator 0.407890081406
+mexike SNARC color arabic DC 0 down 5 lctrl 0.58558177948
+mexike SNARC color arabic DC 0 down 4 lctrl 0.360734939575
+mexike SNARC color arabic DC 0 up 8 num_separator 0.407787084579
+mexike SNARC color arabic DC 0 down 9 lctrl 0.443529129028
+mexike SNARC color arabic DC 0 down 8 lctrl 0.368681907654
+mexike SNARC color arabic DC 0 up 5 num_separator 0.36040186882
+mexike SNARC color arabic DC 0 down 5 lctrl 0.359514951706
+mexike SNARC color arabic DC 0 up 2 num_separator 0.360557079315
+mexike SNARC color arabic DC 0 down 5 lctrl 0.407609939575
+mexike SNARC color arabic DC 0 up 3 num_separator 0.327310085297
+mexike SNARC color arabic DC 0 up 4 num_separator 0.407789945602
+mexike SNARC color arabic DC 0 up 9 num_separator 0.391769170761
+mexike SNARC color arabic DC 0 up 9 num_separator 0.473783016205
+mexike SNARC color arabic DC 0 down 4 lctrl 0.297363996506
+mexike SNARC color arabic DC 0 up 2 num_separator 0.527384996414
+mexike SNARC color arabic DC 0 up 3 num_separator 0.369188785553
+mexike SNARC color arabic DC 0 down 3 lctrl 0.438385009766
+mexike SNARC color arabic DC 0 up 8 num_separator 0.363598108292
+mexike SNARC color arabic DC 0 down 3 lctrl 0.35896396637
+mexike SNARC color arabic DC 0 up 6 num_separator 0.444787025452
+mexike SNARC color arabic DC 0 down 9 lctrl 0.331075906754
+mexike SNARC color arabic DC 0 down 1 lctrl 0.411550998688
+mexike SNARC color arabic DC 0 down 8 lctrl 0.408672094345
+mexike SNARC color arabic DC 0 up 8 num_separator 0.289659976959
+mexike SNARC color arabic DC 0 up 5 num_separator 0.790655136108
+mexike SNARC color arabic DC 0 down 9 lctrl 0.443288087845
+mexike SNARC color arabic DC 0 down 4 lctrl 0.445838928223
+mexike SNARC color arabic DC 0 up 4 num_separator 0.293484926224
+mexike SNARC color arabic DC 0 down 4 lctrl 0.446009874344
+mexike SNARC color arabic DC 0 up 4 num_separator 0.289052009583
+mexike SNARC color arabic DC 0 up 6 num_separator 0.402824878693
+mexike SNARC color arabic DC 0 up 3 num_separator 0.38692688942
+mexike SNARC color arabic DC 0 down 5 lctrl 0.439404010773
+mexike SNARC color arabic DC 0 up 4 num_separator 0.287095069885
+mexike SNARC color arabic DC 0 up 5 num_separator 0.362134218216
+mexike SNARC color arabic DC 0 up 7 num_separator 0.33191204071
+mexike SNARC color arabic DC 0 down 7 lctrl 0.451044797897
+mexike SNARC color arabic DC 0 up 3 num_separator 0.414993047714
+mexike SNARC color arabic DC 0 up 6 num_separator 0.566992044449
+mexike SNARC color arabic DC 0 up 6 num_separator 0.491688013077
+mexike SNARC color arabic DC 0 up 9 num_separator 0.328144788742
+mexike SNARC color arabic DC 0 up 9 num_separator 0.331088066101
+mexike SNARC color arabic DC 0 up 9 num_separator 0.295377016068
+mexike SNARC color arabic DC 0 down 3 lctrl 0.37043595314
+mexike SNARC color arabic DC 0 up 1 num_separator 0.400912046432
+mexike SNARC color arabic DC 0 down 5 lctrl 1.03418803215
+mexike SNARC color arabic DC 0 down 1 lctrl 0.531038045883
+mexike SNARC color arabic DC 0 up 7 num_separator 0.411581993103
+mexike SNARC color arabic DC 0 down 6 lctrl 0.408651828766
+mexike SNARC color arabic DC 0 down 3 lctrl 0.444541931152
+mexike SNARC color arabic DC 0 up 3 num_separator 0.433957099915
+mexike SNARC color arabic DC 0 down 7 lctrl 0.608063936234
+mexike SNARC color arabic DC 0 down 3 lctrl 0.637594938278
+mexike SNARC color arabic DC 0 down 5 lctrl 0.401370048523
+mexike SNARC color arabic DC 0 down 8 lctrl 0.359825134277
+mexike SNARC color arabic DC 0 down 9 lctrl 0.329561948776
+mexike SNARC color arabic DC 0 down 7 lctrl 0.332448959351
+mexike SNARC color arabic DC 0 down 9 lctrl 0.296736001968
+mexike SNARC color arabic DC 0 down 4 lctrl 0.33309006691
+mexike SNARC color arabic DC 0 down 1 lctrl 0.297437906265
+mexike SNARC color arabic DC 0 up 7 num_separator 0.488490104675
+mexike SNARC color arabic DC 0 up 8 num_separator 0.557233095169
+mexike SNARC color arabic DC 0 down 8 lctrl 0.443210124969
+mexike SNARC color arabic DC 0 down 3 lctrl 0.407022953033
+mexike SNARC color arabic DC 0 up 6 num_separator 0.442981958389
+mexike SNARC color arabic DC 0 up 7 num_separator 0.587268829346
+mexike SNARC color arabic DC 0 up 7 num_separator 0.478639125824
+mexike SNARC color arabic DC 0 down 5 lctrl 0.486573934555
+mexike SNARC color arabic DC 0 down 8 lctrl 0.439167976379
+mexike SNARC color arabic DC 0 up 8 num_separator 0.364228010178
+mexike SNARC color arabic DC 0 up 7 num_separator 0.411456108093
+mexike SNARC color arabic DC 0 up 3 num_separator 0.472954034805
+mexike SNARC color arabic DC 0 up 2 num_separator 0.326102972031
+mexike SNARC color arabic DC 0 up 7 num_separator 0.561488866806
+mexike SNARC color arabic DC 0 up 9 num_separator 0.33128118515
+mexike SNARC color arabic DC 0 down 4 lctrl 0.48924612999
+mexike SNARC color arabic DC 0 up 8 num_separator 0.441699028015
+mexike SNARC color arabic DC 0 down 5 lctrl 0.392457962036
+mexike SNARC color arabic DC 0 down 3 lctrl 0.444978952408
+mexike SNARC color arabic DC 0 down 6 lctrl 0.408751964569
+mexike SNARC color arabic DC 0 up 7 num_separator 0.444646120071
+mexike SNARC color arabic DC 0 down 9 lctrl 0.4084649086
+mexike SNARC color arabic DC 0 down 1 lctrl 0.444339036942
+mexike SNARC color arabic DC 0 down 9 lctrl 0.524252176285
+mexike SNARC color arabic DC 0 down 8 lctrl 0.520974159241
+mexike SNARC color arabic DC 0 up 4 num_separator 0.362778902054
+mexike SNARC color arabic DC 0 up 8 num_separator 0.332518815994
+mexike SNARC color arabic DC 0 up 7 num_separator 0.413037061691
+mexike SNARC color arabic DC 0 down 2 lctrl 0.603887081146
+mexike SNARC color arabic DC 0 up 7 num_separator 0.36239695549
+mexike SNARC color arabic DC 0 down 5 lctrl 0.293334960938
+mexike SNARC color arabic DC 0 down 1 lctrl 0.48473906517
+mexike SNARC color arabic DC 0 up 4 num_separator 0.514582872391
+mexike SNARC color arabic DC 0 down 4 lctrl 1.18612504005
+mexike SNARC color arabic DC 0 up 4 num_separator 0.400290966034
+mexike SNARC color arabic DC 0 down 6 lctrl 0.633300065994
+mexike SNARC color arabic DC 0 down 2 lctrl 0.452558994293
+mexike SNARC color arabic DC 0 up 2 num_separator 0.588743925095
+mexike SNARC color arabic DC 0 up 5 num_separator 0.363982915878
+mexike SNARC color arabic DC 0 up 5 num_separator 0.411134958267
+mexike SNARC color arabic DC 0 down 6 lctrl 0.52447104454
+mexike SNARC color arabic DC 0 up 8 num_separator 0.404941082001
+mexike SNARC color arabic DC 0 up 9 num_separator 0.388943910599
+{'participant': u'mexike', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'03_23_1046', 'autopilot': False, 'exp_id': u'SNARC'}
+mexike SNARC_only CD 4 lctrl 1.7553589344
+mexike SNARC_only CD 2 lctrl 0.480533838272
+mexike SNARC_only CD 3 num_separator 0.565958976746
+mexike SNARC_only CD 8 lctrl 0.568040847778
+mexike SNARC_only CD 7 num_separator 0.553503990173
+mexike SNARC_only CD 3 num_separator 0.40077495575
+mexike SNARC_only CD 5 num_separator 0.401531934738
+mexike SNARC_only CD 7 num_separator 0.476136922836
+mexike SNARC_only CD 6 lctrl 0.484070062637
+mexike SNARC_only CD 7 num_separator 0.60826587677
+mexike SNARC_only CD 4 lctrl 0.947537899017
+mexike SNARC_only CD 3 num_separator 0.445631027222
+mexike SNARC_only CD 4 lctrl 0.525639057159
+mexike SNARC_only CD 4 lctrl 0.5223300457
+mexike SNARC_only CD 1 num_separator 0.402858018875
+mexike SNARC_only CD 2 lctrl 0.554865837097
+mexike SNARC_only CD 1 num_separator 0.440728902817
+mexike SNARC_only CD 9 num_separator 0.598324775696
+mexike SNARC_only CD 6 lctrl 1.07039403915
+mexike SNARC_only CD 5 num_separator 0.47856092453
+mexike SNARC_only CD 8 lctrl 0.5252161026
+mexike SNARC_only CD 3 num_separator 0.521921873093
+mexike SNARC_only CD 5 lctrl 0.397840976715
+mexike SNARC_only CD 4 lctrl 1.03123998642
+mexike SNARC_only CD 7 num_separator 0.411946773529
+mexike SNARC_only CD 8 lctrl 0.409104824066
+mexike SNARC_only CD 5 num_separator 0.445102930069
+mexike SNARC_only CD 8 lctrl 0.718560934067
+mexike SNARC_only CD 6 lctrl 1.63837909698
+mexike SNARC_only CD 3 num_separator 2.2611041069
+mexike SNARC_only CD 5 num_separator 0.718667984009
+mexike SNARC_only CD 1 num_separator 0.670348882675
+mexike SNARC_only CD 5 num_separator 0.672024965286
+mexike SNARC_only CD 2 lctrl 0.441307783127
+mexike SNARC_only CD 9 num_separator 0.908608913422
+mexike SNARC_only CD 1 num_separator 1.21901798248
+mexike SNARC_only CD 7 num_separator 0.593519926071
+mexike SNARC_only CD 4 lctrl 0.523446083069
+mexike SNARC_only CD 9 num_separator 0.868647098541
+mexike SNARC_only CD 7 num_separator 0.74785399437
+mexike SNARC_only CD 8 lctrl 0.682770967484
+mexike SNARC_only CD 3 num_separator 1.80736994743
+mexike SNARC_only CD 2 lctrl 1.02457594872
+mexike SNARC_only CD 5 num_separator 0.753832817078
+mexike SNARC_only CD 2 lctrl 0.710708141327
+mexike SNARC_only CD 7 num_separator 0.524162054062
+mexike SNARC_only CD 3 num_separator 0.908097982407
+mexike SNARC_only CD 6 lctrl 0.637712001801
+mexike SNARC_only CD 8 lctrl 0.59520983696
+mexike SNARC_only CD 8 lctrl 0.597993135452
+mexike SNARC_only CD 8 lctrl 0.373076915741
+mexike SNARC_only CD 2 lctrl 0.558431148529
+mexike SNARC_only CD 5 num_separator 0.521864891052
+mexike SNARC_only CD 9 num_separator 0.557154893875
+mexike SNARC_only CD 1 num_separator 0.636804819107
+mexike SNARC_only CD 3 num_separator 0.594305038452
+mexike SNARC_only CD 6 lctrl 0.601836919785
+mexike SNARC_only CD 7 num_separator 0.579640865326
+mexike SNARC_only CD 9 num_separator 1.68796300888
+mexike SNARC_only CD 4 lctrl 1.09935998917
+mexike SNARC_only CD 9 num_separator 0.903543949127
+mexike SNARC_only CD 6 num_separator 2.24638295174
+mexike SNARC_only CD 3 lctrl 0.759269952774
+mexike SNARC_only CD 7 num_separator 1.60682201385
+mexike SNARC_only CD 1 num_separator 0.481904983521
+mexike SNARC_only CD 4 lctrl 0.48988699913
+mexike SNARC_only CD 8 lctrl 0.519801855087
+mexike SNARC_only CD 1 num_separator 0.516530036926
+mexike SNARC_only CD 3 num_separator 0.452450037003
+mexike SNARC_only CD 3 num_separator 0.399670124054
+mexike SNARC_only CD 4 lctrl 0.486346960068
+mexike SNARC_only CD 8 lctrl 1.25226306915
+mexike SNARC_only CD 6 lctrl 0.748086929321
+mexike SNARC_only CD 1 num_separator 0.411911964417
+mexike SNARC_only CD 8 lctrl 1.60933303833
+mexike SNARC_only CD 5 num_separator 0.561757087708
+mexike SNARC_only CD 4 lctrl 0.744318962097
+mexike SNARC_only CD 2 lctrl 0.907054901123
+mexike SNARC_only CD 8 lctrl 0.404329061508
+mexike SNARC_only CD 1 num_separator 0.478985071182
+mexike SNARC_only CD 4 lctrl 0.641763925552
+mexike SNARC_only CD 9 num_separator 0.676650047302
+mexike SNARC_only CD 6 lctrl 1.14293193817
+mexike SNARC_only CD 2 lctrl 1.91708803177
+mexike SNARC_only CD 7 num_separator 0.724608898163
+mexike SNARC_only CD 6 lctrl 0.637533903122
+mexike SNARC_only CD 6 lctrl 0.939093112946
+mexike SNARC_only CD 6 lctrl 0.751502037048
+mexike SNARC_only CD 2 lctrl 0.703892946243
+mexike SNARC_only CD 5 num_separator 0.710934877396
+mexike SNARC_only CD 3 num_separator 0.872783899307
+mexike SNARC_only CD 9 lctrl 0.790729045868
+mexike SNARC_only CD 2 lctrl 0.748620033264
+mexike SNARC_only CD 2 lctrl 0.567482948303
+mexike SNARC_only CD 1 num_separator 0.530714035034
+mexike SNARC_only CD 9 num_separator 1.98581695557
+mexike SNARC_only CD 9 num_separator 0.464501857758
+mexike SNARC_only CD 6 lctrl 0.876433849335
+mexike SNARC_only CD 6 lctrl 0.639216184616
+mexike SNARC_only CD 9 num_separator 0.712908983231
+mexike SNARC_only CD 7 num_separator 1.30078196526
+mexike SNARC_only CD 2 lctrl 1.18940210342
+mexike SNARC_only CD 4 lctrl 0.597043991089
+mexike SNARC_only CD 1 num_separator 1.03043198586
+mexike SNARC_only CD 5 num_separator 1.34055900574
+mexike SNARC_only CD 4 lctrl 0.636936903
+mexike SNARC_only CD 5 num_separator 0.555825948715
+mexike SNARC_only CD 4 num_separator 0.480463981628
+mexike SNARC_only CD 9 num_separator 0.643385887146
+mexike SNARC_only CD 8 lctrl 0.445946216583
+mexike SNARC_only CD 7 num_separator 0.526036024094
+mexike SNARC_only CD 1 num_separator 0.522763967514
+mexike SNARC_only CD 7 num_separator 0.674252986908
+mexike SNARC_only CD 2 lctrl 0.516391992569
+mexike SNARC_only CD 3 num_separator 0.568489074707
+mexike SNARC_only CD 2 lctrl 0.786415100098
+mexike SNARC_only CD 7 num_separator 0.434309005737
+mexike SNARC_only CD 4 lctrl 0.45352602005
+mexike SNARC_only CD 1 num_separator 0.67179107666
+mexike SNARC_only CD 2 lctrl 0.363711118698
+mexike SNARC_only CD 3 num_separator 0.410820960999
+mexike SNARC_only CD 5 num_separator 0.640413045883
+mexike SNARC_only CD 4 lctrl 0.675372123718
+mexike SNARC_only CD 1 num_separator 0.909250974655
+mexike SNARC_only CD 7 num_separator 0.677795171738
+mexike SNARC_only CD 4 lctrl 0.485747814178
+mexike SNARC_only CD 3 num_separator 0.580065011978
+mexike SNARC_only CD 7 num_separator 2.34669303894
+mexike SNARC_only CD 7 num_separator 0.488644838333
+mexike SNARC_only CD 3 num_separator 0.780507802963
+mexike SNARC_only CD 6 lctrl 0.6747610569
+mexike SNARC_only CD 1 num_separator 1.56701803207
+mexike SNARC_only CD 4 lctrl 0.599050045013
+mexike SNARC_only CD 6 lctrl 0.788127183914
+mexike SNARC_only CD 1 num_separator 0.595728874207
+mexike SNARC_only CD 3 num_separator 0.603241920471
+mexike SNARC_only CD 8 lctrl 0.477895975113
+mexike SNARC_only CD 5 num_separator 0.524535179138
+mexike SNARC_only CD 1 num_separator 0.405139923096
+mexike SNARC_only CD 5 num_separator 0.518472909927
+mexike SNARC_only CD 3 num_separator 0.437829971313
+mexike SNARC_only CD 4 lctrl 0.440343141556
+mexike SNARC_only CD 9 num_separator 0.675302028656
+mexike SNARC_only CD 9 num_separator 0.59942483902
+mexike SNARC_only CD 4 lctrl 0.529587984085
+mexike SNARC_only CD 9 num_separator 0.797328948975
+mexike SNARC_only CD 6 lctrl 0.527429103851
+mexike SNARC_only CD 5 num_separator 0.674553155899
+mexike SNARC_only CD 5 num_separator 0.521239995956
+mexike SNARC_only CD 5 num_separator 0.440442085266
+mexike SNARC_only CD 8 lctrl 0.868896961212
+mexike SNARC_only CD 9 num_separator 0.554579019547
+mexike SNARC_only CD 9 num_separator 0.582234859467
+mexike SNARC_only CD 6 lctrl 0.412817001343
+mexike SNARC_only CD 7 num_separator 0.448722839355
+mexike SNARC_only CD 3 num_separator 0.567425966263
+mexike SNARC_only CD 7 num_separator 0.724519014359
+mexike SNARC_only CD 8 lctrl 0.357108831406
+mexike SNARC_only CD 1 num_separator 0.41348695755
+mexike SNARC_only CD 9 num_separator 0.643052816391
+mexike SNARC_only CD 7 num_separator 0.600651025772
+mexike SNARC_only CD 4 lctrl 0.53061580658
+mexike SNARC_only CD 3 num_separator 0.566019058228
+mexike SNARC_only CD 5 num_separator 0.52943110466
+mexike SNARC_only CD 1 num_separator 0.642348051071
+mexike SNARC_only CD 4 lctrl 0.444930076599
+mexike SNARC_only CD 7 num_separator 0.524910926819
+mexike SNARC_only CD 8 lctrl 0.521759986877
+mexike SNARC_only CD 7 num_separator 0.557159900665
+mexike SNARC_only CD 1 num_separator 0.636844158173
+mexike SNARC_only CD 6 lctrl 0.362070798874
+mexike SNARC_only CD 7 num_separator 0.525356054306
+mexike SNARC_only CD 9 num_separator 0.676994085312
+mexike SNARC_only CD 1 num_separator 0.60117483139
+mexike SNARC_only CD 8 lctrl 0.462783813477
+mexike SNARC_only CD 1 num_separator 0.526068925858
+mexike SNARC_only CD 7 num_separator 0.484101057053
+mexike SNARC_only CD 7 num_separator 0.414715051651
+mexike SNARC_only CD 8 lctrl 0.450617074966
+mexike SNARC_only CD 4 lctrl 0.530580997467
+mexike SNARC_only CD 3 num_separator 0.488608121872
+mexike SNARC_only CD 1 num_separator 0.402484178543
+mexike SNARC_only CD 3 num_separator 0.464003801346
+mexike SNARC_only CD 8 lctrl 0.566098928452
+mexike SNARC_only CD 7 num_separator 0.452023983002
+mexike SNARC_only CD 4 lctrl 0.583521842957
+mexike SNARC_only CD 6 lctrl 0.600317001343
+mexike SNARC_only CD 3 num_separator 0.453032970428
+mexike SNARC_only CD 1 num_separator 0.632542133331
+mexike SNARC_only CD 6 lctrl 0.490537881851
+mexike SNARC_only CD 2 lctrl 0.714263916016
+mexike SNARC_only CD 2 lctrl 0.60506606102
+mexike SNARC_only CD 6 lctrl 0.518507003784
+mexike SNARC_only CD 3 num_separator 0.5152759552
+mexike SNARC_only CD 9 num_separator 0.915858983994
+mexike SNARC_only CD 7 num_separator 0.490661144257
+mexike SNARC_only CD 6 lctrl 0.482021093369
+mexike SNARC_only CD 9 num_separator 0.490071773529
+mexike SNARC_only CD 2 lctrl 0.86855506897
+mexike SNARC_only CD 5 num_separator 0.554142951965
+mexike SNARC_only CD 8 lctrl 0.5045170784
+mexike SNARC_only CD 2 lctrl 0.508548974991
+mexike SNARC_only CD 3 num_separator 0.415058851242
+mexike SNARC_only CD 8 lctrl 0.528344869614
+mexike SNARC_only CD 6 lctrl 0.525115966797
+mexike SNARC_only CD 1 num_separator 0.401125907898
+mexike SNARC_only CD 3 num_separator 0.453691959381
+mexike SNARC_only CD 2 lctrl 0.517077922821
+mexike SNARC_only CD 2 lctrl 0.41431593895
+mexike SNARC_only CD 3 num_separator 0.527526140213
+mexike SNARC_only CD 4 lctrl 0.549842834473
+mexike SNARC_only CD 5 num_separator 0.491178035736
+mexike SNARC_only CD 6 lctrl 0.443639993668
+mexike SNARC_only CD 4 num_separator 0.48500418663
+mexike SNARC_only CD 3 num_separator 0.55383014679
+mexike SNARC_only CD 8 lctrl 0.401155948639
+mexike SNARC_only CD 8 lctrl 0.453602075577
+mexike SNARC_only CD 9 num_separator 0.788068056107
+mexike SNARC_only CD 1 num_separator 0.63432097435
+mexike SNARC_only CD 5 num_separator 0.672959089279
+mexike SNARC_only CD 3 num_separator 0.558423042297
+mexike SNARC_only CD 1 num_separator 0.444451093674
+mexike SNARC_only CD 5 num_separator 0.640704154968
+mexike SNARC_only CD 3 num_separator 0.520832777023
+mexike SNARC_only CD 9 num_separator 0.595019102097
+mexike SNARC_only CD 2 lctrl 0.486405134201
+mexike SNARC_only CD 2 lctrl 0.511822938919
+mexike SNARC_only CD 6 lctrl 0.525179862976
+mexike SNARC_only CD 7 num_separator 0.638122081757
+mexike SNARC_only CD 6 lctrl 0.673111915588
+mexike SNARC_only CD 5 num_separator 0.506677150726
+mexike SNARC_only CD 5 num_separator 0.520153999329
+mexike SNARC_only CD 9 num_separator 0.787939071655
+mexike SNARC_only CD 2 lctrl 0.517976999283
+mexike SNARC_only CD 2 lctrl 0.940623998642
+mexike SNARC_only CD 9 num_separator 0.753170013428
+mexike SNARC_only CD 1 num_separator 0.671662092209
+mexike SNARC_only CD 4 lctrl 0.557078123093
+mexike SNARC_only CD 7 num_separator 0.559237003326
+mexike SNARC_only CD 9 num_separator 0.716250896454
+mexike SNARC_only CD 2 lctrl 0.529805898666
+mexike SNARC_only CD 3 num_separator 0.487878084183
+mexike SNARC_only CD 7 num_separator 0.595348119736
+mexike SNARC_only CD 3 num_separator 0.641637802124
+mexike SNARC_only CD 2 lctrl 0.560529947281
+mexike SNARC_only CD 5 num_separator 0.756199121475
+mexike SNARC_only CD 1 num_separator 0.510424852371
+mexike SNARC_only CD 1 num_separator 0.400259971619
+mexike SNARC_only CD 8 lctrl 0.607656002045
+mexike SNARC_only CD 8 lctrl 0.521071910858
+mexike SNARC_only CD 9 num_separator 0.620952129364
+mexike SNARC_only CD 9 num_separator 0.440267086029
+mexike SNARC_only CD 6 lctrl 0.597730875015
+mexike SNARC_only CD 3 num_separator 0.489062070847
+mexike SNARC_only CD 8 lctrl 0.480396032333
+mexike SNARC_only CD 2 lctrl 0.6820499897
+mexike SNARC_only CD 8 lctrl 0.490102052689
+mexike SNARC_only CD 5 num_separator 0.481470108032
+mexike SNARC_only CD 9 num_separator 0.83810710907
+mexike SNARC_only CD 9 num_separator 0.44091296196
+mexike SNARC_only CD 4 lctrl 0.520838022232
+mexike SNARC_only CD 4 lctrl 0.982357025146
+mexike SNARC_only CD 4 lctrl 0.568048000336
+mexike SNARC_only CD 6 lctrl 0.630885839462
+mexike SNARC_only CD 5 num_separator 0.527658939362
+mexike SNARC_only CD 2 lctrl 0.795552015305
+mexike SNARC_only CD 5 num_separator 0.564297199249
+mexike SNARC_only CD 4 lctrl 0.566402196884
+mexike SNARC_only CD 9 num_separator 0.413663864136
+mexike SNARC_only CD 4 lctrl 0.488211870193
+mexike SNARC_only CD 8 lctrl 0.6345038414
+mexike SNARC_only CD 5 num_separator 1.13412904739
+mexike SNARC_only CD 6 lctrl 0.492295026779
+mexike SNARC_only CD 5 num_separator 0.522342205048
+mexike SNARC_only CD 2 lctrl 0.553218841553
+mexike SNARC_only CD 7 num_separator 0.710259914398
+mexike SNARC_only CD 5 num_separator 1.14335393906
+mexike SNARC_only CD 2 lctrl 0.485009908676
+mexike SNARC_only CD 8 lctrl 0.708585977554
+mexike SNARC_only CD 3 num_separator 0.948021888733
+mexike SNARC_only CD 2 lctrl 1.45771598816
+mexike SNARC_only CD 6 lctrl 0.482560873032
+mexike SNARC_only CD 5 num_separator 0.645480871201
+mexike SNARC_only CD 4 lctrl 0.564285039902
+mexike SNARC_only CD 2 lctrl 0.450178861618
+mexike SNARC_only CD 6 lctrl 0.414086103439
+mexike SNARC_only CD 9 num_separator 0.488901138306
+mexike SNARC_only CD 3 num_separator 0.596286058426
+mexike SNARC_only CD 6 lctrl 0.952310085297
+mexike SNARC_only CD 2 lctrl 0.593356847763
+mexike SNARC_only CD 4 lctrl 0.634939193726
+mexike SNARC_only CD 2 lctrl 0.360209226608
+mexike SNARC_only CD 3 num_separator 0.52343082428
+mexike SNARC_only CD 9 lctrl 0.442739963531
+mexike SNARC_only CD 9 num_separator 0.910002946854
+mexike SNARC_only CD 9 num_separator 1.22058796883
+mexike SNARC_only CD 8 lctrl 0.581763982773
+mexike SNARC_only CD 6 lctrl 0.489753007889
+mexike SNARC_only CD 6 lctrl 0.481105804443
+mexike SNARC_only CD 4 lctrl 0.523168087006
+mexike SNARC_only CD 2 lctrl 0.476533889771
+mexike SNARC_only CD 3 num_separator 0.471333026886
+mexike SNARC_only CD 7 num_separator 0.673017024994
+mexike SNARC_only CD 1 num_separator 0.403674125671
+mexike SNARC_only CD 8 lctrl 0.555783033371
+mexike SNARC_only CD 8 lctrl 0.519323825836
+mexike SNARC_only CD 3 num_separator 0.593403100967
+mexike SNARC_only CD 2 lctrl 0.56219792366
+mexike SNARC_only CD 6 lctrl 0.641826868057
+mexike SNARC_only CD 8 lctrl 0.512645959854
+mexike SNARC_only CD 7 num_separator 0.479874134064
+mexike SNARC_only CD 8 lctrl 0.565265893936
+mexike SNARC_only CD 2 lctrl 0.485314846039
+mexike SNARC_only CD 9 num_separator 0.863903045654
+mexike SNARC_only CD 7 num_separator 0.488717794418
+mexike SNARC_only CD 7 num_separator 0.557522058487
+mexike SNARC_only CD 5 num_separator 0.856359958649
+mexike SNARC_only CD 5 num_separator 0.519861936569
+mexike SNARC_only CD 7 num_separator 0.748993873596
+mexike SNARC_only CD 9 num_separator 0.567842006683
+mexike SNARC_only CD 2 lctrl 0.505531072617
+mexike SNARC_only CD 6 lctrl 0.644098997116
+mexike SNARC_only CD 4 lctrl 0.408077955246
+mexike SNARC_only CD 6 lctrl 0.366451025009
+mexike SNARC_only CD 1 num_separator 0.529767990112
+mexike SNARC_only CD 1 num_separator 0.410434007645
+mexike SNARC_only CD 7 num_separator 0.446379899979
+mexike SNARC_only CD 1 num_separator 0.448976039886
+mexike SNARC_only CD 4 lctrl 0.606451034546
+mexike SNARC_only CD 1 num_separator 0.519806146622
+mexike SNARC_only CD 3 num_separator 1.36851501465
+mexike SNARC_only CD 8 lctrl 0.476873159409
+mexike SNARC_only CD 8 lctrl 0.407222986221
+mexike SNARC_only CD 1 num_separator 0.481932163239
+mexike SNARC_only CD 3 num_separator 0.52870798111
+mexike SNARC_only CD 5 num_separator 0.835193872452
+mexike SNARC_only CD 7 num_separator 0.515408992767
+mexike SNARC_only CD 9 lctrl 0.412599086761
+mexike SNARC_only CD 7 num_separator 0.758250951767
+mexike SNARC_only CD 4 lctrl 0.483111858368
+mexike SNARC_only CD 1 num_separator 0.529866933823
+mexike SNARC_only CD 6 lctrl 0.448935031891
+mexike SNARC_only CD 9 num_separator 0.679385185242
+mexike SNARC_only CD 6 lctrl 0.526098012924
+mexike SNARC_only CD 1 num_separator 0.513597011566
+mexike SNARC_only CD 4 lctrl 0.480921983719
+mexike SNARC_only CD 5 num_separator 0.527626991272
+mexike SNARC_only CD 6 lctrl 0.485589027405
+mexike SNARC_only CD 5 num_separator 0.588531017303
+mexike SNARC_only CD 5 num_separator 0.518713951111
+mexike SNARC_only CD 1 num_separator 0.515299797058
+mexike SNARC_only CD 1 num_separator 0.451292991638
+mexike SNARC_only CD 4 lctrl 0.514668941498
+mexike SNARC_only CD 2 lctrl 0.484693050385
+mexike SNARC_only CD 9 num_separator 1.09558200836
+mexike SNARC_only CD 8 lctrl 0.448418855667
+mexike SNARC_only CD 8 lctrl 0.412240028381
+mexike SNARC_only CD 5 num_separator 0.448184013367
+mexike SNARC_only CD 8 lctrl 0.528220891953
+mexike SNARC_only CD 7 num_separator 0.563596963882
+{'participant': u'mexike', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'03_23_1055', 'autopilot': False, 'exp_id': u'SNARC'}
+mexike SNARC_only DC 1 lctrl 1.64418411255
+mexike SNARC_only DC 2 num_separator 0.408596992493
+mexike SNARC_only DC 5 lctrl 0.715598106384
+mexike SNARC_only DC 7 lctrl 0.528999090195
+mexike SNARC_only DC 9 num_separator 0.40953207016
+mexike SNARC_only DC 2 num_separator 0.755270004272
+mexike SNARC_only DC 7 lctrl 0.402590990067
+mexike SNARC_only DC 8 num_separator 0.477231025696
+mexike SNARC_only DC 8 num_separator 0.485357046127
+mexike SNARC_only DC 9 lctrl 0.437886953354
+mexike SNARC_only DC 4 num_separator 0.479158878326
+mexike SNARC_only DC 3 lctrl 0.370959043503
+mexike SNARC_only DC 2 num_separator 0.517687082291
+mexike SNARC_only DC 7 lctrl 0.685938119888
+mexike SNARC_only DC 4 num_separator 0.554718017578
+mexike SNARC_only DC 8 num_separator 0.595594167709
+mexike SNARC_only DC 9 lctrl 0.564526081085
+mexike SNARC_only DC 9 lctrl 0.4503428936
+mexike SNARC_only DC 5 lctrl 0.491528987885
+mexike SNARC_only DC 8 num_separator 0.521579027176
+mexike SNARC_only DC 7 lctrl 0.479633808136
+mexike SNARC_only DC 8 num_separator 0.564963102341
+mexike SNARC_only DC 7 lctrl 0.45087313652
+mexike SNARC_only DC 9 lctrl 0.685778141022
+mexike SNARC_only DC 8 num_separator 0.554572105408
+mexike SNARC_only DC 9 lctrl 0.556666135788
+mexike SNARC_only DC 8 num_separator 0.481346130371
+mexike SNARC_only DC 2 num_separator 0.566771030426
+mexike SNARC_only DC 2 num_separator 0.375355958939
+mexike SNARC_only DC 8 num_separator 0.483284950256
+mexike SNARC_only DC 4 num_separator 0.413839817047
+mexike SNARC_only DC 4 num_separator 0.875681877136
+mexike SNARC_only DC 4 num_separator 0.367638111115
+mexike SNARC_only DC 5 num_separator 0.37614607811
+mexike SNARC_only DC 3 lctrl 0.793793916702
+mexike SNARC_only DC 2 num_separator 0.446511983871
+mexike SNARC_only DC 2 num_separator 0.513345003128
+mexike SNARC_only DC 4 num_separator 0.478780984879
+mexike SNARC_only DC 8 num_separator 0.518042087555
+mexike SNARC_only DC 2 num_separator 0.475844144821
+mexike SNARC_only DC 6 num_separator 0.445300102234
+mexike SNARC_only DC 1 lctrl 0.37045788765
+mexike SNARC_only DC 5 lctrl 0.400897026062
+mexike SNARC_only DC 3 lctrl 0.337226867676
+mexike SNARC_only DC 8 num_separator 0.478573799133
+mexike SNARC_only DC 2 num_separator 2.77112483978
+mexike SNARC_only DC 2 num_separator 0.466793060303
+mexike SNARC_only DC 4 num_separator 0.452678918839
+mexike SNARC_only DC 4 num_separator 0.399883985519
+mexike SNARC_only DC 5 lctrl 0.491150140762
+mexike SNARC_only DC 1 lctrl 0.404991149902
+mexike SNARC_only DC 9 num_separator 0.440989017487
+mexike SNARC_only DC 5 lctrl 0.86955499649
+mexike SNARC_only DC 3 lctrl 0.361293077469
+mexike SNARC_only DC 9 num_separator 0.60210108757
+mexike SNARC_only DC 5 lctrl 1.0575067997
+mexike SNARC_only DC 1 lctrl 0.404952049255
+mexike SNARC_only DC 3 lctrl 0.47954416275
+mexike SNARC_only DC 9 lctrl 0.642481088638
+mexike SNARC_only DC 4 num_separator 0.483800888062
+mexike SNARC_only DC 8 num_separator 0.646667957306
+mexike SNARC_only DC 7 lctrl 0.449361801147
+mexike SNARC_only DC 9 lctrl 1.49734997749
+mexike SNARC_only DC 1 lctrl 1.06998705864
+mexike SNARC_only DC 8 num_separator 0.632962942123
+mexike SNARC_only DC 6 num_separator 0.45224905014
+mexike SNARC_only DC 6 num_separator 0.438235998154
+mexike SNARC_only DC 4 num_separator 0.509010076523
+mexike SNARC_only DC 6 num_separator 0.631153106689
+mexike SNARC_only DC 7 lctrl 0.450568199158
+mexike SNARC_only DC 9 lctrl 0.569368124008
+mexike SNARC_only DC 6 num_separator 0.9033639431
+mexike SNARC_only DC 6 num_separator 0.478092193604
+mexike SNARC_only DC 4 lctrl 0.369859933853
+mexike SNARC_only DC 6 num_separator 1.52339076996
+mexike SNARC_only DC 2 num_separator 0.559210062027
+mexike SNARC_only DC 8 num_separator 0.367733955383
+mexike SNARC_only DC 4 num_separator 0.414918899536
+mexike SNARC_only DC 8 num_separator 0.528297901154
+mexike SNARC_only DC 7 lctrl 0.602454185486
+mexike SNARC_only DC 3 lctrl 0.477088212967
+mexike SNARC_only DC 1 lctrl 0.523706912994
+mexike SNARC_only DC 9 lctrl 1.01457500458
+mexike SNARC_only DC 5 lctrl 0.752935886383
+mexike SNARC_only DC 3 lctrl 1.28624606133
+mexike SNARC_only DC 5 lctrl 0.477814912796
+mexike SNARC_only DC 2 num_separator 0.640644073486
+mexike SNARC_only DC 4 num_separator 0.559505939484
+mexike SNARC_only DC 9 lctrl 0.522893190384
+mexike SNARC_only DC 9 lctrl 0.674445152283
+mexike SNARC_only DC 5 lctrl 0.516541004181
+mexike SNARC_only DC 8 num_separator 0.607295036316
+mexike SNARC_only DC 2 num_separator 0.623715162277
+mexike SNARC_only DC 3 lctrl 0.443105220795
+mexike SNARC_only DC 6 num_separator 0.755547046661
+mexike SNARC_only DC 9 lctrl 0.712559938431
+mexike SNARC_only DC 6 num_separator 0.526011943817
+mexike SNARC_only DC 8 num_separator 0.755168914795
+mexike SNARC_only DC 8 num_separator 0.557359933853
+mexike SNARC_only DC 5 lctrl 0.714365959167
+mexike SNARC_only DC 6 num_separator 0.79891204834
+mexike SNARC_only DC 2 num_separator 0.593340158463
+mexike SNARC_only DC 2 num_separator 0.36871099472
+mexike SNARC_only DC 6 num_separator 0.902557849884
+mexike SNARC_only DC 2 num_separator 0.516129970551
+mexike SNARC_only DC 3 lctrl 0.568245887756
+mexike SNARC_only DC 1 lctrl 0.437608957291
+mexike SNARC_only DC 5 lctrl 0.517658948898
+mexike SNARC_only DC 2 num_separator 0.569663047791
+mexike SNARC_only DC 1 lctrl 0.555158138275
+mexike SNARC_only DC 5 lctrl 0.552726984024
+mexike SNARC_only DC 6 num_separator 0.554923057556
+mexike SNARC_only DC 8 num_separator 0.440865039825
+mexike SNARC_only DC 3 lctrl 0.44349694252
+mexike SNARC_only DC 9 lctrl 0.639778137207
+mexike SNARC_only DC 9 lctrl 0.519725084305
+mexike SNARC_only DC 2 num_separator 0.555108070374
+mexike SNARC_only DC 6 num_separator 1.33180904388
+mexike SNARC_only DC 6 num_separator 1.26459789276
+mexike SNARC_only DC 8 num_separator 0.992933988571
+mexike SNARC_only DC 1 lctrl 0.561814069748
+mexike SNARC_only DC 9 num_separator 0.447803020477
+mexike SNARC_only DC 2 num_separator 0.992522001266
+mexike SNARC_only DC 6 num_separator 0.522729873657
+mexike SNARC_only DC 2 num_separator 0.59695482254
+mexike SNARC_only DC 2 num_separator 0.604480981827
+mexike SNARC_only DC 5 lctrl 0.517869949341
+mexike SNARC_only DC 1 lctrl 0.553293943405
+mexike SNARC_only DC 1 lctrl 0.439221858978
+mexike SNARC_only DC 2 num_separator 1.02265191078
+mexike SNARC_only DC 7 lctrl 0.824741125107
+mexike SNARC_only DC 5 lctrl 0.560266017914
+mexike SNARC_only DC 5 lctrl 0.407474994659
+mexike SNARC_only DC 4 num_separator 0.520928144455
+mexike SNARC_only DC 5 lctrl 0.40140414238
+mexike SNARC_only DC 3 lctrl 0.630930900574
+mexike SNARC_only DC 9 lctrl 0.914880037308
+mexike SNARC_only DC 9 lctrl 0.41216301918
+mexike SNARC_only DC 4 num_separator 0.719136953354
+mexike SNARC_only DC 9 lctrl 0.632128953934
+mexike SNARC_only DC 9 lctrl 0.374032974243
+mexike SNARC_only DC 7 num_separator 0.443321943283
+mexike SNARC_only DC 5 lctrl 1.06547904015
+mexike SNARC_only DC 1 lctrl 1.38087201118
+mexike SNARC_only DC 3 lctrl 0.605307102203
+mexike SNARC_only DC 1 lctrl 0.557410001755
+mexike SNARC_only DC 1 lctrl 0.443524837494
+mexike SNARC_only DC 5 lctrl 0.523500919342
+mexike SNARC_only DC 9 lctrl 0.597606897354
+mexike SNARC_only DC 4 num_separator 0.708230018616
+mexike SNARC_only DC 4 num_separator 1.21883702278
+mexike SNARC_only DC 8 num_separator 1.31590914726
+mexike SNARC_only DC 1 lctrl 0.563783884048
+mexike SNARC_only DC 2 num_separator 0.449609041214
+mexike SNARC_only DC 3 lctrl 0.684557914734
+mexike SNARC_only DC 6 num_separator 0.66513299942
+mexike SNARC_only DC 4 lctrl 0.373751163483
+mexike SNARC_only DC 6 num_separator 0.985045909882
+mexike SNARC_only DC 1 lctrl 0.437987089157
+mexike SNARC_only DC 1 lctrl 0.401714086533
+mexike SNARC_only DC 6 num_separator 0.553869009018
+mexike SNARC_only DC 3 lctrl 0.555936813354
+mexike SNARC_only DC 9 lctrl 0.674185037613
+mexike SNARC_only DC 5 lctrl 0.559839963913
+mexike SNARC_only DC 7 lctrl 1.91714310646
+mexike SNARC_only DC 3 lctrl 0.685793161392
+mexike SNARC_only DC 9 lctrl 0.859935998917
+mexike SNARC_only DC 1 lctrl 0.479955911636
+mexike SNARC_only DC 4 num_separator 0.449218034744
+mexike SNARC_only DC 9 lctrl 1.032736063
+mexike SNARC_only DC 7 lctrl 0.529500961304
+mexike SNARC_only DC 2 num_separator 0.516083955765
+mexike SNARC_only DC 5 lctrl 0.468681812286
+mexike SNARC_only DC 5 lctrl 0.653046131134
+mexike SNARC_only DC 2 num_separator 0.516561985016
+mexike SNARC_only DC 7 lctrl 0.8010430336
+mexike SNARC_only DC 7 lctrl 0.724802017212
+mexike SNARC_only DC 5 lctrl 0.521532058716
+mexike SNARC_only DC 1 lctrl 0.440917015076
+mexike SNARC_only DC 2 num_separator 0.598440885544
+mexike SNARC_only DC 5 lctrl 0.838301897049
+mexike SNARC_only DC 8 num_separator 0.595913887024
+mexike SNARC_only DC 4 num_separator 0.564786911011
+mexike SNARC_only DC 5 lctrl 0.644393920898
+mexike SNARC_only DC 9 lctrl 0.989115953445
+mexike SNARC_only DC 1 lctrl 1.60366201401
+mexike SNARC_only DC 6 num_separator 0.749731063843
+mexike SNARC_only DC 3 lctrl 1.30439400673
+mexike SNARC_only DC 8 num_separator 0.711613893509
+mexike SNARC_only DC 9 lctrl 0.834812879562
+mexike SNARC_only DC 9 lctrl 1.6673181057
+mexike SNARC_only DC 7 lctrl 0.485051870346
+mexike SNARC_only DC 2 num_separator 0.902400016785
+mexike SNARC_only DC 8 num_separator 0.515870094299
+mexike SNARC_only DC 7 lctrl 0.568134069443
+mexike SNARC_only DC 4 num_separator 0.940753936768
+mexike SNARC_only DC 1 lctrl 0.559726953506
+mexike SNARC_only DC 4 num_separator 0.716709852219
+mexike SNARC_only DC 7 lctrl 0.336570978165
+mexike SNARC_only DC 6 num_separator 0.516661882401
+mexike SNARC_only DC 1 lctrl 0.53006696701
+mexike SNARC_only DC 5 lctrl 1.22373604774
+mexike SNARC_only DC 9 lctrl 1.01948094368
+mexike SNARC_only DC 7 lctrl 0.477821111679
+mexike SNARC_only DC 4 num_separator 0.56312584877
+mexike SNARC_only DC 7 lctrl 0.487822055817
+mexike SNARC_only DC 8 num_separator 0.479172945023
+mexike SNARC_only DC 8 num_separator 0.371047019958
+mexike SNARC_only DC 3 lctrl 0.440289974213
+mexike SNARC_only DC 4 num_separator 0.433655023575
+mexike SNARC_only DC 7 lctrl 0.319067001343
+mexike SNARC_only DC 7 lctrl 0.432999849319
+mexike SNARC_only DC 5 lctrl 0.573059082031
+mexike SNARC_only DC 2 num_separator 0.481109857559
+mexike SNARC_only DC 1 lctrl 0.4504570961
+mexike SNARC_only DC 6 num_separator 0.646610975266
+mexike SNARC_only DC 4 num_separator 0.642925977707
+mexike SNARC_only DC 3 lctrl 0.523051977158
+mexike SNARC_only DC 8 num_separator 0.403581857681
+mexike SNARC_only DC 1 lctrl 0.943022966385
+mexike SNARC_only DC 4 num_separator 0.484418869019
+mexike SNARC_only DC 6 num_separator 0.686022043228
+mexike SNARC_only DC 6 num_separator 0.516142845154
+mexike SNARC_only DC 8 num_separator 0.374679803848
+mexike SNARC_only DC 4 num_separator 0.405194997787
+mexike SNARC_only DC 2 num_separator 0.557360887527
+mexike SNARC_only DC 3 lctrl 0.701229810715
+mexike SNARC_only DC 5 lctrl 0.592163085938
+mexike SNARC_only DC 7 lctrl 0.522285938263
+mexike SNARC_only DC 4 num_separator 0.557779073715
+mexike SNARC_only DC 6 num_separator 0.598582029343
+mexike SNARC_only DC 1 lctrl 0.451236963272
+mexike SNARC_only DC 5 lctrl 0.669524908066
+mexike SNARC_only DC 2 num_separator 0.554980039597
+mexike SNARC_only DC 7 lctrl 0.518394947052
+mexike SNARC_only DC 3 lctrl 0.476753950119
+mexike SNARC_only DC 5 lctrl 0.716639995575
+mexike SNARC_only DC 7 lctrl 0.607516050339
+mexike SNARC_only DC 4 num_separator 0.705321073532
+mexike SNARC_only DC 2 num_separator 0.644258975983
+mexike SNARC_only DC 3 lctrl 0.446831941605
+mexike SNARC_only DC 3 lctrl 0.565716028214
+mexike SNARC_only DC 5 lctrl 0.679352045059
+mexike SNARC_only DC 9 lctrl 0.526168107986
+mexike SNARC_only DC 4 num_separator 0.587079048157
+mexike SNARC_only DC 9 lctrl 0.594603061676
+mexike SNARC_only DC 7 lctrl 0.447203159332
+mexike SNARC_only DC 2 num_separator 0.527267932892
+mexike SNARC_only DC 6 num_separator 0.562810897827
+mexike SNARC_only DC 1 lctrl 0.487435102463
+mexike SNARC_only DC 4 num_separator 0.517580986023
+mexike SNARC_only DC 3 lctrl 0.440310001373
+mexike SNARC_only DC 5 lctrl 0.559046983719
+mexike SNARC_only DC 8 num_separator 0.716075897217
+mexike SNARC_only DC 5 lctrl 0.645675182343
+mexike SNARC_only DC 8 num_separator 0.95174407959
+mexike SNARC_only DC 3 lctrl 0.670257806778
+mexike SNARC_only DC 8 num_separator 0.671805858612
+mexike SNARC_only DC 1 lctrl 0.944633960724
+mexike SNARC_only DC 5 lctrl 0.950827121735
+mexike SNARC_only DC 5 lctrl 5.37120509148
+mexike SNARC_only DC 8 num_separator 0.55832195282
+mexike SNARC_only DC 8 num_separator 0.483053207397
+mexike SNARC_only DC 8 num_separator 0.374893903732
+mexike SNARC_only DC 3 lctrl 0.405429840088
+mexike SNARC_only DC 1 lctrl 0.402721881866
+mexike SNARC_only DC 5 lctrl 0.588705062866
+mexike SNARC_only DC 9 lctrl 0.673706054688
+mexike SNARC_only DC 2 num_separator 0.520497083664
+mexike SNARC_only DC 6 num_separator 0.517216920853
+mexike SNARC_only DC 8 num_separator 0.478773832321
+mexike SNARC_only DC 8 num_separator 0.525473117828
+mexike SNARC_only DC 1 lctrl 0.599735975266
+mexike SNARC_only DC 3 lctrl 0.45229101181
+mexike SNARC_only DC 3 lctrl 0.399478912354
+mexike SNARC_only DC 1 lctrl 0.452026128769
+mexike SNARC_only DC 6 num_separator 0.515347003937
+mexike SNARC_only DC 7 lctrl 0.373957872391
+mexike SNARC_only DC 5 lctrl 0.520592927933
+mexike SNARC_only DC 1 lctrl 0.47857093811
+mexike SNARC_only DC 5 lctrl 0.447804927826
+mexike SNARC_only DC 1 lctrl 0.373017072678
+mexike SNARC_only DC 3 lctrl 0.558296918869
+mexike SNARC_only DC 4 num_separator 0.559828996658
+mexike SNARC_only DC 4 num_separator 0.548881053925
+mexike SNARC_only DC 1 lctrl 0.490206003189
+mexike SNARC_only DC 1 lctrl 0.442808151245
+mexike SNARC_only DC 8 num_separator 0.484057188034
+mexike SNARC_only DC 4 num_separator 0.453340053558
+mexike SNARC_only DC 7 lctrl 0.865146875381
+mexike SNARC_only DC 1 lctrl 0.528567075729
+mexike SNARC_only DC 6 num_separator 1.02872300148
+mexike SNARC_only DC 6 num_separator 0.477683782578
+mexike SNARC_only DC 8 num_separator 0.478342056274
+mexike SNARC_only DC 2 lctrl 0.434391021729
+mexike SNARC_only DC 6 num_separator 0.417249917984
+mexike SNARC_only DC 4 num_separator 0.375605106354
+mexike SNARC_only DC 7 lctrl 0.561036109924
+mexike SNARC_only DC 6 num_separator 0.563168048859
+mexike SNARC_only DC 1 lctrl 0.410458087921
+mexike SNARC_only DC 3 lctrl 0.446341991425
+mexike SNARC_only DC 1 lctrl 0.603927135468
+mexike SNARC_only DC 9 num_separator 0.517260074615
+mexike SNARC_only DC 9 lctrl 1.49871993065
+mexike SNARC_only DC 7 lctrl 0.451773881912
+mexike SNARC_only DC 6 num_separator 0.553812026978
+mexike SNARC_only DC 7 lctrl 0.478492021561
+mexike SNARC_only DC 9 lctrl 0.757555007935
+mexike SNARC_only DC 8 num_separator 0.637184143066
+mexike SNARC_only DC 6 num_separator 0.517280817032
+mexike SNARC_only DC 6 num_separator 0.685677051544
+mexike SNARC_only DC 3 lctrl 0.438395023346
+mexike SNARC_only DC 7 lctrl 0.673277854919
+mexike SNARC_only DC 6 num_separator 0.442659139633
+mexike SNARC_only DC 2 num_separator 0.52272105217
+mexike SNARC_only DC 7 lctrl 0.480689048767
+mexike SNARC_only DC 6 num_separator 0.837235927582
+mexike SNARC_only DC 1 lctrl 0.517370939255
+mexike SNARC_only DC 9 lctrl 0.646908998489
+mexike SNARC_only DC 3 lctrl 0.52701997757
+mexike SNARC_only DC 1 lctrl 0.484982013702
+mexike SNARC_only DC 3 lctrl 0.321430921555
+mexike SNARC_only DC 4 num_separator 0.47941493988
+mexike SNARC_only DC 6 num_separator 0.448702096939
+mexike SNARC_only DC 5 lctrl 0.451230049133
+mexike SNARC_only DC 7 lctrl 0.62628698349
+mexike SNARC_only DC 3 lctrl 0.402077913284
+mexike SNARC_only DC 1 lctrl 0.399164915085
+mexike SNARC_only DC 2 num_separator 0.567968130112
+mexike SNARC_only DC 5 lctrl 0.55340886116
+mexike SNARC_only DC 7 lctrl 0.555663108826
+mexike SNARC_only DC 6 num_separator 0.519106149673
+mexike SNARC_only DC 3 lctrl 0.554458141327
+mexike SNARC_only DC 7 lctrl 0.63410282135
+mexike SNARC_only DC 6 num_separator 0.492069959641
+mexike SNARC_only DC 2 num_separator 0.483408927917
+mexike SNARC_only DC 3 lctrl 0.56883597374
+mexike SNARC_only DC 2 num_separator 0.476895093918
+mexike SNARC_only DC 3 lctrl 0.510406017303
+mexike SNARC_only DC 4 num_separator 0.64001584053
+mexike SNARC_only DC 8 num_separator 0.520172834396
+mexike SNARC_only DC 3 lctrl 0.478157043457
+mexike SNARC_only DC 3 lctrl 0.524818897247
+mexike SNARC_only DC 9 lctrl 1.1023979187
+mexike SNARC_only DC 6 num_separator 0.670886039734
+mexike SNARC_only DC 4 num_separator 0.866243124008
+mexike SNARC_only DC 2 num_separator 0.452348947525
+mexike SNARC_only DC 7 lctrl 0.477035999298
+mexike SNARC_only DC 9 lctrl 0.91086602211
+mexike SNARC_only DC 3 lctrl 0.756755828857
+mexike SNARC_only DC 4 lctrl 1.44945311546
+mexike SNARC_only DC 9 lctrl 1.03319787979
+mexike SNARC_only DC 7 lctrl 0.917338848114
+mexike SNARC_only DC 8 num_separator 0.530921936035
+mexike SNARC_only DC 7 lctrl 0.682457208633
+mexike SNARC_only DC 4 num_separator 1.63909101486
+mexike SNARC_only DC 2 num_separator 0.480841875076
+mexike SNARC_only DC 7 lctrl 0.488778114319
+mexike SNARC_only DC 7 lctrl 0.363991975784
+mexike SNARC_only DC 3 lctrl 0.449918031693

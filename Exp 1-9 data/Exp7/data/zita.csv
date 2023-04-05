@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_15_0933', 'task': u'line', 'participant': u'zita', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zita SNARC line dot CD 0 down 10 num_delete 2.19813394547
+zita SNARC line dot CD 0 up 25 lctrl 0.63917183876
+zita SNARC line dot CD 0 down 45 num_delete 0.580040931702
+zita SNARC line dot CD 0 down 20 num_delete 0.548241138458
+zita SNARC line dot CD 0 up 30 lctrl 0.527209043503
+zita SNARC line dot CD 0 down 30 num_delete 0.616347789764
+zita SNARC line dot CD 0 down 30 num_delete 0.519300937653
+zita SNARC line dot CD 0 up 10 lctrl 0.466120958328
+zita SNARC line dot CD 0 down 35 num_delete 0.488790988922
+zita SNARC line dot CD 0 up 40 lctrl 0.523267030716
+zita SNARC line dot CD 0 up 25 lctrl 0.422389984131
+zita SNARC line dot CD 0 up 45 lctrl 0.445083141327
+zita SNARC line dot CD 0 up 5 lctrl 0.457206964493
+zita SNARC line dot CD 0 down 35 num_delete 0.409765005112
+zita SNARC line dot CD 0 up 35 lctrl 0.400860071182
+zita SNARC line dot CD 0 down 15 num_delete 0.499312162399
+zita SNARC line dot CD 0 up 5 lctrl 0.383930921555
+zita SNARC line dot CD 0 down 5 num_delete 0.536477088928
+zita SNARC line dot CD 0 down 10 num_delete 0.472836017609
+zita SNARC line dot CD 0 down 45 num_delete 0.524024009705
+zita SNARC line dot CD 0 up 35 lctrl 0.481906890869
+zita SNARC line dot CD 0 up 40 lctrl 0.427613019943
+zita SNARC line dot CD 0 up 10 lctrl 0.490000963211
+zita SNARC line dot CD 0 up 30 lctrl 0.504550218582
+zita SNARC line dot CD 0 down 35 num_delete 0.401041030884
+zita SNARC line dot CD 0 up 5 lctrl 0.473532915115
+zita SNARC line dot CD 0 down 25 num_delete 0.518193006516
+zita SNARC line dot CD 0 up 30 lctrl 0.38395190239
+zita SNARC line dot CD 0 down 10 num_delete 0.441658973694
+zita SNARC line dot CD 0 down 35 num_delete 0.425801038742
+zita SNARC line dot CD 0 down 30 num_delete 0.392694950104
+zita SNARC line dot CD 0 up 45 lctrl 0.444975137711
+zita SNARC line dot CD 0 up 25 lctrl 0.373594045639
+zita SNARC line dot CD 0 down 35 num_delete 0.464118003845
+zita SNARC line dot CD 0 up 30 lctrl 0.464155912399
+zita SNARC line dot CD 0 down 15 num_delete 0.54740691185
+zita SNARC line dot CD 0 down 25 num_delete 0.429944038391
+zita SNARC line dot CD 0 down 20 num_delete 0.349383831024
+zita SNARC line dot CD 0 down 45 num_delete 0.812289953232
+zita SNARC line dot CD 0 up 45 lctrl 0.412811040878
+zita SNARC line dot CD 0 down 10 num_delete 0.425387859344
+zita SNARC line dot CD 0 up 20 lctrl 0.438580989838
+zita SNARC line dot CD 0 down 30 num_delete 0.463390111923
+zita SNARC line dot CD 0 up 25 lctrl 0.55912399292
+zita SNARC line dot CD 0 down 30 num_delete 0.407977104187
+zita SNARC line dot CD 0 down 25 num_delete 0.454030036926
+zita SNARC line dot CD 0 down 15 num_delete 0.404438018799
+zita SNARC line dot CD 0 down 20 num_delete 0.453616857529
+zita SNARC line dot CD 0 up 40 lctrl 0.459056854248
+zita SNARC line dot CD 0 up 25 lctrl 0.327042102814
+zita SNARC line dot CD 0 down 40 num_delete 0.409435987473
+zita SNARC line dot CD 0 down 10 num_delete 0.394802093506
+zita SNARC line dot CD 0 up 10 lctrl 0.346563100815
+zita SNARC line dot CD 0 up 15 lctrl 0.340035915375
+zita SNARC line dot CD 0 up 5 lctrl 0.480257987976
+zita SNARC line dot CD 0 up 45 lctrl 0.420480966568
+zita SNARC line dot CD 0 up 10 lctrl 0.441771030426
+zita SNARC line dot CD 0 up 20 lctrl 0.373216152191
+zita SNARC line dot CD 0 down 45 num_delete 0.404201984406
+zita SNARC line dot CD 0 up 10 lctrl 0.394476175308
+zita SNARC line dot CD 0 down 5 num_delete 0.424462080002
+zita SNARC line dot CD 0 up 5 lctrl 0.59256696701
+zita SNARC line dot CD 0 down 5 num_delete 0.43972492218
+zita SNARC line dot CD 0 up 25 lctrl 0.423066854477
+zita SNARC line dot CD 0 down 30 num_delete 0.39876294136
+zita SNARC line dot CD 0 down 5 num_delete 0.416875123978
+zita SNARC line dot CD 0 up 30 lctrl 0.37633395195
+zita SNARC line dot CD 0 up 10 lctrl 0.426748037338
+zita SNARC line dot CD 0 up 10 lctrl 0.457779884338
+zita SNARC line dot CD 0 down 15 num_delete 0.411060810089
+zita SNARC line dot CD 0 down 10 num_delete 0.402050971985
+zita SNARC line dot CD 0 up 35 lctrl 0.457531929016
+zita SNARC line dot CD 0 up 20 lctrl 0.436905860901
+zita SNARC line dot CD 0 up 15 lctrl 0.363780021667
+zita SNARC line dot CD 0 down 40 num_delete 0.411200046539
+zita SNARC line dot CD 0 down 5 num_delete 0.391940832138
+zita SNARC line dot CD 0 down 15 num_delete 0.39554810524
+zita SNARC line dot CD 0 up 35 lctrl 0.498769044876
+zita SNARC line dot CD 0 down 35 num_delete 1.28804898262
+zita SNARC line dot CD 0 down 15 num_delete 0.331632852554
+zita SNARC line dot CD 0 up 35 lctrl 0.377455949783
+zita SNARC line dot CD 0 down 15 num_delete 0.379381895065
+zita SNARC line dot CD 0 down 35 num_delete 0.369885921478
+zita SNARC line dot CD 0 up 25 lctrl 0.455132961273
+zita SNARC line dot CD 0 up 40 lctrl 0.410537004471
+zita SNARC line dot CD 0 down 25 num_delete 0.438205957413
+zita SNARC line dot CD 0 down 15 num_delete 0.363601207733
+zita SNARC line dot CD 0 down 15 num_delete 0.379827976227
+zita SNARC line dot CD 0 up 40 lctrl 0.386677980423
+zita SNARC line dot CD 0 up 35 lctrl 0.370683908463
+zita SNARC line dot CD 0 down 5 num_delete 0.382857084274
+zita SNARC line dot CD 0 down 5 num_delete 0.368077993393
+zita SNARC line dot CD 0 down 15 num_delete 0.371834993362
+zita SNARC line dot CD 0 down 35 num_delete 0.329988956451
+zita SNARC line dot CD 0 up 5 lctrl 0.393316984177
+zita SNARC line dot CD 0 up 40 lctrl 0.372648000717
+zita SNARC line dot CD 0 down 35 num_delete 0.392910003662
+zita SNARC line dot CD 0 down 40 num_delete 0.306642055511
+zita SNARC line dot CD 0 up 40 lctrl 0.602559089661
+zita SNARC line dot CD 0 up 20 lctrl 0.404590845108
+zita SNARC line dot CD 0 down 20 num_delete 0.428795099258
+zita SNARC line dot CD 0 up 45 lctrl 0.381856918335
+zita SNARC line dot CD 0 down 30 num_delete 0.407818078995
+zita SNARC line dot CD 0 down 20 num_delete 0.348500967026
+zita SNARC line dot CD 0 up 40 lctrl 0.387584209442
+zita SNARC line dot CD 0 down 40 num_delete 0.762748003006
+zita SNARC line dot CD 0 down 15 num_delete 0.322934865952
+zita SNARC line dot CD 0 up 5 lctrl 0.553215026855
+zita SNARC line dot CD 0 up 10 lctrl 0.401772975922
+zita SNARC line dot CD 0 down 35 num_delete 0.62424492836
+zita SNARC line dot CD 0 up 20 lctrl 0.492391109467
+zita SNARC line dot CD 0 up 10 lctrl 0.537980794907
+zita SNARC line dot CD 0 down 20 num_delete 0.372764110565
+zita SNARC line dot CD 0 up 40 lctrl 0.379361152649
+zita SNARC line dot CD 0 down 15 num_delete 0.338730096817
+zita SNARC line dot CD 0 down 40 num_delete 0.322839021683
+zita SNARC line dot CD 0 down 15 num_delete 0.3635160923
+zita SNARC line dot CD 0 up 30 lctrl 0.360350131989
+zita SNARC line dot CD 0 up 45 lctrl 0.33197593689
+zita SNARC line dot CD 0 down 35 num_delete 0.432822942734
+zita SNARC line dot CD 0 down 45 num_delete 0.300994157791
+zita SNARC line dot CD 0 down 15 num_delete 0.323556900024
+zita SNARC line dot CD 0 down 15 num_delete 0.31592798233
+zita SNARC line dot CD 0 down 35 num_delete 0.393270015717
+zita SNARC line dot CD 0 up 30 lctrl 0.400351047516
+zita SNARC line dot CD 0 down 25 num_delete 0.501296043396
+zita SNARC line dot CD 0 up 35 lctrl 0.62579703331
+zita SNARC line dot CD 0 down 35 num_delete 0.361421108246
+zita SNARC line dot CD 0 down 15 num_delete 0.307465076447
+zita SNARC line dot CD 0 up 15 lctrl 0.45928311348
+zita SNARC line dot CD 0 up 35 lctrl 0.369796991348
+zita SNARC line dot CD 0 up 10 lctrl 0.393847942352
+zita SNARC line dot CD 0 up 15 lctrl 0.379773139954
+zita SNARC line dot CD 0 up 45 lctrl 0.427688837051
+zita SNARC line dot CD 0 down 20 num_delete 0.420064926147
+zita SNARC line dot CD 0 up 30 lctrl 0.392694950104
+zita SNARC line dot CD 0 up 35 lctrl 0.401401042938
+zita SNARC line dot CD 0 up 25 lctrl 0.33403801918
+zita SNARC line dot CD 0 down 20 num_delete 0.396554946899
+zita SNARC line dot CD 0 up 15 lctrl 0.491569042206
+zita SNARC line dot CD 0 down 30 num_delete 0.279339075089
+zita SNARC line dot CD 0 down 10 num_delete 0.306541204453
+zita SNARC line dot CD 0 up 25 lctrl 0.382246017456
+zita SNARC line dot CD 0 down 5 num_delete 0.335891962051
+zita SNARC line dot CD 0 down 10 num_delete 0.33790397644
+zita SNARC line dot CD 0 down 40 num_delete 0.395207881927
+zita SNARC line dot CD 0 down 5 num_delete 1.10456609726
+zita SNARC line dot CD 0 up 5 lctrl 0.43171787262
+zita SNARC line dot CD 0 down 5 num_delete 0.497054100037
+zita SNARC line dot CD 0 down 45 num_delete 0.733376026154
+zita SNARC line dot CD 0 up 45 lctrl 0.396396160126
+zita SNARC line dot CD 0 up 45 lctrl 0.828633069992
+zita SNARC line dot CD 0 up 25 lctrl 0.382305860519
+zita SNARC line dot CD 0 down 15 num_delete 0.347847938538
+zita SNARC line dot CD 0 down 20 num_delete 0.325105190277
+zita SNARC line dot CD 0 up 25 lctrl 0.399849176407
+zita SNARC line dot CD 0 up 20 lctrl 0.348039865494
+zita SNARC line dot CD 0 up 40 lctrl 0.330489873886
+zita SNARC line dot CD 0 down 30 num_delete 0.374133825302
+zita SNARC line dot CD 0 down 20 num_delete 0.340127944946
+zita SNARC line dot CD 0 up 45 lctrl 0.388153791428
+zita SNARC line dot CD 0 down 45 num_delete 0.468951940536
+zita SNARC line dot CD 0 down 40 num_delete 0.401730775833
+zita SNARC line dot CD 0 up 25 lctrl 0.492235898972
+zita SNARC line dot CD 0 down 40 num_delete 0.505549907684
+zita SNARC line dot CD 0 up 5 lctrl 0.41748213768
+zita SNARC line dot CD 0 up 45 lctrl 0.443979024887
+zita SNARC line dot CD 0 up 40 lctrl 0.370915174484
+zita SNARC line dot CD 0 down 10 num_delete 0.409289836884
+zita SNARC line dot CD 0 up 30 lctrl 0.392647027969
+zita SNARC line dot CD 0 up 20 lctrl 0.356163978577
+zita SNARC line dot CD 0 down 45 num_delete 0.323491096497
+zita SNARC line dot CD 0 up 15 lctrl 0.3560090065
+zita SNARC line dot CD 0 up 35 lctrl 0.393435955048
+zita SNARC line dot CD 0 down 45 num_delete 0.379981040955
+zita SNARC line dot CD 0 up 5 lctrl 0.368855953217
+zita SNARC line dot CD 0 down 20 num_delete 0.468839883804
+zita SNARC line dot CD 0 up 30 lctrl 0.536195039749
+zita SNARC line dot CD 0 down 35 num_delete 0.512976884842
+zita SNARC line dot CD 0 up 45 lctrl 0.573116064072
+zita SNARC line dot CD 0 down 25 num_delete 0.398226976395
+zita SNARC line dot CD 0 up 5 lctrl 0.385053873062
+zita SNARC line dot CD 0 down 45 num_delete 0.403846025467
+zita SNARC line dot CD 0 up 40 lctrl 0.531222820282
+zita SNARC line dot CD 0 down 5 num_delete 0.416455984116
+zita SNARC line dot CD 0 up 15 lctrl 0.45986700058
+zita SNARC line dot CD 0 up 20 lctrl 0.445503950119
+zita SNARC line dot CD 0 up 5 lctrl 0.32857298851
+zita SNARC line dot CD 0 down 10 num_delete 0.410387039185
+zita SNARC line dot CD 0 down 10 num_delete 0.377993106842
+zita SNARC line dot CD 0 up 40 lctrl 0.385751008987
+zita SNARC line dot CD 0 up 45 lctrl 0.365021944046
+zita SNARC line dot CD 0 up 25 lctrl 0.526010990143
+zita SNARC line dot CD 0 up 20 lctrl 0.404846906662
+zita SNARC line dot CD 0 up 30 lctrl 0.359895944595
+zita SNARC line dot CD 0 down 40 num_delete 0.386158943176
+zita SNARC line dot CD 0 up 5 lctrl 0.416315793991
+zita SNARC line dot CD 0 up 40 lctrl 0.434937953949
+zita SNARC line dot CD 0 up 15 lctrl 0.403445005417
+zita SNARC line dot CD 0 down 35 num_delete 0.488752126694
+zita SNARC line dot CD 0 down 30 num_delete 0.35941195488
+zita SNARC line dot CD 0 down 45 num_delete 0.428135871887
+zita SNARC line dot CD 0 down 45 num_delete 0.33987402916
+zita SNARC line dot CD 0 down 10 num_delete 0.34618806839
+zita SNARC line dot CD 0 down 30 num_delete 0.367583036423
+zita SNARC line dot CD 0 down 25 num_delete 0.342186927795
+zita SNARC line dot CD 0 up 45 lctrl 0.332490921021
+zita SNARC line dot CD 0 up 35 lctrl 0.368626117706
+zita SNARC line dot CD 0 up 25 lctrl 0.36611700058
+zita SNARC line dot CD 0 up 5 lctrl 0.352386951447
+zita SNARC line dot CD 0 down 20 num_delete 0.333287000656
+zita SNARC line dot CD 0 up 30 lctrl 0.3683989048
+zita SNARC line dot CD 0 down 20 num_delete 0.357151031494
+zita SNARC line dot CD 0 down 35 num_delete 0.432768106461
+zita SNARC line dot CD 0 up 25 lctrl 0.399035930634
+zita SNARC line dot CD 0 down 15 num_delete 0.70779299736
+zita SNARC line dot CD 0 up 5 lctrl 0.384516000748
+zita SNARC line dot CD 0 up 10 lctrl 0.401937961578
+zita SNARC line dot CD 0 up 10 lctrl 0.361825227737
+zita SNARC line dot CD 0 down 45 num_delete 0.468065023422
+zita SNARC line dot CD 0 up 45 lctrl 0.364315986633
+zita SNARC line dot CD 0 up 35 lctrl 0.405044078827
+zita SNARC line dot CD 0 down 45 num_delete 0.412661075592
+zita SNARC line dot CD 0 down 20 num_delete 0.371889829636
+zita SNARC line dot CD 0 down 20 num_delete 0.404599189758
+zita SNARC line dot CD 0 down 40 num_delete 0.347955942154
+zita SNARC line dot CD 0 down 30 num_delete 0.400274991989
+zita SNARC line dot CD 0 down 5 num_delete 0.351763010025
+zita SNARC line dot CD 0 up 45 lctrl 0.396106004715
+zita SNARC line dot CD 0 down 5 num_delete 0.391654014587
+zita SNARC line dot CD 0 up 25 lctrl 0.383121013641
+zita SNARC line dot CD 0 up 35 lctrl 0.457977056503
+zita SNARC line dot CD 0 down 40 num_delete 0.43390417099
+zita SNARC line dot CD 0 up 35 lctrl 0.538821935654
+zita SNARC line dot CD 0 down 40 num_delete 0.338660955429
+zita SNARC line dot CD 0 up 30 lctrl 0.568808078766
+zita SNARC line dot CD 0 up 15 lctrl 0.570864915848
+zita SNARC line dot CD 0 up 40 lctrl 0.42680811882
+zita SNARC line dot CD 0 up 5 lctrl 0.417171955109
+zita SNARC line dot CD 0 up 15 lctrl 0.338971853256
+zita SNARC line dot CD 0 down 35 num_delete 0.392994165421
+zita SNARC line dot CD 0 down 5 num_delete 0.352555036545
+zita SNARC line dot CD 0 down 5 num_delete 0.440157175064
+zita SNARC line dot CD 0 down 20 num_delete 0.540738105774
+zita SNARC line dot CD 0 down 45 num_delete 0.627437829971
+zita SNARC line dot CD 0 up 15 lctrl 0.443563938141
+zita SNARC line dot CD 0 down 20 num_delete 0.46900510788
+zita SNARC line dot CD 0 down 25 num_delete 0.391268968582
+zita SNARC line dot CD 0 down 5 num_delete 0.440373182297
+zita SNARC line dot CD 0 up 20 lctrl 0.405793905258
+zita SNARC line dot CD 0 down 5 num_delete 0.432403087616
+zita SNARC line dot CD 0 down 40 num_delete 0.418717861176
+zita SNARC line dot CD 0 up 40 lctrl 0.402692079544
+zita SNARC line dot CD 0 up 40 lctrl 0.435176134109
+zita SNARC line dot CD 0 down 25 num_delete 0.391057014465
+zita SNARC line dot CD 0 up 35 lctrl 0.488796949387
+zita SNARC line dot CD 0 down 25 num_delete 0.365463018417
+zita SNARC line dot CD 0 up 20 lctrl 0.429841041565
+zita SNARC line dot CD 0 up 35 lctrl 0.433004140854
+zita SNARC line dot CD 0 down 5 num_delete 0.448507070541
+zita SNARC line dot CD 0 up 30 lctrl 0.400495052338
+zita SNARC line dot CD 0 up 30 lctrl 0.407612800598
+zita SNARC line dot CD 0 down 20 num_delete 0.43660902977
+zita SNARC line dot CD 0 down 30 num_delete 0.37562084198
+zita SNARC line dot CD 0 down 5 num_delete 0.384546995163
+zita SNARC line dot CD 0 up 40 lctrl 0.419750928879
+zita SNARC line dot CD 0 up 10 lctrl 0.473278999329
+zita SNARC line dot CD 0 down 40 num_delete 0.402411937714
+zita SNARC line dot CD 0 down 45 num_delete 0.404798984528
+zita SNARC line dot CD 0 up 40 lctrl 0.420716047287
+zita SNARC line dot CD 0 up 30 lctrl 0.439347028732
+zita SNARC line dot CD 0 up 20 lctrl 0.364537000656
+zita SNARC line dot CD 0 up 30 lctrl 0.295925140381
+zita SNARC line dot CD 0 down 25 num_delete 0.422111988068
+zita SNARC line dot CD 0 up 10 lctrl 0.386559963226
+zita SNARC line dot CD 0 down 30 num_delete 0.367146968842
+zita SNARC line dot CD 0 down 20 num_delete 0.420808076859
+zita SNARC line dot CD 0 down 10 num_delete 0.377257108688
+zita SNARC line dot CD 0 up 15 lctrl 0.459982872009
+zita SNARC line dot CD 0 up 40 lctrl 0.483466148376
+zita SNARC line dot CD 0 down 35 num_delete 0.384193897247
+zita SNARC line dot CD 0 up 40 lctrl 0.515805006027
+zita SNARC line dot CD 0 up 45 lctrl 0.452045917511
+zita SNARC line dot CD 0 up 30 lctrl 0.3761510849
+zita SNARC line dot CD 0 down 15 num_delete 0.395246982574
+zita SNARC line dot CD 0 down 15 num_delete 0.323381900787
+zita SNARC line dot CD 0 up 30 lctrl 0.367657899857
+zita SNARC line dot CD 0 down 25 num_delete 0.382172107697
+zita SNARC line dot CD 0 up 10 lctrl 0.394729852676
+zita SNARC line dot CD 0 down 25 num_delete 0.310534954071
+zita SNARC line dot CD 0 down 15 num_delete 0.37965297699
+zita SNARC line dot CD 0 down 20 num_delete 0.34783911705
+zita SNARC line dot CD 0 up 45 lctrl 0.50053691864
+zita SNARC line dot CD 0 down 15 num_delete 0.403840780258
+zita SNARC line dot CD 0 up 15 lctrl 0.331613063812
+zita SNARC line dot CD 0 down 15 num_delete 0.339480161667
+zita SNARC line dot CD 0 up 35 lctrl 0.481499910355
+zita SNARC line dot CD 0 down 25 num_delete 0.349713087082
+zita SNARC line dot CD 0 down 20 num_delete 0.301243066788
+zita SNARC line dot CD 0 down 10 num_delete 0.329700946808
+zita SNARC line dot CD 0 down 10 num_delete 0.362066984177
+zita SNARC line dot CD 0 up 5 lctrl 0.38510799408
+zita SNARC line dot CD 0 up 10 lctrl 0.361985206604
+zita SNARC line dot CD 0 down 40 num_delete 0.394044876099
+zita SNARC line dot CD 0 up 5 lctrl 0.449654102325
+zita SNARC line dot CD 0 up 10 lctrl 1.48169088364
+zita SNARC line dot CD 0 up 45 lctrl 0.411773204803
+zita SNARC line dot CD 0 up 40 lctrl 0.434867143631
+zita SNARC line dot CD 0 down 15 num_delete 0.386967897415
+zita SNARC line dot CD 0 up 10 lctrl 0.385811090469
+zita SNARC line dot CD 0 up 30 lctrl 0.3754529953
+zita SNARC line dot CD 0 down 10 num_delete 0.417952060699
+zita SNARC line dot CD 0 up 10 lctrl 0.347095012665
+zita SNARC line dot CD 0 down 30 num_delete 0.591364860535
+zita SNARC line dot CD 0 up 15 lctrl 0.339799880981
+zita SNARC line dot CD 0 down 10 num_delete 0.354220867157
+zita SNARC line dot CD 0 up 25 lctrl 0.454654932022
+zita SNARC line dot CD 0 up 40 lctrl 0.434721946716
+zita SNARC line dot CD 0 down 40 num_delete 0.490270137787
+zita SNARC line dot CD 0 up 5 lctrl 0.641350984573
+zita SNARC line dot CD 0 down 10 num_delete 0.424228191376
+zita SNARC line dot CD 0 up 45 lctrl 0.342138051987
+zita SNARC line dot CD 0 down 5 num_delete 0.343532085419
+zita SNARC line dot CD 0 up 25 lctrl 0.303017854691
+zita SNARC line dot CD 0 up 30 lctrl 0.408510923386
+zita SNARC line dot CD 0 down 45 num_delete 0.411008119583
+zita SNARC line dot CD 0 down 25 num_delete 0.46999502182
+zita SNARC line dot CD 0 up 20 lctrl 0.363986968994
+zita SNARC line dot CD 0 up 25 lctrl 0.381708860397
+zita SNARC line dot CD 0 down 35 num_delete 0.456664085388
+zita SNARC line dot CD 0 up 35 lctrl 0.321991920471
+zita SNARC line dot CD 0 up 25 lctrl 0.414810180664
+zita SNARC line dot CD 0 down 45 num_delete 0.475796937943
+zita SNARC line dot CD 0 up 20 lctrl 0.44498705864
+zita SNARC line dot CD 0 down 10 num_delete 0.369473934174
+zita SNARC line dot CD 0 down 20 num_delete 0.413041114807
+zita SNARC line dot CD 0 up 45 lctrl 0.380463123322
+zita SNARC line dot CD 0 down 25 num_delete 0.390513896942
+zita SNARC line dot CD 0 down 20 num_delete 0.460373878479
+zita SNARC line dot CD 0 up 15 lctrl 0.468301057816
+zita SNARC line dot CD 0 down 30 num_delete 0.471294164658
+zita SNARC line dot CD 0 down 5 num_delete 0.416570186615
+zita SNARC line dot CD 0 up 40 lctrl 0.385880947113
+zita SNARC line dot CD 0 up 25 lctrl 0.615030050278
+zita SNARC line dot CD 0 down 35 num_delete 0.329261064529
+zita SNARC line dot CD 0 up 30 lctrl 0.344758987427
+zita SNARC line dot CD 0 down 30 num_delete 0.334416151047
+zita SNARC line dot CD 0 up 35 lctrl 0.418062925339
+zita SNARC line dot CD 0 up 20 lctrl 0.420964956284
+zita SNARC line dot CD 0 up 10 lctrl 0.51322889328
+zita SNARC line dot CD 0 up 25 lctrl 0.366261959076
+zita SNARC line dot CD 0 up 10 lctrl 0.441998004913
+zita SNARC line dot CD 0 up 25 lctrl 0.445688962936
+zita SNARC line dot CD 0 down 20 num_delete 0.476326942444
+zita SNARC line dot CD 0 up 30 lctrl 0.327525854111
+zita SNARC line dot CD 0 up 35 lctrl 0.392911911011
+zita SNARC line dot CD 0 down 15 num_delete 0.362930059433
+zita SNARC line dot CD 0 up 25 lctrl 0.670006036758
+zita SNARC line dot CD 0 up 45 lctrl 0.412101984024
+zita SNARC line dot CD 0 up 20 lctrl 0.347737073898
+{'delay': u'0', 'dateStr': u'05_15_0947', 'task': u'line', 'participant': u'zita', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zita SNARC line arabic CD 0 down 8 num_delete 2.11479496956
+zita SNARC line arabic CD 0 down 8 num_delete 0.416637897491
+zita SNARC line arabic CD 0 down 8 num_delete 0.36859703064
+zita SNARC line arabic CD 0 down 8 num_delete 0.36940908432
+zita SNARC line arabic CD 0 down 7 lctrl 0.431740999222
+zita SNARC line arabic CD 0 down 3 num_delete 0.440842866898
+zita SNARC line arabic CD 0 down 7 num_delete 0.673218011856
+zita SNARC line arabic CD 0 down 8 num_delete 0.393409013748
+zita SNARC line arabic CD 0 down 1 num_delete 0.663709878922
+zita SNARC line arabic CD 0 up 1 lctrl 0.537824869156
+zita SNARC line arabic CD 0 up 3 lctrl 0.536777019501
+zita SNARC line arabic CD 0 down 2 num_delete 0.447113037109
+zita SNARC line arabic CD 0 down 8 num_delete 0.489260911942
+zita SNARC line arabic CD 0 down 7 num_delete 0.512490987778
+zita SNARC line arabic CD 0 up 5 lctrl 0.505087852478
+zita SNARC line arabic CD 0 down 5 num_delete 0.368969917297
+zita SNARC line arabic CD 0 up 4 lctrl 1.35836911201
+zita SNARC line arabic CD 0 down 3 num_delete 0.416536092758
+zita SNARC line arabic CD 0 down 1 num_delete 0.465209960938
+zita SNARC line arabic CD 0 up 3 lctrl 0.584946870804
+zita SNARC line arabic CD 0 up 3 lctrl 0.408555030823
+zita SNARC line arabic CD 0 up 6 lctrl 0.512986898422
+zita SNARC line arabic CD 0 down 7 num_delete 0.528388023376
+zita SNARC line arabic CD 0 down 3 num_delete 0.39301109314
+zita SNARC line arabic CD 0 down 6 num_delete 0.560496807098
+zita SNARC line arabic CD 0 down 5 num_delete 0.400904178619
+zita SNARC line arabic CD 0 down 2 num_delete 0.384261131287
+zita SNARC line arabic CD 0 down 2 num_delete 0.376312971115
+zita SNARC line arabic CD 0 down 6 num_delete 0.345508098602
+zita SNARC line arabic CD 0 up 3 lctrl 0.656807899475
+zita SNARC line arabic CD 0 down 9 num_delete 0.432174921036
+zita SNARC line arabic CD 0 up 7 lctrl 0.593363046646
+zita SNARC line arabic CD 0 down 7 num_delete 0.593035936356
+zita SNARC line arabic CD 0 down 2 num_delete 0.406891107559
+zita SNARC line arabic CD 0 down 7 num_delete 0.273087978363
+zita SNARC line arabic CD 0 down 4 num_delete 0.369042873383
+zita SNARC line arabic CD 0 down 1 num_delete 0.416771888733
+zita SNARC line arabic CD 0 down 8 num_delete 0.368170976639
+zita SNARC line arabic CD 0 up 1 lctrl 0.418057918549
+zita SNARC line arabic CD 0 down 9 num_delete 0.368494033813
+zita SNARC line arabic CD 0 down 5 num_delete 0.400596857071
+zita SNARC line arabic CD 0 up 4 lctrl 0.40919303894
+zita SNARC line arabic CD 0 up 4 lctrl 0.384600162506
+zita SNARC line arabic CD 0 up 8 lctrl 0.753247022629
+zita SNARC line arabic CD 0 up 7 lctrl 0.537171125412
+zita SNARC line arabic CD 0 down 9 num_delete 0.616322040558
+zita SNARC line arabic CD 0 down 1 lctrl 0.441597938538
+zita SNARC line arabic CD 0 down 9 num_delete 0.351463794708
+zita SNARC line arabic CD 0 down 3 num_delete 0.377856016159
+zita SNARC line arabic CD 0 up 5 lctrl 0.647907018661
+zita SNARC line arabic CD 0 down 3 num_delete 0.360657930374
+zita SNARC line arabic CD 0 down 4 num_delete 0.376368999481
+zita SNARC line arabic CD 0 down 8 num_delete 0.312961101532
+zita SNARC line arabic CD 0 down 5 num_delete 0.432739019394
+zita SNARC line arabic CD 0 down 6 num_delete 0.352707147598
+zita SNARC line arabic CD 0 up 5 lctrl 0.520802021027
+zita SNARC line arabic CD 0 up 8 lctrl 0.417187929153
+zita SNARC line arabic CD 0 up 4 lctrl 0.456851959229
+zita SNARC line arabic CD 0 up 7 lctrl 0.456306934357
+zita SNARC line arabic CD 0 down 9 num_delete 0.407905817032
+zita SNARC line arabic CD 0 up 1 lctrl 0.456042051315
+zita SNARC line arabic CD 0 down 6 num_delete 0.368046998978
+zita SNARC line arabic CD 0 down 6 num_delete 0.424645185471
+zita SNARC line arabic CD 0 down 1 num_delete 0.464731216431
+zita SNARC line arabic CD 0 up 9 lctrl 0.393162965775
+zita SNARC line arabic CD 0 down 5 num_delete 0.377031803131
+zita SNARC line arabic CD 0 down 6 num_delete 0.376525878906
+zita SNARC line arabic CD 0 up 6 lctrl 0.417257070541
+zita SNARC line arabic CD 0 up 8 lctrl 0.34442782402
+zita SNARC line arabic CD 0 down 2 num_delete 0.396867036819
+zita SNARC line arabic CD 0 down 9 num_delete 0.320281982422
+zita SNARC line arabic CD 0 up 6 lctrl 0.369570970535
+zita SNARC line arabic CD 0 up 9 lctrl 0.376804113388
+zita SNARC line arabic CD 0 up 1 lctrl 0.352890968323
+zita SNARC line arabic CD 0 down 2 num_delete 0.407986879349
+zita SNARC line arabic CD 0 down 2 num_delete 0.320832967758
+zita SNARC line arabic CD 0 down 9 num_delete 0.328645944595
+zita SNARC line arabic CD 0 down 6 num_delete 0.369288921356
+zita SNARC line arabic CD 0 up 9 lctrl 0.329245090485
+zita SNARC line arabic CD 0 up 6 lctrl 0.560463190079
+zita SNARC line arabic CD 0 up 7 lctrl 0.401205062866
+zita SNARC line arabic CD 0 up 8 lctrl 0.344769001007
+zita SNARC line arabic CD 0 up 5 lctrl 0.368158102036
+zita SNARC line arabic CD 0 down 4 num_delete 0.312833070755
+zita SNARC line arabic CD 0 up 7 lctrl 0.392738819122
+zita SNARC line arabic CD 0 down 5 lctrl 0.416813850403
+zita SNARC line arabic CD 0 up 3 lctrl 0.520857095718
+zita SNARC line arabic CD 0 down 2 num_delete 0.367619991302
+zita SNARC line arabic CD 0 down 7 num_delete 0.37654709816
+zita SNARC line arabic CD 0 down 4 num_delete 0.409567117691
+zita SNARC line arabic CD 0 up 9 lctrl 0.465708971024
+zita SNARC line arabic CD 0 down 6 num_delete 0.376582145691
+zita SNARC line arabic CD 0 up 2 lctrl 0.432685136795
+zita SNARC line arabic CD 0 down 1 num_delete 0.752231121063
+zita SNARC line arabic CD 0 down 9 num_delete 0.344250202179
+zita SNARC line arabic CD 0 up 3 lctrl 0.552334070206
+zita SNARC line arabic CD 0 down 5 num_delete 0.736511945724
+zita SNARC line arabic CD 0 down 4 num_delete 1.34539103508
+zita SNARC line arabic CD 0 up 1 lctrl 0.44139289856
+zita SNARC line arabic CD 0 down 5 num_delete 0.368177175522
+zita SNARC line arabic CD 0 down 4 num_delete 0.393006801605
+zita SNARC line arabic CD 0 up 6 lctrl 0.369885921478
+zita SNARC line arabic CD 0 down 4 num_delete 0.343333005905
+zita SNARC line arabic CD 0 down 4 num_delete 0.361340045929
+zita SNARC line arabic CD 0 down 8 num_delete 0.352555990219
+zita SNARC line arabic CD 0 down 3 num_delete 0.326862812042
+zita SNARC line arabic CD 0 down 3 num_delete 0.320596933365
+zita SNARC line arabic CD 0 down 3 num_delete 0.264714002609
+zita SNARC line arabic CD 0 down 7 num_delete 0.345119953156
+zita SNARC line arabic CD 0 down 9 num_delete 0.337129116058
+zita SNARC line arabic CD 0 down 6 num_delete 0.393411874771
+zita SNARC line arabic CD 0 up 3 lctrl 0.369807958603
+zita SNARC line arabic CD 0 up 3 lctrl 0.376572132111
+zita SNARC line arabic CD 0 up 1 lctrl 0.392823934555
+zita SNARC line arabic CD 0 down 6 num_delete 0.311141967773
+zita SNARC line arabic CD 0 up 1 lctrl 0.433529138565
+zita SNARC line arabic CD 0 up 7 lctrl 0.457305908203
+zita SNARC line arabic CD 0 down 7 num_delete 0.488273859024
+zita SNARC line arabic CD 0 down 4 num_delete 0.553114891052
+zita SNARC line arabic CD 0 up 7 lctrl 0.425015926361
+zita SNARC line arabic CD 0 up 5 lctrl 0.392176151276
+zita SNARC line arabic CD 0 up 6 lctrl 0.351701974869
+zita SNARC line arabic CD 0 up 5 lctrl 0.328181028366
+zita SNARC line arabic CD 0 up 8 lctrl 0.352374076843
+zita SNARC line arabic CD 0 up 1 lctrl 0.367907047272
+zita SNARC line arabic CD 0 down 4 num_delete 0.416888952255
+zita SNARC line arabic CD 0 up 1 lctrl 0.458033084869
+zita SNARC line arabic CD 0 up 3 lctrl 0.393399000168
+zita SNARC line arabic CD 0 up 4 lctrl 0.337260007858
+zita SNARC line arabic CD 0 down 6 num_delete 0.408975124359
+zita SNARC line arabic CD 0 down 9 num_delete 0.313231945038
+zita SNARC line arabic CD 0 up 1 lctrl 0.385026216507
+zita SNARC line arabic CD 0 down 9 num_delete 0.375530004501
+zita SNARC line arabic CD 0 up 9 lctrl 0.289626121521
+zita SNARC line arabic CD 0 down 2 num_delete 0.328176021576
+zita SNARC line arabic CD 0 up 3 lctrl 0.305397987366
+zita SNARC line arabic CD 0 down 1 num_delete 0.408243179321
+zita SNARC line arabic CD 0 up 6 lctrl 0.353627920151
+zita SNARC line arabic CD 0 down 3 num_delete 0.406268119812
+zita SNARC line arabic CD 0 up 2 lctrl 0.353121995926
+zita SNARC line arabic CD 0 down 1 num_delete 0.376049995422
+zita SNARC line arabic CD 0 up 6 lctrl 0.416828155518
+zita SNARC line arabic CD 0 up 4 lctrl 0.457310914993
+zita SNARC line arabic CD 0 down 9 num_delete 0.504524946213
+zita SNARC line arabic CD 0 up 4 lctrl 0.465281963348
+zita SNARC line arabic CD 0 up 9 lctrl 0.608845949173
+zita SNARC line arabic CD 0 down 5 num_delete 0.367645025253
+zita SNARC line arabic CD 0 down 5 num_delete 0.305270910263
+zita SNARC line arabic CD 0 down 2 num_delete 0.328922986984
+zita SNARC line arabic CD 0 up 7 lctrl 0.408854961395
+zita SNARC line arabic CD 0 down 2 num_delete 0.439953804016
+zita SNARC line arabic CD 0 down 8 num_delete 0.345076084137
+zita SNARC line arabic CD 0 down 5 num_delete 0.425684928894
+zita SNARC line arabic CD 0 down 3 num_delete 0.312499046326
+zita SNARC line arabic CD 0 down 1 num_delete 0.265080928802
+zita SNARC line arabic CD 0 down 1 num_delete 0.313101053238
+zita SNARC line arabic CD 0 up 9 lctrl 0.401496887207
+zita SNARC line arabic CD 0 down 2 num_delete 0.36064696312
+zita SNARC line arabic CD 0 up 8 lctrl 0.481934070587
+zita SNARC line arabic CD 0 up 1 lctrl 0.407471895218
+zita SNARC line arabic CD 0 down 5 num_delete 0.375806093216
+zita SNARC line arabic CD 0 down 2 num_delete 0.496258974075
+zita SNARC line arabic CD 0 down 3 num_delete 0.328471899033
+zita SNARC line arabic CD 0 down 3 num_delete 0.289246082306
+zita SNARC line arabic CD 0 up 9 lctrl 0.497100114822
+zita SNARC line arabic CD 0 down 3 num_delete 0.37561917305
+zita SNARC line arabic CD 0 down 1 num_delete 0.40159702301
+zita SNARC line arabic CD 0 up 4 lctrl 0.465620040894
+zita SNARC line arabic CD 0 down 4 num_delete 0.342699050903
+zita SNARC line arabic CD 0 up 3 lctrl 0.41694188118
+zita SNARC line arabic CD 0 up 8 lctrl 0.36043715477
+zita SNARC line arabic CD 0 down 2 num_delete 0.352205991745
+zita SNARC line arabic CD 0 up 3 lctrl 0.401604890823
+zita SNARC line arabic CD 0 up 6 lctrl 0.913301944733
+zita SNARC line arabic CD 0 up 5 lctrl 0.553426980972
+zita SNARC line arabic CD 0 down 5 num_delete 0.424931049347
+zita SNARC line arabic CD 0 down 8 num_delete 0.312906980515
+zita SNARC line arabic CD 0 up 6 lctrl 0.406826019287
+zita SNARC line arabic CD 0 up 2 lctrl 0.400371789932
+zita SNARC line arabic CD 0 down 8 num_delete 0.391793012619
+zita SNARC line arabic CD 0 down 2 num_delete 0.536216974258
+zita SNARC line arabic CD 0 up 9 lctrl 0.433706045151
+zita SNARC line arabic CD 0 up 2 lctrl 0.448130130768
+zita SNARC line arabic CD 0 up 3 lctrl 0.369179964066
+zita SNARC line arabic CD 0 down 7 num_delete 0.400136947632
+zita SNARC line arabic CD 0 up 2 lctrl 0.513301849365
+zita SNARC line arabic CD 0 down 4 num_delete 0.239021778107
+zita SNARC line arabic CD 0 down 9 num_delete 0.361011981964
+zita SNARC line arabic CD 0 up 3 num_delete 0.329639196396
+zita SNARC line arabic CD 0 up 9 lctrl 0.408461093903
+zita SNARC line arabic CD 0 down 4 num_delete 0.398967027664
+zita SNARC line arabic CD 0 down 4 num_delete 0.520747900009
+zita SNARC line arabic CD 0 down 8 num_delete 0.296997070312
+zita SNARC line arabic CD 0 up 2 lctrl 0.409900903702
+zita SNARC line arabic CD 0 up 2 lctrl 0.320692777634
+zita SNARC line arabic CD 0 down 4 num_delete 0.352318048477
+zita SNARC line arabic CD 0 down 2 num_delete 0.343976020813
+zita SNARC line arabic CD 0 up 9 lctrl 0.385990142822
+zita SNARC line arabic CD 0 up 5 lctrl 0.417450904846
+zita SNARC line arabic CD 0 down 9 num_delete 0.351772069931
+zita SNARC line arabic CD 0 down 8 num_delete 0.441036939621
+zita SNARC line arabic CD 0 up 2 lctrl 0.64180803299
+zita SNARC line arabic CD 0 up 5 lctrl 0.560436964035
+zita SNARC line arabic CD 0 up 3 lctrl 0.305038928986
+zita SNARC line arabic CD 0 up 1 lctrl 0.320479154587
+zita SNARC line arabic CD 0 down 2 num_delete 0.384734869003
+zita SNARC line arabic CD 0 down 7 num_delete 0.337324142456
+zita SNARC line arabic CD 0 down 6 lctrl 0.368701934814
+zita SNARC line arabic CD 0 up 2 lctrl 0.447113990784
+zita SNARC line arabic CD 0 down 6 num_delete 0.336597919464
+zita SNARC line arabic CD 0 up 9 lctrl 0.41709113121
+zita SNARC line arabic CD 0 down 2 num_delete 0.337228059769
+zita SNARC line arabic CD 0 up 4 lctrl 0.625596046448
+zita SNARC line arabic CD 0 down 5 num_delete 0.415223836899
+zita SNARC line arabic CD 0 up 7 lctrl 0.440686941147
+zita SNARC line arabic CD 0 down 5 num_delete 0.399791955948
+zita SNARC line arabic CD 0 down 9 num_delete 0.384946107864
+zita SNARC line arabic CD 0 down 6 num_delete 0.504982948303
+zita SNARC line arabic CD 0 down 8 num_delete 0.457291841507
+zita SNARC line arabic CD 0 down 4 num_delete 0.43221783638
+zita SNARC line arabic CD 0 down 8 num_delete 0.337677001953
+zita SNARC line arabic CD 0 down 6 num_delete 0.407660961151
+zita SNARC line arabic CD 0 up 3 lctrl 0.408267974854
+zita SNARC line arabic CD 0 down 9 num_delete 0.464308023453
+zita SNARC line arabic CD 0 up 2 lctrl 0.496999025345
+zita SNARC line arabic CD 0 up 6 lctrl 0.408540964127
+zita SNARC line arabic CD 0 up 4 lctrl 0.361361026764
+zita SNARC line arabic CD 0 down 7 num_delete 0.399810791016
+zita SNARC line arabic CD 0 up 8 lctrl 0.521536111832
+zita SNARC line arabic CD 0 up 7 lctrl 0.703998804092
+zita SNARC line arabic CD 0 up 5 lctrl 0.416290998459
+zita SNARC line arabic CD 0 up 7 lctrl 0.527584791183
+zita SNARC line arabic CD 0 down 9 num_delete 0.376821041107
+zita SNARC line arabic CD 0 down 2 num_delete 0.376369953156
+zita SNARC line arabic CD 0 down 2 num_delete 0.34506893158
+zita SNARC line arabic CD 0 down 9 num_delete 0.312668085098
+zita SNARC line arabic CD 0 down 1 num_delete 0.352185964584
+zita SNARC line arabic CD 0 down 2 num_delete 0.271865844727
+zita SNARC line arabic CD 0 up 1 lctrl 0.856468915939
+zita SNARC line arabic CD 0 up 3 lctrl 0.497414827347
+zita SNARC line arabic CD 0 up 7 lctrl 0.400105953217
+zita SNARC line arabic CD 0 down 5 num_delete 1.93635892868
+zita SNARC line arabic CD 0 down 1 num_delete 0.312777996063
+zita SNARC line arabic CD 0 down 6 num_delete 0.600615978241
+zita SNARC line arabic CD 0 up 2 lctrl 0.352813005447
+zita SNARC line arabic CD 0 down 1 num_delete 0.697155952454
+zita SNARC line arabic CD 0 up 8 lctrl 0.34558391571
+zita SNARC line arabic CD 0 up 5 lctrl 0.376290082932
+zita SNARC line arabic CD 0 down 3 num_delete 0.401073932648
+zita SNARC line arabic CD 0 down 3 num_delete 0.335327148438
+zita SNARC line arabic CD 0 down 5 num_delete 0.408226013184
+zita SNARC line arabic CD 0 up 4 lctrl 0.393935918808
+zita SNARC line arabic CD 0 down 4 lctrl 0.368031024933
+zita SNARC line arabic CD 0 down 6 num_delete 0.567967891693
+zita SNARC line arabic CD 0 down 2 num_delete 0.360616922379
+zita SNARC line arabic CD 0 down 3 num_delete 0.377293109894
+zita SNARC line arabic CD 0 up 7 lctrl 0.440845012665
+zita SNARC line arabic CD 0 down 1 num_delete 0.344835996628
+zita SNARC line arabic CD 0 down 1 num_delete 0.472496032715
+zita SNARC line arabic CD 0 up 6 lctrl 0.576626062393
+zita SNARC line arabic CD 0 up 7 lctrl 0.504981040955
+zita SNARC line arabic CD 0 down 2 num_delete 0.376446962357
+zita SNARC line arabic CD 0 up 1 lctrl 0.424285888672
+zita SNARC line arabic CD 0 up 4 lctrl 0.472194910049
+zita SNARC line arabic CD 0 down 8 num_delete 0.344522953033
+zita SNARC line arabic CD 0 down 6 num_delete 0.377413988113
+zita SNARC line arabic CD 0 up 2 lctrl 0.929567098618
+zita SNARC line arabic CD 0 up 3 lctrl 0.384368181229
+zita SNARC line arabic CD 0 up 2 lctrl 0.456400871277
+zita SNARC line arabic CD 0 down 8 num_delete 0.376749038696
+zita SNARC line arabic CD 0 up 4 lctrl 0.593533039093
+zita SNARC line arabic CD 0 up 6 lctrl 0.392307043076
+zita SNARC line arabic CD 0 up 5 lctrl 0.392337083817
+zita SNARC line arabic CD 0 up 1 lctrl 0.369071006775
+zita SNARC line arabic CD 0 down 9 num_delete 0.416324853897
+zita SNARC line arabic CD 0 up 7 lctrl 0.416716814041
+zita SNARC line arabic CD 0 up 7 lctrl 0.377758026123
+zita SNARC line arabic CD 0 up 9 lctrl 0.295325994492
+zita SNARC line arabic CD 0 up 8 lctrl 0.369715929031
+zita SNARC line arabic CD 0 up 7 lctrl 0.320493221283
+zita SNARC line arabic CD 0 up 6 lctrl 0.361212968826
+zita SNARC line arabic CD 0 down 3 num_delete 0.344050884247
+zita SNARC line arabic CD 0 up 7 lctrl 0.352868080139
+zita SNARC line arabic CD 0 down 3 lctrl 0.360067129135
+zita SNARC line arabic CD 0 up 7 lctrl 0.416867017746
+zita SNARC line arabic CD 0 up 7 lctrl 0.413958072662
+zita SNARC line arabic CD 0 up 7 lctrl 0.40816617012
+zita SNARC line arabic CD 0 up 9 lctrl 0.527791976929
+zita SNARC line arabic CD 0 down 6 num_delete 0.424426078796
+zita SNARC line arabic CD 0 up 6 lctrl 0.385457038879
+zita SNARC line arabic CD 0 up 5 lctrl 0.424345970154
+zita SNARC line arabic CD 0 down 7 num_delete 0.462959051132
+zita SNARC line arabic CD 0 down 1 num_delete 0.544747114182
+zita SNARC line arabic CD 0 down 9 num_delete 0.384707927704
+zita SNARC line arabic CD 0 up 5 lctrl 0.376214027405
+zita SNARC line arabic CD 0 down 8 num_delete 0.3762819767
+zita SNARC line arabic CD 0 up 6 lctrl 0.377442121506
+zita SNARC line arabic CD 0 up 4 lctrl 0.432668924332
+zita SNARC line arabic CD 0 down 6 num_delete 0.344352006912
+zita SNARC line arabic CD 0 up 2 lctrl 0.56085896492
+zita SNARC line arabic CD 0 up 4 lctrl 0.392539978027
+zita SNARC line arabic CD 0 down 6 num_delete 0.359562158585
+zita SNARC line arabic CD 0 up 2 num_delete 0.376777887344
+zita SNARC line arabic CD 0 up 8 lctrl 0.624425888062
+zita SNARC line arabic CD 0 up 1 lctrl 0.424200057983
+zita SNARC line arabic CD 0 up 5 lctrl 0.367873907089
+zita SNARC line arabic CD 0 down 1 num_delete 0.432014942169
+zita SNARC line arabic CD 0 down 5 num_delete 0.569386959076
+zita SNARC line arabic CD 0 up 5 lctrl 0.369513034821
+zita SNARC line arabic CD 0 up 3 lctrl 0.392181158066
+zita SNARC line arabic CD 0 down 8 num_delete 0.376818180084
+zita SNARC line arabic CD 0 up 8 num_delete 0.368847846985
+zita SNARC line arabic CD 0 up 1 lctrl 0.408802986145
+zita SNARC line arabic CD 0 up 5 lctrl 0.449547052383
+zita SNARC line arabic CD 0 down 8 num_delete 0.391257047653
+zita SNARC line arabic CD 0 down 6 num_delete 0.359905958176
+zita SNARC line arabic CD 0 up 1 lctrl 0.345947027206
+zita SNARC line arabic CD 0 up 7 lctrl 0.401205062866
+zita SNARC line arabic CD 0 down 5 num_delete 0.392898082733
+zita SNARC line arabic CD 0 down 5 num_delete 0.39302110672
+zita SNARC line arabic CD 0 up 4 lctrl 0.384873867035
+zita SNARC line arabic CD 0 up 9 lctrl 0.408491849899
+zita SNARC line arabic CD 0 up 6 lctrl 0.328495025635
+zita SNARC line arabic CD 0 up 7 lctrl 0.600690841675
+zita SNARC line arabic CD 0 up 4 lctrl 0.345467090607
+zita SNARC line arabic CD 0 down 9 num_delete 0.296158075333
+zita SNARC line arabic CD 0 up 9 lctrl 0.496694803238
+zita SNARC line arabic CD 0 down 2 num_delete 0.392268896103
+zita SNARC line arabic CD 0 up 9 lctrl 0.28169298172
+zita SNARC line arabic CD 0 up 8 lctrl 0.441160917282
+zita SNARC line arabic CD 0 up 8 lctrl 0.320699930191
+zita SNARC line arabic CD 0 up 4 lctrl 0.336338043213
+zita SNARC line arabic CD 0 up 3 lctrl 0.400909900665
+zita SNARC line arabic CD 0 down 9 lctrl 0.287456989288
+zita SNARC line arabic CD 0 up 4 lctrl 0.408048152924
+zita SNARC line arabic CD 0 down 5 num_delete 0.409075975418
+zita SNARC line arabic CD 0 down 3 num_delete 0.384583950043
+zita SNARC line arabic CD 0 down 7 num_delete 0.39271903038
+zita SNARC line arabic CD 0 down 8 num_delete 0.352587938309
+zita SNARC line arabic CD 0 down 8 num_delete 0.320240020752
+zita SNARC line arabic CD 0 down 8 num_delete 0.328189849854
+zita SNARC line arabic CD 0 up 4 lctrl 0.441519975662
+zita SNARC line arabic CD 0 up 1 lctrl 0.384427070618
+zita SNARC line arabic CD 0 up 2 lctrl 0.328845024109
+zita SNARC line arabic CD 0 up 7 lctrl 0.488770008087
+zita SNARC line arabic CD 0 up 7 lctrl 0.344418048859
+zita SNARC line arabic CD 0 down 5 num_delete 0.464710950851
+zita SNARC line arabic CD 0 up 6 lctrl 0.366961956024
+zita SNARC line arabic CD 0 down 3 num_delete 0.488071203232
+zita SNARC line arabic CD 0 down 4 num_delete 0.377280950546
+zita SNARC line arabic CD 0 down 8 num_delete 0.328876972198
+zita SNARC line arabic CD 0 down 1 lctrl 0.392842054367
+zita SNARC line arabic CD 0 up 8 lctrl 0.351863861084
+zita SNARC line arabic CD 0 down 4 num_delete 0.408317089081
+zita SNARC line arabic CD 0 up 5 lctrl 0.617008924484
+zita SNARC line arabic CD 0 down 7 num_delete 0.390717029572
+zita SNARC line arabic CD 0 up 9 lctrl 0.361509799957
+zita SNARC line arabic CD 0 up 1 lctrl 0.447794914246
+zita SNARC line arabic CD 0 up 1 lctrl 0.369522094727
+zita SNARC line arabic CD 0 up 4 lctrl 0.368163824081
+{'delay': u'0', 'dateStr': u'05_15_0956', 'task': u'line', 'participant': u'zita', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zita SNARC line dot DC 0 down 30 lctrl 1.59862494469
+zita SNARC line dot DC 0 up 35 num_delete 0.568389177322
+zita SNARC line dot DC 0 down 40 lctrl 0.563147068024
+zita SNARC line dot DC 0 up 45 num_delete 0.603970050812
+zita SNARC line dot DC 0 down 5 lctrl 0.777291059494
+zita SNARC line dot DC 0 down 25 num_delete 0.4542760849
+zita SNARC line dot DC 0 up 40 num_delete 0.49212884903
+zita SNARC line dot DC 0 down 25 lctrl 0.566623926163
+zita SNARC line dot DC 0 down 45 lctrl 1.98595690727
+zita SNARC line dot DC 0 up 20 num_delete 0.420985937119
+zita SNARC line dot DC 0 up 35 num_delete 0.392024993896
+zita SNARC line dot DC 0 up 5 num_delete 0.343709945679
+zita SNARC line dot DC 0 down 35 lctrl 0.321079015732
+zita SNARC line dot DC 0 down 5 lctrl 0.360162973404
+zita SNARC line dot DC 0 up 5 num_delete 0.383152961731
+zita SNARC line dot DC 0 up 5 num_delete 0.36071896553
+zita SNARC line dot DC 0 down 45 lctrl 0.620429039001
+zita SNARC line dot DC 0 up 45 lctrl 0.355692863464
+zita SNARC line dot DC 0 down 45 lctrl 0.933990001678
+zita SNARC line dot DC 0 up 5 num_delete 0.400495052338
+zita SNARC line dot DC 0 up 35 num_delete 0.40932393074
+zita SNARC line dot DC 0 up 15 num_delete 0.330860137939
+zita SNARC line dot DC 0 up 30 num_delete 0.320044994354
+zita SNARC line dot DC 0 down 10 lctrl 0.378536939621
+zita SNARC line dot DC 0 up 15 num_delete 0.394846916199
+zita SNARC line dot DC 0 down 45 lctrl 0.500674009323
+zita SNARC line dot DC 0 down 25 lctrl 0.389508008957
+zita SNARC line dot DC 0 up 10 num_delete 0.441742181778
+zita SNARC line dot DC 0 down 20 lctrl 0.348289966583
+zita SNARC line dot DC 0 up 45 num_delete 0.403865098953
+zita SNARC line dot DC 0 down 15 lctrl 0.347892999649
+zita SNARC line dot DC 0 up 30 num_delete 0.375341892242
+zita SNARC line dot DC 0 down 35 lctrl 0.393401861191
+zita SNARC line dot DC 0 down 20 lctrl 0.396291971207
+zita SNARC line dot DC 0 up 40 num_delete 0.371043920517
+zita SNARC line dot DC 0 down 40 lctrl 0.513695955276
+zita SNARC line dot DC 0 up 10 num_delete 0.353276968002
+zita SNARC line dot DC 0 down 45 lctrl 0.355799913406
+zita SNARC line dot DC 0 down 40 lctrl 0.418524980545
+zita SNARC line dot DC 0 up 20 num_delete 0.403796195984
+zita SNARC line dot DC 0 down 25 lctrl 0.343717098236
+zita SNARC line dot DC 0 down 40 lctrl 0.465593099594
+zita SNARC line dot DC 0 down 20 lctrl 0.412683963776
+zita SNARC line dot DC 0 down 15 lctrl 0.298546075821
+zita SNARC line dot DC 0 up 30 num_delete 0.431740999222
+zita SNARC line dot DC 0 up 40 num_delete 0.826237916946
+zita SNARC line dot DC 0 down 30 lctrl 0.431707143784
+zita SNARC line dot DC 0 down 15 lctrl 0.363514900208
+zita SNARC line dot DC 0 down 35 lctrl 0.329257965088
+zita SNARC line dot DC 0 down 45 lctrl 0.404681921005
+zita SNARC line dot DC 0 up 45 num_delete 0.450930118561
+zita SNARC line dot DC 0 down 20 lctrl 0.469767093658
+zita SNARC line dot DC 0 down 45 lctrl 0.587934970856
+zita SNARC line dot DC 0 up 35 num_delete 0.480116128922
+zita SNARC line dot DC 0 down 25 lctrl 0.493687152863
+zita SNARC line dot DC 0 down 25 lctrl 0.318265199661
+zita SNARC line dot DC 0 down 30 lctrl 0.302696943283
+zita SNARC line dot DC 0 down 40 lctrl 0.338716030121
+zita SNARC line dot DC 0 down 30 lctrl 0.303372859955
+zita SNARC line dot DC 0 up 40 num_delete 0.593497037888
+zita SNARC line dot DC 0 up 15 lctrl 0.38112616539
+zita SNARC line dot DC 0 up 40 num_delete 0.497792005539
+zita SNARC line dot DC 0 up 10 num_delete 0.466157913208
+zita SNARC line dot DC 0 down 35 lctrl 0.352822065353
+zita SNARC line dot DC 0 down 45 lctrl 0.307047128677
+zita SNARC line dot DC 0 down 25 lctrl 0.31800198555
+zita SNARC line dot DC 0 down 25 lctrl 0.382498979568
+zita SNARC line dot DC 0 up 45 num_delete 0.370536088943
+zita SNARC line dot DC 0 down 25 lctrl 0.390559911728
+zita SNARC line dot DC 0 down 40 lctrl 0.387246847153
+zita SNARC line dot DC 0 down 15 lctrl 0.362550973892
+zita SNARC line dot DC 0 down 15 lctrl 0.352103948593
+zita SNARC line dot DC 0 down 30 lctrl 0.383509874344
+zita SNARC line dot DC 0 up 20 num_delete 0.395802021027
+zita SNARC line dot DC 0 down 15 lctrl 0.387570142746
+zita SNARC line dot DC 0 down 20 lctrl 0.357113838196
+zita SNARC line dot DC 0 up 10 num_delete 0.433571815491
+zita SNARC line dot DC 0 up 10 num_delete 0.409518003464
+zita SNARC line dot DC 0 up 35 num_delete 0.319456100464
+zita SNARC line dot DC 0 down 20 num_delete 0.364500999451
+zita SNARC line dot DC 0 up 20 num_delete 0.46854019165
+zita SNARC line dot DC 0 up 10 num_delete 0.321831941605
+zita SNARC line dot DC 0 up 35 num_delete 0.600792169571
+zita SNARC line dot DC 0 down 45 lctrl 0.427688121796
+zita SNARC line dot DC 0 down 25 lctrl 0.534767866135
+zita SNARC line dot DC 0 down 15 lctrl 0.378509044647
+zita SNARC line dot DC 0 up 40 num_delete 0.489915132523
+zita SNARC line dot DC 0 up 10 num_delete 0.321167945862
+zita SNARC line dot DC 0 up 15 num_delete 0.319336891174
+zita SNARC line dot DC 0 up 5 num_delete 0.359602928162
+zita SNARC line dot DC 0 up 40 num_delete 0.482210874557
+zita SNARC line dot DC 0 down 25 lctrl 0.406613111496
+zita SNARC line dot DC 0 up 40 num_delete 0.424344778061
+zita SNARC line dot DC 0 up 15 num_delete 0.387958049774
+zita SNARC line dot DC 0 down 40 lctrl 0.395431041718
+zita SNARC line dot DC 0 down 10 lctrl 0.297213077545
+zita SNARC line dot DC 0 down 45 lctrl 0.372629165649
+zita SNARC line dot DC 0 up 30 num_delete 0.375705957413
+zita SNARC line dot DC 0 down 15 lctrl 0.500742912292
+zita SNARC line dot DC 0 down 25 lctrl 0.341996908188
+zita SNARC line dot DC 0 up 35 num_delete 0.400519132614
+zita SNARC line dot DC 0 up 45 num_delete 0.692176103592
+zita SNARC line dot DC 0 up 20 num_delete 0.324491977692
+zita SNARC line dot DC 0 up 5 num_delete 0.368989944458
+zita SNARC line dot DC 0 down 15 lctrl 0.315742015839
+zita SNARC line dot DC 0 up 10 num_delete 0.425423145294
+zita SNARC line dot DC 0 up 5 num_delete 0.439835071564
+zita SNARC line dot DC 0 up 40 num_delete 0.522171974182
+zita SNARC line dot DC 0 up 30 num_delete 0.287122964859
+zita SNARC line dot DC 0 up 30 num_delete 0.358881950378
+zita SNARC line dot DC 0 up 5 num_delete 0.35146188736
+zita SNARC line dot DC 0 down 20 lctrl 0.46969294548
+zita SNARC line dot DC 0 up 15 num_delete 0.378416061401
+zita SNARC line dot DC 0 up 30 num_delete 0.351897954941
+zita SNARC line dot DC 0 down 5 lctrl 0.31251001358
+zita SNARC line dot DC 0 up 20 num_delete 0.355672836304
+zita SNARC line dot DC 0 down 45 lctrl 0.391930103302
+zita SNARC line dot DC 0 down 40 lctrl 0.435040950775
+zita SNARC line dot DC 0 up 25 lctrl 0.333039045334
+zita SNARC line dot DC 0 up 5 num_delete 0.428704977036
+zita SNARC line dot DC 0 down 45 lctrl 0.397461891174
+zita SNARC line dot DC 0 up 15 num_delete 0.564134120941
+zita SNARC line dot DC 0 down 40 lctrl 0.432929992676
+zita SNARC line dot DC 0 up 35 num_delete 0.370065927505
+zita SNARC line dot DC 0 down 10 lctrl 0.326785087585
+zita SNARC line dot DC 0 up 20 num_delete 0.406486034393
+zita SNARC line dot DC 0 down 15 lctrl 0.309798002243
+zita SNARC line dot DC 0 up 20 num_delete 0.388895988464
+zita SNARC line dot DC 0 up 20 num_delete 0.410946130753
+zita SNARC line dot DC 0 up 25 num_delete 0.338148832321
+zita SNARC line dot DC 0 up 5 num_delete 0.312068939209
+zita SNARC line dot DC 0 up 45 num_delete 0.337072849274
+zita SNARC line dot DC 0 down 30 lctrl 0.458380937576
+zita SNARC line dot DC 0 down 5 lctrl 0.366240024567
+zita SNARC line dot DC 0 down 5 lctrl 0.335427999496
+zita SNARC line dot DC 0 up 40 num_delete 0.39845085144
+zita SNARC line dot DC 0 up 15 num_delete 0.307387113571
+zita SNARC line dot DC 0 up 35 num_delete 0.280210971832
+zita SNARC line dot DC 0 up 10 num_delete 0.377836227417
+zita SNARC line dot DC 0 up 25 num_delete 0.398343086243
+zita SNARC line dot DC 0 down 5 lctrl 0.304244995117
+zita SNARC line dot DC 0 down 15 lctrl 0.2828810215
+zita SNARC line dot DC 0 up 30 num_delete 0.382603883743
+zita SNARC line dot DC 0 up 20 num_delete 0.236831188202
+zita SNARC line dot DC 0 up 20 num_delete 0.346436977386
+zita SNARC line dot DC 0 down 10 lctrl 0.457606077194
+zita SNARC line dot DC 0 down 25 lctrl 0.438130140305
+zita SNARC line dot DC 0 up 30 num_delete 0.512046813965
+zita SNARC line dot DC 0 up 35 num_delete 0.343974113464
+zita SNARC line dot DC 0 up 10 num_delete 0.321287870407
+zita SNARC line dot DC 0 up 30 num_delete 0.295500993729
+zita SNARC line dot DC 0 up 35 num_delete 0.30462884903
+zita SNARC line dot DC 0 up 35 num_delete 0.305241823196
+zita SNARC line dot DC 0 up 45 num_delete 0.323130130768
+zita SNARC line dot DC 0 up 45 num_delete 0.275867938995
+zita SNARC line dot DC 0 up 25 num_delete 0.445441961288
+zita SNARC line dot DC 0 up 20 num_delete 0.356966018677
+zita SNARC line dot DC 0 up 5 num_delete 0.360395908356
+zita SNARC line dot DC 0 down 10 lctrl 0.297734975815
+zita SNARC line dot DC 0 up 15 num_delete 0.314304113388
+zita SNARC line dot DC 0 up 25 num_delete 0.39074587822
+zita SNARC line dot DC 0 down 45 lctrl 0.635688066483
+zita SNARC line dot DC 0 up 30 num_delete 0.382973194122
+zita SNARC line dot DC 0 down 5 lctrl 0.431802034378
+zita SNARC line dot DC 0 up 40 num_delete 0.281780958176
+zita SNARC line dot DC 0 up 30 num_delete 0.381886005402
+zita SNARC line dot DC 0 up 5 num_delete 0.361186981201
+zita SNARC line dot DC 0 down 45 lctrl 0.539183139801
+zita SNARC line dot DC 0 down 20 lctrl 0.49964594841
+zita SNARC line dot DC 0 up 35 num_delete 0.432017087936
+zita SNARC line dot DC 0 down 45 lctrl 0.324980974197
+zita SNARC line dot DC 0 down 5 lctrl 0.392364025116
+zita SNARC line dot DC 0 down 25 lctrl 0.350079059601
+zita SNARC line dot DC 0 down 35 lctrl 0.327430963516
+zita SNARC line dot DC 0 up 35 num_delete 0.680335998535
+zita SNARC line dot DC 0 up 20 num_delete 0.372700929642
+zita SNARC line dot DC 0 down 30 lctrl 0.304318904877
+zita SNARC line dot DC 0 up 30 num_delete 0.286844968796
+zita SNARC line dot DC 0 up 15 num_delete 0.371443986893
+zita SNARC line dot DC 0 down 35 lctrl 0.385591030121
+zita SNARC line dot DC 0 up 5 num_delete 0.319703102112
+zita SNARC line dot DC 0 down 35 lctrl 0.840527057648
+zita SNARC line dot DC 0 up 40 num_delete 0.337321043015
+zita SNARC line dot DC 0 down 40 lctrl 0.435500860214
+zita SNARC line dot DC 0 down 20 lctrl 0.404062986374
+zita SNARC line dot DC 0 down 10 lctrl 0.353862047195
+zita SNARC line dot DC 0 up 25 num_delete 0.405070066452
+zita SNARC line dot DC 0 down 40 lctrl 0.515571832657
+zita SNARC line dot DC 0 down 45 lctrl 0.64425110817
+zita SNARC line dot DC 0 up 15 num_delete 0.570237159729
+zita SNARC line dot DC 0 down 10 lctrl 0.378133058548
+zita SNARC line dot DC 0 up 5 num_delete 0.319957017899
+zita SNARC line dot DC 0 down 10 lctrl 0.258541107178
+zita SNARC line dot DC 0 up 15 num_delete 0.289958000183
+zita SNARC line dot DC 0 up 30 num_delete 0.472275972366
+zita SNARC line dot DC 0 down 10 lctrl 0.283078193665
+zita SNARC line dot DC 0 up 10 num_delete 0.368977069855
+zita SNARC line dot DC 0 up 25 num_delete 0.365444898605
+zita SNARC line dot DC 0 up 10 num_delete 0.345770120621
+zita SNARC line dot DC 0 down 10 lctrl 0.371360063553
+zita SNARC line dot DC 0 down 25 lctrl 0.365535974503
+zita SNARC line dot DC 0 down 40 lctrl 0.306275844574
+zita SNARC line dot DC 0 down 15 lctrl 0.259212970734
+zita SNARC line dot DC 0 up 40 num_delete 0.368931055069
+zita SNARC line dot DC 0 down 45 lctrl 0.315906047821
+zita SNARC line dot DC 0 up 20 num_delete 0.539275884628
+zita SNARC line dot DC 0 up 5 num_delete 0.352800130844
+zita SNARC line dot DC 0 down 5 lctrl 0.329227209091
+zita SNARC line dot DC 0 down 15 lctrl 0.387856960297
+zita SNARC line dot DC 0 up 25 num_delete 0.405673027039
+zita SNARC line dot DC 0 up 10 num_delete 0.329236030579
+zita SNARC line dot DC 0 up 25 num_delete 0.398494005203
+zita SNARC line dot DC 0 down 25 lctrl 0.374495029449
+zita SNARC line dot DC 0 up 35 num_delete 0.361171960831
+zita SNARC line dot DC 0 down 15 lctrl 0.332228899002
+zita SNARC line dot DC 0 up 15 num_delete 0.345808982849
+zita SNARC line dot DC 0 down 10 lctrl 0.338330984116
+zita SNARC line dot DC 0 up 10 lctrl 0.313648939133
+zita SNARC line dot DC 0 up 20 num_delete 1.65921616554
+zita SNARC line dot DC 0 down 10 lctrl 0.353932142258
+zita SNARC line dot DC 0 down 5 lctrl 0.511698007584
+zita SNARC line dot DC 0 down 25 lctrl 0.310705184937
+zita SNARC line dot DC 0 up 45 num_delete 0.346603870392
+zita SNARC line dot DC 0 down 5 lctrl 0.377365112305
+zita SNARC line dot DC 0 up 20 num_delete 0.618990898132
+zita SNARC line dot DC 0 up 35 num_delete 0.336652040482
+zita SNARC line dot DC 0 up 15 num_delete 0.330998897552
+zita SNARC line dot DC 0 down 35 lctrl 0.385950088501
+zita SNARC line dot DC 0 down 40 lctrl 0.378346920013
+zita SNARC line dot DC 0 up 25 num_delete 0.413135051727
+zita SNARC line dot DC 0 up 45 num_delete 0.37818479538
+zita SNARC line dot DC 0 down 40 lctrl 0.382949113846
+zita SNARC line dot DC 0 up 15 lctrl 0.387634992599
+zita SNARC line dot DC 0 up 5 num_delete 0.495468139648
+zita SNARC line dot DC 0 up 20 num_delete 0.316518068314
+zita SNARC line dot DC 0 down 10 lctrl 0.386176109314
+zita SNARC line dot DC 0 up 40 num_delete 0.370406866074
+zita SNARC line dot DC 0 up 20 num_delete 0.452556848526
+zita SNARC line dot DC 0 up 10 num_delete 0.457976102829
+zita SNARC line dot DC 0 up 25 num_delete 0.325652837753
+zita SNARC line dot DC 0 down 40 lctrl 0.434265136719
+zita SNARC line dot DC 0 down 15 lctrl 0.300279140472
+zita SNARC line dot DC 0 down 35 lctrl 0.335875988007
+zita SNARC line dot DC 0 up 30 num_delete 0.366332054138
+zita SNARC line dot DC 0 up 25 num_delete 0.261070966721
+zita SNARC line dot DC 0 up 35 num_delete 0.375639200211
+zita SNARC line dot DC 0 up 35 num_delete 0.345765113831
+zita SNARC line dot DC 0 down 10 lctrl 0.346540927887
+zita SNARC line dot DC 0 down 45 lctrl 0.411843061447
+zita SNARC line dot DC 0 up 20 num_delete 0.397035121918
+zita SNARC line dot DC 0 down 30 lctrl 0.302905082703
+zita SNARC line dot DC 0 up 35 num_delete 0.616542100906
+zita SNARC line dot DC 0 down 20 lctrl 0.325882911682
+zita SNARC line dot DC 0 up 10 lctrl 0.402041912079
+zita SNARC line dot DC 0 up 15 num_delete 0.4255900383
+zita SNARC line dot DC 0 up 45 num_delete 0.387204885483
+zita SNARC line dot DC 0 up 10 num_delete 0.305506944656
+zita SNARC line dot DC 0 up 30 num_delete 0.336219072342
+zita SNARC line dot DC 0 down 40 num_delete 0.370929956436
+zita SNARC line dot DC 0 up 40 num_delete 0.370837926865
+zita SNARC line dot DC 0 down 30 lctrl 0.454550981522
+zita SNARC line dot DC 0 down 20 num_delete 0.507306098938
+zita SNARC line dot DC 0 down 30 lctrl 0.848519086838
+zita SNARC line dot DC 0 up 10 num_delete 0.385231971741
+zita SNARC line dot DC 0 up 25 num_delete 0.366405963898
+zita SNARC line dot DC 0 up 35 num_delete 0.361444950104
+zita SNARC line dot DC 0 down 35 lctrl 0.506422042847
+zita SNARC line dot DC 0 up 45 num_delete 0.427787065506
+zita SNARC line dot DC 0 down 10 lctrl 0.578486919403
+zita SNARC line dot DC 0 up 15 num_delete 0.274544000626
+zita SNARC line dot DC 0 up 35 num_delete 0.488479852676
+zita SNARC line dot DC 0 down 30 lctrl 0.368965864182
+zita SNARC line dot DC 0 up 45 num_delete 0.434928178787
+zita SNARC line dot DC 0 down 30 lctrl 0.440748214722
+zita SNARC line dot DC 0 down 45 lctrl 0.475078105927
+zita SNARC line dot DC 0 down 35 lctrl 0.336319923401
+zita SNARC line dot DC 0 up 5 num_delete 0.391911029816
+zita SNARC line dot DC 0 up 35 num_delete 0.361437082291
+zita SNARC line dot DC 0 down 40 lctrl 0.410377979279
+zita SNARC line dot DC 0 down 45 lctrl 0.419549942017
+zita SNARC line dot DC 0 down 5 lctrl 0.465359926224
+zita SNARC line dot DC 0 down 10 lctrl 0.361799001694
+zita SNARC line dot DC 0 up 10 num_delete 0.584614992142
+zita SNARC line dot DC 0 up 35 num_delete 0.448978185654
+zita SNARC line dot DC 0 down 20 lctrl 0.452838897705
+zita SNARC line dot DC 0 down 5 lctrl 0.311825990677
+zita SNARC line dot DC 0 down 35 lctrl 0.393362998962
+zita SNARC line dot DC 0 down 25 lctrl 0.359316110611
+zita SNARC line dot DC 0 up 5 num_delete 0.656107902527
+zita SNARC line dot DC 0 up 15 num_delete 0.362934827805
+zita SNARC line dot DC 0 up 40 num_delete 0.907289028168
+zita SNARC line dot DC 0 up 35 num_delete 0.320187091827
+zita SNARC line dot DC 0 down 25 lctrl 0.36661195755
+zita SNARC line dot DC 0 up 30 num_delete 0.286376953125
+zita SNARC line dot DC 0 up 40 num_delete 0.369796991348
+zita SNARC line dot DC 0 up 35 num_delete 0.30645608902
+zita SNARC line dot DC 0 up 30 num_delete 0.351408004761
+zita SNARC line dot DC 0 up 5 num_delete 0.312068939209
+zita SNARC line dot DC 0 down 5 lctrl 0.240737915039
+zita SNARC line dot DC 0 up 45 num_delete 0.347520112991
+zita SNARC line dot DC 0 down 20 lctrl 0.29348897934
+zita SNARC line dot DC 0 down 25 lctrl 0.438121080399
+zita SNARC line dot DC 0 up 15 num_delete 0.338573932648
+zita SNARC line dot DC 0 up 20 num_delete 0.445641994476
+zita SNARC line dot DC 0 down 5 lctrl 0.568675994873
+zita SNARC line dot DC 0 down 5 lctrl 0.368480205536
+zita SNARC line dot DC 0 up 25 num_delete 0.261953115463
+zita SNARC line dot DC 0 up 30 num_delete 0.462411880493
+zita SNARC line dot DC 0 down 15 num_delete 0.314970016479
+zita SNARC line dot DC 0 up 45 num_delete 0.30042219162
+zita SNARC line dot DC 0 down 10 lctrl 0.305406093597
+zita SNARC line dot DC 0 up 15 num_delete 0.331321001053
+zita SNARC line dot DC 0 down 45 lctrl 0.339166164398
+zita SNARC line dot DC 0 down 5 lctrl 0.407452821732
+zita SNARC line dot DC 0 down 25 lctrl 0.366730928421
+zita SNARC line dot DC 0 up 45 num_delete 0.428072929382
+zita SNARC line dot DC 0 down 15 lctrl 0.500569105148
+zita SNARC line dot DC 0 down 35 lctrl 0.385273933411
+zita SNARC line dot DC 0 up 25 num_delete 0.405402898788
+zita SNARC line dot DC 0 up 10 num_delete 0.346447944641
+zita SNARC line dot DC 0 up 25 num_delete 0.39741396904
+zita SNARC line dot DC 0 up 45 num_delete 0.34891295433
+zita SNARC line dot DC 0 up 20 num_delete 0.339845895767
+zita SNARC line dot DC 0 down 5 lctrl 0.40860581398
+zita SNARC line dot DC 0 up 30 num_delete 0.431104898453
+zita SNARC line dot DC 0 up 25 num_delete 0.326210021973
+zita SNARC line dot DC 0 down 30 lctrl 0.400013923645
+zita SNARC line dot DC 0 up 30 num_delete 0.318788051605
+zita SNARC line dot DC 0 down 30 lctrl 0.303908824921
+zita SNARC line dot DC 0 down 35 lctrl 0.312222957611
+zita SNARC line dot DC 0 down 30 lctrl 0.31941986084
+zita SNARC line dot DC 0 up 30 num_delete 0.438755989075
+zita SNARC line dot DC 0 up 20 num_delete 0.308618068695
+zita SNARC line dot DC 0 up 30 num_delete 0.375965118408
+zita SNARC line dot DC 0 up 40 num_delete 0.338043928146
+zita SNARC line dot DC 0 down 15 lctrl 0.388993024826
+zita SNARC line dot DC 0 up 30 num_delete 0.503059148788
+zita SNARC line dot DC 0 up 35 num_delete 0.312762975693
+zita SNARC line dot DC 0 up 5 num_delete 0.41614484787
+zita SNARC line dot DC 0 up 40 num_delete 0.458239078522
+zita SNARC line dot DC 0 up 5 num_delete 0.344118118286
+zita SNARC line dot DC 0 up 20 num_delete 0.244882822037
+zita SNARC line dot DC 0 up 10 num_delete 0.306210041046
+zita SNARC line dot DC 0 up 40 num_delete 0.281469106674
+zita SNARC line dot DC 0 down 30 lctrl 0.448218107224
+zita SNARC line dot DC 0 down 40 lctrl 0.371533155441
+zita SNARC line dot DC 0 down 40 lctrl 0.378607988358
+zita SNARC line dot DC 0 down 40 lctrl 0.306382894516
+zita SNARC line dot DC 0 up 20 num_delete 0.39640712738
+zita SNARC line dot DC 0 up 10 num_delete 0.36981010437
+zita SNARC line dot DC 0 up 5 num_delete 0.400475025177
+zita SNARC line dot DC 0 up 15 num_delete 0.323389053345
+zita SNARC line dot DC 0 up 15 num_delete 0.347597122192
+zita SNARC line dot DC 0 down 25 lctrl 0.413056850433
+zita SNARC line dot DC 0 up 20 num_delete 0.404012918472
+zita SNARC line dot DC 0 up 10 num_delete 0.338212013245
+zita SNARC line dot DC 0 up 20 num_delete 0.29261803627
+zita SNARC line dot DC 0 up 25 num_delete 0.285855054855
+zita SNARC line dot DC 0 up 20 num_delete 0.243963003159
+zita SNARC line dot DC 0 up 45 num_delete 0.243795871735
+{'delay': u'0', 'dateStr': u'05_15_1005', 'task': u'line', 'participant': u'zita', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zita SNARC line arabic DC 0 down 5 lctrl 0.967233896255
+zita SNARC line arabic DC 0 down 9 lctrl 0.375491857529
+zita SNARC line arabic DC 0 down 1 lctrl 0.503657102585
+zita SNARC line arabic DC 0 up 9 num_delete 0.400527000427
+zita SNARC line arabic DC 0 down 6 lctrl 0.528311014175
+zita SNARC line arabic DC 0 up 2 num_delete 0.360306024551
+zita SNARC line arabic DC 0 up 4 num_delete 0.504161834717
+zita SNARC line arabic DC 0 down 2 lctrl 0.337126016617
+zita SNARC line arabic DC 0 up 2 num_delete 0.327887058258
+zita SNARC line arabic DC 0 down 7 lctrl 0.671184062958
+zita SNARC line arabic DC 0 up 4 num_delete 0.368719816208
+zita SNARC line arabic DC 0 down 1 lctrl 0.352875947952
+zita SNARC line arabic DC 0 up 1 num_delete 0.376746892929
+zita SNARC line arabic DC 0 down 2 lctrl 0.321197032928
+zita SNARC line arabic DC 0 up 6 num_delete 0.34514093399
+zita SNARC line arabic DC 0 up 8 num_delete 0.255427122116
+zita SNARC line arabic DC 0 down 7 lctrl 0.425414085388
+zita SNARC line arabic DC 0 down 3 lctrl 0.391359090805
+zita SNARC line arabic DC 0 up 5 num_delete 0.368535041809
+zita SNARC line arabic DC 0 up 7 num_delete 0.472960948944
+zita SNARC line arabic DC 0 down 7 lctrl 0.344810009003
+zita SNARC line arabic DC 0 up 3 num_delete 0.352813959122
+zita SNARC line arabic DC 0 down 1 num_delete 0.344272136688
+zita SNARC line arabic DC 0 up 5 num_delete 0.442636966705
+zita SNARC line arabic DC 0 up 1 num_delete 0.360894918442
+zita SNARC line arabic DC 0 up 5 num_delete 0.35333609581
+zita SNARC line arabic DC 0 down 4 lctrl 0.384917974472
+zita SNARC line arabic DC 0 down 7 lctrl 0.36940908432
+zita SNARC line arabic DC 0 up 6 num_delete 0.391932010651
+zita SNARC line arabic DC 0 up 7 num_delete 0.384668827057
+zita SNARC line arabic DC 0 down 8 lctrl 0.424969911575
+zita SNARC line arabic DC 0 up 9 num_delete 0.416072130203
+zita SNARC line arabic DC 0 up 9 num_delete 0.328386068344
+zita SNARC line arabic DC 0 up 2 num_delete 0.305129051208
+zita SNARC line arabic DC 0 up 8 num_delete 0.520170927048
+zita SNARC line arabic DC 0 down 9 lctrl 0.425409078598
+zita SNARC line arabic DC 0 up 2 num_delete 0.472734928131
+zita SNARC line arabic DC 0 up 6 num_delete 0.40083694458
+zita SNARC line arabic DC 0 down 2 lctrl 0.441265821457
+zita SNARC line arabic DC 0 down 2 lctrl 0.336873054504
+zita SNARC line arabic DC 0 down 5 lctrl 0.369155168533
+zita SNARC line arabic DC 0 down 4 lctrl 0.464792013168
+zita SNARC line arabic DC 0 up 1 num_delete 0.472028970718
+zita SNARC line arabic DC 0 up 9 num_delete 0.424428939819
+zita SNARC line arabic DC 0 down 4 lctrl 0.45639705658
+zita SNARC line arabic DC 0 up 6 num_delete 0.353086948395
+zita SNARC line arabic DC 0 up 2 num_delete 0.375432014465
+zita SNARC line arabic DC 0 up 1 num_delete 0.38537311554
+zita SNARC line arabic DC 0 up 5 num_delete 0.304498910904
+zita SNARC line arabic DC 0 down 9 lctrl 0.377503156662
+zita SNARC line arabic DC 0 up 8 num_delete 0.43967294693
+zita SNARC line arabic DC 0 down 1 lctrl 0.352778196335
+zita SNARC line arabic DC 0 down 8 lctrl 0.616404056549
+zita SNARC line arabic DC 0 up 3 num_delete 0.375691175461
+zita SNARC line arabic DC 0 down 4 lctrl 0.56130695343
+zita SNARC line arabic DC 0 up 6 num_delete 0.359882116318
+zita SNARC line arabic DC 0 down 7 lctrl 0.337395906448
+zita SNARC line arabic DC 0 down 4 lctrl 0.329348087311
+zita SNARC line arabic DC 0 down 3 lctrl 0.361038923264
+zita SNARC line arabic DC 0 up 2 num_delete 0.424431800842
+zita SNARC line arabic DC 0 down 7 lctrl 0.361320018768
+zita SNARC line arabic DC 0 up 7 lctrl 0.359828948975
+zita SNARC line arabic DC 0 down 3 lctrl 0.336572885513
+zita SNARC line arabic DC 0 down 3 lctrl 0.361238002777
+zita SNARC line arabic DC 0 up 1 num_delete 0.374907016754
+zita SNARC line arabic DC 0 up 3 num_delete 0.920592069626
+zita SNARC line arabic DC 0 down 7 lctrl 0.505503892899
+zita SNARC line arabic DC 0 up 9 num_delete 0.384353876114
+zita SNARC line arabic DC 0 down 9 num_delete 0.497167110443
+zita SNARC line arabic DC 0 down 7 lctrl 0.520665168762
+zita SNARC line arabic DC 0 up 8 num_delete 0.365170001984
+zita SNARC line arabic DC 0 up 9 num_delete 0.369120121002
+zita SNARC line arabic DC 0 up 7 num_delete 0.504963874817
+zita SNARC line arabic DC 0 down 7 lctrl 0.464987039566
+zita SNARC line arabic DC 0 down 6 lctrl 0.545120000839
+zita SNARC line arabic DC 0 up 6 num_delete 0.384236097336
+zita SNARC line arabic DC 0 up 2 num_delete 0.392137050629
+zita SNARC line arabic DC 0 up 3 num_delete 0.44762802124
+zita SNARC line arabic DC 0 down 1 lctrl 0.498109102249
+zita SNARC line arabic DC 0 down 7 lctrl 0.359447956085
+zita SNARC line arabic DC 0 up 3 num_delete 0.384879112244
+zita SNARC line arabic DC 0 up 6 num_delete 0.319936990738
+zita SNARC line arabic DC 0 down 1 lctrl 0.409444093704
+zita SNARC line arabic DC 0 down 9 lctrl 0.415539979935
+zita SNARC line arabic DC 0 up 1 num_delete 0.416568040848
+zita SNARC line arabic DC 0 up 4 num_delete 0.360714912415
+zita SNARC line arabic DC 0 up 8 num_delete 0.400135993958
+zita SNARC line arabic DC 0 down 1 lctrl 0.384813070297
+zita SNARC line arabic DC 0 up 7 num_delete 0.367842912674
+zita SNARC line arabic DC 0 down 4 num_delete 0.376259088516
+zita SNARC line arabic DC 0 up 1 num_delete 0.392821073532
+zita SNARC line arabic DC 0 up 4 lctrl 0.353501081467
+zita SNARC line arabic DC 0 down 7 lctrl 0.504302978516
+zita SNARC line arabic DC 0 up 8 num_delete 0.344315052032
+zita SNARC line arabic DC 0 down 6 lctrl 0.408904075623
+zita SNARC line arabic DC 0 up 1 num_delete 0.432806015015
+zita SNARC line arabic DC 0 up 9 num_delete 0.368797063828
+zita SNARC line arabic DC 0 up 9 num_delete 0.320065975189
+zita SNARC line arabic DC 0 up 4 num_delete 0.344861030579
+zita SNARC line arabic DC 0 up 3 num_delete 0.29735994339
+zita SNARC line arabic DC 0 up 8 num_delete 0.297235965729
+zita SNARC line arabic DC 0 down 8 lctrl 0.449655056
+zita SNARC line arabic DC 0 down 8 lctrl 0.312071084976
+zita SNARC line arabic DC 0 down 3 lctrl 0.513315200806
+zita SNARC line arabic DC 0 down 4 lctrl 0.7208070755
+zita SNARC line arabic DC 0 up 3 num_delete 0.423587083817
+zita SNARC line arabic DC 0 up 2 num_delete 0.280396938324
+zita SNARC line arabic DC 0 down 9 lctrl 0.384923934937
+zita SNARC line arabic DC 0 up 5 num_delete 0.385092973709
+zita SNARC line arabic DC 0 down 9 lctrl 0.841637134552
+zita SNARC line arabic DC 0 up 7 num_delete 0.384584903717
+zita SNARC line arabic DC 0 down 1 lctrl 0.393988132477
+zita SNARC line arabic DC 0 down 8 lctrl 0.33654499054
+zita SNARC line arabic DC 0 up 1 num_delete 0.449155807495
+zita SNARC line arabic DC 0 down 2 lctrl 0.329118967056
+zita SNARC line arabic DC 0 up 2 num_delete 0.303910970688
+zita SNARC line arabic DC 0 up 4 num_delete 0.553566217422
+zita SNARC line arabic DC 0 up 9 num_delete 0.264102935791
+zita SNARC line arabic DC 0 down 1 lctrl 0.488466978073
+zita SNARC line arabic DC 0 down 8 lctrl 0.337498903275
+zita SNARC line arabic DC 0 down 6 lctrl 0.337336063385
+zita SNARC line arabic DC 0 down 9 lctrl 0.312366962433
+zita SNARC line arabic DC 0 up 9 num_delete 0.264444828033
+zita SNARC line arabic DC 0 up 9 num_delete 0.296482086182
+zita SNARC line arabic DC 0 down 1 lctrl 0.367695093155
+zita SNARC line arabic DC 0 down 4 lctrl 0.423730134964
+zita SNARC line arabic DC 0 down 8 lctrl 0.344636917114
+zita SNARC line arabic DC 0 down 2 lctrl 0.3694190979
+zita SNARC line arabic DC 0 up 9 num_delete 0.440969944
+zita SNARC line arabic DC 0 up 6 num_delete 0.424292087555
+zita SNARC line arabic DC 0 up 4 num_delete 0.345052957535
+zita SNARC line arabic DC 0 down 9 lctrl 0.464821100235
+zita SNARC line arabic DC 0 up 4 num_delete 0.592458963394
+zita SNARC line arabic DC 0 up 1 num_delete 0.304181814194
+zita SNARC line arabic DC 0 up 3 lctrl 0.361371040344
+zita SNARC line arabic DC 0 up 1 num_delete 0.439623117447
+zita SNARC line arabic DC 0 up 5 num_delete 0.368881940842
+zita SNARC line arabic DC 0 up 3 num_delete 0.26505613327
+zita SNARC line arabic DC 0 down 6 lctrl 0.359966993332
+zita SNARC line arabic DC 0 up 2 num_delete 0.360217094421
+zita SNARC line arabic DC 0 up 9 num_delete 0.52062702179
+zita SNARC line arabic DC 0 down 4 lctrl 0.424715042114
+zita SNARC line arabic DC 0 up 2 num_delete 0.287098884583
+zita SNARC line arabic DC 0 up 6 num_delete 0.368860960007
+zita SNARC line arabic DC 0 up 2 num_delete 0.304826021194
+zita SNARC line arabic DC 0 down 3 lctrl 0.62627196312
+zita SNARC line arabic DC 0 down 8 lctrl 0.44872379303
+zita SNARC line arabic DC 0 up 2 num_delete 0.391815900803
+zita SNARC line arabic DC 0 down 8 lctrl 0.472663879395
+zita SNARC line arabic DC 0 down 8 lctrl 0.375877857208
+zita SNARC line arabic DC 0 up 8 num_delete 0.392341136932
+zita SNARC line arabic DC 0 down 7 num_delete 0.369107961655
+zita SNARC line arabic DC 0 up 6 num_delete 0.383752822876
+zita SNARC line arabic DC 0 down 9 lctrl 0.306136131287
+zita SNARC line arabic DC 0 down 7 lctrl 0.312669992447
+zita SNARC line arabic DC 0 down 8 lctrl 0.249051809311
+zita SNARC line arabic DC 0 down 6 lctrl 0.328483819962
+zita SNARC line arabic DC 0 down 5 lctrl 0.273186922073
+zita SNARC line arabic DC 0 down 4 lctrl 0.312831878662
+zita SNARC line arabic DC 0 down 3 lctrl 0.375866889954
+zita SNARC line arabic DC 0 down 3 lctrl 0.327158927917
+zita SNARC line arabic DC 0 down 3 lctrl 0.368512868881
+zita SNARC line arabic DC 0 down 8 lctrl 0.328863143921
+zita SNARC line arabic DC 0 up 6 num_delete 0.487497806549
+zita SNARC line arabic DC 0 down 4 lctrl 0.369265079498
+zita SNARC line arabic DC 0 up 2 num_delete 0.304438114166
+zita SNARC line arabic DC 0 up 7 num_delete 0.353062152863
+zita SNARC line arabic DC 0 up 1 num_delete 0.336044073105
+zita SNARC line arabic DC 0 down 8 lctrl 0.417270183563
+zita SNARC line arabic DC 0 down 4 lctrl 0.409116029739
+zita SNARC line arabic DC 0 down 5 num_delete 0.390851974487
+zita SNARC line arabic DC 0 up 6 num_delete 0.440761089325
+zita SNARC line arabic DC 0 down 5 lctrl 0.513242959976
+zita SNARC line arabic DC 0 down 5 lctrl 0.368922948837
+zita SNARC line arabic DC 0 up 6 lctrl 0.271760940552
+zita SNARC line arabic DC 0 down 3 lctrl 0.440151929855
+zita SNARC line arabic DC 0 down 8 lctrl 0.281252861023
+zita SNARC line arabic DC 0 down 3 lctrl 0.391772985458
+zita SNARC line arabic DC 0 down 4 lctrl 0.405884981155
+zita SNARC line arabic DC 0 down 5 lctrl 0.464399814606
+zita SNARC line arabic DC 0 up 6 num_delete 0.527953147888
+zita SNARC line arabic DC 0 down 9 lctrl 0.393104076385
+zita SNARC line arabic DC 0 down 9 lctrl 0.448660135269
+zita SNARC line arabic DC 0 up 5 num_delete 0.415457963943
+zita SNARC line arabic DC 0 up 5 num_delete 0.360299825668
+zita SNARC line arabic DC 0 down 5 lctrl 0.441800117493
+zita SNARC line arabic DC 0 up 2 num_delete 0.344648122787
+zita SNARC line arabic DC 0 down 4 lctrl 0.377236127853
+zita SNARC line arabic DC 0 down 8 lctrl 0.312750101089
+zita SNARC line arabic DC 0 up 4 num_delete 0.30491399765
+zita SNARC line arabic DC 0 up 6 num_delete 0.384831905365
+zita SNARC line arabic DC 0 up 9 num_delete 0.400617837906
+zita SNARC line arabic DC 0 up 4 num_delete 0.416765928268
+zita SNARC line arabic DC 0 up 1 num_delete 0.27233505249
+zita SNARC line arabic DC 0 up 3 num_delete 0.271646022797
+zita SNARC line arabic DC 0 down 8 lctrl 0.384848117828
+zita SNARC line arabic DC 0 down 6 num_delete 0.32764005661
+zita SNARC line arabic DC 0 up 2 num_delete 0.327972173691
+zita SNARC line arabic DC 0 down 6 lctrl 0.433423042297
+zita SNARC line arabic DC 0 up 5 num_delete 0.408523082733
+zita SNARC line arabic DC 0 up 4 num_delete 0.577293872833
+zita SNARC line arabic DC 0 down 4 lctrl 0.513169050217
+zita SNARC line arabic DC 0 up 6 num_delete 0.481323003769
+zita SNARC line arabic DC 0 up 9 num_delete 0.455988883972
+zita SNARC line arabic DC 0 down 1 lctrl 0.409408807755
+zita SNARC line arabic DC 0 down 6 lctrl 0.40042591095
+zita SNARC line arabic DC 0 up 2 num_delete 0.680171012878
+zita SNARC line arabic DC 0 up 2 num_delete 0.416702985764
+zita SNARC line arabic DC 0 up 2 num_delete 0.41705083847
+zita SNARC line arabic DC 0 down 3 lctrl 0.376234054565
+zita SNARC line arabic DC 0 up 6 num_delete 0.415338993073
+zita SNARC line arabic DC 0 up 7 num_delete 0.312805891037
+zita SNARC line arabic DC 0 down 7 lctrl 0.393070936203
+zita SNARC line arabic DC 0 up 4 num_delete 0.360502958298
+zita SNARC line arabic DC 0 up 8 num_delete 0.361002922058
+zita SNARC line arabic DC 0 up 9 num_delete 0.295704126358
+zita SNARC line arabic DC 0 up 1 num_delete 0.272500991821
+zita SNARC line arabic DC 0 down 1 lctrl 0.448516845703
+zita SNARC line arabic DC 0 down 6 num_delete 0.383857011795
+zita SNARC line arabic DC 0 up 7 num_delete 0.417070865631
+zita SNARC line arabic DC 0 up 7 lctrl 0.28989815712
+zita SNARC line arabic DC 0 up 9 num_delete 0.359295845032
+zita SNARC line arabic DC 0 up 7 num_delete 0.528532981873
+zita SNARC line arabic DC 0 up 3 num_delete 0.33682012558
+zita SNARC line arabic DC 0 up 5 num_delete 0.296521902084
+zita SNARC line arabic DC 0 up 4 num_delete 0.472539186478
+zita SNARC line arabic DC 0 down 8 lctrl 0.465685844421
+zita SNARC line arabic DC 0 up 4 num_delete 0.383916139603
+zita SNARC line arabic DC 0 up 2 num_delete 0.528102874756
+zita SNARC line arabic DC 0 up 1 num_delete 0.368800163269
+zita SNARC line arabic DC 0 up 5 num_delete 0.641207933426
+zita SNARC line arabic DC 0 up 3 num_delete 0.289245128632
+zita SNARC line arabic DC 0 up 7 num_delete 0.295573949814
+zita SNARC line arabic DC 0 down 7 lctrl 0.648817062378
+zita SNARC line arabic DC 0 up 4 num_delete 0.343894004822
+zita SNARC line arabic DC 0 down 5 num_delete 0.345319032669
+zita SNARC line arabic DC 0 down 1 lctrl 0.512140035629
+zita SNARC line arabic DC 0 up 3 num_delete 0.544611930847
+zita SNARC line arabic DC 0 down 9 lctrl 1.30569791794
+zita SNARC line arabic DC 0 up 5 num_delete 0.543570041656
+zita SNARC line arabic DC 0 up 5 num_delete 0.513208866119
+zita SNARC line arabic DC 0 up 3 num_delete 0.408101081848
+zita SNARC line arabic DC 0 down 9 num_delete 0.311975002289
+zita SNARC line arabic DC 0 up 5 num_delete 0.488276004791
+zita SNARC line arabic DC 0 up 6 num_delete 0.360811948776
+zita SNARC line arabic DC 0 down 8 lctrl 0.368834972382
+zita SNARC line arabic DC 0 down 5 lctrl 0.409496068954
+zita SNARC line arabic DC 0 down 6 lctrl 0.36075592041
+zita SNARC line arabic DC 0 down 9 lctrl 0.344678878784
+zita SNARC line arabic DC 0 up 6 num_delete 0.368889093399
+zita SNARC line arabic DC 0 down 8 num_delete 0.351526975632
+zita SNARC line arabic DC 0 up 1 num_delete 0.504132986069
+zita SNARC line arabic DC 0 down 5 lctrl 0.424706935883
+zita SNARC line arabic DC 0 down 6 lctrl 0.313264131546
+zita SNARC line arabic DC 0 up 2 num_delete 0.401251077652
+zita SNARC line arabic DC 0 down 2 lctrl 0.39345407486
+zita SNARC line arabic DC 0 up 5 num_delete 0.488996982574
+zita SNARC line arabic DC 0 up 3 num_delete 0.320832014084
+zita SNARC line arabic DC 0 up 8 num_delete 0.297311067581
+zita SNARC line arabic DC 0 down 5 lctrl 0.328763008118
+zita SNARC line arabic DC 0 down 3 lctrl 0.312122821808
+zita SNARC line arabic DC 0 up 9 num_delete 0.488665103912
+zita SNARC line arabic DC 0 up 7 num_delete 0.33705997467
+zita SNARC line arabic DC 0 down 7 lctrl 0.385857105255
+zita SNARC line arabic DC 0 up 3 lctrl 0.344784021378
+zita SNARC line arabic DC 0 down 4 lctrl 0.352319955826
+zita SNARC line arabic DC 0 up 3 num_delete 0.439590930939
+zita SNARC line arabic DC 0 up 6 num_delete 0.369385004044
+zita SNARC line arabic DC 0 down 5 lctrl 0.384402036667
+zita SNARC line arabic DC 0 down 4 lctrl 0.376552820206
+zita SNARC line arabic DC 0 down 9 lctrl 0.320952177048
+zita SNARC line arabic DC 0 up 2 num_delete 0.408819913864
+zita SNARC line arabic DC 0 down 9 lctrl 0.496376991272
+zita SNARC line arabic DC 0 down 7 lctrl 0.648930072784
+zita SNARC line arabic DC 0 down 2 lctrl 0.409483909607
+zita SNARC line arabic DC 0 up 7 num_delete 0.384720802307
+zita SNARC line arabic DC 0 up 8 num_delete 0.431936979294
+zita SNARC line arabic DC 0 up 8 num_delete 0.303289175034
+zita SNARC line arabic DC 0 up 1 num_delete 0.385013103485
+zita SNARC line arabic DC 0 down 1 num_delete 0.321300983429
+zita SNARC line arabic DC 0 down 1 lctrl 0.489597797394
+zita SNARC line arabic DC 0 up 2 num_delete 0.479528903961
+zita SNARC line arabic DC 0 up 5 num_delete 0.392886161804
+zita SNARC line arabic DC 0 down 5 lctrl 0.43540096283
+zita SNARC line arabic DC 0 down 7 lctrl 0.368736982346
+zita SNARC line arabic DC 0 up 7 num_delete 0.344214200974
+zita SNARC line arabic DC 0 up 2 num_delete 0.349362850189
+zita SNARC line arabic DC 0 up 5 num_delete 0.785202026367
+zita SNARC line arabic DC 0 up 1 num_delete 0.944560050964
+zita SNARC line arabic DC 0 down 6 lctrl 0.537698030472
+zita SNARC line arabic DC 0 up 9 num_delete 0.369207859039
+zita SNARC line arabic DC 0 down 7 lctrl 0.384907007217
+zita SNARC line arabic DC 0 up 5 num_delete 0.368073940277
+zita SNARC line arabic DC 0 up 3 num_delete 0.344485044479
+zita SNARC line arabic DC 0 down 3 lctrl 0.409976959229
+zita SNARC line arabic DC 0 down 2 lctrl 0.376034975052
+zita SNARC line arabic DC 0 down 5 lctrl 0.40025806427
+zita SNARC line arabic DC 0 up 2 num_delete 0.424324989319
+zita SNARC line arabic DC 0 up 2 num_delete 0.416913032532
+zita SNARC line arabic DC 0 down 8 lctrl 0.352723121643
+zita SNARC line arabic DC 0 up 3 num_delete 0.535293102264
+zita SNARC line arabic DC 0 up 7 num_delete 0.360901832581
+zita SNARC line arabic DC 0 down 3 lctrl 0.32149887085
+zita SNARC line arabic DC 0 down 8 num_delete 0.336846113205
+zita SNARC line arabic DC 0 up 6 num_delete 0.336134195328
+zita SNARC line arabic DC 0 up 9 num_delete 0.34352517128
+zita SNARC line arabic DC 0 up 8 num_delete 0.321176767349
+zita SNARC line arabic DC 0 up 5 num_delete 0.313197135925
+zita SNARC line arabic DC 0 down 2 lctrl 0.361009120941
+zita SNARC line arabic DC 0 down 3 lctrl 0.376779794693
+zita SNARC line arabic DC 0 up 2 num_delete 0.376076936722
+zita SNARC line arabic DC 0 down 4 num_delete 0.400434017181
+zita SNARC line arabic DC 0 down 4 lctrl 0.440522909164
+zita SNARC line arabic DC 0 down 3 lctrl 0.783840894699
+zita SNARC line arabic DC 0 down 6 lctrl 0.488512039185
+zita SNARC line arabic DC 0 up 8 num_delete 0.321051836014
+zita SNARC line arabic DC 0 down 4 lctrl 0.36923789978
+zita SNARC line arabic DC 0 down 3 lctrl 0.328505992889
+zita SNARC line arabic DC 0 up 4 num_delete 0.351765871048
+zita SNARC line arabic DC 0 up 1 num_delete 0.37585401535
+zita SNARC line arabic DC 0 down 4 lctrl 0.425418138504
+zita SNARC line arabic DC 0 down 2 lctrl 0.352855920792
+zita SNARC line arabic DC 0 down 3 lctrl 0.400124073029
+zita SNARC line arabic DC 0 up 4 lctrl 0.281342029572
+zita SNARC line arabic DC 0 down 4 lctrl 0.320739984512
+zita SNARC line arabic DC 0 down 1 num_delete 0.439858913422
+zita SNARC line arabic DC 0 up 1 lctrl 0.312942028046
+zita SNARC line arabic DC 0 up 6 num_delete 0.400340080261
+zita SNARC line arabic DC 0 up 6 num_delete 0.392617940903
+zita SNARC line arabic DC 0 up 7 num_delete 0.344242811203
+zita SNARC line arabic DC 0 up 1 num_delete 0.329133987427
+zita SNARC line arabic DC 0 down 1 lctrl 0.391796112061
+zita SNARC line arabic DC 0 down 9 lctrl 0.400576114655
+zita SNARC line arabic DC 0 up 7 num_delete 0.561165809631
+zita SNARC line arabic DC 0 up 5 num_delete 0.376429080963
+zita SNARC line arabic DC 0 up 9 num_delete 0.392646074295
+zita SNARC line arabic DC 0 down 7 lctrl 0.41717004776
+zita SNARC line arabic DC 0 down 1 lctrl 0.31344294548
+zita SNARC line arabic DC 0 down 9 lctrl 0.432307958603
+zita SNARC line arabic DC 0 down 4 lctrl 0.601142883301
+zita SNARC line arabic DC 0 up 8 num_delete 0.415832042694
+zita SNARC line arabic DC 0 up 5 num_delete 0.303323030472
+zita SNARC line arabic DC 0 down 2 num_delete 0.240634918213
+zita SNARC line arabic DC 0 up 8 num_delete 0.336493015289
+zita SNARC line arabic DC 0 up 5 num_delete 0.352465867996
+zita SNARC line arabic DC 0 down 1 lctrl 0.55260682106
+zita SNARC line arabic DC 0 up 7 num_delete 0.360532999039
+zita SNARC line arabic DC 0 down 8 lctrl 0.313234090805
+zita SNARC line arabic DC 0 up 6 num_delete 0.424348831177
+zita SNARC line arabic DC 0 up 7 num_delete 0.479010820389
+zita SNARC line arabic DC 0 up 5 num_delete 0.289244890213
+zita SNARC line arabic DC 0 down 8 lctrl 0.304641008377
+zita SNARC line arabic DC 0 up 3 lctrl 0.320255041122
+zita SNARC line arabic DC 0 down 3 lctrl 0.34438586235
+zita SNARC line arabic DC 0 up 6 num_delete 0.287793159485
+zita SNARC line arabic DC 0 up 6 num_delete 0.361548185349
+zita SNARC line arabic DC 0 up 8 num_delete 0.352498054504
+zita SNARC line arabic DC 0 down 2 lctrl 0.42506313324
+zita SNARC line arabic DC 0 down 5 num_delete 0.375530958176
+zita SNARC line arabic DC 0 down 5 lctrl 0.385468006134
+{'participant': u'zita', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_15_1015', 'autopilot': False, 'exp_id': u'SNARC'}
+zita SNARC_only CD 5 num_delete 0.739156007767
+zita SNARC_only CD 3 lctrl 0.504976987839
+zita SNARC_only CD 2 lctrl 0.610547065735
+zita SNARC_only CD 4 lctrl 0.673092126846
+zita SNARC_only CD 4 lctrl 0.394371032715
+zita SNARC_only CD 1 num_delete 1.00861310959
+zita SNARC_only CD 1 num_delete 0.361936092377
+zita SNARC_only CD 6 num_delete 0.504666090012
+zita SNARC_only CD 5 num_delete 0.609103918076
+zita SNARC_only CD 5 num_delete 0.353950023651
+zita SNARC_only CD 2 lctrl 0.569942951202
+zita SNARC_only CD 1 num_delete 0.488851070404
+zita SNARC_only CD 4 lctrl 0.777874946594
+zita SNARC_only CD 6 lctrl 0.529927968979
+zita SNARC_only CD 5 num_delete 0.513096094131
+zita SNARC_only CD 5 num_delete 0.385861873627
+zita SNARC_only CD 2 lctrl 0.474030971527
+zita SNARC_only CD 3 num_delete 0.546040058136
+zita SNARC_only CD 6 lctrl 1.41828203201
+zita SNARC_only CD 8 lctrl 0.623658180237
+zita SNARC_only CD 5 num_delete 0.513204813004
+zita SNARC_only CD 5 num_delete 0.43440580368
+zita SNARC_only CD 3 num_delete 0.505143880844
+zita SNARC_only CD 1 num_delete 0.45808506012
+zita SNARC_only CD 5 num_delete 0.52144408226
+zita SNARC_only CD 3 num_delete 0.385347127914
+zita SNARC_only CD 8 lctrl 0.626564025879
+zita SNARC_only CD 7 num_delete 0.61693406105
+zita SNARC_only CD 8 lctrl 0.633191108704
+zita SNARC_only CD 8 lctrl 0.480778932571
+zita SNARC_only CD 1 num_delete 0.392760038376
+zita SNARC_only CD 2 lctrl 0.490185022354
+zita SNARC_only CD 5 num_delete 0.497651100159
+zita SNARC_only CD 6 lctrl 0.498552799225
+zita SNARC_only CD 9 num_delete 0.752553939819
+zita SNARC_only CD 1 num_delete 0.793867111206
+zita SNARC_only CD 4 lctrl 0.593284130096
+zita SNARC_only CD 6 lctrl 0.882546901703
+zita SNARC_only CD 2 lctrl 0.560440063477
+zita SNARC_only CD 8 lctrl 0.553782939911
+zita SNARC_only CD 1 num_delete 0.498052120209
+zita SNARC_only CD 8 lctrl 0.626000881195
+zita SNARC_only CD 9 num_delete 0.585958957672
+zita SNARC_only CD 6 lctrl 0.970986843109
+zita SNARC_only CD 6 lctrl 0.408509016037
+zita SNARC_only CD 9 num_delete 0.46540594101
+zita SNARC_only CD 1 lctrl 0.465217113495
+zita SNARC_only CD 5 num_delete 1.19258880615
+zita SNARC_only CD 6 lctrl 0.578351974487
+zita SNARC_only CD 1 lctrl 0.378177881241
+zita SNARC_only CD 9 num_delete 1.03313493729
+zita SNARC_only CD 8 lctrl 0.593636035919
+zita SNARC_only CD 5 num_delete 0.480542898178
+zita SNARC_only CD 8 lctrl 0.593952894211
+zita SNARC_only CD 6 lctrl 0.665377855301
+zita SNARC_only CD 4 lctrl 0.696948051453
+zita SNARC_only CD 2 lctrl 0.432602882385
+zita SNARC_only CD 3 num_delete 0.489503145218
+zita SNARC_only CD 4 lctrl 0.489779949188
+zita SNARC_only CD 8 lctrl 0.69738483429
+zita SNARC_only CD 1 num_delete 0.520869970322
+zita SNARC_only CD 4 lctrl 0.546372890472
+zita SNARC_only CD 7 num_delete 0.529144048691
+zita SNARC_only CD 9 num_delete 0.554183006287
+zita SNARC_only CD 5 lctrl 0.409847974777
+zita SNARC_only CD 6 lctrl 0.472862005234
+zita SNARC_only CD 2 lctrl 0.561742067337
+zita SNARC_only CD 8 lctrl 0.426426172256
+zita SNARC_only CD 6 lctrl 0.417801141739
+zita SNARC_only CD 8 lctrl 0.625180006027
+zita SNARC_only CD 7 num_delete 0.50501203537
+zita SNARC_only CD 3 num_delete 0.593423128128
+zita SNARC_only CD 4 lctrl 0.554165124893
+zita SNARC_only CD 8 lctrl 0.577683925629
+zita SNARC_only CD 1 num_delete 0.51754784584
+zita SNARC_only CD 1 num_delete 0.385023117065
+zita SNARC_only CD 9 num_delete 0.489673852921
+zita SNARC_only CD 5 num_delete 0.473591089249
+zita SNARC_only CD 3 num_delete 0.329491853714
+zita SNARC_only CD 3 num_delete 0.377110958099
+zita SNARC_only CD 7 num_delete 0.578090906143
+zita SNARC_only CD 7 num_delete 0.329473972321
+zita SNARC_only CD 9 num_delete 0.505261898041
+zita SNARC_only CD 7 num_delete 0.328537940979
+zita SNARC_only CD 1 num_delete 0.385752916336
+zita SNARC_only CD 3 num_delete 0.47389793396
+zita SNARC_only CD 4 lctrl 0.505701065063
+zita SNARC_only CD 9 num_delete 0.537804841995
+zita SNARC_only CD 7 num_delete 0.401954889297
+zita SNARC_only CD 7 num_delete 0.345627069473
+zita SNARC_only CD 4 lctrl 0.433809995651
+zita SNARC_only CD 4 lctrl 0.417397022247
+zita SNARC_only CD 6 lctrl 0.46509885788
+zita SNARC_only CD 3 num_delete 0.456699132919
+zita SNARC_only CD 2 lctrl 0.553726911545
+zita SNARC_only CD 2 lctrl 0.402283906937
+zita SNARC_only CD 6 lctrl 0.705584049225
+zita SNARC_only CD 6 lctrl 0.353856086731
+zita SNARC_only CD 3 num_delete 0.401708841324
+zita SNARC_only CD 6 lctrl 0.506491184235
+zita SNARC_only CD 7 num_delete 0.447746038437
+zita SNARC_only CD 6 lctrl 0.601047992706
+zita SNARC_only CD 7 num_delete 0.425900936127
+zita SNARC_only CD 4 lctrl 0.538408041
+zita SNARC_only CD 6 lctrl 0.777177810669
+zita SNARC_only CD 9 num_delete 0.672857999802
+zita SNARC_only CD 8 lctrl 0.545984983444
+zita SNARC_only CD 6 num_delete 0.665261030197
+zita SNARC_only CD 9 num_delete 0.568680047989
+zita SNARC_only CD 9 num_delete 0.409765005112
+zita SNARC_only CD 9 num_delete 0.440649986267
+zita SNARC_only CD 9 num_delete 0.361871957779
+zita SNARC_only CD 2 lctrl 0.466443061829
+zita SNARC_only CD 6 num_delete 0.361356973648
+zita SNARC_only CD 5 num_delete 1.73671889305
+zita SNARC_only CD 5 num_delete 0.441370010376
+zita SNARC_only CD 3 num_delete 0.649711847305
+zita SNARC_only CD 1 num_delete 0.577829122543
+zita SNARC_only CD 1 num_delete 0.42583990097
+zita SNARC_only CD 7 num_delete 0.784754991531
+zita SNARC_only CD 9 lctrl 0.36972117424
+zita SNARC_only CD 6 lctrl 0.808476924896
+zita SNARC_only CD 2 lctrl 0.497419834137
+zita SNARC_only CD 9 num_delete 0.449537992477
+zita SNARC_only CD 8 lctrl 0.584740877151
+zita SNARC_only CD 8 lctrl 0.345131158829
+zita SNARC_only CD 8 lctrl 0.321218013763
+zita SNARC_only CD 5 num_delete 0.409390926361
+zita SNARC_only CD 8 lctrl 0.90513586998
+zita SNARC_only CD 5 num_delete 0.472599983215
+zita SNARC_only CD 1 num_delete 0.600462913513
+zita SNARC_only CD 2 lctrl 1.6025390625
+zita SNARC_only CD 8 lctrl 0.473451137543
+zita SNARC_only CD 6 lctrl 0.513445138931
+zita SNARC_only CD 7 num_delete 0.473806858063
+zita SNARC_only CD 9 num_delete 0.562276124954
+zita SNARC_only CD 9 num_delete 0.456748008728
+zita SNARC_only CD 9 num_delete 0.352658987045
+zita SNARC_only CD 6 lctrl 0.433482170105
+zita SNARC_only CD 4 lctrl 0.529217004776
+zita SNARC_only CD 9 num_delete 0.545382976532
+zita SNARC_only CD 9 num_delete 0.657794952393
+zita SNARC_only CD 9 num_delete 0.393443107605
+zita SNARC_only CD 8 lctrl 0.570357084274
+zita SNARC_only CD 7 num_delete 0.503908872604
+zita SNARC_only CD 5 num_delete 0.50586605072
+zita SNARC_only CD 3 num_delete 0.480954170227
+zita SNARC_only CD 2 num_delete 0.345031023026
+zita SNARC_only CD 2 lctrl 0.473638057709
+zita SNARC_only CD 9 num_delete 0.593475103378
+zita SNARC_only CD 8 lctrl 0.689646959305
+zita SNARC_only CD 1 num_delete 0.465819120407
+zita SNARC_only CD 7 num_delete 0.529265165329
+zita SNARC_only CD 2 lctrl 0.450379133224
+zita SNARC_only CD 6 num_delete 0.511987924576
+zita SNARC_only CD 8 lctrl 0.40064907074
+zita SNARC_only CD 4 lctrl 0.529834985733
+zita SNARC_only CD 4 lctrl 0.425700902939
+zita SNARC_only CD 3 num_delete 0.681584119797
+zita SNARC_only CD 2 lctrl 0.522312879562
+zita SNARC_only CD 9 num_delete 0.432892084122
+zita SNARC_only CD 5 num_delete 0.545174121857
+zita SNARC_only CD 7 num_delete 0.362273931503
+zita SNARC_only CD 3 num_delete 0.441810131073
+zita SNARC_only CD 3 num_delete 0.384975910187
+zita SNARC_only CD 4 lctrl 0.465167999268
+zita SNARC_only CD 2 lctrl 0.56113409996
+zita SNARC_only CD 2 lctrl 0.385457992554
+zita SNARC_only CD 4 lctrl 0.632963895798
+zita SNARC_only CD 4 lctrl 0.385902881622
+zita SNARC_only CD 5 num_delete 0.610095977783
+zita SNARC_only CD 4 lctrl 0.70418381691
+zita SNARC_only CD 7 num_delete 0.69624710083
+zita SNARC_only CD 7 num_delete 0.369891881943
+zita SNARC_only CD 2 lctrl 0.432752847672
+zita SNARC_only CD 8 lctrl 0.7289249897
+zita SNARC_only CD 5 num_delete 0.617928028107
+zita SNARC_only CD 4 lctrl 0.530630111694
+zita SNARC_only CD 5 num_delete 0.585349082947
+zita SNARC_only CD 5 num_delete 0.729567050934
+zita SNARC_only CD 9 num_delete 0.913645029068
+zita SNARC_only CD 8 lctrl 0.498779773712
+zita SNARC_only CD 3 num_delete 0.430838108063
+zita SNARC_only CD 7 lctrl 0.994187831879
+zita SNARC_only CD 7 num_delete 0.409749031067
+zita SNARC_only CD 4 lctrl 0.432902812958
+zita SNARC_only CD 1 lctrl 0.506098031998
+zita SNARC_only CD 8 lctrl 0.52170085907
+zita SNARC_only CD 9 num_delete 0.544867038727
+zita SNARC_only CD 6 lctrl 0.546422958374
+zita SNARC_only CD 2 lctrl 0.689502954483
+zita SNARC_only CD 8 lctrl 0.520994901657
+zita SNARC_only CD 6 num_delete 0.425166130066
+zita SNARC_only CD 1 lctrl 0.441148042679
+zita SNARC_only CD 4 lctrl 0.522151947021
+zita SNARC_only CD 6 lctrl 0.442211866379
+zita SNARC_only CD 6 lctrl 0.353245019913
+zita SNARC_only CD 8 lctrl 0.385908126831
+zita SNARC_only CD 1 num_delete 0.410261154175
+zita SNARC_only CD 3 num_delete 0.426146030426
+zita SNARC_only CD 4 lctrl 0.59383392334
+zita SNARC_only CD 3 num_delete 0.441596984863
+zita SNARC_only CD 5 num_delete 0.400274991989
+zita SNARC_only CD 9 num_delete 0.433178901672
+zita SNARC_only CD 3 num_delete 0.450150966644
+zita SNARC_only CD 3 num_delete 0.40984082222
+zita SNARC_only CD 9 lctrl 0.497893095016
+zita SNARC_only CD 7 num_delete 0.488795995712
+zita SNARC_only CD 1 num_delete 0.562005996704
+zita SNARC_only CD 4 lctrl 0.401487112045
+zita SNARC_only CD 2 lctrl 0.545500993729
+zita SNARC_only CD 6 lctrl 0.569160938263
+zita SNARC_only CD 1 num_delete 0.520552158356
+zita SNARC_only CD 7 num_delete 0.385940074921
+zita SNARC_only CD 1 num_delete 0.378069162369
+zita SNARC_only CD 8 lctrl 0.465911149979
+zita SNARC_only CD 1 num_delete 0.37736082077
+zita SNARC_only CD 6 lctrl 0.938454151154
+zita SNARC_only CD 1 num_delete 0.504989147186
+zita SNARC_only CD 8 lctrl 0.418417930603
+zita SNARC_only CD 4 lctrl 0.665964841843
+zita SNARC_only CD 5 num_delete 0.457812070847
+zita SNARC_only CD 3 num_delete 0.465821027756
+zita SNARC_only CD 5 num_delete 0.433512926102
+zita SNARC_only CD 7 num_delete 0.402101993561
+zita SNARC_only CD 9 num_delete 0.337527990341
+zita SNARC_only CD 6 lctrl 0.618232011795
+zita SNARC_only CD 4 lctrl 0.345113039017
+zita SNARC_only CD 4 lctrl 0.336621046066
+zita SNARC_only CD 8 lctrl 0.361909151077
+zita SNARC_only CD 2 lctrl 0.449091911316
+zita SNARC_only CD 4 lctrl 0.530080080032
+zita SNARC_only CD 2 lctrl 0.353420972824
+zita SNARC_only CD 4 lctrl 0.362218856812
+zita SNARC_only CD 6 lctrl 0.385040998459
+zita SNARC_only CD 7 num_delete 0.433118104935
+zita SNARC_only CD 8 lctrl 0.49670791626
+zita SNARC_only CD 5 num_delete 0.481514930725
+zita SNARC_only CD 5 num_delete 0.552474975586
+zita SNARC_only CD 5 num_delete 0.337579011917
+zita SNARC_only CD 5 num_delete 0.329525947571
+zita SNARC_only CD 4 lctrl 0.546001911163
+zita SNARC_only CD 8 lctrl 0.378262042999
+zita SNARC_only CD 5 num_delete 0.424560070038
+zita SNARC_only CD 5 num_delete 0.633479118347
+zita SNARC_only CD 9 num_delete 0.72834610939
+zita SNARC_only CD 5 num_delete 0.392988920212
+zita SNARC_only CD 3 num_delete 0.577764034271
+zita SNARC_only CD 1 num_delete 0.617777824402
+zita SNARC_only CD 1 num_delete 0.313687086105
+zita SNARC_only CD 2 lctrl 0.506448984146
+zita SNARC_only CD 4 lctrl 0.569744825363
+zita SNARC_only CD 9 num_delete 0.553236961365
+zita SNARC_only CD 1 num_delete 0.514169216156
+zita SNARC_only CD 8 lctrl 0.608983039856
+zita SNARC_only CD 3 num_delete 0.416439056396
+zita SNARC_only CD 2 num_delete 0.393211126328
+zita SNARC_only CD 7 num_delete 0.585571050644
+zita SNARC_only CD 7 num_delete 0.377216100693
+zita SNARC_only CD 5 num_delete 0.70534491539
+zita SNARC_only CD 9 num_delete 0.553874969482
+zita SNARC_only CD 2 lctrl 0.521682977676
+zita SNARC_only CD 8 lctrl 0.593626976013
+zita SNARC_only CD 3 num_delete 0.409148931503
+zita SNARC_only CD 9 num_delete 0.393049955368
+zita SNARC_only CD 2 lctrl 0.450291156769
+zita SNARC_only CD 1 num_delete 0.592690944672
+zita SNARC_only CD 6 lctrl 0.466260194778
+zita SNARC_only CD 2 lctrl 0.521916151047
+zita SNARC_only CD 1 num_delete 0.689649105072
+zita SNARC_only CD 3 num_delete 0.424837827682
+zita SNARC_only CD 2 lctrl 0.593616008759
+zita SNARC_only CD 3 num_delete 0.448364973068
+zita SNARC_only CD 7 num_delete 0.447256088257
+zita SNARC_only CD 3 num_delete 0.353950977325
+zita SNARC_only CD 8 lctrl 0.553670883179
+zita SNARC_only CD 6 lctrl 0.554094076157
+zita SNARC_only CD 6 lctrl 0.345982074738
+zita SNARC_only CD 3 num_delete 0.417814016342
+zita SNARC_only CD 2 num_delete 0.362003087997
+zita SNARC_only CD 8 lctrl 0.593951940536
+zita SNARC_only CD 1 num_delete 0.408802986145
+zita SNARC_only CD 7 num_delete 0.889417886734
+zita SNARC_only CD 7 num_delete 0.498332023621
+zita SNARC_only CD 7 num_delete 0.369123935699
+zita SNARC_only CD 2 lctrl 0.783921003342
+zita SNARC_only CD 3 num_delete 1.61616301537
+zita SNARC_only CD 4 lctrl 0.57044005394
+zita SNARC_only CD 8 lctrl 0.456563949585
+zita SNARC_only CD 8 lctrl 0.322308063507
+zita SNARC_only CD 1 num_delete 0.421009778976
+zita SNARC_only CD 7 num_delete 0.472790002823
+zita SNARC_only CD 9 num_delete 0.385746002197
+zita SNARC_only CD 1 num_delete 0.434136152267
+zita SNARC_only CD 1 num_delete 0.425432920456
+zita SNARC_only CD 6 lctrl 0.466272115707
+zita SNARC_only CD 9 lctrl 0.441891908646
+zita SNARC_only CD 1 num_delete 0.496576070786
+zita SNARC_only CD 7 num_delete 0.578140974045
+zita SNARC_only CD 6 lctrl 0.376548051834
+zita SNARC_only CD 8 lctrl 0.321548938751
+zita SNARC_only CD 4 lctrl 0.38599395752
+zita SNARC_only CD 7 lctrl 0.425046920776
+zita SNARC_only CD 1 num_delete 0.473253965378
+zita SNARC_only CD 7 num_delete 0.377243995667
+zita SNARC_only CD 5 num_delete 0.618041992188
+zita SNARC_only CD 6 lctrl 0.601800203323
+zita SNARC_only CD 3 num_delete 0.385121822357
+zita SNARC_only CD 1 lctrl 0.432843923569
+zita SNARC_only CD 9 num_delete 0.552920818329
+zita SNARC_only CD 3 num_delete 0.561212062836
+zita SNARC_only CD 9 num_delete 0.37780213356
+zita SNARC_only CD 1 num_delete 0.489561080933
+zita SNARC_only CD 3 num_delete 0.566955089569
+zita SNARC_only CD 7 num_delete 0.522019147873
+zita SNARC_only CD 4 lctrl 2.98555016518
+zita SNARC_only CD 2 lctrl 0.481678009033
+zita SNARC_only CD 9 num_delete 0.504153013229
+zita SNARC_only CD 5 num_delete 0.48105096817
+zita SNARC_only CD 2 lctrl 0.489440917969
+zita SNARC_only CD 2 lctrl 0.360593080521
+zita SNARC_only CD 6 lctrl 0.520031929016
+zita SNARC_only CD 8 lctrl 0.408955097198
+zita SNARC_only CD 5 num_delete 0.545418024063
+zita SNARC_only CD 2 num_delete 0.367917060852
+zita SNARC_only CD 4 num_delete 0.385239124298
+zita SNARC_only CD 3 num_delete 0.441096067429
+zita SNARC_only CD 7 num_delete 0.441752195358
+zita SNARC_only CD 2 lctrl 0.450040102005
+zita SNARC_only CD 9 num_delete 0.585535049438
+zita SNARC_only CD 2 lctrl 0.497961997986
+zita SNARC_only CD 2 lctrl 0.37739109993
+zita SNARC_only CD 4 lctrl 0.930624961853
+zita SNARC_only CD 6 lctrl 0.83358502388
+zita SNARC_only CD 3 num_delete 0.401656866074
+zita SNARC_only CD 9 num_delete 0.865117073059
+zita SNARC_only CD 8 lctrl 0.537886857986
+zita SNARC_only CD 4 lctrl 0.401432037354
+zita SNARC_only CD 7 num_delete 0.506098985672
+zita SNARC_only CD 7 num_delete 0.38475394249
+zita SNARC_only CD 4 lctrl 0.826607942581
+zita SNARC_only CD 4 lctrl 0.57768702507
+zita SNARC_only CD 3 num_delete 0.79360294342
+zita SNARC_only CD 3 num_delete 0.344887971878
+zita SNARC_only CD 6 lctrl 0.496577978134
+zita SNARC_only CD 4 lctrl 0.602271080017
+zita SNARC_only CD 2 lctrl 0.400902032852
+zita SNARC_only CD 7 num_delete 0.473366975784
+zita SNARC_only CD 5 num_delete 0.697644948959
+zita SNARC_only CD 1 lctrl 0.657576084137
+zita SNARC_only CD 3 num_delete 0.945015907288
+zita SNARC_only CD 5 num_delete 0.561214923859
+zita SNARC_only CD 7 num_delete 0.369189023972
+zita SNARC_only CD 7 num_delete 0.376600027084
+zita SNARC_only CD 9 num_delete 0.408829212189
+zita SNARC_only CD 2 lctrl 0.425577878952
+zita SNARC_only CD 5 num_delete 0.553105115891
+zita SNARC_only CD 1 lctrl 0.473614931107
+zita SNARC_only CD 3 lctrl 0.473195075989
+zita SNARC_only CD 3 num_delete 0.583643913269
+{'participant': u'zita', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_15_1023', 'autopilot': False, 'exp_id': u'SNARC'}
+zita SNARC_only DC 7 lctrl 1.37672519684
+zita SNARC_only DC 3 lctrl 3.50445199013
+zita SNARC_only DC 1 lctrl 0.360733032227
+zita SNARC_only DC 9 lctrl 0.513422966003
+zita SNARC_only DC 7 lctrl 0.529632091522
+zita SNARC_only DC 4 num_delete 0.544641971588
+zita SNARC_only DC 4 num_delete 0.352695941925
+zita SNARC_only DC 4 num_delete 0.282170057297
+zita SNARC_only DC 9 lctrl 0.466443061829
+zita SNARC_only DC 3 num_delete 0.457621097565
+zita SNARC_only DC 9 num_delete 0.420163869858
+zita SNARC_only DC 3 lctrl 0.584973096848
+zita SNARC_only DC 5 lctrl 0.408072948456
+zita SNARC_only DC 2 lctrl 0.311655044556
+zita SNARC_only DC 5 lctrl 0.503765821457
+zita SNARC_only DC 3 lctrl 0.48149394989
+zita SNARC_only DC 4 num_delete 0.392735958099
+zita SNARC_only DC 8 num_delete 0.392565011978
+zita SNARC_only DC 1 lctrl 0.401961088181
+zita SNARC_only DC 8 num_delete 0.448514938354
+zita SNARC_only DC 9 lctrl 0.697448968887
+zita SNARC_only DC 1 lctrl 0.401201963425
+zita SNARC_only DC 4 num_delete 0.481819152832
+zita SNARC_only DC 2 num_delete 0.418158054352
+zita SNARC_only DC 3 lctrl 0.546315193176
+zita SNARC_only DC 9 lctrl 0.616577863693
+zita SNARC_only DC 1 lctrl 0.697835922241
+zita SNARC_only DC 6 lctrl 0.449059963226
+zita SNARC_only DC 7 lctrl 0.424909114838
+zita SNARC_only DC 5 lctrl 0.474359035492
+zita SNARC_only DC 8 num_delete 0.592482805252
+zita SNARC_only DC 1 lctrl 0.538636922836
+zita SNARC_only DC 6 num_delete 0.737251996994
+zita SNARC_only DC 8 num_delete 0.409886837006
+zita SNARC_only DC 5 lctrl 0.561661958694
+zita SNARC_only DC 7 lctrl 0.482464075089
+zita SNARC_only DC 7 lctrl 0.321950912476
+zita SNARC_only DC 8 num_delete 0.722052812576
+zita SNARC_only DC 1 lctrl 0.441261053085
+zita SNARC_only DC 6 num_delete 0.658128023148
+zita SNARC_only DC 8 num_delete 0.730017900467
+zita SNARC_only DC 2 num_delete 0.642369031906
+zita SNARC_only DC 2 num_delete 0.360912084579
+zita SNARC_only DC 1 lctrl 0.465897798538
+zita SNARC_only DC 4 num_delete 0.481467962265
+zita SNARC_only DC 9 lctrl 0.489722013474
+zita SNARC_only DC 5 lctrl 0.665760040283
+zita SNARC_only DC 6 num_delete 0.808843851089
+zita SNARC_only DC 3 lctrl 0.578425168991
+zita SNARC_only DC 5 lctrl 0.49751996994
+zita SNARC_only DC 9 num_delete 0.570185184479
+zita SNARC_only DC 1 lctrl 0.505443811417
+zita SNARC_only DC 1 lctrl 0.385365009308
+zita SNARC_only DC 4 num_delete 0.496920824051
+zita SNARC_only DC 7 lctrl 0.922320127487
+zita SNARC_only DC 7 lctrl 0.417265892029
+zita SNARC_only DC 7 lctrl 0.330188035965
+zita SNARC_only DC 5 lctrl 0.56077003479
+zita SNARC_only DC 7 lctrl 0.33767414093
+zita SNARC_only DC 5 lctrl 0.378052949905
+zita SNARC_only DC 9 lctrl 0.568971157074
+zita SNARC_only DC 3 lctrl 0.513685941696
+zita SNARC_only DC 6 num_delete 0.4894759655
+zita SNARC_only DC 7 lctrl 0.410488843918
+zita SNARC_only DC 3 lctrl 0.44075512886
+zita SNARC_only DC 1 lctrl 0.361171960831
+zita SNARC_only DC 2 num_delete 0.505619049072
+zita SNARC_only DC 1 lctrl 0.37797999382
+zita SNARC_only DC 9 lctrl 0.577996969223
+zita SNARC_only DC 3 lctrl 0.498424053192
+zita SNARC_only DC 3 lctrl 0.361345052719
+zita SNARC_only DC 6 num_delete 0.585504055023
+zita SNARC_only DC 9 lctrl 0.5142390728
+zita SNARC_only DC 9 lctrl 0.505234956741
+zita SNARC_only DC 8 num_delete 0.549836874008
+zita SNARC_only DC 4 num_delete 0.393859863281
+zita SNARC_only DC 2 num_delete 0.3290579319
+zita SNARC_only DC 5 lctrl 0.458639144897
+zita SNARC_only DC 3 lctrl 0.825683116913
+zita SNARC_only DC 5 lctrl 1.01786899567
+zita SNARC_only DC 3 lctrl 0.386277198792
+zita SNARC_only DC 5 lctrl 0.473633050919
+zita SNARC_only DC 9 lctrl 0.642102003098
+zita SNARC_only DC 6 num_delete 0.58478307724
+zita SNARC_only DC 4 num_delete 0.433444976807
+zita SNARC_only DC 8 lctrl 0.378293991089
+zita SNARC_only DC 9 lctrl 0.417442083359
+zita SNARC_only DC 1 lctrl 0.970400094986
+zita SNARC_only DC 3 lctrl 0.417635917664
+zita SNARC_only DC 8 num_delete 0.48912191391
+zita SNARC_only DC 9 lctrl 0.513374090195
+zita SNARC_only DC 4 num_delete 0.616599082947
+zita SNARC_only DC 1 lctrl 0.592971086502
+zita SNARC_only DC 2 num_delete 0.529474020004
+zita SNARC_only DC 5 lctrl 0.537514925003
+zita SNARC_only DC 6 num_delete 0.448821783066
+zita SNARC_only DC 5 lctrl 0.603121995926
+zita SNARC_only DC 8 num_delete 0.513782024384
+zita SNARC_only DC 9 lctrl 0.850099086761
+zita SNARC_only DC 1 lctrl 0.457849025726
+zita SNARC_only DC 1 lctrl 0.321366786957
+zita SNARC_only DC 5 lctrl 0.481640100479
+zita SNARC_only DC 8 num_delete 0.585068941116
+zita SNARC_only DC 1 lctrl 0.513175964355
+zita SNARC_only DC 7 lctrl 0.546096086502
+zita SNARC_only DC 9 lctrl 1.610049963
+zita SNARC_only DC 6 num_delete 0.67324590683
+zita SNARC_only DC 9 lctrl 0.434096097946
+zita SNARC_only DC 2 num_delete 0.417582035065
+zita SNARC_only DC 7 lctrl 0.442378997803
+zita SNARC_only DC 7 lctrl 0.513104915619
+zita SNARC_only DC 9 lctrl 0.960920095444
+zita SNARC_only DC 8 num_delete 0.601802110672
+zita SNARC_only DC 7 lctrl 0.44992184639
+zita SNARC_only DC 7 lctrl 0.41682100296
+zita SNARC_only DC 1 lctrl 0.601917028427
+zita SNARC_only DC 8 num_delete 0.449231147766
+zita SNARC_only DC 4 num_delete 0.359941005707
+zita SNARC_only DC 2 num_delete 0.338119983673
+zita SNARC_only DC 1 lctrl 0.473932027817
+zita SNARC_only DC 6 num_delete 0.496673107147
+zita SNARC_only DC 7 lctrl 0.489856004715
+zita SNARC_only DC 6 num_delete 0.536918878555
+zita SNARC_only DC 4 num_delete 0.481971025467
+zita SNARC_only DC 2 num_delete 0.889758825302
+zita SNARC_only DC 4 num_delete 0.417203903198
+zita SNARC_only DC 1 lctrl 0.40273308754
+zita SNARC_only DC 3 lctrl 0.465506076813
+zita SNARC_only DC 6 num_delete 0.664144992828
+zita SNARC_only DC 5 lctrl 0.466506958008
+zita SNARC_only DC 6 num_delete 0.45769405365
+zita SNARC_only DC 5 lctrl 0.45775604248
+zita SNARC_only DC 1 lctrl 0.593488931656
+zita SNARC_only DC 5 lctrl 0.394073009491
+zita SNARC_only DC 2 lctrl 0.401686906815
+zita SNARC_only DC 9 lctrl 0.465049982071
+zita SNARC_only DC 4 num_delete 0.497134923935
+zita SNARC_only DC 3 lctrl 0.521077156067
+zita SNARC_only DC 4 num_delete 0.369626998901
+zita SNARC_only DC 6 num_delete 0.353804826736
+zita SNARC_only DC 4 num_delete 0.370535135269
+zita SNARC_only DC 8 num_delete 0.417356014252
+zita SNARC_only DC 3 lctrl 0.553323030472
+zita SNARC_only DC 1 lctrl 0.513684034348
+zita SNARC_only DC 5 num_delete 0.424374103546
+zita SNARC_only DC 2 num_delete 0.569734811783
+zita SNARC_only DC 2 num_delete 0.448551893234
+zita SNARC_only DC 8 num_delete 0.449453115463
+zita SNARC_only DC 8 num_delete 0.417371034622
+zita SNARC_only DC 6 num_delete 0.401467084885
+zita SNARC_only DC 3 lctrl 0.474406003952
+zita SNARC_only DC 1 lctrl 0.433125019073
+zita SNARC_only DC 2 num_delete 0.792645931244
+zita SNARC_only DC 8 num_delete 0.393580198288
+zita SNARC_only DC 8 num_delete 0.481869935989
+zita SNARC_only DC 3 lctrl 0.504731893539
+zita SNARC_only DC 5 lctrl 0.577867031097
+zita SNARC_only DC 5 lctrl 1.07399988174
+zita SNARC_only DC 3 lctrl 0.457593917847
+zita SNARC_only DC 6 num_delete 0.577219009399
+zita SNARC_only DC 3 lctrl 0.434190034866
+zita SNARC_only DC 4 lctrl 0.681183099747
+zita SNARC_only DC 2 num_delete 0.640627861023
+zita SNARC_only DC 7 lctrl 0.418303966522
+zita SNARC_only DC 7 lctrl 0.410119771957
+zita SNARC_only DC 2 num_delete 0.728617191315
+zita SNARC_only DC 9 lctrl 0.530816078186
+zita SNARC_only DC 2 lctrl 0.434115886688
+zita SNARC_only DC 1 lctrl 0.473738908768
+zita SNARC_only DC 8 num_delete 0.401281833649
+zita SNARC_only DC 1 lctrl 0.536772966385
+zita SNARC_only DC 5 lctrl 0.561444044113
+zita SNARC_only DC 1 lctrl 0.441136837006
+zita SNARC_only DC 4 num_delete 0.456050872803
+zita SNARC_only DC 3 lctrl 0.418143987656
+zita SNARC_only DC 7 lctrl 0.920158147812
+zita SNARC_only DC 4 num_delete 0.464871883392
+zita SNARC_only DC 9 lctrl 0.385275125504
+zita SNARC_only DC 7 lctrl 0.433461904526
+zita SNARC_only DC 2 num_delete 0.464376926422
+zita SNARC_only DC 6 num_delete 0.553525924683
+zita SNARC_only DC 1 lctrl 0.521766901016
+zita SNARC_only DC 5 lctrl 0.534831047058
+zita SNARC_only DC 1 lctrl 0.336954832077
+zita SNARC_only DC 9 lctrl 1.64107608795
+zita SNARC_only DC 3 lctrl 0.473829030991
+zita SNARC_only DC 7 lctrl 0.369280815125
+zita SNARC_only DC 7 lctrl 0.322048187256
+zita SNARC_only DC 2 num_delete 0.64134812355
+zita SNARC_only DC 6 num_delete 0.521104812622
+zita SNARC_only DC 3 lctrl 0.898042917252
+zita SNARC_only DC 3 lctrl 0.352747917175
+zita SNARC_only DC 1 lctrl 0.425308942795
+zita SNARC_only DC 3 lctrl 0.545445919037
+zita SNARC_only DC 2 num_delete 0.601603984833
+zita SNARC_only DC 2 num_delete 0.977618932724
+zita SNARC_only DC 6 num_delete 0.825950145721
+zita SNARC_only DC 1 lctrl 0.417746067047
+zita SNARC_only DC 3 lctrl 0.464887857437
+zita SNARC_only DC 5 lctrl 0.513352155685
+zita SNARC_only DC 4 num_delete 0.584930896759
+zita SNARC_only DC 6 num_delete 0.504279136658
+zita SNARC_only DC 6 num_delete 0.354191064835
+zita SNARC_only DC 8 num_delete 0.506479024887
+zita SNARC_only DC 3 lctrl 0.417693138123
+zita SNARC_only DC 3 lctrl 0.321888923645
+zita SNARC_only DC 4 num_delete 1.1535410881
+zita SNARC_only DC 9 lctrl 0.641195058823
+zita SNARC_only DC 8 num_delete 0.561136007309
+zita SNARC_only DC 9 lctrl 0.537317991257
+zita SNARC_only DC 8 num_delete 0.841677904129
+zita SNARC_only DC 4 num_delete 0.478152990341
+zita SNARC_only DC 4 num_delete 0.482252120972
+zita SNARC_only DC 1 lctrl 0.427260160446
+zita SNARC_only DC 5 lctrl 0.785460948944
+zita SNARC_only DC 5 lctrl 0.369599103928
+zita SNARC_only DC 9 lctrl 0.761413097382
+zita SNARC_only DC 7 lctrl 0.506083965302
+zita SNARC_only DC 2 num_delete 0.416254997253
+zita SNARC_only DC 6 num_delete 0.711677074432
+zita SNARC_only DC 4 num_delete 0.513893127441
+zita SNARC_only DC 4 num_delete 0.409718990326
+zita SNARC_only DC 2 num_delete 0.465878009796
+zita SNARC_only DC 1 lctrl 0.425824165344
+zita SNARC_only DC 3 lctrl 0.514560937881
+zita SNARC_only DC 3 lctrl 0.416637897491
+zita SNARC_only DC 2 lctrl 0.361495018005
+zita SNARC_only DC 7 lctrl 0.464833021164
+zita SNARC_only DC 4 num_delete 0.497735023499
+zita SNARC_only DC 2 num_delete 0.464249134064
+zita SNARC_only DC 6 num_delete 0.377778053284
+zita SNARC_only DC 7 lctrl 0.514584064484
+zita SNARC_only DC 3 lctrl 0.514825820923
+zita SNARC_only DC 6 lctrl 0.37099313736
+zita SNARC_only DC 9 lctrl 0.528394937515
+zita SNARC_only DC 6 num_delete 0.409034967422
+zita SNARC_only DC 8 num_delete 0.553769826889
+zita SNARC_only DC 9 lctrl 0.576932907104
+zita SNARC_only DC 8 num_delete 1.0334789753
+zita SNARC_only DC 8 num_delete 0.398919820786
+zita SNARC_only DC 4 num_delete 0.389534950256
+zita SNARC_only DC 2 num_delete 0.37520813942
+zita SNARC_only DC 1 lctrl 0.489868164062
+zita SNARC_only DC 9 lctrl 0.677587032318
+zita SNARC_only DC 6 num_delete 0.467143058777
+zita SNARC_only DC 4 num_delete 0.392894029617
+zita SNARC_only DC 7 lctrl 0.694949865341
+zita SNARC_only DC 8 num_delete 0.521422147751
+zita SNARC_only DC 1 lctrl 0.425135850906
+zita SNARC_only DC 7 lctrl 0.867573976517
+zita SNARC_only DC 8 num_delete 0.584588050842
+zita SNARC_only DC 4 num_delete 0.535571098328
+zita SNARC_only DC 8 num_delete 0.463352918625
+zita SNARC_only DC 3 lctrl 0.457537889481
+zita SNARC_only DC 4 num_delete 0.580276966095
+zita SNARC_only DC 2 lctrl 0.382780075073
+zita SNARC_only DC 5 lctrl 0.495210170746
+zita SNARC_only DC 3 lctrl 0.41753911972
+zita SNARC_only DC 2 num_delete 0.553264141083
+zita SNARC_only DC 3 lctrl 0.482825994492
+zita SNARC_only DC 6 num_delete 0.985149145126
+zita SNARC_only DC 5 lctrl 0.809978961945
+zita SNARC_only DC 4 lctrl 0.51354598999
+zita SNARC_only DC 6 lctrl 0.608016967773
+zita SNARC_only DC 2 num_delete 0.481276988983
+zita SNARC_only DC 6 num_delete 0.416620016098
+zita SNARC_only DC 3 lctrl 0.513542890549
+zita SNARC_only DC 7 lctrl 0.482300043106
+zita SNARC_only DC 5 lctrl 0.48965716362
+zita SNARC_only DC 5 lctrl 0.401585102081
+zita SNARC_only DC 1 lctrl 0.70530796051
+zita SNARC_only DC 5 lctrl 0.370532035828
+zita SNARC_only DC 6 num_delete 0.512587070465
+zita SNARC_only DC 5 lctrl 0.489607095718
+zita SNARC_only DC 3 lctrl 0.489139080048
+zita SNARC_only DC 6 num_delete 0.465845823288
+zita SNARC_only DC 7 lctrl 0.553866863251
+zita SNARC_only DC 7 lctrl 0.3533680439
+zita SNARC_only DC 8 num_delete 0.441328048706
+zita SNARC_only DC 7 lctrl 0.498175859451
+zita SNARC_only DC 9 num_delete 0.385542154312
+zita SNARC_only DC 8 num_delete 0.400398015976
+zita SNARC_only DC 1 lctrl 0.785399913788
+zita SNARC_only DC 2 lctrl 0.337450027466
+zita SNARC_only DC 8 lctrl 0.439939022064
+zita SNARC_only DC 5 lctrl 0.512760162354
+zita SNARC_only DC 2 lctrl 0.386945962906
+zita SNARC_only DC 7 lctrl 0.527158021927
+zita SNARC_only DC 2 num_delete 0.505624055862
+zita SNARC_only DC 2 num_delete 0.41774892807
+zita SNARC_only DC 4 num_delete 0.446238040924
+zita SNARC_only DC 7 lctrl 0.43455696106
+zita SNARC_only DC 7 lctrl 0.37739109993
+zita SNARC_only DC 2 num_delete 0.433501005173
+zita SNARC_only DC 5 lctrl 0.482272863388
+zita SNARC_only DC 9 num_delete 0.464678049088
+zita SNARC_only DC 9 lctrl 0.530122995377
+zita SNARC_only DC 5 lctrl 0.561522006989
+zita SNARC_only DC 8 num_delete 0.521512985229
+zita SNARC_only DC 3 lctrl 0.50400686264
+zita SNARC_only DC 3 lctrl 0.401402950287
+zita SNARC_only DC 2 num_delete 0.553452014923
+zita SNARC_only DC 6 num_delete 0.578205108643
+zita SNARC_only DC 9 lctrl 0.626507997513
+zita SNARC_only DC 8 num_delete 0.432821035385
+zita SNARC_only DC 2 num_delete 0.377518892288
+zita SNARC_only DC 4 num_delete 0.337273836136
+zita SNARC_only DC 4 num_delete 0.402529001236
+zita SNARC_only DC 9 lctrl 0.393647193909
+zita SNARC_only DC 7 lctrl 0.337884902954
+zita SNARC_only DC 4 num_delete 0.561493873596
+zita SNARC_only DC 7 lctrl 0.521990060806
+zita SNARC_only DC 5 lctrl 0.441473960876
+zita SNARC_only DC 5 lctrl 0.352776050568
+zita SNARC_only DC 6 num_delete 0.593456983566
+zita SNARC_only DC 6 num_delete 0.40994811058
+zita SNARC_only DC 4 num_delete 0.489682197571
+zita SNARC_only DC 5 lctrl 0.512995958328
+zita SNARC_only DC 8 num_delete 0.561212062836
+zita SNARC_only DC 7 lctrl 0.625415086746
+zita SNARC_only DC 8 num_delete 0.426017999649
+zita SNARC_only DC 8 num_delete 0.457254171371
+zita SNARC_only DC 7 lctrl 0.361990213394
+zita SNARC_only DC 9 lctrl 0.60236787796
+zita SNARC_only DC 2 num_delete 0.505136013031
+zita SNARC_only DC 1 lctrl 0.434392929077
+zita SNARC_only DC 6 num_delete 0.432317972183
+zita SNARC_only DC 3 lctrl 0.346410036087
+zita SNARC_only DC 1 lctrl 0.409223079681
+zita SNARC_only DC 4 num_delete 0.449291944504
+zita SNARC_only DC 4 num_delete 0.370054960251
+zita SNARC_only DC 7 lctrl 0.401611089706
+zita SNARC_only DC 5 lctrl 0.506093025208
+zita SNARC_only DC 6 lctrl 0.34512090683
+zita SNARC_only DC 8 num_delete 0.576586961746
+zita SNARC_only DC 4 num_delete 0.360547065735
+zita SNARC_only DC 1 lctrl 0.402091026306
+zita SNARC_only DC 9 lctrl 0.561645030975
+zita SNARC_only DC 5 lctrl 0.46618103981
+zita SNARC_only DC 4 num_delete 0.480636119843
+zita SNARC_only DC 9 lctrl 0.626313924789
+zita SNARC_only DC 6 num_delete 0.593000173569
+zita SNARC_only DC 2 num_delete 0.408733844757
+zita SNARC_only DC 3 lctrl 0.530371904373
+zita SNARC_only DC 9 lctrl 0.712578058243
+zita SNARC_only DC 6 num_delete 0.568919181824
+zita SNARC_only DC 6 num_delete 0.369312047958
+zita SNARC_only DC 9 lctrl 0.498148202896
+zita SNARC_only DC 2 num_delete 0.400485038757
+zita SNARC_only DC 6 num_delete 0.937982082367
+zita SNARC_only DC 8 num_delete 1.05011487007
+zita SNARC_only DC 2 num_delete 0.321058034897
+zita SNARC_only DC 8 num_delete 0.353435993195
+zita SNARC_only DC 9 lctrl 0.417059898376
+zita SNARC_only DC 9 lctrl 0.473024129868
+zita SNARC_only DC 1 lctrl 0.473544120789
+zita SNARC_only DC 7 lctrl 0.337327957153
+zita SNARC_only DC 8 num_delete 0.401108980179
+zita SNARC_only DC 1 lctrl 0.433847904205
+zita SNARC_only DC 5 lctrl 0.457636117935
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'zita', 'dateStr': u'05_15_1032'}
+zita resp_prep 0.3 red p 0.783798933029
+zita resp_prep 0.8 green q 0.526875972748
+zita resp_prep 0.8 red p 0.408854007721
+zita resp_prep 0.1 green q 0.525018215179
+zita resp_prep 0.6 green q 0.385307073593
+zita resp_prep 0.3 red p 0.444491147995
+zita resp_prep 0.6 green q 0.368148088455
+zita resp_prep 0.3 green q 0.43764591217
+zita resp_prep 1.0 green q 0.448509216309
+zita resp_prep 0.3 red p 0.421182155609
+zita resp_prep 0.6 green q 0.416290998459
+zita resp_prep 0.3 green q 0.420649051666
+zita resp_prep 0.3 green q 0.395863056183
+zita resp_prep 0.1 green q 0.516518115997
+zita resp_prep 1.0 green q 0.519973993301
+zita resp_prep 0.3 green q 0.46000790596
+zita resp_prep 0.3 red p 0.412822961807
+zita resp_prep 0.8 red p 0.351990222931
+zita resp_prep 0.1 green q 0.524393081665
+zita resp_prep 0.6 red p 0.456274986267
+zita resp_prep 0.3 green q 0.444509029388
+zita resp_prep 0.6 red p 0.424678087234
+zita resp_prep 0.3 green q 0.556608915329
+zita resp_prep 0.8 red p 0.327488183975
+zita resp_prep 0.3 green q 0.428489923477
+zita resp_prep 0.6 red p 0.416843891144
+zita resp_prep 1.0 red p 0.385097026825
+zita resp_prep 0.3 green q 0.428261041641
+zita resp_prep 0.1 red p 0.469081163406
+zita resp_prep 0.8 red p 0.376307964325
+zita resp_prep 0.8 red p 0.408257007599
+zita resp_prep 0.6 red p 0.3759329319
+zita resp_prep 0.8 red p 0.423814058304
+zita resp_prep 0.1 green q 0.47722196579
+zita resp_prep 0.1 red p 0.420696020126
+zita resp_prep 0.6 red p 0.33615899086
+zita resp_prep 0.6 red p 0.480518817902
+zita resp_prep 0.6 red p 0.416056871414
+zita resp_prep 0.3 green q 0.404685020447
+zita resp_prep 0.6 green q 0.384536027908
+zita resp_prep 1.0 green q 0.48121380806
+zita resp_prep 0.1 red p 0.452540159225
+zita resp_prep 0.8 green q 0.384644985199
+zita resp_prep 0.3 green q 0.380583047867
+zita resp_prep 0.6 green q 0.392498970032
+zita resp_prep 1.0 red p 0.344944000244
+zita resp_prep 0.8 green q 0.392512083054
+zita resp_prep 1.0 red p 0.353053092957
+zita resp_prep 0.1 red p 0.412541151047
+zita resp_prep 0.1 green q 1.26941490173
+zita resp_prep 1.0 red p 0.503948926926
+zita resp_prep 0.8 green q 0.512746810913
+zita resp_prep 0.1 green q 0.428966999054
+zita resp_prep 0.8 red p 0.272189855576
+zita resp_prep 0.8 green q 0.616639852524
+zita resp_prep 0.8 green q 0.392436981201
+zita resp_prep 0.1 green q 0.38906288147
+zita resp_prep 0.3 red p 0.348833084106
+zita resp_prep 0.1 green q 0.452660083771
+zita resp_prep 0.6 green q 0.400334835052
+zita resp_prep 0.3 green q 0.445448160172
+zita resp_prep 0.3 red p 0.308348894119
+zita resp_prep 0.1 red p 0.357072114944
+zita resp_prep 1.0 red p 0.319951057434
+zita resp_prep 0.1 red p 0.381118059158
+zita resp_prep 0.1 red p 0.388795137405
+zita resp_prep 1.0 red p 0.56721496582
+zita resp_prep 1.0 green q 0.432471990585
+zita resp_prep 0.6 red p 0.432511091232
+zita resp_prep 0.3 red p 0.380756855011
+zita resp_prep 0.3 red p 0.37323307991
+zita resp_prep 1.0 red p 0.360523939133
+zita resp_prep 0.6 green q 0.424623012543
+zita resp_prep 0.1 green q 0.421384096146
+zita resp_prep 0.1 red p 0.436681985855
+zita resp_prep 0.8 green q 0.367851018906
+zita resp_prep 1.0 green q 0.352323055267
+zita resp_prep 0.3 red p 0.357284069061
+zita resp_prep 0.8 green q 0.432368993759
+zita resp_prep 0.1 green q 0.436491966248
+zita resp_prep 0.8 green q 0.456632852554
+zita resp_prep 0.6 red p 0.328664064407
+zita resp_prep 0.1 green q 0.436368942261
+zita resp_prep 0.8 green q 0.384217023849
+zita resp_prep 0.6 green q 0.35263299942
+zita resp_prep 0.6 green q 0.392410993576
+zita resp_prep 0.3 green q 0.42892408371
+zita resp_prep 1.0 red p 0.383975982666
+zita resp_prep 0.8 green q 0.415692090988
+zita resp_prep 0.1 green q 0.413344144821
+zita resp_prep 0.8 red p 0.448447942734
+zita resp_prep 0.1 red p 0.41236782074
+zita resp_prep 0.3 red p 0.429317951202
+zita resp_prep 1.0 red p 0.344970941544
+zita resp_prep 0.8 green q 0.320036888123
+zita resp_prep 0.6 red p 0.400478124619
+zita resp_prep 0.8 red p 0.400503873825
+zita resp_prep 1.0 red p 0.34438419342
+zita resp_prep 0.3 red p 0.403180837631
+zita resp_prep 1.0 green q 0.464887142181
+zita resp_prep 0.1 red p 0.493101835251
+zita resp_prep 1.0 red p 0.35250711441
+zita resp_prep 1.0 green q 0.424602985382
+zita resp_prep 0.3 green q 0.389057159424
+zita resp_prep 1.0 green q 0.425208091736
+zita resp_prep 0.6 green q 0.383855104446
+zita resp_prep 0.6 red q 0.368618011475
+zita resp_prep 0.8 green q 0.423884153366
+zita resp_prep 0.1 red p 0.484809875488
+zita resp_prep 1.0 red p 0.48860001564
+zita resp_prep 1.0 red p 0.320908784866
+zita resp_prep 0.1 red p 0.420998811722
+zita resp_prep 0.8 red q 0.31809592247
+zita resp_prep 0.6 red p 0.504294872284
+zita resp_prep 0.3 red p 0.348689079285
+zita resp_prep 0.1 green q 0.412825107574
+zita resp_prep 1.0 green q 0.472841024399
+zita resp_prep 0.6 green q 0.584428071976
+zita resp_prep 1.0 red p 0.368253946304
+zita resp_prep 0.1 red p 0.397131919861
+zita resp_prep 0.6 green q 0.375606060028
+zita resp_prep 1.0 green q 0.45525598526
+zita resp_prep 0.8 red p 0.408602952957
+zita resp_prep 1.0 green q 0.433059930801
+zita resp_prep 0.1 red p 0.485016822815
+zita resp_prep 0.6 green q 0.288932800293
+zita resp_prep 0.6 green q 0.433130025864
+zita resp_prep 1.0 red p 0.407768011093
+zita resp_prep 1.0 green q 0.440737009048
+zita resp_prep 1.0 green q 1.0407910347
+zita resp_prep 0.8 red p 0.296932935715
+zita resp_prep 0.8 red p 0.360053062439
+zita resp_prep 0.6 red p 0.407989025116
+zita resp_prep 0.3 green q 0.572936058044
+zita resp_prep 0.8 green q 0.336400985718
+zita resp_prep 0.8 green q 0.464095115662
+zita resp_prep 0.8 red p 0.312670946121
+zita resp_prep 0.6 red p 0.359574079514
+zita resp_prep 0.8 red p 0.344464063644
+zita resp_prep 0.3 red p 0.348923921585
+zita resp_prep 0.3 red p 0.388727903366
+zita resp_prep 0.3 green q 0.412379980087
+zita resp_prep 0.6 red p 0.32851600647
+zita resp_prep 1.0 green q 0.43294095993
+zita resp_prep 0.1 green q 0.389024972916
+zita resp_prep 0.3 red p 0.325177907944
+zita resp_prep 0.1 green q 0.445107936859
+zita resp_prep 0.6 green q 0.432219028473
+zita resp_prep 0.1 red p 0.452785968781
+zita resp_prep 1.0 green q 0.392410039902

@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1422', 'task': u'line', 'participant': u'pillango', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+pillango SNARC line dot DC 0 down 45 lctrl 5.48188103887
+pillango SNARC line dot DC 0 up 10 num_decimal 0.778493963619
+pillango SNARC line dot DC 0 down 10 lctrl 0.680523801013
+pillango SNARC line dot DC 0 down 40 lctrl 0.619403301098
+pillango SNARC line dot DC 0 down 10 lctrl 0.598509635078
+pillango SNARC line dot DC 0 up 35 num_decimal 0.651277498138
+pillango SNARC line dot DC 0 down 15 lctrl 0.846873456845
+pillango SNARC line dot DC 0 up 30 num_decimal 1.25843689116
+pillango SNARC line dot DC 0 up 20 num_decimal 0.691848348564
+pillango SNARC line dot DC 0 up 25 num_decimal 0.57343737589
+pillango SNARC line dot DC 0 up 45 num_decimal 0.774149486533
+pillango SNARC line dot DC 0 down 5 lctrl 0.813438411773
+pillango SNARC line dot DC 0 down 5 lctrl 0.508206526079
+pillango SNARC line dot DC 0 down 25 lctrl 0.666413524654
+pillango SNARC line dot DC 0 up 30 num_decimal 0.641567343409
+pillango SNARC line dot DC 0 down 35 lctrl 0.51220208712
+pillango SNARC line dot DC 0 down 35 lctrl 0.479831638397
+pillango SNARC line dot DC 0 down 5 lctrl 0.559441538382
+pillango SNARC line dot DC 0 up 45 num_decimal 0.638910402078
+pillango SNARC line dot DC 0 up 35 num_decimal 0.418342624325
+pillango SNARC line dot DC 0 up 10 num_decimal 0.476063905196
+pillango SNARC line dot DC 0 down 25 lctrl 0.589584803907
+pillango SNARC line dot DC 0 down 40 lctrl 0.507029940636
+pillango SNARC line dot DC 0 down 5 lctrl 0.599299508176
+pillango SNARC line dot DC 0 down 30 lctrl 0.467923347664
+pillango SNARC line dot DC 0 down 40 lctrl 0.626103398856
+pillango SNARC line dot DC 0 down 35 lctrl 0.401138999121
+pillango SNARC line dot DC 0 up 45 num_decimal 0.829426255339
+pillango SNARC line dot DC 0 down 10 lctrl 0.472092841752
+pillango SNARC line dot DC 0 up 35 num_decimal 2.26787407245
+pillango SNARC line dot DC 0 up 40 num_decimal 0.540472335037
+pillango SNARC line dot DC 0 up 25 num_decimal 0.473415712971
+pillango SNARC line dot DC 0 down 45 lctrl 0.591287388175
+pillango SNARC line dot DC 0 up 35 num_decimal 0.817501166253
+pillango SNARC line dot DC 0 down 20 lctrl 0.36549601896
+pillango SNARC line dot DC 0 down 25 lctrl 0.556957130233
+pillango SNARC line dot DC 0 down 25 lctrl 0.61860327897
+pillango SNARC line dot DC 0 down 30 lctrl 0.435637940653
+pillango SNARC line dot DC 0 up 30 num_decimal 0.553132702538
+pillango SNARC line dot DC 0 up 35 num_decimal 0.421291787265
+pillango SNARC line dot DC 0 up 40 num_decimal 0.430505690281
+pillango SNARC line dot DC 0 down 10 lctrl 0.420845580666
+pillango SNARC line dot DC 0 down 10 lctrl 0.401675846864
+pillango SNARC line dot DC 0 down 25 lctrl 0.401614252827
+pillango SNARC line dot DC 0 up 5 num_decimal 0.455031652673
+pillango SNARC line dot DC 0 up 20 num_decimal 0.424100263859
+pillango SNARC line dot DC 0 down 35 lctrl 0.433178030129
+pillango SNARC line dot DC 0 down 20 lctrl 0.434854366933
+pillango SNARC line dot DC 0 down 10 lctrl 0.440416375466
+pillango SNARC line dot DC 0 up 5 num_decimal 0.52983127092
+pillango SNARC line dot DC 0 up 45 num_decimal 0.432275817933
+pillango SNARC line dot DC 0 up 35 num_decimal 0.398775679205
+pillango SNARC line dot DC 0 down 40 lctrl 0.494772383914
+pillango SNARC line dot DC 0 down 15 lctrl 0.331055871706
+pillango SNARC line dot DC 0 down 5 lctrl 0.509786622279
+pillango SNARC line dot DC 0 up 10 num_decimal 0.544253016968
+pillango SNARC line dot DC 0 up 35 lctrl 0.355676674866
+pillango SNARC line dot DC 0 up 40 num_decimal 1.93003691093
+pillango SNARC line dot DC 0 up 20 num_decimal 0.387666010705
+pillango SNARC line dot DC 0 up 35 num_decimal 0.455232883076
+pillango SNARC line dot DC 0 up 20 num_decimal 0.467528936075
+pillango SNARC line dot DC 0 up 15 num_decimal 0.359554297378
+pillango SNARC line dot DC 0 up 35 num_decimal 0.390367047774
+pillango SNARC line dot DC 0 up 45 num_decimal 0.382524311281
+pillango SNARC line dot DC 0 up 30 num_decimal 0.363005661406
+pillango SNARC line dot DC 0 down 5 lctrl 0.663487809477
+pillango SNARC line dot DC 0 up 20 num_decimal 0.747123717505
+pillango SNARC line dot DC 0 up 10 num_decimal 0.403212897218
+pillango SNARC line dot DC 0 up 5 num_decimal 0.351354245649
+pillango SNARC line dot DC 0 down 20 lctrl 0.56269552157
+pillango SNARC line dot DC 0 down 30 lctrl 0.618517887284
+pillango SNARC line dot DC 0 up 35 lctrl 0.646216990775
+pillango SNARC line dot DC 0 up 45 num_decimal 0.64521258857
+pillango SNARC line dot DC 0 up 10 num_decimal 0.355851307861
+pillango SNARC line dot DC 0 down 25 lctrl 0.783343091549
+pillango SNARC line dot DC 0 up 10 num_decimal 0.467698669527
+pillango SNARC line dot DC 0 down 45 lctrl 0.550489059882
+pillango SNARC line dot DC 0 down 5 lctrl 0.671684011555
+pillango SNARC line dot DC 0 down 20 lctrl 0.443123361969
+pillango SNARC line dot DC 0 up 5 num_decimal 0.655574379838
+pillango SNARC line dot DC 0 down 35 lctrl 0.734636933077
+pillango SNARC line dot DC 0 up 20 num_decimal 0.507005443011
+pillango SNARC line dot DC 0 down 20 lctrl 0.546891060163
+pillango SNARC line dot DC 0 down 25 lctrl 0.702689943137
+pillango SNARC line dot DC 0 down 25 lctrl 0.40645358176
+pillango SNARC line dot DC 0 down 20 lctrl 0.666710295744
+pillango SNARC line dot DC 0 down 35 lctrl 0.574932430347
+pillango SNARC line dot DC 0 down 30 lctrl 0.770890953747
+pillango SNARC line dot DC 0 down 40 lctrl 0.826767214225
+pillango SNARC line dot DC 0 down 15 lctrl 0.975498185231
+pillango SNARC line dot DC 0 up 20 num_decimal 0.715253370086
+pillango SNARC line dot DC 0 up 15 num_decimal 0.623302621476
+pillango SNARC line dot DC 0 down 20 lctrl 0.619000490318
+pillango SNARC line dot DC 0 up 15 num_decimal 0.503112422011
+pillango SNARC line dot DC 0 down 5 lctrl 1.07132515649
+pillango SNARC line dot DC 0 down 15 lctrl 0.487019588647
+pillango SNARC line dot DC 0 up 30 num_decimal 0.76258696217
+pillango SNARC line dot DC 0 up 15 num_decimal 0.654824402824
+pillango SNARC line dot DC 0 up 20 num_decimal 0.634216309059
+pillango SNARC line dot DC 0 down 15 lctrl 0.623677784984
+pillango SNARC line dot DC 0 up 5 num_decimal 0.599929096905
+pillango SNARC line dot DC 0 up 25 num_decimal 0.623302621476
+pillango SNARC line dot DC 0 down 45 lctrl 0.710535129416
+pillango SNARC line dot DC 0 down 5 lctrl 0.671537025861
+pillango SNARC line dot DC 0 up 5 num_decimal 0.6395438404
+pillango SNARC line dot DC 0 down 45 lctrl 0.430256164545
+pillango SNARC line dot DC 0 up 15 num_decimal 0.751175973011
+pillango SNARC line dot DC 0 up 20 num_decimal 0.546955453872
+pillango SNARC line dot DC 0 down 20 lctrl 0.594830093265
+pillango SNARC line dot DC 0 down 10 lctrl 0.754958404781
+pillango SNARC line dot DC 0 down 35 lctrl 0.510098091967
+pillango SNARC line dot DC 0 up 30 num_decimal 0.811306069343
+pillango SNARC line dot DC 0 up 20 num_decimal 0.571540910489
+pillango SNARC line dot DC 0 up 10 num_decimal 0.715759420826
+pillango SNARC line dot DC 0 up 15 num_decimal 0.631493924069
+pillango SNARC line dot DC 0 up 25 num_decimal 0.735184629768
+pillango SNARC line dot DC 0 up 35 num_decimal 0.774634539324
+pillango SNARC line dot DC 0 up 10 num_decimal 0.403382630699
+pillango SNARC line dot DC 0 down 25 lctrl 0.510738179641
+pillango SNARC line dot DC 0 up 25 num_decimal 0.422841086431
+pillango SNARC line dot DC 0 up 45 num_decimal 0.405981477699
+pillango SNARC line dot DC 0 up 10 num_decimal 0.371136069909
+pillango SNARC line dot DC 0 up 15 num_decimal 0.342908167891
+pillango SNARC line dot DC 0 down 15 lctrl 0.398993358016
+pillango SNARC line dot DC 0 down 30 num_decimal 0.490337615629
+pillango SNARC line dot DC 0 down 40 lctrl 0.545942652476
+pillango SNARC line dot DC 0 up 20 num_decimal 0.619501991459
+pillango SNARC line dot DC 0 up 10 num_decimal 0.587704087025
+pillango SNARC line dot DC 0 up 30 num_decimal 0.48301982804
+pillango SNARC line dot DC 0 up 20 num_decimal 0.377090740192
+pillango SNARC line dot DC 0 down 15 lctrl 0.599316306558
+pillango SNARC line dot DC 0 up 20 num_decimal 0.499008371524
+pillango SNARC line dot DC 0 up 10 num_decimal 0.531377770385
+pillango SNARC line dot DC 0 down 20 lctrl 0.731036833575
+pillango SNARC line dot DC 0 up 30 num_decimal 0.962568343966
+pillango SNARC line dot DC 0 up 35 num_decimal 0.44646798633
+pillango SNARC line dot DC 0 down 40 lctrl 0.434109289432
+pillango SNARC line dot DC 0 up 15 num_decimal 0.382827731723
+pillango SNARC line dot DC 0 up 20 num_decimal 0.450705373834
+pillango SNARC line dot DC 0 up 40 num_decimal 0.387071068631
+pillango SNARC line dot DC 0 up 15 num_decimal 0.391700417968
+pillango SNARC line dot DC 0 up 20 num_decimal 0.459571410727
+pillango SNARC line dot DC 0 down 30 lctrl 0.611161603418
+pillango SNARC line dot DC 0 down 25 lctrl 0.463119365333
+pillango SNARC line dot DC 0 down 15 lctrl 0.69541205166
+pillango SNARC line dot DC 0 up 25 num_decimal 0.870764931024
+pillango SNARC line dot DC 0 up 5 num_decimal 0.575434981409
+pillango SNARC line dot DC 0 down 40 lctrl 0.730407244875
+pillango SNARC line dot DC 0 down 45 lctrl 1.32618644575
+pillango SNARC line dot DC 0 down 5 lctrl 0.51116863772
+pillango SNARC line dot DC 0 down 20 lctrl 0.650743450125
+pillango SNARC line dot DC 0 down 10 lctrl 0.451804616809
+pillango SNARC line dot DC 0 down 45 lctrl 0.397548348643
+pillango SNARC line dot DC 0 up 25 num_decimal 0.423484673753
+pillango SNARC line dot DC 0 up 5 num_decimal 0.703929522453
+pillango SNARC line dot DC 0 down 30 lctrl 0.906955607876
+pillango SNARC line dot DC 0 up 35 num_decimal 0.630738697597
+pillango SNARC line dot DC 0 up 40 num_decimal 0.530666289647
+pillango SNARC line dot DC 0 up 35 num_decimal 1.24675712819
+pillango SNARC line dot DC 0 down 20 lctrl 0.434990853624
+pillango SNARC line dot DC 0 up 40 num_decimal 0.634402840893
+pillango SNARC line dot DC 0 up 30 num_decimal 0.41864184523
+pillango SNARC line dot DC 0 up 25 num_decimal 0.510752178263
+pillango SNARC line dot DC 0 up 30 num_decimal 0.418355223112
+pillango SNARC line dot DC 0 up 30 num_decimal 0.370357045758
+pillango SNARC line dot DC 0 up 45 num_decimal 0.397919312556
+pillango SNARC line dot DC 0 up 30 num_decimal 0.40326014263
+pillango SNARC line dot DC 0 down 20 lctrl 0.427489333902
+pillango SNARC line dot DC 0 down 40 lctrl 0.418635895796
+pillango SNARC line dot DC 0 down 10 lctrl 0.443612964271
+pillango SNARC line dot DC 0 up 40 num_decimal 0.618493039714
+pillango SNARC line dot DC 0 up 25 num_decimal 0.598630723311
+pillango SNARC line dot DC 0 up 10 num_decimal 0.803374091542
+pillango SNARC line dot DC 0 down 35 lctrl 0.518659658497
+pillango SNARC line dot DC 0 up 10 num_decimal 0.523244562151
+pillango SNARC line dot DC 0 down 45 lctrl 0.662104744086
+pillango SNARC line dot DC 0 down 25 lctrl 0.574695853342
+pillango SNARC line dot DC 0 up 35 num_decimal 0.51839158457
+pillango SNARC line dot DC 0 up 5 num_decimal 0.415131336951
+pillango SNARC line dot DC 0 down 5 lctrl 0.447973889764
+pillango SNARC line dot DC 0 up 45 num_decimal 0.542788059567
+pillango SNARC line dot DC 0 up 35 num_decimal 0.567164586537
+pillango SNARC line dot DC 0 down 35 lctrl 0.502737258532
+pillango SNARC line dot DC 0 up 40 num_decimal 0.410784060165
+pillango SNARC line dot DC 0 up 30 num_decimal 0.424279796367
+pillango SNARC line dot DC 0 up 25 num_decimal 0.391116674786
+pillango SNARC line dot DC 0 down 30 lctrl 0.426650465582
+pillango SNARC line dot DC 0 up 15 num_decimal 0.423186502769
+pillango SNARC line dot DC 0 down 15 lctrl 0.391100576351
+pillango SNARC line dot DC 0 down 5 lctrl 0.727267350536
+pillango SNARC line dot DC 0 down 40 lctrl 0.594261748629
+pillango SNARC line dot DC 0 down 35 lctrl 0.622301718919
+pillango SNARC line dot DC 0 down 45 lctrl 0.477894576965
+pillango SNARC line dot DC 0 up 5 num_decimal 0.488091884239
+pillango SNARC line dot DC 0 up 20 num_decimal 0.571543710248
+pillango SNARC line dot DC 0 down 40 lctrl 0.618860853894
+pillango SNARC line dot DC 0 down 45 lctrl 0.67861333699
+pillango SNARC line dot DC 0 up 20 num_decimal 0.643135190796
+pillango SNARC line dot DC 0 down 25 lctrl 0.583038691198
+pillango SNARC line dot DC 0 down 5 lctrl 0.551609300863
+pillango SNARC line dot DC 0 down 30 lctrl 0.50684130899
+pillango SNARC line dot DC 0 up 40 num_decimal 0.514386224502
+pillango SNARC line dot DC 0 up 5 num_decimal 0.471371212014
+pillango SNARC line dot DC 0 up 35 num_decimal 0.478388378891
+pillango SNARC line dot DC 0 down 45 lctrl 0.478007965925
+pillango SNARC line dot DC 0 down 10 lctrl 0.395035593276
+pillango SNARC line dot DC 0 down 20 lctrl 0.410702168127
+pillango SNARC line dot DC 0 down 40 lctrl 0.659070539492
+pillango SNARC line dot DC 0 down 20 lctrl 0.61141252899
+pillango SNARC line dot DC 0 up 40 num_decimal 0.362794631947
+pillango SNARC line dot DC 0 down 25 lctrl 0.559293852741
+pillango SNARC line dot DC 0 up 45 num_decimal 0.525856007909
+pillango SNARC line dot DC 0 down 10 lctrl 1.13948172145
+pillango SNARC line dot DC 0 up 15 num_decimal 0.487147326203
+pillango SNARC line dot DC 0 down 20 lctrl 0.450986746437
+pillango SNARC line dot DC 0 up 10 num_decimal 0.395238573547
+pillango SNARC line dot DC 0 down 25 lctrl 0.366850387101
+pillango SNARC line dot DC 0 up 10 num_decimal 0.347201549943
+pillango SNARC line dot DC 0 down 20 lctrl 0.370794853108
+pillango SNARC line dot DC 0 down 15 lctrl 0.614960833569
+pillango SNARC line dot DC 0 down 45 lctrl 0.46207926661
+pillango SNARC line dot DC 0 up 5 num_decimal 0.415110688977
+pillango SNARC line dot DC 0 up 15 num_decimal 0.311682807689
+pillango SNARC line dot DC 0 up 15 num_decimal 0.407803750306
+pillango SNARC line dot DC 0 down 15 lctrl 0.431643429503
+pillango SNARC line dot DC 0 up 10 num_decimal 0.43558054624
+pillango SNARC line dot DC 0 up 25 num_decimal 0.431252867536
+pillango SNARC line dot DC 0 up 40 num_decimal 0.362681942905
+pillango SNARC line dot DC 0 up 25 num_decimal 0.366997022822
+pillango SNARC line dot DC 0 up 10 num_decimal 0.323247781809
+pillango SNARC line dot DC 0 down 20 lctrl 0.619070483488
+pillango SNARC line dot DC 0 down 45 lctrl 0.414163681155
+pillango SNARC line dot DC 0 up 35 num_decimal 0.550194038602
+pillango SNARC line dot DC 0 down 5 lctrl 0.887233977788
+pillango SNARC line dot DC 0 up 25 num_decimal 0.510626190546
+pillango SNARC line dot DC 0 up 30 num_decimal 0.690374992002
+pillango SNARC line dot DC 0 down 40 lctrl 0.579088275757
+pillango SNARC line dot DC 0 up 15 num_decimal 0.623734129476
+pillango SNARC line dot DC 0 down 25 lctrl 0.431307112245
+pillango SNARC line dot DC 0 up 40 num_decimal 0.778789684817
+pillango SNARC line dot DC 0 up 20 num_decimal 0.531408917333
+pillango SNARC line dot DC 0 up 10 num_decimal 0.731518036715
+pillango SNARC line dot DC 0 up 15 num_decimal 0.447192765801
+pillango SNARC line dot DC 0 down 40 lctrl 0.602517094958
+pillango SNARC line dot DC 0 down 45 lctrl 0.518228850415
+pillango SNARC line dot DC 0 up 10 num_decimal 0.603129185358
+pillango SNARC line dot DC 0 up 35 num_decimal 0.750543584581
+pillango SNARC line dot DC 0 up 10 num_decimal 0.595095717435
+pillango SNARC line dot DC 0 up 10 num_decimal 0.554923478194
+pillango SNARC line dot DC 0 down 20 lctrl 0.626615399
+pillango SNARC line dot DC 0 up 35 num_decimal 0.631155856972
+pillango SNARC line dot DC 0 up 10 num_decimal 0.395802368643
+pillango SNARC line dot DC 0 down 30 lctrl 0.403129605314
+pillango SNARC line dot DC 0 up 25 num_decimal 0.391288158105
+pillango SNARC line dot DC 0 down 25 lctrl 0.431211571558
+pillango SNARC line dot DC 0 up 40 num_decimal 0.346769691998
+pillango SNARC line dot DC 0 up 35 num_decimal 0.574654557364
+pillango SNARC line dot DC 0 down 30 lctrl 0.362847826764
+pillango SNARC line dot DC 0 up 35 num_decimal 0.486145723698
+pillango SNARC line dot DC 0 down 20 lctrl 0.746825196577
+pillango SNARC line dot DC 0 up 35 num_decimal 0.398499906034
+pillango SNARC line dot DC 0 down 40 lctrl 0.330120762752
+pillango SNARC line dot DC 0 up 25 num_decimal 0.326685147185
+pillango SNARC line dot DC 0 up 20 num_decimal 0.434747627325
+pillango SNARC line dot DC 0 up 15 num_decimal 0.374807562475
+pillango SNARC line dot DC 0 down 5 lctrl 0.511970409687
+pillango SNARC line dot DC 0 down 30 lctrl 1.49104594666
+pillango SNARC line dot DC 0 up 45 num_decimal 0.630626708502
+pillango SNARC line dot DC 0 up 45 num_decimal 1.02249476014
+pillango SNARC line dot DC 0 up 30 num_decimal 0.946830376051
+pillango SNARC line dot DC 0 up 5 num_decimal 0.695535239647
+pillango SNARC line dot DC 0 up 15 num_decimal 0.839153558394
+pillango SNARC line dot DC 0 up 10 num_decimal 0.467237764387
+pillango SNARC line dot DC 0 down 30 lctrl 0.562536637066
+pillango SNARC line dot DC 0 down 35 lctrl 0.534247840988
+pillango SNARC line dot DC 0 up 35 num_decimal 0.742342132988
+pillango SNARC line dot DC 0 down 10 lctrl 0.803889941308
+pillango SNARC line dot DC 0 up 5 num_decimal 2.30393561185
+pillango SNARC line dot DC 0 down 45 lctrl 0.630550415895
+pillango SNARC line dot DC 0 down 30 lctrl 0.546867612429
+pillango SNARC line dot DC 0 down 30 lctrl 0.562816609803
+pillango SNARC line dot DC 0 down 5 lctrl 0.599545534234
+pillango SNARC line dot DC 0 up 40 num_decimal 0.618471341819
+pillango SNARC line dot DC 0 down 40 lctrl 0.682308627263
+pillango SNARC line dot DC 0 down 5 lctrl 0.55932324988
+pillango SNARC line dot DC 0 down 35 lctrl 0.686409528047
+pillango SNARC line dot DC 0 up 30 num_decimal 0.610535514366
+pillango SNARC line dot DC 0 up 25 num_decimal 0.630580512981
+pillango SNARC line dot DC 0 down 5 lctrl 0.863739714958
+pillango SNARC line dot DC 0 up 5 num_decimal 0.503935891844
+pillango SNARC line dot DC 0 down 45 lctrl 0.510785075079
+pillango SNARC line dot DC 0 up 15 num_decimal 0.367552068812
+pillango SNARC line dot DC 0 up 45 num_decimal 0.526446400443
+pillango SNARC line dot DC 0 down 25 lctrl 0.863043982681
+pillango SNARC line dot DC 0 down 10 lctrl 0.993709362374
+pillango SNARC line dot DC 0 up 40 num_decimal 0.578393593372
+pillango SNARC line dot DC 0 down 40 lctrl 0.498312639247
+pillango SNARC line dot DC 0 up 30 num_decimal 0.466649821639
+pillango SNARC line dot DC 0 up 15 num_decimal 0.694996992039
+pillango SNARC line dot DC 0 up 45 num_decimal 0.790051938442
+pillango SNARC line dot DC 0 down 45 lctrl 0.565655183484
+pillango SNARC line dot DC 0 up 5 num_decimal 0.352009381895
+pillango SNARC line dot DC 0 up 5 num_decimal 0.351954787213
+pillango SNARC line dot DC 0 up 25 num_decimal 0.343413868657
+pillango SNARC line dot DC 0 down 30 num_decimal 0.435142038914
+pillango SNARC line dot DC 0 down 40 lctrl 0.585529748671
+pillango SNARC line dot DC 0 up 40 num_decimal 0.594636212161
+pillango SNARC line dot DC 0 up 45 num_decimal 0.510569496051
+pillango SNARC line dot DC 0 up 30 num_decimal 0.570743688091
+pillango SNARC line dot DC 0 up 20 num_decimal 0.395120285044
+pillango SNARC line dot DC 0 up 35 num_decimal 0.342528104899
+pillango SNARC line dot DC 0 down 35 lctrl 0.470590787998
+pillango SNARC line dot DC 0 up 25 num_decimal 0.430751016393
+pillango SNARC line dot DC 0 up 25 num_decimal 0.734615235182
+pillango SNARC line dot DC 0 up 30 num_decimal 1.11438741436
+pillango SNARC line dot DC 0 down 40 lctrl 0.602984299476
+pillango SNARC line dot DC 0 up 5 num_decimal 0.911881728331
+pillango SNARC line dot DC 0 down 20 lctrl 0.531315126456
+pillango SNARC line dot DC 0 up 45 num_decimal 0.502765955724
+pillango SNARC line dot DC 0 down 45 lctrl 0.566409360064
+pillango SNARC line dot DC 0 up 40 num_decimal 0.410596828413
+pillango SNARC line dot DC 0 down 35 lctrl 0.358640186372
+pillango SNARC line dot DC 0 down 25 lctrl 0.566895812692
+pillango SNARC line dot DC 0 up 10 num_decimal 0.427194312651
+pillango SNARC line dot DC 0 up 5 num_decimal 0.510756377858
+pillango SNARC line dot DC 0 up 45 num_decimal 0.446214960975
+pillango SNARC line dot DC 0 down 40 lctrl 0.498252795107
+pillango SNARC line dot DC 0 down 45 lctrl 0.453165284358
+pillango SNARC line dot DC 0 down 5 lctrl 0.471085289842
+pillango SNARC line dot DC 0 up 15 num_decimal 0.431711322919
+pillango SNARC line dot DC 0 down 35 lctrl 0.518833591545
+pillango SNARC line dot DC 0 down 25 lctrl 0.527427704917
+pillango SNARC line dot DC 0 up 15 num_decimal 0.543596480886
+pillango SNARC line dot DC 0 down 25 lctrl 0.567222330894
+pillango SNARC line dot DC 0 down 10 lctrl 0.459496168041
+pillango SNARC line dot DC 0 up 45 num_decimal 0.526462148933
+pillango SNARC line dot DC 0 up 30 num_decimal 0.898857746215
+pillango SNARC line dot DC 0 down 15 lctrl 0.607206288492
+pillango SNARC line dot DC 0 down 30 lctrl 0.578654318
+pillango SNARC line dot DC 0 up 25 num_decimal 0.646619801555
+pillango SNARC line dot DC 0 up 15 num_decimal 0.44697228726
+pillango SNARC line dot DC 0 up 40 num_decimal 0.439717843488
+pillango SNARC line dot DC 0 up 5 num_decimal 0.43912605106
+pillango SNARC line dot DC 0 up 15 num_decimal 0.367754349107
+pillango SNARC line dot DC 0 down 10 lctrl 0.483743207587
+pillango SNARC line dot DC 0 up 40 num_decimal 0.802933834377
+pillango SNARC line dot DC 0 up 30 num_decimal 0.491116639809
+pillango SNARC line dot DC 0 up 15 num_decimal 0.479280792031
+pillango SNARC line dot DC 0 up 15 num_decimal 0.47141040818
+pillango SNARC line dot DC 0 down 15 lctrl 0.495313431224
+pillango SNARC line dot DC 0 up 45 num_decimal 0.398394216318
+pillango SNARC line dot DC 0 up 30 num_decimal 0.378739079752
+pillango SNARC line dot DC 0 down 15 lctrl 0.415053994511
+pillango SNARC line dot DC 0 down 40 lctrl 0.594246350112
+pillango SNARC line dot DC 0 down 15 lctrl 0.623000950844
+pillango SNARC line dot DC 0 down 5 lctrl 0.439161747607
+pillango SNARC line dot DC 0 up 45 num_decimal 0.389947088668
+pillango SNARC line dot DC 0 down 45 lctrl 0.518271196313
+pillango SNARC line dot DC 0 up 30 num_decimal 0.442340138165
+pillango SNARC line dot DC 0 down 10 lctrl 0.371790506208
+{'delay': u'0', 'dateStr': u'05_18_1437', 'task': u'line', 'participant': u'pillango', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+pillango SNARC line arabic DC 0 up 1 num_decimal 5.47517744149
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.569960464345
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.566849267227
+pillango SNARC line arabic DC 0 down 2 lctrl 0.863661672542
+pillango SNARC line arabic DC 0 down 6 lctrl 0.670177058288
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.731490739359
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.682743984886
+pillango SNARC line arabic DC 0 down 4 lctrl 0.643143939931
+pillango SNARC line arabic DC 0 down 6 lctrl 0.448257012176
+pillango SNARC line arabic DC 0 down 6 lctrl 0.485249460966
+pillango SNARC line arabic DC 0 down 8 lctrl 0.487297111627
+pillango SNARC line arabic DC 0 down 3 lctrl 0.431211221585
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.383200095472
+pillango SNARC line arabic DC 0 down 7 lctrl 0.458704195131
+pillango SNARC line arabic DC 0 down 6 lctrl 0.440339382971
+pillango SNARC line arabic DC 0 down 9 lctrl 0.381506260368
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.406396187318
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.389317149966
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.449527038523
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.454680286872
+pillango SNARC line arabic DC 0 down 6 lctrl 0.428333451739
+pillango SNARC line arabic DC 0 down 6 lctrl 0.47309479423
+pillango SNARC line arabic DC 0 down 1 lctrl 1.06316675071
+pillango SNARC line arabic DC 0 down 5 lctrl 0.572298586718
+pillango SNARC line arabic DC 0 down 6 lctrl 0.420719242975
+pillango SNARC line arabic DC 0 down 3 lctrl 0.489536893583
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.519633263699
+pillango SNARC line arabic DC 0 down 1 lctrl 0.599147972942
+pillango SNARC line arabic DC 0 down 1 lctrl 0.568174588203
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.528642786638
+pillango SNARC line arabic DC 0 down 6 lctrl 0.576303246868
+pillango SNARC line arabic DC 0 down 1 lctrl 0.489053590631
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.463498728408
+pillango SNARC line arabic DC 0 down 7 lctrl 0.509099289193
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.683867375512
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.469109382218
+pillango SNARC line arabic DC 0 down 2 lctrl 0.413141780649
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.513521808636
+pillango SNARC line arabic DC 0 down 7 lctrl 0.440646653034
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.389870446117
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.449918300437
+pillango SNARC line arabic DC 0 down 8 lctrl 0.471042593999
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.509168582445
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.419862876355
+pillango SNARC line arabic DC 0 down 7 lctrl 0.464312049211
+pillango SNARC line arabic DC 0 down 9 lctrl 0.446060276037
+pillango SNARC line arabic DC 0 down 5 lctrl 0.627462316537
+pillango SNARC line arabic DC 0 down 5 lctrl 0.493461411534
+pillango SNARC line arabic DC 0 down 8 lctrl 0.515724494238
+pillango SNARC line arabic DC 0 down 3 lctrl 0.491038247419
+pillango SNARC line arabic DC 0 down 2 lctrl 0.505443545087
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.592228096619
+pillango SNARC line arabic DC 0 up 8 num_decimal 1.15340861565
+pillango SNARC line arabic DC 0 down 2 lctrl 0.776734684885
+pillango SNARC line arabic DC 0 down 9 lctrl 0.566634388146
+pillango SNARC line arabic DC 0 down 1 lctrl 0.702995813364
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.57905257924
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.555855787446
+pillango SNARC line arabic DC 0 down 8 lctrl 0.395829665998
+pillango SNARC line arabic DC 0 down 9 lctrl 0.551785333722
+pillango SNARC line arabic DC 0 down 3 lctrl 0.407816349092
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.516271840956
+pillango SNARC line arabic DC 0 down 3 lctrl 0.427084073366
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.448245813284
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.453413060255
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.371030730166
+pillango SNARC line arabic DC 0 down 6 lctrl 0.446221260354
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.651437432563
+pillango SNARC line arabic DC 0 down 4 lctrl 0.413803916192
+pillango SNARC line arabic DC 0 down 2 lctrl 0.434034396749
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.614993730356
+pillango SNARC line arabic DC 0 down 4 lctrl 0.59228164138
+pillango SNARC line arabic DC 0 down 1 lctrl 0.46570036406
+pillango SNARC line arabic DC 0 down 1 lctrl 0.487345406931
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.64579423191
+pillango SNARC line arabic DC 0 down 4 lctrl 0.464231907012
+pillango SNARC line arabic DC 0 up 4 lctrl 0.493807177874
+pillango SNARC line arabic DC 0 down 4 lctrl 0.580142723105
+pillango SNARC line arabic DC 0 down 4 lctrl 0.600998242822
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.50499663857
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.440694948338
+pillango SNARC line arabic DC 0 down 5 lctrl 0.592839487072
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.672833299672
+pillango SNARC line arabic DC 0 down 9 lctrl 0.696739122446
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.632658960647
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.592580862256
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.424468078039
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.344475315331
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.328366733505
+pillango SNARC line arabic DC 0 down 4 lctrl 0.407969284191
+pillango SNARC line arabic DC 0 down 7 lctrl 0.385241096781
+pillango SNARC line arabic DC 0 down 7 lctrl 0.369068471191
+pillango SNARC line arabic DC 0 down 2 lctrl 0.361185138638
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.449072432821
+pillango SNARC line arabic DC 0 down 7 lctrl 0.480973227241
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.376935355336
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.44892019761
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.416801024432
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.528474103048
+pillango SNARC line arabic DC 0 down 4 lctrl 0.472639488551
+pillango SNARC line arabic DC 0 down 2 lctrl 0.808597683033
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.584484050487
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.480440579093
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.432369958784
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.448341004027
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.377221977426
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.432840313006
+pillango SNARC line arabic DC 0 down 3 lctrl 0.504819905764
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.457068104442
+pillango SNARC line arabic DC 0 down 8 lctrl 0.808986495162
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.424762049399
+pillango SNARC line arabic DC 0 down 1 lctrl 0.520835046715
+pillango SNARC line arabic DC 0 down 7 lctrl 0.472756027186
+pillango SNARC line arabic DC 0 down 9 lctrl 0.480649508769
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.472614640952
+pillango SNARC line arabic DC 0 down 4 lctrl 0.464561224973
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.640185677912
+pillango SNARC line arabic DC 0 down 3 lctrl 0.360223082273
+pillango SNARC line arabic DC 0 down 1 lctrl 0.464361044462
+pillango SNARC line arabic DC 0 down 1 lctrl 0.392256163876
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.74521675313
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.513221187925
+pillango SNARC line arabic DC 0 down 7 lctrl 0.441049463843
+pillango SNARC line arabic DC 0 down 7 lctrl 0.472996103839
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.520940736402
+pillango SNARC line arabic DC 0 down 3 lctrl 0.448455092876
+pillango SNARC line arabic DC 0 down 6 lctrl 0.456279981125
+pillango SNARC line arabic DC 0 down 3 lctrl 0.432698226825
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.448664372525
+pillango SNARC line arabic DC 0 down 6 lctrl 0.480632010469
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.496554410405
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.656414997997
+pillango SNARC line arabic DC 0 down 8 lctrl 0.520394439605
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.544216270559
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.456847625901
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.473216932325
+pillango SNARC line arabic DC 0 down 3 lctrl 0.473139589856
+pillango SNARC line arabic DC 0 down 1 lctrl 0.568978459953
+pillango SNARC line arabic DC 0 down 6 lctrl 0.497045762575
+pillango SNARC line arabic DC 0 down 2 lctrl 0.464906991285
+pillango SNARC line arabic DC 0 down 6 lctrl 0.424847091112
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.416801374377
+pillango SNARC line arabic DC 0 down 9 lctrl 0.832711385534
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.551482263196
+pillango SNARC line arabic DC 0 down 5 lctrl 0.656549734878
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.464488432073
+pillango SNARC line arabic DC 0 down 7 lctrl 0.840399787063
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.52834146595
+pillango SNARC line arabic DC 0 down 7 lctrl 0.945231031772
+pillango SNARC line arabic DC 0 down 9 lctrl 0.649196250743
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.840708107076
+pillango SNARC line arabic DC 0 down 7 lctrl 0.712993990019
+pillango SNARC line arabic DC 0 down 2 lctrl 1.01309887483
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.560820754123
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.744754798128
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.528721528972
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.624600995099
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.720519307448
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.5844336554
+pillango SNARC line arabic DC 0 down 4 lctrl 0.960179476533
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.497229494707
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.601221521094
+pillango SNARC line arabic DC 0 down 3 lctrl 0.80120850238
+pillango SNARC line arabic DC 0 down 4 lctrl 0.5850180985
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.624941161979
+pillango SNARC line arabic DC 0 down 4 lctrl 0.552837331285
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.576779900468
+pillango SNARC line arabic DC 0 down 7 lctrl 0.544364656089
+pillango SNARC line arabic DC 0 down 1 lctrl 0.488642030687
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.512582150113
+pillango SNARC line arabic DC 0 down 7 lctrl 0.448567081999
+pillango SNARC line arabic DC 0 down 8 lctrl 0.616441889375
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.512384419359
+pillango SNARC line arabic DC 0 down 8 lctrl 0.60829293268
+pillango SNARC line arabic DC 0 down 3 num_decimal 0.441222346999
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.528256074293
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.496877079015
+pillango SNARC line arabic DC 0 down 7 lctrl 0.497021614952
+pillango SNARC line arabic DC 0 up 5 lctrl 0.512915317697
+pillango SNARC line arabic DC 0 down 9 lctrl 0.535878332244
+pillango SNARC line arabic DC 0 down 6 lctrl 0.448708118289
+pillango SNARC line arabic DC 0 down 6 lctrl 0.440735544398
+pillango SNARC line arabic DC 0 down 7 lctrl 0.536646157503
+pillango SNARC line arabic DC 0 down 4 lctrl 0.480593164277
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.512235683855
+pillango SNARC line arabic DC 0 down 8 lctrl 0.448211516603
+pillango SNARC line arabic DC 0 down 3 lctrl 0.816430620471
+pillango SNARC line arabic DC 0 down 2 lctrl 0.544323710114
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.472297571832
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.473261378007
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.465179614781
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.561081828666
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.577067922452
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.560968089732
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.576540873764
+pillango SNARC line arabic DC 0 down 3 num_decimal 0.416787725728
+pillango SNARC line arabic DC 0 down 1 lctrl 0.712733615364
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.488614033413
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.496591506817
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.512479960074
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.472346567054
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.416276075528
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.400276333094
+pillango SNARC line arabic DC 0 down 4 lctrl 0.568883269239
+pillango SNARC line arabic DC 0 down 4 lctrl 0.489330413693
+pillango SNARC line arabic DC 0 down 9 lctrl 0.601071035751
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.576989880035
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.496968420106
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.424900985876
+pillango SNARC line arabic DC 0 down 1 lctrl 0.456800380489
+pillango SNARC line arabic DC 0 down 3 lctrl 0.496731493186
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.600520189386
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.400298380933
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.520495929726
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.400494711823
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.424411033571
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.544372005388
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.408273054607
+pillango SNARC line arabic DC 0 down 8 lctrl 0.58523472739
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.55221194218
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.449082231848
+pillango SNARC line arabic DC 0 down 2 lctrl 0.536658756289
+pillango SNARC line arabic DC 0 down 2 lctrl 0.488708524237
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.46483559825
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.632770599768
+pillango SNARC line arabic DC 0 up 9 lctrl 0.480740499916
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.528645586368
+pillango SNARC line arabic DC 0 down 4 lctrl 0.504549732083
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.448542584374
+pillango SNARC line arabic DC 0 down 3 lctrl 0.600441097049
+pillango SNARC line arabic DC 0 down 9 lctrl 0.607995461643
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.480252997368
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.465270605928
+pillango SNARC line arabic DC 0 down 3 lctrl 0.649179802334
+pillango SNARC line arabic DC 0 down 7 lctrl 0.585044345935
+pillango SNARC line arabic DC 0 down 7 lctrl 0.488822613115
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.640905207896
+pillango SNARC line arabic DC 0 down 8 lctrl 0.808846508793
+pillango SNARC line arabic DC 0 down 8 lctrl 0.512748033972
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.536389982444
+pillango SNARC line arabic DC 0 down 5 lctrl 0.680616891943
+pillango SNARC line arabic DC 0 down 1 lctrl 0.616413892101
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.576458981697
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.664398420806
+pillango SNARC line arabic DC 0 down 9 lctrl 0.480303042481
+pillango SNARC line arabic DC 0 down 8 lctrl 0.69621767322
+pillango SNARC line arabic DC 0 down 9 lctrl 0.569215036929
+pillango SNARC line arabic DC 0 down 5 lctrl 0.537132960104
+pillango SNARC line arabic DC 0 down 2 lctrl 0.688673107652
+pillango SNARC line arabic DC 0 down 2 lctrl 0.46496928524
+pillango SNARC line arabic DC 0 down 2 lctrl 0.552866028505
+pillango SNARC line arabic DC 0 down 6 lctrl 0.824775558081
+pillango SNARC line arabic DC 0 down 4 lctrl 0.512707437942
+pillango SNARC line arabic DC 0 down 5 lctrl 0.640618935722
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.584592889878
+pillango SNARC line arabic DC 0 down 8 lctrl 0.624470457813
+pillango SNARC line arabic DC 0 down 7 lctrl 0.520409138175
+pillango SNARC line arabic DC 0 down 7 lctrl 0.639367457567
+pillango SNARC line arabic DC 0 down 2 lctrl 0.505271711794
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.601246718637
+pillango SNARC line arabic DC 0 down 3 lctrl 0.905153983273
+pillango SNARC line arabic DC 0 down 8 lctrl 0.705004267831
+pillango SNARC line arabic DC 0 down 2 lctrl 0.544995294709
+pillango SNARC line arabic DC 0 down 3 lctrl 0.560855750693
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.656726817659
+pillango SNARC line arabic DC 0 down 4 lctrl 0.576761002332
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.496400775388
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.728582522483
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.512524055783
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.448472591204
+pillango SNARC line arabic DC 0 down 5 lctrl 0.544353457197
+pillango SNARC line arabic DC 0 down 4 lctrl 0.504299506429
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.537223601306
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.425214905321
+pillango SNARC line arabic DC 0 down 2 lctrl 0.713129076903
+pillango SNARC line arabic DC 0 down 1 lctrl 0.880678765912
+pillango SNARC line arabic DC 0 down 5 lctrl 0.544903253671
+pillango SNARC line arabic DC 0 down 3 lctrl 0.552812133741
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.592786992202
+pillango SNARC line arabic DC 0 down 9 lctrl 0.656707569491
+pillango SNARC line arabic DC 0 down 5 lctrl 0.568636543234
+pillango SNARC line arabic DC 0 down 8 lctrl 0.576478229836
+pillango SNARC line arabic DC 0 down 3 lctrl 0.51247401064
+pillango SNARC line arabic DC 0 down 5 lctrl 0.624429861753
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.576051621378
+pillango SNARC line arabic DC 0 down 5 lctrl 0.640302916523
+pillango SNARC line arabic DC 0 up 3 num_decimal 0.441223046946
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.449181622185
+pillango SNARC line arabic DC 0 down 8 lctrl 0.59310581116
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.641055343236
+pillango SNARC line arabic DC 0 down 3 lctrl 0.600893602998
+pillango SNARC line arabic DC 0 down 5 lctrl 0.528869214584
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.488754719729
+pillango SNARC line arabic DC 0 down 5 lctrl 0.648373480828
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.816667897365
+pillango SNARC line arabic DC 0 down 3 lctrl 0.656481141574
+pillango SNARC line arabic DC 0 down 2 lctrl 0.416436009953
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.464418088901
+pillango SNARC line arabic DC 0 down 5 lctrl 0.384338534641
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.616252207838
+pillango SNARC line arabic DC 0 down 9 lctrl 0.577166262869
+pillango SNARC line arabic DC 0 down 2 lctrl 0.673119221843
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.848794069898
+pillango SNARC line arabic DC 0 down 3 lctrl 0.664948917227
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.432874259684
+pillango SNARC line arabic DC 0 down 4 lctrl 0.472821120842
+pillango SNARC line arabic DC 0 down 5 lctrl 0.520729007025
+pillango SNARC line arabic DC 0 down 9 lctrl 0.448669971986
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.464591672004
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.496516614105
+pillango SNARC line arabic DC 0 down 2 lctrl 0.448467691662
+pillango SNARC line arabic DC 0 down 4 lctrl 0.912123554794
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.704267239576
+pillango SNARC line arabic DC 0 down 7 lctrl 1.48121610362
+pillango SNARC line arabic DC 0 down 6 lctrl 0.561117175239
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.521021578548
+pillango SNARC line arabic DC 0 down 2 lctrl 0.600937348761
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.592896881513
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.64085761251
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.51268329029
+pillango SNARC line arabic DC 0 up 7 num_decimal 0.488387605466
+pillango SNARC line arabic DC 0 down 2 lctrl 0.584604788717
+pillango SNARC line arabic DC 0 down 5 lctrl 0.592505269626
+pillango SNARC line arabic DC 0 down 7 lctrl 0.520454633748
+pillango SNARC line arabic DC 0 up 8 num_decimal 0.560395545501
+pillango SNARC line arabic DC 0 down 1 lctrl 0.632361839584
+pillango SNARC line arabic DC 0 down 7 lctrl 0.441205198673
+pillango SNARC line arabic DC 0 down 1 lctrl 0.361192487908
+pillango SNARC line arabic DC 0 down 8 lctrl 0.497187148838
+pillango SNARC line arabic DC 0 up 4 num_decimal 0.512715137185
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.44095602294
+pillango SNARC line arabic DC 0 down 1 lctrl 0.432853611681
+pillango SNARC line arabic DC 0 down 9 lctrl 0.49678993749
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.504729964538
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.456643595739
+pillango SNARC line arabic DC 0 down 8 lctrl 0.624631092156
+pillango SNARC line arabic DC 0 up 5 num_decimal 0.536619560095
+pillango SNARC line arabic DC 0 down 1 lctrl 0.496461669449
+pillango SNARC line arabic DC 0 down 7 num_decimal 0.375511693943
+pillango SNARC line arabic DC 0 down 6 lctrl 0.480317741079
+pillango SNARC line arabic DC 0 down 7 lctrl 0.432061288826
+pillango SNARC line arabic DC 0 up 2 num_decimal 0.425158910773
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.39321157083
+pillango SNARC line arabic DC 0 down 1 lctrl 0.481034121331
+pillango SNARC line arabic DC 0 down 1 lctrl 0.441030565678
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.47299155427
+pillango SNARC line arabic DC 0 up 9 num_decimal 0.504912996723
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.432520444127
+pillango SNARC line arabic DC 0 up 1 num_decimal 0.464784153242
+pillango SNARC line arabic DC 0 down 5 lctrl 0.600689222891
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.504661721177
+pillango SNARC line arabic DC 0 down 3 lctrl 0.512473310722
+pillango SNARC line arabic DC 0 down 7 lctrl 0.472485503531
+pillango SNARC line arabic DC 0 up 6 num_decimal 0.560453289887
+pillango SNARC line arabic DC 0 down 2 lctrl 0.568336972414
+pillango SNARC line arabic DC 0 down 9 lctrl 0.417265079246
+pillango SNARC line arabic DC 0 down 4 lctrl 0.448987741023
+pillango SNARC line arabic DC 0 down 5 lctrl 0.385151855473
+pillango SNARC line arabic DC 0 down 6 lctrl 0.425085417926
+pillango SNARC line arabic DC 0 down 3 lctrl 0.400637847895
+{'delay': u'0', 'dateStr': u'05_18_1445', 'task': u'line', 'participant': u'pillango', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+pillango SNARC line dot CD 0 down 5 num_decimal 1.07476987116
+pillango SNARC line dot CD 0 up 25 lctrl 0.5323009805
+pillango SNARC line dot CD 0 down 15 num_decimal 0.580938195664
+pillango SNARC line dot CD 0 down 15 num_decimal 0.413686677581
+pillango SNARC line dot CD 0 down 25 num_decimal 0.482262151781
+pillango SNARC line dot CD 0 down 25 num_decimal 0.488874758041
+pillango SNARC line dot CD 0 up 35 lctrl 0.511573548312
+pillango SNARC line dot CD 0 down 15 num_decimal 0.70362225236
+pillango SNARC line dot CD 0 up 10 lctrl 0.519819795532
+pillango SNARC line dot CD 0 down 40 num_decimal 0.62207144135
+pillango SNARC line dot CD 0 up 40 lctrl 0.552410022879
+pillango SNARC line dot CD 0 down 40 num_decimal 0.55312920289
+pillango SNARC line dot CD 0 up 10 lctrl 0.586931712198
+pillango SNARC line dot CD 0 down 20 num_decimal 1.3000082942
+pillango SNARC line dot CD 0 up 30 lctrl 0.495296982845
+pillango SNARC line dot CD 0 up 10 lctrl 0.582915503182
+pillango SNARC line dot CD 0 up 10 lctrl 0.551682443707
+pillango SNARC line dot CD 0 down 45 num_decimal 0.530803476286
+pillango SNARC line dot CD 0 down 10 num_decimal 1.35999105487
+pillango SNARC line dot CD 0 up 10 lctrl 0.540909092495
+pillango SNARC line dot CD 0 down 25 num_decimal 0.390097573982
+pillango SNARC line dot CD 0 down 45 num_decimal 0.492426562269
+pillango SNARC line dot CD 0 up 40 lctrl 0.439402874123
+pillango SNARC line dot CD 0 down 20 num_decimal 0.63025224494
+pillango SNARC line dot CD 0 down 15 num_decimal 0.492818174156
+pillango SNARC line dot CD 0 up 35 lctrl 0.547001299419
+pillango SNARC line dot CD 0 down 45 num_decimal 0.507252168987
+pillango SNARC line dot CD 0 up 20 lctrl 0.567322071205
+pillango SNARC line dot CD 0 down 10 num_decimal 0.520441335015
+pillango SNARC line dot CD 0 down 10 num_decimal 0.599708268419
+pillango SNARC line dot CD 0 up 40 lctrl 0.455729484733
+pillango SNARC line dot CD 0 down 25 num_decimal 0.538939834223
+pillango SNARC line dot CD 0 down 5 num_decimal 0.523395047494
+pillango SNARC line dot CD 0 down 25 num_decimal 0.65797234638
+pillango SNARC line dot CD 0 up 15 lctrl 0.445521678455
+pillango SNARC line dot CD 0 up 35 lctrl 0.610319935338
+pillango SNARC line dot CD 0 down 45 num_decimal 0.532332127448
+pillango SNARC line dot CD 0 down 30 num_decimal 0.521074073418
+pillango SNARC line dot CD 0 up 25 lctrl 0.524834457377
+pillango SNARC line dot CD 0 down 15 num_decimal 0.588818378543
+pillango SNARC line dot CD 0 up 5 lctrl 0.646204741963
+pillango SNARC line dot CD 0 down 30 num_decimal 0.475893821742
+pillango SNARC line dot CD 0 up 25 lctrl 0.670760101522
+pillango SNARC line dot CD 0 up 20 num_decimal 0.734655131324
+pillango SNARC line dot CD 0 up 35 lctrl 1.57943859167
+pillango SNARC line dot CD 0 down 35 num_decimal 0.614128264628
+pillango SNARC line dot CD 0 down 10 num_decimal 0.507852360577
+pillango SNARC line dot CD 0 down 15 num_decimal 0.391711966833
+pillango SNARC line dot CD 0 down 25 num_decimal 0.39933387487
+pillango SNARC line dot CD 0 up 20 lctrl 0.379395615833
+pillango SNARC line dot CD 0 down 45 num_decimal 0.470409155678
+pillango SNARC line dot CD 0 down 45 num_decimal 0.438447117194
+pillango SNARC line dot CD 0 up 40 lctrl 0.418566602544
+pillango SNARC line dot CD 0 down 5 num_decimal 0.367513572564
+pillango SNARC line dot CD 0 up 30 lctrl 0.474604547228
+pillango SNARC line dot CD 0 up 35 lctrl 0.870398516709
+pillango SNARC line dot CD 0 down 30 num_decimal 1.35458828084
+pillango SNARC line dot CD 0 up 10 lctrl 0.507023991231
+pillango SNARC line dot CD 0 up 5 lctrl 0.814971262531
+pillango SNARC line dot CD 0 up 45 lctrl 0.518849340006
+pillango SNARC line dot CD 0 down 35 num_decimal 0.535181550076
+pillango SNARC line dot CD 0 up 40 lctrl 0.794831073203
+pillango SNARC line dot CD 0 down 5 num_decimal 0.487792663393
+pillango SNARC line dot CD 0 up 10 lctrl 0.587526304298
+pillango SNARC line dot CD 0 down 45 num_decimal 0.598434042447
+pillango SNARC line dot CD 0 up 20 lctrl 0.403114206827
+pillango SNARC line dot CD 0 down 15 num_decimal 0.407162262767
+pillango SNARC line dot CD 0 up 5 lctrl 0.415422508609
+pillango SNARC line dot CD 0 up 10 lctrl 0.387013674219
+pillango SNARC line dot CD 0 down 30 num_decimal 0.426082470862
+pillango SNARC line dot CD 0 up 5 lctrl 0.407091569621
+pillango SNARC line dot CD 0 up 10 lctrl 0.40303056495
+pillango SNARC line dot CD 0 down 15 num_decimal 0.326819534122
+pillango SNARC line dot CD 0 up 35 lctrl 0.398182136967
+pillango SNARC line dot CD 0 up 30 lctrl 0.483245906013
+pillango SNARC line dot CD 0 up 45 lctrl 0.390742911171
+pillango SNARC line dot CD 0 up 15 lctrl 0.303604194138
+pillango SNARC line dot CD 0 down 45 num_decimal 0.382760888227
+pillango SNARC line dot CD 0 down 40 num_decimal 0.32271233396
+pillango SNARC line dot CD 0 up 15 lctrl 0.439211092802
+pillango SNARC line dot CD 0 up 15 lctrl 0.407360343466
+pillango SNARC line dot CD 0 up 5 lctrl 0.399506058107
+pillango SNARC line dot CD 0 up 25 lctrl 0.358736427006
+pillango SNARC line dot CD 0 up 45 lctrl 0.398281527305
+pillango SNARC line dot CD 0 down 20 num_decimal 0.466924194945
+pillango SNARC line dot CD 0 up 35 lctrl 0.510430909548
+pillango SNARC line dot CD 0 up 5 lctrl 0.383190296416
+pillango SNARC line dot CD 0 up 15 lctrl 0.30290006267
+pillango SNARC line dot CD 0 down 15 num_decimal 0.486885551712
+pillango SNARC line dot CD 0 up 40 lctrl 0.441939077253
+pillango SNARC line dot CD 0 down 40 num_decimal 0.435068546067
+pillango SNARC line dot CD 0 up 15 lctrl 0.743679002859
+pillango SNARC line dot CD 0 up 10 lctrl 0.395698428765
+pillango SNARC line dot CD 0 up 10 lctrl 0.371572477394
+pillango SNARC line dot CD 0 up 35 lctrl 0.382884776162
+pillango SNARC line dot CD 0 down 40 num_decimal 0.418128095218
+pillango SNARC line dot CD 0 down 35 num_decimal 0.406621215428
+pillango SNARC line dot CD 0 down 20 num_decimal 0.395126234478
+pillango SNARC line dot CD 0 down 15 num_decimal 0.415178932337
+pillango SNARC line dot CD 0 up 35 lctrl 0.438460765843
+pillango SNARC line dot CD 0 down 45 num_decimal 0.67815243185
+pillango SNARC line dot CD 0 up 5 lctrl 0.447191365907
+pillango SNARC line dot CD 0 up 35 lctrl 0.350364891987
+pillango SNARC line dot CD 0 down 40 num_decimal 0.466175267822
+pillango SNARC line dot CD 0 up 40 lctrl 0.402077957697
+pillango SNARC line dot CD 0 down 10 num_decimal 0.539868993743
+pillango SNARC line dot CD 0 down 40 num_decimal 0.490920308919
+pillango SNARC line dot CD 0 down 30 num_decimal 0.435024800332
+pillango SNARC line dot CD 0 down 10 num_decimal 0.435678886657
+pillango SNARC line dot CD 0 down 15 num_decimal 0.342969411926
+pillango SNARC line dot CD 0 up 30 lctrl 0.482801099337
+pillango SNARC line dot CD 0 down 35 num_decimal 0.678565041686
+pillango SNARC line dot CD 0 up 15 lctrl 0.719061349373
+pillango SNARC line dot CD 0 up 30 lctrl 0.865301612881
+pillango SNARC line dot CD 0 down 20 num_decimal 1.04290372334
+pillango SNARC line dot CD 0 up 20 lctrl 0.658741221559
+pillango SNARC line dot CD 0 down 30 num_decimal 0.498521218949
+pillango SNARC line dot CD 0 down 10 num_decimal 0.538995828771
+pillango SNARC line dot CD 0 up 35 lctrl 0.407101018733
+pillango SNARC line dot CD 0 down 35 num_decimal 0.479105809034
+pillango SNARC line dot CD 0 down 25 lctrl 0.503417242347
+pillango SNARC line dot CD 0 down 40 num_decimal 0.569610848383
+pillango SNARC line dot CD 0 up 25 lctrl 0.903117531503
+pillango SNARC line dot CD 0 up 5 lctrl 0.471657134185
+pillango SNARC line dot CD 0 down 20 num_decimal 1.91517595761
+pillango SNARC line dot CD 0 down 45 num_decimal 1.2062580208
+pillango SNARC line dot CD 0 up 30 lctrl 2.4026204049
+pillango SNARC line dot CD 0 up 10 lctrl 0.41094224478
+pillango SNARC line dot CD 0 up 15 lctrl 0.630754446058
+pillango SNARC line dot CD 0 down 40 num_decimal 0.458976468653
+pillango SNARC line dot CD 0 down 25 num_decimal 0.479353234958
+pillango SNARC line dot CD 0 down 45 num_decimal 0.326749190979
+pillango SNARC line dot CD 0 up 15 lctrl 0.399444114126
+pillango SNARC line dot CD 0 up 10 lctrl 0.451362259861
+pillango SNARC line dot CD 0 down 35 num_decimal 0.38250121352
+pillango SNARC line dot CD 0 up 15 lctrl 0.423252996319
+pillango SNARC line dot CD 0 down 5 num_decimal 0.375500145048
+pillango SNARC line dot CD 0 down 15 num_decimal 0.399230984855
+pillango SNARC line dot CD 0 up 10 lctrl 0.451191826462
+pillango SNARC line dot CD 0 up 40 lctrl 0.474394217745
+pillango SNARC line dot CD 0 down 5 num_decimal 0.367282945022
+pillango SNARC line dot CD 0 up 10 num_decimal 0.490936757298
+pillango SNARC line dot CD 0 down 10 num_decimal 0.402901077585
+pillango SNARC line dot CD 0 up 20 lctrl 0.482571171684
+pillango SNARC line dot CD 0 down 40 num_decimal 0.530874519347
+pillango SNARC line dot CD 0 up 45 lctrl 0.494716389367
+pillango SNARC line dot CD 0 up 30 lctrl 0.498967075546
+pillango SNARC line dot CD 0 down 35 num_decimal 0.790956950339
+pillango SNARC line dot CD 0 up 5 lctrl 0.479681502999
+pillango SNARC line dot CD 0 down 30 num_decimal 0.442403831985
+pillango SNARC line dot CD 0 down 20 lctrl 0.331123415119
+pillango SNARC line dot CD 0 down 10 num_decimal 0.659365560772
+pillango SNARC line dot CD 0 up 40 lctrl 0.626181441243
+pillango SNARC line dot CD 0 down 5 num_decimal 0.367314091971
+pillango SNARC line dot CD 0 up 35 lctrl 0.494347875239
+pillango SNARC line dot CD 0 down 35 num_decimal 0.590215442528
+pillango SNARC line dot CD 0 down 40 num_decimal 0.474073648918
+pillango SNARC line dot CD 0 up 10 lctrl 0.490894061455
+pillango SNARC line dot CD 0 up 10 lctrl 0.371853850025
+pillango SNARC line dot CD 0 up 5 lctrl 0.391947143944
+pillango SNARC line dot CD 0 up 15 lctrl 0.359680985071
+pillango SNARC line dot CD 0 down 5 num_decimal 0.41579872201
+pillango SNARC line dot CD 0 down 20 num_decimal 0.371229860786
+pillango SNARC line dot CD 0 down 35 num_decimal 0.318303813139
+pillango SNARC line dot CD 0 up 30 lctrl 0.434834068903
+pillango SNARC line dot CD 0 down 20 num_decimal 0.371145169018
+pillango SNARC line dot CD 0 down 15 num_decimal 0.399256182398
+pillango SNARC line dot CD 0 down 25 num_decimal 0.342751733115
+pillango SNARC line dot CD 0 up 25 lctrl 0.446792054776
+pillango SNARC line dot CD 0 down 5 num_decimal 0.447329252493
+pillango SNARC line dot CD 0 up 25 lctrl 0.630685852724
+pillango SNARC line dot CD 0 down 10 num_decimal 0.531052302045
+pillango SNARC line dot CD 0 down 40 num_decimal 0.47416603993
+pillango SNARC line dot CD 0 up 25 lctrl 0.535389779805
+pillango SNARC line dot CD 0 up 30 lctrl 0.499123160378
+pillango SNARC line dot CD 0 down 30 num_decimal 0.458775588195
+pillango SNARC line dot CD 0 down 35 num_decimal 0.470962101826
+pillango SNARC line dot CD 0 down 20 num_decimal 0.475255133904
+pillango SNARC line dot CD 0 down 35 num_decimal 0.422665403516
+pillango SNARC line dot CD 0 up 20 lctrl 0.483210209495
+pillango SNARC line dot CD 0 down 20 num_decimal 0.49883653826
+pillango SNARC line dot CD 0 down 25 num_decimal 0.366813640692
+pillango SNARC line dot CD 0 up 10 lctrl 0.443248649768
+pillango SNARC line dot CD 0 up 45 lctrl 0.430122827529
+pillango SNARC line dot CD 0 down 5 num_decimal 0.463242903323
+pillango SNARC line dot CD 0 down 20 num_decimal 0.386839041224
+pillango SNARC line dot CD 0 down 30 num_decimal 0.394364358654
+pillango SNARC line dot CD 0 down 15 num_decimal 0.382774186932
+pillango SNARC line dot CD 0 down 20 num_decimal 0.459533264453
+pillango SNARC line dot CD 0 down 20 num_decimal 0.363615302049
+pillango SNARC line dot CD 0 down 20 num_decimal 0.387554371584
+pillango SNARC line dot CD 0 down 45 num_decimal 0.382652748754
+pillango SNARC line dot CD 0 down 15 num_decimal 0.383433872717
+pillango SNARC line dot CD 0 down 45 num_decimal 0.398445661325
+pillango SNARC line dot CD 0 up 25 lctrl 0.35107042329
+pillango SNARC line dot CD 0 up 25 lctrl 0.375016842125
+pillango SNARC line dot CD 0 down 10 num_decimal 0.467381950381
+pillango SNARC line dot CD 0 down 5 num_decimal 0.351381892979
+pillango SNARC line dot CD 0 down 5 num_decimal 0.359386313736
+pillango SNARC line dot CD 0 up 30 lctrl 0.402668000257
+pillango SNARC line dot CD 0 down 40 num_decimal 0.482143163361
+pillango SNARC line dot CD 0 up 35 lctrl 0.429499188234
+pillango SNARC line dot CD 0 up 40 lctrl 0.506021338835
+pillango SNARC line dot CD 0 up 5 lctrl 0.376033843117
+pillango SNARC line dot CD 0 down 20 num_decimal 0.547543046676
+pillango SNARC line dot CD 0 down 45 num_decimal 0.510740629426
+pillango SNARC line dot CD 0 up 35 lctrl 0.534588357841
+pillango SNARC line dot CD 0 down 15 num_decimal 0.543385451427
+pillango SNARC line dot CD 0 up 35 num_decimal 0.462679108197
+pillango SNARC line dot CD 0 up 10 lctrl 0.498488322162
+pillango SNARC line dot CD 0 down 20 num_decimal 0.41921053984
+pillango SNARC line dot CD 0 down 40 num_decimal 0.514139148552
+pillango SNARC line dot CD 0 up 5 lctrl 0.503367897152
+pillango SNARC line dot CD 0 up 15 lctrl 0.351068673452
+pillango SNARC line dot CD 0 down 40 num_decimal 0.490170681878
+pillango SNARC line dot CD 0 down 30 lctrl 0.434471154236
+pillango SNARC line dot CD 0 up 5 lctrl 0.551146295911
+pillango SNARC line dot CD 0 down 25 num_decimal 0.430455295194
+pillango SNARC line dot CD 0 up 15 lctrl 0.638683974132
+pillango SNARC line dot CD 0 down 35 num_decimal 0.439037859673
+pillango SNARC line dot CD 0 up 45 lctrl 0.326834232692
+pillango SNARC line dot CD 0 up 35 lctrl 0.390978088282
+pillango SNARC line dot CD 0 down 20 num_decimal 0.411347155343
+pillango SNARC line dot CD 0 down 25 num_decimal 0.383207094797
+pillango SNARC line dot CD 0 up 15 num_decimal 0.383381027874
+pillango SNARC line dot CD 0 down 35 num_decimal 0.549815375474
+pillango SNARC line dot CD 0 up 15 lctrl 0.431150677468
+pillango SNARC line dot CD 0 down 30 num_decimal 0.482723406894
+pillango SNARC line dot CD 0 down 35 num_decimal 0.499907433987
+pillango SNARC line dot CD 0 up 30 lctrl 0.442525970109
+pillango SNARC line dot CD 0 down 25 num_decimal 0.646636599937
+pillango SNARC line dot CD 0 down 20 num_decimal 0.434763025813
+pillango SNARC line dot CD 0 down 45 num_decimal 0.437976063025
+pillango SNARC line dot CD 0 down 45 num_decimal 0.477746191405
+pillango SNARC line dot CD 0 up 10 lctrl 0.547766324948
+pillango SNARC line dot CD 0 down 45 num_decimal 0.662839672557
+pillango SNARC line dot CD 0 down 25 num_decimal 0.647256039636
+pillango SNARC line dot CD 0 up 20 lctrl 0.483183262113
+pillango SNARC line dot CD 0 up 20 lctrl 0.419172393566
+pillango SNARC line dot CD 0 down 45 num_decimal 0.510307371587
+pillango SNARC line dot CD 0 up 35 lctrl 0.486562533129
+pillango SNARC line dot CD 0 up 25 lctrl 0.494745436532
+pillango SNARC line dot CD 0 down 30 num_decimal 0.474629044853
+pillango SNARC line dot CD 0 down 25 num_decimal 0.470788168779
+pillango SNARC line dot CD 0 down 45 num_decimal 0.518001022603
+pillango SNARC line dot CD 0 down 15 num_decimal 0.446894594817
+pillango SNARC line dot CD 0 down 10 num_decimal 0.354939996585
+pillango SNARC line dot CD 0 up 25 lctrl 0.479363034014
+pillango SNARC line dot CD 0 up 10 lctrl 1.04380173591
+pillango SNARC line dot CD 0 down 25 num_decimal 0.703278585832
+pillango SNARC line dot CD 0 up 30 lctrl 0.578977336554
+pillango SNARC line dot CD 0 up 30 lctrl 0.650915283419
+pillango SNARC line dot CD 0 down 30 num_decimal 0.466889898293
+pillango SNARC line dot CD 0 up 20 num_decimal 0.547194130661
+pillango SNARC line dot CD 0 down 15 num_decimal 0.335167621437
+pillango SNARC line dot CD 0 down 10 num_decimal 0.387306595687
+pillango SNARC line dot CD 0 down 20 num_decimal 0.586970208446
+pillango SNARC line dot CD 0 up 25 lctrl 0.462757850531
+pillango SNARC line dot CD 0 up 40 lctrl 0.450294863782
+pillango SNARC line dot CD 0 up 35 lctrl 0.342152241472
+pillango SNARC line dot CD 0 up 45 lctrl 0.373951895774
+pillango SNARC line dot CD 0 up 40 lctrl 0.366040215973
+pillango SNARC line dot CD 0 down 10 num_decimal 0.790250719088
+pillango SNARC line dot CD 0 up 45 lctrl 0.565741275088
+pillango SNARC line dot CD 0 down 15 num_decimal 0.911664749437
+pillango SNARC line dot CD 0 up 20 lctrl 0.970111859613
+pillango SNARC line dot CD 0 up 35 lctrl 0.395273570117
+pillango SNARC line dot CD 0 up 30 lctrl 0.321191382012
+pillango SNARC line dot CD 0 down 10 num_decimal 0.522394144937
+pillango SNARC line dot CD 0 up 5 lctrl 0.58337710824
+pillango SNARC line dot CD 0 up 20 lctrl 0.490733777086
+pillango SNARC line dot CD 0 down 40 num_decimal 0.546378710016
+pillango SNARC line dot CD 0 down 30 num_decimal 0.810405257042
+pillango SNARC line dot CD 0 down 25 num_decimal 0.414495798846
+pillango SNARC line dot CD 0 up 30 lctrl 0.626207338733
+pillango SNARC line dot CD 0 down 40 num_decimal 0.555063464592
+pillango SNARC line dot CD 0 down 40 num_decimal 0.450959099107
+pillango SNARC line dot CD 0 down 15 num_decimal 0.455588098499
+pillango SNARC line dot CD 0 up 25 lctrl 0.527256221598
+pillango SNARC line dot CD 0 down 5 num_decimal 0.407699460455
+pillango SNARC line dot CD 0 down 30 num_decimal 0.418986561679
+pillango SNARC line dot CD 0 down 20 num_decimal 0.531153792166
+pillango SNARC line dot CD 0 down 30 num_decimal 0.474847073638
+pillango SNARC line dot CD 0 up 45 lctrl 0.670354490983
+pillango SNARC line dot CD 0 up 45 lctrl 0.526118132402
+pillango SNARC line dot CD 0 down 40 num_decimal 0.778365176142
+pillango SNARC line dot CD 0 down 40 lctrl 0.410216415417
+pillango SNARC line dot CD 0 up 30 lctrl 0.570307980524
+pillango SNARC line dot CD 0 up 25 lctrl 0.430444446218
+pillango SNARC line dot CD 0 up 25 lctrl 0.407495430321
+pillango SNARC line dot CD 0 down 30 num_decimal 0.483202860196
+pillango SNARC line dot CD 0 down 45 num_decimal 0.542627775169
+pillango SNARC line dot CD 0 down 35 num_decimal 0.814854373923
+pillango SNARC line dot CD 0 up 20 lctrl 0.555218849448
+pillango SNARC line dot CD 0 down 15 num_decimal 0.511359719123
+pillango SNARC line dot CD 0 up 45 lctrl 0.518447929091
+pillango SNARC line dot CD 0 down 45 num_decimal 0.438326378906
+pillango SNARC line dot CD 0 down 30 num_decimal 0.650780896482
+pillango SNARC line dot CD 0 up 45 lctrl 0.622051843238
+pillango SNARC line dot CD 0 up 30 lctrl 0.498550266144
+pillango SNARC line dot CD 0 up 5 lctrl 0.623226678901
+pillango SNARC line dot CD 0 down 40 num_decimal 0.609692796395
+pillango SNARC line dot CD 0 down 10 num_decimal 0.658775518212
+pillango SNARC line dot CD 0 up 45 lctrl 0.462630812894
+pillango SNARC line dot CD 0 down 25 num_decimal 0.495340028661
+pillango SNARC line dot CD 0 down 35 num_decimal 0.510943259666
+pillango SNARC line dot CD 0 up 40 lctrl 0.714007141389
+pillango SNARC line dot CD 0 down 5 num_decimal 0.703661098611
+pillango SNARC line dot CD 0 up 45 lctrl 0.846259616636
+pillango SNARC line dot CD 0 down 30 num_decimal 0.602751572151
+pillango SNARC line dot CD 0 up 30 lctrl 0.482748604409
+pillango SNARC line dot CD 0 down 35 num_decimal 0.63039048147
+pillango SNARC line dot CD 0 down 45 num_decimal 0.494110948319
+pillango SNARC line dot CD 0 up 10 lctrl 0.450911153806
+pillango SNARC line dot CD 0 up 40 lctrl 0.426093319809
+pillango SNARC line dot CD 0 up 35 lctrl 0.414259571844
+pillango SNARC line dot CD 0 down 40 num_decimal 0.410958343215
+pillango SNARC line dot CD 0 down 5 num_decimal 0.559955988283
+pillango SNARC line dot CD 0 up 5 lctrl 0.623847518436
+pillango SNARC line dot CD 0 up 45 lctrl 0.47057153986
+pillango SNARC line dot CD 0 up 25 lctrl 0.503094923712
+pillango SNARC line dot CD 0 up 40 lctrl 0.418690490478
+pillango SNARC line dot CD 0 down 10 num_decimal 0.579449790559
+pillango SNARC line dot CD 0 up 25 lctrl 0.455020103807
+pillango SNARC line dot CD 0 up 5 lctrl 0.383404125605
+pillango SNARC line dot CD 0 up 5 lctrl 0.487353806093
+pillango SNARC line dot CD 0 up 40 lctrl 0.346180349356
+pillango SNARC line dot CD 0 down 25 num_decimal 0.334766910441
+pillango SNARC line dot CD 0 up 15 lctrl 0.566930109344
+pillango SNARC line dot CD 0 up 30 lctrl 0.375980998244
+pillango SNARC line dot CD 0 up 30 lctrl 0.419206340244
+pillango SNARC line dot CD 0 up 20 lctrl 0.419495062146
+pillango SNARC line dot CD 0 down 5 num_decimal 0.431955249165
+pillango SNARC line dot CD 0 down 35 lctrl 0.374999693769
+pillango SNARC line dot CD 0 up 25 lctrl 0.533947220247
+pillango SNARC line dot CD 0 up 20 lctrl 0.387342292233
+pillango SNARC line dot CD 0 down 5 num_decimal 0.487619080261
+pillango SNARC line dot CD 0 up 15 lctrl 0.447346050874
+pillango SNARC line dot CD 0 down 45 num_decimal 0.414295618335
+pillango SNARC line dot CD 0 down 45 num_decimal 0.414136733772
+pillango SNARC line dot CD 0 up 15 lctrl 0.487114429387
+pillango SNARC line dot CD 0 up 5 lctrl 0.471271471732
+pillango SNARC line dot CD 0 up 15 lctrl 0.494901171362
+pillango SNARC line dot CD 0 down 45 num_decimal 0.483560875349
+pillango SNARC line dot CD 0 up 40 lctrl 0.522084425087
+pillango SNARC line dot CD 0 down 5 num_decimal 0.472025648283
+pillango SNARC line dot CD 0 down 35 num_decimal 0.463214556046
+pillango SNARC line dot CD 0 down 25 num_decimal 0.319442602282
+pillango SNARC line dot CD 0 up 5 lctrl 0.47980154134
+pillango SNARC line dot CD 0 down 20 num_decimal 0.419366274698
+pillango SNARC line dot CD 0 down 30 num_decimal 0.458999566414
+pillango SNARC line dot CD 0 down 5 num_decimal 0.367420481634
+pillango SNARC line dot CD 0 down 40 num_decimal 0.322520552611
+pillango SNARC line dot CD 0 down 20 num_decimal 0.523110875161
+pillango SNARC line dot CD 0 up 35 lctrl 0.846490594151
+pillango SNARC line dot CD 0 down 20 num_decimal 0.482861643424
+pillango SNARC line dot CD 0 down 20 num_decimal 0.706822690787
+pillango SNARC line dot CD 0 up 10 lctrl 0.427066575066
+pillango SNARC line dot CD 0 up 5 lctrl 0.415119788086
+pillango SNARC line dot CD 0 down 25 num_decimal 0.461686254857
+{'delay': u'0', 'dateStr': u'05_18_1454', 'task': u'line', 'participant': u'pillango', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+pillango SNARC line arabic CD 0 up 5 lctrl 0.819161404652
+pillango SNARC line arabic CD 0 up 5 lctrl 0.460322787578
+pillango SNARC line arabic CD 0 up 2 lctrl 0.422664353624
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.987216094509
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.509389060986
+pillango SNARC line arabic CD 0 up 1 lctrl 0.569090449048
+pillango SNARC line arabic CD 0 up 7 lctrl 0.486156222672
+pillango SNARC line arabic CD 0 up 1 lctrl 0.479939077923
+pillango SNARC line arabic CD 0 up 4 lctrl 0.434871515259
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.467192268814
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.520936536836
+pillango SNARC line arabic CD 0 up 6 lctrl 0.571263387508
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.496833683253
+pillango SNARC line arabic CD 0 up 6 lctrl 0.735493649699
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.604299821396
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.45821004326
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.507159428031
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.481888038223
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.448010986118
+pillango SNARC line arabic CD 0 up 1 lctrl 0.573466772999
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.789861906931
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.643922264164
+pillango SNARC line arabic CD 0 up 2 lctrl 0.510224429658
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.421147251298
+pillango SNARC line arabic CD 0 up 4 lctrl 0.577879143471
+pillango SNARC line arabic CD 0 up 4 lctrl 0.450683675939
+pillango SNARC line arabic CD 0 up 1 lctrl 0.464224207768
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.47762860285
+pillango SNARC line arabic CD 0 up 2 lctrl 0.603803569713
+pillango SNARC line arabic CD 0 up 7 lctrl 0.549095145601
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.621173078805
+pillango SNARC line arabic CD 0 up 1 lctrl 1.85255760353
+pillango SNARC line arabic CD 0 down 9 num_decimal 1.02944088393
+pillango SNARC line arabic CD 0 up 5 lctrl 0.916643014789
+pillango SNARC line arabic CD 0 up 2 lctrl 0.485862951231
+pillango SNARC line arabic CD 0 up 9 lctrl 0.412240618374
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.870714185963
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.569030954852
+pillango SNARC line arabic CD 0 up 3 lctrl 0.537419232249
+pillango SNARC line arabic CD 0 up 8 num_decimal 1.44908398166
+pillango SNARC line arabic CD 0 up 8 lctrl 1.62918274905
+pillango SNARC line arabic CD 0 up 1 lctrl 0.35307187846
+pillango SNARC line arabic CD 0 up 5 lctrl 0.393049536622
+pillango SNARC line arabic CD 0 up 9 lctrl 0.456960314914
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.472922261019
+pillango SNARC line arabic CD 0 up 7 lctrl 0.552450268966
+pillango SNARC line arabic CD 0 up 7 lctrl 0.504720515455
+pillango SNARC line arabic CD 0 up 6 lctrl 0.352712113468
+pillango SNARC line arabic CD 0 up 8 lctrl 0.368579918722
+pillango SNARC line arabic CD 0 up 1 lctrl 0.456395819841
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.408504382096
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.416454558144
+pillango SNARC line arabic CD 0 up 3 lctrl 0.424366587918
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.400390771945
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.455949963274
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.457271784602
+pillango SNARC line arabic CD 0 up 6 lctrl 0.401163146773
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.552955619758
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.472936959588
+pillango SNARC line arabic CD 0 up 7 lctrl 0.50492559548
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.448856153875
+pillango SNARC line arabic CD 0 up 4 lctrl 0.504705466912
+pillango SNARC line arabic CD 0 up 5 lctrl 0.488589535817
+pillango SNARC line arabic CD 0 up 9 lctrl 0.416307922424
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.448556583025
+pillango SNARC line arabic CD 0 up 5 lctrl 0.640492598031
+pillango SNARC line arabic CD 0 up 1 lctrl 0.488487345749
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.496245390503
+pillango SNARC line arabic CD 0 up 4 lctrl 0.488294514536
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.400301880611
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.45721439019
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.4330775899
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.38473119642
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.472947808536
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.296905846219
+pillango SNARC line arabic CD 0 up 3 lctrl 0.368818245537
+pillango SNARC line arabic CD 0 up 4 lctrl 0.38473399615
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.440698448016
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.856657454395
+pillango SNARC line arabic CD 0 up 9 lctrl 0.440552162268
+pillango SNARC line arabic CD 0 up 3 lctrl 0.472446307336
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.488145079085
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.560330451815
+pillango SNARC line arabic CD 0 up 8 lctrl 0.672305201093
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.46523665922
+pillango SNARC line arabic CD 0 up 5 lctrl 0.769160372234
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.433053792221
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.384967773367
+pillango SNARC line arabic CD 0 up 6 lctrl 0.496922924562
+pillango SNARC line arabic CD 0 up 9 lctrl 0.448772861972
+pillango SNARC line arabic CD 0 up 5 lctrl 0.456470712583
+pillango SNARC line arabic CD 0 up 4 lctrl 0.424712004286
+pillango SNARC line arabic CD 0 up 6 lctrl 0.584633835882
+pillango SNARC line arabic CD 0 up 2 lctrl 0.496548810974
+pillango SNARC line arabic CD 0 up 3 lctrl 0.512418016093
+pillango SNARC line arabic CD 0 up 5 lctrl 0.45643816574
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.512393168523
+pillango SNARC line arabic CD 0 up 7 lctrl 0.560268157889
+pillango SNARC line arabic CD 0 up 9 lctrl 2.39221101825
+pillango SNARC line arabic CD 0 up 1 lctrl 0.984778231854
+pillango SNARC line arabic CD 0 up 8 lctrl 0.408964587317
+pillango SNARC line arabic CD 0 up 5 lctrl 0.39285950514
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.504825855198
+pillango SNARC line arabic CD 0 up 3 lctrl 0.456759784429
+pillango SNARC line arabic CD 0 up 5 lctrl 0.51262344612
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.480619411712
+pillango SNARC line arabic CD 0 up 8 lctrl 0.544568336278
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.624499504978
+pillango SNARC line arabic CD 0 up 5 lctrl 0.432066888286
+pillango SNARC line arabic CD 0 up 4 lctrl 0.528327817301
+pillango SNARC line arabic CD 0 up 8 lctrl 0.488221021689
+pillango SNARC line arabic CD 0 up 7 lctrl 0.625222534582
+pillango SNARC line arabic CD 0 up 1 lctrl 0.728718309256
+pillango SNARC line arabic CD 0 up 3 lctrl 0.745026721648
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.561019184795
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.48888210734
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.425058820518
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.464439086849
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.448709518125
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.432681428472
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.360580397508
+pillango SNARC line arabic CD 0 up 9 lctrl 0.496448720718
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.384515267448
+pillango SNARC line arabic CD 0 up 3 lctrl 0.384317186719
+pillango SNARC line arabic CD 0 up 9 lctrl 0.456186190277
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.481347340829
+pillango SNARC line arabic CD 0 up 6 lctrl 0.536739598407
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.35318526742
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.481074717361
+pillango SNARC line arabic CD 0 up 3 lctrl 0.536980374949
+pillango SNARC line arabic CD 0 up 6 lctrl 0.488864259038
+pillango SNARC line arabic CD 0 up 1 lctrl 0.480855288741
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.440781389945
+pillango SNARC line arabic CD 0 up 2 lctrl 0.528700530995
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.408648918004
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.52030729808
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.504540283
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.656441945379
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.472362665489
+pillango SNARC line arabic CD 0 up 3 lctrl 0.673290705163
+pillango SNARC line arabic CD 0 up 4 lctrl 0.553220893955
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.4971052568
+pillango SNARC line arabic CD 0 up 6 lctrl 0.889045401447
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.481004724192
+pillango SNARC line arabic CD 0 up 1 lctrl 0.495878626214
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.344856778189
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.504805557168
+pillango SNARC line arabic CD 0 up 6 lctrl 0.504693918047
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.392669823603
+pillango SNARC line arabic CD 0 up 6 lctrl 0.600585982931
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.3764849492
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.456446564931
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.968436922674
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.540782754775
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.585250125907
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.393174474477
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.52906974504
+pillango SNARC line arabic CD 0 up 1 lctrl 0.74505366903
+pillango SNARC line arabic CD 0 up 4 lctrl 0.488903105288
+pillango SNARC line arabic CD 0 up 4 lctrl 0.384849834867
+pillango SNARC line arabic CD 0 up 8 lctrl 0.384605558647
+pillango SNARC line arabic CD 0 up 1 lctrl 0.552745990164
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.424548570183
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.456611048925
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.544511291839
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.464405490144
+pillango SNARC line arabic CD 0 up 1 lctrl 0.552349478763
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.456369222462
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.528062893078
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.457153146126
+pillango SNARC line arabic CD 0 up 9 lctrl 0.561152521783
+pillango SNARC line arabic CD 0 up 5 lctrl 0.505068731552
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.425033622974
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.384945375583
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.384800839645
+pillango SNARC line arabic CD 0 up 7 lctrl 0.424763449293
+pillango SNARC line arabic CD 0 up 2 lctrl 0.456718488451
+pillango SNARC line arabic CD 0 up 2 lctrl 0.471963004384
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.432649581548
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.960548340634
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.440454521769
+pillango SNARC line arabic CD 0 up 4 lctrl 0.464374343166
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.392365003267
+pillango SNARC line arabic CD 0 up 8 lctrl 0.545218922925
+pillango SNARC line arabic CD 0 up 5 lctrl 0.576875791157
+pillango SNARC line arabic CD 0 up 2 lctrl 0.385146256012
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.680716982199
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.4490262373
+pillango SNARC line arabic CD 0 up 1 lctrl 0.520877042611
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.41679612489
+pillango SNARC line arabic CD 0 up 9 lctrl 0.520730756863
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.400696992147
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.984613047913
+pillango SNARC line arabic CD 0 up 4 lctrl 0.448572331487
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.488441850175
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.696109533717
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.600394901558
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.488288565102
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.473298824363
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.449131577043
+pillango SNARC line arabic CD 0 up 1 lctrl 0.449039885978
+pillango SNARC line arabic CD 0 up 9 lctrl 0.496933073562
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.440934674989
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.504883599584
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.392415748327
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.384745894989
+pillango SNARC line arabic CD 0 up 3 lctrl 0.840625165147
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.424567468348
+pillango SNARC line arabic CD 0 up 8 lctrl 0.368430133327
+pillango SNARC line arabic CD 0 up 6 lctrl 0.592475522513
+pillango SNARC line arabic CD 0 up 8 lctrl 0.512337873923
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.473339420423
+pillango SNARC line arabic CD 0 up 6 lctrl 0.593245097582
+pillango SNARC line arabic CD 0 up 7 lctrl 0.568862621207
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.425103616173
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.425037122623
+pillango SNARC line arabic CD 0 up 3 lctrl 0.400940918422
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.392431146814
+pillango SNARC line arabic CD 0 up 8 lctrl 0.544731770351
+pillango SNARC line arabic CD 0 up 3 num_decimal 0.408770706155
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.43266917966
+pillango SNARC line arabic CD 0 up 6 lctrl 0.440599407651
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.592308588763
+pillango SNARC line arabic CD 0 up 8 lctrl 0.568437762588
+pillango SNARC line arabic CD 0 up 9 lctrl 0.552389024931
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.648376630532
+pillango SNARC line arabic CD 0 up 9 lctrl 0.568172138417
+pillango SNARC line arabic CD 0 up 7 lctrl 0.505206618138
+pillango SNARC line arabic CD 0 up 7 lctrl 0.57715156427
+pillango SNARC line arabic CD 0 up 3 lctrl 0.521027178009
+pillango SNARC line arabic CD 0 up 6 lctrl 0.49701776533
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.504609926225
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.528814269928
+pillango SNARC line arabic CD 0 up 9 lctrl 0.432799716946
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.624705284921
+pillango SNARC line arabic CD 0 up 3 lctrl 0.400602501351
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.520581321412
+pillango SNARC line arabic CD 0 up 6 lctrl 0.576456181996
+pillango SNARC line arabic CD 0 up 5 lctrl 0.368428383488
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.464392541384
+pillango SNARC line arabic CD 0 up 1 lctrl 0.399982011761
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.537244949199
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.473171786725
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.417131042312
+pillango SNARC line arabic CD 0 up 3 lctrl 0.457033107814
+pillango SNARC line arabic CD 0 up 6 lctrl 0.368940383662
+pillango SNARC line arabic CD 0 up 2 lctrl 0.328883633192
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.408900543523
+pillango SNARC line arabic CD 0 up 7 lctrl 0.384590860078
+pillango SNARC line arabic CD 0 up 7 lctrl 0.408382244001
+pillango SNARC line arabic CD 0 up 4 num_decimal 0.440645953116
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.464631218143
+pillango SNARC line arabic CD 0 up 5 lctrl 0.392510239122
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.376436653896
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.512384069414
+pillango SNARC line arabic CD 0 up 6 lctrl 0.520299248863
+pillango SNARC line arabic CD 0 up 6 lctrl 0.385207500047
+pillango SNARC line arabic CD 0 down 6 lctrl 0.337208622746
+pillango SNARC line arabic CD 0 up 8 lctrl 0.327174399572
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.385116158955
+pillango SNARC line arabic CD 0 up 4 lctrl 0.417036901461
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.464967185428
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.456905020284
+pillango SNARC line arabic CD 0 up 3 lctrl 0.496743741998
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.456697140529
+pillango SNARC line arabic CD 0 up 5 lctrl 0.328578112909
+pillango SNARC line arabic CD 0 up 3 lctrl 0.536615010526
+pillango SNARC line arabic CD 0 up 1 lctrl 0.472221629228
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.488496444887
+pillango SNARC line arabic CD 0 up 8 lctrl 0.360413813731
+pillango SNARC line arabic CD 0 up 1 lctrl 0.432307314884
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.457296632172
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.537293594447
+pillango SNARC line arabic CD 0 up 3 lctrl 0.401195343613
+pillango SNARC line arabic CD 0 up 8 lctrl 0.449078382226
+pillango SNARC line arabic CD 0 up 4 lctrl 0.416977057292
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.472644038091
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.480888185528
+pillango SNARC line arabic CD 0 up 1 lctrl 0.456732837076
+pillango SNARC line arabic CD 0 up 7 lctrl 0.48875296989
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.456692940934
+pillango SNARC line arabic CD 0 up 9 lctrl 0.47259329306
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.432436452305
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.424520572909
+pillango SNARC line arabic CD 0 up 1 lctrl 0.448424295901
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.392048634065
+pillango SNARC line arabic CD 0 up 5 lctrl 0.632226402755
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.497279539821
+pillango SNARC line arabic CD 0 up 5 lctrl 0.473180885834
+pillango SNARC line arabic CD 0 down 3 num_decimal 0.529043497634
+pillango SNARC line arabic CD 0 up 2 lctrl 0.473012902192
+pillango SNARC line arabic CD 0 up 3 lctrl 0.456917269126
+pillango SNARC line arabic CD 0 up 3 lctrl 0.440877630579
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.480804193707
+pillango SNARC line arabic CD 0 up 9 lctrl 0.792350164731
+pillango SNARC line arabic CD 0 up 7 lctrl 0.624619893264
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.656617628265
+pillango SNARC line arabic CD 0 up 2 lctrl 0.432522893912
+pillango SNARC line arabic CD 0 down 9 lctrl 0.688438280515
+pillango SNARC line arabic CD 0 up 5 lctrl 0.440338333079
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.568336272467
+pillango SNARC line arabic CD 0 up 9 lctrl 0.945227532095
+pillango SNARC line arabic CD 0 up 8 lctrl 0.497124854883
+pillango SNARC line arabic CD 0 up 2 lctrl 0.55277048779
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.985009209369
+pillango SNARC line arabic CD 0 down 9 num_decimal 1.28092115233
+pillango SNARC line arabic CD 0 up 5 lctrl 0.640756472363
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.736722730042
+pillango SNARC line arabic CD 0 up 5 lctrl 0.544628530421
+pillango SNARC line arabic CD 0 up 8 lctrl 0.472509651212
+pillango SNARC line arabic CD 0 up 1 lctrl 0.520505728782
+pillango SNARC line arabic CD 0 up 8 lctrl 0.440420575062
+pillango SNARC line arabic CD 0 up 2 lctrl 0.352042278682
+pillango SNARC line arabic CD 0 up 3 lctrl 0.400199340598
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.481183906726
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.457214740134
+pillango SNARC line arabic CD 0 up 8 lctrl 0.385046515701
+pillango SNARC line arabic CD 0 up 9 lctrl 0.43299009843
+pillango SNARC line arabic CD 0 down 8 num_decimal 0.536938379053
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.46486604528
+pillango SNARC line arabic CD 0 up 4 lctrl 0.416836021002
+pillango SNARC line arabic CD 0 up 8 lctrl 0.35243564038
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.464663065039
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.424620663194
+pillango SNARC line arabic CD 0 up 4 lctrl 0.440539913427
+pillango SNARC line arabic CD 0 up 5 lctrl 0.4244736775
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.488427151606
+pillango SNARC line arabic CD 0 down 1 num_decimal 0.552358927875
+pillango SNARC line arabic CD 0 down 7 lctrl 0.376278819254
+pillango SNARC line arabic CD 0 up 1 lctrl 0.416235129494
+pillango SNARC line arabic CD 0 up 4 lctrl 0.480890985258
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.465141818451
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.49709230804
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.417093595926
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.55291257397
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.464767704863
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.42472530299
+pillango SNARC line arabic CD 0 up 6 lctrl 0.448630775791
+pillango SNARC line arabic CD 0 up 8 lctrl 0.456563453539
+pillango SNARC line arabic CD 0 up 7 lctrl 0.472240527393
+pillango SNARC line arabic CD 0 down 6 num_decimal 0.44850618791
+pillango SNARC line arabic CD 0 up 9 lctrl 0.504369849601
+pillango SNARC line arabic CD 0 down 7 num_decimal 0.456290130154
+pillango SNARC line arabic CD 0 up 5 lctrl 0.504289707402
+pillango SNARC line arabic CD 0 up 4 lctrl 0.45724308741
+pillango SNARC line arabic CD 0 up 8 lctrl 0.40922846162
+pillango SNARC line arabic CD 0 up 1 lctrl 0.409138170391
+pillango SNARC line arabic CD 0 up 5 lctrl 0.521034527308
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.504707566724
+pillango SNARC line arabic CD 0 up 3 lctrl 1.57689538921
+pillango SNARC line arabic CD 0 down 5 num_decimal 0.416771627264
+pillango SNARC line arabic CD 0 down 9 num_decimal 0.456765033916
+pillango SNARC line arabic CD 0 down 2 num_decimal 0.488638181065
+pillango SNARC line arabic CD 0 up 6 lctrl 0.400569954538
+pillango SNARC line arabic CD 0 down 2 num_decimal 1.97647249041
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.512444963504
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.400288231933
+pillango SNARC line arabic CD 0 up 6 lctrl 0.495902773866
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.353190866881
+pillango SNARC line arabic CD 0 down 4 num_decimal 0.505111077422
+{'participant': u'pillango', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1503', 'autopilot': False, 'exp_id': u'SNARC'}
+pillango SNARC_only DC 6 num_decimal 0.774849068461
+pillango SNARC_only DC 3 lctrl 0.785360995098
+pillango SNARC_only DC 5 lctrl 1.27141047819
+pillango SNARC_only DC 8 num_decimal 0.488004742743
+pillango SNARC_only DC 4 num_decimal 0.511977059039
+pillango SNARC_only DC 1 lctrl 0.479770744307
+pillango SNARC_only DC 9 lctrl 1.06829935106
+pillango SNARC_only DC 6 num_decimal 0.573673602892
+pillango SNARC_only DC 4 num_decimal 0.66222128275
+pillango SNARC_only DC 7 lctrl 0.542162320489
+pillango SNARC_only DC 6 num_decimal 0.481051969604
+pillango SNARC_only DC 1 lctrl 0.806969291531
+pillango SNARC_only DC 3 lctrl 0.629076709389
+pillango SNARC_only DC 2 num_decimal 0.82849254625
+pillango SNARC_only DC 5 lctrl 0.582524591213
+pillango SNARC_only DC 3 num_decimal 0.487352756201
+pillango SNARC_only DC 4 num_decimal 0.597728511115
+pillango SNARC_only DC 9 lctrl 0.912636604829
+pillango SNARC_only DC 6 num_decimal 0.457552107284
+pillango SNARC_only DC 1 lctrl 0.665465116967
+pillango SNARC_only DC 2 num_decimal 0.825101376395
+pillango SNARC_only DC 5 lctrl 0.561323655158
+pillango SNARC_only DC 1 lctrl 0.561192417925
+pillango SNARC_only DC 9 lctrl 0.633141913626
+pillango SNARC_only DC 5 lctrl 0.641108888056
+pillango SNARC_only DC 7 lctrl 0.545014892792
+pillango SNARC_only DC 2 num_decimal 0.728976234182
+pillango SNARC_only DC 8 num_decimal 0.480886085745
+pillango SNARC_only DC 8 num_decimal 0.440753042698
+pillango SNARC_only DC 6 num_decimal 0.432485797501
+pillango SNARC_only DC 8 num_decimal 0.39272021869
+pillango SNARC_only DC 4 num_decimal 0.584576791443
+pillango SNARC_only DC 2 num_decimal 0.465617772104
+pillango SNARC_only DC 7 lctrl 0.569504808693
+pillango SNARC_only DC 7 lctrl 0.377331166819
+pillango SNARC_only DC 2 num_decimal 0.649258544669
+pillango SNARC_only DC 8 num_decimal 0.593268545286
+pillango SNARC_only DC 1 lctrl 0.465193613403
+pillango SNARC_only DC 5 lctrl 0.647046410042
+pillango SNARC_only DC 3 lctrl 0.561056631152
+pillango SNARC_only DC 6 num_decimal 0.657020089071
+pillango SNARC_only DC 9 lctrl 0.688915984036
+pillango SNARC_only DC 4 num_decimal 0.552322881384
+pillango SNARC_only DC 7 lctrl 0.536723499972
+pillango SNARC_only DC 4 num_decimal 0.496632802795
+pillango SNARC_only DC 7 lctrl 0.513615949487
+pillango SNARC_only DC 8 lctrl 0.409633722156
+pillango SNARC_only DC 2 num_decimal 0.472219879419
+pillango SNARC_only DC 1 lctrl 0.505378451402
+pillango SNARC_only DC 4 num_decimal 0.545324262697
+pillango SNARC_only DC 3 lctrl 0.633260202128
+pillango SNARC_only DC 4 num_decimal 1.3131978102
+pillango SNARC_only DC 5 lctrl 0.617055379669
+pillango SNARC_only DC 7 lctrl 0.568944513245
+pillango SNARC_only DC 4 num_decimal 3.35295393993
+pillango SNARC_only DC 9 lctrl 1.14475080851
+pillango SNARC_only DC 1 lctrl 0.448257712123
+pillango SNARC_only DC 8 lctrl 0.43353849501
+pillango SNARC_only DC 6 num_decimal 0.424429581763
+pillango SNARC_only DC 1 lctrl 0.449355905206
+pillango SNARC_only DC 5 lctrl 0.689247751725
+pillango SNARC_only DC 8 num_decimal 0.505254563468
+pillango SNARC_only DC 9 lctrl 0.569098498265
+pillango SNARC_only DC 3 lctrl 0.665058806539
+pillango SNARC_only DC 9 lctrl 0.432985898806
+pillango SNARC_only DC 1 lctrl 0.488593035465
+pillango SNARC_only DC 2 num_decimal 0.408890744497
+pillango SNARC_only DC 8 num_decimal 0.592825838394
+pillango SNARC_only DC 8 num_decimal 0.400771534885
+pillango SNARC_only DC 2 num_decimal 0.520670562721
+pillango SNARC_only DC 7 lctrl 0.504647372582
+pillango SNARC_only DC 8 num_decimal 0.449657225865
+pillango SNARC_only DC 4 num_decimal 0.441453674488
+pillango SNARC_only DC 3 lctrl 0.513403870136
+pillango SNARC_only DC 4 num_decimal 0.625038802478
+pillango SNARC_only DC 4 num_decimal 0.441274841898
+pillango SNARC_only DC 1 lctrl 0.505138724751
+pillango SNARC_only DC 2 num_decimal 0.681157939282
+pillango SNARC_only DC 5 lctrl 0.561068879935
+pillango SNARC_only DC 4 num_decimal 0.617038581287
+pillango SNARC_only DC 9 lctrl 0.592865734507
+pillango SNARC_only DC 9 lctrl 0.408849448519
+pillango SNARC_only DC 8 num_decimal 0.584752124385
+pillango SNARC_only DC 6 num_decimal 0.704388677754
+pillango SNARC_only DC 2 num_decimal 0.400640647626
+pillango SNARC_only DC 6 num_decimal 0.40856002667
+pillango SNARC_only DC 8 num_decimal 0.385496571893
+pillango SNARC_only DC 4 num_decimal 0.393437298859
+pillango SNARC_only DC 7 lctrl 0.481324243097
+pillango SNARC_only DC 3 num_decimal 0.441025316191
+pillango SNARC_only DC 2 num_decimal 0.464329547511
+pillango SNARC_only DC 1 lctrl 0.449118278339
+pillango SNARC_only DC 8 num_decimal 0.480807343381
+pillango SNARC_only DC 8 num_decimal 0.481032021518
+pillango SNARC_only DC 7 lctrl 0.488975898217
+pillango SNARC_only DC 7 lctrl 0.65695464547
+pillango SNARC_only DC 7 lctrl 0.448849504493
+pillango SNARC_only DC 7 lctrl 2.87272124056
+pillango SNARC_only DC 8 num_decimal 0.529548148479
+pillango SNARC_only DC 7 lctrl 0.449477693328
+pillango SNARC_only DC 4 num_decimal 0.529457507335
+pillango SNARC_only DC 5 lctrl 0.489004595409
+pillango SNARC_only DC 1 lctrl 0.481242701004
+pillango SNARC_only DC 5 num_decimal 0.489196726703
+pillango SNARC_only DC 5 lctrl 0.544114780409
+pillango SNARC_only DC 9 lctrl 0.521062524582
+pillango SNARC_only DC 4 num_decimal 0.537013971712
+pillango SNARC_only DC 9 lctrl 0.456875973119
+pillango SNARC_only DC 4 num_decimal 1.00889228433
+pillango SNARC_only DC 4 num_decimal 0.472718230885
+pillango SNARC_only DC 5 lctrl 0.42434733978
+pillango SNARC_only DC 6 num_decimal 0.577184111142
+pillango SNARC_only DC 5 lctrl 0.481546821393
+pillango SNARC_only DC 3 lctrl 0.465519081714
+pillango SNARC_only DC 9 lctrl 0.897408887249
+pillango SNARC_only DC 2 num_decimal 0.649330637651
+pillango SNARC_only DC 1 lctrl 0.481358889723
+pillango SNARC_only DC 3 lctrl 0.93717621587
+pillango SNARC_only DC 7 lctrl 0.449096580443
+pillango SNARC_only DC 5 lctrl 9.32870795028
+pillango SNARC_only DC 2 num_decimal 0.489486498496
+pillango SNARC_only DC 4 num_decimal 0.657385803497
+pillango SNARC_only DC 5 lctrl 0.521251856117
+pillango SNARC_only DC 3 lctrl 0.825213715434
+pillango SNARC_only DC 8 num_decimal 1.28913240298
+pillango SNARC_only DC 9 lctrl 0.481060018792
+pillango SNARC_only DC 3 lctrl 1.68093956052
+pillango SNARC_only DC 3 lctrl 0.400797432376
+pillango SNARC_only DC 8 num_decimal 0.456443415256
+pillango SNARC_only DC 9 lctrl 0.44075689232
+pillango SNARC_only DC 5 num_decimal 0.496667449421
+pillango SNARC_only DC 2 num_decimal 0.60856205647
+pillango SNARC_only DC 5 lctrl 0.513518308988
+pillango SNARC_only DC 5 lctrl 0.40140077364
+pillango SNARC_only DC 9 lctrl 0.457317980094
+pillango SNARC_only DC 3 lctrl 0.497283739445
+pillango SNARC_only DC 6 num_decimal 0.505189819756
+pillango SNARC_only DC 2 num_decimal 0.58484381545
+pillango SNARC_only DC 3 lctrl 0.497018465248
+pillango SNARC_only DC 7 lctrl 0.600954847032
+pillango SNARC_only DC 6 num_decimal 0.616901044705
+pillango SNARC_only DC 9 lctrl 0.480823791819
+pillango SNARC_only DC 1 lctrl 0.568723334785
+pillango SNARC_only DC 7 lctrl 0.592721548572
+pillango SNARC_only DC 7 lctrl 0.512549253326
+pillango SNARC_only DC 9 lctrl 0.657606632012
+pillango SNARC_only DC 7 lctrl 0.472430908849
+pillango SNARC_only DC 8 num_decimal 0.529474655661
+pillango SNARC_only DC 5 lctrl 0.60939182571
+pillango SNARC_only DC 7 lctrl 0.43324347373
+pillango SNARC_only DC 7 lctrl 0.393223469669
+pillango SNARC_only DC 1 lctrl 0.377187680773
+pillango SNARC_only DC 3 lctrl 0.513081201556
+pillango SNARC_only DC 5 lctrl 0.433022645244
+pillango SNARC_only DC 1 lctrl 0.448940145667
+pillango SNARC_only DC 4 num_decimal 0.629400077887
+pillango SNARC_only DC 7 lctrl 0.480790895002
+pillango SNARC_only DC 4 num_decimal 0.576770801359
+pillango SNARC_only DC 7 lctrl 0.392654425086
+pillango SNARC_only DC 8 num_decimal 0.577639066847
+pillango SNARC_only DC 3 lctrl 0.593595063518
+pillango SNARC_only DC 9 lctrl 0.489570490317
+pillango SNARC_only DC 9 lctrl 0.425201606617
+pillango SNARC_only DC 7 lctrl 0.489361560671
+pillango SNARC_only DC 1 lctrl 0.577252354502
+pillango SNARC_only DC 3 lctrl 0.729182364099
+pillango SNARC_only DC 1 lctrl 0.473102493474
+pillango SNARC_only DC 3 lctrl 0.577009828092
+pillango SNARC_only DC 9 lctrl 0.464970685105
+pillango SNARC_only DC 8 num_decimal 0.808947998914
+pillango SNARC_only DC 4 num_decimal 0.632500776032
+pillango SNARC_only DC 6 num_decimal 0.592820238933
+pillango SNARC_only DC 9 lctrl 0.584692980134
+pillango SNARC_only DC 2 num_decimal 0.66559915393
+pillango SNARC_only DC 3 lctrl 0.577548775647
+pillango SNARC_only DC 2 num_decimal 0.657509691431
+pillango SNARC_only DC 3 lctrl 0.537331040832
+pillango SNARC_only DC 6 num_decimal 0.513323377963
+pillango SNARC_only DC 2 num_decimal 0.513243935711
+pillango SNARC_only DC 2 num_decimal 0.440901778202
+pillango SNARC_only DC 1 lctrl 0.569091848913
+pillango SNARC_only DC 7 lctrl 0.553006014874
+pillango SNARC_only DC 8 num_decimal 0.560940092459
+pillango SNARC_only DC 8 num_decimal 0.400898922497
+pillango SNARC_only DC 9 lctrl 0.552842230827
+pillango SNARC_only DC 2 num_decimal 0.456741586211
+pillango SNARC_only DC 1 lctrl 0.552640300477
+pillango SNARC_only DC 5 lctrl 0.633584970521
+pillango SNARC_only DC 6 num_decimal 0.625241082773
+pillango SNARC_only DC 2 lctrl 0.609432771715
+pillango SNARC_only DC 6 num_decimal 0.832368768897
+pillango SNARC_only DC 8 num_decimal 0.417353270663
+pillango SNARC_only DC 4 num_decimal 0.369255003025
+pillango SNARC_only DC 2 num_decimal 0.369172061095
+pillango SNARC_only DC 7 num_decimal 0.353136972117
+pillango SNARC_only DC 2 num_decimal 0.401050107786
+pillango SNARC_only DC 4 num_decimal 0.464990283188
+pillango SNARC_only DC 6 num_decimal 0.376604287594
+pillango SNARC_only DC 7 lctrl 0.416862968385
+pillango SNARC_only DC 3 lctrl 0.464777153946
+pillango SNARC_only DC 4 lctrl 0.512695889047
+pillango SNARC_only DC 5 lctrl 0.608690493973
+pillango SNARC_only DC 4 num_decimal 0.577573623217
+pillango SNARC_only DC 6 num_decimal 0.425516226009
+pillango SNARC_only DC 4 num_decimal 0.529433359654
+pillango SNARC_only DC 5 lctrl 0.585375763651
+pillango SNARC_only DC 3 lctrl 0.449005239323
+pillango SNARC_only DC 6 num_decimal 0.473261727981
+pillango SNARC_only DC 3 lctrl 0.561146222433
+pillango SNARC_only DC 2 num_decimal 0.665074904944
+pillango SNARC_only DC 9 lctrl 0.513017507736
+pillango SNARC_only DC 1 lctrl 0.568949762732
+pillango SNARC_only DC 2 num_decimal 0.512894669693
+pillango SNARC_only DC 6 lctrl 0.456814379111
+pillango SNARC_only DC 5 lctrl 0.53671860043
+pillango SNARC_only DC 8 num_decimal 0.545366258593
+pillango SNARC_only DC 3 lctrl 0.608582354529
+pillango SNARC_only DC 6 num_decimal 0.497579460643
+pillango SNARC_only DC 7 lctrl 0.569452663796
+pillango SNARC_only DC 2 num_decimal 0.55341127541
+pillango SNARC_only DC 2 num_decimal 0.456970463943
+pillango SNARC_only DC 4 num_decimal 0.528903511236
+pillango SNARC_only DC 6 num_decimal 0.441240545246
+pillango SNARC_only DC 9 lctrl 0.521124818508
+pillango SNARC_only DC 1 lctrl 0.776797328785
+pillango SNARC_only DC 5 num_decimal 0.480962378322
+pillango SNARC_only DC 6 num_decimal 0.528916110023
+pillango SNARC_only DC 5 lctrl 0.73674652772
+pillango SNARC_only DC 2 num_decimal 0.672665666003
+pillango SNARC_only DC 7 lctrl 0.552637500747
+pillango SNARC_only DC 4 num_decimal 0.697577640822
+pillango SNARC_only DC 8 num_decimal 1.35355938101
+pillango SNARC_only DC 7 lctrl 0.569433765631
+pillango SNARC_only DC 2 num_decimal 0.504998038436
+pillango SNARC_only DC 7 lctrl 0.593233548687
+pillango SNARC_only DC 6 num_decimal 0.793158935965
+pillango SNARC_only DC 1 lctrl 0.545055488852
+pillango SNARC_only DC 6 num_decimal 0.473029000626
+pillango SNARC_only DC 4 num_decimal 0.425025573757
+pillango SNARC_only DC 1 lctrl 0.456849725655
+pillango SNARC_only DC 8 num_decimal 0.472817971167
+pillango SNARC_only DC 3 lctrl 0.696273317793
+pillango SNARC_only DC 5 lctrl 0.64834233388
+pillango SNARC_only DC 5 lctrl 0.489570490288
+pillango SNARC_only DC 1 lctrl 0.481510424957
+pillango SNARC_only DC 9 lctrl 0.49749056928
+pillango SNARC_only DC 9 lctrl 0.385369884229
+pillango SNARC_only DC 9 lctrl 0.393274214759
+pillango SNARC_only DC 8 lctrl 0.32123547775
+pillango SNARC_only DC 6 num_decimal 0.440183648112
+pillango SNARC_only DC 7 lctrl 0.42513546304
+pillango SNARC_only DC 9 lctrl 0.600788613228
+pillango SNARC_only DC 8 num_decimal 0.488971348619
+pillango SNARC_only DC 2 num_decimal 0.584956154518
+pillango SNARC_only DC 9 lctrl 0.496821784385
+pillango SNARC_only DC 9 lctrl 0.576723905921
+pillango SNARC_only DC 4 num_decimal 0.584701729269
+pillango SNARC_only DC 4 num_decimal 0.408648918004
+pillango SNARC_only DC 2 num_decimal 0.409365998232
+pillango SNARC_only DC 1 lctrl 0.505540135666
+pillango SNARC_only DC 8 num_decimal 0.480552918161
+pillango SNARC_only DC 3 lctrl 0.457262685493
+pillango SNARC_only DC 4 num_decimal 0.465281454846
+pillango SNARC_only DC 1 lctrl 0.481261949142
+pillango SNARC_only DC 5 lctrl 0.737144089042
+pillango SNARC_only DC 8 lctrl 0.457084552821
+pillango SNARC_only DC 1 lctrl 0.481029571791
+pillango SNARC_only DC 5 lctrl 0.608951918548
+pillango SNARC_only DC 4 num_decimal 0.536917031131
+pillango SNARC_only DC 3 lctrl 0.512465961452
+pillango SNARC_only DC 6 num_decimal 0.496812685305
+pillango SNARC_only DC 6 num_decimal 0.480707603099
+pillango SNARC_only DC 1 lctrl 0.408578924835
+pillango SNARC_only DC 4 num_decimal 0.433565792395
+pillango SNARC_only DC 9 lctrl 0.521543027775
+pillango SNARC_only DC 6 num_decimal 1.63336344209
+pillango SNARC_only DC 9 lctrl 1.53724844888
+pillango SNARC_only DC 3 lctrl 0.569057552231
+pillango SNARC_only DC 7 lctrl 0.520755954407
+pillango SNARC_only DC 4 num_decimal 0.528993802436
+pillango SNARC_only DC 1 lctrl 0.752921603067
+pillango SNARC_only DC 6 num_decimal 0.70485938192
+pillango SNARC_only DC 3 lctrl 1.8327610807
+pillango SNARC_only DC 6 num_decimal 0.520654464286
+pillango SNARC_only DC 7 lctrl 0.553539712884
+pillango SNARC_only DC 3 num_decimal 0.513526708179
+pillango SNARC_only DC 1 lctrl 0.440268689854
+pillango SNARC_only DC 9 lctrl 0.737032799865
+pillango SNARC_only DC 3 lctrl 1.13723284038
+pillango SNARC_only DC 2 num_decimal 0.481139811047
+pillango SNARC_only DC 4 num_decimal 0.481100614881
+pillango SNARC_only DC 1 lctrl 0.425005975674
+pillango SNARC_only DC 8 num_decimal 0.440959872562
+pillango SNARC_only DC 5 lctrl 0.51283167582
+pillango SNARC_only DC 6 num_decimal 0.592831787828
+pillango SNARC_only DC 1 lctrl 0.552732691489
+pillango SNARC_only DC 2 num_decimal 0.368367489427
+pillango SNARC_only DC 4 num_decimal 0.873607354326
+pillango SNARC_only DC 3 lctrl 0.617374548601
+pillango SNARC_only DC 3 lctrl 0.409451039945
+pillango SNARC_only DC 7 lctrl 0.513366773754
+pillango SNARC_only DC 2 num_decimal 0.537314592424
+pillango SNARC_only DC 1 lctrl 0.449242516217
+pillango SNARC_only DC 9 lctrl 0.665183044446
+pillango SNARC_only DC 6 num_decimal 0.513164843404
+pillango SNARC_only DC 7 lctrl 0.488747720403
+pillango SNARC_only DC 2 num_decimal 0.624947461358
+pillango SNARC_only DC 8 num_decimal 0.592868534237
+pillango SNARC_only DC 2 num_decimal 0.552805134415
+pillango SNARC_only DC 5 lctrl 0.47269373326
+pillango SNARC_only DC 9 lctrl 0.464678463555
+pillango SNARC_only DC 3 lctrl 0.569602449221
+pillango SNARC_only DC 5 lctrl 0.529591544269
+pillango SNARC_only DC 7 lctrl 0.561494788475
+pillango SNARC_only DC 1 lctrl 0.457051656034
+pillango SNARC_only DC 6 num_decimal 0.456965914374
+pillango SNARC_only DC 4 num_decimal 0.42524255265
+pillango SNARC_only DC 9 lctrl 0.552920973161
+pillango SNARC_only DC 1 lctrl 0.481114963448
+pillango SNARC_only DC 5 lctrl 0.697042192944
+pillango SNARC_only DC 8 num_decimal 0.576997929253
+pillango SNARC_only DC 6 num_decimal 0.592869934102
+pillango SNARC_only DC 2 num_decimal 0.824747910781
+pillango SNARC_only DC 7 lctrl 0.472268874641
+pillango SNARC_only DC 5 lctrl 0.448589479813
+pillango SNARC_only DC 2 num_decimal 0.616597624205
+pillango SNARC_only DC 5 lctrl 0.529545348749
+pillango SNARC_only DC 5 lctrl 0.393502742489
+pillango SNARC_only DC 6 num_decimal 0.545460399444
+pillango SNARC_only DC 6 num_decimal 0.489318514854
+pillango SNARC_only DC 3 lctrl 0.441211848025
+pillango SNARC_only DC 9 lctrl 0.633178660064
+pillango SNARC_only DC 8 num_decimal 0.536840038607
+pillango SNARC_only DC 7 lctrl 1.40101756094
+pillango SNARC_only DC 2 num_decimal 0.57689258951
+pillango SNARC_only DC 7 lctrl 0.496837882849
+pillango SNARC_only DC 2 num_decimal 0.560805005633
+pillango SNARC_only DC 1 lctrl 0.584667082643
+pillango SNARC_only DC 3 lctrl 0.56860854596
+pillango SNARC_only DC 5 lctrl 0.873533511534
+pillango SNARC_only DC 5 lctrl 0.553442422388
+pillango SNARC_only DC 3 lctrl 0.561100376857
+pillango SNARC_only DC 1 lctrl 0.505261912767
+pillango SNARC_only DC 6 num_decimal 0.425196707103
+pillango SNARC_only DC 8 num_decimal 0.505229715898
+pillango SNARC_only DC 3 lctrl 1.44913262693
+pillango SNARC_only DC 8 lctrl 0.480969027674
+pillango SNARC_only DC 3 lctrl 0.536882384506
+pillango SNARC_only DC 6 num_decimal 0.424837642058
+pillango SNARC_only DC 9 lctrl 0.560773158737
+pillango SNARC_only DC 8 num_decimal 0.568413964909
+pillango SNARC_only DC 9 lctrl 0.472630389413
+pillango SNARC_only DC 1 lctrl 0.921583833813
+pillango SNARC_only DC 4 num_decimal 0.537569717591
+pillango SNARC_only DC 5 lctrl 0.761430324783
+pillango SNARC_only DC 9 lctrl 0.601290114399
+pillango SNARC_only DC 8 lctrl 0.513255134603
+pillango SNARC_only DC 6 num_decimal 0.488232920528
+pillango SNARC_only DC 8 num_decimal 0.497109806369
+pillango SNARC_only DC 1 lctrl 0.416749929369
+{'participant': u'pillango', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1516', 'autopilot': False, 'exp_id': u'SNARC'}
+pillango SNARC_only CD 6 lctrl 0.790198224218
+pillango SNARC_only CD 1 num_decimal 0.817302035663
+pillango SNARC_only CD 1 num_decimal 0.443378137134
+pillango SNARC_only CD 7 lctrl 0.428949741734
+pillango SNARC_only CD 3 num_decimal 0.590633651795
+pillango SNARC_only CD 4 lctrl 0.469394954387
+pillango SNARC_only CD 4 lctrl 0.441094609443
+pillango SNARC_only CD 8 lctrl 0.581183171802
+pillango SNARC_only CD 2 lctrl 0.587496907159
+pillango SNARC_only CD 4 lctrl 0.432898407336
+pillango SNARC_only CD 6 lctrl 0.480817142467
+pillango SNARC_only CD 4 lctrl 0.59281533942
+pillango SNARC_only CD 8 lctrl 0.504504936456
+pillango SNARC_only CD 8 lctrl 0.600628678803
+pillango SNARC_only CD 9 num_decimal 0.678160481097
+pillango SNARC_only CD 1 lctrl 0.457529009553
+pillango SNARC_only CD 7 num_decimal 0.600427098427
+pillango SNARC_only CD 6 lctrl 0.473283075902
+pillango SNARC_only CD 5 num_decimal 0.477312233648
+pillango SNARC_only CD 9 num_decimal 0.673136020225
+pillango SNARC_only CD 2 lctrl 0.544828360958
+pillango SNARC_only CD 9 num_decimal 0.617092476023
+pillango SNARC_only CD 6 lctrl 0.5289647553
+pillango SNARC_only CD 5 num_decimal 0.54486720718
+pillango SNARC_only CD 7 num_decimal 0.576822946285
+pillango SNARC_only CD 4 lctrl 0.880810003146
+pillango SNARC_only CD 5 num_decimal 0.5526644481
+pillango SNARC_only CD 2 num_decimal 0.62553400427
+pillango SNARC_only CD 9 num_decimal 0.520584821061
+pillango SNARC_only CD 6 lctrl 0.473222531786
+pillango SNARC_only CD 9 num_decimal 0.553518714936
+pillango SNARC_only CD 5 num_decimal 0.441365133098
+pillango SNARC_only CD 9 num_decimal 0.393322160089
+pillango SNARC_only CD 2 lctrl 0.441158653208
+pillango SNARC_only CD 3 num_decimal 0.497149702453
+pillango SNARC_only CD 6 lctrl 0.441069761844
+pillango SNARC_only CD 3 num_decimal 0.433034894057
+pillango SNARC_only CD 8 lctrl 0.504919296131
+pillango SNARC_only CD 3 num_decimal 0.486940146395
+pillango SNARC_only CD 4 lctrl 0.496790987381
+pillango SNARC_only CD 8 lctrl 0.424742101342
+pillango SNARC_only CD 3 num_decimal 0.496705595695
+pillango SNARC_only CD 1 num_decimal 0.600661925564
+pillango SNARC_only CD 7 num_decimal 0.449625028996
+pillango SNARC_only CD 5 num_decimal 0.505542585423
+pillango SNARC_only CD 9 num_decimal 0.377492151136
+pillango SNARC_only CD 4 lctrl 0.433282319951
+pillango SNARC_only CD 3 num_decimal 0.593001171335
+pillango SNARC_only CD 1 num_decimal 0.593180003925
+pillango SNARC_only CD 8 lctrl 0.5130889008
+pillango SNARC_only CD 8 lctrl 0.433025794948
+pillango SNARC_only CD 9 num_decimal 0.58497750244
+pillango SNARC_only CD 6 lctrl 0.504938194266
+pillango SNARC_only CD 9 num_decimal 0.600827109476
+pillango SNARC_only CD 4 lctrl 0.512756783137
+pillango SNARC_only CD 2 lctrl 0.488701174938
+pillango SNARC_only CD 5 num_decimal 0.520349293976
+pillango SNARC_only CD 9 num_decimal 0.465583125508
+pillango SNARC_only CD 8 lctrl 0.505542235449
+pillango SNARC_only CD 4 lctrl 0.585421959171
+pillango SNARC_only CD 9 num_decimal 0.521056575148
+pillango SNARC_only CD 8 lctrl 0.553333932941
+pillango SNARC_only CD 5 lctrl 0.537213102303
+pillango SNARC_only CD 5 num_decimal 0.520156112791
+pillango SNARC_only CD 3 num_decimal 0.7850827722
+pillango SNARC_only CD 8 lctrl 0.624658739456
+pillango SNARC_only CD 5 num_decimal 0.560711214755
+pillango SNARC_only CD 2 lctrl 0.600818710314
+pillango SNARC_only CD 3 num_decimal 0.440782089863
+pillango SNARC_only CD 1 lctrl 0.496664649691
+pillango SNARC_only CD 4 lctrl 0.888667088264
+pillango SNARC_only CD 1 num_decimal 0.593562166701
+pillango SNARC_only CD 6 lctrl 0.529481304984
+pillango SNARC_only CD 4 lctrl 0.465366846533
+pillango SNARC_only CD 1 num_decimal 0.761061460682
+pillango SNARC_only CD 2 lctrl 0.697202127369
+pillango SNARC_only CD 5 num_decimal 0.49716335116
+pillango SNARC_only CD 5 num_decimal 0.473083245335
+pillango SNARC_only CD 5 num_decimal 0.664959066227
+pillango SNARC_only CD 6 lctrl 0.624930662976
+pillango SNARC_only CD 3 num_decimal 0.55287932721
+pillango SNARC_only CD 8 lctrl 0.52079865025
+pillango SNARC_only CD 3 num_decimal 1.04875165402
+pillango SNARC_only CD 2 lctrl 1.24030340646
+pillango SNARC_only CD 3 num_decimal 0.513500810688
+pillango SNARC_only CD 7 num_decimal 0.681504405569
+pillango SNARC_only CD 6 lctrl 0.457353326667
+pillango SNARC_only CD 9 num_decimal 0.553307685506
+pillango SNARC_only CD 7 num_decimal 0.929107401374
+pillango SNARC_only CD 4 lctrl 0.42515226145
+pillango SNARC_only CD 4 lctrl 0.5450663378
+pillango SNARC_only CD 4 lctrl 0.432956501667
+pillango SNARC_only CD 8 lctrl 0.424600715109
+pillango SNARC_only CD 5 num_decimal 0.408894244145
+pillango SNARC_only CD 3 num_decimal 0.680778226233
+pillango SNARC_only CD 6 lctrl 0.496698946372
+pillango SNARC_only CD 4 lctrl 1.71264227427
+pillango SNARC_only CD 4 lctrl 0.369504528731
+pillango SNARC_only CD 5 num_decimal 0.633515327267
+pillango SNARC_only CD 9 num_decimal 12.0654229811
+pillango SNARC_only CD 7 num_decimal 0.488643780525
+pillango SNARC_only CD 5 num_decimal 0.504319804459
+pillango SNARC_only CD 2 lctrl 0.544516541297
+pillango SNARC_only CD 9 num_decimal 0.481448830978
+pillango SNARC_only CD 5 num_decimal 1.10540168913
+pillango SNARC_only CD 3 num_decimal 0.665264586511
+pillango SNARC_only CD 7 num_decimal 0.697180429503
+pillango SNARC_only CD 9 num_decimal 0.769143223908
+pillango SNARC_only CD 9 num_decimal 0.457031358004
+pillango SNARC_only CD 5 lctrl 0.776952363696
+pillango SNARC_only CD 8 num_decimal 0.39259493089
+pillango SNARC_only CD 2 lctrl 0.608686994296
+pillango SNARC_only CD 8 lctrl 0.520721307781
+pillango SNARC_only CD 9 num_decimal 0.472727679968
+pillango SNARC_only CD 5 num_decimal 0.552596554713
+pillango SNARC_only CD 8 lctrl 0.521085272339
+pillango SNARC_only CD 4 lctrl 0.40949758541
+pillango SNARC_only CD 9 num_decimal 0.769415147428
+pillango SNARC_only CD 1 num_decimal 0.51334892548
+pillango SNARC_only CD 5 num_decimal 0.505002588005
+pillango SNARC_only CD 7 num_decimal 0.489206525759
+pillango SNARC_only CD 3 num_decimal 0.545119182672
+pillango SNARC_only CD 9 num_decimal 0.513075252122
+pillango SNARC_only CD 1 num_decimal 0.584965603601
+pillango SNARC_only CD 7 num_decimal 0.600928249652
+pillango SNARC_only CD 8 lctrl 0.608800383285
+pillango SNARC_only CD 3 lctrl 0.488760669163
+pillango SNARC_only CD 4 lctrl 0.408737809368
+pillango SNARC_only CD 7 lctrl 0.46527900509
+pillango SNARC_only CD 1 num_decimal 0.512555902678
+pillango SNARC_only CD 9 num_decimal 0.497452772979
+pillango SNARC_only CD 8 lctrl 0.761400577641
+pillango SNARC_only CD 5 num_decimal 0.457322879636
+pillango SNARC_only CD 2 num_decimal 0.489238022681
+pillango SNARC_only CD 2 lctrl 0.416141338646
+pillango SNARC_only CD 7 num_decimal 0.457154196047
+pillango SNARC_only CD 8 lctrl 0.489092086878
+pillango SNARC_only CD 9 num_decimal 0.560525382869
+pillango SNARC_only CD 4 lctrl 0.536922280618
+pillango SNARC_only CD 7 num_decimal 0.480841640063
+pillango SNARC_only CD 8 lctrl 0.504797157977
+pillango SNARC_only CD 6 lctrl 0.472698282829
+pillango SNARC_only CD 4 lctrl 0.432548791374
+pillango SNARC_only CD 2 lctrl 0.449563435017
+pillango SNARC_only CD 2 lctrl 0.377556894848
+pillango SNARC_only CD 2 lctrl 0.465360547154
+pillango SNARC_only CD 9 num_decimal 0.544356606872
+pillango SNARC_only CD 6 lctrl 0.657303211541
+pillango SNARC_only CD 5 num_decimal 0.489237322734
+pillango SNARC_only CD 9 num_decimal 0.641194629687
+pillango SNARC_only CD 7 num_decimal 0.60106718613
+pillango SNARC_only CD 3 num_decimal 0.601045138261
+pillango SNARC_only CD 1 num_decimal 0.593009220553
+pillango SNARC_only CD 8 lctrl 0.632860541024
+pillango SNARC_only CD 2 lctrl 0.976872501458
+pillango SNARC_only CD 1 num_decimal 1.1252510568
+pillango SNARC_only CD 9 num_decimal 0.520440285152
+pillango SNARC_only CD 7 num_decimal 0.689588268579
+pillango SNARC_only CD 5 num_decimal 0.737507353682
+pillango SNARC_only CD 3 num_decimal 1.00941898304
+pillango SNARC_only CD 5 num_decimal 0.665298533189
+pillango SNARC_only CD 8 lctrl 0.681145340495
+pillango SNARC_only CD 9 num_decimal 0.624894616514
+pillango SNARC_only CD 8 num_decimal 0.441119107069
+pillango SNARC_only CD 5 num_decimal 0.424989527266
+pillango SNARC_only CD 3 num_decimal 0.536930679809
+pillango SNARC_only CD 7 num_decimal 0.416823072301
+pillango SNARC_only CD 8 lctrl 0.424747700803
+pillango SNARC_only CD 5 num_decimal 0.448763762834
+pillango SNARC_only CD 3 num_decimal 0.40867341563
+pillango SNARC_only CD 2 lctrl 0.553287037503
+pillango SNARC_only CD 2 lctrl 0.361540004087
+pillango SNARC_only CD 1 num_decimal 0.441506869305
+pillango SNARC_only CD 6 lctrl 0.465317851311
+pillango SNARC_only CD 2 lctrl 0.521322549263
+pillango SNARC_only CD 4 lctrl 0.41720278532
+pillango SNARC_only CD 7 num_decimal 0.665220140829
+pillango SNARC_only CD 2 lctrl 0.657106530678
+pillango SNARC_only CD 9 num_decimal 0.681027052022
+pillango SNARC_only CD 3 num_decimal 0.808624280413
+pillango SNARC_only CD 9 num_decimal 0.432890008175
+pillango SNARC_only CD 6 lctrl 0.912829086097
+pillango SNARC_only CD 7 num_decimal 0.856641705934
+pillango SNARC_only CD 3 num_decimal 0.857519420504
+pillango SNARC_only CD 5 num_decimal 1.00957401798
+pillango SNARC_only CD 6 lctrl 0.497441224084
+pillango SNARC_only CD 9 num_decimal 0.761368030828
+pillango SNARC_only CD 1 num_decimal 0.529316821019
+pillango SNARC_only CD 8 lctrl 0.544875606371
+pillango SNARC_only CD 3 num_decimal 0.545149979647
+pillango SNARC_only CD 6 lctrl 0.873044609121
+pillango SNARC_only CD 1 num_decimal 2.28895602011
+pillango SNARC_only CD 3 lctrl 0.800526068808
+pillango SNARC_only CD 2 lctrl 0.728713759716
+pillango SNARC_only CD 3 lctrl 0.448595079273
+pillango SNARC_only CD 6 lctrl 0.592511569004
+pillango SNARC_only CD 8 lctrl 0.689470330079
+pillango SNARC_only CD 7 num_decimal 0.497094407852
+pillango SNARC_only CD 5 num_decimal 0.697379210149
+pillango SNARC_only CD 5 num_decimal 0.473289725225
+pillango SNARC_only CD 7 num_decimal 0.449182672077
+pillango SNARC_only CD 6 lctrl 0.529122589913
+pillango SNARC_only CD 8 lctrl 0.425002475997
+pillango SNARC_only CD 1 num_decimal 0.609014912392
+pillango SNARC_only CD 3 num_decimal 0.816949269967
+pillango SNARC_only CD 1 num_decimal 0.504904247558
+pillango SNARC_only CD 5 num_decimal 0.5364624254
+pillango SNARC_only CD 7 num_decimal 0.576718656463
+pillango SNARC_only CD 9 num_decimal 0.545633982518
+pillango SNARC_only CD 3 num_decimal 0.441639856348
+pillango SNARC_only CD 1 num_decimal 0.441530317039
+pillango SNARC_only CD 4 lctrl 0.497400628024
+pillango SNARC_only CD 1 num_decimal 0.441359883611
+pillango SNARC_only CD 2 num_decimal 0.529284974124
+pillango SNARC_only CD 1 num_decimal 0.720224636112
+pillango SNARC_only CD 1 num_decimal 0.576772551198
+pillango SNARC_only CD 3 num_decimal 0.465022130113
+pillango SNARC_only CD 8 lctrl 0.57690728805
+pillango SNARC_only CD 6 lctrl 0.512939115375
+pillango SNARC_only CD 7 num_decimal 0.568838473555
+pillango SNARC_only CD 6 lctrl 0.552763488464
+pillango SNARC_only CD 3 num_decimal 0.776352172106
+pillango SNARC_only CD 1 num_decimal 0.512683640234
+pillango SNARC_only CD 4 lctrl 0.449553285987
+pillango SNARC_only CD 3 num_decimal 0.457240287651
+pillango SNARC_only CD 7 num_decimal 0.929442318797
+pillango SNARC_only CD 2 num_decimal 0.489183078025
+pillango SNARC_only CD 9 num_decimal 0.536231797829
+pillango SNARC_only CD 5 num_decimal 0.673199714016
+pillango SNARC_only CD 6 lctrl 0.83308339931
+pillango SNARC_only CD 5 num_decimal 0.873025710956
+pillango SNARC_only CD 8 lctrl 0.608956468088
+pillango SNARC_only CD 8 lctrl 0.448881001445
+pillango SNARC_only CD 1 num_decimal 0.640553492121
+pillango SNARC_only CD 4 lctrl 0.576673860807
+pillango SNARC_only CD 4 lctrl 0.584638385451
+pillango SNARC_only CD 8 lctrl 0.473533301527
+pillango SNARC_only CD 3 num_decimal 0.433554943447
+pillango SNARC_only CD 1 num_decimal 0.449475593574
+pillango SNARC_only CD 4 lctrl 0.473413613188
+pillango SNARC_only CD 6 lctrl 0.45726968479
+pillango SNARC_only CD 6 lctrl 0.417192636291
+pillango SNARC_only CD 4 lctrl 0.424812444515
+pillango SNARC_only CD 4 lctrl 0.448620276817
+pillango SNARC_only CD 7 num_decimal 0.553087906883
+pillango SNARC_only CD 3 num_decimal 0.696946302283
+pillango SNARC_only CD 2 lctrl 0.568873470154
+pillango SNARC_only CD 1 num_decimal 0.520832246984
+pillango SNARC_only CD 8 lctrl 0.544549088139
+pillango SNARC_only CD 7 num_decimal 1.24870013905
+pillango SNARC_only CD 5 num_decimal 0.561648773495
+pillango SNARC_only CD 3 num_decimal 0.537226401008
+pillango SNARC_only CD 2 lctrl 0.473390165454
+pillango SNARC_only CD 4 lctrl 0.521330948424
+pillango SNARC_only CD 3 num_decimal 0.553220194008
+pillango SNARC_only CD 1 num_decimal 0.449193520995
+pillango SNARC_only CD 5 num_decimal 0.553133402456
+pillango SNARC_only CD 9 num_decimal 0.60109483343
+pillango SNARC_only CD 2 lctrl 0.584254472837
+pillango SNARC_only CD 9 num_decimal 0.456934067479
+pillango SNARC_only CD 1 num_decimal 0.575826243323
+pillango SNARC_only CD 9 num_decimal 0.51276063273
+pillango SNARC_only CD 4 lctrl 0.640701177734
+pillango SNARC_only CD 1 num_decimal 0.80870792229
+pillango SNARC_only CD 9 num_decimal 0.552454468561
+pillango SNARC_only CD 7 num_decimal 0.63348523021
+pillango SNARC_only CD 3 num_decimal 0.537402783841
+pillango SNARC_only CD 3 num_decimal 0.553375228919
+pillango SNARC_only CD 7 num_decimal 0.473270477116
+pillango SNARC_only CD 2 lctrl 0.608894524106
+pillango SNARC_only CD 6 lctrl 0.609116052568
+pillango SNARC_only CD 1 num_decimal 0.641023146396
+pillango SNARC_only CD 6 lctrl 0.560973339248
+pillango SNARC_only CD 1 num_decimal 0.552934971784
+pillango SNARC_only CD 6 num_decimal 0.448730166128
+pillango SNARC_only CD 7 num_decimal 0.528729578189
+pillango SNARC_only CD 6 lctrl 0.52867988302
+pillango SNARC_only CD 7 num_decimal 0.496593956574
+pillango SNARC_only CD 9 num_decimal 0.921284612938
+pillango SNARC_only CD 7 num_decimal 0.793503652414
+pillango SNARC_only CD 1 num_decimal 0.553360880323
+pillango SNARC_only CD 6 lctrl 0.849256724847
+pillango SNARC_only CD 1 num_decimal 1.08924656184
+pillango SNARC_only CD 7 num_decimal 0.681142190821
+pillango SNARC_only CD 5 num_decimal 0.673016331857
+pillango SNARC_only CD 4 lctrl 0.536929629889
+pillango SNARC_only CD 4 lctrl 0.480787395354
+pillango SNARC_only CD 7 num_decimal 0.656497239979
+pillango SNARC_only CD 7 num_decimal 0.52074790519
+pillango SNARC_only CD 6 lctrl 2.40867691531
+pillango SNARC_only CD 9 num_decimal 1.52954744856
+pillango SNARC_only CD 6 num_decimal 0.641373462306
+pillango SNARC_only CD 8 lctrl 0.53628079308
+pillango SNARC_only CD 7 num_decimal 0.569190539274
+pillango SNARC_only CD 9 num_decimal 1.12910768136
+pillango SNARC_only CD 2 lctrl 0.448985991214
+pillango SNARC_only CD 1 lctrl 0.496706295642
+pillango SNARC_only CD 2 lctrl 0.424885237415
+pillango SNARC_only CD 1 num_decimal 0.632868940214
+pillango SNARC_only CD 4 lctrl 0.456784981972
+pillango SNARC_only CD 1 num_decimal 0.43271537518
+pillango SNARC_only CD 4 lctrl 0.465632820647
+pillango SNARC_only CD 4 lctrl 0.505539785721
+pillango SNARC_only CD 5 num_decimal 0.553576109378
+pillango SNARC_only CD 4 lctrl 0.585408310493
+pillango SNARC_only CD 2 lctrl 0.680975956988
+pillango SNARC_only CD 2 lctrl 0.40121354186
+pillango SNARC_only CD 6 lctrl 0.537177055812
+pillango SNARC_only CD 2 lctrl 0.545109733561
+pillango SNARC_only CD 3 num_decimal 0.641038544913
+pillango SNARC_only CD 3 lctrl 0.648969122878
+pillango SNARC_only CD 3 num_decimal 0.52888356318
+pillango SNARC_only CD 7 num_decimal 0.520847295527
+pillango SNARC_only CD 6 lctrl 0.45673318702
+pillango SNARC_only CD 2 lctrl 0.528367013467
+pillango SNARC_only CD 8 lctrl 0.448617477086
+pillango SNARC_only CD 7 num_decimal 0.609533211944
+pillango SNARC_only CD 2 lctrl 0.44153871623
+pillango SNARC_only CD 6 lctrl 0.41741661448
+pillango SNARC_only CD 9 num_decimal 0.497312436637
+pillango SNARC_only CD 5 num_decimal 0.697261621593
+pillango SNARC_only CD 6 lctrl 0.513266333524
+pillango SNARC_only CD 1 num_decimal 0.577092070103
+pillango SNARC_only CD 7 num_decimal 0.624779127742
+pillango SNARC_only CD 6 lctrl 0.592859435128
+pillango SNARC_only CD 3 num_decimal 1.12893094859
+pillango SNARC_only CD 5 num_decimal 0.496803236194
+pillango SNARC_only CD 4 lctrl 0.47272977978
+pillango SNARC_only CD 9 num_decimal 0.457707842143
+pillango SNARC_only CD 3 num_decimal 0.392517588392
+pillango SNARC_only CD 2 lctrl 0.552587805578
+pillango SNARC_only CD 6 lctrl 0.745522273413
+pillango SNARC_only CD 6 lctrl 0.481003674271
+pillango SNARC_only CD 8 lctrl 0.561348502728
+pillango SNARC_only CD 7 num_decimal 0.473208883137
+pillango SNARC_only CD 8 lctrl 0.457190942456
+pillango SNARC_only CD 6 lctrl 0.641063042509
+pillango SNARC_only CD 7 num_decimal 0.649047165265
+pillango SNARC_only CD 2 lctrl 0.584930607001
+pillango SNARC_only CD 8 lctrl 0.400911521254
+pillango SNARC_only CD 7 num_decimal 0.512854073633
+pillango SNARC_only CD 4 lctrl 0.504456991126
+pillango SNARC_only CD 2 lctrl 0.448629025952
+pillango SNARC_only CD 8 lctrl 0.473603294726
+pillango SNARC_only CD 1 num_decimal 0.697521996248
+pillango SNARC_only CD 1 num_decimal 0.489532694017
+pillango SNARC_only CD 6 lctrl 0.561380699568
+pillango SNARC_only CD 5 num_decimal 0.841342945263
+pillango SNARC_only CD 8 lctrl 0.569180740247
+pillango SNARC_only CD 9 num_decimal 0.497157751699
+pillango SNARC_only CD 2 lctrl 0.760775188537
+pillango SNARC_only CD 8 lctrl 0.505011687113
+pillango SNARC_only CD 2 lctrl 0.624944311683
+pillango SNARC_only CD 4 lctrl 0.424848840979
+pillango SNARC_only CD 2 lctrl 0.456294679723
+pillango SNARC_only CD 5 num_decimal 0.504762511351
+pillango SNARC_only CD 1 num_decimal 0.888660088938
+pillango SNARC_only CD 5 num_decimal 0.696611034917
+pillango SNARC_only CD 8 lctrl 0.633566072327
+pillango SNARC_only CD 4 lctrl 0.545134931104
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'pillango', 'dateStr': u'05_18_1525'}
+pillango resp_prep 0.3 green q 0.623206730816
+pillango resp_prep 0.8 green q 0.448399098357
+pillango resp_prep 0.1 red p 0.531891520339
+pillango resp_prep 0.8 green q 0.442393333011
+pillango resp_prep 0.6 red p 0.458004263288
+pillango resp_prep 0.1 red p 0.637821658049
+pillango resp_prep 0.1 green q 0.669938731444
+pillango resp_prep 0.3 red p 0.563208571635
+pillango resp_prep 0.3 green q 0.462403685
+pillango resp_prep 0.3 red p 0.550774982054
+pillango resp_prep 0.6 red p 0.385132607364
+pillango resp_prep 0.3 green q 0.463588669634
+pillango resp_prep 0.8 red p 0.420758089196
+pillango resp_prep 0.6 green q 0.49952982078
+pillango resp_prep 1.0 green q 0.414751973876
+pillango resp_prep 1.0 red p 0.495888775244
+pillango resp_prep 1.0 red p 0.363149147423
+pillango resp_prep 0.1 green q 0.452762123605
+pillango resp_prep 1.0 red p 0.470318514475
+pillango resp_prep 0.3 green q 0.487198421237
+pillango resp_prep 0.8 green q 0.461072064645
+pillango resp_prep 0.3 green q 0.717600591568
+pillango resp_prep 0.6 green q 0.363908923464
+pillango resp_prep 0.8 green q 0.406734954362
+pillango resp_prep 0.6 green q 0.381011758494
+pillango resp_prep 1.0 red p 0.445511529455
+pillango resp_prep 0.8 green q 0.434279022942
+pillango resp_prep 1.0 red p 0.483901392203
+pillango resp_prep 0.1 green q 0.520211757394
+pillango resp_prep 0.3 green q 0.4496106804
+pillango resp_prep 0.3 green q 0.393617881287
+pillango resp_prep 0.6 red p 0.591931675444
+pillango resp_prep 0.8 red p 0.440333433537
+pillango resp_prep 0.1 red p 0.475711489504
+pillango resp_prep 0.8 green p 0.440690048825
+pillango resp_prep 0.8 red p 0.605519102712
+pillango resp_prep 0.1 green q 0.445105918945
+pillango resp_prep 1.0 green q 0.50230470064
+pillango resp_prep 0.8 red p 0.436689588241
+pillango resp_prep 0.6 green q 0.779861980438
+pillango resp_prep 0.3 red p 0.50834861226
+pillango resp_prep 0.6 green q 0.405442880117
+pillango resp_prep 0.8 green q 0.361040952674
+pillango resp_prep 1.0 green q 0.36107559927
+pillango resp_prep 1.0 green q 0.393031688378
+pillango resp_prep 0.1 red p 0.515364729246
+pillango resp_prep 0.6 red p 0.460321387713
+pillango resp_prep 1.0 green q 0.470625434624
+pillango resp_prep 0.6 red p 0.439068306703
+pillango resp_prep 1.0 red p 0.481040770683
+pillango resp_prep 0.6 red p 0.841426937084
+pillango resp_prep 0.6 red p 0.403088309336
+pillango resp_prep 0.3 green q 0.481949982175
+pillango resp_prep 0.8 red p 0.367496774183
+pillango resp_prep 0.6 green q 0.533033809159
+pillango resp_prep 0.3 green q 0.487575334555
+pillango resp_prep 0.8 green q 0.35732361456
+pillango resp_prep 0.6 red p 0.514637150074
+pillango resp_prep 1.0 green q 0.598245410802
+pillango resp_prep 1.0 red p 0.452235774865
+pillango resp_prep 0.6 green q 0.491871866281
+pillango resp_prep 1.0 green q 0.510982105887
+pillango resp_prep 0.8 red p 0.509428257152
+pillango resp_prep 0.3 green q 0.527116235258
+pillango resp_prep 0.8 green q 0.373782162322
+pillango resp_prep 0.3 red p 0.419812481239
+pillango resp_prep 0.1 green q 0.430632377916
+pillango resp_prep 0.3 red p 0.485498986673
+pillango resp_prep 0.3 green q 0.43864029838
+pillango resp_prep 0.1 green q 0.458155448548
+pillango resp_prep 1.0 green q 0.395649433514
+pillango resp_prep 0.1 red p 0.518157107406
+pillango resp_prep 0.3 red p 0.4474709887
+pillango resp_prep 0.3 red p 0.367462827504
+pillango resp_prep 0.8 green q 0.450254967669
+pillango resp_prep 1.0 green q 0.436201385775
+pillango resp_prep 0.3 red p 0.499820642464
+pillango resp_prep 0.6 green q 0.372578979441
+pillango resp_prep 0.8 red p 0.535360032693
+pillango resp_prep 0.6 red p 0.521181163029
+pillango resp_prep 1.0 red p 0.421325033996
+pillango resp_prep 0.1 red p 0.440010764956
+pillango resp_prep 0.3 red p 0.423437778343
+pillango resp_prep 1.0 red p 0.344995714666
+pillango resp_prep 0.8 red p 0.459330284211
+pillango resp_prep 1.0 green q 0.525749268301
+pillango resp_prep 0.8 red p 0.508566991019
+pillango resp_prep 0.8 red p 0.490939207055
+pillango resp_prep 0.1 green p 0.807708769542
+pillango resp_prep 0.3 red q 0.928662594699
+pillango resp_prep 0.1 red p 0.68044610857
+pillango resp_prep 1.0 red p 0.320174031076
+pillango resp_prep 0.8 red p 0.401718542707
+pillango resp_prep 0.3 green q 0.544543138734
+pillango resp_prep 1.0 green q 0.388977683033
+pillango resp_prep 1.0 red p 0.517263994348
+pillango resp_prep 0.1 green q 0.514970317628
+pillango resp_prep 0.1 green q 0.407640316233
+pillango resp_prep 0.8 green q 0.354921798367
+pillango resp_prep 0.3 red p 0.432580988243
+pillango resp_prep 0.1 red p 0.427797303913
+pillango resp_prep 0.8 green q 0.463339843875
+pillango resp_prep 0.3 green q 0.34374878605
+pillango resp_prep 1.0 red p 0.326901776134
+pillango resp_prep 0.6 green q 0.451377658377
+pillango resp_prep 0.3 red p 0.523420245037
+pillango resp_prep 1.0 red p 0.383356880193
+pillango resp_prep 0.8 green q 0.52251243341
+pillango resp_prep 0.3 red p 0.388496829837
+pillango resp_prep 0.1 green q 0.366434627591
+pillango resp_prep 0.6 green q 0.547297370591
+pillango resp_prep 0.6 green q 0.341706384876
+pillango resp_prep 0.6 green q 0.410540133889
+pillango resp_prep 0.1 red p 0.397304422426
+pillango resp_prep 0.6 red p 0.402895128151
+pillango resp_prep 0.6 red p 0.321337667789
+pillango resp_prep 0.1 red p 0.433680931164
+pillango resp_prep 0.8 green q 0.341632542084
+pillango resp_prep 0.3 red p 0.466960241407
+pillango resp_prep 0.8 green q 0.400067403447
+pillango resp_prep 0.3 green q 0.430804911157
+pillango resp_prep 0.6 green q 0.390057677869
+pillango resp_prep 0.6 green q 0.356081935432
+pillango resp_prep 0.1 red p 0.445278102183
+pillango resp_prep 0.3 green q 0.516512267553
+pillango resp_prep 0.8 red p 0.363324130391
+pillango resp_prep 1.0 green q 0.459321185073
+pillango resp_prep 0.6 red p 0.451344411616
+pillango resp_prep 0.1 green q 0.486918798473
+pillango resp_prep 0.6 red p 0.382820032479
+pillango resp_prep 0.3 red p 0.341301474313
+pillango resp_prep 1.0 green q 0.556221851817
+pillango resp_prep 0.8 red p 0.452029644919
+pillango resp_prep 0.6 red p 0.491658387036
+pillango resp_prep 0.8 red p 0.377657335048
+pillango resp_prep 0.1 red p 0.403678001923
+pillango resp_prep 1.0 red p 0.564041140577
+pillango resp_prep 0.1 green q 0.850724132004
+pillango resp_prep 0.8 red p 0.473308623419
+pillango resp_prep 0.6 green q 0.433609188156
+pillango resp_prep 1.0 red p 0.363275135169
+pillango resp_prep 0.1 red p 0.428721563949
+pillango resp_prep 0.6 red p 0.419273183739
+pillango resp_prep 0.1 green q 0.534079157398
+pillango resp_prep 0.1 red p 0.539232755691
+pillango resp_prep 1.0 green q 0.382773836958
+pillango resp_prep 0.1 red p 0.432876709441
+pillango resp_prep 0.1 green p 0.443630812515
+pillango resp_prep 1.0 green p 0.332812000765
+pillango resp_prep 0.1 green q 0.541642621072

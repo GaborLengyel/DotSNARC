@@ -1,0 +1,2167 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_17_1111', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'krumpli', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+krumpli SNARC line dot DC 0 down 40 lctrl 1.81836819649
+krumpli SNARC line dot DC 0 down 5 lctrl 0.532018184662
+krumpli SNARC line dot DC 0 up 5 num_separator 0.483329057693
+krumpli SNARC line dot DC 0 down 40 lctrl 0.490960836411
+krumpli SNARC line dot DC 0 down 45 lctrl 0.410542011261
+krumpli SNARC line dot DC 0 up 30 num_separator 0.513767004013
+krumpli SNARC line dot DC 0 down 15 lctrl 0.436882972717
+krumpli SNARC line dot DC 0 down 25 lctrl 0.459750890732
+krumpli SNARC line dot DC 0 up 5 num_separator 0.449851036072
+krumpli SNARC line dot DC 0 up 35 num_separator 0.458023071289
+krumpli SNARC line dot DC 0 up 35 num_separator 0.387084960938
+krumpli SNARC line dot DC 0 down 15 lctrl 0.395705938339
+krumpli SNARC line dot DC 0 up 20 num_separator 0.355350971222
+krumpli SNARC line dot DC 0 up 5 num_separator 0.372217178345
+krumpli SNARC line dot DC 0 up 15 num_separator 0.371678829193
+krumpli SNARC line dot DC 0 up 20 num_separator 0.363028049469
+krumpli SNARC line dot DC 0 down 35 lctrl 0.371068954468
+krumpli SNARC line dot DC 0 down 45 lctrl 0.434345006943
+krumpli SNARC line dot DC 0 down 35 lctrl 0.353991985321
+krumpli SNARC line dot DC 0 down 30 lctrl 0.349248170853
+krumpli SNARC line dot DC 0 down 10 lctrl 0.328768014908
+krumpli SNARC line dot DC 0 up 45 num_separator 0.370380878448
+krumpli SNARC line dot DC 0 up 5 num_separator 0.355986118317
+krumpli SNARC line dot DC 0 up 45 num_separator 0.401916027069
+krumpli SNARC line dot DC 0 down 35 lctrl 0.410410881042
+krumpli SNARC line dot DC 0 down 30 lctrl 0.370244979858
+krumpli SNARC line dot DC 0 up 10 num_separator 0.395852088928
+krumpli SNARC line dot DC 0 up 20 num_separator 0.387124061584
+krumpli SNARC line dot DC 0 up 5 num_separator 0.3245677948
+krumpli SNARC line dot DC 0 up 45 num_separator 0.393122911453
+krumpli SNARC line dot DC 0 up 15 num_separator 0.32395195961
+krumpli SNARC line dot DC 0 down 30 lctrl 0.395345211029
+krumpli SNARC line dot DC 0 up 25 num_separator 0.322100877762
+krumpli SNARC line dot DC 0 up 20 num_separator 0.37197303772
+krumpli SNARC line dot DC 0 down 25 lctrl 0.291491031647
+krumpli SNARC line dot DC 0 down 45 lctrl 0.346096992493
+krumpli SNARC line dot DC 0 down 10 lctrl 0.299103021622
+krumpli SNARC line dot DC 0 up 5 num_separator 0.33182311058
+krumpli SNARC line dot DC 0 down 45 lctrl 0.346616983414
+krumpli SNARC line dot DC 0 down 40 lctrl 0.314377784729
+krumpli SNARC line dot DC 0 down 20 lctrl 0.322979927063
+krumpli SNARC line dot DC 0 down 15 lctrl 0.331212997437
+krumpli SNARC line dot DC 0 up 25 num_separator 0.386312961578
+krumpli SNARC line dot DC 0 down 35 lctrl 0.402662038803
+krumpli SNARC line dot DC 0 down 30 lctrl 0.346271038055
+krumpli SNARC line dot DC 0 up 5 num_separator 0.355933904648
+krumpli SNARC line dot DC 0 down 5 lctrl 0.356459140778
+krumpli SNARC line dot DC 0 up 40 num_separator 0.361390829086
+krumpli SNARC line dot DC 0 up 45 num_separator 0.32906293869
+krumpli SNARC line dot DC 0 up 5 num_separator 0.30066204071
+krumpli SNARC line dot DC 0 up 5 num_separator 0.290401220322
+krumpli SNARC line dot DC 0 down 45 lctrl 0.289376020432
+krumpli SNARC line dot DC 0 up 10 lctrl 0.332145929337
+krumpli SNARC line dot DC 0 up 10 num_separator 0.45140504837
+krumpli SNARC line dot DC 0 down 45 lctrl 0.433786153793
+krumpli SNARC line dot DC 0 up 40 num_separator 0.361133098602
+krumpli SNARC line dot DC 0 down 45 lctrl 0.376857995987
+krumpli SNARC line dot DC 0 up 20 num_separator 0.355419874191
+krumpli SNARC line dot DC 0 down 10 lctrl 0.396813869476
+krumpli SNARC line dot DC 0 down 45 lctrl 0.360910177231
+krumpli SNARC line dot DC 0 up 20 num_separator 0.330378055573
+krumpli SNARC line dot DC 0 up 40 num_separator 0.345443964005
+krumpli SNARC line dot DC 0 up 10 num_separator 0.307402849197
+krumpli SNARC line dot DC 0 down 30 lctrl 0.362589836121
+krumpli SNARC line dot DC 0 down 5 lctrl 0.300076007843
+krumpli SNARC line dot DC 0 up 15 num_separator 0.322422981262
+krumpli SNARC line dot DC 0 down 5 lctrl 0.33299779892
+krumpli SNARC line dot DC 0 up 5 num_separator 0.299237012863
+krumpli SNARC line dot DC 0 down 20 lctrl 0.459077835083
+krumpli SNARC line dot DC 0 down 15 lctrl 0.387871026993
+krumpli SNARC line dot DC 0 up 40 num_separator 0.290323019028
+krumpli SNARC line dot DC 0 up 30 num_separator 0.345160961151
+krumpli SNARC line dot DC 0 up 30 num_separator 0.363854885101
+krumpli SNARC line dot DC 0 down 30 lctrl 0.314573049545
+krumpli SNARC line dot DC 0 down 15 lctrl 0.314718008041
+krumpli SNARC line dot DC 0 down 25 lctrl 0.323539018631
+krumpli SNARC line dot DC 0 down 20 lctrl 0.323335886002
+krumpli SNARC line dot DC 0 up 30 num_separator 0.306077957153
+krumpli SNARC line dot DC 0 up 30 num_separator 0.314609050751
+krumpli SNARC line dot DC 0 up 20 num_separator 0.313811779022
+krumpli SNARC line dot DC 0 up 25 num_separator 0.362538099289
+krumpli SNARC line dot DC 0 up 15 num_separator 0.276059865952
+krumpli SNARC line dot DC 0 up 15 num_separator 0.339524030685
+krumpli SNARC line dot DC 0 down 5 lctrl 0.339970111847
+krumpli SNARC line dot DC 0 down 40 lctrl 0.377779006958
+krumpli SNARC line dot DC 0 up 25 num_separator 0.345731019974
+krumpli SNARC line dot DC 0 down 25 lctrl 0.354054927826
+krumpli SNARC line dot DC 0 up 30 num_separator 0.329761981964
+krumpli SNARC line dot DC 0 down 10 num_separator 0.331672906876
+krumpli SNARC line dot DC 0 down 5 lctrl 0.364161014557
+krumpli SNARC line dot DC 0 up 10 num_separator 0.380311012268
+krumpli SNARC line dot DC 0 up 35 num_separator 0.410209178925
+krumpli SNARC line dot DC 0 up 25 num_separator 0.30784702301
+krumpli SNARC line dot DC 0 down 45 lctrl 0.360141038895
+krumpli SNARC line dot DC 0 up 40 num_separator 0.362550973892
+krumpli SNARC line dot DC 0 down 15 lctrl 0.34770989418
+krumpli SNARC line dot DC 0 up 25 num_separator 0.378612995148
+krumpli SNARC line dot DC 0 up 30 num_separator 0.378159046173
+krumpli SNARC line dot DC 0 up 20 num_separator 0.355705022812
+krumpli SNARC line dot DC 0 up 40 num_separator 0.345547914505
+krumpli SNARC line dot DC 0 up 35 num_separator 0.346616983414
+krumpli SNARC line dot DC 0 up 15 num_separator 0.403247833252
+krumpli SNARC line dot DC 0 down 30 num_separator 0.314352035522
+krumpli SNARC line dot DC 0 up 25 num_separator 1.28197908401
+krumpli SNARC line dot DC 0 down 30 lctrl 0.330464839935
+krumpli SNARC line dot DC 0 up 45 num_separator 0.36025094986
+krumpli SNARC line dot DC 0 up 40 num_separator 0.394159078598
+krumpli SNARC line dot DC 0 down 25 lctrl 0.346406936646
+krumpli SNARC line dot DC 0 up 45 num_separator 0.384026050568
+krumpli SNARC line dot DC 0 down 30 num_separator 0.347172021866
+krumpli SNARC line dot DC 0 up 5 num_separator 0.395714998245
+krumpli SNARC line dot DC 0 up 20 num_separator 0.401882886887
+krumpli SNARC line dot DC 0 down 10 lctrl 0.308480978012
+krumpli SNARC line dot DC 0 up 40 num_separator 0.44916009903
+krumpli SNARC line dot DC 0 down 10 lctrl 0.332053899765
+krumpli SNARC line dot DC 0 up 5 num_separator 0.348541975021
+krumpli SNARC line dot DC 0 down 45 lctrl 0.336656093597
+krumpli SNARC line dot DC 0 down 15 lctrl 0.347612142563
+krumpli SNARC line dot DC 0 up 10 num_separator 0.386526823044
+krumpli SNARC line dot DC 0 up 35 num_separator 0.441576957703
+krumpli SNARC line dot DC 0 down 40 lctrl 0.345729112625
+krumpli SNARC line dot DC 0 down 40 lctrl 0.361144065857
+krumpli SNARC line dot DC 0 down 10 lctrl 0.379161834717
+krumpli SNARC line dot DC 0 up 30 num_separator 0.457068920135
+krumpli SNARC line dot DC 0 down 30 lctrl 0.363910913467
+krumpli SNARC line dot DC 0 up 20 num_separator 0.442440032959
+krumpli SNARC line dot DC 0 up 10 num_separator 0.404875993729
+krumpli SNARC line dot DC 0 up 15 num_separator 0.338824033737
+krumpli SNARC line dot DC 0 up 35 num_separator 0.410418987274
+krumpli SNARC line dot DC 0 down 10 lctrl 0.355134963989
+krumpli SNARC line dot DC 0 down 35 lctrl 0.377432107925
+krumpli SNARC line dot DC 0 up 25 num_separator 0.378118991852
+krumpli SNARC line dot DC 0 down 35 num_separator 0.352869033813
+krumpli SNARC line dot DC 0 down 25 lctrl 0.362383127213
+krumpli SNARC line dot DC 0 down 45 lctrl 0.383600950241
+krumpli SNARC line dot DC 0 up 20 num_separator 0.338275909424
+krumpli SNARC line dot DC 0 down 15 lctrl 0.331994771957
+krumpli SNARC line dot DC 0 up 10 num_separator 0.395593166351
+krumpli SNARC line dot DC 0 down 10 lctrl 0.308724164963
+krumpli SNARC line dot DC 0 up 5 num_separator 0.307947874069
+krumpli SNARC line dot DC 0 up 10 num_separator 0.371101140976
+krumpli SNARC line dot DC 0 down 45 lctrl 0.296792984009
+krumpli SNARC line dot DC 0 down 5 lctrl 0.364737987518
+krumpli SNARC line dot DC 0 down 20 lctrl 0.35499215126
+krumpli SNARC line dot DC 0 up 40 num_separator 0.416554927826
+krumpli SNARC line dot DC 0 down 30 lctrl 0.331747055054
+krumpli SNARC line dot DC 0 down 40 lctrl 0.313216924667
+krumpli SNARC line dot DC 0 up 20 num_separator 0.378711938858
+krumpli SNARC line dot DC 0 down 20 lctrl 0.275521993637
+krumpli SNARC line dot DC 0 down 35 lctrl 0.362182855606
+krumpli SNARC line dot DC 0 up 5 num_separator 0.402684926987
+krumpli SNARC line dot DC 0 up 10 num_separator 0.332457780838
+krumpli SNARC line dot DC 0 up 40 num_separator 0.401293992996
+krumpli SNARC line dot DC 0 down 25 lctrl 0.322417020798
+krumpli SNARC line dot DC 0 down 20 lctrl 0.339855194092
+krumpli SNARC line dot DC 0 up 10 num_separator 0.427000045776
+krumpli SNARC line dot DC 0 down 35 lctrl 0.314027070999
+krumpli SNARC line dot DC 0 up 10 num_separator 0.418658971786
+krumpli SNARC line dot DC 0 down 35 lctrl 0.346487998962
+krumpli SNARC line dot DC 0 up 35 num_separator 0.321196079254
+krumpli SNARC line dot DC 0 up 40 num_separator 0.392922878265
+krumpli SNARC line dot DC 0 up 30 num_separator 0.35348200798
+krumpli SNARC line dot DC 0 down 20 lctrl 0.355431079865
+krumpli SNARC line dot DC 0 up 35 num_separator 0.33637213707
+krumpli SNARC line dot DC 0 up 40 num_separator 0.353152990341
+krumpli SNARC line dot DC 0 down 30 lctrl 0.322949886322
+krumpli SNARC line dot DC 0 up 40 num_separator 0.320971012115
+krumpli SNARC line dot DC 0 down 45 num_separator 0.343977928162
+krumpli SNARC line dot DC 0 up 40 num_separator 0.441565990448
+krumpli SNARC line dot DC 0 up 25 num_separator 0.403346061707
+krumpli SNARC line dot DC 0 up 5 num_separator 0.48336482048
+krumpli SNARC line dot DC 0 up 5 num_separator 0.378843069077
+krumpli SNARC line dot DC 0 up 5 num_separator 0.396229028702
+krumpli SNARC line dot DC 0 down 5 lctrl 0.332674026489
+krumpli SNARC line dot DC 0 up 25 num_separator 0.368940114975
+krumpli SNARC line dot DC 0 up 30 num_separator 0.39461183548
+krumpli SNARC line dot DC 0 up 45 num_separator 0.352455854416
+krumpli SNARC line dot DC 0 down 15 lctrl 0.28311419487
+krumpli SNARC line dot DC 0 up 20 num_separator 0.33033490181
+krumpli SNARC line dot DC 0 down 25 lctrl 0.29896402359
+krumpli SNARC line dot DC 0 up 35 num_separator 0.337938785553
+krumpli SNARC line dot DC 0 down 10 lctrl 0.30815410614
+krumpli SNARC line dot DC 0 up 20 num_separator 0.299385070801
+krumpli SNARC line dot DC 0 up 35 num_separator 0.369263887405
+krumpli SNARC line dot DC 0 up 10 num_separator 0.32411813736
+krumpli SNARC line dot DC 0 up 35 num_separator 0.356814146042
+krumpli SNARC line dot DC 0 up 20 num_separator 0.371174097061
+krumpli SNARC line dot DC 0 up 20 num_separator 0.338719844818
+krumpli SNARC line dot DC 0 up 5 num_separator 0.372465133667
+krumpli SNARC line dot DC 0 up 40 num_separator 0.368418931961
+krumpli SNARC line dot DC 0 down 10 lctrl 0.376259088516
+krumpli SNARC line dot DC 0 down 30 lctrl 0.473450899124
+krumpli SNARC line dot DC 0 up 25 num_separator 0.337403059006
+krumpli SNARC line dot DC 0 up 5 num_separator 0.355661869049
+krumpli SNARC line dot DC 0 up 35 num_separator 0.378345012665
+krumpli SNARC line dot DC 0 up 20 num_separator 0.370404958725
+krumpli SNARC line dot DC 0 down 45 lctrl 0.36203789711
+krumpli SNARC line dot DC 0 up 25 num_separator 0.3696808815
+krumpli SNARC line dot DC 0 up 45 num_separator 0.360909938812
+krumpli SNARC line dot DC 0 down 25 lctrl 0.355447053909
+krumpli SNARC line dot DC 0 down 25 lctrl 0.35485291481
+krumpli SNARC line dot DC 0 up 40 num_separator 0.375791072845
+krumpli SNARC line dot DC 0 down 35 num_separator 0.36043214798
+krumpli SNARC line dot DC 0 down 25 lctrl 0.354197978973
+krumpli SNARC line dot DC 0 up 5 num_separator 0.411615848541
+krumpli SNARC line dot DC 0 down 20 lctrl 0.331253051758
+krumpli SNARC line dot DC 0 up 35 num_separator 0.896435022354
+krumpli SNARC line dot DC 0 down 5 lctrl 0.347418069839
+krumpli SNARC line dot DC 0 down 40 lctrl 0.360403060913
+krumpli SNARC line dot DC 0 up 10 num_separator 0.40243601799
+krumpli SNARC line dot DC 0 up 45 num_separator 0.351943016052
+krumpli SNARC line dot DC 0 down 25 num_separator 0.3620429039
+krumpli SNARC line dot DC 0 up 40 num_separator 0.385349035263
+krumpli SNARC line dot DC 0 down 15 lctrl 0.323045969009
+krumpli SNARC line dot DC 0 down 30 lctrl 0.353854179382
+krumpli SNARC line dot DC 0 up 40 num_separator 0.336272001266
+krumpli SNARC line dot DC 0 up 25 num_separator 0.354765176773
+krumpli SNARC line dot DC 0 down 15 lctrl 0.315817117691
+krumpli SNARC line dot DC 0 down 10 lctrl 0.427519083023
+krumpli SNARC line dot DC 0 up 15 num_separator 0.363156080246
+krumpli SNARC line dot DC 0 down 15 lctrl 0.291393995285
+krumpli SNARC line dot DC 0 down 45 lctrl 0.343878984451
+krumpli SNARC line dot DC 0 down 35 lctrl 0.369387865067
+krumpli SNARC line dot DC 0 up 30 num_separator 0.434474945068
+krumpli SNARC line dot DC 0 down 25 lctrl 0.307735919952
+krumpli SNARC line dot DC 0 up 5 num_separator 0.419346094131
+krumpli SNARC line dot DC 0 up 20 num_separator 0.411409139633
+krumpli SNARC line dot DC 0 up 20 num_separator 0.378556966782
+krumpli SNARC line dot DC 0 down 5 lctrl 0.324095964432
+krumpli SNARC line dot DC 0 down 30 lctrl 0.345728158951
+krumpli SNARC line dot DC 0 up 35 num_separator 0.393164157867
+krumpli SNARC line dot DC 0 up 15 num_separator 0.378774166107
+krumpli SNARC line dot DC 0 down 35 lctrl 0.289419174194
+krumpli SNARC line dot DC 0 up 10 num_separator 0.331189870834
+krumpli SNARC line dot DC 0 up 40 num_separator 0.417058944702
+krumpli SNARC line dot DC 0 down 30 lctrl 0.330171108246
+krumpli SNARC line dot DC 0 up 10 num_separator 0.37132191658
+krumpli SNARC line dot DC 0 up 25 num_separator 0.394819021225
+krumpli SNARC line dot DC 0 down 10 lctrl 0.308105945587
+krumpli SNARC line dot DC 0 down 5 lctrl 0.340971946716
+krumpli SNARC line dot DC 0 down 40 lctrl 0.344256877899
+krumpli SNARC line dot DC 0 down 15 lctrl 0.2831158638
+krumpli SNARC line dot DC 0 down 10 lctrl 0.315039873123
+krumpli SNARC line dot DC 0 up 40 num_separator 0.344543933868
+krumpli SNARC line dot DC 0 down 45 lctrl 0.335702180862
+krumpli SNARC line dot DC 0 down 45 lctrl 0.368717908859
+krumpli SNARC line dot DC 0 down 20 lctrl 0.347196102142
+krumpli SNARC line dot DC 0 down 25 lctrl 0.298612117767
+krumpli SNARC line dot DC 0 up 15 num_separator 0.346692085266
+krumpli SNARC line dot DC 0 down 10 lctrl 0.420198917389
+krumpli SNARC line dot DC 0 down 5 lctrl 0.364555120468
+krumpli SNARC line dot DC 0 down 35 lctrl 0.337833881378
+krumpli SNARC line dot DC 0 down 45 lctrl 0.320230960846
+krumpli SNARC line dot DC 0 up 15 num_separator 0.361886978149
+krumpli SNARC line dot DC 0 up 15 num_separator 0.322767972946
+krumpli SNARC line dot DC 0 down 35 lctrl 0.273409128189
+krumpli SNARC line dot DC 0 down 45 lctrl 0.329353809357
+krumpli SNARC line dot DC 0 up 15 num_separator 0.371218919754
+krumpli SNARC line dot DC 0 down 45 lctrl 0.385255098343
+krumpli SNARC line dot DC 0 up 15 num_separator 0.31388092041
+krumpli SNARC line dot DC 0 up 20 num_separator 0.33905005455
+krumpli SNARC line dot DC 0 down 10 lctrl 0.235769033432
+krumpli SNARC line dot DC 0 down 15 lctrl 0.32258105278
+krumpli SNARC line dot DC 0 up 20 num_separator 0.282526016235
+krumpli SNARC line dot DC 0 up 15 num_separator 0.347455978394
+krumpli SNARC line dot DC 0 up 30 lctrl 0.169675111771
+krumpli SNARC line dot DC 0 up 15 lctrl 0.338344097137
+krumpli SNARC line dot DC 0 down 15 lctrl 0.475301027298
+krumpli SNARC line dot DC 0 down 35 lctrl 0.337928771973
+krumpli SNARC line dot DC 0 up 20 num_separator 0.370005846024
+krumpli SNARC line dot DC 0 down 25 lctrl 0.321840047836
+krumpli SNARC line dot DC 0 down 15 lctrl 0.290262937546
+krumpli SNARC line dot DC 0 down 30 lctrl 0.266011953354
+krumpli SNARC line dot DC 0 up 30 num_separator 0.338544845581
+krumpli SNARC line dot DC 0 down 45 lctrl 0.313871860504
+krumpli SNARC line dot DC 0 up 40 num_separator 0.282058000565
+krumpli SNARC line dot DC 0 down 40 lctrl 0.321889877319
+krumpli SNARC line dot DC 0 down 25 lctrl 0.313920021057
+krumpli SNARC line dot DC 0 down 25 lctrl 0.241734981537
+krumpli SNARC line dot DC 0 up 45 num_separator 0.295682907104
+krumpli SNARC line dot DC 0 up 10 num_separator 0.36346912384
+krumpli SNARC line dot DC 0 down 5 lctrl 0.285035848618
+krumpli SNARC line dot DC 0 up 20 num_separator 0.314630031586
+krumpli SNARC line dot DC 0 up 10 num_separator 0.388258218765
+krumpli SNARC line dot DC 0 up 25 num_separator 0.337847948074
+krumpli SNARC line dot DC 0 up 15 num_separator 0.298412084579
+krumpli SNARC line dot DC 0 down 45 lctrl 0.360837936401
+krumpli SNARC line dot DC 0 down 35 lctrl 0.352496147156
+krumpli SNARC line dot DC 0 down 45 lctrl 0.336225032806
+krumpli SNARC line dot DC 0 up 10 num_separator 0.387773990631
+krumpli SNARC line dot DC 0 down 15 lctrl 0.339327096939
+krumpli SNARC line dot DC 0 up 45 lctrl 0.304927825928
+krumpli SNARC line dot DC 0 up 35 num_separator 0.383943080902
+krumpli SNARC line dot DC 0 up 30 num_separator 0.466706991196
+krumpli SNARC line dot DC 0 down 15 lctrl 0.347774982452
+krumpli SNARC line dot DC 0 down 20 lctrl 0.379328012466
+krumpli SNARC line dot DC 0 up 30 num_separator 0.370155096054
+krumpli SNARC line dot DC 0 up 45 num_separator 0.336449861526
+krumpli SNARC line dot DC 0 down 40 lctrl 0.281088113785
+krumpli SNARC line dot DC 0 up 45 num_separator 0.280241012573
+krumpli SNARC line dot DC 0 up 15 num_separator 0.38739490509
+krumpli SNARC line dot DC 0 up 15 lctrl 0.292036056519
+krumpli SNARC line dot DC 0 down 45 lctrl 0.441102027893
+krumpli SNARC line dot DC 0 up 10 num_separator 0.402534008026
+krumpli SNARC line dot DC 0 up 5 num_separator 0.380025863647
+krumpli SNARC line dot DC 0 up 40 num_separator 0.377315998077
+krumpli SNARC line dot DC 0 up 25 num_separator 0.3142619133
+krumpli SNARC line dot DC 0 up 45 num_separator 0.287724971771
+krumpli SNARC line dot DC 0 down 35 lctrl 0.242187023163
+krumpli SNARC line dot DC 0 up 30 num_separator 0.345796108246
+krumpli SNARC line dot DC 0 up 30 num_separator 0.370337963104
+krumpli SNARC line dot DC 0 up 25 num_separator 0.27427482605
+krumpli SNARC line dot DC 0 up 5 num_separator 0.379709005356
+krumpli SNARC line dot DC 0 up 30 num_separator 0.321293115616
+krumpli SNARC line dot DC 0 down 40 lctrl 0.313081979752
+krumpli SNARC line dot DC 0 up 40 num_separator 0.328574180603
+krumpli SNARC line dot DC 0 up 30 num_separator 0.345915794373
+krumpli SNARC line dot DC 0 down 20 lctrl 0.370594978333
+krumpli SNARC line dot DC 0 up 40 num_separator 0.336801052094
+krumpli SNARC line dot DC 0 down 5 lctrl 0.331726074219
+krumpli SNARC line dot DC 0 up 35 num_separator 0.312786102295
+krumpli SNARC line dot DC 0 down 30 num_separator 0.329542160034
+krumpli SNARC line dot DC 0 down 20 lctrl 0.395006895065
+krumpli SNARC line dot DC 0 up 35 num_separator 0.360908985138
+krumpli SNARC line dot DC 0 up 25 num_separator 0.337746858597
+krumpli SNARC line dot DC 0 down 45 lctrl 0.384928941727
+krumpli SNARC line dot DC 0 down 45 lctrl 0.409224033356
+krumpli SNARC line dot DC 0 up 35 num_separator 0.328574895859
+krumpli SNARC line dot DC 0 up 40 num_separator 0.32128405571
+krumpli SNARC line dot DC 0 down 20 lctrl 0.299282073975
+krumpli SNARC line dot DC 0 down 10 lctrl 0.29100394249
+krumpli SNARC line dot DC 0 down 15 lctrl 0.434484958649
+krumpli SNARC line dot DC 0 up 10 num_separator 0.355880022049
+krumpli SNARC line dot DC 0 up 20 num_separator 0.371081113815
+krumpli SNARC line dot DC 0 down 20 lctrl 0.323391914368
+krumpli SNARC line dot DC 0 up 35 lctrl 0.288146018982
+krumpli SNARC line dot DC 0 up 30 num_separator 0.4408390522
+krumpli SNARC line dot DC 0 up 10 num_separator 0.33852481842
+krumpli SNARC line dot DC 0 up 5 num_separator 0.332474946976
+krumpli SNARC line dot DC 0 down 25 num_separator 0.354583978653
+krumpli SNARC line dot DC 0 down 25 lctrl 0.474094152451
+krumpli SNARC line dot DC 0 down 35 lctrl 0.362004041672
+krumpli SNARC line dot DC 0 down 40 num_separator 0.344543218613
+krumpli SNARC line dot DC 0 up 25 num_separator 0.425168991089
+krumpli SNARC line dot DC 0 down 5 lctrl 0.333097219467
+krumpli SNARC line dot DC 0 down 40 lctrl 0.328735113144
+krumpli SNARC line dot DC 0 down 35 lctrl 0.314877033234
+krumpli SNARC line dot DC 0 down 25 lctrl 0.289929866791
+krumpli SNARC line dot DC 0 down 15 lctrl 0.331223011017
+krumpli SNARC line dot DC 0 down 25 lctrl 0.283538818359
+krumpli SNARC line dot DC 0 down 40 lctrl 0.344344854355
+krumpli SNARC line dot DC 0 up 20 num_separator 0.442571163177
+krumpli SNARC line dot DC 0 up 5 num_separator 0.395810842514
+krumpli SNARC line dot DC 0 up 35 num_separator 0.392671108246
+krumpli SNARC line dot DC 0 down 20 lctrl 0.314693927765
+krumpli SNARC line dot DC 0 down 10 lctrl 0.347421884537
+krumpli SNARC line dot DC 0 down 35 num_separator 0.336575984955
+krumpli SNARC line dot DC 0 down 30 lctrl 0.345616102219
+krumpli SNARC line dot DC 0 up 15 num_separator 0.394638061523
+krumpli SNARC line dot DC 0 up 30 num_separator 0.33697104454
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_17_1119', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'krumpli', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.803491830826
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.793083906174
+krumpli SNARC line arabic DC 0 down 8 lctrl 1.06162190437
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.535072088242
+krumpli SNARC line arabic DC 0 down 9 lctrl 5.24578499794
+krumpli SNARC line arabic DC 0 up 3 lctrl 0.344377040863
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.453367948532
+krumpli SNARC line arabic DC 0 up 5 num_0 0.374354124069
+krumpli SNARC line arabic DC 0 up 6 num_separator 1.34330701828
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.384956121445
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.344120025635
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.343949079514
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.384408950806
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.36839389801
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.359074115753
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.359359025955
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.296424865723
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.272119045258
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.305051088333
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.320119142532
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.36034989357
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.36788892746
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.352138996124
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.320522069931
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.335453987122
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.352639198303
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.310510873795
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.360465049744
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.327066898346
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.321429014206
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.328116178513
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.360692977905
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.29508805275
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.364212989807
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.327944993973
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.352177143097
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.342219114304
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.266043901443
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.303347110748
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.27229309082
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.328634977341
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.351300001144
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.327844142914
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.325402021408
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.264827013016
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.320162057877
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.320807933807
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.3275578022
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.376577138901
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.320377111435
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.320683956146
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.301994085312
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.335299015045
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.296646118164
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.272452116013
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.312487840652
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.351165056229
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.384622812271
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.336899995804
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.316361904144
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.279855966568
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.369426965714
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.295259952545
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.28836107254
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.28759098053
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.336631059647
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.345098018646
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.271097898483
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.375553846359
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.247684955597
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.279043912888
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.344786882401
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.303764104843
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.343825817108
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.328516960144
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.281743049622
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.271537065506
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.26526594162
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.263497829437
+krumpli SNARC line arabic DC 0 up 6 lctrl 0.24508690834
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.342833995819
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.3440990448
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.296216011047
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.320818901062
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.343369007111
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.248597145081
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.280727148056
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.288254976273
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.32044005394
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.335904121399
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.343700170517
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.364815950394
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.264383792877
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.272183179855
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.39963889122
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.312298059464
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.296746015549
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.308939933777
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.272089004517
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.287708044052
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.280674934387
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.273118972778
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.44982790947
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.303654909134
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.269797086716
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.265099048615
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.391332149506
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.352861881256
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.266518831253
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.35076212883
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.271587133408
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.321002960205
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.388283967972
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.268502950668
+krumpli SNARC line arabic DC 0 down 5 num_separator 0.311904191971
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.287750005722
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.328180074692
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.320554018021
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.316427946091
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.328567028046
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.272626876831
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.279740095139
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.391680002213
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.376617908478
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.448492050171
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.375547885895
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.375615119934
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.45943403244
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.352267980576
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.320473909378
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.296993970871
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.321094036102
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.344652891159
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.307238101959
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.333164930344
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.30491900444
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.335884094238
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.271620035172
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.343681097031
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.255697965622
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.255617141724
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.312493085861
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.304277896881
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.24933385849
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.335011005402
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.359029054642
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.30490398407
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.32736492157
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.276218891144
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.356351852417
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.305603981018
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.330711841583
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.369219064713
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.288038015366
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.361340999603
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.282800912857
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.357515096664
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.335508108139
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.313237905502
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.336754798889
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.303746938705
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.280589818954
+krumpli SNARC line arabic DC 0 up 9 lctrl 0.240434885025
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.33670091629
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.374989032745
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.384196996689
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.312774181366
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.312355041504
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.425001859665
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.296557188034
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.319598913193
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.331097126007
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.397578001022
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.367896080017
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.34167599678
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.296638011932
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.303629875183
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.304607868195
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.295851945877
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.287436962128
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.25580906868
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.308866977692
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.3354139328
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.264481067657
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.304077148438
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.224771976471
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.264773130417
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.272264003754
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.327903032303
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.351900815964
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.303072929382
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.232400178909
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.304851055145
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.359960794449
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.312920808792
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.344412088394
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.32830286026
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.353101968765
+krumpli SNARC line arabic DC 0 up 6 lctrl 0.24852013588
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.264094829559
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.472533941269
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.328564882278
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.31175994873
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.879498004913
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.264514923096
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.312155008316
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.352324962616
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.393006086349
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.295977830887
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.36843585968
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.351485967636
+krumpli SNARC line arabic DC 0 up 4 lctrl 0.256734848022
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.407371997833
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.328616142273
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.328141927719
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.288035869598
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.352079868317
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.362562894821
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.37375497818
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.284847021103
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.323340892792
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.287561893463
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.311789989471
+krumpli SNARC line arabic DC 0 down 6 num_separator 0.240607976913
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.312464952469
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.359509944916
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.384046077728
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.351791143417
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.333196163177
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.311633110046
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.463793992996
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.313894987106
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.32026386261
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.368336200714
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.340919971466
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.28711605072
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.24017906189
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.272906064987
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.276958942413
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.268663883209
+krumpli SNARC line arabic DC 0 down 5 num_separator 0.328637838364
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.271826028824
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.384618997574
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.560391902924
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.32729101181
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.360299110413
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.368111848831
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.423403978348
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.367503881454
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.456593990326
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.36908197403
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.328284978867
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.283758163452
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.31750202179
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.248068094254
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.380271911621
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.269752025604
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.32502412796
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.256754875183
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.349336147308
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.272468090057
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.343670129776
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.287318944931
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.351505994797
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.327785968781
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.239925146103
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.319400787354
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.274167060852
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.27073597908
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.347798109055
+krumpli SNARC line arabic DC 0 up 7 lctrl 0.31228685379
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.375236988068
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.328195095062
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.368898153305
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.295341014862
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.311586141586
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.400815010071
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.311614990234
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.336160182953
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.264891862869
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.296099901199
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.272475004196
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.288017988205
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.264261960983
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.28555893898
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.393710851669
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.335667848587
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.392972946167
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.289031028748
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.408141851425
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.21241402626
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.363968133926
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.41987991333
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.383269071579
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.209069013596
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.303983211517
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.248879909515
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.383532047272
+krumpli SNARC line arabic DC 0 up 9 num_separator 0.424515962601
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.320139884949
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.335778951645
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.4239320755
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.344079971313
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.295838117599
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.409134864807
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.316125869751
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.264485120773
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.297096967697
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.333973884583
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.223754882812
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.26442193985
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.275909900665
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.295043945312
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.301165819168
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.535723924637
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.280730009079
+krumpli SNARC line arabic DC 0 down 3 lctrl 0.328291893005
+krumpli SNARC line arabic DC 0 up 8 lctrl 0.208575963974
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.375049114227
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.360033035278
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.291913032532
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.296879053116
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.35188794136
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.384111166
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.446748971939
+krumpli SNARC line arabic DC 0 down 6 lctrl 0.689032077789
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.360645055771
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.303994178772
+krumpli SNARC line arabic DC 0 down 9 lctrl 0.295161962509
+krumpli SNARC line arabic DC 0 down 8 lctrl 0.256423950195
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.320562124252
+krumpli SNARC line arabic DC 0 up 5 num_separator 0.351137876511
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.320976018906
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.248358011246
+krumpli SNARC line arabic DC 0 up 1 lctrl 0.232819795609
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.416643857956
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.359878063202
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.272588968277
+krumpli SNARC line arabic DC 0 up 2 lctrl 0.287967920303
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.431533098221
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.352683067322
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.307356119156
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.301684856415
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.320427179337
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.336291074753
+krumpli SNARC line arabic DC 0 up 7 num_separator 0.35259604454
+krumpli SNARC line arabic DC 0 down 2 lctrl 0.289680957794
+krumpli SNARC line arabic DC 0 up 4 num_separator 0.431500911713
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.337107896805
+krumpli SNARC line arabic DC 0 up 6 num_separator 0.328098058701
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.2729408741
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.282086849213
+krumpli SNARC line arabic DC 0 down 4 lctrl 0.230426073074
+krumpli SNARC line arabic DC 0 up 3 num_separator 0.263910055161
+krumpli SNARC line arabic DC 0 down 7 lctrl 0.329307079315
+krumpli SNARC line arabic DC 0 up 2 num_separator 0.2481341362
+krumpli SNARC line arabic DC 0 down 5 lctrl 0.304397106171
+krumpli SNARC line arabic DC 0 up 8 num_separator 0.368400096893
+krumpli SNARC line arabic DC 0 down 1 lctrl 0.344576835632
+krumpli SNARC line arabic DC 0 up 1 num_separator 0.355403184891
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_17_1128', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'krumpli', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_17_1131', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'krumpli', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+krumpli SNARC line dot CD 0 down 45 num_separator 1.69572210312
+krumpli SNARC line dot CD 0 up 25 lctrl 0.371463775635
+krumpli SNARC line dot CD 0 down 10 lctrl 0.404392957687
+krumpli SNARC line dot CD 0 up 25 lctrl 0.821895122528
+krumpli SNARC line dot CD 0 up 40 num_separator 0.386698007584
+krumpli SNARC line dot CD 0 down 40 lctrl 0.416409015656
+krumpli SNARC line dot CD 0 up 5 lctrl 2.30982899666
+krumpli SNARC line dot CD 0 up 40 lctrl 0.456184864044
+krumpli SNARC line dot CD 0 down 5 lctrl 0.397095918655
+krumpli SNARC line dot CD 0 up 15 num_separator 0.586662054062
+krumpli SNARC line dot CD 0 up 20 lctrl 1.05141091347
+krumpli SNARC line dot CD 0 down 35 num_separator 0.778245925903
+krumpli SNARC line dot CD 0 down 20 num_separator 0.683120965958
+krumpli SNARC line dot CD 0 down 15 num_separator 0.610947847366
+krumpli SNARC line dot CD 0 down 40 num_separator 0.497484922409
+krumpli SNARC line dot CD 0 up 45 lctrl 0.554249048233
+krumpli SNARC line dot CD 0 up 45 lctrl 0.417881965637
+krumpli SNARC line dot CD 0 up 5 lctrl 0.38881111145
+krumpli SNARC line dot CD 0 up 40 lctrl 0.369415998459
+krumpli SNARC line dot CD 0 up 35 lctrl 0.370340108871
+krumpli SNARC line dot CD 0 up 35 lctrl 0.339293956757
+krumpli SNARC line dot CD 0 down 35 num_separator 0.377119064331
+krumpli SNARC line dot CD 0 down 20 num_separator 0.354728937149
+krumpli SNARC line dot CD 0 down 20 num_separator 0.282638788223
+krumpli SNARC line dot CD 0 down 20 num_separator 0.354460954666
+krumpli SNARC line dot CD 0 down 35 num_separator 0.371553897858
+krumpli SNARC line dot CD 0 down 40 num_separator 0.425426959991
+krumpli SNARC line dot CD 0 down 35 num_separator 0.378232955933
+krumpli SNARC line dot CD 0 down 15 num_separator 0.372075080872
+krumpli SNARC line dot CD 0 up 15 num_separator 0.331351041794
+krumpli SNARC line dot CD 0 down 10 num_separator 0.603192090988
+krumpli SNARC line dot CD 0 up 30 lctrl 0.450442075729
+krumpli SNARC line dot CD 0 down 15 lctrl 0.452506065369
+krumpli SNARC line dot CD 0 up 30 lctrl 1.08226799965
+krumpli SNARC line dot CD 0 up 20 lctrl 0.379202127457
+krumpli SNARC line dot CD 0 up 30 lctrl 0.394490003586
+krumpli SNARC line dot CD 0 up 35 lctrl 0.370054006577
+krumpli SNARC line dot CD 0 down 15 num_separator 0.4274289608
+krumpli SNARC line dot CD 0 up 15 lctrl 0.395906209946
+krumpli SNARC line dot CD 0 up 30 lctrl 0.459187030792
+krumpli SNARC line dot CD 0 up 10 lctrl 0.362889051437
+krumpli SNARC line dot CD 0 up 30 lctrl 0.331573963165
+krumpli SNARC line dot CD 0 up 25 lctrl 0.298861980438
+krumpli SNARC line dot CD 0 down 25 num_separator 0.314059972763
+krumpli SNARC line dot CD 0 down 20 num_separator 0.338269948959
+krumpli SNARC line dot CD 0 up 30 lctrl 0.378572940826
+krumpli SNARC line dot CD 0 up 15 num_separator 0.338723897934
+krumpli SNARC line dot CD 0 down 25 num_separator 0.66636300087
+krumpli SNARC line dot CD 0 down 45 num_separator 0.344830036163
+krumpli SNARC line dot CD 0 up 25 lctrl 0.467041015625
+krumpli SNARC line dot CD 0 down 45 num_separator 0.432183027267
+krumpli SNARC line dot CD 0 down 5 num_separator 0.324491977692
+krumpli SNARC line dot CD 0 down 40 num_separator 0.618730068207
+krumpli SNARC line dot CD 0 down 30 num_separator 0.354637145996
+krumpli SNARC line dot CD 0 down 40 num_separator 0.306133985519
+krumpli SNARC line dot CD 0 up 35 lctrl 0.442521095276
+krumpli SNARC line dot CD 0 up 30 lctrl 0.434458017349
+krumpli SNARC line dot CD 0 up 20 num_separator 0.354093074799
+krumpli SNARC line dot CD 0 down 10 num_separator 0.499669075012
+krumpli SNARC line dot CD 0 down 10 num_separator 0.347676038742
+krumpli SNARC line dot CD 0 up 25 lctrl 0.354298114777
+krumpli SNARC line dot CD 0 up 25 lctrl 0.338244915009
+krumpli SNARC line dot CD 0 up 35 lctrl 0.337176084518
+krumpli SNARC line dot CD 0 up 45 lctrl 0.305438995361
+krumpli SNARC line dot CD 0 up 20 lctrl 0.315584897995
+krumpli SNARC line dot CD 0 down 20 lctrl 0.514738798141
+krumpli SNARC line dot CD 0 up 5 lctrl 0.596656084061
+krumpli SNARC line dot CD 0 up 40 lctrl 0.400866985321
+krumpli SNARC line dot CD 0 down 5 num_separator 0.35619187355
+krumpli SNARC line dot CD 0 up 35 lctrl 0.3777821064
+krumpli SNARC line dot CD 0 down 40 num_separator 0.329855918884
+krumpli SNARC line dot CD 0 up 10 lctrl 0.403722047806
+krumpli SNARC line dot CD 0 up 20 lctrl 0.378880977631
+krumpli SNARC line dot CD 0 down 15 num_separator 0.395170927048
+krumpli SNARC line dot CD 0 up 45 lctrl 0.521249771118
+krumpli SNARC line dot CD 0 up 30 lctrl 0.482357978821
+krumpli SNARC line dot CD 0 down 10 num_separator 0.4115858078
+krumpli SNARC line dot CD 0 down 45 lctrl 0.344804048538
+krumpli SNARC line dot CD 0 up 35 lctrl 0.601943969727
+krumpli SNARC line dot CD 0 up 45 lctrl 0.417261123657
+krumpli SNARC line dot CD 0 up 5 lctrl 0.363523006439
+krumpli SNARC line dot CD 0 up 20 lctrl 0.435796976089
+krumpli SNARC line dot CD 0 down 45 lctrl 0.345023155212
+krumpli SNARC line dot CD 0 up 35 lctrl 0.793906927109
+krumpli SNARC line dot CD 0 down 20 num_separator 0.507200956345
+krumpli SNARC line dot CD 0 up 45 lctrl 0.449509143829
+krumpli SNARC line dot CD 0 up 25 lctrl 0.355299949646
+krumpli SNARC line dot CD 0 up 15 lctrl 0.426447868347
+krumpli SNARC line dot CD 0 down 30 num_separator 0.425225019455
+krumpli SNARC line dot CD 0 up 15 lctrl 0.380239009857
+krumpli SNARC line dot CD 0 up 20 lctrl 0.499583005905
+krumpli SNARC line dot CD 0 up 15 lctrl 0.363126039505
+krumpli SNARC line dot CD 0 down 5 num_separator 0.362951040268
+krumpli SNARC line dot CD 0 up 40 lctrl 0.28885102272
+krumpli SNARC line dot CD 0 down 15 num_separator 0.435168981552
+krumpli SNARC line dot CD 0 down 45 num_separator 0.313744783401
+krumpli SNARC line dot CD 0 down 15 num_separator 0.372477054596
+krumpli SNARC line dot CD 0 down 5 num_separator 0.292483091354
+krumpli SNARC line dot CD 0 down 40 lctrl 0.394530057907
+krumpli SNARC line dot CD 0 up 25 lctrl 0.522506952286
+krumpli SNARC line dot CD 0 down 25 num_separator 0.393471002579
+krumpli SNARC line dot CD 0 down 45 num_separator 0.385338068008
+krumpli SNARC line dot CD 0 up 25 lctrl 0.475139141083
+krumpli SNARC line dot CD 0 down 25 num_separator 0.610421180725
+krumpli SNARC line dot CD 0 down 25 num_separator 0.329943180084
+krumpli SNARC line dot CD 0 up 40 lctrl 0.354091882706
+krumpli SNARC line dot CD 0 up 35 num_separator 0.40166592598
+krumpli SNARC line dot CD 0 down 35 num_separator 0.473489999771
+krumpli SNARC line dot CD 0 up 35 lctrl 0.529238939285
+krumpli SNARC line dot CD 0 down 25 num_separator 0.426404953003
+krumpli SNARC line dot CD 0 down 15 num_separator 0.356207847595
+krumpli SNARC line dot CD 0 up 25 lctrl 0.418601036072
+krumpli SNARC line dot CD 0 down 35 num_separator 0.473556995392
+krumpli SNARC line dot CD 0 up 40 lctrl 0.553745985031
+krumpli SNARC line dot CD 0 up 25 lctrl 0.410564899445
+krumpli SNARC line dot CD 0 down 30 num_separator 0.39342713356
+krumpli SNARC line dot CD 0 down 10 num_separator 0.34779214859
+krumpli SNARC line dot CD 0 down 40 num_separator 0.489352941513
+krumpli SNARC line dot CD 0 down 10 num_separator 0.44463801384
+krumpli SNARC line dot CD 0 up 15 lctrl 0.475378990173
+krumpli SNARC line dot CD 0 down 20 num_separator 0.370921850204
+krumpli SNARC line dot CD 0 up 35 lctrl 0.459411859512
+krumpli SNARC line dot CD 0 down 30 lctrl 0.386211156845
+krumpli SNARC line dot CD 0 up 30 lctrl 0.434556007385
+krumpli SNARC line dot CD 0 up 20 lctrl 0.410904884338
+krumpli SNARC line dot CD 0 up 30 lctrl 0.410390138626
+krumpli SNARC line dot CD 0 down 30 num_separator 0.370417118073
+krumpli SNARC line dot CD 0 down 45 num_separator 0.417028903961
+krumpli SNARC line dot CD 0 up 45 lctrl 0.393712043762
+krumpli SNARC line dot CD 0 up 5 lctrl 0.332181930542
+krumpli SNARC line dot CD 0 down 35 num_separator 0.44939994812
+krumpli SNARC line dot CD 0 down 25 num_separator 0.401971101761
+krumpli SNARC line dot CD 0 up 10 lctrl 0.460944890976
+krumpli SNARC line dot CD 0 down 40 num_separator 0.35285282135
+krumpli SNARC line dot CD 0 down 25 num_separator 0.353915929794
+krumpli SNARC line dot CD 0 down 5 num_separator 0.315891027451
+krumpli SNARC line dot CD 0 down 10 num_separator 0.29998588562
+krumpli SNARC line dot CD 0 down 10 num_separator 0.387713909149
+krumpli SNARC line dot CD 0 down 20 num_separator 0.3308801651
+krumpli SNARC line dot CD 0 up 35 lctrl 0.337389945984
+krumpli SNARC line dot CD 0 up 20 lctrl 0.57178401947
+krumpli SNARC line dot CD 0 up 35 lctrl 0.361674070358
+krumpli SNARC line dot CD 0 down 15 num_separator 0.29029917717
+krumpli SNARC line dot CD 0 down 30 num_separator 0.24245595932
+krumpli SNARC line dot CD 0 down 10 num_separator 0.379981040955
+krumpli SNARC line dot CD 0 down 15 num_separator 0.475298881531
+krumpli SNARC line dot CD 0 down 35 num_separator 0.433729887009
+krumpli SNARC line dot CD 0 up 30 lctrl 0.338665008545
+krumpli SNARC line dot CD 0 up 5 num_separator 0.331278085709
+krumpli SNARC line dot CD 0 up 25 lctrl 0.306398153305
+krumpli SNARC line dot CD 0 down 15 num_separator 0.323491096497
+krumpli SNARC line dot CD 0 up 5 lctrl 0.436623096466
+krumpli SNARC line dot CD 0 up 45 lctrl 0.360985040665
+krumpli SNARC line dot CD 0 down 5 num_separator 0.339769124985
+krumpli SNARC line dot CD 0 down 30 num_separator 0.386718034744
+krumpli SNARC line dot CD 0 up 45 lctrl 0.327965021133
+krumpli SNARC line dot CD 0 up 20 num_separator 0.339500188828
+krumpli SNARC line dot CD 0 up 25 lctrl 0.410521030426
+krumpli SNARC line dot CD 0 down 35 num_separator 0.337119102478
+krumpli SNARC line dot CD 0 down 45 num_separator 0.392868995667
+krumpli SNARC line dot CD 0 up 25 lctrl 0.403045892715
+krumpli SNARC line dot CD 0 up 35 lctrl 0.481418132782
+krumpli SNARC line dot CD 0 down 10 num_separator 0.420361042023
+krumpli SNARC line dot CD 0 up 10 lctrl 0.483422994614
+krumpli SNARC line dot CD 0 up 15 num_separator 0.315305948257
+krumpli SNARC line dot CD 0 down 45 lctrl 0.37681889534
+krumpli SNARC line dot CD 0 up 15 lctrl 2.69126200676
+krumpli SNARC line dot CD 0 up 15 lctrl 0.307480096817
+krumpli SNARC line dot CD 0 down 5 num_separator 0.403718948364
+krumpli SNARC line dot CD 0 down 5 num_separator 0.331979036331
+krumpli SNARC line dot CD 0 up 25 lctrl 0.579395055771
+krumpli SNARC line dot CD 0 up 10 lctrl 0.308121204376
+krumpli SNARC line dot CD 0 down 20 num_separator 0.346760988235
+krumpli SNARC line dot CD 0 up 10 lctrl 0.371923923492
+krumpli SNARC line dot CD 0 down 15 lctrl 0.354783058167
+krumpli SNARC line dot CD 0 up 15 lctrl 0.330486059189
+krumpli SNARC line dot CD 0 down 30 num_separator 0.457924842834
+krumpli SNARC line dot CD 0 up 5 lctrl 0.363281011581
+krumpli SNARC line dot CD 0 up 30 lctrl 0.403028011322
+krumpli SNARC line dot CD 0 up 5 lctrl 0.331853866577
+krumpli SNARC line dot CD 0 up 45 num_separator 0.336352109909
+krumpli SNARC line dot CD 0 down 45 lctrl 0.328037977219
+krumpli SNARC line dot CD 0 up 45 lctrl 1.72860908508
+krumpli SNARC line dot CD 0 down 30 num_separator 0.442008018494
+krumpli SNARC line dot CD 0 up 25 lctrl 0.355225086212
+krumpli SNARC line dot CD 0 up 35 lctrl 0.370320081711
+krumpli SNARC line dot CD 0 down 20 num_separator 0.418772935867
+krumpli SNARC line dot CD 0 up 5 lctrl 0.397201061249
+krumpli SNARC line dot CD 0 up 10 lctrl 0.404120922089
+krumpli SNARC line dot CD 0 down 40 num_separator 0.328863143921
+krumpli SNARC line dot CD 0 down 10 num_separator 0.331944942474
+krumpli SNARC line dot CD 0 up 5 lctrl 0.356737136841
+krumpli SNARC line dot CD 0 down 45 num_separator 0.352555990219
+krumpli SNARC line dot CD 0 down 20 num_separator 0.378824949265
+krumpli SNARC line dot CD 0 up 40 lctrl 0.326174974442
+krumpli SNARC line dot CD 0 up 45 lctrl 0.368746042252
+krumpli SNARC line dot CD 0 up 20 num_separator 0.362357854843
+krumpli SNARC line dot CD 0 down 15 num_separator 0.3951420784
+krumpli SNARC line dot CD 0 up 25 lctrl 0.417772054672
+krumpli SNARC line dot CD 0 down 10 num_separator 0.362967014313
+krumpli SNARC line dot CD 0 up 5 lctrl 1.14906215668
+krumpli SNARC line dot CD 0 down 30 num_separator 0.730149030685
+krumpli SNARC line dot CD 0 down 45 num_separator 0.592710018158
+krumpli SNARC line dot CD 0 up 20 lctrl 0.418491840363
+krumpli SNARC line dot CD 0 down 20 num_separator 0.299475908279
+krumpli SNARC line dot CD 0 up 10 lctrl 0.492079973221
+krumpli SNARC line dot CD 0 up 10 lctrl 0.347748994827
+krumpli SNARC line dot CD 0 up 25 lctrl 0.346683979034
+krumpli SNARC line dot CD 0 up 45 lctrl 0.408200025558
+krumpli SNARC line dot CD 0 up 5 lctrl 0.292149066925
+krumpli SNARC line dot CD 0 down 10 num_separator 0.347082853317
+krumpli SNARC line dot CD 0 down 30 lctrl 0.354710102081
+krumpli SNARC line dot CD 0 up 30 lctrl 0.545912981033
+krumpli SNARC line dot CD 0 down 30 num_separator 0.328892946243
+krumpli SNARC line dot CD 0 down 20 num_separator 0.332617998123
+krumpli SNARC line dot CD 0 up 10 lctrl 0.31569314003
+krumpli SNARC line dot CD 0 down 40 num_separator 0.376083850861
+krumpli SNARC line dot CD 0 down 40 num_separator 0.441584825516
+krumpli SNARC line dot CD 0 down 45 num_separator 0.289371967316
+krumpli SNARC line dot CD 0 up 5 lctrl 0.34751701355
+krumpli SNARC line dot CD 0 up 40 lctrl 0.369326114655
+krumpli SNARC line dot CD 0 down 35 num_separator 0.297415971756
+krumpli SNARC line dot CD 0 up 35 lctrl 0.281605958939
+krumpli SNARC line dot CD 0 up 40 lctrl 0.313288927078
+krumpli SNARC line dot CD 0 up 5 lctrl 0.347673177719
+krumpli SNARC line dot CD 0 down 30 num_separator 0.289442062378
+krumpli SNARC line dot CD 0 up 45 lctrl 0.305258989334
+krumpli SNARC line dot CD 0 up 10 lctrl 0.308346033096
+krumpli SNARC line dot CD 0 down 40 num_separator 0.448036909103
+krumpli SNARC line dot CD 0 down 30 num_separator 0.329876899719
+krumpli SNARC line dot CD 0 up 45 lctrl 0.297831058502
+krumpli SNARC line dot CD 0 up 15 lctrl 0.347240209579
+krumpli SNARC line dot CD 0 up 10 lctrl 0.356497049332
+krumpli SNARC line dot CD 0 up 35 lctrl 0.378247022629
+krumpli SNARC line dot CD 0 down 25 num_separator 0.345446109772
+krumpli SNARC line dot CD 0 up 20 lctrl 0.307474851608
+krumpli SNARC line dot CD 0 up 45 lctrl 0.306016921997
+krumpli SNARC line dot CD 0 down 5 num_separator 0.355802059174
+krumpli SNARC line dot CD 0 up 35 lctrl 0.329555034637
+krumpli SNARC line dot CD 0 down 45 lctrl 0.385531902313
+krumpli SNARC line dot CD 0 down 25 num_separator 0.498404026031
+krumpli SNARC line dot CD 0 up 45 lctrl 0.424302101135
+krumpli SNARC line dot CD 0 up 10 lctrl 0.434849977493
+krumpli SNARC line dot CD 0 down 10 num_separator 0.451630115509
+krumpli SNARC line dot CD 0 down 30 lctrl 0.346723079681
+krumpli SNARC line dot CD 0 down 40 num_separator 0.559980154037
+krumpli SNARC line dot CD 0 down 25 num_separator 0.313276052475
+krumpli SNARC line dot CD 0 down 25 num_separator 0.330419063568
+krumpli SNARC line dot CD 0 down 40 num_separator 0.328571081161
+krumpli SNARC line dot CD 0 up 15 lctrl 0.37918305397
+krumpli SNARC line dot CD 0 down 20 num_separator 0.395724058151
+krumpli SNARC line dot CD 0 up 5 lctrl 0.460422039032
+krumpli SNARC line dot CD 0 down 25 num_separator 0.537930965424
+krumpli SNARC line dot CD 0 up 10 lctrl 0.388485908508
+krumpli SNARC line dot CD 0 down 20 num_separator 0.450345039368
+krumpli SNARC line dot CD 0 up 25 lctrl 0.370774030685
+krumpli SNARC line dot CD 0 down 45 num_separator 0.367844820023
+krumpli SNARC line dot CD 0 up 40 lctrl 0.32960486412
+krumpli SNARC line dot CD 0 down 20 num_separator 0.44274687767
+krumpli SNARC line dot CD 0 down 25 num_separator 0.306473016739
+krumpli SNARC line dot CD 0 down 35 num_separator 0.320888996124
+krumpli SNARC line dot CD 0 down 40 lctrl 0.361087083817
+krumpli SNARC line dot CD 0 down 30 num_separator 0.298002958298
+krumpli SNARC line dot CD 0 down 10 num_separator 0.331920146942
+krumpli SNARC line dot CD 0 down 5 num_separator 0.292231082916
+krumpli SNARC line dot CD 0 down 45 num_separator 0.401039123535
+krumpli SNARC line dot CD 0 down 15 num_separator 0.283665180206
+krumpli SNARC line dot CD 0 down 5 num_separator 0.316415071487
+krumpli SNARC line dot CD 0 down 35 num_separator 0.400329828262
+krumpli SNARC line dot CD 0 down 25 num_separator 0.307541847229
+krumpli SNARC line dot CD 0 up 20 lctrl 0.443299055099
+krumpli SNARC line dot CD 0 up 35 lctrl 0.360296964645
+krumpli SNARC line dot CD 0 down 35 num_separator 0.945092916489
+krumpli SNARC line dot CD 0 down 10 num_separator 0.35569190979
+krumpli SNARC line dot CD 0 down 40 num_separator 0.314445018768
+krumpli SNARC line dot CD 0 up 10 lctrl 0.372128009796
+krumpli SNARC line dot CD 0 up 30 lctrl 0.321948051453
+krumpli SNARC line dot CD 0 down 15 num_separator 0.370347976685
+krumpli SNARC line dot CD 0 down 40 num_separator 0.337355136871
+krumpli SNARC line dot CD 0 up 15 lctrl 0.531980991364
+krumpli SNARC line dot CD 0 up 5 lctrl 0.364316940308
+krumpli SNARC line dot CD 0 up 40 lctrl 0.361946105957
+krumpli SNARC line dot CD 0 up 40 lctrl 0.377158164978
+krumpli SNARC line dot CD 0 up 15 lctrl 0.29990196228
+krumpli SNARC line dot CD 0 up 30 lctrl 0.353348016739
+krumpli SNARC line dot CD 0 up 15 lctrl 0.329887866974
+krumpli SNARC line dot CD 0 down 40 num_separator 0.304527997971
+krumpli SNARC line dot CD 0 down 45 num_separator 0.360555887222
+krumpli SNARC line dot CD 0 down 20 num_separator 0.306813955307
+krumpli SNARC line dot CD 0 up 40 lctrl 0.513251781464
+krumpli SNARC line dot CD 0 down 5 num_separator 0.453062772751
+krumpli SNARC line dot CD 0 up 30 lctrl 0.394253015518
+krumpli SNARC line dot CD 0 up 10 lctrl 0.244037151337
+krumpli SNARC line dot CD 0 down 30 num_separator 0.434472799301
+krumpli SNARC line dot CD 0 up 35 lctrl 0.313355922699
+krumpli SNARC line dot CD 0 up 30 lctrl 0.33030295372
+krumpli SNARC line dot CD 0 down 5 num_separator 0.395343065262
+krumpli SNARC line dot CD 0 up 20 lctrl 0.291033983231
+krumpli SNARC line dot CD 0 up 25 lctrl 0.242100954056
+krumpli SNARC line dot CD 0 down 5 num_separator 0.371850013733
+krumpli SNARC line dot CD 0 up 40 lctrl 0.298497915268
+krumpli SNARC line dot CD 0 down 10 num_separator 0.282649040222
+krumpli SNARC line dot CD 0 down 15 lctrl 0.228645086288
+krumpli SNARC line dot CD 0 down 15 num_separator 0.682049036026
+krumpli SNARC line dot CD 0 down 35 num_separator 0.345535993576
+krumpli SNARC line dot CD 0 down 20 num_separator 0.362439870834
+krumpli SNARC line dot CD 0 down 40 num_separator 0.305780172348
+krumpli SNARC line dot CD 0 down 30 lctrl 0.28155207634
+krumpli SNARC line dot CD 0 up 45 lctrl 0.43226313591
+krumpli SNARC line dot CD 0 up 15 lctrl 0.363652944565
+krumpli SNARC line dot CD 0 down 20 num_separator 0.404091119766
+krumpli SNARC line dot CD 0 down 35 num_separator 0.328947782516
+krumpli SNARC line dot CD 0 down 45 num_separator 0.263334989548
+krumpli SNARC line dot CD 0 down 35 num_separator 0.36149096489
+krumpli SNARC line dot CD 0 up 30 lctrl 0.266369104385
+krumpli SNARC line dot CD 0 down 5 num_separator 0.403939008713
+krumpli SNARC line dot CD 0 down 10 num_separator 0.252012014389
+krumpli SNARC line dot CD 0 up 30 lctrl 0.275028944016
+krumpli SNARC line dot CD 0 up 25 lctrl 0.418957948685
+krumpli SNARC line dot CD 0 down 30 num_separator 0.305943012238
+krumpli SNARC line dot CD 0 down 10 num_separator 0.259217977524
+krumpli SNARC line dot CD 0 down 40 lctrl 0.27202796936
+krumpli SNARC line dot CD 0 down 20 num_separator 0.490490913391
+krumpli SNARC line dot CD 0 up 40 lctrl 0.386685848236
+krumpli SNARC line dot CD 0 down 15 num_separator 0.338512897491
+krumpli SNARC line dot CD 0 up 25 lctrl 0.394539117813
+krumpli SNARC line dot CD 0 down 25 num_separator 0.338022947311
+krumpli SNARC line dot CD 0 up 45 lctrl 0.272921085358
+krumpli SNARC line dot CD 0 down 15 num_separator 0.394489049911
+krumpli SNARC line dot CD 0 up 5 lctrl 0.373695850372
+krumpli SNARC line dot CD 0 down 20 num_separator 0.354811906815
+krumpli SNARC line dot CD 0 down 20 num_separator 0.402284860611
+krumpli SNARC line dot CD 0 down 25 num_separator 0.394316911697
+krumpli SNARC line dot CD 0 up 40 lctrl 0.448982954025
+krumpli SNARC line dot CD 0 up 15 lctrl 0.363423109055
+krumpli SNARC line dot CD 0 down 10 num_separator 0.31495308876
+krumpli SNARC line dot CD 0 down 10 num_separator 0.26784491539
+krumpli SNARC line dot CD 0 down 45 num_separator 0.352200031281
+krumpli SNARC line dot CD 0 down 30 num_separator 0.337433099747
+krumpli SNARC line dot CD 0 down 40 num_separator 0.488420963287
+krumpli SNARC line dot CD 0 down 35 num_separator 0.297420024872
+krumpli SNARC line dot CD 0 down 15 num_separator 0.30554318428
+krumpli SNARC line dot CD 0 up 45 lctrl 0.351779937744
+krumpli SNARC line dot CD 0 down 25 num_separator 0.423678159714
+krumpli SNARC line dot CD 0 up 35 lctrl 0.364278078079
+krumpli SNARC line dot CD 0 down 20 num_separator 0.266075134277
+krumpli SNARC line dot CD 0 up 40 lctrl 0.329702138901
+krumpli SNARC line dot CD 0 down 20 num_separator 0.298947811127
+krumpli SNARC line dot CD 0 down 30 num_separator 0.273350000381
+krumpli SNARC line dot CD 0 down 35 num_separator 0.297940015793
+krumpli SNARC line dot CD 0 down 5 num_separator 0.300117015839
+krumpli SNARC line dot CD 0 up 5 lctrl 0.548257827759
+krumpli SNARC line dot CD 0 up 5 lctrl 0.347755908966
+krumpli SNARC line dot CD 0 down 10 num_separator 0.251369953156
+krumpli SNARC line dot CD 0 down 15 num_separator 0.28294801712
+krumpli SNARC line dot CD 0 up 35 lctrl 0.23379611969
+krumpli SNARC line dot CD 0 down 5 num_separator 0.292196035385
+krumpli SNARC line dot CD 0 up 10 lctrl 0.371956110001
+krumpli SNARC line dot CD 0 down 5 num_separator 0.252342939377
+krumpli SNARC line dot CD 0 down 5 num_separator 0.364346981049
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_17_1139', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'krumpli', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.746654987335
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.216386079788
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.264332056046
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.272244930267
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.45693397522
+krumpli SNARC line arabic CD 0 up 5 num_separator 0.398704051971
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.361831903458
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.799956083298
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.368543148041
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.32936501503
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.352439880371
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.368839025497
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.303804159164
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.808446884155
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.672600984573
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.311702013016
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.336362123489
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.368219137192
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.333935976028
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.328209877014
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.320313930511
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.295246124268
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.304126977921
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.288676023483
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.328237056732
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.255604028702
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.320057868958
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.287873983383
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.248887062073
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.400396823883
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.288182973862
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.280791044235
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.34469294548
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.296607971191
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.272203922272
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.216622114182
+krumpli SNARC line arabic CD 0 down 1 lctrl 0.312142133713
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.60860991478
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.288355112076
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.280213832855
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.545109987259
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.335415124893
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.240515947342
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.352455854416
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.368713855743
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.336018800735
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.32085108757
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.471577882767
+krumpli SNARC line arabic CD 0 up 3 num_separator 0.351886034012
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.759613037109
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.281322002411
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.36056804657
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.343182086945
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.344254016876
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.281036138535
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.376332998276
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.310967922211
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.344779014587
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.376730203629
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.343371152878
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.313163995743
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.320410013199
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.335253000259
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.319658994675
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.328259944916
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.336896181107
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.336849927902
+krumpli SNARC line arabic CD 0 down 2 lctrl 0.327589988708
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.559324979782
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.351692914963
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.417033910751
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.33697104454
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.344517946243
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.320405006409
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.360282182693
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.312003135681
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.288050889969
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.329737901688
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.335773944855
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.36788892746
+krumpli SNARC line arabic CD 0 down 7 lctrl 0.280951023102
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.511193037033
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.408535003662
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.319751977921
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.287518024445
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.32892203331
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.296464920044
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.311033964157
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.248285055161
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.256834983826
+krumpli SNARC line arabic CD 0 up 2 num_separator 0.376368999481
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.391774892807
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.304724931717
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.367949962616
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.465401887894
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.430956840515
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.232907056808
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.375792980194
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.31275510788
+krumpli SNARC line arabic CD 0 up 2 num_separator 0.336999893188
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.311236858368
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.352683067322
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.248570919037
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.543918848038
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.327481031418
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.35201883316
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.336556196213
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.455623865128
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.265223026276
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.288066864014
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.272150039673
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.439136981964
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.2082259655
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.296502113342
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.305790901184
+krumpli SNARC line arabic CD 0 up 8 num_separator 0.429937124252
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.42310500145
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.456556081772
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.321244955063
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.264592885971
+krumpli SNARC line arabic CD 0 up 3 num_separator 0.432401895523
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.456411123276
+krumpli SNARC line arabic CD 0 down 2 lctrl 0.312144041061
+krumpli SNARC line arabic CD 0 up 3 lctrl 1.09623193741
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.391288042068
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.368611812592
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.360257863998
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.33670592308
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.360714912415
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.30454492569
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.304532051086
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.327898979187
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.295518875122
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.351660013199
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.383753061295
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.328594923019
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.393490076065
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.34376502037
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.336581945419
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.344889879227
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.280701875687
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.288530111313
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.288057088852
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.257112979889
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.343583106995
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.471489906311
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.408784866333
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.383860111237
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.456424951553
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.312917947769
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.37579202652
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.407550811768
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.336472988129
+krumpli SNARC line arabic CD 0 up 8 num_separator 0.335865020752
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.360194921494
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.367040872574
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.424014091492
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.320168018341
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.336996078491
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.319804191589
+krumpli SNARC line arabic CD 0 down 6 lctrl 0.304744005203
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.36003112793
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.440226078033
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.29577088356
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.36004781723
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.344366073608
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.312361955643
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.328305006027
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.399316072464
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.376155138016
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.30425620079
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.431890964508
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.409197807312
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.343789100647
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.352395057678
+krumpli SNARC line arabic CD 0 up 7 num_separator 0.272178888321
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.335430145264
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.488265991211
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.336584806442
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.312381982803
+krumpli SNARC line arabic CD 0 down 7 lctrl 0.328722000122
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.415348052979
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.408684015274
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.351344108582
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.329060077667
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.352349996567
+krumpli SNARC line arabic CD 0 down 7 lctrl 0.295253992081
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.430641889572
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.400367021561
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.456766843796
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.376224040985
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.465116977692
+krumpli SNARC line arabic CD 0 down 3 lctrl 0.408271074295
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.471498012543
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.367789983749
+krumpli SNARC line arabic CD 0 up 7 num_separator 0.335397005081
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.399772882462
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.440622091293
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.369025945663
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.39178609848
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.319765090942
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.40073299408
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.368683099747
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.35201382637
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.414902210236
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.352646112442
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.816381931305
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.344440937042
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.351534128189
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.37571811676
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.400933980942
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.599472045898
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.353140115738
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.336758852005
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.351387023926
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.29532289505
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.295855045319
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.296617984772
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.328262090683
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.384161949158
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.400507926941
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.272063016891
+krumpli SNARC line arabic CD 0 down 9 lctrl 0.416723012924
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.439749002457
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.304747104645
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.360596895218
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.367543935776
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.392927885056
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.311829090118
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.368879079819
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.38391494751
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.31048989296
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.256127119064
+krumpli SNARC line arabic CD 0 up 5 num_separator 0.287494897842
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.399146080017
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.343923807144
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.304188966751
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.343882083893
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.352404117584
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.488861083984
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.336923837662
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.296087026596
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.287817001343
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.311948776245
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.288588047028
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.424155950546
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.367918014526
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.30447101593
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.288593053818
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.368309020996
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.336337804794
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.432139158249
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.360714197159
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.407727956772
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.391976833344
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.335876941681
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.38534784317
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.384184122086
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.368068933487
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.368374109268
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.33690905571
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.335378170013
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.320113182068
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.376502037048
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.447931051254
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.27321600914
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.29606795311
+krumpli SNARC line arabic CD 0 up 1 num_separator 0.303995132446
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.343762159348
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.359740018845
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.312670946121
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.303777933121
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.336246013641
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.368288993835
+krumpli SNARC line arabic CD 0 down 8 num_separator 0.352801084518
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.408476829529
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.376116991043
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.488747119904
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.360447883606
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.383874893188
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.360188007355
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.344154834747
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.42461180687
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.272776126862
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.391857147217
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.24022102356
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.375586986542
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.319723129272
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.311810970306
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.456186056137
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.303803920746
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.295217990875
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.288156986237
+krumpli SNARC line arabic CD 0 up 3 num_separator 0.231939792633
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.432476997375
+krumpli SNARC line arabic CD 0 down 7 lctrl 0.321191072464
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.399334907532
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.335817098618
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.3928399086
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.336367845535
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.351897001266
+krumpli SNARC line arabic CD 0 up 5 num_separator 0.38312292099
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.327669143677
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.313118934631
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.415796995163
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.327785968781
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.37624001503
+krumpli SNARC line arabic CD 0 down 9 lctrl 0.336134910583
+krumpli SNARC line arabic CD 0 down 6 num_separator 0.512340068817
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.407837867737
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.303825139999
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.376932859421
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.255674123764
+krumpli SNARC line arabic CD 0 up 4 num_separator 0.311675071716
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.351129055023
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.352292060852
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.391495943069
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.312412023544
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.415798902512
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.336277961731
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.336349010468
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.39252114296
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.280520915985
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.304374933243
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.424522161484
+krumpli SNARC line arabic CD 0 down 6 lctrl 0.32136297226
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.350256919861
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.375749826431
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.335921049118
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.48911690712
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.256014108658
+krumpli SNARC line arabic CD 0 down 7 num_separator 0.366858959198
+krumpli SNARC line arabic CD 0 up 6 lctrl 0.384041070938
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.287906885147
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.352483034134
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.399051904678
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.263797044754
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.264490127563
+krumpli SNARC line arabic CD 0 down 1 num_separator 0.240425109863
+krumpli SNARC line arabic CD 0 up 2 lctrl 0.288738965988
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.304020166397
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.247412919998
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.336211204529
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.328227043152
+krumpli SNARC line arabic CD 0 down 2 num_separator 0.399421930313
+krumpli SNARC line arabic CD 0 up 3 lctrl 0.224956035614
+krumpli SNARC line arabic CD 0 up 5 lctrl 0.457511901855
+krumpli SNARC line arabic CD 0 up 4 lctrl 0.343910932541
+krumpli SNARC line arabic CD 0 down 5 num_separator 0.287018060684
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.32018995285
+krumpli SNARC line arabic CD 0 up 8 lctrl 0.3201379776
+krumpli SNARC line arabic CD 0 down 9 lctrl 0.328867912292
+krumpli SNARC line arabic CD 0 up 9 lctrl 0.303619861603
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.400027990341
+krumpli SNARC line arabic CD 0 down 9 num_separator 0.312372207642
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.320348024368
+krumpli SNARC line arabic CD 0 up 7 lctrl 0.344936847687
+krumpli SNARC line arabic CD 0 down 3 num_separator 0.399141073227
+krumpli SNARC line arabic CD 0 up 1 lctrl 0.385229110718
+krumpli SNARC line arabic CD 0 down 4 num_separator 0.36021900177
+{'participant': u'krumpli', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_17_1147', 'autopilot': False, 'exp_id': u'SNARC'}
+krumpli SNARC_only DC 5 lctrl 1.47279191017
+krumpli SNARC_only DC 7 lctrl 0.479701042175
+krumpli SNARC_only DC 3 lctrl 0.393229961395
+krumpli SNARC_only DC 3 lctrl 0.330096960068
+krumpli SNARC_only DC 7 lctrl 0.361491918564
+krumpli SNARC_only DC 8 num_separator 0.319891929626
+krumpli SNARC_only DC 9 lctrl 0.833792209625
+krumpli SNARC_only DC 9 lctrl 0.473811149597
+krumpli SNARC_only DC 4 num_separator 0.760468006134
+krumpli SNARC_only DC 6 num_separator 0.535210847855
+krumpli SNARC_only DC 5 lctrl 0.361974954605
+krumpli SNARC_only DC 7 lctrl 0.898494958878
+krumpli SNARC_only DC 6 num_separator 0.784329891205
+krumpli SNARC_only DC 6 num_separator 1.3299100399
+krumpli SNARC_only DC 5 lctrl 0.761485099792
+krumpli SNARC_only DC 4 num_separator 0.584299087524
+krumpli SNARC_only DC 5 lctrl 0.401715040207
+krumpli SNARC_only DC 9 lctrl 0.505306959152
+krumpli SNARC_only DC 9 lctrl 0.409603118896
+krumpli SNARC_only DC 5 lctrl 0.537713050842
+krumpli SNARC_only DC 7 lctrl 0.385683059692
+krumpli SNARC_only DC 5 lctrl 0.408695220947
+krumpli SNARC_only DC 6 lctrl 0.40967798233
+krumpli SNARC_only DC 7 lctrl 0.419621944427
+krumpli SNARC_only DC 7 lctrl 0.368710041046
+krumpli SNARC_only DC 6 num_separator 0.529135942459
+krumpli SNARC_only DC 3 lctrl 0.537905931473
+krumpli SNARC_only DC 1 lctrl 0.34553694725
+krumpli SNARC_only DC 9 lctrl 0.450047016144
+krumpli SNARC_only DC 7 lctrl 0.480839967728
+krumpli SNARC_only DC 3 lctrl 0.460335016251
+krumpli SNARC_only DC 5 lctrl 0.353655099869
+krumpli SNARC_only DC 7 lctrl 0.430657863617
+krumpli SNARC_only DC 8 num_separator 0.481728792191
+krumpli SNARC_only DC 8 num_separator 0.345596075058
+krumpli SNARC_only DC 2 num_separator 0.487997055054
+krumpli SNARC_only DC 2 num_separator 0.353261947632
+krumpli SNARC_only DC 1 lctrl 0.442365884781
+krumpli SNARC_only DC 9 lctrl 0.497573137283
+krumpli SNARC_only DC 8 num_separator 0.513603925705
+krumpli SNARC_only DC 6 num_separator 0.400630950928
+krumpli SNARC_only DC 6 num_separator 0.360309123993
+krumpli SNARC_only DC 9 lctrl 0.458878993988
+krumpli SNARC_only DC 6 num_separator 0.488727092743
+krumpli SNARC_only DC 5 lctrl 0.585493087769
+krumpli SNARC_only DC 9 lctrl 0.537164926529
+krumpli SNARC_only DC 1 lctrl 0.553267002106
+krumpli SNARC_only DC 1 lctrl 0.345296144485
+krumpli SNARC_only DC 6 num_separator 0.425150871277
+krumpli SNARC_only DC 6 num_separator 0.337518930435
+krumpli SNARC_only DC 2 num_separator 0.609220027924
+krumpli SNARC_only DC 5 lctrl 0.51339507103
+krumpli SNARC_only DC 9 lctrl 0.362233161926
+krumpli SNARC_only DC 1 lctrl 0.361717939377
+krumpli SNARC_only DC 6 lctrl 0.346004009247
+krumpli SNARC_only DC 3 lctrl 0.473146915436
+krumpli SNARC_only DC 9 lctrl 0.409692049026
+krumpli SNARC_only DC 5 lctrl 0.521465063095
+krumpli SNARC_only DC 5 lctrl 0.36913394928
+krumpli SNARC_only DC 6 num_separator 0.352226018906
+krumpli SNARC_only DC 1 lctrl 0.409023046494
+krumpli SNARC_only DC 7 lctrl 0.393465995789
+krumpli SNARC_only DC 2 num_separator 0.456773996353
+krumpli SNARC_only DC 2 num_separator 0.337770938873
+krumpli SNARC_only DC 4 num_separator 0.305437088013
+krumpli SNARC_only DC 1 lctrl 0.393961906433
+krumpli SNARC_only DC 1 lctrl 0.337990045547
+krumpli SNARC_only DC 2 num_separator 0.408836126328
+krumpli SNARC_only DC 8 num_separator 0.552503108978
+krumpli SNARC_only DC 2 num_separator 0.441149950027
+krumpli SNARC_only DC 1 lctrl 0.370512962341
+krumpli SNARC_only DC 4 num_separator 0.375756025314
+krumpli SNARC_only DC 9 lctrl 0.417119979858
+krumpli SNARC_only DC 6 num_separator 0.520945072174
+krumpli SNARC_only DC 9 num_separator 0.40969991684
+krumpli SNARC_only DC 6 num_separator 0.521557092667
+krumpli SNARC_only DC 4 num_separator 0.489174127579
+krumpli SNARC_only DC 2 num_separator 0.46441411972
+krumpli SNARC_only DC 9 lctrl 0.522212982178
+krumpli SNARC_only DC 7 lctrl 0.489244937897
+krumpli SNARC_only DC 3 lctrl 0.505795955658
+krumpli SNARC_only DC 1 lctrl 0.378278017044
+krumpli SNARC_only DC 9 lctrl 0.472646951675
+krumpli SNARC_only DC 2 num_separator 0.385100126266
+krumpli SNARC_only DC 8 num_separator 0.401980161667
+krumpli SNARC_only DC 7 lctrl 0.458627939224
+krumpli SNARC_only DC 4 num_separator 0.391335964203
+krumpli SNARC_only DC 7 num_separator 0.417818069458
+krumpli SNARC_only DC 4 num_separator 0.529220104218
+krumpli SNARC_only DC 3 lctrl 0.546282052994
+krumpli SNARC_only DC 8 num_separator 0.48135304451
+krumpli SNARC_only DC 1 lctrl 0.537854909897
+krumpli SNARC_only DC 8 num_separator 0.40070605278
+krumpli SNARC_only DC 6 num_separator 0.45648598671
+krumpli SNARC_only DC 2 num_separator 0.537576198578
+krumpli SNARC_only DC 2 num_separator 0.384703159332
+krumpli SNARC_only DC 1 lctrl 0.361603975296
+krumpli SNARC_only DC 9 lctrl 0.465977907181
+krumpli SNARC_only DC 2 num_separator 0.353416919708
+krumpli SNARC_only DC 6 num_separator 0.457725048065
+krumpli SNARC_only DC 8 num_separator 0.361274957657
+krumpli SNARC_only DC 6 num_separator 0.393882036209
+krumpli SNARC_only DC 5 lctrl 0.530483961105
+krumpli SNARC_only DC 8 num_separator 0.409147024155
+krumpli SNARC_only DC 8 num_separator 0.417143821716
+krumpli SNARC_only DC 9 lctrl 0.40889787674
+krumpli SNARC_only DC 6 num_separator 0.384720087051
+krumpli SNARC_only DC 4 num_separator 0.35303401947
+krumpli SNARC_only DC 1 lctrl 0.434432029724
+krumpli SNARC_only DC 9 lctrl 0.449354887009
+krumpli SNARC_only DC 3 lctrl 0.386156082153
+krumpli SNARC_only DC 1 lctrl 0.393611907959
+krumpli SNARC_only DC 9 lctrl 0.489259004593
+krumpli SNARC_only DC 1 lctrl 0.36107301712
+krumpli SNARC_only DC 8 num_separator 0.384999990463
+krumpli SNARC_only DC 9 lctrl 0.569291830063
+krumpli SNARC_only DC 4 num_separator 0.537184000015
+krumpli SNARC_only DC 5 lctrl 0.369540929794
+krumpli SNARC_only DC 8 num_separator 0.473170042038
+krumpli SNARC_only DC 5 lctrl 0.441777944565
+krumpli SNARC_only DC 3 lctrl 0.465267896652
+krumpli SNARC_only DC 8 num_separator 0.440399169922
+krumpli SNARC_only DC 9 lctrl 0.521255016327
+krumpli SNARC_only DC 3 lctrl 0.369497060776
+krumpli SNARC_only DC 2 num_separator 0.424156904221
+krumpli SNARC_only DC 1 lctrl 0.337505102158
+krumpli SNARC_only DC 9 lctrl 0.424785137177
+krumpli SNARC_only DC 3 lctrl 0.329025030136
+krumpli SNARC_only DC 9 lctrl 0.305767059326
+krumpli SNARC_only DC 9 lctrl 0.281954050064
+krumpli SNARC_only DC 8 num_separator 0.344879150391
+krumpli SNARC_only DC 7 lctrl 0.329088926315
+krumpli SNARC_only DC 9 lctrl 0.321457147598
+krumpli SNARC_only DC 6 num_separator 0.329385995865
+krumpli SNARC_only DC 8 lctrl 0.265494823456
+krumpli SNARC_only DC 7 lctrl 0.36091709137
+krumpli SNARC_only DC 4 num_separator 0.3847219944
+krumpli SNARC_only DC 4 num_separator 0.353188037872
+krumpli SNARC_only DC 3 lctrl 0.433933019638
+krumpli SNARC_only DC 4 lctrl 0.392961978912
+krumpli SNARC_only DC 7 lctrl 0.365900993347
+krumpli SNARC_only DC 3 num_separator 0.408603906631
+krumpli SNARC_only DC 4 num_separator 1.28930282593
+krumpli SNARC_only DC 2 num_separator 0.441621780396
+krumpli SNARC_only DC 5 lctrl 0.394049882889
+krumpli SNARC_only DC 3 lctrl 0.529181957245
+krumpli SNARC_only DC 4 num_separator 0.585215806961
+krumpli SNARC_only DC 7 lctrl 0.297634124756
+krumpli SNARC_only DC 9 lctrl 0.393435001373
+krumpli SNARC_only DC 5 lctrl 0.401192188263
+krumpli SNARC_only DC 8 num_separator 0.416925907135
+krumpli SNARC_only DC 3 lctrl 0.329680919647
+krumpli SNARC_only DC 7 lctrl 0.480518102646
+krumpli SNARC_only DC 9 lctrl 0.384128093719
+krumpli SNARC_only DC 4 num_separator 0.36145401001
+krumpli SNARC_only DC 7 lctrl 0.30633687973
+krumpli SNARC_only DC 2 num_separator 0.345403194427
+krumpli SNARC_only DC 2 num_separator 0.36186504364
+krumpli SNARC_only DC 9 lctrl 0.393104076385
+krumpli SNARC_only DC 3 lctrl 0.327970981598
+krumpli SNARC_only DC 5 lctrl 0.313576936722
+krumpli SNARC_only DC 5 lctrl 0.401226043701
+krumpli SNARC_only DC 7 lctrl 0.337083816528
+krumpli SNARC_only DC 3 lctrl 0.345432043076
+krumpli SNARC_only DC 1 lctrl 0.337311983109
+krumpli SNARC_only DC 1 lctrl 0.354281902313
+krumpli SNARC_only DC 7 lctrl 0.304584026337
+krumpli SNARC_only DC 1 lctrl 0.345715999603
+krumpli SNARC_only DC 5 lctrl 0.37677192688
+krumpli SNARC_only DC 3 lctrl 0.377063989639
+krumpli SNARC_only DC 7 lctrl 0.289480209351
+krumpli SNARC_only DC 7 lctrl 0.31364107132
+krumpli SNARC_only DC 3 lctrl 0.385802030563
+krumpli SNARC_only DC 9 lctrl 0.377609968185
+krumpli SNARC_only DC 8 num_separator 0.4083340168
+krumpli SNARC_only DC 6 num_separator 0.513307094574
+krumpli SNARC_only DC 1 lctrl 0.337080955505
+krumpli SNARC_only DC 7 lctrl 0.321235895157
+krumpli SNARC_only DC 8 num_separator 0.384569168091
+krumpli SNARC_only DC 6 lctrl 0.386193990707
+krumpli SNARC_only DC 4 num_separator 0.560311079025
+krumpli SNARC_only DC 2 num_separator 0.360939979553
+krumpli SNARC_only DC 9 lctrl 0.354187965393
+krumpli SNARC_only DC 6 num_separator 0.425072193146
+krumpli SNARC_only DC 8 num_separator 0.433589935303
+krumpli SNARC_only DC 8 num_separator 0.409541130066
+krumpli SNARC_only DC 1 lctrl 0.369361877441
+krumpli SNARC_only DC 6 num_separator 0.496438026428
+krumpli SNARC_only DC 7 lctrl 0.474520921707
+krumpli SNARC_only DC 9 lctrl 0.360976219177
+krumpli SNARC_only DC 3 lctrl 0.345269203186
+krumpli SNARC_only DC 6 num_separator 0.409743070602
+krumpli SNARC_only DC 1 lctrl 0.345993041992
+krumpli SNARC_only DC 7 lctrl 0.32958483696
+krumpli SNARC_only DC 7 lctrl 0.457680940628
+krumpli SNARC_only DC 4 num_separator 0.465182781219
+krumpli SNARC_only DC 4 num_separator 0.33558011055
+krumpli SNARC_only DC 1 lctrl 0.346022844315
+krumpli SNARC_only DC 9 num_separator 0.464705944061
+krumpli SNARC_only DC 4 num_separator 0.488803863525
+krumpli SNARC_only DC 3 lctrl 0.785739898682
+krumpli SNARC_only DC 2 num_separator 0.433104991913
+krumpli SNARC_only DC 1 lctrl 0.378142118454
+krumpli SNARC_only DC 8 num_separator 0.447997808456
+krumpli SNARC_only DC 9 lctrl 0.577362060547
+krumpli SNARC_only DC 3 lctrl 0.424878120422
+krumpli SNARC_only DC 4 num_separator 0.42396402359
+krumpli SNARC_only DC 4 num_separator 0.393215894699
+krumpli SNARC_only DC 8 num_separator 0.465620994568
+krumpli SNARC_only DC 7 lctrl 0.386206150055
+krumpli SNARC_only DC 6 num_separator 0.44926905632
+krumpli SNARC_only DC 3 lctrl 0.384949922562
+krumpli SNARC_only DC 1 lctrl 0.408203840256
+krumpli SNARC_only DC 3 lctrl 0.47297501564
+krumpli SNARC_only DC 5 lctrl 0.377844810486
+krumpli SNARC_only DC 4 num_separator 0.464839935303
+krumpli SNARC_only DC 8 num_separator 0.441899061203
+krumpli SNARC_only DC 2 num_separator 0.441166877747
+krumpli SNARC_only DC 5 lctrl 0.345114946365
+krumpli SNARC_only DC 9 lctrl 0.426123142242
+krumpli SNARC_only DC 3 lctrl 0.336968898773
+krumpli SNARC_only DC 9 lctrl 0.360206127167
+krumpli SNARC_only DC 2 num_separator 0.449406862259
+krumpli SNARC_only DC 2 num_separator 0.377034902573
+krumpli SNARC_only DC 9 lctrl 0.345299959183
+krumpli SNARC_only DC 7 lctrl 0.353646039963
+krumpli SNARC_only DC 6 num_separator 0.432986974716
+krumpli SNARC_only DC 7 lctrl 0.345981836319
+krumpli SNARC_only DC 2 num_separator 0.400813102722
+krumpli SNARC_only DC 3 lctrl 0.32127904892
+krumpli SNARC_only DC 6 num_separator 0.416190862656
+krumpli SNARC_only DC 2 num_separator 0.440523147583
+krumpli SNARC_only DC 4 num_separator 0.385864973068
+krumpli SNARC_only DC 5 num_separator 0.353662967682
+krumpli SNARC_only DC 9 lctrl 0.497465133667
+krumpli SNARC_only DC 4 num_separator 0.521000146866
+krumpli SNARC_only DC 8 num_separator 0.401906967163
+krumpli SNARC_only DC 8 num_separator 0.376695156097
+krumpli SNARC_only DC 8 num_separator 0.35276889801
+krumpli SNARC_only DC 5 lctrl 0.39282989502
+krumpli SNARC_only DC 1 lctrl 0.344998121262
+krumpli SNARC_only DC 4 lctrl 0.377748012543
+krumpli SNARC_only DC 1 lctrl 0.433026075363
+krumpli SNARC_only DC 6 num_separator 0.441365003586
+krumpli SNARC_only DC 1 lctrl 0.345082044601
+krumpli SNARC_only DC 4 num_separator 0.392847061157
+krumpli SNARC_only DC 7 lctrl 0.466602087021
+krumpli SNARC_only DC 2 num_separator 0.416440010071
+krumpli SNARC_only DC 4 num_separator 0.374364852905
+krumpli SNARC_only DC 2 num_separator 0.377315998077
+krumpli SNARC_only DC 2 num_separator 0.376666069031
+krumpli SNARC_only DC 1 lctrl 0.346312046051
+krumpli SNARC_only DC 9 lctrl 0.505509853363
+krumpli SNARC_only DC 1 lctrl 0.368884086609
+krumpli SNARC_only DC 3 lctrl 0.55999994278
+krumpli SNARC_only DC 6 num_separator 0.456566095352
+krumpli SNARC_only DC 8 num_separator 0.441471815109
+krumpli SNARC_only DC 5 lctrl 0.472959041595
+krumpli SNARC_only DC 5 lctrl 0.305463075638
+krumpli SNARC_only DC 6 num_separator 0.833391189575
+krumpli SNARC_only DC 6 num_separator 0.369735956192
+krumpli SNARC_only DC 2 lctrl 0.321720123291
+krumpli SNARC_only DC 2 num_separator 0.449214935303
+krumpli SNARC_only DC 4 num_separator 0.449676990509
+krumpli SNARC_only DC 4 num_separator 0.336978912354
+krumpli SNARC_only DC 8 num_separator 0.368804931641
+krumpli SNARC_only DC 4 num_separator 0.337022066116
+krumpli SNARC_only DC 4 num_separator 0.353355169296
+krumpli SNARC_only DC 7 lctrl 0.370222091675
+krumpli SNARC_only DC 2 num_separator 0.432570934296
+krumpli SNARC_only DC 3 lctrl 0.530164957047
+krumpli SNARC_only DC 6 num_separator 0.560333967209
+krumpli SNARC_only DC 1 lctrl 0.386246204376
+krumpli SNARC_only DC 6 num_separator 0.448606014252
+krumpli SNARC_only DC 5 lctrl 0.497988939285
+krumpli SNARC_only DC 7 num_separator 0.407371997833
+krumpli SNARC_only DC 2 num_separator 0.409310102463
+krumpli SNARC_only DC 9 lctrl 0.376976013184
+krumpli SNARC_only DC 3 lctrl 0.353069782257
+krumpli SNARC_only DC 1 lctrl 0.409445047379
+krumpli SNARC_only DC 4 num_separator 0.43360710144
+krumpli SNARC_only DC 6 num_separator 0.473513841629
+krumpli SNARC_only DC 1 lctrl 0.369912862778
+krumpli SNARC_only DC 5 lctrl 0.337109088898
+krumpli SNARC_only DC 1 lctrl 0.31315612793
+krumpli SNARC_only DC 3 lctrl 0.400599956512
+krumpli SNARC_only DC 5 lctrl 0.489406824112
+krumpli SNARC_only DC 5 lctrl 0.32098698616
+krumpli SNARC_only DC 3 lctrl 0.313632965088
+krumpli SNARC_only DC 4 num_separator 0.400587081909
+krumpli SNARC_only DC 5 lctrl 0.329278945923
+krumpli SNARC_only DC 5 lctrl 0.305737018585
+krumpli SNARC_only DC 6 num_separator 0.417501926422
+krumpli SNARC_only DC 4 num_separator 0.528865098953
+krumpli SNARC_only DC 5 lctrl 0.370099067688
+krumpli SNARC_only DC 8 num_separator 0.472593069077
+krumpli SNARC_only DC 2 lctrl 0.337597131729
+krumpli SNARC_only DC 6 num_separator 0.97722196579
+krumpli SNARC_only DC 2 num_separator 0.626001834869
+krumpli SNARC_only DC 8 num_separator 0.537672042847
+krumpli SNARC_only DC 2 num_separator 0.417927980423
+krumpli SNARC_only DC 6 num_separator 0.425088882446
+krumpli SNARC_only DC 8 num_separator 0.377416133881
+krumpli SNARC_only DC 4 num_separator 0.376136064529
+krumpli SNARC_only DC 7 lctrl 0.498113155365
+krumpli SNARC_only DC 6 num_separator 0.631862878799
+krumpli SNARC_only DC 7 lctrl 0.5692050457
+krumpli SNARC_only DC 8 lctrl 0.370065927505
+krumpli SNARC_only DC 3 lctrl 0.535805940628
+krumpli SNARC_only DC 5 lctrl 0.425505876541
+krumpli SNARC_only DC 3 lctrl 0.376600980759
+krumpli SNARC_only DC 2 num_separator 0.36814904213
+krumpli SNARC_only DC 7 lctrl 0.417533159256
+krumpli SNARC_only DC 8 lctrl 0.360808134079
+krumpli SNARC_only DC 5 lctrl 0.329581975937
+krumpli SNARC_only DC 8 lctrl 0.353132963181
+krumpli SNARC_only DC 8 num_separator 0.561130046844
+krumpli SNARC_only DC 3 lctrl 0.393825054169
+krumpli SNARC_only DC 3 lctrl 0.346118927002
+krumpli SNARC_only DC 8 lctrl 0.338310003281
+krumpli SNARC_only DC 3 lctrl 0.616612911224
+krumpli SNARC_only DC 6 num_separator 0.464339017868
+krumpli SNARC_only DC 1 lctrl 0.353655099869
+krumpli SNARC_only DC 6 num_separator 0.465399980545
+krumpli SNARC_only DC 2 lctrl 0.377201080322
+krumpli SNARC_only DC 9 lctrl 0.472540140152
+krumpli SNARC_only DC 3 lctrl 0.449275016785
+krumpli SNARC_only DC 3 lctrl 0.321440219879
+krumpli SNARC_only DC 2 num_separator 0.408998012543
+krumpli SNARC_only DC 5 lctrl 0.360311031342
+krumpli SNARC_only DC 4 num_separator 0.441170930862
+krumpli SNARC_only DC 4 num_separator 0.344997167587
+krumpli SNARC_only DC 4 num_separator 0.369052171707
+krumpli SNARC_only DC 1 lctrl 0.362001180649
+krumpli SNARC_only DC 9 lctrl 0.497871875763
+krumpli SNARC_only DC 8 lctrl 0.33781504631
+krumpli SNARC_only DC 1 lctrl 0.480432033539
+krumpli SNARC_only DC 2 num_separator 0.384979009628
+krumpli SNARC_only DC 1 lctrl 0.36115193367
+krumpli SNARC_only DC 2 num_separator 0.473153829575
+krumpli SNARC_only DC 2 num_separator 0.36131310463
+krumpli SNARC_only DC 3 lctrl 0.330446004868
+krumpli SNARC_only DC 4 num_separator 0.472767114639
+krumpli SNARC_only DC 7 lctrl 0.449918031693
+krumpli SNARC_only DC 5 lctrl 0.504678964615
+krumpli SNARC_only DC 5 lctrl 0.345289945602
+krumpli SNARC_only DC 7 num_separator 0.384527921677
+krumpli SNARC_only DC 7 lctrl 0.327719926834
+krumpli SNARC_only DC 1 lctrl 0.457344055176
+krumpli SNARC_only DC 3 lctrl 0.505877017975
+krumpli SNARC_only DC 2 num_separator 0.384827852249
+krumpli SNARC_only DC 7 lctrl 0.449744939804
+krumpli SNARC_only DC 5 lctrl 0.337351799011
+krumpli SNARC_only DC 5 lctrl 0.297991991043
+krumpli SNARC_only DC 5 lctrl 0.280908823013
+krumpli SNARC_only DC 1 lctrl 0.441174983978
+krumpli SNARC_only DC 8 num_separator 0.461496829987
+krumpli SNARC_only DC 4 num_separator 0.328221797943
+krumpli SNARC_only DC 8 num_separator 0.328173160553
+krumpli SNARC_only DC 7 lctrl 0.409301996231
+{'participant': u'krumpli', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_17_1155', 'autopilot': False, 'exp_id': u'SNARC'}
+krumpli SNARC_only CD 5 num_separator 0.88813495636
+krumpli SNARC_only CD 6 lctrl 0.393085002899
+krumpli SNARC_only CD 3 num_separator 0.549950838089
+krumpli SNARC_only CD 9 num_separator 0.456429004669
+krumpli SNARC_only CD 9 num_separator 0.34548997879
+krumpli SNARC_only CD 9 num_separator 0.353372097015
+krumpli SNARC_only CD 3 num_separator 0.344532012939
+krumpli SNARC_only CD 1 num_separator 0.321019172668
+krumpli SNARC_only CD 3 num_separator 0.424523830414
+krumpli SNARC_only CD 9 num_separator 0.345447063446
+krumpli SNARC_only CD 8 lctrl 0.345055103302
+krumpli SNARC_only CD 1 num_separator 0.473598003387
+krumpli SNARC_only CD 9 num_separator 0.369088172913
+krumpli SNARC_only CD 3 num_separator 0.321236133575
+krumpli SNARC_only CD 7 lctrl 0.359349012375
+krumpli SNARC_only CD 5 num_separator 0.385256052017
+krumpli SNARC_only CD 4 lctrl 0.48082780838
+krumpli SNARC_only CD 8 lctrl 0.546262979507
+krumpli SNARC_only CD 1 num_separator 0.457392930984
+krumpli SNARC_only CD 1 num_separator 0.369710206985
+krumpli SNARC_only CD 2 lctrl 0.608693122864
+krumpli SNARC_only CD 7 num_separator 0.512778043747
+krumpli SNARC_only CD 4 num_separator 0.544826984406
+krumpli SNARC_only CD 2 lctrl 0.625169992447
+krumpli SNARC_only CD 1 num_separator 0.440536022186
+krumpli SNARC_only CD 3 num_separator 0.616823196411
+krumpli SNARC_only CD 5 num_separator 0.353646039963
+krumpli SNARC_only CD 3 num_separator 0.360692024231
+krumpli SNARC_only CD 5 num_separator 0.312782049179
+krumpli SNARC_only CD 5 num_separator 0.31339597702
+krumpli SNARC_only CD 6 lctrl 0.465903043747
+krumpli SNARC_only CD 2 lctrl 0.362372875214
+krumpli SNARC_only CD 9 num_separator 0.400803089142
+krumpli SNARC_only CD 2 lctrl 0.367862939835
+krumpli SNARC_only CD 4 lctrl 0.384711027145
+krumpli SNARC_only CD 8 num_separator 0.344813108444
+krumpli SNARC_only CD 1 num_separator 0.480938911438
+krumpli SNARC_only CD 7 num_separator 0.321710109711
+krumpli SNARC_only CD 2 lctrl 0.378270149231
+krumpli SNARC_only CD 8 lctrl 0.384995937347
+krumpli SNARC_only CD 1 num_separator 0.384917974472
+krumpli SNARC_only CD 3 lctrl 0.329586982727
+krumpli SNARC_only CD 9 num_separator 0.407862901688
+krumpli SNARC_only CD 9 num_separator 0.353434085846
+krumpli SNARC_only CD 5 lctrl 0.362035989761
+krumpli SNARC_only CD 7 num_separator 0.401055812836
+krumpli SNARC_only CD 1 num_separator 0.425385951996
+krumpli SNARC_only CD 1 num_separator 0.32136797905
+krumpli SNARC_only CD 7 num_separator 0.344649076462
+krumpli SNARC_only CD 6 lctrl 0.386265993118
+krumpli SNARC_only CD 7 num_separator 0.392980098724
+krumpli SNARC_only CD 5 num_separator 0.441766023636
+krumpli SNARC_only CD 8 lctrl 0.392972946167
+krumpli SNARC_only CD 6 lctrl 0.313809871674
+krumpli SNARC_only CD 4 lctrl 0.321329832077
+krumpli SNARC_only CD 7 num_separator 0.41721701622
+krumpli SNARC_only CD 9 num_separator 0.409348011017
+krumpli SNARC_only CD 1 num_separator 0.305532932281
+krumpli SNARC_only CD 3 num_separator 0.361212015152
+krumpli SNARC_only CD 1 num_separator 0.51297712326
+krumpli SNARC_only CD 4 lctrl 0.456845998764
+krumpli SNARC_only CD 6 lctrl 0.449105024338
+krumpli SNARC_only CD 2 lctrl 0.361845970154
+krumpli SNARC_only CD 3 num_separator 0.537310838699
+krumpli SNARC_only CD 5 num_separator 0.312656879425
+krumpli SNARC_only CD 2 lctrl 0.480898857117
+krumpli SNARC_only CD 4 lctrl 0.473919153214
+krumpli SNARC_only CD 9 num_separator 0.511649131775
+krumpli SNARC_only CD 7 num_separator 0.537389993668
+krumpli SNARC_only CD 6 num_separator 0.337368965149
+krumpli SNARC_only CD 4 lctrl 0.496649026871
+krumpli SNARC_only CD 6 lctrl 0.42526102066
+krumpli SNARC_only CD 4 lctrl 0.345587015152
+krumpli SNARC_only CD 8 lctrl 0.361102104187
+krumpli SNARC_only CD 3 num_separator 0.433200836182
+krumpli SNARC_only CD 6 lctrl 0.506042003632
+krumpli SNARC_only CD 4 lctrl 0.449815988541
+krumpli SNARC_only CD 6 lctrl 0.433532953262
+krumpli SNARC_only CD 3 num_separator 0.416841030121
+krumpli SNARC_only CD 6 lctrl 0.457885980606
+krumpli SNARC_only CD 1 num_separator 0.56090092659
+krumpli SNARC_only CD 5 num_separator 0.505409002304
+krumpli SNARC_only CD 1 lctrl 0.393645048141
+krumpli SNARC_only CD 6 num_separator 0.368322134018
+krumpli SNARC_only CD 1 num_separator 0.560990095139
+krumpli SNARC_only CD 5 num_separator 0.481328964233
+krumpli SNARC_only CD 4 lctrl 0.49774312973
+krumpli SNARC_only CD 4 lctrl 0.344830989838
+krumpli SNARC_only CD 1 num_separator 0.375903129578
+krumpli SNARC_only CD 7 num_separator 0.528751134872
+krumpli SNARC_only CD 5 num_separator 0.55398106575
+krumpli SNARC_only CD 8 lctrl 0.697853088379
+krumpli SNARC_only CD 6 lctrl 0.400851011276
+krumpli SNARC_only CD 3 num_separator 0.408937931061
+krumpli SNARC_only CD 6 num_separator 0.345827102661
+krumpli SNARC_only CD 7 num_separator 0.368619918823
+krumpli SNARC_only CD 8 lctrl 0.416604042053
+krumpli SNARC_only CD 2 lctrl 0.425631999969
+krumpli SNARC_only CD 5 num_separator 0.513096094131
+krumpli SNARC_only CD 9 num_separator 0.577838182449
+krumpli SNARC_only CD 6 lctrl 0.489256858826
+krumpli SNARC_only CD 3 num_separator 0.488886833191
+krumpli SNARC_only CD 3 num_separator 0.353777885437
+krumpli SNARC_only CD 3 num_separator 0.313656806946
+krumpli SNARC_only CD 7 lctrl 0.385643959045
+krumpli SNARC_only CD 9 num_separator 0.408810138702
+krumpli SNARC_only CD 5 num_separator 0.448534011841
+krumpli SNARC_only CD 5 num_separator 0.312766075134
+krumpli SNARC_only CD 7 num_separator 0.329332828522
+krumpli SNARC_only CD 3 num_separator 0.43332695961
+krumpli SNARC_only CD 9 num_separator 0.329303026199
+krumpli SNARC_only CD 3 num_separator 0.360728979111
+krumpli SNARC_only CD 2 num_separator 0.320822954178
+krumpli SNARC_only CD 2 lctrl 0.450127124786
+krumpli SNARC_only CD 6 lctrl 0.463813066483
+krumpli SNARC_only CD 3 lctrl 0.3289539814
+krumpli SNARC_only CD 8 lctrl 0.536481142044
+krumpli SNARC_only CD 4 lctrl 0.401530981064
+krumpli SNARC_only CD 2 lctrl 0.369804859161
+krumpli SNARC_only CD 8 lctrl 0.337929010391
+krumpli SNARC_only CD 3 num_separator 0.480385065079
+krumpli SNARC_only CD 3 num_separator 0.304808855057
+krumpli SNARC_only CD 1 num_separator 0.762597084045
+krumpli SNARC_only CD 3 num_separator 0.463893175125
+krumpli SNARC_only CD 8 lctrl 0.44090294838
+krumpli SNARC_only CD 6 lctrl 0.376643896103
+krumpli SNARC_only CD 3 num_separator 0.41746878624
+krumpli SNARC_only CD 3 num_separator 0.345661878586
+krumpli SNARC_only CD 6 num_separator 0.336632966995
+krumpli SNARC_only CD 1 num_separator 0.400500059128
+krumpli SNARC_only CD 2 lctrl 0.410119056702
+krumpli SNARC_only CD 3 num_separator 0.416479110718
+krumpli SNARC_only CD 4 lctrl 0.392966985703
+krumpli SNARC_only CD 2 lctrl 0.511836051941
+krumpli SNARC_only CD 4 lctrl 0.417402029037
+krumpli SNARC_only CD 8 lctrl 0.369059801102
+krumpli SNARC_only CD 7 num_separator 0.432156085968
+krumpli SNARC_only CD 9 num_separator 0.345402956009
+krumpli SNARC_only CD 2 num_separator 0.353107213974
+krumpli SNARC_only CD 9 num_separator 0.441513776779
+krumpli SNARC_only CD 7 num_separator 0.377594947815
+krumpli SNARC_only CD 4 lctrl 0.567597150803
+krumpli SNARC_only CD 6 lctrl 0.520546913147
+krumpli SNARC_only CD 6 lctrl 0.321485042572
+krumpli SNARC_only CD 7 num_separator 0.408831834793
+krumpli SNARC_only CD 2 lctrl 0.408900976181
+krumpli SNARC_only CD 8 num_separator 0.392878055573
+krumpli SNARC_only CD 6 lctrl 0.337575912476
+krumpli SNARC_only CD 9 num_separator 0.489370822906
+krumpli SNARC_only CD 4 lctrl 0.385553121567
+krumpli SNARC_only CD 3 num_separator 0.424379825592
+krumpli SNARC_only CD 1 num_separator 0.529018163681
+krumpli SNARC_only CD 1 num_separator 0.337577104568
+krumpli SNARC_only CD 6 num_separator 0.378083229065
+krumpli SNARC_only CD 9 lctrl 0.504887104034
+krumpli SNARC_only CD 5 num_separator 0.520550012589
+krumpli SNARC_only CD 8 lctrl 0.425238847733
+krumpli SNARC_only CD 5 num_separator 0.504813909531
+krumpli SNARC_only CD 2 lctrl 0.433886051178
+krumpli SNARC_only CD 8 num_separator 0.392031908035
+krumpli SNARC_only CD 6 lctrl 0.744778871536
+krumpli SNARC_only CD 9 num_separator 0.488610029221
+krumpli SNARC_only CD 7 num_separator 0.410048007965
+krumpli SNARC_only CD 8 num_separator 0.345186948776
+krumpli SNARC_only CD 7 num_separator 0.560523986816
+krumpli SNARC_only CD 6 lctrl 0.553140878677
+krumpli SNARC_only CD 7 num_separator 0.456561088562
+krumpli SNARC_only CD 9 num_separator 0.54528594017
+krumpli SNARC_only CD 3 num_separator 0.433269023895
+krumpli SNARC_only CD 9 num_separator 0.537308931351
+krumpli SNARC_only CD 8 lctrl 0.441758871078
+krumpli SNARC_only CD 9 num_separator 0.537703990936
+krumpli SNARC_only CD 6 lctrl 0.426007032394
+krumpli SNARC_only CD 4 lctrl 0.409497022629
+krumpli SNARC_only CD 8 lctrl 0.425755023956
+krumpli SNARC_only CD 8 lctrl 0.393704891205
+krumpli SNARC_only CD 4 lctrl 0.529119968414
+krumpli SNARC_only CD 8 lctrl 0.361659049988
+krumpli SNARC_only CD 2 lctrl 0.361003160477
+krumpli SNARC_only CD 2 lctrl 0.321768045425
+krumpli SNARC_only CD 2 lctrl 0.353353977203
+krumpli SNARC_only CD 2 lctrl 0.321174144745
+krumpli SNARC_only CD 6 lctrl 0.505546808243
+krumpli SNARC_only CD 1 num_separator 0.497217178345
+krumpli SNARC_only CD 1 num_separator 0.329176187515
+krumpli SNARC_only CD 3 num_separator 0.465145111084
+krumpli SNARC_only CD 8 lctrl 0.409090995789
+krumpli SNARC_only CD 9 num_separator 0.513219833374
+krumpli SNARC_only CD 2 lctrl 0.425795078278
+krumpli SNARC_only CD 8 lctrl 0.432880878448
+krumpli SNARC_only CD 8 lctrl 0.314288139343
+krumpli SNARC_only CD 1 num_separator 0.360574007034
+krumpli SNARC_only CD 7 num_separator 0.377524137497
+krumpli SNARC_only CD 1 num_separator 0.337717056274
+krumpli SNARC_only CD 6 lctrl 0.384958982468
+krumpli SNARC_only CD 1 lctrl 0.38529086113
+krumpli SNARC_only CD 8 lctrl 0.480420827866
+krumpli SNARC_only CD 7 num_separator 0.368561983109
+krumpli SNARC_only CD 9 num_separator 0.601089000702
+krumpli SNARC_only CD 8 lctrl 0.392953872681
+krumpli SNARC_only CD 8 lctrl 0.416791915894
+krumpli SNARC_only CD 6 lctrl 0.385415077209
+krumpli SNARC_only CD 7 num_separator 0.384526014328
+krumpli SNARC_only CD 5 num_separator 0.528946876526
+krumpli SNARC_only CD 2 lctrl 0.449632883072
+krumpli SNARC_only CD 9 num_separator 0.448427915573
+krumpli SNARC_only CD 2 num_separator 0.632886171341
+krumpli SNARC_only CD 4 lctrl 0.400880098343
+krumpli SNARC_only CD 8 lctrl 0.385151147842
+krumpli SNARC_only CD 7 num_separator 0.336287021637
+krumpli SNARC_only CD 9 num_separator 0.409072160721
+krumpli SNARC_only CD 3 num_separator 0.368622779846
+krumpli SNARC_only CD 2 num_separator 0.321425199509
+krumpli SNARC_only CD 8 lctrl 0.472280979156
+krumpli SNARC_only CD 5 num_separator 0.497467041016
+krumpli SNARC_only CD 7 num_separator 0.329366922379
+krumpli SNARC_only CD 4 num_separator 0.407888889313
+krumpli SNARC_only CD 9 num_separator 0.473186016083
+krumpli SNARC_only CD 5 num_separator 0.344987869263
+krumpli SNARC_only CD 7 num_separator 0.313383102417
+krumpli SNARC_only CD 7 num_separator 0.328947067261
+krumpli SNARC_only CD 3 num_separator 0.369772911072
+krumpli SNARC_only CD 2 lctrl 0.416985988617
+krumpli SNARC_only CD 1 lctrl 0.441801071167
+krumpli SNARC_only CD 9 num_separator 0.416051149368
+krumpli SNARC_only CD 4 lctrl 0.482084989548
+krumpli SNARC_only CD 9 num_separator 0.425122976303
+krumpli SNARC_only CD 5 num_separator 0.465503931046
+krumpli SNARC_only CD 1 num_separator 0.337821960449
+krumpli SNARC_only CD 1 num_separator 0.377464056015
+krumpli SNARC_only CD 9 num_separator 0.393547058105
+krumpli SNARC_only CD 4 lctrl 0.537482976913
+krumpli SNARC_only CD 5 num_separator 0.51296210289
+krumpli SNARC_only CD 2 lctrl 0.433702945709
+krumpli SNARC_only CD 8 lctrl 0.48985004425
+krumpli SNARC_only CD 5 lctrl 0.393661975861
+krumpli SNARC_only CD 7 num_separator 0.44102191925
+krumpli SNARC_only CD 6 lctrl 0.53009390831
+krumpli SNARC_only CD 6 lctrl 0.449765205383
+krumpli SNARC_only CD 3 num_separator 0.424325942993
+krumpli SNARC_only CD 1 num_separator 0.585369110107
+krumpli SNARC_only CD 5 num_separator 0.593158960342
+krumpli SNARC_only CD 4 lctrl 0.458343982697
+krumpli SNARC_only CD 2 lctrl 0.393471002579
+krumpli SNARC_only CD 4 lctrl 0.424760103226
+krumpli SNARC_only CD 7 num_separator 0.529520988464
+krumpli SNARC_only CD 5 num_separator 0.393630981445
+krumpli SNARC_only CD 2 num_separator 0.329480886459
+krumpli SNARC_only CD 8 lctrl 0.578247070312
+krumpli SNARC_only CD 2 lctrl 0.389744997025
+krumpli SNARC_only CD 5 num_separator 0.448194980621
+krumpli SNARC_only CD 2 lctrl 0.522212982178
+krumpli SNARC_only CD 3 num_separator 0.480553865433
+krumpli SNARC_only CD 1 num_separator 0.601331949234
+krumpli SNARC_only CD 9 num_separator 0.43331694603
+krumpli SNARC_only CD 6 num_separator 0.321410894394
+krumpli SNARC_only CD 9 num_separator 0.505253076553
+krumpli SNARC_only CD 1 num_separator 0.449686050415
+krumpli SNARC_only CD 4 lctrl 0.464700222015
+krumpli SNARC_only CD 5 num_separator 0.40015411377
+krumpli SNARC_only CD 1 num_separator 0.529745101929
+krumpli SNARC_only CD 5 num_separator 0.472992897034
+krumpli SNARC_only CD 7 num_separator 0.472404956818
+krumpli SNARC_only CD 5 num_separator 0.384984970093
+krumpli SNARC_only CD 9 num_separator 0.465433120728
+krumpli SNARC_only CD 3 num_separator 0.490248203278
+krumpli SNARC_only CD 9 num_separator 0.504935026169
+krumpli SNARC_only CD 1 num_separator 0.488395929337
+krumpli SNARC_only CD 1 num_separator 0.440768003464
+krumpli SNARC_only CD 3 num_separator 0.497411966324
+krumpli SNARC_only CD 8 lctrl 0.505880832672
+krumpli SNARC_only CD 9 num_separator 0.425135135651
+krumpli SNARC_only CD 2 lctrl 0.497004032135
+krumpli SNARC_only CD 4 lctrl 0.432332992554
+krumpli SNARC_only CD 1 num_separator 0.464552879333
+krumpli SNARC_only CD 9 num_separator 0.425428152084
+krumpli SNARC_only CD 8 lctrl 0.497435092926
+krumpli SNARC_only CD 7 num_separator 0.473219156265
+krumpli SNARC_only CD 8 lctrl 0.465975999832
+krumpli SNARC_only CD 7 num_separator 0.409353971481
+krumpli SNARC_only CD 2 lctrl 0.449769973755
+krumpli SNARC_only CD 7 num_separator 0.392895936966
+krumpli SNARC_only CD 5 num_separator 0.497373104095
+krumpli SNARC_only CD 1 num_separator 0.46541595459
+krumpli SNARC_only CD 8 lctrl 0.465918064117
+krumpli SNARC_only CD 4 lctrl 0.431663036346
+krumpli SNARC_only CD 1 num_separator 0.456781864166
+krumpli SNARC_only CD 7 num_separator 0.369231939316
+krumpli SNARC_only CD 7 num_separator 0.385488986969
+krumpli SNARC_only CD 8 lctrl 0.434009790421
+krumpli SNARC_only CD 7 num_separator 0.392387151718
+krumpli SNARC_only CD 4 lctrl 0.409909963608
+krumpli SNARC_only CD 6 lctrl 0.393484115601
+krumpli SNARC_only CD 3 num_separator 0.40035200119
+krumpli SNARC_only CD 2 lctrl 0.49729681015
+krumpli SNARC_only CD 2 lctrl 0.369451999664
+krumpli SNARC_only CD 2 lctrl 0.369220972061
+krumpli SNARC_only CD 5 num_separator 0.361361026764
+krumpli SNARC_only CD 4 lctrl 0.473928928375
+krumpli SNARC_only CD 3 lctrl 0.385329008102
+krumpli SNARC_only CD 9 num_separator 0.432584047318
+krumpli SNARC_only CD 4 lctrl 0.409816980362
+krumpli SNARC_only CD 6 num_separator 0.336676120758
+krumpli SNARC_only CD 3 num_separator 0.496384859085
+krumpli SNARC_only CD 4 lctrl 0.450114965439
+krumpli SNARC_only CD 2 lctrl 0.409413099289
+krumpli SNARC_only CD 5 num_separator 0.440958976746
+krumpli SNARC_only CD 7 num_separator 0.377377033234
+krumpli SNARC_only CD 4 lctrl 0.521412849426
+krumpli SNARC_only CD 5 num_separator 0.41620016098
+krumpli SNARC_only CD 5 num_separator 0.457330942154
+krumpli SNARC_only CD 4 lctrl 0.513571977615
+krumpli SNARC_only CD 5 num_separator 0.336544036865
+krumpli SNARC_only CD 3 num_separator 0.489721059799
+krumpli SNARC_only CD 9 num_separator 0.481270074844
+krumpli SNARC_only CD 7 num_separator 0.337328195572
+krumpli SNARC_only CD 5 num_separator 0.481721162796
+krumpli SNARC_only CD 6 lctrl 0.474066972733
+krumpli SNARC_only CD 8 lctrl 0.536786079407
+krumpli SNARC_only CD 9 num_separator 0.456659078598
+krumpli SNARC_only CD 1 lctrl 0.385864019394
+krumpli SNARC_only CD 2 lctrl 0.37687587738
+krumpli SNARC_only CD 7 num_separator 0.424499034882
+krumpli SNARC_only CD 4 lctrl 0.457967996597
+krumpli SNARC_only CD 7 num_separator 0.360950946808
+krumpli SNARC_only CD 1 num_separator 0.513746023178
+krumpli SNARC_only CD 3 num_separator 0.456938028336
+krumpli SNARC_only CD 5 num_separator 0.505692005157
+krumpli SNARC_only CD 4 lctrl 0.393705129623
+krumpli SNARC_only CD 9 num_separator 0.336963176727
+krumpli SNARC_only CD 8 lctrl 0.481064796448
+krumpli SNARC_only CD 6 lctrl 0.617925167084
+krumpli SNARC_only CD 6 lctrl 0.409096002579
+krumpli SNARC_only CD 8 lctrl 0.378010034561
+krumpli SNARC_only CD 5 num_separator 0.472265958786
+krumpli SNARC_only CD 1 num_separator 0.361836910248
+krumpli SNARC_only CD 8 lctrl 0.418036937714
+krumpli SNARC_only CD 6 num_separator 0.601140022278
+krumpli SNARC_only CD 7 num_separator 0.391758918762
+krumpli SNARC_only CD 5 lctrl 0.424245119095
+krumpli SNARC_only CD 6 num_separator 0.456522941589
+krumpli SNARC_only CD 2 lctrl 0.488136053085
+krumpli SNARC_only CD 5 num_separator 0.408540964127
+krumpli SNARC_only CD 9 num_separator 0.489440917969
+krumpli SNARC_only CD 1 num_separator 0.377439022064
+krumpli SNARC_only CD 8 lctrl 0.49760222435
+krumpli SNARC_only CD 4 lctrl 0.457427978516
+krumpli SNARC_only CD 2 lctrl 0.400861978531
+krumpli SNARC_only CD 2 lctrl 0.360039949417
+krumpli SNARC_only CD 4 lctrl 0.352004051208
+krumpli SNARC_only CD 3 num_separator 0.43314409256
+krumpli SNARC_only CD 6 lctrl 0.409363031387
+krumpli SNARC_only CD 4 lctrl 0.472950220108
+krumpli SNARC_only CD 7 num_separator 0.481477022171
+krumpli SNARC_only CD 3 num_separator 0.441275119781
+krumpli SNARC_only CD 6 num_separator 0.409295797348
+krumpli SNARC_only CD 6 lctrl 0.537214994431
+krumpli SNARC_only CD 4 lctrl 0.37379693985
+krumpli SNARC_only CD 5 num_separator 0.608761072159
+krumpli SNARC_only CD 4 lctrl 0.38572716713

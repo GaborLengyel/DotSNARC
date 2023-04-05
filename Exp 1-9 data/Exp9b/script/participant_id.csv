@@ -1,0 +1,24 @@
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '03_24_1604', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'participant_id', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+participant_id SNARC color arabic DC 0 up 9 w 1.27593994141
+participant_id SNARC color arabic DC 0 down 5 w 0.356956958771
+participant_id SNARC color arabic DC 0 down 1 right 0.773710012436
+participant_id SNARC color arabic DC 0 down 2 p 0.373872995377
+participant_id SNARC color arabic DC 0 up 9 lctrl 0.342300891876
+participant_id SNARC color arabic DC 0 down 1 num_separator 0.165328979492
+participant_id SNARC color arabic DC 0 down 9 num_separator 0.100894927979
+participant_id SNARC color arabic DC 0 up 4 lctrl 0.0773849487305
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '03_24_1605', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'participant_id', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+participant_id SNARC color arabic DC 0 up 6 num_separator 0.987771034241
+participant_id SNARC color arabic DC 0 up 5 num_separator 0.446444988251
+participant_id SNARC color arabic DC 0 up 2 num_separator 0.470412969589
+participant_id SNARC color arabic DC 0 down 7 lctrl 0.518816947937
+participant_id SNARC color arabic DC 0 down 7 lctrl 0.398329019547
+participant_id SNARC color arabic DC 0 down 5 num_separator 0.439048051834
+participant_id SNARC color arabic DC 0 down 7 lctrl 0.770149946213
+participant_id SNARC color arabic DC 0 down 3 lctrl 0.828346967697
+participant_id SNARC color arabic DC 0 down 8 lctrl 0.454932928085
+participant_id SNARC color arabic DC 0 down 5 lctrl 0.406575918198
+participant_id SNARC color arabic DC 0 up 6 lctrl 0.646667957306
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '03_24_1605', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'participant_id', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+participant_id SNARC color arabic DC 0 down 5 lctrl 0.660016775131
+participant_id SNARC color arabic DC 0 up 5 num_separator 0.294833898544

@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_15_1300', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'bastille9', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+bastille9 SNARC line dot CD 0 up 25 lctrl 1.57218909264
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.453542947769
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.320276021957
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.431234836578
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.506016969681
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.432289838791
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.332637071609
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.419444084167
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.463582992554
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.393084049225
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.350825071335
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.422444820404
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.367604017258
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.405641078949
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.49023604393
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.451864004135
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.350352048874
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.354825973511
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.370977878571
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.346451044083
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.474514007568
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.300296068192
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.333931922913
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.563990116119
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.423224925995
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.474493026733
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.428277015686
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.350929021835
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.364794015884
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.361042976379
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.3990650177
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.353991031647
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.374406814575
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.620107889175
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.407737970352
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.411207914352
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.415349006653
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.386740922928
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.479112863541
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.320078134537
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.504955053329
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.369045972824
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.388725042343
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.384305953979
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.372143030167
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.354307889938
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.377092838287
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.414207935333
+bastille9 SNARC line dot CD 0 up 20 num_delete 0.401586055756
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.646430015564
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.503466129303
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.39283490181
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.38289308548
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.396622896194
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.330963134766
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.514227151871
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.635525941849
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.638363838196
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.391438961029
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.402555942535
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.380948066711
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.449226140976
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.370423078537
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.337606191635
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.338229894638
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.386376142502
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.487943887711
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.529852151871
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.409539937973
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.413500070572
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.322010040283
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.377866983414
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.328120946884
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.344805955887
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.352631092072
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.337662220001
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.393303871155
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.381400823593
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.393134117126
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.573662996292
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.402855873108
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.488513231277
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.378109931946
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.37583899498
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.471493005753
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.376486063004
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.404419898987
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.361524105072
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.382257938385
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.388339042664
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.306225061417
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.3858730793
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.397804021835
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.499572992325
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.394477128983
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.481096029282
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.441891908646
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.579584121704
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.416398048401
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.323247909546
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.369770050049
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.606971025467
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.442575216293
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.547694921494
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.447844982147
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.378314971924
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.479538202286
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.394313097
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.415207147598
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.395257949829
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.399039030075
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.364151954651
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.417080879211
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.347134113312
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.432752132416
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.325440883636
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.44647693634
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.401718854904
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.462804079056
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.416808128357
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.44229388237
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.645889043808
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.567408084869
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.402465105057
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.550104856491
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.379791975021
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.60227394104
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.589885234833
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.380291938782
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.367889881134
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.358538150787
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.501222848892
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.371640920639
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.415994882584
+bastille9 SNARC line dot CD 0 up 10 num_delete 0.403927087784
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.495240211487
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.51856803894
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.574952840805
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.356379985809
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.440603971481
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.410480976105
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.453542947769
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.495720148087
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.367733001709
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.462306976318
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.406939983368
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.483587026596
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.60397195816
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.409293889999
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.475833892822
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.590306997299
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.369919061661
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.590309143066
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.42803311348
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.533529996872
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.451897144318
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.455134153366
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.41576218605
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.395933151245
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.393105983734
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.557172060013
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.451284170151
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.388010025024
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.48150396347
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.448563098907
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.540682077408
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.436146974564
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.367216110229
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.659878969193
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.468867063522
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.405017852783
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.560262918472
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.534188985825
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.435750007629
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.620486021042
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.487587213516
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.670614957809
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.430733919144
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.408257007599
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.526329040527
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.595607995987
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.422712087631
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.643528938293
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.459627866745
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.381979942322
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.627333164215
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.364435195923
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.402179002762
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.484754800797
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.419820070267
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.429334878922
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.769658088684
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.432107925415
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.434120893478
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.46210193634
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.367646217346
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.389447927475
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.411779165268
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.495759963989
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.337105989456
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.329536914825
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.352855920792
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.375655889511
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.365821838379
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.380531072617
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.383242845535
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.348712921143
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.458305120468
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.364028930664
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.362299203873
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.337914943695
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.432423830032
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.397186994553
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.449403047562
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.40478515625
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.367120981216
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.421188831329
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.449213981628
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.33690905571
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.353064060211
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.382064819336
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.507509946823
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.385610818863
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.342091083527
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.46070098877
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.326364994049
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.365328073502
+bastille9 SNARC line dot CD 0 down 15 lctrl 0.396203994751
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.399387121201
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.449506044388
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.484427928925
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.53951215744
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.362456083298
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.416499853134
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.394039154053
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.541930913925
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.523947954178
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.498369932175
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.336266994476
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.52670788765
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.654278993607
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.697230815887
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.391730070114
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.646052837372
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.792021989822
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.562725067139
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.416548013687
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.468588829041
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.478937149048
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.384883880615
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.33965086937
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.372135877609
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.520952939987
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.37583899498
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.975196123123
+bastille9 SNARC line dot CD 0 down 35 num_delete 1.9933180809
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.499351024628
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.507488012314
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.457380056381
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.403533935547
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.591027021408
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.548530101776
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.568803071976
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.667332172394
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.556551933289
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.5201151371
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.527503967285
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.383583068848
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.354261875153
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.593602895737
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.523905038834
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.771094083786
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.710191011429
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.539733886719
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.488117933273
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.471071004868
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.505660057068
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.442371845245
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.541665077209
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.485295057297
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.461941957474
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.382930994034
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.380963087082
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.54515004158
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.42989897728
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.480189085007
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.664540052414
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.550941944122
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.445407867432
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.43904209137
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.400097846985
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.454012155533
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.448643922806
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.363161087036
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.37876701355
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.465204000473
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.464245080948
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.393433094025
+bastille9 SNARC line dot CD 0 down 25 num_delete 0.366269826889
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.402470111847
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.360947847366
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.415178060532
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.408806085587
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.372301101685
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.337090969086
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.359031915665
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.363863945007
+bastille9 SNARC line dot CD 0 down 5 num_delete 0.452831983566
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.469312906265
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.369359016418
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.384016036987
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.372788906097
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.607998132706
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.390784978867
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.422996997833
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.385082960129
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.382652044296
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.456154108047
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.605842113495
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.52033495903
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.520812034607
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.622806072235
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.639586925507
+bastille9 SNARC line dot CD 0 up 15 lctrl 0.587169885635
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.446676015854
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.384742021561
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.493788003922
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.50154709816
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.412147045135
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.401293039322
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.39700293541
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.385436058044
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.430314064026
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.479611158371
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.337741851807
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.407840967178
+bastille9 SNARC line dot CD 0 down 40 lctrl 0.410933971405
+bastille9 SNARC line dot CD 0 up 5 lctrl 0.608469963074
+bastille9 SNARC line dot CD 0 up 20 lctrl 0.724144935608
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.443614006042
+bastille9 SNARC line dot CD 0 up 40 lctrl 0.420899152756
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.640763998032
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.522688865662
+bastille9 SNARC line dot CD 0 up 10 lctrl 0.506957054138
+bastille9 SNARC line dot CD 0 down 10 num_delete 0.450850963593
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.85283613205
+bastille9 SNARC line dot CD 0 down 15 num_delete 0.542836904526
+bastille9 SNARC line dot CD 0 up 25 lctrl 1.12575101852
+bastille9 SNARC line dot CD 0 up 30 lctrl 0.49019908905
+bastille9 SNARC line dot CD 0 down 30 num_delete 0.737704992294
+bastille9 SNARC line dot CD 0 down 45 num_delete 0.941400051117
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.8745470047
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.410646915436
+bastille9 SNARC line dot CD 0 down 35 num_delete 0.421747922897
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.407710790634
+bastille9 SNARC line dot CD 0 up 25 lctrl 0.484570026398
+bastille9 SNARC line dot CD 0 up 35 lctrl 0.531883001328
+bastille9 SNARC line dot CD 0 down 20 num_delete 0.393959999084
+bastille9 SNARC line dot CD 0 up 45 lctrl 0.388983011246
+bastille9 SNARC line dot CD 0 down 40 num_delete 0.384166955948
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_15_1310', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'bastille9', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.780894994736
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.434701919556
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.302948951721
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.328424930573
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.826243877411
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.63761305809
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.418021917343
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.414681911469
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.387307882309
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.354074001312
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.313547134399
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.322906970978
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.540520906448
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.596162080765
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.626677036285
+bastille9 SNARC line arabic CD 0 down 9 lctrl 0.478639125824
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.488739967346
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.634495019913
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.734153032303
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.469249010086
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.408575057983
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.382141113281
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.341078996658
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.397274017334
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.395097017288
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.449169158936
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.388684988022
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.371646165848
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.361937046051
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.442357063293
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.438787937164
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.339081048965
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.323621034622
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.30881690979
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.358794927597
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.366885185242
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.437323093414
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.842001914978
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.581205844879
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.370578050613
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.442266941071
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.38236784935
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.436527013779
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.360674858093
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.296579122543
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.395103216171
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.8094830513
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.693997144699
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.647330999374
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.891667127609
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.355939149857
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.747310161591
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.427344083786
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.351576089859
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.328217029572
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.481156826019
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.563441991806
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.338127851486
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.363216876984
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.562577962875
+bastille9 SNARC line arabic CD 0 up 3 lctrl 1.05028009415
+bastille9 SNARC line arabic CD 0 up 7 lctrl 3.31628704071
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.34024810791
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.49335694313
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.358795166016
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.37518286705
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.333681821823
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.374879837036
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.301692008972
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.624177932739
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.364209890366
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.410687923431
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.432975053787
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.429658889771
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.354196071625
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.306406021118
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.50861120224
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.453742980957
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.39345407486
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.415313005447
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.516484022141
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.357652902603
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.277000904083
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.47211098671
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.435284852982
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.663819074631
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.402340888977
+bastille9 SNARC line arabic CD 0 down 6 lctrl 0.568515062332
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.462954998016
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.538609981537
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.465600967407
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.413218975067
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.419047117233
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.343947887421
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.425371170044
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.333330869675
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.383057117462
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.508183002472
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.630342006683
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.609886884689
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.407320976257
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.45329785347
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.600342988968
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.989752054214
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.442543029785
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.374202013016
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.469761133194
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.352303981781
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.640429019928
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.572182178497
+bastille9 SNARC line arabic CD 0 down 8 lctrl 0.466822147369
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.548759937286
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.844413995743
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.367676019669
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.662879228592
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.457448005676
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.653880119324
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.319999217987
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.401152133942
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.887346029282
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.607939958572
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.492841959
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.423441886902
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.724801063538
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.492558956146
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.454660177231
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.394015073776
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.576282978058
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.70308804512
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.448235034943
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.419394016266
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.392476081848
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.502379179001
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.384181976318
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.558604955673
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.517735004425
+bastille9 SNARC line arabic CD 0 down 6 lctrl 0.422554016113
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.715869903564
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.523517847061
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.42834186554
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.360877990723
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.665158987045
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.723338127136
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.619415998459
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.559252977371
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.97461605072
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.452184915543
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.543952941895
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.455765008926
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.523231983185
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.371614933014
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.418768167496
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.447814941406
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.507499933243
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.637199878693
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.544327020645
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.592663049698
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.334389925003
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.478467941284
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.497922897339
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.563530921936
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.418103933334
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.631581068039
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.530685901642
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.603134870529
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.752002000809
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.526930093765
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.359668970108
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.5354180336
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.383344888687
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.341737031937
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.438055992126
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.394507884979
+bastille9 SNARC line arabic CD 0 down 3 num_delete 1.57683587074
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.548326015472
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.595214128494
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.537316083908
+bastille9 SNARC line arabic CD 0 up 7 lctrl 1.09730815887
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.569257974625
+bastille9 SNARC line arabic CD 0 down 6 lctrl 0.472346067429
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.722572088242
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.522610187531
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.379378080368
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.346672058105
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.347434043884
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.315820217133
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.412253141403
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.306807041168
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.612110853195
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.833403110504
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.460433006287
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.391762971878
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.366106987
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.39702296257
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.403440952301
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.360600948334
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.465133905411
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.459756851196
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.406754016876
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.349009990692
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.428935050964
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.47384095192
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.652300834656
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.703586101532
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.607949972153
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.66978096962
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.359377145767
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.487013101578
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.465277910233
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.420404911041
+bastille9 SNARC line arabic CD 0 down 7 lctrl 0.401297092438
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.50267291069
+bastille9 SNARC line arabic CD 0 down 2 lctrl 0.416522979736
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.653455972672
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.584748983383
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.494230985641
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.36850810051
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.398880958557
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.509967088699
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.382516145706
+bastille9 SNARC line arabic CD 0 up 3 num_delete 0.364539146423
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.836176872253
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.439221858978
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.403356075287
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.608659982681
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.413629055023
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.33062505722
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.299912929535
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.422317028046
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.45937204361
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.678180932999
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.360599994659
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.424002170563
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.645513057709
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.672701120377
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.643338918686
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.494592189789
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.57643198967
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.383395910263
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.52601480484
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.374459981918
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.453862905502
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.449348926544
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.340646982193
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.485518932343
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.423376083374
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.900252819061
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.372883796692
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.371505022049
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.427006959915
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.504273891449
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.497490882874
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.56289100647
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.465794086456
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.412912130356
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.474174022675
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.413530111313
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.418133020401
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.375172138214
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.34210395813
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.391298055649
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.445626020432
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.433873176575
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.469805002213
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.368679046631
+bastille9 SNARC line arabic CD 0 down 1 lctrl 0.40916800499
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.749429941177
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.419933080673
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.361339092255
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.328922986984
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.410664081573
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.32769203186
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.409333944321
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.438988208771
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.443587064743
+bastille9 SNARC line arabic CD 0 down 7 lctrl 0.679854154587
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.39398598671
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.456067085266
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.499624967575
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.429275035858
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.530148029327
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.370768070221
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.490301132202
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.828470945358
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.639623880386
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.363389015198
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.434443950653
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.398857116699
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.468834877014
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.487653970718
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.38538312912
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.4243080616
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.533122062683
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.388878822327
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.507244110107
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.36484503746
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.371855974197
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.338973045349
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.41131401062
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.385820865631
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.456795930862
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.331461906433
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.404022216797
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.369500875473
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.552842855453
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.432272195816
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.348417043686
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.332237005234
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.388617038727
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.555279970169
+bastille9 SNARC line arabic CD 0 up 1 num_delete 0.314152002335
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.411505937576
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.481320142746
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.739687919617
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.491098165512
+bastille9 SNARC line arabic CD 0 up 8 lctrl 0.541188955307
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.580868005753
+bastille9 SNARC line arabic CD 0 up 1 lctrl 1.14697599411
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.601063966751
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.373772144318
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.46911406517
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.495503902435
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.56969499588
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.512907981873
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.369741916656
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.849201917648
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.539802074432
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.53927397728
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.507239103317
+bastille9 SNARC line arabic CD 0 down 9 num_delete 0.404539108276
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.522205114365
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.931045055389
+bastille9 SNARC line arabic CD 0 up 6 lctrl 0.594779014587
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.416585922241
+bastille9 SNARC line arabic CD 0 down 4 num_delete 1.90891504288
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.394248962402
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.440641880035
+bastille9 SNARC line arabic CD 0 down 3 num_delete 0.396691799164
+bastille9 SNARC line arabic CD 0 down 6 num_delete 0.314555168152
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.379794836044
+bastille9 SNARC line arabic CD 0 down 8 num_delete 0.410948038101
+bastille9 SNARC line arabic CD 0 up 2 num_delete 0.328804016113
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.746463060379
+bastille9 SNARC line arabic CD 0 up 7 lctrl 0.401834964752
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.32731795311
+bastille9 SNARC line arabic CD 0 up 9 lctrl 0.360810995102
+bastille9 SNARC line arabic CD 0 up 2 lctrl 0.376566886902
+bastille9 SNARC line arabic CD 0 up 1 lctrl 0.471698999405
+bastille9 SNARC line arabic CD 0 down 7 num_delete 0.402147054672
+bastille9 SNARC line arabic CD 0 down 1 num_delete 0.455944061279
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.411478996277
+bastille9 SNARC line arabic CD 0 up 5 lctrl 0.545478105545
+bastille9 SNARC line arabic CD 0 down 5 num_delete 0.553153038025
+bastille9 SNARC line arabic CD 0 down 2 num_delete 0.448365926743
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.340403079987
+bastille9 SNARC line arabic CD 0 up 3 lctrl 0.388737916946
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.395250082016
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.313701868057
+bastille9 SNARC line arabic CD 0 up 4 lctrl 0.298822164536
+bastille9 SNARC line arabic CD 0 down 4 num_delete 0.460694789886
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_15_1318', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'bastille9', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.683912992477
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.309330224991
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.310642004013
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.383719921112
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.356920957565
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.386603116989
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.318160057068
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.405007123947
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.439617872238
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.498631000519
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.442292928696
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.388620853424
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.584732055664
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.373629808426
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.339440822601
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.321182966232
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.369064092636
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.335500001907
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.38955116272
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.499627828598
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.361491918564
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.528168916702
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.517469167709
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.445130825043
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.712934970856
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.494946956635
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.55051612854
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.508499860764
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.522650003433
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.403605937958
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.518974065781
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.542807817459
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.468360900879
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.709528207779
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.700272083282
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.523944854736
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.388077020645
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.432502031326
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.35419511795
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.377757072449
+bastille9 SNARC line dot DC 0 down 40 lctrl 1.09411597252
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.470239162445
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.448386907578
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.378856182098
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.354416847229
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.376498937607
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.438659906387
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.377840042114
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.384526968002
+bastille9 SNARC line dot DC 0 down 45 num_delete 0.331515073776
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.328545093536
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.376515865326
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.374255895615
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.436977148056
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.47135591507
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.383270978928
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.38094496727
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.344564914703
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.41524720192
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.346748113632
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.344201087952
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.391914129257
+bastille9 SNARC line dot DC 0 up 40 lctrl 0.379337072372
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.426290035248
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.367477893829
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.373497962952
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.634165048599
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.324188947678
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.794919967651
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.456081867218
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.424562931061
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.386330127716
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.704560041428
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.432585954666
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.609893083572
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.477087020874
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.542690038681
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.388077974319
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.385783910751
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.437500953674
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.399686098099
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.380061864853
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.345746994019
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.450489997864
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.491632938385
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.418044090271
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.414973974228
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.499935150146
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.469349861145
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.407878875732
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.444058895111
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.382391929626
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.482054948807
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.411869049072
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.96701002121
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.441792011261
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.524179935455
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.475779056549
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.548359155655
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.419095039368
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.421167135239
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.359549045563
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.501903057098
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.468825101852
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.469084978104
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.469675064087
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.496174812317
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.522023916245
+bastille9 SNARC line dot DC 0 up 35 num_delete 1.76830005646
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.385729074478
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.358648777008
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.381823062897
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.482798099518
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.306832075119
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.445602893829
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.590466022491
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.410074949265
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.421026945114
+bastille9 SNARC line dot DC 0 up 5 num_delete 1.28190493584
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.487206220627
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.401066064835
+bastille9 SNARC line dot DC 0 down 5 num_delete 0.318199157715
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.350082159042
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.412247896194
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.374680995941
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.581562995911
+bastille9 SNARC line dot DC 0 up 40 num_delete 1.28792095184
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.376014947891
+bastille9 SNARC line dot DC 0 up 25 num_delete 1.30135178566
+bastille9 SNARC line dot DC 0 down 25 lctrl 1.81146597862
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.338394165039
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.514780044556
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.361898899078
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.335188865662
+bastille9 SNARC line dot DC 0 down 35 num_delete 0.357882022858
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.492654085159
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.539479970932
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.435358047485
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.317766904831
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.374520778656
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.628184080124
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.815327167511
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.418100118637
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.42985200882
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.39945602417
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.453358888626
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.390748023987
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.363689899445
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.40969991684
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.35752081871
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.508337020874
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.818977832794
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.421746015549
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.402934074402
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.726747989655
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.380464076996
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.482286930084
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.699971199036
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.556365013123
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.490881204605
+bastille9 SNARC line dot DC 0 down 30 num_delete 0.322575807571
+bastille9 SNARC line dot DC 0 down 5 num_delete 0.387739896774
+bastille9 SNARC line dot DC 0 down 5 lctrl 1.02669501305
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.410853862762
+bastille9 SNARC line dot DC 0 up 5 num_delete 1.18419003487
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.40279006958
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.476927995682
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.381503820419
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.618005037308
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.730890035629
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.400722026825
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.420138120651
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.462291002274
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.505295038223
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.391417980194
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.421195983887
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.431820869446
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.476634025574
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.420886039734
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.398040056229
+bastille9 SNARC line dot DC 0 down 25 lctrl 2.01086592674
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.443200111389
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.589058876038
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.650150060654
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.611975908279
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.400847911835
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.941234111786
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.466203927994
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.521494865417
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.647828102112
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.498150110245
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.530586004257
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.585247039795
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.438033103943
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.506118774414
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.562040805817
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.606935024261
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.752509117126
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.949272871017
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.937056064606
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.479542016983
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.383670091629
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.404517889023
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.328330039978
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.417304039001
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.491443157196
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.387352228165
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.352298974991
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.413130044937
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.401281118393
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.342761993408
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.363919973373
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.408617973328
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.470358848572
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.375432014465
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.477118968964
+bastille9 SNARC line dot DC 0 down 5 lctrl 1.36031293869
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.38668513298
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.629209041595
+bastille9 SNARC line dot DC 0 down 40 num_delete 0.3825340271
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.355096817017
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.410008192062
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.684564828873
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.6363530159
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.919708967209
+bastille9 SNARC line dot DC 0 down 10 lctrl 1.23868203163
+bastille9 SNARC line dot DC 0 up 35 num_delete 1.39793300629
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.406509876251
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.682997941971
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.530383110046
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.384908914566
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.509562015533
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.62123298645
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.416152954102
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.443359136581
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.663671970367
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.529752969742
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.497699975967
+bastille9 SNARC line dot DC 0 up 45 num_delete 1.34309792519
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.450421094894
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.364984989166
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.482336044312
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.348088979721
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.467079877853
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.420664072037
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.415261030197
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.456998109818
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.523203849792
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.867156982422
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.498232841492
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.585512876511
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.582312107086
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.586627006531
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.44740486145
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.586379051208
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.581418991089
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.491150140762
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.717443943024
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.619371175766
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.718444108963
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.701100111008
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.362768888474
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.384469032288
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.398936033249
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.468018054962
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.333296775818
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.596046209335
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.34300494194
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.390232086182
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.339504003525
+bastille9 SNARC line dot DC 0 down 45 num_delete 0.344887971878
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.496622085571
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.422871112823
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.48136305809
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.720322847366
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.480778932571
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.392924070358
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.36741399765
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.430006027222
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.377097129822
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.463532924652
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.383993864059
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.411864995956
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.584421873093
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.532226085663
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.444110870361
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.437580108643
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.369923830032
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.528038978577
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.352307081223
+bastille9 SNARC line dot DC 0 up 25 num_delete 0.430514097214
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.456079959869
+bastille9 SNARC line dot DC 0 up 35 lctrl 0.344820976257
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.558742046356
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.38186621666
+bastille9 SNARC line dot DC 0 up 15 lctrl 0.443842172623
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.619925022125
+bastille9 SNARC line dot DC 0 down 35 lctrl 1.47888684273
+bastille9 SNARC line dot DC 0 up 30 num_delete 1.17147517204
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.647515058517
+bastille9 SNARC line dot DC 0 down 10 lctrl 1.30606198311
+bastille9 SNARC line dot DC 0 down 40 lctrl 1.078125
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.764113903046
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.495558023453
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.447017908096
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.816953897476
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.794854879379
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.989792823792
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.937053918839
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.389977931976
+bastille9 SNARC line dot DC 0 down 35 lctrl 1.19460201263
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.563202142715
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.41596698761
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.498462915421
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.515782117844
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.609264135361
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.877998113632
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.604181051254
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.463448047638
+bastille9 SNARC line dot DC 0 up 15 num_delete 0.489886045456
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.499848127365
+bastille9 SNARC line dot DC 0 up 30 num_delete 0.371432065964
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.35209107399
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.342062950134
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.332459926605
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.322090864182
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.434992074966
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.380635023117
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.354388952255
+bastille9 SNARC line dot DC 0 down 35 lctrl 0.39234495163
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.379968881607
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.400875091553
+bastille9 SNARC line dot DC 0 up 20 num_delete 0.428898096085
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.489090919495
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.495275974274
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.424592018127
+bastille9 SNARC line dot DC 0 down 10 lctrl 0.381047964096
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.385161161423
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.420850992203
+bastille9 SNARC line dot DC 0 down 45 lctrl 0.990890979767
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.44104385376
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.395345926285
+bastille9 SNARC line dot DC 0 up 45 num_delete 0.429873943329
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.442938089371
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.37401008606
+bastille9 SNARC line dot DC 0 down 25 lctrl 0.372195005417
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.546745061874
+bastille9 SNARC line dot DC 0 down 40 lctrl 0.455928087234
+bastille9 SNARC line dot DC 0 down 5 lctrl 0.467628002167
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.557762861252
+bastille9 SNARC line dot DC 0 down 30 lctrl 0.410750865936
+bastille9 SNARC line dot DC 0 up 40 num_delete 0.501278877258
+bastille9 SNARC line dot DC 0 down 20 lctrl 0.413829088211
+bastille9 SNARC line dot DC 0 up 35 num_delete 0.640599966049
+bastille9 SNARC line dot DC 0 down 15 lctrl 0.451369047165
+bastille9 SNARC line dot DC 0 up 20 num_delete 1.20503902435
+bastille9 SNARC line dot DC 0 down 25 lctrl 1.01508378983
+bastille9 SNARC line dot DC 0 up 15 num_delete 1.0253200531
+bastille9 SNARC line dot DC 0 up 5 num_delete 0.413098096848
+bastille9 SNARC line dot DC 0 up 10 num_delete 0.329362154007
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_15_1327', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'bastille9', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.900538921356
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.404443979263
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.498175859451
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.459699869156
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.447417974472
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.370449066162
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.522014856339
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.410710096359
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.344069957733
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.385142087936
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.343013048172
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.472061872482
+bastille9 SNARC line arabic DC 0 up 2 num_delete 1.14644289017
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.6967689991
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.441931009293
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.350113153458
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.367169857025
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.453337907791
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.417083978653
+bastille9 SNARC line arabic DC 0 down 9 lctrl 1.36627388
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.386518001556
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.417451143265
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.462466001511
+bastille9 SNARC line arabic DC 0 up 4 lctrl 0.354361057281
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.3688621521
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.343792915344
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.336241006851
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.288761854172
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.404038906097
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.481631040573
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.427896976471
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.392822980881
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.501293182373
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.608356952667
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.397356033325
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.3556599617
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.450907945633
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.398247003555
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.484395980835
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.558207988739
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.726104021072
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.493901968002
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.480095863342
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.354973077774
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.458238124847
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.398489952087
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.8440990448
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.646697998047
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.498276948929
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.571791887283
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.338407993317
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.338896036148
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.323840856552
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.332723855972
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.341691017151
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.374284982681
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.461764097214
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.368843078613
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.463989019394
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.387017011642
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.353626966476
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.593381881714
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.383167982101
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.389075040817
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.33151102066
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.380113124847
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.330517053604
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.419445991516
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.520510911942
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.369302988052
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.40009188652
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.373612165451
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.404704093933
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.346945047379
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.362655878067
+bastille9 SNARC line arabic DC 0 up 2 lctrl 0.370563983917
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.649239063263
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.532299041748
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.4283618927
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.417594194412
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.478189945221
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.448992013931
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.302938938141
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.438871145248
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.459180116653
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.350764036179
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.358267068863
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.422660112381
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.683831930161
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.676939964294
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.479183912277
+bastille9 SNARC line arabic DC 0 up 6 lctrl 0.346863031387
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.35396695137
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.64950299263
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.56472992897
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.51470208168
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.395508050919
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.361918926239
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.409875869751
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.343420028687
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.383973121643
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.302537918091
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.440972089767
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.349150896072
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.284693002701
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.37585401535
+bastille9 SNARC line arabic DC 0 down 8 num_delete 0.318548202515
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.824204921722
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.515670061111
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.492830038071
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.430956840515
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.586480140686
+bastille9 SNARC line arabic DC 0 up 7 num_delete 1.12050700188
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.559365987778
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.438923835754
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.39480805397
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.521162986755
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.474137067795
+bastille9 SNARC line arabic DC 0 down 6 num_delete 0.572550058365
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.603510141373
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.424195051193
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.621340036392
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.41761803627
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.342772006989
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.447785139084
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.6591360569
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.582098007202
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.683503866196
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.437169075012
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.425732135773
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.558665990829
+bastille9 SNARC line arabic DC 0 up 7 num_delete 1.22946310043
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.928540945053
+bastille9 SNARC line arabic DC 0 up 5 num_delete 1.23934388161
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.345628023148
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.72159910202
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.842224836349
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.42147397995
+bastille9 SNARC line arabic DC 0 up 5 num_delete 1.34582090378
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.99198102951
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.420414924622
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.393354177475
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.448055028915
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.55489897728
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.50621509552
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.459888935089
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.471410036087
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.410260915756
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.544051885605
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.503996133804
+bastille9 SNARC line arabic DC 0 down 9 lctrl 1.66536593437
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.465631008148
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.427479982376
+bastille9 SNARC line arabic DC 0 up 1 lctrl 0.425104141235
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.349922895432
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.405357837677
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.51563501358
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.404330015182
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.44143986702
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.630206108093
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.35410284996
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.346145868301
+bastille9 SNARC line arabic DC 0 down 5 num_delete 0.378697156906
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.43418097496
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.342489957809
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.28674697876
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.369712114334
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.441591024399
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.53369808197
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.317138910294
+bastille9 SNARC line arabic DC 0 up 4 lctrl 0.334390163422
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.574871063232
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.469086885452
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.375952005386
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.383460998535
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.477713823318
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.536394834518
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.592162132263
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.478898048401
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.360898971558
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.360795021057
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.313122987747
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.314604043961
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.324408054352
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.429490089417
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.402694940567
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.304782152176
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.338690042496
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.539557933807
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.362492084503
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.363236904144
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.330353021622
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.483396053314
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.316920995712
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.478260040283
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.361166954041
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.457347869873
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.348526000977
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.372661828995
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.339878082275
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.452484130859
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.328121900558
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.393049001694
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.287308931351
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.363136053085
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.330261945724
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.338999986649
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.371473073959
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.394235134125
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.385421991348
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.335018873215
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.43151807785
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.420292854309
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.369306087494
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.336548089981
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.321052074432
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.313888072968
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.403207063675
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.377470970154
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.36815905571
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.271148920059
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.347163915634
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.450911998749
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.365931987762
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.349381923676
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.365711212158
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.468293190002
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.439028978348
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.347826957703
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.403812885284
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.345399856567
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.361461877823
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.625361919403
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.445873022079
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.442008972168
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.318347930908
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.295607805252
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.362361907959
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.322213888168
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.371489048004
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.31499004364
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.532343149185
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.54052901268
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.42834186554
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.353384971619
+bastille9 SNARC line arabic DC 0 up 6 lctrl 0.273022890091
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.356528997421
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.548197984695
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.299216985703
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.613596916199
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.650537967682
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.38979101181
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.491682052612
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.42182803154
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.859107017517
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.717612028122
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.629024028778
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.670004844666
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.371728897095
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.555186033249
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.434053182602
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.374759197235
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.605943918228
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.394712924957
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.40910410881
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.455189943314
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.322462081909
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.427627086639
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.377257108688
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.463910102844
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.410995960236
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.424090862274
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.493306159973
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.423616170883
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.404824972153
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.346167087555
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.498962163925
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.452416181564
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.416103124619
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.508641004562
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.518355846405
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.367129802704
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.533790111542
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.373739957809
+bastille9 SNARC line arabic DC 0 down 6 num_delete 0.436761140823
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.353580951691
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.401501178741
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.310909986496
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.345435142517
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.377558946609
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.464514970779
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.523566961288
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.331943035126
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.300507068634
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.254582881927
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.379039049149
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.610450983047
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.391198158264
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.445872068405
+bastille9 SNARC line arabic DC 0 down 8 lctrl 1.15409398079
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.423713922501
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.74803519249
+bastille9 SNARC line arabic DC 0 down 7 lctrl 0.947452783585
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.713782072067
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.562169075012
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.361869812012
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.329428911209
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.3869099617
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.722024917603
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.696822881699
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.778375148773
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.352536916733
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.320583820343
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.394021987915
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.391880989075
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.366864919662
+bastille9 SNARC line arabic DC 0 up 4 num_delete 0.293704032898
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.336207866669
+bastille9 SNARC line arabic DC 0 down 3 num_delete 0.320840120316
+bastille9 SNARC line arabic DC 0 down 8 num_delete 0.378248929977
+bastille9 SNARC line arabic DC 0 up 5 num_delete 0.449576854706
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.38137793541
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.499845027924
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.357471942902
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.468957901001
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.49588394165
+bastille9 SNARC line arabic DC 0 up 2 num_delete 0.425565004349
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.294365167618
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.577619075775
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.367993831635
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.638857841492
+bastille9 SNARC line arabic DC 0 up 1 num_delete 0.698352813721
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.371778011322
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.338916063309
+bastille9 SNARC line arabic DC 0 up 9 num_delete 0.371075868607
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.354176998138
+bastille9 SNARC line arabic DC 0 up 8 num_delete 0.354297876358
+bastille9 SNARC line arabic DC 0 down 6 num_delete 0.290055990219
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.485096931458
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.342934846878
+bastille9 SNARC line arabic DC 0 up 8 lctrl 0.319457054138
+bastille9 SNARC line arabic DC 0 up 7 num_delete 0.536761045456
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.337102174759
+bastille9 SNARC line arabic DC 0 up 3 num_delete 0.6652739048
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.875825881958
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.717347860336
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.461511135101
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.38494515419
+bastille9 SNARC line arabic DC 0 down 4 lctrl 0.495732069016
+bastille9 SNARC line arabic DC 0 down 1 lctrl 0.425455093384
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.438472986221
+bastille9 SNARC line arabic DC 0 down 9 lctrl 0.514767885208
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.594607114792
+bastille9 SNARC line arabic DC 0 down 6 lctrl 0.313084125519
+bastille9 SNARC line arabic DC 0 down 8 lctrl 0.283015966415
+bastille9 SNARC line arabic DC 0 down 3 lctrl 0.341232061386
+bastille9 SNARC line arabic DC 0 down 5 lctrl 0.269805192947
+bastille9 SNARC line arabic DC 0 up 6 num_delete 0.304889917374
+bastille9 SNARC line arabic DC 0 down 4 num_delete 0.330924987793
+bastille9 SNARC line arabic DC 0 down 2 lctrl 0.579841136932
+{'participant': u'bastille9', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_15_1337', 'autopilot': False, 'exp_id': u'SNARC'}
+bastille9 SNARC_only CD 9 num_enter 0.65948009491
+bastille9 SNARC_only CD 2 lctrl 1.73402500153
+bastille9 SNARC_only CD 1 num_delete 0.546364068985
+bastille9 SNARC_only CD 7 num_delete 0.698410987854
+bastille9 SNARC_only CD 7 num_delete 0.443681001663
+bastille9 SNARC_only CD 9 num_delete 0.663581132889
+bastille9 SNARC_only CD 7 num_delete 0.450512886047
+bastille9 SNARC_only CD 9 num_delete 0.40626001358
+bastille9 SNARC_only CD 5 num_delete 0.387695074081
+bastille9 SNARC_only CD 4 lctrl 0.434602022171
+bastille9 SNARC_only CD 7 num_delete 0.350286006927
+bastille9 SNARC_only CD 6 lctrl 0.742811918259
+bastille9 SNARC_only CD 9 num_delete 0.685663938522
+bastille9 SNARC_only CD 1 num_delete 0.67116189003
+bastille9 SNARC_only CD 6 lctrl 0.522170066833
+bastille9 SNARC_only CD 5 num_delete 0.386214017868
+bastille9 SNARC_only CD 8 lctrl 0.432837963104
+bastille9 SNARC_only CD 9 num_delete 0.412657022476
+bastille9 SNARC_only CD 5 num_delete 0.338522911072
+bastille9 SNARC_only CD 9 num_delete 0.691017866135
+bastille9 SNARC_only CD 9 num_delete 0.292458057404
+bastille9 SNARC_only CD 2 lctrl 1.21563482285
+bastille9 SNARC_only CD 6 lctrl 1.39477801323
+bastille9 SNARC_only CD 9 num_delete 0.605685949326
+bastille9 SNARC_only CD 6 lctrl 0.419492006302
+bastille9 SNARC_only CD 3 num_delete 0.655904054642
+bastille9 SNARC_only CD 5 num_delete 0.63468003273
+bastille9 SNARC_only CD 9 num_delete 0.806355953217
+bastille9 SNARC_only CD 6 lctrl 0.555181980133
+bastille9 SNARC_only CD 1 num_delete 1.00190186501
+bastille9 SNARC_only CD 7 num_delete 0.518306970596
+bastille9 SNARC_only CD 9 num_delete 0.494695186615
+bastille9 SNARC_only CD 5 num_delete 0.432687044144
+bastille9 SNARC_only CD 5 num_delete 0.381062984467
+bastille9 SNARC_only CD 4 lctrl 1.31587791443
+bastille9 SNARC_only CD 5 num_delete 0.513298034668
+bastille9 SNARC_only CD 6 lctrl 1.20365786552
+bastille9 SNARC_only CD 5 num_delete 0.390151023865
+bastille9 SNARC_only CD 8 lctrl 0.99698805809
+bastille9 SNARC_only CD 3 num_delete 0.506993055344
+bastille9 SNARC_only CD 4 lctrl 1.25246906281
+bastille9 SNARC_only CD 8 lctrl 0.466044902802
+bastille9 SNARC_only CD 3 num_delete 0.45340514183
+bastille9 SNARC_only CD 7 num_delete 0.385311126709
+bastille9 SNARC_only CD 6 lctrl 0.488218784332
+bastille9 SNARC_only CD 5 num_delete 1.29781103134
+bastille9 SNARC_only CD 6 lctrl 0.521974086761
+bastille9 SNARC_only CD 2 num_delete 0.506045818329
+bastille9 SNARC_only CD 3 num_delete 0.427551031113
+bastille9 SNARC_only CD 7 num_delete 0.424598932266
+bastille9 SNARC_only CD 8 lctrl 0.526108026505
+bastille9 SNARC_only CD 1 num_delete 0.478199005127
+bastille9 SNARC_only CD 4 lctrl 0.449551820755
+bastille9 SNARC_only CD 4 lctrl 0.389147996902
+bastille9 SNARC_only CD 8 lctrl 0.523327112198
+bastille9 SNARC_only CD 7 num_delete 0.387717962265
+bastille9 SNARC_only CD 9 num_delete 0.370476007462
+bastille9 SNARC_only CD 3 num_delete 0.40136885643
+bastille9 SNARC_only CD 1 lctrl 0.303386926651
+bastille9 SNARC_only CD 5 num_delete 0.440979957581
+bastille9 SNARC_only CD 7 num_delete 0.34113907814
+bastille9 SNARC_only CD 4 lctrl 0.358227968216
+bastille9 SNARC_only CD 2 lctrl 0.558229923248
+bastille9 SNARC_only CD 7 num_delete 0.445199012756
+bastille9 SNARC_only CD 2 lctrl 0.393753051758
+bastille9 SNARC_only CD 1 num_delete 0.415526151657
+bastille9 SNARC_only CD 5 num_delete 0.740715026855
+bastille9 SNARC_only CD 3 num_delete 0.388116121292
+bastille9 SNARC_only CD 9 num_delete 0.410477161407
+bastille9 SNARC_only CD 2 lctrl 1.2646958828
+bastille9 SNARC_only CD 1 num_delete 0.481179952621
+bastille9 SNARC_only CD 1 num_delete 0.379244089127
+bastille9 SNARC_only CD 7 num_delete 0.354517936707
+bastille9 SNARC_only CD 3 num_delete 0.442472934723
+bastille9 SNARC_only CD 4 lctrl 0.886965990067
+bastille9 SNARC_only CD 4 lctrl 0.79172706604
+bastille9 SNARC_only CD 8 lctrl 0.949059009552
+bastille9 SNARC_only CD 3 num_delete 1.34682416916
+bastille9 SNARC_only CD 9 num_delete 0.480525970459
+bastille9 SNARC_only CD 7 num_delete 0.538357019424
+bastille9 SNARC_only CD 9 num_delete 0.40199303627
+bastille9 SNARC_only CD 9 num_delete 0.327877998352
+bastille9 SNARC_only CD 5 num_delete 0.305187940598
+bastille9 SNARC_only CD 3 num_delete 0.451328039169
+bastille9 SNARC_only CD 2 lctrl 0.855149030685
+bastille9 SNARC_only CD 4 lctrl 1.3537709713
+bastille9 SNARC_only CD 1 num_delete 0.477890014648
+bastille9 SNARC_only CD 4 lctrl 0.585234880447
+bastille9 SNARC_only CD 4 lctrl 0.462829113007
+bastille9 SNARC_only CD 2 lctrl 0.418441057205
+bastille9 SNARC_only CD 6 lctrl 0.703463077545
+bastille9 SNARC_only CD 9 lctrl 0.447932004929
+bastille9 SNARC_only CD 2 lctrl 0.371937036514
+bastille9 SNARC_only CD 4 lctrl 0.410780191422
+bastille9 SNARC_only CD 1 num_delete 1.23202490807
+bastille9 SNARC_only CD 2 lctrl 0.611671924591
+bastille9 SNARC_only CD 5 num_delete 1.31963396072
+bastille9 SNARC_only CD 5 num_delete 0.653956890106
+bastille9 SNARC_only CD 5 num_delete 0.416918992996
+bastille9 SNARC_only CD 4 lctrl 0.694329977036
+bastille9 SNARC_only CD 4 lctrl 0.399770021439
+bastille9 SNARC_only CD 4 lctrl 0.333587884903
+bastille9 SNARC_only CD 9 num_delete 0.357706069946
+bastille9 SNARC_only CD 7 num_delete 0.653606176376
+bastille9 SNARC_only CD 7 num_delete 0.432479858398
+bastille9 SNARC_only CD 4 lctrl 1.50094485283
+bastille9 SNARC_only CD 6 num_delete 0.322880983353
+bastille9 SNARC_only CD 6 lctrl 0.452888965607
+bastille9 SNARC_only CD 6 lctrl 0.416301012039
+bastille9 SNARC_only CD 8 lctrl 0.501005887985
+bastille9 SNARC_only CD 6 lctrl 0.374631881714
+bastille9 SNARC_only CD 3 num_delete 0.453346967697
+bastille9 SNARC_only CD 3 num_delete 0.441005945206
+bastille9 SNARC_only CD 1 num_delete 0.485076189041
+bastille9 SNARC_only CD 9 num_delete 0.423631191254
+bastille9 SNARC_only CD 4 lctrl 0.572735786438
+bastille9 SNARC_only CD 5 num_delete 0.458947896957
+bastille9 SNARC_only CD 9 num_delete 0.494398832321
+bastille9 SNARC_only CD 1 num_delete 0.496528863907
+bastille9 SNARC_only CD 1 num_delete 0.386548042297
+bastille9 SNARC_only CD 6 lctrl 0.73733496666
+bastille9 SNARC_only CD 2 lctrl 0.816693067551
+bastille9 SNARC_only CD 8 lctrl 0.484591007233
+bastille9 SNARC_only CD 6 lctrl 0.310656070709
+bastille9 SNARC_only CD 7 num_delete 0.432480096817
+bastille9 SNARC_only CD 7 num_delete 0.32439994812
+bastille9 SNARC_only CD 6 lctrl 0.398585796356
+bastille9 SNARC_only CD 2 lctrl 0.427835941315
+bastille9 SNARC_only CD 4 lctrl 0.416938066483
+bastille9 SNARC_only CD 8 lctrl 0.429705142975
+bastille9 SNARC_only CD 2 lctrl 0.434762001038
+bastille9 SNARC_only CD 3 num_delete 0.38264799118
+bastille9 SNARC_only CD 7 num_delete 1.22928309441
+bastille9 SNARC_only CD 6 lctrl 0.528429985046
+bastille9 SNARC_only CD 1 num_delete 0.88818192482
+bastille9 SNARC_only CD 2 lctrl 0.425446987152
+bastille9 SNARC_only CD 7 num_delete 0.286143064499
+bastille9 SNARC_only CD 3 num_delete 0.457087993622
+bastille9 SNARC_only CD 1 num_delete 0.454712867737
+bastille9 SNARC_only CD 6 lctrl 0.376935958862
+bastille9 SNARC_only CD 5 num_delete 0.399932861328
+bastille9 SNARC_only CD 1 num_delete 0.437557935715
+bastille9 SNARC_only CD 4 lctrl 0.418170928955
+bastille9 SNARC_only CD 1 num_delete 0.286823034286
+bastille9 SNARC_only CD 5 num_delete 0.497591018677
+bastille9 SNARC_only CD 4 lctrl 0.403401136398
+bastille9 SNARC_only CD 1 num_delete 0.504657030106
+bastille9 SNARC_only CD 8 num_delete 0.425801038742
+bastille9 SNARC_only CD 2 num_delete 0.319277048111
+bastille9 SNARC_only CD 3 num_delete 0.432663202286
+bastille9 SNARC_only CD 2 lctrl 0.893024921417
+bastille9 SNARC_only CD 9 num_delete 0.485439062119
+bastille9 SNARC_only CD 9 num_delete 0.311579942703
+bastille9 SNARC_only CD 6 lctrl 0.441989898682
+bastille9 SNARC_only CD 4 lctrl 0.462335109711
+bastille9 SNARC_only CD 2 lctrl 0.353997945786
+bastille9 SNARC_only CD 8 lctrl 0.457688093185
+bastille9 SNARC_only CD 2 lctrl 0.36549282074
+bastille9 SNARC_only CD 5 num_delete 0.507966995239
+bastille9 SNARC_only CD 9 num_delete 0.461554050446
+bastille9 SNARC_only CD 1 num_delete 0.544891119003
+bastille9 SNARC_only CD 4 lctrl 0.569235801697
+bastille9 SNARC_only CD 2 lctrl 0.327708959579
+bastille9 SNARC_only CD 3 num_delete 0.448132038116
+bastille9 SNARC_only CD 7 num_delete 0.699996948242
+bastille9 SNARC_only CD 8 lctrl 0.45339012146
+bastille9 SNARC_only CD 4 lctrl 0.441018104553
+bastille9 SNARC_only CD 3 num_delete 0.532943964005
+bastille9 SNARC_only CD 2 lctrl 0.381204843521
+bastille9 SNARC_only CD 7 num_delete 0.379127025604
+bastille9 SNARC_only CD 1 num_delete 0.394735097885
+bastille9 SNARC_only CD 8 num_delete 0.424836874008
+bastille9 SNARC_only CD 3 num_delete 0.397835969925
+bastille9 SNARC_only CD 5 num_delete 0.451510906219
+bastille9 SNARC_only CD 5 num_delete 0.543117046356
+bastille9 SNARC_only CD 8 lctrl 0.431548118591
+bastille9 SNARC_only CD 4 lctrl 0.475793123245
+bastille9 SNARC_only CD 7 num_delete 0.422152042389
+bastille9 SNARC_only CD 6 lctrl 0.50795006752
+bastille9 SNARC_only CD 9 num_delete 0.420515775681
+bastille9 SNARC_only CD 1 num_delete 0.433511018753
+bastille9 SNARC_only CD 2 lctrl 0.414140939713
+bastille9 SNARC_only CD 3 num_delete 0.474786996841
+bastille9 SNARC_only CD 1 num_delete 0.573569059372
+bastille9 SNARC_only CD 5 num_delete 0.476099967957
+bastille9 SNARC_only CD 3 num_delete 0.295361042023
+bastille9 SNARC_only CD 8 num_delete 0.393710851669
+bastille9 SNARC_only CD 6 lctrl 0.50466799736
+bastille9 SNARC_only CD 1 num_delete 0.457572937012
+bastille9 SNARC_only CD 9 num_delete 0.316861152649
+bastille9 SNARC_only CD 2 lctrl 0.414677143097
+bastille9 SNARC_only CD 6 lctrl 0.427819013596
+bastille9 SNARC_only CD 7 num_delete 0.3440990448
+bastille9 SNARC_only CD 4 lctrl 0.385163068771
+bastille9 SNARC_only CD 5 num_delete 0.599781036377
+bastille9 SNARC_only CD 9 num_delete 0.532630205154
+bastille9 SNARC_only CD 6 lctrl 0.540725946426
+bastille9 SNARC_only CD 2 lctrl 0.508759975433
+bastille9 SNARC_only CD 1 num_delete 0.397916078568
+bastille9 SNARC_only CD 3 num_delete 0.523639917374
+bastille9 SNARC_only CD 2 lctrl 0.356533050537
+bastille9 SNARC_only CD 4 lctrl 0.436479091644
+bastille9 SNARC_only CD 1 num_delete 0.392256975174
+bastille9 SNARC_only CD 6 lctrl 0.519195079803
+bastille9 SNARC_only CD 8 lctrl 0.615847110748
+bastille9 SNARC_only CD 1 num_delete 0.355686903
+bastille9 SNARC_only CD 7 num_delete 1.10747098923
+bastille9 SNARC_only CD 7 num_delete 0.611072778702
+bastille9 SNARC_only CD 5 num_delete 0.6646900177
+bastille9 SNARC_only CD 6 lctrl 0.386702060699
+bastille9 SNARC_only CD 6 lctrl 0.425236940384
+bastille9 SNARC_only CD 2 lctrl 0.342257976532
+bastille9 SNARC_only CD 9 num_delete 0.502372980118
+bastille9 SNARC_only CD 3 num_delete 0.527770996094
+bastille9 SNARC_only CD 9 num_delete 0.360395908356
+bastille9 SNARC_only CD 8 num_delete 0.344020843506
+bastille9 SNARC_only CD 2 lctrl 0.441263914108
+bastille9 SNARC_only CD 6 lctrl 0.405362129211
+bastille9 SNARC_only CD 7 num_delete 0.4028840065
+bastille9 SNARC_only CD 8 num_delete 0.35263800621
+bastille9 SNARC_only CD 3 num_delete 0.48034787178
+bastille9 SNARC_only CD 1 num_delete 0.634640216827
+bastille9 SNARC_only CD 8 lctrl 0.446581840515
+bastille9 SNARC_only CD 2 lctrl 0.378846883774
+bastille9 SNARC_only CD 9 num_delete 0.473781824112
+bastille9 SNARC_only CD 8 num_delete 0.492290973663
+bastille9 SNARC_only CD 1 num_delete 0.590498924255
+bastille9 SNARC_only CD 8 lctrl 0.46084690094
+bastille9 SNARC_only CD 6 lctrl 0.552817106247
+bastille9 SNARC_only CD 2 lctrl 0.415573835373
+bastille9 SNARC_only CD 4 lctrl 0.380658864975
+bastille9 SNARC_only CD 8 lctrl 0.699315071106
+bastille9 SNARC_only CD 5 num_delete 0.579346895218
+bastille9 SNARC_only CD 3 num_delete 0.481773138046
+bastille9 SNARC_only CD 4 lctrl 0.420464992523
+bastille9 SNARC_only CD 2 lctrl 0.481304168701
+bastille9 SNARC_only CD 8 lctrl 0.707635879517
+bastille9 SNARC_only CD 3 num_delete 1.37991595268
+bastille9 SNARC_only CD 3 num_delete 0.368106842041
+bastille9 SNARC_only CD 3 num_delete 0.350810050964
+bastille9 SNARC_only CD 9 num_delete 0.534747838974
+bastille9 SNARC_only CD 3 num_delete 0.551167964935
+bastille9 SNARC_only CD 7 num_delete 0.421940088272
+bastille9 SNARC_only CD 7 num_delete 0.330994129181
+bastille9 SNARC_only CD 6 lctrl 0.460011005402
+bastille9 SNARC_only CD 9 num_delete 0.423179149628
+bastille9 SNARC_only CD 6 lctrl 0.452904939651
+bastille9 SNARC_only CD 4 lctrl 0.559995889664
+bastille9 SNARC_only CD 4 lctrl 0.455452919006
+bastille9 SNARC_only CD 3 num_delete 0.48251914978
+bastille9 SNARC_only CD 9 num_delete 0.540637969971
+bastille9 SNARC_only CD 3 num_delete 0.420638084412
+bastille9 SNARC_only CD 4 num_delete 0.281725883484
+bastille9 SNARC_only CD 5 num_delete 0.34814286232
+bastille9 SNARC_only CD 8 lctrl 0.516720056534
+bastille9 SNARC_only CD 1 num_delete 0.684769868851
+bastille9 SNARC_only CD 2 lctrl 0.630882024765
+bastille9 SNARC_only CD 4 lctrl 0.474503040314
+bastille9 SNARC_only CD 9 num_delete 1.42086291313
+bastille9 SNARC_only CD 2 lctrl 0.639127969742
+bastille9 SNARC_only CD 8 lctrl 1.13874602318
+bastille9 SNARC_only CD 6 lctrl 0.817159891129
+bastille9 SNARC_only CD 2 lctrl 0.452756881714
+bastille9 SNARC_only CD 1 num_delete 0.399826049805
+bastille9 SNARC_only CD 1 num_delete 0.38131403923
+bastille9 SNARC_only CD 8 lctrl 0.46825504303
+bastille9 SNARC_only CD 8 lctrl 0.399213075638
+bastille9 SNARC_only CD 5 num_delete 0.388417959213
+bastille9 SNARC_only CD 6 lctrl 0.475212097168
+bastille9 SNARC_only CD 3 num_delete 1.05372691154
+bastille9 SNARC_only CD 8 lctrl 0.607595920563
+bastille9 SNARC_only CD 6 lctrl 0.645048856735
+bastille9 SNARC_only CD 9 num_delete 0.383963108063
+bastille9 SNARC_only CD 9 num_delete 0.326591014862
+bastille9 SNARC_only CD 3 num_delete 0.584192037582
+bastille9 SNARC_only CD 2 lctrl 0.390194892883
+bastille9 SNARC_only CD 8 lctrl 0.460330963135
+bastille9 SNARC_only CD 4 num_delete 0.359532833099
+bastille9 SNARC_only CD 7 num_delete 0.448058843613
+bastille9 SNARC_only CD 3 num_delete 0.48326086998
+bastille9 SNARC_only CD 5 num_delete 0.437106847763
+bastille9 SNARC_only CD 5 num_delete 0.35373210907
+bastille9 SNARC_only CD 3 num_delete 0.465129852295
+bastille9 SNARC_only CD 2 lctrl 0.372559070587
+bastille9 SNARC_only CD 4 lctrl 1.13970899582
+bastille9 SNARC_only CD 7 num_delete 0.785184860229
+bastille9 SNARC_only CD 1 num_delete 0.574533939362
+bastille9 SNARC_only CD 5 num_delete 0.33366394043
+bastille9 SNARC_only CD 3 num_delete 0.46949005127
+bastille9 SNARC_only CD 9 num_delete 2.63233804703
+bastille9 SNARC_only CD 4 lctrl 1.17495393753
+bastille9 SNARC_only CD 8 lctrl 0.539437055588
+bastille9 SNARC_only CD 8 lctrl 0.403465032578
+bastille9 SNARC_only CD 4 num_delete 0.408849000931
+bastille9 SNARC_only CD 3 num_delete 0.702857017517
+bastille9 SNARC_only CD 8 lctrl 0.743788957596
+bastille9 SNARC_only CD 8 lctrl 0.487010955811
+bastille9 SNARC_only CD 5 num_delete 0.488734006882
+bastille9 SNARC_only CD 5 num_delete 0.523278951645
+bastille9 SNARC_only CD 6 lctrl 0.700104951859
+bastille9 SNARC_only CD 9 num_delete 0.444437980652
+bastille9 SNARC_only CD 8 lctrl 0.593405008316
+bastille9 SNARC_only CD 5 num_delete 0.454560995102
+bastille9 SNARC_only CD 9 num_delete 0.682043075562
+bastille9 SNARC_only CD 3 num_delete 0.699409008026
+bastille9 SNARC_only CD 8 lctrl 0.636839151382
+bastille9 SNARC_only CD 5 num_delete 0.407712936401
+bastille9 SNARC_only CD 7 num_delete 0.469681024551
+bastille9 SNARC_only CD 1 lctrl 0.440823078156
+bastille9 SNARC_only CD 6 lctrl 0.509243011475
+bastille9 SNARC_only CD 8 lctrl 0.454550981522
+bastille9 SNARC_only CD 7 num_delete 0.425831079483
+bastille9 SNARC_only CD 5 num_delete 0.454702854156
+bastille9 SNARC_only CD 4 lctrl 0.434555053711
+bastille9 SNARC_only CD 1 num_delete 0.390514135361
+bastille9 SNARC_only CD 1 lctrl 0.301342010498
+bastille9 SNARC_only CD 5 lctrl 0.599664926529
+bastille9 SNARC_only CD 6 lctrl 0.67650103569
+bastille9 SNARC_only CD 7 num_delete 0.462600946426
+bastille9 SNARC_only CD 1 num_delete 0.617729187012
+bastille9 SNARC_only CD 7 num_delete 0.350250005722
+bastille9 SNARC_only CD 7 num_delete 0.285977840424
+bastille9 SNARC_only CD 1 num_delete 0.400784015656
+bastille9 SNARC_only CD 8 lctrl 1.19906592369
+bastille9 SNARC_only CD 2 lctrl 0.730954885483
+bastille9 SNARC_only CD 2 lctrl 0.339056015015
+bastille9 SNARC_only CD 7 num_delete 1.08290791512
+bastille9 SNARC_only CD 9 num_delete 1.1392660141
+bastille9 SNARC_only CD 6 lctrl 0.849769115448
+bastille9 SNARC_only CD 7 num_delete 0.579903125763
+bastille9 SNARC_only CD 8 lctrl 0.891003131866
+bastille9 SNARC_only CD 3 num_delete 0.435214042664
+bastille9 SNARC_only CD 7 num_delete 0.895467996597
+bastille9 SNARC_only CD 5 num_delete 0.448140859604
+bastille9 SNARC_only CD 1 num_delete 0.556202173233
+bastille9 SNARC_only CD 2 lctrl 0.787458896637
+bastille9 SNARC_only CD 5 num_delete 0.480344057083
+bastille9 SNARC_only CD 3 lctrl 0.507410049438
+bastille9 SNARC_only CD 3 num_delete 0.388444900513
+bastille9 SNARC_only CD 2 lctrl 0.491193056107
+bastille9 SNARC_only CD 6 lctrl 0.589529037476
+bastille9 SNARC_only CD 5 num_delete 0.450711011887
+bastille9 SNARC_only CD 4 lctrl 0.59130191803
+bastille9 SNARC_only CD 5 num_delete 0.468024969101
+bastille9 SNARC_only CD 6 lctrl 0.487602233887
+bastille9 SNARC_only CD 8 lctrl 0.473460197449
+bastille9 SNARC_only CD 7 num_delete 0.32393693924
+bastille9 SNARC_only CD 6 lctrl 0.565609931946
+bastille9 SNARC_only CD 1 num_delete 0.579968214035
+bastille9 SNARC_only CD 7 num_delete 0.40217590332
+bastille9 SNARC_only CD 8 lctrl 0.640326023102
+bastille9 SNARC_only CD 2 lctrl 0.572060108185
+bastille9 SNARC_only CD 4 lctrl 0.498682975769
+bastille9 SNARC_only CD 4 lctrl 0.39596414566
+bastille9 SNARC_only CD 9 num_delete 0.513962984085
+bastille9 SNARC_only CD 2 lctrl 0.435016870499
+bastille9 SNARC_only CD 7 num_delete 0.383313179016
+bastille9 SNARC_only CD 9 num_delete 0.365219116211
+bastille9 SNARC_only CD 3 num_delete 0.501018047333
+bastille9 SNARC_only CD 1 num_delete 0.653817892075
+{'participant': u'bastille9', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_15_1345', 'autopilot': False, 'exp_id': u'SNARC'}
+bastille9 SNARC_only DC 4 num_delete 0.478802204132
+bastille9 SNARC_only DC 7 lctrl 0.577615022659
+bastille9 SNARC_only DC 9 lctrl 0.520138025284
+bastille9 SNARC_only DC 2 num_delete 0.520702123642
+bastille9 SNARC_only DC 6 num_delete 0.48911190033
+bastille9 SNARC_only DC 2 num_delete 0.411318063736
+bastille9 SNARC_only DC 3 lctrl 0.545656919479
+bastille9 SNARC_only DC 3 lctrl 0.905433893204
+bastille9 SNARC_only DC 4 num_delete 0.43292593956
+bastille9 SNARC_only DC 4 num_delete 0.325261116028
+bastille9 SNARC_only DC 5 lctrl 0.423053979874
+bastille9 SNARC_only DC 8 num_delete 0.699665784836
+bastille9 SNARC_only DC 7 lctrl 0.428874015808
+bastille9 SNARC_only DC 9 lctrl 0.521795988083
+bastille9 SNARC_only DC 8 num_delete 0.530022144318
+bastille9 SNARC_only DC 8 num_delete 0.362726926804
+bastille9 SNARC_only DC 5 lctrl 0.554816007614
+bastille9 SNARC_only DC 6 num_delete 0.537793159485
+bastille9 SNARC_only DC 6 num_delete 0.433572053909
+bastille9 SNARC_only DC 4 num_delete 0.446031808853
+bastille9 SNARC_only DC 8 num_delete 0.426539182663
+bastille9 SNARC_only DC 2 num_delete 0.519281864166
+bastille9 SNARC_only DC 6 num_delete 0.408056020737
+bastille9 SNARC_only DC 4 num_delete 0.357737064362
+bastille9 SNARC_only DC 1 lctrl 0.469964981079
+bastille9 SNARC_only DC 1 lctrl 0.521265029907
+bastille9 SNARC_only DC 4 num_delete 0.441343069077
+bastille9 SNARC_only DC 7 lctrl 0.429814100266
+bastille9 SNARC_only DC 5 lctrl 0.450695991516
+bastille9 SNARC_only DC 6 num_delete 0.606200933456
+bastille9 SNARC_only DC 1 lctrl 0.523247003555
+bastille9 SNARC_only DC 7 lctrl 0.52404499054
+bastille9 SNARC_only DC 3 lctrl 0.460860967636
+bastille9 SNARC_only DC 4 num_delete 1.09580612183
+bastille9 SNARC_only DC 3 lctrl 0.528970956802
+bastille9 SNARC_only DC 4 num_delete 0.488706827164
+bastille9 SNARC_only DC 6 num_delete 1.04281497002
+bastille9 SNARC_only DC 1 lctrl 0.573632001877
+bastille9 SNARC_only DC 8 num_delete 0.419840097427
+bastille9 SNARC_only DC 7 lctrl 0.561247110367
+bastille9 SNARC_only DC 9 lctrl 0.527771949768
+bastille9 SNARC_only DC 5 lctrl 0.560348033905
+bastille9 SNARC_only DC 3 lctrl 0.575459957123
+bastille9 SNARC_only DC 9 lctrl 0.494270086288
+bastille9 SNARC_only DC 6 num_delete 0.855961799622
+bastille9 SNARC_only DC 7 lctrl 0.458678007126
+bastille9 SNARC_only DC 2 num_delete 0.565588951111
+bastille9 SNARC_only DC 8 num_delete 0.596325159073
+bastille9 SNARC_only DC 8 num_delete 0.490097999573
+bastille9 SNARC_only DC 8 num_delete 0.692358016968
+bastille9 SNARC_only DC 2 num_delete 0.549795150757
+bastille9 SNARC_only DC 3 lctrl 0.525339841843
+bastille9 SNARC_only DC 5 num_delete 0.405606031418
+bastille9 SNARC_only DC 6 num_delete 0.36248588562
+bastille9 SNARC_only DC 9 lctrl 0.434862852097
+bastille9 SNARC_only DC 6 num_delete 0.406630039215
+bastille9 SNARC_only DC 3 lctrl 0.508708953857
+bastille9 SNARC_only DC 5 lctrl 0.581998109818
+bastille9 SNARC_only DC 3 lctrl 0.476223945618
+bastille9 SNARC_only DC 7 lctrl 0.566790819168
+bastille9 SNARC_only DC 1 lctrl 0.660975933075
+bastille9 SNARC_only DC 8 num_delete 0.791785955429
+bastille9 SNARC_only DC 9 lctrl 0.877330780029
+bastille9 SNARC_only DC 3 lctrl 0.903070926666
+bastille9 SNARC_only DC 7 lctrl 0.351270914078
+bastille9 SNARC_only DC 8 num_delete 0.406710863113
+bastille9 SNARC_only DC 7 lctrl 0.380692958832
+bastille9 SNARC_only DC 5 lctrl 0.459189176559
+bastille9 SNARC_only DC 5 lctrl 0.430636882782
+bastille9 SNARC_only DC 8 num_delete 0.402592182159
+bastille9 SNARC_only DC 9 lctrl 0.320730924606
+bastille9 SNARC_only DC 5 lctrl 0.442103147507
+bastille9 SNARC_only DC 7 lctrl 0.334289073944
+bastille9 SNARC_only DC 4 num_delete 0.502561092377
+bastille9 SNARC_only DC 6 lctrl 0.335052013397
+bastille9 SNARC_only DC 4 num_delete 0.392219781876
+bastille9 SNARC_only DC 6 num_delete 0.390923976898
+bastille9 SNARC_only DC 4 num_delete 0.333349943161
+bastille9 SNARC_only DC 9 lctrl 0.414445161819
+bastille9 SNARC_only DC 2 num_delete 0.322953939438
+bastille9 SNARC_only DC 8 num_delete 0.508539915085
+bastille9 SNARC_only DC 6 num_delete 0.357484817505
+bastille9 SNARC_only DC 1 lctrl 0.445889949799
+bastille9 SNARC_only DC 6 num_delete 0.305819034576
+bastille9 SNARC_only DC 3 lctrl 0.483997821808
+bastille9 SNARC_only DC 8 lctrl 0.390338897705
+bastille9 SNARC_only DC 2 num_delete 0.39631986618
+bastille9 SNARC_only DC 4 num_delete 0.355062007904
+bastille9 SNARC_only DC 2 num_delete 0.354516983032
+bastille9 SNARC_only DC 2 num_delete 0.322374820709
+bastille9 SNARC_only DC 6 num_delete 0.611840963364
+bastille9 SNARC_only DC 2 num_delete 0.360722064972
+bastille9 SNARC_only DC 8 num_delete 0.432601213455
+bastille9 SNARC_only DC 4 num_delete 0.340759992599
+bastille9 SNARC_only DC 9 lctrl 0.53443813324
+bastille9 SNARC_only DC 3 lctrl 0.574356079102
+bastille9 SNARC_only DC 1 lctrl 0.676393032074
+bastille9 SNARC_only DC 8 num_delete 0.550030946732
+bastille9 SNARC_only DC 4 num_delete 0.525406837463
+bastille9 SNARC_only DC 1 lctrl 0.982456922531
+bastille9 SNARC_only DC 6 num_delete 0.986610889435
+bastille9 SNARC_only DC 6 num_delete 0.33583688736
+bastille9 SNARC_only DC 5 lctrl 0.832187175751
+bastille9 SNARC_only DC 7 lctrl 0.779290914536
+bastille9 SNARC_only DC 5 lctrl 0.369102954865
+bastille9 SNARC_only DC 3 lctrl 0.320148944855
+bastille9 SNARC_only DC 9 lctrl 0.425736904144
+bastille9 SNARC_only DC 4 num_delete 0.990302085876
+bastille9 SNARC_only DC 5 lctrl 0.72351193428
+bastille9 SNARC_only DC 1 lctrl 0.467045068741
+bastille9 SNARC_only DC 4 num_delete 1.02168297768
+bastille9 SNARC_only DC 9 lctrl 0.769288063049
+bastille9 SNARC_only DC 2 num_delete 0.414602994919
+bastille9 SNARC_only DC 9 lctrl 0.716065883636
+bastille9 SNARC_only DC 5 lctrl 0.916056871414
+bastille9 SNARC_only DC 9 lctrl 0.6593708992
+bastille9 SNARC_only DC 2 num_delete 0.430052042007
+bastille9 SNARC_only DC 7 lctrl 0.388012170792
+bastille9 SNARC_only DC 4 num_delete 0.337508916855
+bastille9 SNARC_only DC 9 lctrl 0.434290885925
+bastille9 SNARC_only DC 2 lctrl 0.318728923798
+bastille9 SNARC_only DC 1 lctrl 0.448348999023
+bastille9 SNARC_only DC 1 lctrl 0.379338979721
+bastille9 SNARC_only DC 6 num_delete 0.378306865692
+bastille9 SNARC_only DC 3 lctrl 0.409863948822
+bastille9 SNARC_only DC 3 lctrl 0.423468112946
+bastille9 SNARC_only DC 7 lctrl 0.332436084747
+bastille9 SNARC_only DC 3 lctrl 0.436992883682
+bastille9 SNARC_only DC 9 lctrl 0.537518978119
+bastille9 SNARC_only DC 9 lctrl 0.409386873245
+bastille9 SNARC_only DC 2 num_delete 0.374523878098
+bastille9 SNARC_only DC 8 num_delete 0.590069055557
+bastille9 SNARC_only DC 2 num_delete 0.33154797554
+bastille9 SNARC_only DC 9 lctrl 1.31664395332
+bastille9 SNARC_only DC 4 num_delete 0.898321866989
+bastille9 SNARC_only DC 3 lctrl 1.11481618881
+bastille9 SNARC_only DC 2 num_delete 0.441998004913
+bastille9 SNARC_only DC 4 num_delete 0.430500984192
+bastille9 SNARC_only DC 9 lctrl 0.923035144806
+bastille9 SNARC_only DC 7 lctrl 0.338562965393
+bastille9 SNARC_only DC 1 lctrl 0.515076875687
+bastille9 SNARC_only DC 4 num_delete 1.36384391785
+bastille9 SNARC_only DC 8 num_delete 0.343909025192
+bastille9 SNARC_only DC 9 lctrl 1.04905700684
+bastille9 SNARC_only DC 8 num_delete 1.00238609314
+bastille9 SNARC_only DC 3 lctrl 1.30262708664
+bastille9 SNARC_only DC 6 num_delete 0.501107215881
+bastille9 SNARC_only DC 1 lctrl 0.542692899704
+bastille9 SNARC_only DC 3 num_delete 0.494515895844
+bastille9 SNARC_only DC 3 lctrl 0.464897871017
+bastille9 SNARC_only DC 1 lctrl 0.387850999832
+bastille9 SNARC_only DC 3 lctrl 0.330282926559
+bastille9 SNARC_only DC 3 lctrl 0.323253154755
+bastille9 SNARC_only DC 9 lctrl 0.547969102859
+bastille9 SNARC_only DC 6 num_delete 0.402741909027
+bastille9 SNARC_only DC 5 lctrl 0.39302611351
+bastille9 SNARC_only DC 6 num_delete 0.295158863068
+bastille9 SNARC_only DC 1 lctrl 0.322648048401
+bastille9 SNARC_only DC 3 lctrl 0.451276063919
+bastille9 SNARC_only DC 4 num_delete 0.366854906082
+bastille9 SNARC_only DC 1 lctrl 0.414459943771
+bastille9 SNARC_only DC 1 lctrl 0.411661863327
+bastille9 SNARC_only DC 1 lctrl 1.41696405411
+bastille9 SNARC_only DC 4 num_delete 0.482326984406
+bastille9 SNARC_only DC 3 lctrl 0.420953035355
+bastille9 SNARC_only DC 4 num_delete 0.489134073257
+bastille9 SNARC_only DC 2 num_delete 0.347676038742
+bastille9 SNARC_only DC 4 num_delete 0.323400020599
+bastille9 SNARC_only DC 3 lctrl 0.469127893448
+bastille9 SNARC_only DC 7 lctrl 0.351910114288
+bastille9 SNARC_only DC 6 num_delete 0.471797943115
+bastille9 SNARC_only DC 6 num_delete 0.362221002579
+bastille9 SNARC_only DC 7 lctrl 0.370528936386
+bastille9 SNARC_only DC 9 num_delete 0.449136018753
+bastille9 SNARC_only DC 9 lctrl 0.453135967255
+bastille9 SNARC_only DC 3 lctrl 0.400611162186
+bastille9 SNARC_only DC 1 lctrl 0.286899089813
+bastille9 SNARC_only DC 2 num_delete 0.624639987946
+bastille9 SNARC_only DC 1 lctrl 0.413128852844
+bastille9 SNARC_only DC 7 lctrl 0.282985925674
+bastille9 SNARC_only DC 5 lctrl 0.549144983292
+bastille9 SNARC_only DC 7 lctrl 0.452616930008
+bastille9 SNARC_only DC 7 lctrl 0.312525987625
+bastille9 SNARC_only DC 9 lctrl 0.5384349823
+bastille9 SNARC_only DC 8 num_delete 0.465539932251
+bastille9 SNARC_only DC 5 lctrl 0.348884105682
+bastille9 SNARC_only DC 1 lctrl 0.428817033768
+bastille9 SNARC_only DC 5 lctrl 0.369589090347
+bastille9 SNARC_only DC 1 lctrl 0.449592113495
+bastille9 SNARC_only DC 8 lctrl 0.372704982758
+bastille9 SNARC_only DC 7 lctrl 0.395606994629
+bastille9 SNARC_only DC 4 num_delete 0.369470119476
+bastille9 SNARC_only DC 3 lctrl 1.08107709885
+bastille9 SNARC_only DC 8 num_delete 0.353432893753
+bastille9 SNARC_only DC 9 lctrl 0.562014102936
+bastille9 SNARC_only DC 8 num_delete 0.368906021118
+bastille9 SNARC_only DC 7 lctrl 0.416196107864
+bastille9 SNARC_only DC 7 lctrl 0.341323852539
+bastille9 SNARC_only DC 1 lctrl 0.390273094177
+bastille9 SNARC_only DC 7 lctrl 0.284274101257
+bastille9 SNARC_only DC 6 num_delete 0.310886859894
+bastille9 SNARC_only DC 7 lctrl 0.489193916321
+bastille9 SNARC_only DC 6 num_delete 0.482876062393
+bastille9 SNARC_only DC 2 lctrl 0.421371936798
+bastille9 SNARC_only DC 9 lctrl 0.514236927032
+bastille9 SNARC_only DC 5 lctrl 0.515337944031
+bastille9 SNARC_only DC 7 lctrl 0.476034879684
+bastille9 SNARC_only DC 2 num_delete 0.30243396759
+bastille9 SNARC_only DC 6 num_delete 0.440155982971
+bastille9 SNARC_only DC 4 num_delete 0.356307983398
+bastille9 SNARC_only DC 8 num_delete 0.364232778549
+bastille9 SNARC_only DC 4 num_delete 0.395963191986
+bastille9 SNARC_only DC 5 num_delete 0.337809085846
+bastille9 SNARC_only DC 8 num_delete 0.394207000732
+bastille9 SNARC_only DC 7 lctrl 0.489120960236
+bastille9 SNARC_only DC 2 num_delete 0.435109138489
+bastille9 SNARC_only DC 1 lctrl 0.479520082474
+bastille9 SNARC_only DC 5 lctrl 0.554751157761
+bastille9 SNARC_only DC 5 lctrl 0.92972612381
+bastille9 SNARC_only DC 6 num_delete 0.960475921631
+bastille9 SNARC_only DC 8 num_delete 0.382728815079
+bastille9 SNARC_only DC 1 lctrl 0.725437164307
+bastille9 SNARC_only DC 3 lctrl 0.469436883926
+bastille9 SNARC_only DC 8 num_delete 0.432036161423
+bastille9 SNARC_only DC 6 num_delete 0.348259925842
+bastille9 SNARC_only DC 2 num_delete 0.340121030807
+bastille9 SNARC_only DC 5 lctrl 0.437608003616
+bastille9 SNARC_only DC 5 lctrl 0.377668857574
+bastille9 SNARC_only DC 6 num_delete 0.592133998871
+bastille9 SNARC_only DC 7 lctrl 0.414352893829
+bastille9 SNARC_only DC 6 num_delete 0.338731050491
+bastille9 SNARC_only DC 4 num_delete 0.499310016632
+bastille9 SNARC_only DC 1 lctrl 0.581364154816
+bastille9 SNARC_only DC 6 num_delete 0.410576105118
+bastille9 SNARC_only DC 1 lctrl 0.584794998169
+bastille9 SNARC_only DC 2 num_delete 0.510501146317
+bastille9 SNARC_only DC 3 lctrl 0.488040208817
+bastille9 SNARC_only DC 7 lctrl 0.505932092667
+bastille9 SNARC_only DC 4 num_delete 0.587277889252
+bastille9 SNARC_only DC 6 num_delete 0.480999946594
+bastille9 SNARC_only DC 9 lctrl 0.595350980759
+bastille9 SNARC_only DC 2 num_delete 1.01686286926
+bastille9 SNARC_only DC 2 num_delete 0.403913974762
+bastille9 SNARC_only DC 2 num_delete 0.35369515419
+bastille9 SNARC_only DC 2 num_delete 0.337793827057
+bastille9 SNARC_only DC 6 num_delete 0.802050828934
+bastille9 SNARC_only DC 2 num_delete 0.342644929886
+bastille9 SNARC_only DC 3 lctrl 1.47954797745
+bastille9 SNARC_only DC 5 lctrl 0.423258066177
+bastille9 SNARC_only DC 2 num_delete 1.85232400894
+bastille9 SNARC_only DC 8 num_delete 0.362981081009
+bastille9 SNARC_only DC 8 num_delete 0.30690908432
+bastille9 SNARC_only DC 3 lctrl 1.82136702538
+bastille9 SNARC_only DC 6 num_delete 1.96544098854
+bastille9 SNARC_only DC 3 lctrl 0.968811035156
+bastille9 SNARC_only DC 9 lctrl 0.326254844666
+bastille9 SNARC_only DC 2 num_delete 0.438987970352
+bastille9 SNARC_only DC 1 lctrl 0.483605146408
+bastille9 SNARC_only DC 8 lctrl 0.317645072937
+bastille9 SNARC_only DC 5 lctrl 0.455138921738
+bastille9 SNARC_only DC 8 num_delete 0.490097999573
+bastille9 SNARC_only DC 4 num_delete 0.348355054855
+bastille9 SNARC_only DC 7 lctrl 0.356645107269
+bastille9 SNARC_only DC 5 lctrl 0.532366991043
+bastille9 SNARC_only DC 7 lctrl 0.636409044266
+bastille9 SNARC_only DC 8 num_delete 0.583832025528
+bastille9 SNARC_only DC 2 num_delete 0.525540828705
+bastille9 SNARC_only DC 6 num_delete 0.462107896805
+bastille9 SNARC_only DC 9 lshift 0.618205070496
+bastille9 SNARC_only DC 1 lctrl 1.83852696419
+bastille9 SNARC_only DC 1 lctrl 0.342199087143
+bastille9 SNARC_only DC 8 num_delete 0.566551923752
+bastille9 SNARC_only DC 6 num_delete 0.533055067062
+bastille9 SNARC_only DC 1 lctrl 0.509351968765
+bastille9 SNARC_only DC 2 num_delete 0.414668798447
+bastille9 SNARC_only DC 8 num_delete 0.659511804581
+bastille9 SNARC_only DC 5 lctrl 0.502832889557
+bastille9 SNARC_only DC 4 num_delete 0.784067869186
+bastille9 SNARC_only DC 6 num_delete 0.532907962799
+bastille9 SNARC_only DC 3 lctrl 1.09327507019
+bastille9 SNARC_only DC 4 num_delete 0.469283103943
+bastille9 SNARC_only DC 8 num_delete 0.447921037674
+bastille9 SNARC_only DC 9 lctrl 0.60385799408
+bastille9 SNARC_only DC 3 lctrl 0.457547903061
+bastille9 SNARC_only DC 5 lctrl 0.556997060776
+bastille9 SNARC_only DC 2 num_delete 0.403376102448
+bastille9 SNARC_only DC 8 num_delete 0.393092870712
+bastille9 SNARC_only DC 7 lctrl 0.456392049789
+bastille9 SNARC_only DC 9 lctrl 0.451859951019
+bastille9 SNARC_only DC 4 num_delete 1.15039801598
+bastille9 SNARC_only DC 7 lctrl 0.484514951706
+bastille9 SNARC_only DC 4 num_delete 0.774237155914
+bastille9 SNARC_only DC 4 num_delete 1.21191906929
+bastille9 SNARC_only DC 7 lctrl 0.328132152557
+bastille9 SNARC_only DC 1 lctrl 0.513165950775
+bastille9 SNARC_only DC 5 lctrl 0.41833281517
+bastille9 SNARC_only DC 7 lctrl 0.334775209427
+bastille9 SNARC_only DC 3 lctrl 0.455889940262
+bastille9 SNARC_only DC 5 lctrl 0.3394780159
+bastille9 SNARC_only DC 1 lctrl 0.403876066208
+bastille9 SNARC_only DC 9 lctrl 0.458288908005
+bastille9 SNARC_only DC 9 lctrl 0.533535957336
+bastille9 SNARC_only DC 7 lctrl 0.341437101364
+bastille9 SNARC_only DC 5 lctrl 0.74213385582
+bastille9 SNARC_only DC 6 num_delete 0.485068798065
+bastille9 SNARC_only DC 5 lctrl 1.36727786064
+bastille9 SNARC_only DC 5 lctrl 0.53132390976
+bastille9 SNARC_only DC 2 num_delete 0.498840093613
+bastille9 SNARC_only DC 8 num_delete 0.516131162643
+bastille9 SNARC_only DC 2 num_delete 0.420801877975
+bastille9 SNARC_only DC 1 lctrl 0.442390918732
+bastille9 SNARC_only DC 5 lctrl 0.646533966064
+bastille9 SNARC_only DC 5 lctrl 0.410332918167
+bastille9 SNARC_only DC 9 num_delete 0.455613851547
+bastille9 SNARC_only DC 1 lctrl 0.387601852417
+bastille9 SNARC_only DC 9 lctrl 0.394223928452
+bastille9 SNARC_only DC 9 lctrl 0.456387042999
+bastille9 SNARC_only DC 2 num_delete 0.371583938599
+bastille9 SNARC_only DC 2 num_delete 0.410677909851
+bastille9 SNARC_only DC 3 lctrl 0.417090177536
+bastille9 SNARC_only DC 1 lctrl 0.486051797867
+bastille9 SNARC_only DC 7 lctrl 0.336135864258
+bastille9 SNARC_only DC 5 lctrl 0.504454851151
+bastille9 SNARC_only DC 6 num_delete 0.401463031769
+bastille9 SNARC_only DC 6 num_delete 0.471057891846
+bastille9 SNARC_only DC 4 num_delete 0.45802116394
+bastille9 SNARC_only DC 9 lctrl 0.4379529953
+bastille9 SNARC_only DC 5 lctrl 0.602264881134
+bastille9 SNARC_only DC 7 lctrl 0.495642900467
+bastille9 SNARC_only DC 3 lctrl 0.481508970261
+bastille9 SNARC_only DC 8 lctrl 0.315333843231
+bastille9 SNARC_only DC 4 num_delete 0.484997987747
+bastille9 SNARC_only DC 2 num_delete 0.446494102478
+bastille9 SNARC_only DC 9 lctrl 0.515258073807
+bastille9 SNARC_only DC 4 num_delete 0.34755897522
+bastille9 SNARC_only DC 7 lctrl 0.387800931931
+bastille9 SNARC_only DC 7 lctrl 0.354186058044
+bastille9 SNARC_only DC 1 lctrl 0.49040389061
+bastille9 SNARC_only DC 8 num_delete 0.484055995941
+bastille9 SNARC_only DC 8 num_delete 0.334218025208
+bastille9 SNARC_only DC 5 lctrl 0.358707904816
+bastille9 SNARC_only DC 3 num_delete 0.294080972672
+bastille9 SNARC_only DC 3 lctrl 0.409598112106
+bastille9 SNARC_only DC 2 num_delete 0.318547964096
+bastille9 SNARC_only DC 6 num_delete 0.487999916077
+bastille9 SNARC_only DC 8 num_delete 0.466195106506
+bastille9 SNARC_only DC 9 lctrl 0.357470989227
+bastille9 SNARC_only DC 5 lctrl 0.413368940353
+bastille9 SNARC_only DC 1 lctrl 0.434661149979
+bastille9 SNARC_only DC 5 num_enter 0.398707866669
+bastille9 SNARC_only DC 1 lctrl 0.797194004059
+bastille9 SNARC_only DC 4 num_delete 0.417724132538
+bastille9 SNARC_only DC 7 lctrl 0.911222934723
+bastille9 SNARC_only DC 9 lctrl 0.327081918716
+bastille9 SNARC_only DC 3 lctrl 0.368509054184
+bastille9 SNARC_only DC 2 num_delete 0.759654998779
+bastille9 SNARC_only DC 4 num_delete 0.39793419838
+bastille9 SNARC_only DC 9 lctrl 0.340013980865
+bastille9 SNARC_only DC 1 lctrl 0.444516897202
+bastille9 SNARC_only DC 3 lctrl 0.593153953552

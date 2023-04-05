@@ -1,0 +1,2166 @@
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'DC', 'dateStr': '12_09_1208', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'mapa', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+mapa SNARC color dot DC 0 up 20 comma 2.04221181403
+mapa SNARC color dot DC 0 up 20 period 10.1631957417
+mapa SNARC color dot DC 0 up 30 num_decimal 49.1824561327
+mapa SNARC color dot DC 0 up 15 num_decimal 0.489839499844
+mapa SNARC color dot DC 0 down 25 lctrl 0.703425662401
+mapa SNARC color dot DC 0 up 20 num_decimal 1.21349803703
+mapa SNARC color dot DC 0 up 25 num_decimal 0.479061810744
+mapa SNARC color dot DC 0 down 5 lctrl 0.766759674259
+mapa SNARC color dot DC 0 down 15 num_decimal 0.786235414294
+mapa SNARC color dot DC 0 up 10 num_decimal 0.724721628858
+mapa SNARC color dot DC 0 down 10 lctrl 0.402297345436
+mapa SNARC color dot DC 0 up 40 num_decimal 0.532316311041
+mapa SNARC color dot DC 0 up 5 num_decimal 1.94492341148
+mapa SNARC color dot DC 0 down 5 lctrl 0.55826741503
+mapa SNARC color dot DC 0 down 35 lctrl 0.65770899712
+mapa SNARC color dot DC 0 up 10 num_decimal 0.64215918696
+mapa SNARC color dot DC 0 down 25 lctrl 0.698197398684
+mapa SNARC color dot DC 0 down 5 lctrl 0.624907685413
+mapa SNARC color dot DC 0 down 45 lctrl 0.537448381407
+mapa SNARC color dot DC 0 up 10 num_decimal 1.2860725062
+mapa SNARC color dot DC 0 up 35 num_decimal 0.651905124809
+mapa SNARC color dot DC 0 down 25 lctrl 0.443425587928
+mapa SNARC color dot DC 0 up 30 num_decimal 0.331984350894
+mapa SNARC color dot DC 0 down 40 lctrl 0.392250725794
+mapa SNARC color dot DC 0 up 30 num_decimal 0.506237052685
+mapa SNARC color dot DC 0 up 25 num_decimal 0.45642813612
+mapa SNARC color dot DC 0 down 40 lctrl 0.4076761052
+mapa SNARC color dot DC 0 down 20 num_decimal 0.410353693638
+mapa SNARC color dot DC 0 down 5 lctrl 0.877108651319
+mapa SNARC color dot DC 0 down 30 lctrl 0.740266474197
+mapa SNARC color dot DC 0 down 35 lctrl 0.384709167165
+mapa SNARC color dot DC 0 down 15 lctrl 0.59598358631
+mapa SNARC color dot DC 0 up 10 num_decimal 1.00710992976
+mapa SNARC color dot DC 0 up 10 num_decimal 0.497396263228
+mapa SNARC color dot DC 0 down 45 lctrl 0.606140673155
+mapa SNARC color dot DC 0 down 45 lctrl 0.415527964959
+mapa SNARC color dot DC 0 up 35 num_decimal 0.440415356679
+mapa SNARC color dot DC 0 up 35 num_decimal 0.497178431837
+mapa SNARC color dot DC 0 down 30 lctrl 0.863750808336
+mapa SNARC color dot DC 0 down 5 lctrl 0.408108664973
+mapa SNARC color dot DC 0 up 15 lctrl 1.16186548074
+mapa SNARC color dot DC 0 up 15 num_decimal 0.726020859684
+mapa SNARC color dot DC 0 down 45 lctrl 0.938176223734
+mapa SNARC color dot DC 0 up 5 num_decimal 1.34327931198
+mapa SNARC color dot DC 0 up 40 num_decimal 0.539839872205
+mapa SNARC color dot DC 0 down 30 lctrl 1.24041541874
+mapa SNARC color dot DC 0 up 20 num_decimal 0.535751654837
+mapa SNARC color dot DC 0 down 15 lctrl 0.645093704736
+mapa SNARC color dot DC 0 up 40 num_decimal 0.413318931225
+mapa SNARC color dot DC 0 down 30 lctrl 0.558610918379
+mapa SNARC color dot DC 0 up 45 num_decimal 0.338060357293
+mapa SNARC color dot DC 0 down 25 lctrl 0.374613209642
+mapa SNARC color dot DC 0 up 5 num_decimal 0.857971760113
+mapa SNARC color dot DC 0 down 10 lctrl 0.506227123049
+mapa SNARC color dot DC 0 up 35 num_decimal 0.607838951231
+mapa SNARC color dot DC 0 up 10 num_decimal 0.914552067909
+mapa SNARC color dot DC 0 down 25 lctrl 0.470331178189
+mapa SNARC color dot DC 0 down 35 lctrl 0.453916869086
+mapa SNARC color dot DC 0 down 25 lctrl 0.365543728254
+mapa SNARC color dot DC 0 down 15 lctrl 0.385079666712
+mapa SNARC color dot DC 0 up 5 num_decimal 0.371474203426
+mapa SNARC color dot DC 0 down 25 lctrl 0.390340822347
+mapa SNARC color dot DC 0 down 10 lctrl 0.361017055391
+mapa SNARC color dot DC 0 up 30 num_decimal 0.460790039086
+mapa SNARC color dot DC 0 up 25 num_decimal 0.428419425347
+mapa SNARC color dot DC 0 up 30 num_decimal 0.325714095987
+mapa SNARC color dot DC 0 down 35 lctrl 0.458450989179
+mapa SNARC color dot DC 0 up 35 num_decimal 0.385519984015
+mapa SNARC color dot DC 0 down 10 lctrl 0.452329678814
+mapa SNARC color dot DC 0 up 25 num_decimal 0.467886936198
+mapa SNARC color dot DC 0 down 15 lctrl 0.339866620163
+mapa SNARC color dot DC 0 down 35 lctrl 0.43975007106
+mapa SNARC color dot DC 0 down 15 lctrl 0.41720297045
+mapa SNARC color dot DC 0 down 40 num_decimal 0.386090627788
+mapa SNARC color dot DC 0 down 35 lctrl 0.595934558733
+mapa SNARC color dot DC 0 down 5 lctrl 0.422524945108
+mapa SNARC color dot DC 0 up 10 num_decimal 0.488364948882
+mapa SNARC color dot DC 0 up 10 num_decimal 0.655138462569
+mapa SNARC color dot DC 0 down 45 lctrl 0.582294341722
+mapa SNARC color dot DC 0 up 45 num_decimal 1.32003496473
+mapa SNARC color dot DC 0 up 35 num_decimal 0.453449245286
+mapa SNARC color dot DC 0 up 40 num_decimal 0.365110237579
+mapa SNARC color dot DC 0 down 15 lctrl 0.481107936386
+mapa SNARC color dot DC 0 down 25 lctrl 0.478971202814
+mapa SNARC color dot DC 0 down 45 lctrl 0.421481712712
+mapa SNARC color dot DC 0 down 35 lctrl 0.342854820032
+mapa SNARC color dot DC 0 down 45 lctrl 0.378173604791
+mapa SNARC color dot DC 0 down 20 lctrl 0.476950832166
+mapa SNARC color dot DC 0 up 45 num_decimal 0.483466224963
+mapa SNARC color dot DC 0 down 25 lctrl 0.546071960072
+mapa SNARC color dot DC 0 down 15 lctrl 0.590991461755
+mapa SNARC color dot DC 0 up 15 num_decimal 0.530451090957
+mapa SNARC color dot DC 0 down 35 lctrl 0.511122743956
+mapa SNARC color dot DC 0 up 45 num_decimal 0.436014976374
+mapa SNARC color dot DC 0 down 10 lctrl 0.509870678901
+mapa SNARC color dot DC 0 down 25 lctrl 0.435597000753
+mapa SNARC color dot DC 0 up 45 num_decimal 0.987417599536
+mapa SNARC color dot DC 0 down 30 lctrl 0.549713964419
+mapa SNARC color dot DC 0 up 35 num_decimal 0.473809343541
+mapa SNARC color dot DC 0 down 45 lctrl 0.488220348556
+mapa SNARC color dot DC 0 down 40 lctrl 0.646445997054
+mapa SNARC color dot DC 0 up 20 num_decimal 0.446856897808
+mapa SNARC color dot DC 0 up 10 num_decimal 0.48026484822
+mapa SNARC color dot DC 0 down 5 lctrl 0.456109767163
+mapa SNARC color dot DC 0 up 40 num_decimal 0.528045636607
+mapa SNARC color dot DC 0 up 15 num_decimal 0.558039964304
+mapa SNARC color dot DC 0 down 40 lctrl 0.473653572373
+mapa SNARC color dot DC 0 up 5 num_decimal 1.07391993486
+mapa SNARC color dot DC 0 up 20 num_decimal 0.392630534376
+mapa SNARC color dot DC 0 up 30 num_decimal 0.523310441386
+mapa SNARC color dot DC 0 up 15 num_decimal 0.809149601138
+mapa SNARC color dot DC 0 down 30 lctrl 0.451133778264
+mapa SNARC color dot DC 0 down 40 lctrl 1.09111930582
+mapa SNARC color dot DC 0 up 40 num_decimal 0.449822755996
+mapa SNARC color dot DC 0 down 35 lctrl 0.67359238099
+mapa SNARC color dot DC 0 up 25 num_decimal 0.600001985928
+mapa SNARC color dot DC 0 up 45 num_decimal 0.44068500836
+mapa SNARC color dot DC 0 down 40 lctrl 0.592721080246
+mapa SNARC color dot DC 0 up 25 num_decimal 0.467462754556
+mapa SNARC color dot DC 0 down 20 lctrl 0.458105003421
+mapa SNARC color dot DC 0 up 15 num_decimal 2.08282743906
+mapa SNARC color dot DC 0 up 30 num_decimal 0.425262731966
+mapa SNARC color dot DC 0 up 20 num_decimal 0.385852937125
+mapa SNARC color dot DC 0 up 45 num_decimal 0.355422946644
+mapa SNARC color dot DC 0 up 45 num_decimal 0.502238202042
+mapa SNARC color dot DC 0 down 10 num_decimal 0.532878576685
+mapa SNARC color dot DC 0 down 30 lctrl 1.44152685532
+mapa SNARC color dot DC 0 up 5 num_decimal 1.11450111646
+mapa SNARC color dot DC 0 up 40 num_decimal 0.431077775116
+mapa SNARC color dot DC 0 up 25 num_decimal 1.27979759678
+mapa SNARC color dot DC 0 down 25 lctrl 0.5030515013
+mapa SNARC color dot DC 0 down 5 lctrl 0.493109763438
+mapa SNARC color dot DC 0 down 15 lctrl 0.476005034325
+mapa SNARC color dot DC 0 up 40 num_decimal 0.515293811728
+mapa SNARC color dot DC 0 up 30 num_decimal 0.560412216431
+mapa SNARC color dot DC 0 down 25 lctrl 0.428188561307
+mapa SNARC color dot DC 0 up 45 num_decimal 0.467928516549
+mapa SNARC color dot DC 0 up 30 num_decimal 0.466987062924
+mapa SNARC color dot DC 0 up 30 num_decimal 0.346216001855
+mapa SNARC color dot DC 0 down 40 lctrl 0.494189611367
+mapa SNARC color dot DC 0 up 5 num_decimal 1.19708931335
+mapa SNARC color dot DC 0 up 35 num_decimal 0.439154913494
+mapa SNARC color dot DC 0 up 15 num_decimal 0.432080978664
+mapa SNARC color dot DC 0 down 40 lctrl 0.448228118494
+mapa SNARC color dot DC 0 down 10 num_decimal 0.480802289774
+mapa SNARC color dot DC 0 up 20 num_decimal 0.999410427856
+mapa SNARC color dot DC 0 down 30 lctrl 0.440692145286
+mapa SNARC color dot DC 0 down 5 lctrl 0.417544922295
+mapa SNARC color dot DC 0 down 25 lctrl 0.442777989472
+mapa SNARC color dot DC 0 up 45 num_decimal 0.48264858149
+mapa SNARC color dot DC 0 down 10 lctrl 1.32987120021
+mapa SNARC color dot DC 0 down 45 lctrl 0.526502198794
+mapa SNARC color dot DC 0 up 10 num_decimal 0.436389199534
+mapa SNARC color dot DC 0 up 20 num_decimal 0.621111151106
+mapa SNARC color dot DC 0 down 40 lctrl 0.902070205009
+mapa SNARC color dot DC 0 up 20 num_decimal 0.924937226082
+mapa SNARC color dot DC 0 down 25 lctrl 0.530080281109
+mapa SNARC color dot DC 0 down 35 lctrl 0.519023941595
+mapa SNARC color dot DC 0 up 15 num_decimal 0.54082259588
+mapa SNARC color dot DC 0 up 40 num_decimal 0.545276347979
+mapa SNARC color dot DC 0 up 35 num_decimal 0.589574006199
+mapa SNARC color dot DC 0 up 35 num_decimal 0.544070828095
+mapa SNARC color dot DC 0 up 20 num_decimal 0.42818359649
+mapa SNARC color dot DC 0 down 15 lctrl 0.942051884831
+mapa SNARC color dot DC 0 down 25 lctrl 0.426279899066
+mapa SNARC color dot DC 0 up 30 num_decimal 0.63509052725
+mapa SNARC color dot DC 0 down 40 lctrl 0.691161630893
+mapa SNARC color dot DC 0 up 30 num_decimal 0.52979232166
+mapa SNARC color dot DC 0 up 20 lctrl 0.622512160702
+mapa SNARC color dot DC 0 down 45 num_decimal 0.806524453592
+mapa SNARC color dot DC 0 down 30 lctrl 1.3203834329
+mapa SNARC color dot DC 0 up 5 num_decimal 0.773890394194
+mapa SNARC color dot DC 0 up 20 num_decimal 0.625179509203
+mapa SNARC color dot DC 0 up 5 num_decimal 0.434797665046
+mapa SNARC color dot DC 0 down 40 lctrl 0.603199639057
+mapa SNARC color dot DC 0 down 20 lctrl 0.460934949711
+mapa SNARC color dot DC 0 down 35 lctrl 0.371485063966
+mapa SNARC color dot DC 0 up 30 num_decimal 0.57430439796
+mapa SNARC color dot DC 0 up 40 num_decimal 0.728812018335
+mapa SNARC color dot DC 0 down 35 lctrl 0.421405378635
+mapa SNARC color dot DC 0 down 35 lctrl 0.478119115915
+mapa SNARC color dot DC 0 down 5 lctrl 1.48603086379
+mapa SNARC color dot DC 0 up 20 num_decimal 0.396146866766
+mapa SNARC color dot DC 0 up 15 num_decimal 0.487400222672
+mapa SNARC color dot DC 0 up 35 num_decimal 0.316945916997
+mapa SNARC color dot DC 0 up 15 num_decimal 0.39473778934
+mapa SNARC color dot DC 0 down 5 lctrl 0.469498950561
+mapa SNARC color dot DC 0 up 10 num_decimal 0.549407697206
+mapa SNARC color dot DC 0 down 5 lctrl 0.505638171508
+mapa SNARC color dot DC 0 down 20 lctrl 0.503231475954
+mapa SNARC color dot DC 0 down 35 lctrl 0.421045119025
+mapa SNARC color dot DC 0 up 40 num_decimal 0.486337751607
+mapa SNARC color dot DC 0 up 40 num_decimal 0.371996750528
+mapa SNARC color dot DC 0 down 10 lctrl 0.575492230681
+mapa SNARC color dot DC 0 down 25 lctrl 0.594590334244
+mapa SNARC color dot DC 0 down 15 lctrl 0.541809043169
+mapa SNARC color dot DC 0 up 40 num_decimal 0.498118333955
+mapa SNARC color dot DC 0 up 10 num_decimal 0.448726462108
+mapa SNARC color dot DC 0 up 15 num_decimal 0.656960240496
+mapa SNARC color dot DC 0 down 15 lctrl 0.497534347232
+mapa SNARC color dot DC 0 down 30 lctrl 0.687090169784
+mapa SNARC color dot DC 0 up 35 num_decimal 0.468667653837
+mapa SNARC color dot DC 0 down 25 lctrl 0.475508242218
+mapa SNARC color dot DC 0 up 30 num_decimal 0.434619862499
+mapa SNARC color dot DC 0 down 20 lctrl 0.378865886611
+mapa SNARC color dot DC 0 up 10 num_decimal 0.310786749893
+mapa SNARC color dot DC 0 down 45 lctrl 0.387502497922
+mapa SNARC color dot DC 0 down 5 lctrl 0.638301523331
+mapa SNARC color dot DC 0 up 40 num_decimal 0.342385955028
+mapa SNARC color dot DC 0 down 30 lctrl 0.482288011577
+mapa SNARC color dot DC 0 up 15 num_decimal 0.369171769051
+mapa SNARC color dot DC 0 up 30 num_decimal 0.436592136472
+mapa SNARC color dot DC 0 up 40 num_decimal 0.372770951843
+mapa SNARC color dot DC 0 up 5 num_decimal 0.424671298015
+mapa SNARC color dot DC 0 up 35 num_decimal 0.361312772366
+mapa SNARC color dot DC 0 up 25 num_decimal 0.389149266013
+mapa SNARC color dot DC 0 down 5 lctrl 0.496111926859
+mapa SNARC color dot DC 0 up 45 num_decimal 0.501579743046
+mapa SNARC color dot DC 0 down 5 lctrl 0.452274445213
+mapa SNARC color dot DC 0 down 35 lctrl 0.524015135246
+mapa SNARC color dot DC 0 up 45 num_decimal 0.448723048796
+mapa SNARC color dot DC 0 up 5 num_decimal 0.529441681385
+mapa SNARC color dot DC 0 down 15 lctrl 1.16716759612
+mapa SNARC color dot DC 0 down 25 lctrl 0.481996638819
+mapa SNARC color dot DC 0 up 25 num_decimal 0.456299671454
+mapa SNARC color dot DC 0 down 20 num_decimal 0.75224658017
+mapa SNARC color dot DC 0 down 10 lctrl 0.644885802978
+mapa SNARC color dot DC 0 up 35 num_decimal 0.677464939075
+mapa SNARC color dot DC 0 up 10 num_decimal 0.365188123164
+mapa SNARC color dot DC 0 up 35 num_decimal 0.367712733145
+mapa SNARC color dot DC 0 down 30 lctrl 0.586565947058
+mapa SNARC color dot DC 0 up 20 lctrl 0.541096902078
+mapa SNARC color dot DC 0 up 10 num_decimal 0.737944801152
+mapa SNARC color dot DC 0 down 30 lctrl 0.702367225251
+mapa SNARC color dot DC 0 up 25 lctrl 1.4443524574
+mapa SNARC color dot DC 0 up 15 num_decimal 0.565655064302
+mapa SNARC color dot DC 0 up 20 num_decimal 0.504314116592
+mapa SNARC color dot DC 0 up 10 num_decimal 0.454850565184
+mapa SNARC color dot DC 0 down 10 lctrl 0.662632545127
+mapa SNARC color dot DC 0 down 40 lctrl 0.750229622836
+mapa SNARC color dot DC 0 up 45 num_decimal 0.44150172093
+mapa SNARC color dot DC 0 up 45 num_decimal 0.401529039842
+mapa SNARC color dot DC 0 up 5 num_decimal 0.412204950173
+mapa SNARC color dot DC 0 down 40 lctrl 0.429893355709
+mapa SNARC color dot DC 0 down 15 lctrl 0.399797559543
+mapa SNARC color dot DC 0 down 25 lctrl 0.337501504961
+mapa SNARC color dot DC 0 down 10 lctrl 0.44664589304
+mapa SNARC color dot DC 0 up 20 num_decimal 0.4719289187
+mapa SNARC color dot DC 0 up 45 num_decimal 0.806456497645
+mapa SNARC color dot DC 0 up 20 num_decimal 0.400501012202
+mapa SNARC color dot DC 0 up 20 num_decimal 0.410312113287
+mapa SNARC color dot DC 0 up 15 num_decimal 0.357037133117
+mapa SNARC color dot DC 0 down 45 lctrl 0.390826133313
+mapa SNARC color dot DC 0 up 10 num_decimal 0.4257117377
+mapa SNARC color dot DC 0 down 5 lctrl 0.563509331996
+mapa SNARC color dot DC 0 up 35 num_decimal 0.375306422364
+mapa SNARC color dot DC 0 down 20 lctrl 0.434224849163
+mapa SNARC color dot DC 0 up 15 num_decimal 0.299189555511
+mapa SNARC color dot DC 0 up 10 num_decimal 0.609868320613
+mapa SNARC color dot DC 0 up 45 num_decimal 0.753823840807
+mapa SNARC color dot DC 0 up 5 num_decimal 0.478385354283
+mapa SNARC color dot DC 0 up 25 num_decimal 0.469243262431
+mapa SNARC color dot DC 0 up 15 num_decimal 0.509233320385
+mapa SNARC color dot DC 0 down 5 lctrl 0.523702662013
+mapa SNARC color dot DC 0 up 10 num_decimal 1.0094021242
+mapa SNARC color dot DC 0 down 45 lctrl 0.578288354151
+mapa SNARC color dot DC 0 down 20 lctrl 0.557286242862
+mapa SNARC color dot DC 0 down 30 lctrl 0.425043349067
+mapa SNARC color dot DC 0 down 35 lctrl 0.489729963547
+mapa SNARC color dot DC 0 down 45 lctrl 0.431825600836
+mapa SNARC color dot DC 0 down 20 lctrl 0.417216934
+mapa SNARC color dot DC 0 up 20 num_decimal 0.37838429926
+mapa SNARC color dot DC 0 down 40 lctrl 0.685697538318
+mapa SNARC color dot DC 0 down 20 lctrl 0.42764212102
+mapa SNARC color dot DC 0 up 25 num_decimal 0.532974770036
+mapa SNARC color dot DC 0 down 30 lctrl 0.401053348211
+mapa SNARC color dot DC 0 down 35 lctrl 0.666190147565
+mapa SNARC color dot DC 0 down 25 lctrl 0.76136074492
+mapa SNARC color dot DC 0 up 30 num_decimal 0.46108792817
+mapa SNARC color dot DC 0 up 30 num_decimal 0.484834342638
+mapa SNARC color dot DC 0 up 40 num_decimal 0.50751704484
+mapa SNARC color dot DC 0 down 45 lctrl 0.639429467932
+mapa SNARC color dot DC 0 down 45 lctrl 0.407544847822
+mapa SNARC color dot DC 0 up 5 num_decimal 0.474380918218
+mapa SNARC color dot DC 0 down 35 lctrl 0.449654572783
+mapa SNARC color dot DC 0 up 40 num_decimal 0.624967263231
+mapa SNARC color dot DC 0 up 40 num_decimal 0.418363186371
+mapa SNARC color dot DC 0 down 30 lctrl 0.491459892337
+mapa SNARC color dot DC 0 up 20 num_decimal 0.458219504537
+mapa SNARC color dot DC 0 up 15 num_decimal 0.43497484699
+mapa SNARC color dot DC 0 up 45 num_decimal 0.402585925485
+mapa SNARC color dot DC 0 up 5 num_decimal 0.405265996333
+mapa SNARC color dot DC 0 down 40 lctrl 0.495191573711
+mapa SNARC color dot DC 0 down 25 lctrl 0.429264685621
+mapa SNARC color dot DC 0 down 20 lctrl 0.358329537317
+mapa SNARC color dot DC 0 down 45 lctrl 0.449353270387
+mapa SNARC color dot DC 0 up 25 num_decimal 0.424801003886
+mapa SNARC color dot DC 0 down 10 lctrl 0.554944089943
+mapa SNARC color dot DC 0 up 10 num_decimal 0.423659406033
+mapa SNARC color dot DC 0 down 20 lctrl 0.59234871889
+mapa SNARC color dot DC 0 down 5 lctrl 0.419797398186
+mapa SNARC color dot DC 0 up 10 num_decimal 0.429882184868
+mapa SNARC color dot DC 0 down 25 num_decimal 0.566671610799
+mapa SNARC color dot DC 0 down 25 lctrl 0.561238858638
+mapa SNARC color dot DC 0 up 10 num_decimal 0.733901577447
+mapa SNARC color dot DC 0 up 35 num_decimal 0.434587280881
+mapa SNARC color dot DC 0 up 15 num_decimal 0.420000024824
+mapa SNARC color dot DC 0 down 5 lctrl 0.949967976923
+mapa SNARC color dot DC 0 up 10 num_decimal 0.474397364178
+mapa SNARC color dot DC 0 up 25 num_decimal 0.561163145163
+mapa SNARC color dot DC 0 down 40 lctrl 0.453041509603
+mapa SNARC color dot DC 0 up 15 num_decimal 1.49353642749
+mapa SNARC color dot DC 0 down 40 lctrl 0.78010262279
+mapa SNARC color dot DC 0 up 35 num_decimal 0.615481357729
+mapa SNARC color dot DC 0 up 10 num_decimal 0.529175753318
+mapa SNARC color dot DC 0 up 25 num_decimal 0.462452011931
+mapa SNARC color dot DC 0 down 20 lctrl 0.334009996661
+mapa SNARC color dot DC 0 down 20 lctrl 0.562421105938
+mapa SNARC color dot DC 0 up 5 num_decimal 0.439198976253
+mapa SNARC color dot DC 0 up 45 num_decimal 0.478670831322
+mapa SNARC color dot DC 0 up 5 num_decimal 0.461834822985
+mapa SNARC color dot DC 0 down 30 lctrl 0.557510900879
+mapa SNARC color dot DC 0 down 30 num_decimal 0.505571146465
+mapa SNARC color dot DC 0 down 10 lctrl 0.63184850106
+mapa SNARC color dot DC 0 down 10 lctrl 0.441238585574
+mapa SNARC color dot DC 0 up 15 num_decimal 0.482191818228
+mapa SNARC color dot DC 0 down 15 lctrl 0.697091485461
+mapa SNARC color dot DC 0 down 30 lctrl 0.487511310475
+mapa SNARC color dot DC 0 down 15 lctrl 0.398955091978
+mapa SNARC color dot DC 0 up 30 num_decimal 0.544155230002
+mapa SNARC color dot DC 0 up 25 num_decimal 0.476441007411
+mapa SNARC color dot DC 0 down 5 lctrl 0.563581011556
+mapa SNARC color dot DC 0 down 40 lctrl 0.439486315099
+mapa SNARC color dot DC 0 down 20 lctrl 0.409071219074
+mapa SNARC color dot DC 0 up 10 num_decimal 0.507188125644
+mapa SNARC color dot DC 0 up 40 num_decimal 2.00066156201
+mapa SNARC color dot DC 0 up 30 num_decimal 0.402551792362
+mapa SNARC color dot DC 0 up 45 num_decimal 0.443525504892
+mapa SNARC color dot DC 0 up 15 num_decimal 0.35657106082
+mapa SNARC color dot DC 0 down 20 lctrl 0.504463992036
+mapa SNARC color dot DC 0 down 5 lctrl 0.5108875357
+mapa SNARC color dot DC 0 up 45 num_decimal 0.467456858834
+mapa SNARC color dot DC 0 up 5 num_decimal 0.803387929782
+mapa SNARC color dot DC 0 down 25 lctrl 0.52561597877
+mapa SNARC color dot DC 0 up 45 num_decimal 0.641066926988
+mapa SNARC color dot DC 0 down 35 lctrl 0.480575459649
+mapa SNARC color dot DC 0 up 40 num_decimal 0.407994784458
+mapa SNARC color dot DC 0 down 35 lctrl 0.432885899794
+mapa SNARC color dot DC 0 up 40 num_decimal 0.665244349726
+mapa SNARC color dot DC 0 down 30 lctrl 0.312272471698
+mapa SNARC color dot DC 0 up 35 num_decimal 0.422341867443
+mapa SNARC color dot DC 0 down 35 lctrl 0.398919097048
+mapa SNARC color dot DC 0 up 30 num_decimal 0.808338473989
+mapa SNARC color dot DC 0 down 20 lctrl 0.466998544067
+mapa SNARC color dot DC 0 up 20 num_decimal 0.713927804098
+mapa SNARC color dot DC 0 down 15 lctrl 0.592536140774
+mapa SNARC color dot DC 0 up 5 num_decimal 0.68395240477
+mapa SNARC color dot DC 0 up 45 num_decimal 0.433506191748
+mapa SNARC color dot DC 0 down 45 lctrl 0.457186822381
+mapa SNARC color dot DC 0 down 15 lctrl 0.418001064954
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '12_09_1218', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'mapa', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+mapa SNARC color arabic DC 0 down 7 lctrl 1.3137585038
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.488517617036
+mapa SNARC color arabic DC 0 down 7 lctrl 0.367459217123
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.339355243903
+mapa SNARC color arabic DC 0 down 9 lctrl 0.472741287056
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.480891966799
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.936245530113
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.356876397131
+mapa SNARC color arabic DC 0 down 6 lctrl 0.39276644627
+mapa SNARC color arabic DC 0 down 2 lctrl 0.379512554164
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.391385606246
+mapa SNARC color arabic DC 0 down 8 lctrl 0.394155974724
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.317131477072
+mapa SNARC color arabic DC 0 down 4 lctrl 0.43504342354
+mapa SNARC color arabic DC 0 up 4 lctrl 0.547849675238
+mapa SNARC color arabic DC 0 up 6 num_decimal 1.92819662914
+mapa SNARC color arabic DC 0 down 1 lctrl 0.765749644084
+mapa SNARC color arabic DC 0 up 7 num_decimal 1.78517232263
+mapa SNARC color arabic DC 0 down 9 lctrl 0.451780445816
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.428459143892
+mapa SNARC color arabic DC 0 down 4 lctrl 0.390367197944
+mapa SNARC color arabic DC 0 down 2 lctrl 0.537241410553
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.382155699175
+mapa SNARC color arabic DC 0 down 9 lctrl 0.408793189263
+mapa SNARC color arabic DC 0 down 3 lctrl 0.594675356753
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.525334225345
+mapa SNARC color arabic DC 0 down 6 lctrl 0.459020391751
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.795732490638
+mapa SNARC color arabic DC 0 down 1 lctrl 0.414980904068
+mapa SNARC color arabic DC 0 down 4 lctrl 0.536941039063
+mapa SNARC color arabic DC 0 down 1 lctrl 0.374242710095
+mapa SNARC color arabic DC 0 down 2 lctrl 0.426292931714
+mapa SNARC color arabic DC 0 down 2 lctrl 0.380160152617
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.503798396116
+mapa SNARC color arabic DC 0 down 6 lctrl 0.542477121498
+mapa SNARC color arabic DC 0 down 5 lctrl 0.427907118183
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.518003671483
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.435531527215
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.372274470037
+mapa SNARC color arabic DC 0 down 2 lctrl 0.471943502853
+mapa SNARC color arabic DC 0 down 6 lctrl 0.47146439791
+mapa SNARC color arabic DC 0 down 9 lctrl 0.399131963622
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.512879979247
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.399621308503
+mapa SNARC color arabic DC 0 down 2 lctrl 0.482268152306
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.417201418944
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.427174807521
+mapa SNARC color arabic DC 0 down 2 lctrl 0.693011646223
+mapa SNARC color arabic DC 0 down 1 lctrl 0.500273685597
+mapa SNARC color arabic DC 0 down 2 lctrl 0.338963643879
+mapa SNARC color arabic DC 0 down 6 lctrl 0.336089014223
+mapa SNARC color arabic DC 0 down 3 lctrl 0.348861008677
+mapa SNARC color arabic DC 0 down 5 lctrl 0.456711751352
+mapa SNARC color arabic DC 0 down 5 lctrl 0.297384844149
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.392538685242
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.475361780085
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.379252832119
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.414824822599
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.352769561694
+mapa SNARC color arabic DC 0 down 8 lctrl 0.525332363539
+mapa SNARC color arabic DC 0 down 3 lctrl 0.395305640406
+mapa SNARC color arabic DC 0 down 5 lctrl 0.32614665576
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.500000310301
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.385536740274
+mapa SNARC color arabic DC 0 down 6 lctrl 0.508373165656
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.563019056213
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.374783875264
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.36235569446
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.351191990756
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.379096130047
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.391087717164
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.378345201318
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.350212990696
+mapa SNARC color arabic DC 0 down 8 lctrl 0.587004402552
+mapa SNARC color arabic DC 0 down 9 lctrl 0.509635160346
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.40443500991
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.423116999662
+mapa SNARC color arabic DC 0 down 1 lctrl 0.393097227272
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.372158727716
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.416088368796
+mapa SNARC color arabic DC 0 down 7 lctrl 0.441814814769
+mapa SNARC color arabic DC 0 down 6 lctrl 0.563258298382
+mapa SNARC color arabic DC 0 down 5 lctrl 0.407978028199
+mapa SNARC color arabic DC 0 down 5 lctrl 0.481871587463
+mapa SNARC color arabic DC 0 down 5 lctrl 0.361316495981
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.533327272118
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.370026648661
+mapa SNARC color arabic DC 0 down 5 lctrl 0.461823031543
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.902410295046
+mapa SNARC color arabic DC 0 down 8 lctrl 0.572906801675
+mapa SNARC color arabic DC 0 down 3 lctrl 0.440559957005
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.457208233156
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.369927972903
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.333807990628
+mapa SNARC color arabic DC 0 down 2 lctrl 0.450638227361
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.435384754783
+mapa SNARC color arabic DC 0 down 3 lctrl 1.00444351216
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.782810620738
+mapa SNARC color arabic DC 0 down 7 lctrl 0.657966857358
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.490338464058
+mapa SNARC color arabic DC 0 down 4 lctrl 0.689163291625
+mapa SNARC color arabic DC 0 down 8 lctrl 0.535844745174
+mapa SNARC color arabic DC 0 down 1 lctrl 0.445273431149
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.462107267376
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.366757626271
+mapa SNARC color arabic DC 0 down 7 lctrl 0.434655236828
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.747562584635
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.408186550556
+mapa SNARC color arabic DC 0 down 6 lctrl 0.530810419663
+mapa SNARC color arabic DC 0 down 9 lctrl 0.560405700107
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.445126658715
+mapa SNARC color arabic DC 0 down 8 lctrl 0.406009788139
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.575891588234
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.539693099772
+mapa SNARC color arabic DC 0 down 9 lctrl 0.488368672495
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.58332733418
+mapa SNARC color arabic DC 0 down 9 lctrl 0.633723340479
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.683349489678
+mapa SNARC color arabic DC 0 up 5 lctrl 0.338318527831
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.335207138416
+mapa SNARC color arabic DC 0 down 8 lctrl 0.675930499994
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.395605701597
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.406990339705
+mapa SNARC color arabic DC 0 down 1 lctrl 0.569182877831
+mapa SNARC color arabic DC 0 down 6 lctrl 0.588781186814
+mapa SNARC color arabic DC 0 down 3 lctrl 0.415373434995
+mapa SNARC color arabic DC 0 down 2 lctrl 0.353154645394
+mapa SNARC color arabic DC 0 down 7 lctrl 0.405969448992
+mapa SNARC color arabic DC 0 down 3 lctrl 0.456049258442
+mapa SNARC color arabic DC 0 down 3 lctrl 0.343936529765
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.516785429252
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.434255879274
+mapa SNARC color arabic DC 0 down 7 lctrl 0.499287238306
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.457923477259
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.53773509965
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.351147307394
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.363421268536
+mapa SNARC color arabic DC 0 down 6 lctrl 0.447937986939
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.447758322585
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.344591885751
+mapa SNARC color arabic DC 0 down 1 lctrl 0.493376312108
+mapa SNARC color arabic DC 0 down 2 lctrl 0.603878888229
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.445465197246
+mapa SNARC color arabic DC 0 down 3 lctrl 0.822303265981
+mapa SNARC color arabic DC 0 down 1 lctrl 0.471421576354
+mapa SNARC color arabic DC 0 down 8 lctrl 0.343201116091
+mapa SNARC color arabic DC 0 down 7 lctrl 0.428203455762
+mapa SNARC color arabic DC 0 down 7 lctrl 0.422082455698
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.431649039494
+mapa SNARC color arabic DC 0 down 4 lctrl 0.465141081511
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.37715271408
+mapa SNARC color arabic DC 0 down 6 lctrl 0.397218026261
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.448496528972
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.577076938544
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.317082759793
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.3229955478
+mapa SNARC color arabic DC 0 down 6 lctrl 0.55301339632
+mapa SNARC color arabic DC 0 down 6 lctrl 0.325670343529
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.451585576708
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.508313587838
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.491038813705
+mapa SNARC color arabic DC 0 down 1 lctrl 0.417919455758
+mapa SNARC color arabic DC 0 down 5 lctrl 0.379792445781
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.45546278931
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.504128246215
+mapa SNARC color arabic DC 0 down 4 lctrl 0.414889675536
+mapa SNARC color arabic DC 0 down 5 lctrl 0.312510162361
+mapa SNARC color arabic DC 0 down 7 lctrl 0.311460413644
+mapa SNARC color arabic DC 0 up 8 lctrl 0.237609365633
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.534549858565
+mapa SNARC color arabic DC 0 down 4 lctrl 0.571896461201
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.415774033752
+mapa SNARC color arabic DC 0 down 7 lctrl 0.417783543862
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.435458916752
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.444486817787
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.389838134519
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.37723525418
+mapa SNARC color arabic DC 0 down 3 lctrl 1.0368960454
+mapa SNARC color arabic DC 0 down 1 lctrl 0.358194866627
+mapa SNARC color arabic DC 0 down 5 lctrl 0.386176891503
+mapa SNARC color arabic DC 0 down 9 lctrl 0.284768620861
+mapa SNARC color arabic DC 0 down 7 lctrl 0.371935310903
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.647854453875
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.288304812522
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.382920281158
+mapa SNARC color arabic DC 0 down 1 lctrl 0.561918418109
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.454518542974
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.359290539911
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.339332281619
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.400174265114
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.298830226806
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.368833540822
+mapa SNARC color arabic DC 0 down 2 lctrl 0.484620855463
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.41120329813
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.42987442734
+mapa SNARC color arabic DC 0 down 6 lctrl 0.415545652122
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.305453914696
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.336179311851
+mapa SNARC color arabic DC 0 down 6 lctrl 0.461115544971
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.438013625942
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.374706610284
+mapa SNARC color arabic DC 0 down 6 lctrl 0.426433187824
+mapa SNARC color arabic DC 0 down 3 lctrl 0.452387705123
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.3091663574
+mapa SNARC color arabic DC 0 down 8 lctrl 0.323041782667
+mapa SNARC color arabic DC 0 down 9 lctrl 0.440885152588
+mapa SNARC color arabic DC 0 down 5 lctrl 0.361733540696
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.502390870197
+mapa SNARC color arabic DC 0 up 5 num_decimal 1.18906058195
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.464158357838
+mapa SNARC color arabic DC 0 down 9 lctrl 0.455953375395
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.42383969099
+mapa SNARC color arabic DC 0 down 7 lctrl 0.761570198183
+mapa SNARC color arabic DC 0 down 7 num_decimal 0.470127620647
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.629709285078
+mapa SNARC color arabic DC 0 down 2 lctrl 0.511297443491
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.677988727381
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.40567993804
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.392459248153
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.475174047902
+mapa SNARC color arabic DC 0 down 7 lctrl 0.402784518208
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.484694707133
+mapa SNARC color arabic DC 0 down 8 num_decimal 0.355348164072
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.336048054472
+mapa SNARC color arabic DC 0 down 7 lctrl 0.5493512224
+mapa SNARC color arabic DC 0 down 1 lctrl 0.345969002157
+mapa SNARC color arabic DC 0 down 6 lctrl 0.430710068278
+mapa SNARC color arabic DC 0 down 4 lctrl 0.376420093115
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.772307237836
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.328126066659
+mapa SNARC color arabic DC 0 down 2 lctrl 0.501889113271
+mapa SNARC color arabic DC 0 down 1 lctrl 0.508642817336
+mapa SNARC color arabic DC 0 down 6 lctrl 0.371318432259
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.543340999839
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.41234458568
+mapa SNARC color arabic DC 0 down 8 lctrl 0.494983361654
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.60562557328
+mapa SNARC color arabic DC 0 down 4 lctrl 0.584220691127
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.73096364636
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.464455005716
+mapa SNARC color arabic DC 0 down 7 num_decimal 0.416186423952
+mapa SNARC color arabic DC 0 down 4 lctrl 0.602165715698
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.700775690761
+mapa SNARC color arabic DC 0 down 3 lctrl 0.53141985108
+mapa SNARC color arabic DC 0 down 5 lctrl 0.44803418029
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.520821516031
+mapa SNARC color arabic DC 0 down 7 lctrl 0.60646121422
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.849197685402
+mapa SNARC color arabic DC 0 down 1 lctrl 0.433563597457
+mapa SNARC color arabic DC 0 down 2 lctrl 0.563091356376
+mapa SNARC color arabic DC 0 down 8 lctrl 0.518908199272
+mapa SNARC color arabic DC 0 down 9 lctrl 0.47670197066
+mapa SNARC color arabic DC 0 down 1 lctrl 0.444508849168
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.66184965538
+mapa SNARC color arabic DC 0 up 8 num_decimal 1.34186216672
+mapa SNARC color arabic DC 0 down 7 lctrl 0.722741597356
+mapa SNARC color arabic DC 0 down 9 lctrl 0.472323311433
+mapa SNARC color arabic DC 0 down 8 lctrl 0.496109134148
+mapa SNARC color arabic DC 0 down 8 lctrl 0.390820547893
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.513699794828
+mapa SNARC color arabic DC 0 down 8 lctrl 0.672281358722
+mapa SNARC color arabic DC 0 down 3 lctrl 0.503919723857
+mapa SNARC color arabic DC 0 down 2 lctrl 0.982311284162
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.560679696004
+mapa SNARC color arabic DC 0 down 5 lctrl 0.493387482949
+mapa SNARC color arabic DC 0 down 3 lctrl 0.356153705803
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.496911262564
+mapa SNARC color arabic DC 0 down 4 lctrl 1.11987429081
+mapa SNARC color arabic DC 0 down 3 lctrl 0.421903411947
+mapa SNARC color arabic DC 0 down 7 lctrl 0.375920508297
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.563641520277
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.560460313105
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.405098433723
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.479818324893
+mapa SNARC color arabic DC 0 down 8 lctrl 0.470712848575
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.478309020204
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.502109116769
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.33995102207
+mapa SNARC color arabic DC 0 down 1 lctrl 0.489295231666
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.544151196089
+mapa SNARC color arabic DC 0 down 5 lctrl 0.452741448411
+mapa SNARC color arabic DC 0 down 3 lctrl 0.349267813453
+mapa SNARC color arabic DC 0 down 7 lctrl 0.425955634386
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.427915496311
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.413969632693
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.336631730897
+mapa SNARC color arabic DC 0 down 8 lctrl 0.501578191539
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.772341991564
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.391940424666
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.354840821725
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.470560180423
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.422302769501
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.360170864213
+mapa SNARC color arabic DC 0 down 2 lctrl 0.660967158969
+mapa SNARC color arabic DC 0 down 3 lctrl 0.428638497946
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.798635667998
+mapa SNARC color arabic DC 0 up 4 num_decimal 0.425191673006
+mapa SNARC color arabic DC 0 down 8 lctrl 0.563246817241
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.423808350577
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.417907974614
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.747680188761
+mapa SNARC color arabic DC 0 down 4 lctrl 0.440388670784
+mapa SNARC color arabic DC 0 down 7 lctrl 0.609185968431
+mapa SNARC color arabic DC 0 down 7 lctrl 0.419873421964
+mapa SNARC color arabic DC 0 down 8 lctrl 0.477732791009
+mapa SNARC color arabic DC 0 down 7 lctrl 0.389103651749
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.424129201943
+mapa SNARC color arabic DC 0 down 5 lctrl 0.465919006441
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.633758714808
+mapa SNARC color arabic DC 0 down 9 lctrl 0.403026863391
+mapa SNARC color arabic DC 0 down 5 lctrl 0.341845720763
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.515201962589
+mapa SNARC color arabic DC 0 down 5 num_decimal 0.54490274542
+mapa SNARC color arabic DC 0 down 2 lctrl 2.73420039743
+mapa SNARC color arabic DC 0 up 4 num_decimal 1.41911070179
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.484978632663
+mapa SNARC color arabic DC 0 down 7 lctrl 0.531623718922
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.497007145615
+mapa SNARC color arabic DC 0 down 3 lctrl 0.808366401092
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.371036058234
+mapa SNARC color arabic DC 0 up 9 num_decimal 1.01503346908
+mapa SNARC color arabic DC 0 down 1 lctrl 0.416838987228
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.579010114576
+mapa SNARC color arabic DC 0 down 3 lctrl 0.39875122414
+mapa SNARC color arabic DC 0 down 4 lctrl 0.593384504056
+mapa SNARC color arabic DC 0 down 1 lctrl 0.372036469071
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.447913473152
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.55951017105
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.396092874369
+mapa SNARC color arabic DC 0 down 1 lctrl 0.439195873241
+mapa SNARC color arabic DC 0 down 8 lctrl 3.82432301603
+mapa SNARC color arabic DC 0 down 4 lctrl 0.794148713678
+mapa SNARC color arabic DC 0 down 4 lctrl 0.405495619172
+mapa SNARC color arabic DC 0 up 5 num_decimal 0.78400621099
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.322748548104
+mapa SNARC color arabic DC 0 up 1 num_decimal 0.375513703519
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.339634825221
+mapa SNARC color arabic DC 0 up 8 num_decimal 0.313019676818
+mapa SNARC color arabic DC 0 down 4 lctrl 0.479283986351
+mapa SNARC color arabic DC 0 up 2 num_decimal 0.527054845104
+mapa SNARC color arabic DC 0 down 1 lctrl 0.700641640673
+mapa SNARC color arabic DC 0 down 9 lctrl 0.387172647825
+mapa SNARC color arabic DC 0 down 1 lctrl 0.421788290227
+mapa SNARC color arabic DC 0 up 9 num_decimal 0.687752662692
+mapa SNARC color arabic DC 0 up 3 num_decimal 0.527080289798
+mapa SNARC color arabic DC 0 up 7 num_decimal 0.421023397947
+mapa SNARC color arabic DC 0 down 2 lctrl 0.582766309737
+mapa SNARC color arabic DC 0 down 5 lctrl 0.866172398339
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.825845353364
+mapa SNARC color arabic DC 0 down 2 lctrl 0.555763905522
+mapa SNARC color arabic DC 0 down 9 lctrl 1.36800876042
+mapa SNARC color arabic DC 0 down 1 lctrl 0.795515279846
+mapa SNARC color arabic DC 0 down 1 lctrl 0.846795023761
+mapa SNARC color arabic DC 0 down 1 lctrl 0.35205928241
+mapa SNARC color arabic DC 0 down 5 lctrl 0.412778386657
+mapa SNARC color arabic DC 0 down 6 lctrl 0.630752207173
+mapa SNARC color arabic DC 0 down 1 lctrl 4.30409262365
+mapa SNARC color arabic DC 0 down 9 lctrl 0.398361796222
+mapa SNARC color arabic DC 0 down 3 lctrl 0.449089824728
+mapa SNARC color arabic DC 0 up 6 num_decimal 0.353198708155
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'CD', 'dateStr': '12_09_1226', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'mapa', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+mapa SNARC color dot CD 0 down 5 num_decimal 1.33281813002
+mapa SNARC color dot CD 0 up 20 lctrl 0.921154655323
+mapa SNARC color dot CD 0 down 40 num_decimal 0.590339208782
+mapa SNARC color dot CD 0 up 5 lctrl 0.76971001739
+mapa SNARC color dot CD 0 down 40 num_decimal 0.475740657763
+mapa SNARC color dot CD 0 down 15 num_decimal 0.49956806083
+mapa SNARC color dot CD 0 up 40 lctrl 0.449384921103
+mapa SNARC color dot CD 0 up 35 lctrl 0.457182478167
+mapa SNARC color dot CD 0 up 5 lctrl 0.43388600033
+mapa SNARC color dot CD 0 down 5 num_decimal 0.690986000453
+mapa SNARC color dot CD 0 up 35 lctrl 0.441621497164
+mapa SNARC color dot CD 0 down 45 num_decimal 0.42493381277
+mapa SNARC color dot CD 0 up 15 lctrl 0.41106118021
+mapa SNARC color dot CD 0 down 35 num_decimal 0.499857882081
+mapa SNARC color dot CD 0 up 35 lctrl 0.34538966995
+mapa SNARC color dot CD 0 down 30 lctrl 0.414200186427
+mapa SNARC color dot CD 0 down 35 num_decimal 0.639181537328
+mapa SNARC color dot CD 0 down 10 num_decimal 0.471825278124
+mapa SNARC color dot CD 0 down 30 num_decimal 0.367140848164
+mapa SNARC color dot CD 0 down 10 num_decimal 0.394325399142
+mapa SNARC color dot CD 0 up 10 lctrl 0.516951440357
+mapa SNARC color dot CD 0 up 40 lctrl 0.601541389828
+mapa SNARC color dot CD 0 down 15 num_decimal 0.452095401459
+mapa SNARC color dot CD 0 down 40 num_decimal 0.39624988674
+mapa SNARC color dot CD 0 down 25 num_decimal 0.374224712628
+mapa SNARC color dot CD 0 down 20 num_decimal 0.377544314102
+mapa SNARC color dot CD 0 down 10 num_decimal 0.397443925482
+mapa SNARC color dot CD 0 down 30 num_decimal 0.383242063428
+mapa SNARC color dot CD 0 down 10 num_decimal 0.426140884159
+mapa SNARC color dot CD 0 up 45 lctrl 1.14674295523
+mapa SNARC color dot CD 0 up 45 lctrl 0.454729237441
+mapa SNARC color dot CD 0 down 10 num_decimal 0.470978156041
+mapa SNARC color dot CD 0 up 35 lctrl 0.486083614982
+mapa SNARC color dot CD 0 down 30 num_decimal 0.548790508259
+mapa SNARC color dot CD 0 up 10 lctrl 0.425005492329
+mapa SNARC color dot CD 0 down 25 num_decimal 0.489589086832
+mapa SNARC color dot CD 0 down 35 num_decimal 0.344295548173
+mapa SNARC color dot CD 0 up 20 lctrl 0.484122201549
+mapa SNARC color dot CD 0 up 35 lctrl 0.401852683921
+mapa SNARC color dot CD 0 up 35 lctrl 0.370639493391
+mapa SNARC color dot CD 0 down 30 num_decimal 0.558049893942
+mapa SNARC color dot CD 0 up 20 lctrl 0.488982448129
+mapa SNARC color dot CD 0 down 45 num_decimal 0.334670938064
+mapa SNARC color dot CD 0 up 45 lctrl 0.594384914897
+mapa SNARC color dot CD 0 up 25 lctrl 0.365249873084
+mapa SNARC color dot CD 0 up 35 lctrl 0.344494761495
+mapa SNARC color dot CD 0 down 35 lctrl 0.316736463734
+mapa SNARC color dot CD 0 up 10 num_decimal 0.506774494239
+mapa SNARC color dot CD 0 down 40 num_decimal 0.808853573861
+mapa SNARC color dot CD 0 down 25 num_decimal 0.546489625391
+mapa SNARC color dot CD 0 up 15 lctrl 0.76754908033
+mapa SNARC color dot CD 0 down 10 num_decimal 2.45114091519
+mapa SNARC color dot CD 0 down 20 num_decimal 0.363954055574
+mapa SNARC color dot CD 0 down 30 num_decimal 0.423888408266
+mapa SNARC color dot CD 0 down 40 num_decimal 0.416826264882
+mapa SNARC color dot CD 0 up 10 lctrl 0.506828176334
+mapa SNARC color dot CD 0 down 45 num_decimal 0.471102276493
+mapa SNARC color dot CD 0 up 10 lctrl 0.78294001631
+mapa SNARC color dot CD 0 up 30 lctrl 0.593496212463
+mapa SNARC color dot CD 0 down 25 num_decimal 0.540235506145
+mapa SNARC color dot CD 0 down 20 num_decimal 0.591386475091
+mapa SNARC color dot CD 0 up 40 lctrl 0.545986937563
+mapa SNARC color dot CD 0 down 10 num_decimal 0.518639788799
+mapa SNARC color dot CD 0 up 25 lctrl 0.37104040245
+mapa SNARC color dot CD 0 down 40 num_decimal 0.470491914173
+mapa SNARC color dot CD 0 down 5 num_decimal 0.557793274907
+mapa SNARC color dot CD 0 up 35 lctrl 0.553511739934
+mapa SNARC color dot CD 0 down 35 num_decimal 0.533396469269
+mapa SNARC color dot CD 0 up 15 lctrl 0.689793823516
+mapa SNARC color dot CD 0 down 30 num_decimal 0.424594033033
+mapa SNARC color dot CD 0 up 20 lctrl 0.553095005518
+mapa SNARC color dot CD 0 up 30 lctrl 0.652609818673
+mapa SNARC color dot CD 0 up 35 lctrl 0.396727750478
+mapa SNARC color dot CD 0 down 35 num_decimal 0.527339391239
+mapa SNARC color dot CD 0 down 40 num_decimal 0.772212906293
+mapa SNARC color dot CD 0 down 35 num_decimal 0.431391489557
+mapa SNARC color dot CD 0 down 15 num_decimal 0.408877280868
+mapa SNARC color dot CD 0 down 30 num_decimal 0.386467643661
+mapa SNARC color dot CD 0 up 5 lctrl 0.541332110333
+mapa SNARC color dot CD 0 up 30 lctrl 0.54549759268
+mapa SNARC color dot CD 0 down 15 lctrl 1.43047703213
+mapa SNARC color dot CD 0 up 25 lctrl 1.24673687333
+mapa SNARC color dot CD 0 up 40 lctrl 0.463948283974
+mapa SNARC color dot CD 0 up 30 lctrl 0.43996790245
+mapa SNARC color dot CD 0 up 45 lctrl 0.422809180942
+mapa SNARC color dot CD 0 down 30 num_decimal 0.536202212075
+mapa SNARC color dot CD 0 down 25 num_decimal 0.356256105173
+mapa SNARC color dot CD 0 up 25 lctrl 0.464082644361
+mapa SNARC color dot CD 0 down 10 num_decimal 0.455811878081
+mapa SNARC color dot CD 0 up 45 lctrl 0.462527415108
+mapa SNARC color dot CD 0 down 25 num_decimal 0.486692115497
+mapa SNARC color dot CD 0 down 5 num_decimal 0.461830168468
+mapa SNARC color dot CD 0 up 30 lctrl 0.63726759997
+mapa SNARC color dot CD 0 up 10 lctrl 0.502410419169
+mapa SNARC color dot CD 0 down 40 num_decimal 0.596104914053
+mapa SNARC color dot CD 0 down 10 num_decimal 0.414937151611
+mapa SNARC color dot CD 0 down 30 num_decimal 0.384170174104
+mapa SNARC color dot CD 0 down 40 num_decimal 0.426643261686
+mapa SNARC color dot CD 0 down 10 num_decimal 0.412473670949
+mapa SNARC color dot CD 0 down 35 num_decimal 0.406235377061
+mapa SNARC color dot CD 0 down 20 num_decimal 0.376006151411
+mapa SNARC color dot CD 0 down 20 num_decimal 0.42696814697
+mapa SNARC color dot CD 0 up 15 lctrl 0.588918029614
+mapa SNARC color dot CD 0 down 40 num_decimal 0.591379648467
+mapa SNARC color dot CD 0 down 15 num_decimal 0.474887329659
+mapa SNARC color dot CD 0 down 40 num_decimal 0.457763361876
+mapa SNARC color dot CD 0 down 25 num_decimal 0.425874645793
+mapa SNARC color dot CD 0 up 35 lctrl 0.58705374043
+mapa SNARC color dot CD 0 up 20 lctrl 0.517045461598
+mapa SNARC color dot CD 0 up 45 lctrl 0.433452509653
+mapa SNARC color dot CD 0 up 40 lctrl 0.354267074941
+mapa SNARC color dot CD 0 down 5 num_decimal 1.2709509116
+mapa SNARC color dot CD 0 down 40 num_decimal 0.486040172822
+mapa SNARC color dot CD 0 up 15 lctrl 0.524810747342
+mapa SNARC color dot CD 0 down 25 num_decimal 1.98626358964
+mapa SNARC color dot CD 0 up 20 lctrl 0.435701882536
+mapa SNARC color dot CD 0 up 45 lctrl 0.379818200774
+mapa SNARC color dot CD 0 up 30 lctrl 0.351120000894
+mapa SNARC color dot CD 0 up 25 lctrl 0.315076042392
+mapa SNARC color dot CD 0 down 20 num_decimal 0.536048302714
+mapa SNARC color dot CD 0 down 25 num_decimal 0.444291638374
+mapa SNARC color dot CD 0 down 15 num_decimal 0.493607486449
+mapa SNARC color dot CD 0 up 10 lctrl 0.435930264168
+mapa SNARC color dot CD 0 up 45 lctrl 0.891519346031
+mapa SNARC color dot CD 0 up 20 lctrl 0.46604033418
+mapa SNARC color dot CD 0 up 5 lctrl 0.601753015195
+mapa SNARC color dot CD 0 down 10 num_decimal 0.500465761994
+mapa SNARC color dot CD 0 down 30 num_decimal 0.418534782893
+mapa SNARC color dot CD 0 up 35 lctrl 0.490896385487
+mapa SNARC color dot CD 0 down 30 num_decimal 0.81649349795
+mapa SNARC color dot CD 0 up 30 lctrl 0.457377657574
+mapa SNARC color dot CD 0 down 25 num_decimal 0.36136242055
+mapa SNARC color dot CD 0 down 35 num_decimal 0.301360111909
+mapa SNARC color dot CD 0 down 5 num_decimal 0.364005255262
+mapa SNARC color dot CD 0 up 40 lctrl 0.448066761906
+mapa SNARC color dot CD 0 down 20 num_decimal 0.518985774554
+mapa SNARC color dot CD 0 down 45 num_decimal 0.538467410312
+mapa SNARC color dot CD 0 down 15 num_decimal 0.400019735152
+mapa SNARC color dot CD 0 up 5 lctrl 0.882195417722
+mapa SNARC color dot CD 0 up 40 lctrl 0.672739983791
+mapa SNARC color dot CD 0 down 45 num_decimal 0.823087086632
+mapa SNARC color dot CD 0 up 40 lctrl 0.67243247537
+mapa SNARC color dot CD 0 down 25 num_decimal 0.81494788803
+mapa SNARC color dot CD 0 down 45 num_decimal 0.511459110381
+mapa SNARC color dot CD 0 down 45 num_decimal 0.428213695697
+mapa SNARC color dot CD 0 down 25 num_decimal 0.45351658063
+mapa SNARC color dot CD 0 up 15 lctrl 0.782203051131
+mapa SNARC color dot CD 0 up 40 lctrl 0.424185366446
+mapa SNARC color dot CD 0 down 10 num_decimal 0.642305959398
+mapa SNARC color dot CD 0 down 35 num_decimal 0.561924624133
+mapa SNARC color dot CD 0 down 25 num_decimal 0.429112327769
+mapa SNARC color dot CD 0 down 40 num_decimal 0.478341912127
+mapa SNARC color dot CD 0 up 10 lctrl 1.18234101101
+mapa SNARC color dot CD 0 down 30 num_decimal 0.640800688619
+mapa SNARC color dot CD 0 up 25 lctrl 0.496564656205
+mapa SNARC color dot CD 0 up 10 lctrl 0.543722980532
+mapa SNARC color dot CD 0 down 40 num_decimal 0.644408870146
+mapa SNARC color dot CD 0 up 40 lctrl 0.685003704995
+mapa SNARC color dot CD 0 down 35 num_decimal 0.794540624003
+mapa SNARC color dot CD 0 down 25 num_decimal 0.613346175662
+mapa SNARC color dot CD 0 down 30 num_decimal 0.455302984225
+mapa SNARC color dot CD 0 down 35 num_decimal 0.823203449556
+mapa SNARC color dot CD 0 down 15 num_decimal 0.512710244529
+mapa SNARC color dot CD 0 up 5 lctrl 0.479402831683
+mapa SNARC color dot CD 0 up 25 lctrl 0.470118001311
+mapa SNARC color dot CD 0 up 40 lctrl 0.428846089399
+mapa SNARC color dot CD 0 up 30 lctrl 0.438293207262
+mapa SNARC color dot CD 0 down 25 lctrl 0.389366476804
+mapa SNARC color dot CD 0 up 25 lctrl 0.343021141438
+mapa SNARC color dot CD 0 down 15 num_decimal 0.475853917676
+mapa SNARC color dot CD 0 down 45 lctrl 0.482418648353
+mapa SNARC color dot CD 0 down 15 num_decimal 0.649881651148
+mapa SNARC color dot CD 0 down 10 num_decimal 0.402239319123
+mapa SNARC color dot CD 0 up 10 lctrl 0.756945159861
+mapa SNARC color dot CD 0 up 5 lctrl 0.497551413795
+mapa SNARC color dot CD 0 up 25 lctrl 0.399068662191
+mapa SNARC color dot CD 0 up 10 lctrl 0.408859593703
+mapa SNARC color dot CD 0 down 30 num_decimal 0.633616907191
+mapa SNARC color dot CD 0 down 5 num_decimal 0.675015421963
+mapa SNARC color dot CD 0 up 35 lctrl 0.737748380539
+mapa SNARC color dot CD 0 up 25 lctrl 0.45412694295
+mapa SNARC color dot CD 0 down 20 num_decimal 0.781669333188
+mapa SNARC color dot CD 0 up 10 num_decimal 1.19309232452
+mapa SNARC color dot CD 0 up 30 lctrl 0.827635170273
+mapa SNARC color dot CD 0 up 15 lctrl 0.420693547847
+mapa SNARC color dot CD 0 down 5 num_decimal 0.470553043495
+mapa SNARC color dot CD 0 up 45 lctrl 0.348265540812
+mapa SNARC color dot CD 0 down 25 num_decimal 0.448362789186
+mapa SNARC color dot CD 0 down 10 num_decimal 0.488898666823
+mapa SNARC color dot CD 0 up 30 lctrl 0.494990498577
+mapa SNARC color dot CD 0 down 35 num_decimal 0.517212403603
+mapa SNARC color dot CD 0 up 20 lctrl 0.401944222751
+mapa SNARC color dot CD 0 up 45 lctrl 0.42658864869
+mapa SNARC color dot CD 0 up 15 lctrl 0.395705618561
+mapa SNARC color dot CD 0 down 25 num_decimal 0.597607702417
+mapa SNARC color dot CD 0 up 40 lctrl 0.623592008629
+mapa SNARC color dot CD 0 up 35 lctrl 0.368417116708
+mapa SNARC color dot CD 0 up 30 lctrl 0.443701755932
+mapa SNARC color dot CD 0 down 25 num_decimal 0.419790261261
+mapa SNARC color dot CD 0 down 10 num_decimal 0.42964728691
+mapa SNARC color dot CD 0 up 30 lctrl 0.471037113257
+mapa SNARC color dot CD 0 up 35 lctrl 0.526101910338
+mapa SNARC color dot CD 0 up 5 lctrl 0.563961440737
+mapa SNARC color dot CD 0 down 5 num_decimal 0.504655447832
+mapa SNARC color dot CD 0 up 20 lctrl 0.478583947006
+mapa SNARC color dot CD 0 up 40 lctrl 0.564555667403
+mapa SNARC color dot CD 0 up 15 lctrl 0.464084195864
+mapa SNARC color dot CD 0 down 5 num_decimal 1.24793184298
+mapa SNARC color dot CD 0 down 40 num_decimal 0.390931015096
+mapa SNARC color dot CD 0 up 20 lctrl 0.569434532048
+mapa SNARC color dot CD 0 up 35 lctrl 1.43661044424
+mapa SNARC color dot CD 0 up 45 lctrl 0.324581496865
+mapa SNARC color dot CD 0 down 15 num_decimal 0.481894549746
+mapa SNARC color dot CD 0 up 5 lctrl 0.472713670257
+mapa SNARC color dot CD 0 up 45 lctrl 0.415438287931
+mapa SNARC color dot CD 0 up 20 lctrl 0.424397922721
+mapa SNARC color dot CD 0 down 40 num_decimal 0.321183078908
+mapa SNARC color dot CD 0 down 20 num_decimal 0.494674301728
+mapa SNARC color dot CD 0 down 5 num_decimal 0.389824791571
+mapa SNARC color dot CD 0 down 10 num_decimal 0.392393154012
+mapa SNARC color dot CD 0 up 5 lctrl 0.515733508426
+mapa SNARC color dot CD 0 down 15 num_decimal 0.529545321962
+mapa SNARC color dot CD 0 down 35 num_decimal 0.431130526307
+mapa SNARC color dot CD 0 up 30 lctrl 0.535738311886
+mapa SNARC color dot CD 0 down 40 num_decimal 1.10846451831
+mapa SNARC color dot CD 0 down 5 num_decimal 0.474829303348
+mapa SNARC color dot CD 0 up 5 lctrl 0.498674393577
+mapa SNARC color dot CD 0 up 10 lctrl 0.497141195701
+mapa SNARC color dot CD 0 up 45 lctrl 0.399001947451
+mapa SNARC color dot CD 0 up 20 lctrl 0.415747968458
+mapa SNARC color dot CD 0 down 35 num_decimal 0.801080530589
+mapa SNARC color dot CD 0 up 25 lctrl 0.347213930287
+mapa SNARC color dot CD 0 down 25 num_decimal 0.327401203223
+mapa SNARC color dot CD 0 up 45 lctrl 0.324099909518
+mapa SNARC color dot CD 0 down 30 num_decimal 0.369320713595
+mapa SNARC color dot CD 0 up 15 lctrl 0.692984650024
+mapa SNARC color dot CD 0 up 25 lctrl 0.403693700515
+mapa SNARC color dot CD 0 down 5 num_decimal 0.478255338112
+mapa SNARC color dot CD 0 down 45 num_decimal 0.363871515474
+mapa SNARC color dot CD 0 down 10 num_decimal 0.712604369786
+mapa SNARC color dot CD 0 up 45 lctrl 0.629956284774
+mapa SNARC color dot CD 0 up 15 num_decimal 3.75169114115
+mapa SNARC color dot CD 0 down 5 num_decimal 0.548428386846
+mapa SNARC color dot CD 0 up 20 lctrl 0.40796220284
+mapa SNARC color dot CD 0 down 45 num_decimal 1.0564713921
+mapa SNARC color dot CD 0 down 10 num_decimal 0.369120259063
+mapa SNARC color dot CD 0 up 20 lctrl 0.683913617133
+mapa SNARC color dot CD 0 down 5 num_decimal 0.738418630979
+mapa SNARC color dot CD 0 up 15 lctrl 0.319807514006
+mapa SNARC color dot CD 0 down 30 num_decimal 0.508892299444
+mapa SNARC color dot CD 0 up 30 lctrl 0.314026603977
+mapa SNARC color dot CD 0 up 35 lctrl 0.407922794595
+mapa SNARC color dot CD 0 up 45 lctrl 0.344858434419
+mapa SNARC color dot CD 0 down 25 num_decimal 0.573567743078
+mapa SNARC color dot CD 0 down 20 num_decimal 0.519627787591
+mapa SNARC color dot CD 0 up 40 lctrl 0.47708457195
+mapa SNARC color dot CD 0 down 25 lctrl 0.716216585224
+mapa SNARC color dot CD 0 up 15 lctrl 0.60179025133
+mapa SNARC color dot CD 0 down 45 num_decimal 0.402976594603
+mapa SNARC color dot CD 0 down 10 num_decimal 0.421756949814
+mapa SNARC color dot CD 0 up 10 lctrl 0.503829115929
+mapa SNARC color dot CD 0 up 5 lctrl 0.58991813015
+mapa SNARC color dot CD 0 down 30 num_decimal 0.536576745537
+mapa SNARC color dot CD 0 up 45 lctrl 0.740420383558
+mapa SNARC color dot CD 0 down 5 num_decimal 0.857884565499
+mapa SNARC color dot CD 0 down 45 num_decimal 0.769126961568
+mapa SNARC color dot CD 0 up 20 lctrl 2.30789691548
+mapa SNARC color dot CD 0 down 20 num_decimal 0.488855224663
+mapa SNARC color dot CD 0 up 25 lctrl 0.486701424528
+mapa SNARC color dot CD 0 up 15 lctrl 0.478089637309
+mapa SNARC color dot CD 0 up 45 lctrl 0.364765182723
+mapa SNARC color dot CD 0 down 35 num_decimal 0.487949145368
+mapa SNARC color dot CD 0 down 30 lctrl 0.358169111634
+mapa SNARC color dot CD 0 down 5 num_decimal 0.698531593
+mapa SNARC color dot CD 0 down 5 num_decimal 0.409171136038
+mapa SNARC color dot CD 0 down 45 num_decimal 0.44977714173
+mapa SNARC color dot CD 0 down 20 num_decimal 0.393578194024
+mapa SNARC color dot CD 0 down 10 num_decimal 0.436378649294
+mapa SNARC color dot CD 0 up 45 lctrl 0.548126774149
+mapa SNARC color dot CD 0 down 5 num_decimal 0.521030658994
+mapa SNARC color dot CD 0 up 30 lctrl 0.606062477269
+mapa SNARC color dot CD 0 down 40 num_decimal 0.43213435046
+mapa SNARC color dot CD 0 down 35 num_decimal 0.551880486899
+mapa SNARC color dot CD 0 down 10 num_decimal 0.444596664387
+mapa SNARC color dot CD 0 up 10 lctrl 0.461889125683
+mapa SNARC color dot CD 0 down 25 lctrl 0.565377655093
+mapa SNARC color dot CD 0 down 30 num_decimal 0.560753237372
+mapa SNARC color dot CD 0 up 25 lctrl 0.580686050969
+mapa SNARC color dot CD 0 up 35 lctrl 0.52783214943
+mapa SNARC color dot CD 0 up 15 lctrl 0.413578342967
+mapa SNARC color dot CD 0 up 15 lctrl 0.391582647466
+mapa SNARC color dot CD 0 up 15 lctrl 0.402881952763
+mapa SNARC color dot CD 0 down 30 num_decimal 0.348465685038
+mapa SNARC color dot CD 0 down 30 num_decimal 0.456119076196
+mapa SNARC color dot CD 0 down 20 num_decimal 0.391230145382
+mapa SNARC color dot CD 0 up 10 lctrl 0.546129676084
+mapa SNARC color dot CD 0 down 10 num_decimal 0.574703134913
+mapa SNARC color dot CD 0 up 20 lctrl 0.553302907272
+mapa SNARC color dot CD 0 down 35 num_decimal 0.460944569048
+mapa SNARC color dot CD 0 up 15 lctrl 0.452558681049
+mapa SNARC color dot CD 0 down 5 num_decimal 0.461374336108
+mapa SNARC color dot CD 0 down 45 num_decimal 0.452642772652
+mapa SNARC color dot CD 0 down 15 num_decimal 0.39699212704
+mapa SNARC color dot CD 0 up 15 lctrl 0.488260377402
+mapa SNARC color dot CD 0 up 40 lctrl 0.549432521297
+mapa SNARC color dot CD 0 up 40 lctrl 0.753089047736
+mapa SNARC color dot CD 0 down 35 num_decimal 1.38060760685
+mapa SNARC color dot CD 0 up 20 lctrl 0.479129766692
+mapa SNARC color dot CD 0 down 35 num_decimal 0.573741511715
+mapa SNARC color dot CD 0 down 20 num_decimal 0.465163423192
+mapa SNARC color dot CD 0 up 15 lctrl 0.744828831692
+mapa SNARC color dot CD 0 down 5 num_decimal 0.5503960063
+mapa SNARC color dot CD 0 down 45 num_decimal 0.417154563474
+mapa SNARC color dot CD 0 down 5 num_decimal 0.514951239282
+mapa SNARC color dot CD 0 up 15 lctrl 0.512469140551
+mapa SNARC color dot CD 0 up 45 lctrl 0.485111131246
+mapa SNARC color dot CD 0 down 15 num_decimal 0.54793500805
+mapa SNARC color dot CD 0 down 20 num_decimal 0.775095603778
+mapa SNARC color dot CD 0 up 40 lctrl 0.561681037747
+mapa SNARC color dot CD 0 down 45 num_decimal 1.42108856118
+mapa SNARC color dot CD 0 down 40 num_decimal 0.46245449434
+mapa SNARC color dot CD 0 up 20 lctrl 0.782169538608
+mapa SNARC color dot CD 0 down 25 num_decimal 1.60804840449
+mapa SNARC color dot CD 0 up 35 lctrl 0.424676262832
+mapa SNARC color dot CD 0 up 5 lctrl 0.506265910692
+mapa SNARC color dot CD 0 up 15 lctrl 0.40086282332
+mapa SNARC color dot CD 0 down 30 num_decimal 0.546294756285
+mapa SNARC color dot CD 0 up 20 lctrl 0.478223687398
+mapa SNARC color dot CD 0 up 30 num_decimal 1.36548352984
+mapa SNARC color dot CD 0 down 15 num_decimal 0.705167072334
+mapa SNARC color dot CD 0 up 40 lctrl 0.37513017132
+mapa SNARC color dot CD 0 up 30 lctrl 0.378380885948
+mapa SNARC color dot CD 0 up 10 lctrl 0.413658400659
+mapa SNARC color dot CD 0 down 35 num_decimal 0.543388786216
+mapa SNARC color dot CD 0 down 5 num_decimal 0.804352035389
+mapa SNARC color dot CD 0 up 15 lctrl 0.558664600474
+mapa SNARC color dot CD 0 up 20 lctrl 0.37837902414
+mapa SNARC color dot CD 0 up 20 lctrl 0.80520474289
+mapa SNARC color dot CD 0 down 45 num_decimal 0.517599349114
+mapa SNARC color dot CD 0 down 45 num_decimal 0.434039909691
+mapa SNARC color dot CD 0 up 45 lctrl 0.537878458774
+mapa SNARC color dot CD 0 up 40 lctrl 0.398127518871
+mapa SNARC color dot CD 0 up 5 lctrl 0.616708908994
+mapa SNARC color dot CD 0 up 5 lctrl 0.386269361239
+mapa SNARC color dot CD 0 down 25 num_decimal 0.524700590442
+mapa SNARC color dot CD 0 down 20 num_decimal 0.457419548227
+mapa SNARC color dot CD 0 down 40 num_decimal 0.473117992624
+mapa SNARC color dot CD 0 down 20 num_decimal 0.392416736897
+mapa SNARC color dot CD 0 down 15 num_decimal 0.39569941254
+mapa SNARC color dot CD 0 up 20 lctrl 0.477919902591
+mapa SNARC color dot CD 0 up 40 lctrl 0.557179809573
+mapa SNARC color dot CD 0 up 5 lctrl 0.593407466342
+mapa SNARC color dot CD 0 up 10 lctrl 0.484915020934
+mapa SNARC color dot CD 0 down 20 num_decimal 0.586639178124
+mapa SNARC color dot CD 0 down 25 lctrl 0.941109500305
+mapa SNARC color dot CD 0 down 35 num_decimal 0.665545031519
+mapa SNARC color dot CD 0 down 5 num_decimal 0.457115453119
+mapa SNARC color dot CD 0 down 45 num_decimal 0.351658373351
+mapa SNARC color dot CD 0 up 25 lctrl 0.627043177785
+mapa SNARC color dot CD 0 up 15 num_decimal 0.71695789462
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'CD', 'dateStr': '12_09_1234', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'mapa', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+mapa SNARC color arabic CD 0 up 5 lctrl 0.736697080316
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.41353490081
+mapa SNARC color arabic CD 0 down 8 num_decimal 1.17630844677
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.508257423335
+mapa SNARC color arabic CD 0 up 6 lctrl 0.626944502023
+mapa SNARC color arabic CD 0 up 4 lctrl 0.420840320279
+mapa SNARC color arabic CD 0 up 3 lctrl 0.590819244626
+mapa SNARC color arabic CD 0 up 5 lctrl 0.458109347637
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.594784272449
+mapa SNARC color arabic CD 0 up 1 lctrl 0.445654170635
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.606876707432
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.336772917912
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.389831618195
+mapa SNARC color arabic CD 0 up 1 lctrl 0.480641243488
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.424518629861
+mapa SNARC color arabic CD 0 up 5 lctrl 0.466496476842
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.434433681821
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.426978697207
+mapa SNARC color arabic CD 0 up 2 lctrl 0.429068575308
+mapa SNARC color arabic CD 0 up 8 lctrl 0.495097862771
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.42998768725
+mapa SNARC color arabic CD 0 up 4 lctrl 0.455747025142
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.432451478213
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.449186638682
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.33799333225
+mapa SNARC color arabic CD 0 up 9 lctrl 0.478992303291
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.422799561609
+mapa SNARC color arabic CD 0 up 3 lctrl 0.456647208717
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.489344879847
+mapa SNARC color arabic CD 0 up 7 num_decimal 0.42423563523
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.490073156594
+mapa SNARC color arabic CD 0 up 2 lctrl 0.528585560569
+mapa SNARC color arabic CD 0 up 5 lctrl 0.422524014204
+mapa SNARC color arabic CD 0 up 1 lctrl 0.392220316284
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.482925059794
+mapa SNARC color arabic CD 0 up 8 lctrl 0.497627437569
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.472289178313
+mapa SNARC color arabic CD 0 up 1 lctrl 0.447959708017
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.511625431784
+mapa SNARC color arabic CD 0 up 5 lctrl 0.406330949809
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.368520757282
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.508321965968
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.403009796828
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.420980886691
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.358731687578
+mapa SNARC color arabic CD 0 up 9 lctrl 0.498785171083
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.433314425649
+mapa SNARC color arabic CD 0 up 4 lctrl 0.474128333099
+mapa SNARC color arabic CD 0 up 4 lctrl 0.497941152011
+mapa SNARC color arabic CD 0 up 6 lctrl 0.432638589795
+mapa SNARC color arabic CD 0 up 9 lctrl 0.809895254752
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.571583367364
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.927440114985
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.308793685741
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.338558700907
+mapa SNARC color arabic CD 0 up 4 lctrl 0.703961552452
+mapa SNARC color arabic CD 0 up 1 lctrl 0.565834108053
+mapa SNARC color arabic CD 0 up 7 lctrl 0.537379494559
+mapa SNARC color arabic CD 0 up 7 lctrl 0.502199104099
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.516574734786
+mapa SNARC color arabic CD 0 up 5 lctrl 0.626386270294
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.412071830986
+mapa SNARC color arabic CD 0 up 8 lctrl 0.454651662159
+mapa SNARC color arabic CD 0 up 1 lctrl 0.527338460335
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.453249721661
+mapa SNARC color arabic CD 0 up 9 lctrl 0.469832834577
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.453674213604
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.446265153554
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.351292838623
+mapa SNARC color arabic CD 0 up 6 lctrl 0.443225443702
+mapa SNARC color arabic CD 0 up 9 lctrl 0.420154554788
+mapa SNARC color arabic CD 0 up 7 lctrl 0.429587709095
+mapa SNARC color arabic CD 0 up 4 lctrl 0.463243590108
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.51202354813
+mapa SNARC color arabic CD 0 up 1 lctrl 0.397870279234
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.407824429141
+mapa SNARC color arabic CD 0 up 1 lctrl 0.417598604392
+mapa SNARC color arabic CD 0 up 7 lctrl 0.411434472469
+mapa SNARC color arabic CD 0 up 6 lctrl 0.366190085508
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.466197656853
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.386145240787
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.357013860532
+mapa SNARC color arabic CD 0 up 7 lctrl 0.448809002206
+mapa SNARC color arabic CD 0 up 3 lctrl 0.465576433995
+mapa SNARC color arabic CD 0 up 4 lctrl 0.305418850672
+mapa SNARC color arabic CD 0 up 6 lctrl 0.392087817701
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.323148215957
+mapa SNARC color arabic CD 0 up 8 lctrl 0.489145666521
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.503822909905
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.541764359805
+mapa SNARC color arabic CD 0 up 9 lctrl 0.514577326423
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.464140980974
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.543809554547
+mapa SNARC color arabic CD 0 up 6 lctrl 0.54911229053
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.449650538871
+mapa SNARC color arabic CD 0 up 5 lctrl 0.521982042254
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.543542074971
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.468952510277
+mapa SNARC color arabic CD 0 up 8 num_decimal 0.516952371261
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.474704872595
+mapa SNARC color arabic CD 0 up 9 lctrl 0.474429635498
+mapa SNARC color arabic CD 0 up 4 lctrl 0.458167994548
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.466905143428
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.562713099298
+mapa SNARC color arabic CD 0 up 8 lctrl 0.487431563088
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.574107046443
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.537600739259
+mapa SNARC color arabic CD 0 up 5 lctrl 0.518966225583
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.781046558823
+mapa SNARC color arabic CD 0 up 3 lctrl 0.480469646962
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.440303958574
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.297207351901
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.383952032407
+mapa SNARC color arabic CD 0 up 9 lctrl 0.466678623601
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.986350784257
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.501900594412
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.428571783199
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.366588201854
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.38640465253
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.333269618168
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.362151206016
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.382868460871
+mapa SNARC color arabic CD 0 up 2 lctrl 0.377830411744
+mapa SNARC color arabic CD 0 up 4 lctrl 0.43766888139
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.431200344061
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.424281870099
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.410140827062
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.388835241269
+mapa SNARC color arabic CD 0 up 6 lctrl 0.335778092493
+mapa SNARC color arabic CD 0 up 6 lctrl 0.389047487246
+mapa SNARC color arabic CD 0 up 5 lctrl 0.320137984705
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.406156560573
+mapa SNARC color arabic CD 0 up 5 lctrl 0.344841678158
+mapa SNARC color arabic CD 0 up 7 lctrl 0.349883140596
+mapa SNARC color arabic CD 0 up 4 lctrl 0.313826459751
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.928743379725
+mapa SNARC color arabic CD 0 up 2 lctrl 0.686061831842
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.484872199377
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.556360614595
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.448844376537
+mapa SNARC color arabic CD 0 up 9 lctrl 0.465114705916
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.720930679967
+mapa SNARC color arabic CD 0 up 4 lctrl 0.430293644164
+mapa SNARC color arabic CD 0 up 1 lctrl 0.336031608516
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.372668862772
+mapa SNARC color arabic CD 0 up 5 lctrl 0.408671861518
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.419434035564
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.469365210774
+mapa SNARC color arabic CD 0 up 1 lctrl 0.452979449379
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.468962750212
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.39662100689
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.519618788858
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.333345641942
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.402302310253
+mapa SNARC color arabic CD 0 up 8 lctrl 0.461050692033
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.540738814576
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.481425684742
+mapa SNARC color arabic CD 0 up 4 lctrl 0.680776783021
+mapa SNARC color arabic CD 0 up 6 lctrl 0.407798363845
+mapa SNARC color arabic CD 0 up 3 lctrl 0.458387377446
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.507025838157
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.34497107373
+mapa SNARC color arabic CD 0 up 4 lctrl 0.509490249715
+mapa SNARC color arabic CD 0 up 6 lctrl 0.476331471113
+mapa SNARC color arabic CD 0 up 8 lctrl 0.38016604834
+mapa SNARC color arabic CD 0 up 2 lctrl 0.351890478596
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.427892844335
+mapa SNARC color arabic CD 0 up 2 lctrl 0.429915076787
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.49583389705
+mapa SNARC color arabic CD 0 up 4 lctrl 0.654697524664
+mapa SNARC color arabic CD 0 up 4 lctrl 0.439524482139
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.440816886337
+mapa SNARC color arabic CD 0 up 9 lctrl 0.378166157567
+mapa SNARC color arabic CD 0 up 5 lctrl 0.309947075042
+mapa SNARC color arabic CD 0 up 5 lctrl 0.379667704728
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.351695609486
+mapa SNARC color arabic CD 0 up 7 lctrl 0.300313155902
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.44257132892
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.43547567301
+mapa SNARC color arabic CD 0 up 7 lctrl 0.428303372726
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.453996926775
+mapa SNARC color arabic CD 0 up 6 lctrl 0.349656000169
+mapa SNARC color arabic CD 0 up 5 lctrl 0.385790566597
+mapa SNARC color arabic CD 0 up 8 lctrl 0.373102974048
+mapa SNARC color arabic CD 0 down 2 lctrl 0.297008138579
+mapa SNARC color arabic CD 0 up 9 lctrl 0.488259136197
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.446809732039
+mapa SNARC color arabic CD 0 up 2 lctrl 0.824145834082
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.441885563425
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.482575971026
+mapa SNARC color arabic CD 0 up 3 lctrl 0.505193509991
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.455936619135
+mapa SNARC color arabic CD 0 up 3 lctrl 0.527607491415
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.477507512391
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.413051451651
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.358919109458
+mapa SNARC color arabic CD 0 up 2 lctrl 0.522662222327
+mapa SNARC color arabic CD 0 up 2 lctrl 0.624494984913
+mapa SNARC color arabic CD 0 up 2 lctrl 0.442149009086
+mapa SNARC color arabic CD 0 up 7 lctrl 0.418795746144
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.460569414983
+mapa SNARC color arabic CD 0 up 2 lctrl 0.53335550952
+mapa SNARC color arabic CD 0 up 8 lctrl 0.585921451613
+mapa SNARC color arabic CD 0 up 1 lctrl 0.32461997421
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.586418864321
+mapa SNARC color arabic CD 0 up 9 lctrl 0.501133840324
+mapa SNARC color arabic CD 0 up 8 num_decimal 0.434742121142
+mapa SNARC color arabic CD 0 down 3 lctrl 0.420060533543
+mapa SNARC color arabic CD 0 up 3 lctrl 0.669959065075
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.693642488419
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.501042922093
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.418937243456
+mapa SNARC color arabic CD 0 up 1 lctrl 0.444539258679
+mapa SNARC color arabic CD 0 up 9 lctrl 0.42132190763
+mapa SNARC color arabic CD 0 up 5 lctrl 0.447158820807
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.480588181992
+mapa SNARC color arabic CD 0 up 4 lctrl 0.472652540931
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.576538876387
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.452062509543
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.260820200358
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.31655710968
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.346682384454
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.311907247269
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.309996412918
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.30874838178
+mapa SNARC color arabic CD 0 up 8 lctrl 0.57097207414
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.438561617735
+mapa SNARC color arabic CD 0 up 3 lctrl 0.735992076148
+mapa SNARC color arabic CD 0 up 7 lctrl 0.940968623592
+mapa SNARC color arabic CD 0 up 3 lctrl 0.410169064467
+mapa SNARC color arabic CD 0 down 4 num_decimal 1.4767689957
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.452712590406
+mapa SNARC color arabic CD 0 up 6 lctrl 0.757392614087
+mapa SNARC color arabic CD 0 up 4 lctrl 0.450046172809
+mapa SNARC color arabic CD 0 up 8 lctrl 0.345861017366
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.430897490161
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.535521411399
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.333001828294
+mapa SNARC color arabic CD 0 up 9 lctrl 0.378217357254
+mapa SNARC color arabic CD 0 up 5 lctrl 0.269970980637
+mapa SNARC color arabic CD 0 up 9 lctrl 0.277964648012
+mapa SNARC color arabic CD 0 up 6 lctrl 0.397724748003
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.383520403539
+mapa SNARC color arabic CD 0 up 7 lctrl 0.306303829489
+mapa SNARC color arabic CD 0 up 6 lctrl 0.408951753139
+mapa SNARC color arabic CD 0 up 6 lctrl 0.315202024653
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.513129151055
+mapa SNARC color arabic CD 0 up 7 lctrl 0.50359918279
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.398430993373
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.505045496353
+mapa SNARC color arabic CD 0 up 1 lctrl 0.415023725625
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.400627925363
+mapa SNARC color arabic CD 0 up 3 lctrl 0.371042264258
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.310913663056
+mapa SNARC color arabic CD 0 up 5 lctrl 0.428830264042
+mapa SNARC color arabic CD 0 up 3 lctrl 0.55868756276
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.491422966505
+mapa SNARC color arabic CD 0 up 8 lctrl 0.314131796062
+mapa SNARC color arabic CD 0 up 9 lctrl 0.296713973108
+mapa SNARC color arabic CD 0 up 6 lctrl 0.391760760311
+mapa SNARC color arabic CD 0 up 7 lctrl 0.362631241864
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.391287240789
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.578229086634
+mapa SNARC color arabic CD 0 up 7 lctrl 0.461857474969
+mapa SNARC color arabic CD 0 up 8 lctrl 0.973283072824
+mapa SNARC color arabic CD 0 up 6 lctrl 0.297284616885
+mapa SNARC color arabic CD 0 up 3 lctrl 0.264442035128
+mapa SNARC color arabic CD 0 up 6 lctrl 0.296458284978
+mapa SNARC color arabic CD 0 down 8 lctrl 0.215830880919
+mapa SNARC color arabic CD 0 up 6 lctrl 0.545256799007
+mapa SNARC color arabic CD 0 up 2 lctrl 0.438032864611
+mapa SNARC color arabic CD 0 up 4 lctrl 0.35878164606
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.387371240548
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.350477367254
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.331061205034
+mapa SNARC color arabic CD 0 up 4 lctrl 0.376191401185
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.308134606144
+mapa SNARC color arabic CD 0 up 5 lctrl 0.394738720242
+mapa SNARC color arabic CD 0 up 1 lctrl 0.453839604106
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.446497258799
+mapa SNARC color arabic CD 0 down 3 lctrl 0.615457774842
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.537154215937
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.357820643465
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.337861764572
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.406789574878
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.305369512789
+mapa SNARC color arabic CD 0 up 6 lctrl 0.448032008182
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.400214293961
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.370683866451
+mapa SNARC color arabic CD 0 up 3 lctrl 0.478614666816
+mapa SNARC color arabic CD 0 up 2 lctrl 0.358427592473
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.443088290598
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.46809111434
+mapa SNARC color arabic CD 0 up 4 lctrl 0.563645243892
+mapa SNARC color arabic CD 0 up 1 lctrl 0.416342505421
+mapa SNARC color arabic CD 0 up 5 num_decimal 0.418185383824
+mapa SNARC color arabic CD 0 up 5 lctrl 0.420234302179
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.533828408439
+mapa SNARC color arabic CD 0 up 9 lctrl 0.434498224458
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.803423304111
+mapa SNARC color arabic CD 0 up 4 lctrl 0.645916313028
+mapa SNARC color arabic CD 0 up 7 lctrl 0.495120204454
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.406173937434
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.544899952711
+mapa SNARC color arabic CD 0 up 3 lctrl 1.78160261844
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.425005182027
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.578907094601
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.41453282924
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.496218049844
+mapa SNARC color arabic CD 0 up 3 lctrl 0.470720295805
+mapa SNARC color arabic CD 0 down 5 lctrl 0.518587968509
+mapa SNARC color arabic CD 0 up 6 lctrl 0.492326563392
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.339000569711
+mapa SNARC color arabic CD 0 up 5 lctrl 0.455981302493
+mapa SNARC color arabic CD 0 up 3 num_decimal 0.231834041027
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.480678789925
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.488266893724
+mapa SNARC color arabic CD 0 up 9 lctrl 0.47866741801
+mapa SNARC color arabic CD 0 up 2 lctrl 0.334462105406
+mapa SNARC color arabic CD 0 up 7 lctrl 0.347465894803
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.488480691201
+mapa SNARC color arabic CD 0 up 7 lctrl 0.327753705304
+mapa SNARC color arabic CD 0 up 2 lctrl 0.356924804109
+mapa SNARC color arabic CD 0 up 7 lctrl 0.376913782209
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.692939035758
+mapa SNARC color arabic CD 0 up 1 lctrl 0.460100239674
+mapa SNARC color arabic CD 0 up 5 lctrl 0.628969216887
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.550837564806
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.443481442129
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.468393657942
+mapa SNARC color arabic CD 0 down 3 num_decimal 0.404036583262
+mapa SNARC color arabic CD 0 up 3 lctrl 0.653919910037
+mapa SNARC color arabic CD 0 down 9 lctrl 0.270368476384
+mapa SNARC color arabic CD 0 up 3 lctrl 0.462304929195
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.415138226741
+mapa SNARC color arabic CD 0 up 9 lctrl 0.704854909396
+mapa SNARC color arabic CD 0 down 9 num_decimal 0.743603762836
+mapa SNARC color arabic CD 0 up 7 lctrl 0.476935317107
+mapa SNARC color arabic CD 0 up 4 lctrl 0.356743588247
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.449400125857
+mapa SNARC color arabic CD 0 up 1 lctrl 0.554179507959
+mapa SNARC color arabic CD 0 down 5 num_decimal 0.45408350079
+mapa SNARC color arabic CD 0 up 3 lctrl 0.413683845349
+mapa SNARC color arabic CD 0 up 7 lctrl 0.368414013694
+mapa SNARC color arabic CD 0 up 3 lctrl 0.348177725591
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.352871650764
+mapa SNARC color arabic CD 0 down 4 num_decimal 0.3411410269
+mapa SNARC color arabic CD 0 up 8 lctrl 0.433997088134
+mapa SNARC color arabic CD 0 up 6 lctrl 0.514746130237
+mapa SNARC color arabic CD 0 down 6 num_decimal 0.640555550726
+mapa SNARC color arabic CD 0 down 8 num_decimal 0.329711395127
+mapa SNARC color arabic CD 0 up 9 lctrl 0.526849115453
+mapa SNARC color arabic CD 0 down 1 num_decimal 0.46793658438
+mapa SNARC color arabic CD 0 up 5 lctrl 0.827691334776
+mapa SNARC color arabic CD 0 up 8 lctrl 0.661899303559
+mapa SNARC color arabic CD 0 up 8 lctrl 0.389877853064
+mapa SNARC color arabic CD 0 down 7 num_decimal 0.520806621578
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.41439877915
+mapa SNARC color arabic CD 0 up 1 lctrl 0.447946365071
+mapa SNARC color arabic CD 0 down 2 num_decimal 0.727796713043
+{'participant': u'mapa', 'interactive_setting': False, 'response_buttons': 'DC', 'range_in_instr': True, 'dateStr': '12_09_1241', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+mapa SNARC_only DC 3 lctrl 1.51669823463
+mapa SNARC_only DC 7 lctrl 0.642526273197
+mapa SNARC_only DC 8 num_decimal 0.555131201523
+mapa SNARC_only DC 9 lctrl 0.759859818361
+mapa SNARC_only DC 2 num_decimal 0.572515511951
+mapa SNARC_only DC 2 num_decimal 0.495770905916
+mapa SNARC_only DC 4 num_decimal 0.367128436119
+mapa SNARC_only DC 9 lctrl 0.578537525955
+mapa SNARC_only DC 9 lctrl 0.51032433915
+mapa SNARC_only DC 4 num_decimal 0.492789222371
+mapa SNARC_only DC 4 num_decimal 0.452177631258
+mapa SNARC_only DC 7 lctrl 0.580304690884
+mapa SNARC_only DC 9 lctrl 0.623844904047
+mapa SNARC_only DC 2 num_decimal 0.457375485468
+mapa SNARC_only DC 8 num_decimal 0.690029962676
+mapa SNARC_only DC 2 num_decimal 0.392791890961
+mapa SNARC_only DC 3 lctrl 0.531539006715
+mapa SNARC_only DC 8 lctrl 0.624104005488
+mapa SNARC_only DC 3 lctrl 0.841832377813
+mapa SNARC_only DC 6 num_decimal 0.627206085872
+mapa SNARC_only DC 7 lctrl 0.580722045903
+mapa SNARC_only DC 1 num_decimal 0.4807818099
+mapa SNARC_only DC 7 lctrl 0.872641556274
+mapa SNARC_only DC 9 lctrl 0.664607611809
+mapa SNARC_only DC 6 num_decimal 0.472179642009
+mapa SNARC_only DC 6 num_decimal 0.41599589906
+mapa SNARC_only DC 2 num_decimal 0.505807906222
+mapa SNARC_only DC 9 lctrl 0.632450174948
+mapa SNARC_only DC 8 lctrl 0.537172834007
+mapa SNARC_only DC 4 num_decimal 0.677992450994
+mapa SNARC_only DC 4 num_decimal 0.366091720047
+mapa SNARC_only DC 5 lctrl 0.697466949827
+mapa SNARC_only DC 3 lctrl 0.648200439635
+mapa SNARC_only DC 3 lctrl 0.440822161458
+mapa SNARC_only DC 3 lctrl 0.386172236984
+mapa SNARC_only DC 6 num_decimal 0.789577978056
+mapa SNARC_only DC 7 lctrl 0.576819698908
+mapa SNARC_only DC 7 lctrl 0.404868500587
+mapa SNARC_only DC 1 lctrl 0.591142268102
+mapa SNARC_only DC 9 lctrl 0.681788675003
+mapa SNARC_only DC 2 num_decimal 0.529206473129
+mapa SNARC_only DC 4 num_decimal 0.606927596818
+mapa SNARC_only DC 4 num_decimal 0.441556644229
+mapa SNARC_only DC 3 lctrl 0.610453548543
+mapa SNARC_only DC 6 lctrl 0.581136918514
+mapa SNARC_only DC 4 num_decimal 1.51168811261
+mapa SNARC_only DC 2 num_decimal 0.550486924531
+mapa SNARC_only DC 7 lctrl 0.739043267149
+mapa SNARC_only DC 2 num_decimal 0.535614501736
+mapa SNARC_only DC 8 num_decimal 0.476268169681
+mapa SNARC_only DC 1 lctrl 0.788023369398
+mapa SNARC_only DC 1 lctrl 0.839454540263
+mapa SNARC_only DC 7 lctrl 0.519954844982
+mapa SNARC_only DC 5 lctrl 0.605772035415
+mapa SNARC_only DC 7 lctrl 0.648269947087
+mapa SNARC_only DC 7 lctrl 0.424862133212
+mapa SNARC_only DC 1 num_decimal 0.498829233842
+mapa SNARC_only DC 8 num_decimal 0.833490862871
+mapa SNARC_only DC 6 num_decimal 0.505884550603
+mapa SNARC_only DC 2 num_decimal 0.416565301632
+mapa SNARC_only DC 7 lctrl 0.394529266981
+mapa SNARC_only DC 9 lctrl 0.453501996475
+mapa SNARC_only DC 3 lctrl 0.518089004294
+mapa SNARC_only DC 1 lctrl 0.699900641575
+mapa SNARC_only DC 1 lctrl 0.450431877111
+mapa SNARC_only DC 8 num_decimal 0.507112412171
+mapa SNARC_only DC 1 lctrl 0.497023901877
+mapa SNARC_only DC 2 num_decimal 0.463816095693
+mapa SNARC_only DC 2 num_decimal 0.512624291117
+mapa SNARC_only DC 9 lctrl 0.583186457465
+mapa SNARC_only DC 2 num_decimal 0.56196217057
+mapa SNARC_only DC 5 lctrl 0.630582782756
+mapa SNARC_only DC 7 lctrl 0.560299577122
+mapa SNARC_only DC 4 num_decimal 0.660963435355
+mapa SNARC_only DC 4 num_decimal 0.421549978961
+mapa SNARC_only DC 3 lctrl 0.687433983436
+mapa SNARC_only DC 6 num_decimal 0.654089955056
+mapa SNARC_only DC 3 lctrl 0.741679275234
+mapa SNARC_only DC 9 num_decimal 0.603222911643
+mapa SNARC_only DC 2 num_decimal 0.501729618489
+mapa SNARC_only DC 3 lctrl 0.732505842971
+mapa SNARC_only DC 5 lctrl 0.944786258377
+mapa SNARC_only DC 6 lctrl 0.478152938736
+mapa SNARC_only DC 3 lctrl 0.485815204509
+mapa SNARC_only DC 5 lctrl 1.16459209675
+mapa SNARC_only DC 4 num_decimal 0.59941924041
+mapa SNARC_only DC 4 num_decimal 0.41001515511
+mapa SNARC_only DC 4 num_decimal 0.348015127798
+mapa SNARC_only DC 8 num_decimal 0.568656917418
+mapa SNARC_only DC 9 lctrl 0.564015122836
+mapa SNARC_only DC 8 num_decimal 0.783792103208
+mapa SNARC_only DC 2 num_decimal 0.763123875931
+mapa SNARC_only DC 2 num_decimal 0.374925993183
+mapa SNARC_only DC 2 num_decimal 0.426881883253
+mapa SNARC_only DC 5 lctrl 0.6199825859
+mapa SNARC_only DC 6 num_decimal 0.885495780523
+mapa SNARC_only DC 4 num_decimal 0.540862624726
+mapa SNARC_only DC 1 lctrl 0.673601690025
+mapa SNARC_only DC 9 lctrl 0.825347940656
+mapa SNARC_only DC 2 num_decimal 0.602442504303
+mapa SNARC_only DC 6 num_decimal 0.764955893796
+mapa SNARC_only DC 8 num_decimal 0.552431271401
+mapa SNARC_only DC 2 num_decimal 0.549125012876
+mapa SNARC_only DC 3 num_decimal 1.09691852361
+mapa SNARC_only DC 6 num_decimal 0.58411674025
+mapa SNARC_only DC 7 lctrl 0.506575280917
+mapa SNARC_only DC 5 lctrl 0.745285284651
+mapa SNARC_only DC 9 lctrl 0.397792083346
+mapa SNARC_only DC 4 num_decimal 1.17571732312
+mapa SNARC_only DC 2 num_decimal 0.394915591885
+mapa SNARC_only DC 8 num_decimal 0.509739111225
+mapa SNARC_only DC 3 lctrl 0.860399866448
+mapa SNARC_only DC 5 lctrl 0.82888816623
+mapa SNARC_only DC 9 num_decimal 0.854256524701
+mapa SNARC_only DC 6 num_decimal 0.566635305568
+mapa SNARC_only DC 7 lctrl 1.15458178235
+mapa SNARC_only DC 4 num_decimal 0.542339037496
+mapa SNARC_only DC 9 lctrl 0.707022362782
+mapa SNARC_only DC 3 lctrl 0.769558280135
+mapa SNARC_only DC 3 lctrl 0.548973896228
+mapa SNARC_only DC 7 lctrl 0.488803714677
+mapa SNARC_only DC 2 num_decimal 0.376160991673
+mapa SNARC_only DC 5 lctrl 0.724164948631
+mapa SNARC_only DC 1 lctrl 0.649529149068
+mapa SNARC_only DC 2 lctrl 0.914128196564
+mapa SNARC_only DC 5 lctrl 0.712151950742
+mapa SNARC_only DC 6 num_decimal 0.926861403379
+mapa SNARC_only DC 8 num_decimal 0.476205799157
+mapa SNARC_only DC 1 lctrl 0.627784176875
+mapa SNARC_only DC 4 num_decimal 0.701700698428
+mapa SNARC_only DC 5 lctrl 0.580299415764
+mapa SNARC_only DC 7 lctrl 0.703812918211
+mapa SNARC_only DC 2 num_decimal 0.646151521283
+mapa SNARC_only DC 6 num_decimal 0.814617727629
+mapa SNARC_only DC 1 lctrl 0.872037089674
+mapa SNARC_only DC 6 num_decimal 0.759456426895
+mapa SNARC_only DC 4 num_decimal 0.716011476175
+mapa SNARC_only DC 7 lctrl 0.99364068867
+mapa SNARC_only DC 5 lctrl 1.12473577859
+mapa SNARC_only DC 6 num_decimal 1.37080550449
+mapa SNARC_only DC 6 num_decimal 0.526829566483
+mapa SNARC_only DC 8 num_decimal 0.588131726556
+mapa SNARC_only DC 9 lctrl 0.758793623685
+mapa SNARC_only DC 4 num_decimal 1.16331520761
+mapa SNARC_only DC 2 num_decimal 0.919545743971
+mapa SNARC_only DC 5 lctrl 1.18077305941
+mapa SNARC_only DC 3 lctrl 1.58466224963
+mapa SNARC_only DC 7 lctrl 0.795347717238
+mapa SNARC_only DC 3 lctrl 0.901958496601
+mapa SNARC_only DC 4 lctrl 0.435894889837
+mapa SNARC_only DC 4 num_decimal 0.612787633632
+mapa SNARC_only DC 3 lctrl 0.631422147308
+mapa SNARC_only DC 6 num_decimal 0.624007191538
+mapa SNARC_only DC 8 num_decimal 0.665677530102
+mapa SNARC_only DC 7 lctrl 3.11311531162
+mapa SNARC_only DC 9 lctrl 0.463057719731
+mapa SNARC_only DC 1 lctrl 0.566280010775
+mapa SNARC_only DC 6 num_decimal 0.970435439369
+mapa SNARC_only DC 5 lctrl 0.637103450674
+mapa SNARC_only DC 4 num_decimal 0.630076681617
+mapa SNARC_only DC 8 num_decimal 0.551747988316
+mapa SNARC_only DC 6 num_decimal 0.476262894565
+mapa SNARC_only DC 4 num_decimal 0.907909761947
+mapa SNARC_only DC 6 num_decimal 0.634337426414
+mapa SNARC_only DC 4 num_decimal 0.786910939853
+mapa SNARC_only DC 5 lctrl 0.517416271447
+mapa SNARC_only DC 5 lctrl 0.547185941126
+mapa SNARC_only DC 8 num_decimal 0.600007881651
+mapa SNARC_only DC 7 lctrl 0.841381820574
+mapa SNARC_only DC 3 lctrl 1.09081303861
+mapa SNARC_only DC 1 lctrl 0.426007144375
+mapa SNARC_only DC 1 lctrl 0.443993128694
+mapa SNARC_only DC 9 lctrl 0.725316165819
+mapa SNARC_only DC 5 lctrl 0.530923058974
+mapa SNARC_only DC 7 lctrl 0.511779651446
+mapa SNARC_only DC 2 num_decimal 0.734482461157
+mapa SNARC_only DC 7 lctrl 0.555753665587
+mapa SNARC_only DC 3 lctrl 0.816413129956
+mapa SNARC_only DC 3 lctrl 0.673945813978
+mapa SNARC_only DC 5 lctrl 0.513517337764
+mapa SNARC_only DC 1 lctrl 0.52826036499
+mapa SNARC_only DC 7 lctrl 0.549699069968
+mapa SNARC_only DC 9 lctrl 0.586300949893
+mapa SNARC_only DC 8 lctrl 0.45289784018
+mapa SNARC_only DC 3 lctrl 0.580885574596
+mapa SNARC_only DC 6 num_decimal 2.5042067524
+mapa SNARC_only DC 3 lctrl 3.25426664052
+mapa SNARC_only DC 5 lctrl 0.678117812651
+mapa SNARC_only DC 6 num_decimal 0.685842138642
+mapa SNARC_only DC 2 num_decimal 0.797346987409
+mapa SNARC_only DC 8 num_decimal 0.711962356749
+mapa SNARC_only DC 9 lctrl 0.590279941265
+mapa SNARC_only DC 9 lctrl 0.4651103617
+mapa SNARC_only DC 8 num_decimal 0.680955516473
+mapa SNARC_only DC 6 num_decimal 1.17556093135
+mapa SNARC_only DC 5 lctrl 0.731385966199
+mapa SNARC_only DC 9 lctrl 0.888852618136
+mapa SNARC_only DC 9 lctrl 2.91201163257
+mapa SNARC_only DC 1 lctrl 0.493708644619
+mapa SNARC_only DC 3 lctrl 0.428396463063
+mapa SNARC_only DC 9 lctrl 0.502213067648
+mapa SNARC_only DC 8 num_decimal 0.476847191589
+mapa SNARC_only DC 8 num_decimal 0.44486197185
+mapa SNARC_only DC 1 lctrl 0.574127836619
+mapa SNARC_only DC 7 lctrl 0.433979711273
+mapa SNARC_only DC 1 lctrl 0.466918176076
+mapa SNARC_only DC 8 num_decimal 0.47455747956
+mapa SNARC_only DC 8 num_decimal 0.522292653681
+mapa SNARC_only DC 6 num_decimal 0.552049290716
+mapa SNARC_only DC 5 lctrl 0.692737340025
+mapa SNARC_only DC 9 lctrl 0.54810908698
+mapa SNARC_only DC 5 lctrl 0.535737380982
+mapa SNARC_only DC 1 lctrl 0.533139229632
+mapa SNARC_only DC 6 num_decimal 0.473941531818
+mapa SNARC_only DC 8 num_decimal 0.593650121824
+mapa SNARC_only DC 1 lctrl 0.604508799519
+mapa SNARC_only DC 2 num_decimal 0.471224845442
+mapa SNARC_only DC 7 lctrl 0.455058156636
+mapa SNARC_only DC 2 num_decimal 0.518801455684
+mapa SNARC_only DC 8 lctrl 0.388425333484
+mapa SNARC_only DC 7 lctrl 0.59136754672
+mapa SNARC_only DC 3 lctrl 0.714008482391
+mapa SNARC_only DC 3 lctrl 0.440627602649
+mapa SNARC_only DC 1 lctrl 0.473401297557
+mapa SNARC_only DC 3 lctrl 0.51324427277
+mapa SNARC_only DC 3 lctrl 0.559926905466
+mapa SNARC_only DC 7 lctrl 0.419808569026
+mapa SNARC_only DC 1 lctrl 0.621633387906
+mapa SNARC_only DC 2 num_decimal 0.623230507816
+mapa SNARC_only DC 9 lctrl 0.584836328566
+mapa SNARC_only DC 4 num_decimal 0.827585832394
+mapa SNARC_only DC 6 num_decimal 0.685112930991
+mapa SNARC_only DC 7 lctrl 0.64371534712
+mapa SNARC_only DC 3 lctrl 0.557163984216
+mapa SNARC_only DC 3 lctrl 1.49694260298
+mapa SNARC_only DC 7 lctrl 0.816186920438
+mapa SNARC_only DC 1 lctrl 1.43403649638
+mapa SNARC_only DC 9 lctrl 0.643058129332
+mapa SNARC_only DC 5 lctrl 0.563617937391
+mapa SNARC_only DC 7 lctrl 0.488332056961
+mapa SNARC_only DC 8 num_decimal 0.751046956007
+mapa SNARC_only DC 6 num_decimal 0.691275511406
+mapa SNARC_only DC 9 num_decimal 0.809990517198
+mapa SNARC_only DC 7 lctrl 0.69218593492
+mapa SNARC_only DC 2 num_decimal 0.714910838076
+mapa SNARC_only DC 8 num_decimal 0.640392332334
+mapa SNARC_only DC 4 num_decimal 0.457879104197
+mapa SNARC_only DC 5 lctrl 0.545924567039
+mapa SNARC_only DC 8 num_decimal 0.918524853259
+mapa SNARC_only DC 4 num_decimal 0.443865594931
+mapa SNARC_only DC 6 num_decimal 1.63667492481
+mapa SNARC_only DC 2 num_decimal 0.565423579661
+mapa SNARC_only DC 7 lctrl 0.496800485063
+mapa SNARC_only DC 4 num_decimal 0.456198202985
+mapa SNARC_only DC 1 lctrl 0.616197532734
+mapa SNARC_only DC 2 num_decimal 0.489795747384
+mapa SNARC_only DC 6 lctrl 0.505200026313
+mapa SNARC_only DC 3 lctrl 0.582902531933
+mapa SNARC_only DC 7 lctrl 0.593609782678
+mapa SNARC_only DC 2 num_decimal 0.524960312483
+mapa SNARC_only DC 8 num_decimal 0.458890375579
+mapa SNARC_only DC 1 lctrl 0.706637589381
+mapa SNARC_only DC 5 lctrl 1.13726356606
+mapa SNARC_only DC 1 num_decimal 0.606244624032
+mapa SNARC_only DC 2 num_decimal 1.20890495973
+mapa SNARC_only DC 6 num_decimal 0.459015737229
+mapa SNARC_only DC 3 lctrl 0.586702169254
+mapa SNARC_only DC 8 num_decimal 2.13398089041
+mapa SNARC_only DC 4 num_decimal 0.843232766805
+mapa SNARC_only DC 5 lctrl 0.788559259447
+mapa SNARC_only DC 9 lctrl 0.583807370025
+mapa SNARC_only DC 9 lctrl 0.514796709318
+mapa SNARC_only DC 1 lctrl 1.65619379671
+mapa SNARC_only DC 6 num_decimal 0.536763236512
+mapa SNARC_only DC 8 num_decimal 0.717496887679
+mapa SNARC_only DC 6 lctrl 0.53884256438
+mapa SNARC_only DC 5 lctrl 0.607530511912
+mapa SNARC_only DC 8 num_decimal 0.586227408527
+mapa SNARC_only DC 8 num_decimal 0.444999124953
+mapa SNARC_only DC 7 lctrl 0.533560308264
+mapa SNARC_only DC 9 lctrl 0.626307453804
+mapa SNARC_only DC 5 lctrl 0.596078538456
+mapa SNARC_only DC 7 lctrl 0.470884445098
+mapa SNARC_only DC 1 num_decimal 0.542644684105
+mapa SNARC_only DC 8 num_decimal 0.452025894007
+mapa SNARC_only DC 5 lctrl 0.611914135952
+mapa SNARC_only DC 9 lctrl 0.86244071697
+mapa SNARC_only DC 6 lctrl 0.47842290072
+mapa SNARC_only DC 3 lctrl 1.69418985961
+mapa SNARC_only DC 5 lctrl 0.708585039265
+mapa SNARC_only DC 4 num_decimal 0.683204889352
+mapa SNARC_only DC 9 lctrl 0.841742080182
+mapa SNARC_only DC 8 num_decimal 0.731202267929
+mapa SNARC_only DC 8 num_decimal 0.551665758521
+mapa SNARC_only DC 8 num_decimal 0.508155954863
+mapa SNARC_only DC 5 lctrl 1.31470554285
+mapa SNARC_only DC 6 num_decimal 0.824702824608
+mapa SNARC_only DC 9 lctrl 0.882134598698
+mapa SNARC_only DC 4 num_decimal 1.64948446571
+mapa SNARC_only DC 8 num_decimal 0.850077078801
+mapa SNARC_only DC 1 lctrl 0.770286556886
+mapa SNARC_only DC 4 num_decimal 1.64582818751
+mapa SNARC_only DC 5 lctrl 0.655108983963
+mapa SNARC_only DC 7 lctrl 0.638713603228
+mapa SNARC_only DC 5 lctrl 0.616120267754
+mapa SNARC_only DC 6 num_decimal 0.80956726646
+mapa SNARC_only DC 3 lctrl 0.787802124694
+mapa SNARC_only DC 1 lctrl 0.47126642579
+mapa SNARC_only DC 4 num_decimal 1.03096029511
+mapa SNARC_only DC 2 num_decimal 0.664204530643
+mapa SNARC_only DC 1 lctrl 0.687640643984
+mapa SNARC_only DC 4 num_decimal 0.751018408308
+mapa SNARC_only DC 5 lctrl 0.707260053445
+mapa SNARC_only DC 2 num_decimal 0.865694844906
+mapa SNARC_only DC 4 num_decimal 0.665063133871
+mapa SNARC_only DC 3 lctrl 0.960400300868
+mapa SNARC_only DC 2 num_decimal 0.708690851949
+mapa SNARC_only DC 6 num_decimal 0.987235763074
+mapa SNARC_only DC 9 lctrl 1.41443539468
+mapa SNARC_only DC 6 num_decimal 2.79225463559
+mapa SNARC_only DC 8 num_decimal 0.570883948618
+mapa SNARC_only DC 1 lctrl 0.622529847868
+mapa SNARC_only DC 5 lctrl 1.12001175421
+mapa SNARC_only DC 2 num_decimal 0.574113252464
+mapa SNARC_only DC 9 lctrl 0.945789772228
+mapa SNARC_only DC 4 num_decimal 0.599125074936
+mapa SNARC_only DC 7 lctrl 0.81784082545
+mapa SNARC_only DC 9 lctrl 0.627663469739
+mapa SNARC_only DC 1 lctrl 0.541789183895
+mapa SNARC_only DC 5 lctrl 0.467121423313
+mapa SNARC_only DC 7 lctrl 0.450768864135
+mapa SNARC_only DC 3 lctrl 0.65131927628
+mapa SNARC_only DC 3 lctrl 0.516113006706
+mapa SNARC_only DC 4 num_decimal 0.609781436295
+mapa SNARC_only DC 5 lctrl 0.524407355875
+mapa SNARC_only DC 5 lctrl 0.450281691363
+mapa SNARC_only DC 2 lctrl 0.450594785205
+mapa SNARC_only DC 7 lctrl 0.803425476217
+mapa SNARC_only DC 8 num_decimal 0.773927320028
+mapa SNARC_only DC 6 num_decimal 0.465044267559
+mapa SNARC_only DC 9 lctrl 0.561030956884
+mapa SNARC_only DC 9 lctrl 0.428724141057
+mapa SNARC_only DC 5 lctrl 0.766124487847
+mapa SNARC_only DC 6 lctrl 0.361444340047
+mapa SNARC_only DC 2 num_decimal 0.653461284972
+mapa SNARC_only DC 1 lctrl 0.678092988557
+mapa SNARC_only DC 4 num_decimal 0.509658122628
+mapa SNARC_only DC 1 lctrl 0.700003351252
+mapa SNARC_only DC 4 num_decimal 0.770854718252
+mapa SNARC_only DC 1 lctrl 0.414149607343
+mapa SNARC_only DC 1 lctrl 1.2640218874
+mapa SNARC_only DC 7 lctrl 0.63199403229
+mapa SNARC_only DC 3 lctrl 0.560671317875
+mapa SNARC_only DC 3 lctrl 0.469134657036
+mapa SNARC_only DC 5 lctrl 0.788973511455
+mapa SNARC_only DC 4 num_decimal 1.12857854777
+mapa SNARC_only DC 9 lctrl 1.15772606368
+mapa SNARC_only DC 1 lctrl 0.729864870067
+mapa SNARC_only DC 1 lctrl 0.607905045374
+mapa SNARC_only DC 2 num_decimal 0.857809782923
+{'participant': u'mapa', 'interactive_setting': False, 'response_buttons': 'CD', 'range_in_instr': True, 'dateStr': '12_09_1250', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+mapa SNARC_only CD 7 num_decimal 0.705557431156
+mapa SNARC_only CD 7 num_decimal 0.416329783075
+mapa SNARC_only CD 3 num_decimal 1.00174575415
+mapa SNARC_only CD 8 lctrl 0.6514626354
+mapa SNARC_only CD 8 lctrl 0.58018305284
+mapa SNARC_only CD 9 num_decimal 0.655993652479
+mapa SNARC_only CD 8 lctrl 0.600379622399
+mapa SNARC_only CD 3 num_decimal 4.17907447103
+mapa SNARC_only CD 7 num_decimal 0.591185089659
+mapa SNARC_only CD 1 num_decimal 0.673640477664
+mapa SNARC_only CD 4 lctrl 0.633277127454
+mapa SNARC_only CD 1 num_decimal 1.12184594418
+mapa SNARC_only CD 1 num_decimal 0.392053994878
+mapa SNARC_only CD 7 num_decimal 1.33882742168
+mapa SNARC_only CD 1 num_decimal 0.423709054216
+mapa SNARC_only CD 7 num_decimal 0.377470772735
+mapa SNARC_only CD 2 lctrl 0.517325663517
+mapa SNARC_only CD 3 num_decimal 0.474934185131
+mapa SNARC_only CD 1 num_decimal 0.514513404389
+mapa SNARC_only CD 1 num_decimal 0.408333633291
+mapa SNARC_only CD 1 num_decimal 0.362827662477
+mapa SNARC_only CD 2 lctrl 0.62246003011
+mapa SNARC_only CD 2 lctrl 0.472116340581
+mapa SNARC_only CD 8 num_decimal 0.439986210218
+mapa SNARC_only CD 7 num_decimal 0.768805179297
+mapa SNARC_only CD 4 lctrl 0.748268519703
+mapa SNARC_only CD 8 lctrl 0.432755573322
+mapa SNARC_only CD 3 num_decimal 0.769673091552
+mapa SNARC_only CD 5 num_decimal 1.23714732725
+mapa SNARC_only CD 7 num_decimal 0.494338555909
+mapa SNARC_only CD 5 num_decimal 0.644949725011
+mapa SNARC_only CD 8 lctrl 0.717816187542
+mapa SNARC_only CD 6 lctrl 1.49103136648
+mapa SNARC_only CD 4 lctrl 0.577612518293
+mapa SNARC_only CD 7 num_decimal 0.765323910935
+mapa SNARC_only CD 5 num_decimal 1.23293126581
+mapa SNARC_only CD 5 num_decimal 0.426042829004
+mapa SNARC_only CD 6 lctrl 0.691934280701
+mapa SNARC_only CD 6 lctrl 0.48324063604
+mapa SNARC_only CD 3 num_decimal 1.12207463611
+mapa SNARC_only CD 2 lctrl 0.680098154455
+mapa SNARC_only CD 4 lctrl 0.632183005677
+mapa SNARC_only CD 3 num_decimal 1.04896148418
+mapa SNARC_only CD 1 num_decimal 0.473145609427
+mapa SNARC_only CD 8 lctrl 0.848759540208
+mapa SNARC_only CD 3 num_decimal 1.23318850546
+mapa SNARC_only CD 3 num_decimal 0.346340742912
+mapa SNARC_only CD 9 lctrl 0.718622660173
+mapa SNARC_only CD 2 lctrl 0.748190013517
+mapa SNARC_only CD 1 num_decimal 1.01651050245
+mapa SNARC_only CD 8 lctrl 0.713904531513
+mapa SNARC_only CD 8 lctrl 1.81656703932
+mapa SNARC_only CD 7 num_decimal 0.473815859863
+mapa SNARC_only CD 7 num_decimal 0.529933198373
+mapa SNARC_only CD 5 num_decimal 0.623929305959
+mapa SNARC_only CD 3 num_decimal 0.713723315657
+mapa SNARC_only CD 2 lctrl 0.696034910121
+mapa SNARC_only CD 9 num_decimal 0.526767816562
+mapa SNARC_only CD 7 num_decimal 1.57250620292
+mapa SNARC_only CD 6 lctrl 1.12015852664
+mapa SNARC_only CD 8 lctrl 0.630074819808
+mapa SNARC_only CD 5 num_decimal 1.04004591216
+mapa SNARC_only CD 4 num_decimal 0.361211924497
+mapa SNARC_only CD 6 lctrl 0.621956411382
+mapa SNARC_only CD 5 num_decimal 0.527718579218
+mapa SNARC_only CD 4 lctrl 0.469542703024
+mapa SNARC_only CD 9 num_decimal 0.677312581221
+mapa SNARC_only CD 7 num_decimal 0.532973528832
+mapa SNARC_only CD 2 lctrl 0.633736062824
+mapa SNARC_only CD 1 num_decimal 0.834526337738
+mapa SNARC_only CD 6 lctrl 0.707740399594
+mapa SNARC_only CD 3 num_decimal 3.28245563625
+mapa SNARC_only CD 5 num_decimal 0.529562078224
+mapa SNARC_only CD 4 lctrl 1.31111132487
+mapa SNARC_only CD 9 num_decimal 0.589863206849
+mapa SNARC_only CD 5 num_decimal 0.832835196587
+mapa SNARC_only CD 1 num_decimal 0.626118790718
+mapa SNARC_only CD 8 lctrl 0.691839018258
+mapa SNARC_only CD 6 num_decimal 0.771276417487
+mapa SNARC_only CD 2 lctrl 0.639062071394
+mapa SNARC_only CD 8 lctrl 0.736413775383
+mapa SNARC_only CD 2 lctrl 0.517190992825
+mapa SNARC_only CD 8 lctrl 3.85880367744
+mapa SNARC_only CD 8 lctrl 0.475419185794
+mapa SNARC_only CD 9 num_decimal 0.587241782916
+mapa SNARC_only CD 9 num_decimal 0.669982337662
+mapa SNARC_only CD 9 num_decimal 0.389906711069
+mapa SNARC_only CD 5 num_decimal 0.592821617811
+mapa SNARC_only CD 6 lctrl 0.612149964811
+mapa SNARC_only CD 5 num_decimal 1.20673595484
+mapa SNARC_only CD 7 num_decimal 0.728764542262
+mapa SNARC_only CD 6 lctrl 0.830130922252
+mapa SNARC_only CD 6 lctrl 0.56023379328
+mapa SNARC_only CD 2 lctrl 0.636482538113
+mapa SNARC_only CD 9 num_decimal 0.532752284125
+mapa SNARC_only CD 6 lctrl 0.633485960116
+mapa SNARC_only CD 3 num_decimal 0.746167160461
+mapa SNARC_only CD 8 lctrl 0.782464945281
+mapa SNARC_only CD 9 num_decimal 0.553873240748
+mapa SNARC_only CD 1 num_decimal 1.50160394653
+mapa SNARC_only CD 6 lctrl 0.604264592534
+mapa SNARC_only CD 2 lctrl 0.638810106881
+mapa SNARC_only CD 7 num_decimal 0.551487335368
+mapa SNARC_only CD 9 num_decimal 0.596357188868
+mapa SNARC_only CD 1 num_decimal 0.566917369291
+mapa SNARC_only CD 5 num_decimal 0.530406097292
+mapa SNARC_only CD 1 num_decimal 0.431948790385
+mapa SNARC_only CD 9 num_decimal 0.504849696343
+mapa SNARC_only CD 4 lctrl 0.463474764449
+mapa SNARC_only CD 5 num_decimal 0.448276215171
+mapa SNARC_only CD 3 num_decimal 0.544076723818
+mapa SNARC_only CD 2 lctrl 0.572850947476
+mapa SNARC_only CD 7 num_decimal 0.512532752284
+mapa SNARC_only CD 7 num_decimal 0.439119228864
+mapa SNARC_only CD 9 num_decimal 0.903813787052
+mapa SNARC_only CD 6 lctrl 0.62184873689
+mapa SNARC_only CD 4 lctrl 1.60731392172
+mapa SNARC_only CD 5 num_decimal 1.6258100411
+mapa SNARC_only CD 9 num_decimal 2.71584794748
+mapa SNARC_only CD 7 num_decimal 0.585163696258
+mapa SNARC_only CD 6 lctrl 1.05974724111
+mapa SNARC_only CD 9 num_decimal 0.579887335865
+mapa SNARC_only CD 6 lctrl 1.3993457611
+mapa SNARC_only CD 6 lctrl 0.474074340702
+mapa SNARC_only CD 9 num_decimal 0.554021564687
+mapa SNARC_only CD 8 lctrl 0.837788843804
+mapa SNARC_only CD 3 num_decimal 2.75111429135
+mapa SNARC_only CD 6 lctrl 0.563747022661
+mapa SNARC_only CD 4 lctrl 3.19176206358
+mapa SNARC_only CD 1 num_decimal 0.49893908044
+mapa SNARC_only CD 2 lctrl 0.601510049411
+mapa SNARC_only CD 5 num_decimal 0.732035116158
+mapa SNARC_only CD 7 num_decimal 0.585502545091
+mapa SNARC_only CD 9 num_decimal 0.468203133049
+mapa SNARC_only CD 1 num_decimal 0.571665286861
+mapa SNARC_only CD 9 num_decimal 0.431380629016
+mapa SNARC_only CD 3 num_decimal 0.584215726311
+mapa SNARC_only CD 5 num_decimal 0.602817968669
+mapa SNARC_only CD 6 lctrl 0.733528595487
+mapa SNARC_only CD 4 lctrl 2.2028478817
+mapa SNARC_only CD 4 lctrl 0.389218152864
+mapa SNARC_only CD 1 num_decimal 0.472186158335
+mapa SNARC_only CD 9 num_decimal 0.527728819154
+mapa SNARC_only CD 6 lctrl 0.533396158968
+mapa SNARC_only CD 6 lctrl 0.514865906469
+mapa SNARC_only CD 2 lctrl 0.688855783206
+mapa SNARC_only CD 2 lctrl 0.440204662213
+mapa SNARC_only CD 8 lctrl 0.384824599183
+mapa SNARC_only CD 6 lctrl 0.547678389015
+mapa SNARC_only CD 8 lctrl 0.424135097663
+mapa SNARC_only CD 9 num_decimal 0.770208361002
+mapa SNARC_only CD 4 lctrl 0.733611756194
+mapa SNARC_only CD 6 lctrl 0.8429286717
+mapa SNARC_only CD 1 num_decimal 0.835707033533
+mapa SNARC_only CD 5 lctrl 1.1088744261
+mapa SNARC_only CD 5 num_decimal 0.515061396181
+mapa SNARC_only CD 8 lctrl 0.824793742839
+mapa SNARC_only CD 5 num_decimal 0.426161674335
+mapa SNARC_only CD 6 lctrl 0.715686590898
+mapa SNARC_only CD 1 num_decimal 0.569045414435
+mapa SNARC_only CD 7 num_decimal 0.660724193185
+mapa SNARC_only CD 5 num_decimal 0.509211289005
+mapa SNARC_only CD 4 lctrl 0.723719356214
+mapa SNARC_only CD 9 num_decimal 0.945579388062
+mapa SNARC_only CD 5 num_decimal 0.670640176053
+mapa SNARC_only CD 7 num_decimal 0.534545824652
+mapa SNARC_only CD 8 lctrl 0.706981403033
+mapa SNARC_only CD 5 num_decimal 1.16961618233
+mapa SNARC_only CD 2 lctrl 0.628603371857
+mapa SNARC_only CD 2 lctrl 0.48629461975
+mapa SNARC_only CD 7 num_decimal 0.509136196128
+mapa SNARC_only CD 5 num_decimal 0.514910900132
+mapa SNARC_only CD 8 lctrl 0.848405176319
+mapa SNARC_only CD 9 num_decimal 0.592900123997
+mapa SNARC_only CD 4 lctrl 0.747536209037
+mapa SNARC_only CD 1 num_decimal 0.624167617225
+mapa SNARC_only CD 1 num_decimal 0.513753166622
+mapa SNARC_only CD 4 lctrl 0.48847727789
+mapa SNARC_only CD 6 lctrl 0.911352552972
+mapa SNARC_only CD 4 lctrl 0.509703426593
+mapa SNARC_only CD 1 lctrl 0.732429819192
+mapa SNARC_only CD 1 num_decimal 0.697065730466
+mapa SNARC_only CD 7 num_decimal 0.416505103211
+mapa SNARC_only CD 9 num_decimal 0.514488269997
+mapa SNARC_only CD 2 lctrl 0.456266779533
+mapa SNARC_only CD 5 num_decimal 0.44103937225
+mapa SNARC_only CD 5 num_decimal 0.417997651643
+mapa SNARC_only CD 1 num_decimal 0.443826496987
+mapa SNARC_only CD 3 num_decimal 0.588634104082
+mapa SNARC_only CD 5 num_decimal 0.480002023163
+mapa SNARC_only CD 8 num_decimal 0.45599929996
+mapa SNARC_only CD 8 num_decimal 0.575879176187
+mapa SNARC_only CD 6 lctrl 0.603956773812
+mapa SNARC_only CD 7 num_decimal 0.56589647858
+mapa SNARC_only CD 6 lctrl 0.465568055864
+mapa SNARC_only CD 2 lctrl 0.465326331283
+mapa SNARC_only CD 5 num_decimal 0.529191578677
+mapa SNARC_only CD 4 lctrl 0.470919509127
+mapa SNARC_only CD 8 lctrl 0.742664791622
+mapa SNARC_only CD 5 num_decimal 0.579877406231
+mapa SNARC_only CD 8 lctrl 0.431862526671
+mapa SNARC_only CD 3 num_decimal 0.648700645055
+mapa SNARC_only CD 1 num_decimal 0.593305066966
+mapa SNARC_only CD 6 lctrl 0.499502587292
+mapa SNARC_only CD 9 num_decimal 0.594271654987
+mapa SNARC_only CD 5 num_decimal 0.620991995474
+mapa SNARC_only CD 2 lctrl 0.526485752835
+mapa SNARC_only CD 6 num_decimal 0.756203540164
+mapa SNARC_only CD 6 lctrl 0.480715405458
+mapa SNARC_only CD 4 lctrl 0.743790253811
+mapa SNARC_only CD 3 num_decimal 0.54106742347
+mapa SNARC_only CD 1 num_decimal 0.785763756579
+mapa SNARC_only CD 5 num_decimal 0.492925754868
+mapa SNARC_only CD 5 num_decimal 0.539704270614
+mapa SNARC_only CD 2 lctrl 0.673091554967
+mapa SNARC_only CD 3 num_decimal 0.552972746875
+mapa SNARC_only CD 8 lctrl 0.660515670825
+mapa SNARC_only CD 7 num_decimal 0.60512164425
+mapa SNARC_only CD 5 num_decimal 3.79978005856
+mapa SNARC_only CD 9 num_decimal 0.514461584098
+mapa SNARC_only CD 1 num_decimal 0.480031812072
+mapa SNARC_only CD 9 num_decimal 0.455736164604
+mapa SNARC_only CD 1 num_decimal 0.432452719419
+mapa SNARC_only CD 4 lctrl 0.625174544384
+mapa SNARC_only CD 9 num_decimal 0.530632927417
+mapa SNARC_only CD 4 lctrl 0.775882837741
+mapa SNARC_only CD 1 num_decimal 0.451447492705
+mapa SNARC_only CD 4 lctrl 0.476078575692
+mapa SNARC_only CD 3 num_decimal 0.771605026381
+mapa SNARC_only CD 7 num_decimal 0.550925069725
+mapa SNARC_only CD 6 num_decimal 0.419609045402
+mapa SNARC_only CD 6 lctrl 0.405687074966
+mapa SNARC_only CD 8 lctrl 0.688181188554
+mapa SNARC_only CD 3 num_decimal 0.686642405257
+mapa SNARC_only CD 5 num_decimal 0.614266218508
+mapa SNARC_only CD 1 num_decimal 0.943968614902
+mapa SNARC_only CD 9 num_decimal 0.781296971832
+mapa SNARC_only CD 4 lctrl 0.791889100859
+mapa SNARC_only CD 1 num_decimal 0.555282938774
+mapa SNARC_only CD 8 lctrl 0.791819593407
+mapa SNARC_only CD 1 num_decimal 0.787207898033
+mapa SNARC_only CD 6 lctrl 0.749928320438
+mapa SNARC_only CD 8 lctrl 1.07469041256
+mapa SNARC_only CD 9 num_decimal 0.713166635429
+mapa SNARC_only CD 8 lctrl 0.839776322533
+mapa SNARC_only CD 7 num_decimal 1.00915202149
+mapa SNARC_only CD 3 num_decimal 2.05951451527
+mapa SNARC_only CD 2 lctrl 0.931591633784
+mapa SNARC_only CD 3 num_decimal 0.592960632715
+mapa SNARC_only CD 6 lctrl 1.12432245749
+mapa SNARC_only CD 5 num_decimal 0.505753913829
+mapa SNARC_only CD 2 lctrl 0.560457210097
+mapa SNARC_only CD 9 num_decimal 0.453180214208
+mapa SNARC_only CD 9 num_decimal 0.413862268499
+mapa SNARC_only CD 8 lctrl 0.608372669172
+mapa SNARC_only CD 9 num_decimal 0.618743553496
+mapa SNARC_only CD 3 num_decimal 0.829058831852
+mapa SNARC_only CD 8 lctrl 0.614299420733
+mapa SNARC_only CD 1 num_decimal 0.71226707246
+mapa SNARC_only CD 4 lctrl 0.566188471941
+mapa SNARC_only CD 9 num_decimal 0.778182169102
+mapa SNARC_only CD 9 num_decimal 0.510245832967
+mapa SNARC_only CD 2 lctrl 0.540313391728
+mapa SNARC_only CD 3 num_decimal 0.769056523211
+mapa SNARC_only CD 2 lctrl 0.444210339483
+mapa SNARC_only CD 7 num_decimal 0.62137335556
+mapa SNARC_only CD 9 num_decimal 1.1110204687
+mapa SNARC_only CD 3 num_decimal 0.756842760489
+mapa SNARC_only CD 2 lctrl 0.545622954338
+mapa SNARC_only CD 2 lctrl 0.462247833788
+mapa SNARC_only CD 8 num_decimal 0.351246603754
+mapa SNARC_only CD 6 lctrl 0.531126616515
+mapa SNARC_only CD 8 lctrl 0.527827184611
+mapa SNARC_only CD 4 lctrl 0.509480320085
+mapa SNARC_only CD 3 num_decimal 0.940038030505
+mapa SNARC_only CD 6 lctrl 0.641294067416
+mapa SNARC_only CD 7 num_decimal 0.722253803982
+mapa SNARC_only CD 4 lctrl 0.599807116818
+mapa SNARC_only CD 3 num_decimal 0.546370469758
+mapa SNARC_only CD 4 lctrl 0.591822758477
+mapa SNARC_only CD 4 lctrl 0.523021551035
+mapa SNARC_only CD 7 num_decimal 0.440594710733
+mapa SNARC_only CD 5 num_decimal 0.569807514003
+mapa SNARC_only CD 5 num_decimal 0.413378819339
+mapa SNARC_only CD 5 num_decimal 0.400070314234
+mapa SNARC_only CD 8 lctrl 0.554674748561
+mapa SNARC_only CD 5 num_decimal 0.5192181901
+mapa SNARC_only CD 2 lctrl 0.620578364069
+mapa SNARC_only CD 2 lctrl 0.478269922263
+mapa SNARC_only CD 7 num_decimal 0.510135676064
+mapa SNARC_only CD 4 lctrl 1.07661552076
+mapa SNARC_only CD 8 lctrl 0.716031025149
+mapa SNARC_only CD 4 lctrl 0.449666674525
+mapa SNARC_only CD 7 num_decimal 0.498245557417
+mapa SNARC_only CD 4 lctrl 0.896931928623
+mapa SNARC_only CD 4 lctrl 0.528418308262
+mapa SNARC_only CD 9 num_decimal 0.925945084145
+mapa SNARC_only CD 7 num_decimal 1.15507516114
+mapa SNARC_only CD 2 lctrl 0.655135359561
+mapa SNARC_only CD 9 num_decimal 0.504022433528
+mapa SNARC_only CD 4 lctrl 0.630637706054
+mapa SNARC_only CD 9 num_decimal 0.640386126313
+mapa SNARC_only CD 3 num_decimal 0.633023921735
+mapa SNARC_only CD 9 num_decimal 1.27379451114
+mapa SNARC_only CD 4 lctrl 0.801616420638
+mapa SNARC_only CD 7 num_decimal 0.532393886322
+mapa SNARC_only CD 4 lctrl 0.761298374397
+mapa SNARC_only CD 5 num_decimal 0.53387805662
+mapa SNARC_only CD 6 lctrl 0.778088147865
+mapa SNARC_only CD 3 num_decimal 0.70206499195
+mapa SNARC_only CD 1 num_decimal 0.732839726985
+mapa SNARC_only CD 2 lctrl 0.657984234218
+mapa SNARC_only CD 3 num_decimal 0.706021641643
+mapa SNARC_only CD 1 num_decimal 0.624713436908
+mapa SNARC_only CD 3 num_decimal 0.67418009133
+mapa SNARC_only CD 8 lctrl 0.865701050931
+mapa SNARC_only CD 2 lctrl 0.817138613995
+mapa SNARC_only CD 7 num_decimal 0.451402188741
+mapa SNARC_only CD 2 lctrl 0.723216978684
+mapa SNARC_only CD 8 lctrl 0.617337268777
+mapa SNARC_only CD 7 num_decimal 0.507001014063
+mapa SNARC_only CD 2 lctrl 0.592596028891
+mapa SNARC_only CD 3 num_decimal 0.659263605776
+mapa SNARC_only CD 2 lctrl 0.539827770463
+mapa SNARC_only CD 1 num_decimal 0.432500816092
+mapa SNARC_only CD 3 num_decimal 0.585208689921
+mapa SNARC_only CD 1 lctrl 0.507603308553
+mapa SNARC_only CD 6 lctrl 0.754428617707
+mapa SNARC_only CD 7 num_decimal 0.59889203879
+mapa SNARC_only CD 8 lctrl 0.897439891567
+mapa SNARC_only CD 1 num_decimal 4.52794944326
+mapa SNARC_only CD 7 num_decimal 0.621451861745
+mapa SNARC_only CD 7 num_decimal 0.399464606431
+mapa SNARC_only CD 1 num_decimal 0.610089875616
+mapa SNARC_only CD 4 lctrl 0.620044025523
+mapa SNARC_only CD 6 lctrl 0.661361862003
+mapa SNARC_only CD 3 num_decimal 0.742334010618
+mapa SNARC_only CD 7 num_decimal 0.49094044825
+mapa SNARC_only CD 6 lctrl 0.657534297585
+mapa SNARC_only CD 3 lctrl 0.649871411213
+mapa SNARC_only CD 4 lctrl 0.626718913103
+mapa SNARC_only CD 4 lctrl 0.476189353194
+mapa SNARC_only CD 1 num_decimal 0.524005515912
+mapa SNARC_only CD 8 lctrl 0.585733409131
+mapa SNARC_only CD 2 lctrl 0.524582055408
+mapa SNARC_only CD 3 num_decimal 0.642407427866
+mapa SNARC_only CD 2 lctrl 0.531084415561
+mapa SNARC_only CD 3 lctrl 0.511920217858
+mapa SNARC_only CD 3 num_decimal 0.558493314249
+mapa SNARC_only CD 4 lctrl 0.547152428604
+mapa SNARC_only CD 2 lctrl 0.624264431175
+mapa SNARC_only CD 2 lctrl 0.569930703554
+mapa SNARC_only CD 4 lctrl 0.485699772486
+mapa SNARC_only CD 5 num_decimal 0.516512053957
+mapa SNARC_only CD 2 lctrl 0.522276828324
+mapa SNARC_only CD 9 num_decimal 0.584173525356
+mapa SNARC_only CD 3 num_decimal 0.746874647029
+mapa SNARC_only CD 7 num_decimal 0.503487784685
+mapa SNARC_only CD 3 num_decimal 0.453324193932
+mapa SNARC_only CD 6 lctrl 0.637139445604

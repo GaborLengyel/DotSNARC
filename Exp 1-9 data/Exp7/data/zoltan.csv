@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1512', 'task': u'line', 'participant': u'zoltan', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zoltan SNARC line dot CD 0 up 45 lctrl 2.92831942987
+zoltan SNARC line dot CD 0 up 40 lctrl 1.33499064373
+zoltan SNARC line dot CD 0 down 5 delete 0.957664217738
+zoltan SNARC line dot CD 0 down 15 delete 0.820994379235
+zoltan SNARC line dot CD 0 down 5 delete 0.746941756628
+zoltan SNARC line dot CD 0 down 40 delete 0.734347270864
+zoltan SNARC line dot CD 0 up 30 lctrl 0.694154664961
+zoltan SNARC line dot CD 0 down 15 delete 0.725658027586
+zoltan SNARC line dot CD 0 down 25 delete 0.634826055903
+zoltan SNARC line dot CD 0 up 35 lctrl 0.673839284871
+zoltan SNARC line dot CD 0 up 10 lctrl 0.704600724916
+zoltan SNARC line dot CD 0 up 35 lctrl 0.727994733752
+zoltan SNARC line dot CD 0 up 15 lctrl 0.584408217001
+zoltan SNARC line dot CD 0 up 40 lctrl 0.560941765725
+zoltan SNARC line dot CD 0 down 20 delete 0.503072154421
+zoltan SNARC line dot CD 0 down 45 delete 0.460020346876
+zoltan SNARC line dot CD 0 up 35 lctrl 0.552468099955
+zoltan SNARC line dot CD 0 down 15 delete 0.540596638741
+zoltan SNARC line dot CD 0 down 30 delete 0.505672733048
+zoltan SNARC line dot CD 0 down 30 delete 0.486807951591
+zoltan SNARC line dot CD 0 up 25 lctrl 0.550470508402
+zoltan SNARC line dot CD 0 up 40 lctrl 0.504214435223
+zoltan SNARC line dot CD 0 up 5 lctrl 0.46779338576
+zoltan SNARC line dot CD 0 down 40 delete 0.475371844946
+zoltan SNARC line dot CD 0 down 10 delete 0.423036556134
+zoltan SNARC line dot CD 0 down 30 delete 0.566231463748
+zoltan SNARC line dot CD 0 up 10 lctrl 0.444804634637
+zoltan SNARC line dot CD 0 up 10 lctrl 0.436070246069
+zoltan SNARC line dot CD 0 up 15 lctrl 0.408513071663
+zoltan SNARC line dot CD 0 down 10 delete 0.392031891475
+zoltan SNARC line dot CD 0 up 30 lctrl 0.380346260867
+zoltan SNARC line dot CD 0 down 40 delete 0.418147916265
+zoltan SNARC line dot CD 0 down 35 delete 0.357809312598
+zoltan SNARC line dot CD 0 up 25 lctrl 0.35247131962
+zoltan SNARC line dot CD 0 up 35 lctrl 0.327631261676
+zoltan SNARC line dot CD 0 down 45 delete 0.436391512547
+zoltan SNARC line dot CD 0 up 10 lctrl 0.372145566613
+zoltan SNARC line dot CD 0 down 30 delete 0.434076854079
+zoltan SNARC line dot CD 0 up 45 lctrl 0.442369588734
+zoltan SNARC line dot CD 0 up 15 lctrl 0.501766090707
+zoltan SNARC line dot CD 0 up 5 lctrl 0.374548765838
+zoltan SNARC line dot CD 0 down 5 delete 0.456144851287
+zoltan SNARC line dot CD 0 down 45 delete 0.413971102116
+zoltan SNARC line dot CD 0 up 25 lctrl 0.39851671478
+zoltan SNARC line dot CD 0 up 20 lctrl 0.387763036928
+zoltan SNARC line dot CD 0 down 40 delete 0.41837259282
+zoltan SNARC line dot CD 0 up 25 lctrl 0.386089161599
+zoltan SNARC line dot CD 0 up 35 lctrl 0.398136654443
+zoltan SNARC line dot CD 0 up 25 lctrl 0.410443470224
+zoltan SNARC line dot CD 0 down 40 delete 0.406002783609
+zoltan SNARC line dot CD 0 up 15 lctrl 0.493805821363
+zoltan SNARC line dot CD 0 up 40 lctrl 0.410764386736
+zoltan SNARC line dot CD 0 down 45 delete 0.387812031815
+zoltan SNARC line dot CD 0 down 5 delete 0.397389832371
+zoltan SNARC line dot CD 0 down 25 delete 0.38276940801
+zoltan SNARC line dot CD 0 down 10 delete 0.367816168382
+zoltan SNARC line dot CD 0 up 35 lctrl 0.435161740872
+zoltan SNARC line dot CD 0 down 15 delete 0.387111404925
+zoltan SNARC line dot CD 0 down 20 delete 0.355917410019
+zoltan SNARC line dot CD 0 up 40 lctrl 0.414933851654
+zoltan SNARC line dot CD 0 up 40 lctrl 0.338417136172
+zoltan SNARC line dot CD 0 down 15 delete 0.406390193184
+zoltan SNARC line dot CD 0 up 30 lctrl 0.397341187447
+zoltan SNARC line dot CD 0 down 10 lctrl 0.395263454258
+zoltan SNARC line dot CD 0 up 45 delete 0.960347387751
+zoltan SNARC line dot CD 0 down 35 lctrl 0.540352014268
+zoltan SNARC line dot CD 0 down 30 lctrl 0.470394664317
+zoltan SNARC line dot CD 0 down 15 delete 3.18178013124
+zoltan SNARC line dot CD 0 down 35 delete 0.427839804917
+zoltan SNARC line dot CD 0 down 40 delete 0.467660049675
+zoltan SNARC line dot CD 0 down 15 delete 0.411983659505
+zoltan SNARC line dot CD 0 up 30 lctrl 0.457109700601
+zoltan SNARC line dot CD 0 up 30 lctrl 0.579126918106
+zoltan SNARC line dot CD 0 up 5 lctrl 0.564915251092
+zoltan SNARC line dot CD 0 up 20 lctrl 0.367187633972
+zoltan SNARC line dot CD 0 down 35 delete 0.440976034151
+zoltan SNARC line dot CD 0 down 35 delete 0.398787236551
+zoltan SNARC line dot CD 0 down 20 delete 0.437626533672
+zoltan SNARC line dot CD 0 down 30 delete 0.397657904399
+zoltan SNARC line dot CD 0 up 35 lctrl 0.434689990099
+zoltan SNARC line dot CD 0 up 25 lctrl 0.36526528457
+zoltan SNARC line dot CD 0 up 5 lctrl 0.464945032985
+zoltan SNARC line dot CD 0 up 35 lctrl 0.38714080186
+zoltan SNARC line dot CD 0 up 5 lctrl 0.400815974852
+zoltan SNARC line dot CD 0 up 10 lctrl 0.440185466647
+zoltan SNARC line dot CD 0 up 20 lctrl 0.544552975898
+zoltan SNARC line dot CD 0 down 40 delete 0.511803393318
+zoltan SNARC line dot CD 0 down 10 delete 0.403441400889
+zoltan SNARC line dot CD 0 down 20 delete 0.423283630353
+zoltan SNARC line dot CD 0 up 40 lctrl 0.470680934442
+zoltan SNARC line dot CD 0 down 25 delete 0.421399077008
+zoltan SNARC line dot CD 0 down 45 delete 0.377127996693
+zoltan SNARC line dot CD 0 up 45 lctrl 0.411040857889
+zoltan SNARC line dot CD 0 down 35 delete 0.370581929776
+zoltan SNARC line dot CD 0 down 20 delete 0.376134100406
+zoltan SNARC line dot CD 0 up 30 lctrl 0.426241521694
+zoltan SNARC line dot CD 0 up 20 lctrl 0.46412681837
+zoltan SNARC line dot CD 0 up 15 lctrl 0.39082136779
+zoltan SNARC line dot CD 0 down 20 delete 0.466299041695
+zoltan SNARC line dot CD 0 down 40 delete 0.531111928471
+zoltan SNARC line dot CD 0 up 30 lctrl 0.476268801351
+zoltan SNARC line dot CD 0 up 45 lctrl 0.486935338296
+zoltan SNARC line dot CD 0 up 40 lctrl 0.454288644978
+zoltan SNARC line dot CD 0 down 20 delete 0.43201101965
+zoltan SNARC line dot CD 0 down 10 delete 0.423550652489
+zoltan SNARC line dot CD 0 down 30 delete 0.529731672501
+zoltan SNARC line dot CD 0 up 10 lctrl 0.487412338523
+zoltan SNARC line dot CD 0 up 45 lctrl 0.417582025319
+zoltan SNARC line dot CD 0 up 45 lctrl 0.652277334862
+zoltan SNARC line dot CD 0 up 35 lctrl 0.460849760329
+zoltan SNARC line dot CD 0 up 15 lctrl 0.414674528714
+zoltan SNARC line dot CD 0 up 20 lctrl 0.51766143203
+zoltan SNARC line dot CD 0 up 40 lctrl 0.65044387618
+zoltan SNARC line dot CD 0 up 30 lctrl 0.43215870424
+zoltan SNARC line dot CD 0 down 35 delete 0.427063585914
+zoltan SNARC line dot CD 0 down 30 delete 0.37581248397
+zoltan SNARC line dot CD 0 up 25 lctrl 0.717536425072
+zoltan SNARC line dot CD 0 down 20 delete 0.511556319099
+zoltan SNARC line dot CD 0 down 15 delete 0.50852668524
+zoltan SNARC line dot CD 0 up 35 lctrl 0.603023474501
+zoltan SNARC line dot CD 0 up 40 lctrl 0.596453610066
+zoltan SNARC line dot CD 0 down 25 delete 0.422997010264
+zoltan SNARC line dot CD 0 up 25 lctrl 0.458886815162
+zoltan SNARC line dot CD 0 up 5 lctrl 0.64900727609
+zoltan SNARC line dot CD 0 down 5 delete 0.374726897247
+zoltan SNARC line dot CD 0 down 35 delete 0.430962179096
+zoltan SNARC line dot CD 0 down 10 delete 0.457497110176
+zoltan SNARC line dot CD 0 down 35 delete 0.424677884861
+zoltan SNARC line dot CD 0 up 10 lctrl 0.416094330554
+zoltan SNARC line dot CD 0 down 20 delete 0.38385079517
+zoltan SNARC line dot CD 0 down 10 delete 0.375116406602
+zoltan SNARC line dot CD 0 down 40 delete 0.407899585676
+zoltan SNARC line dot CD 0 down 5 delete 0.35371508983
+zoltan SNARC line dot CD 0 up 15 lctrl 0.438107033529
+zoltan SNARC line dot CD 0 up 30 lctrl 0.46657796259
+zoltan SNARC line dot CD 0 down 25 delete 0.421307736535
+zoltan SNARC line dot CD 0 up 25 lctrl 0.432615756545
+zoltan SNARC line dot CD 0 up 45 lctrl 0.420773692265
+zoltan SNARC line dot CD 0 up 30 lctrl 0.392461996591
+zoltan SNARC line dot CD 0 up 10 lctrl 0.387791034005
+zoltan SNARC line dot CD 0 down 40 delete 0.43953628439
+zoltan SNARC line dot CD 0 down 5 delete 0.424690483549
+zoltan SNARC line dot CD 0 down 25 delete 0.442305195455
+zoltan SNARC line dot CD 0 up 35 lctrl 0.471023898655
+zoltan SNARC line dot CD 0 up 15 lctrl 0.436318720142
+zoltan SNARC line dot CD 0 up 35 lctrl 0.611416648673
+zoltan SNARC line dot CD 0 down 5 delete 0.426923950487
+zoltan SNARC line dot CD 0 down 30 delete 0.42769247029
+zoltan SNARC line dot CD 0 up 45 lctrl 0.442230653229
+zoltan SNARC line dot CD 0 up 20 lctrl 0.403339911481
+zoltan SNARC line dot CD 0 up 20 lctrl 0.382104477398
+zoltan SNARC line dot CD 0 up 5 lctrl 0.353187694862
+zoltan SNARC line dot CD 0 down 20 delete 0.747344214633
+zoltan SNARC line dot CD 0 up 20 lctrl 1.01589254161
+zoltan SNARC line dot CD 0 down 35 delete 0.454905280636
+zoltan SNARC line dot CD 0 up 5 lctrl 0.456468567503
+zoltan SNARC line dot CD 0 down 5 delete 0.320029354934
+zoltan SNARC line dot CD 0 down 40 delete 0.344072546031
+zoltan SNARC line dot CD 0 down 45 delete 0.358912747455
+zoltan SNARC line dot CD 0 down 35 delete 0.290194618192
+zoltan SNARC line dot CD 0 up 40 lctrl 0.466157656447
+zoltan SNARC line dot CD 0 up 15 lctrl 0.58167080265
+zoltan SNARC line dot CD 0 down 10 delete 0.395938883776
+zoltan SNARC line dot CD 0 down 25 delete 0.370571080908
+zoltan SNARC line dot CD 0 up 20 lctrl 0.477187105524
+zoltan SNARC line dot CD 0 down 10 delete 0.350374688402
+zoltan SNARC line dot CD 0 down 15 delete 0.509546128862
+zoltan SNARC line dot CD 0 down 30 delete 0.349040277644
+zoltan SNARC line dot CD 0 up 40 lctrl 0.430279750308
+zoltan SNARC line dot CD 0 up 20 lctrl 0.614150213423
+zoltan SNARC line dot CD 0 down 45 delete 0.389069450604
+zoltan SNARC line dot CD 0 down 35 delete 0.376739537231
+zoltan SNARC line dot CD 0 down 25 delete 0.394403244023
+zoltan SNARC line dot CD 0 down 20 delete 0.355926859032
+zoltan SNARC line dot CD 0 down 25 delete 0.424555397643
+zoltan SNARC line dot CD 0 down 35 delete 0.362153759255
+zoltan SNARC line dot CD 0 down 35 delete 0.390841315711
+zoltan SNARC line dot CD 0 up 25 lctrl 0.675864873501
+zoltan SNARC line dot CD 0 down 45 delete 0.425647983633
+zoltan SNARC line dot CD 0 up 35 lctrl 0.497656819509
+zoltan SNARC line dot CD 0 up 30 lctrl 0.402461503145
+zoltan SNARC line dot CD 0 up 15 lctrl 0.417744758335
+zoltan SNARC line dot CD 0 down 25 lctrl 0.388894118896
+zoltan SNARC line dot CD 0 down 15 lctrl 0.671596018954
+zoltan SNARC line dot CD 0 up 15 lctrl 1.12251416565
+zoltan SNARC line dot CD 0 up 20 lctrl 0.600802256286
+zoltan SNARC line dot CD 0 up 30 lctrl 0.458784625826
+zoltan SNARC line dot CD 0 up 10 lctrl 0.461910849601
+zoltan SNARC line dot CD 0 down 35 delete 0.415568685406
+zoltan SNARC line dot CD 0 up 20 lctrl 0.51052812639
+zoltan SNARC line dot CD 0 up 45 lctrl 0.453264301872
+zoltan SNARC line dot CD 0 down 20 delete 0.462251014105
+zoltan SNARC line dot CD 0 down 10 delete 0.365921466095
+zoltan SNARC line dot CD 0 down 30 delete 0.390194933159
+zoltan SNARC line dot CD 0 down 10 delete 0.415787762548
+zoltan SNARC line dot CD 0 down 10 delete 0.385563166481
+zoltan SNARC line dot CD 0 up 25 lctrl 0.436520299107
+zoltan SNARC line dot CD 0 down 40 delete 0.491709190148
+zoltan SNARC line dot CD 0 up 45 lctrl 0.649365988662
+zoltan SNARC line dot CD 0 up 35 lctrl 0.44718823591
+zoltan SNARC line dot CD 0 up 35 lctrl 0.38731298389
+zoltan SNARC line dot CD 0 down 5 delete 0.428770357816
+zoltan SNARC line dot CD 0 up 20 lctrl 0.442033973755
+zoltan SNARC line dot CD 0 down 25 delete 0.438936446979
+zoltan SNARC line dot CD 0 down 5 delete 0.332359268312
+zoltan SNARC line dot CD 0 down 40 delete 0.416524785636
+zoltan SNARC line dot CD 0 down 15 delete 0.354723334618
+zoltan SNARC line dot CD 0 up 15 lctrl 0.490715293858
+zoltan SNARC line dot CD 0 down 40 delete 0.343399566256
+zoltan SNARC line dot CD 0 up 20 lctrl 0.383844495824
+zoltan SNARC line dot CD 0 up 40 lctrl 0.432189850988
+zoltan SNARC line dot CD 0 up 25 lctrl 0.382836950965
+zoltan SNARC line dot CD 0 down 45 delete 0.376084055628
+zoltan SNARC line dot CD 0 up 45 lctrl 0.397052817538
+zoltan SNARC line dot CD 0 up 30 lctrl 0.484417351046
+zoltan SNARC line dot CD 0 up 40 lctrl 0.563736574088
+zoltan SNARC line dot CD 0 down 35 delete 0.386781739322
+zoltan SNARC line dot CD 0 up 30 lctrl 0.619907812619
+zoltan SNARC line dot CD 0 up 45 lctrl 0.328481672939
+zoltan SNARC line dot CD 0 down 40 delete 0.365796879094
+zoltan SNARC line dot CD 0 down 35 delete 0.31673969821
+zoltan SNARC line dot CD 0 down 25 delete 0.743222694713
+zoltan SNARC line dot CD 0 down 20 delete 0.43747254974
+zoltan SNARC line dot CD 0 down 45 delete 0.323033091499
+zoltan SNARC line dot CD 0 down 10 delete 0.377160193337
+zoltan SNARC line dot CD 0 down 5 delete 0.3506900055
+zoltan SNARC line dot CD 0 up 45 lctrl 0.472798563471
+zoltan SNARC line dot CD 0 down 25 delete 0.461224571216
+zoltan SNARC line dot CD 0 down 40 delete 0.372511628411
+zoltan SNARC line dot CD 0 up 25 lctrl 0.414794216224
+zoltan SNARC line dot CD 0 up 25 lctrl 0.424999501305
+zoltan SNARC line dot CD 0 down 40 delete 0.410106805357
+zoltan SNARC line dot CD 0 up 25 lctrl 0.296239887368
+zoltan SNARC line dot CD 0 up 45 lctrl 0.377157043662
+zoltan SNARC line dot CD 0 up 30 lctrl 0.329839531245
+zoltan SNARC line dot CD 0 up 45 lctrl 0.382670718311
+zoltan SNARC line dot CD 0 up 45 lctrl 0.351350036624
+zoltan SNARC line dot CD 0 down 30 delete 0.374076665099
+zoltan SNARC line dot CD 0 down 10 delete 0.331487159314
+zoltan SNARC line dot CD 0 down 5 delete 0.331501857781
+zoltan SNARC line dot CD 0 down 20 delete 0.391244473638
+zoltan SNARC line dot CD 0 down 40 delete 0.450498540478
+zoltan SNARC line dot CD 0 down 5 delete 0.398784436846
+zoltan SNARC line dot CD 0 up 40 lctrl 0.391640982263
+zoltan SNARC line dot CD 0 down 25 delete 0.540036697173
+zoltan SNARC line dot CD 0 down 10 delete 0.359673918025
+zoltan SNARC line dot CD 0 up 15 lctrl 0.458248131807
+zoltan SNARC line dot CD 0 down 5 delete 0.519697869528
+zoltan SNARC line dot CD 0 down 5 delete 0.354701986846
+zoltan SNARC line dot CD 0 down 35 delete 0.314289953843
+zoltan SNARC line dot CD 0 down 45 delete 0.302812901475
+zoltan SNARC line dot CD 0 down 10 delete 0.361474480138
+zoltan SNARC line dot CD 0 down 20 delete 0.355268577725
+zoltan SNARC line dot CD 0 up 20 lctrl 0.293677804719
+zoltan SNARC line dot CD 0 up 10 lctrl 0.373583566554
+zoltan SNARC line dot CD 0 down 30 delete 0.492638693151
+zoltan SNARC line dot CD 0 up 10 lctrl 0.412118745411
+zoltan SNARC line dot CD 0 up 40 lctrl 0.439964989655
+zoltan SNARC line dot CD 0 down 15 delete 0.470442959275
+zoltan SNARC line dot CD 0 down 45 delete 0.350611613681
+zoltan SNARC line dot CD 0 up 15 lctrl 0.49488440881
+zoltan SNARC line dot CD 0 down 15 delete 0.459367315019
+zoltan SNARC line dot CD 0 up 15 lctrl 0.424856016274
+zoltan SNARC line dot CD 0 up 15 lctrl 0.408411232289
+zoltan SNARC line dot CD 0 down 40 delete 0.570743892877
+zoltan SNARC line dot CD 0 up 40 lctrl 0.596568048124
+zoltan SNARC line dot CD 0 up 25 lctrl 0.314779902717
+zoltan SNARC line dot CD 0 up 25 lctrl 0.352425124438
+zoltan SNARC line dot CD 0 up 20 lctrl 0.349633815709
+zoltan SNARC line dot CD 0 down 45 delete 0.374920777016
+zoltan SNARC line dot CD 0 up 5 lctrl 0.584937711752
+zoltan SNARC line dot CD 0 down 45 delete 0.347496938692
+zoltan SNARC line dot CD 0 up 5 lctrl 0.387003616175
+zoltan SNARC line dot CD 0 down 25 delete 0.39955610632
+zoltan SNARC line dot CD 0 down 10 delete 0.436663084209
+zoltan SNARC line dot CD 0 down 15 delete 0.344611839755
+zoltan SNARC line dot CD 0 up 25 lctrl 0.466444976468
+zoltan SNARC line dot CD 0 down 25 delete 0.354998055951
+zoltan SNARC line dot CD 0 down 25 delete 0.344708429679
+zoltan SNARC line dot CD 0 down 35 delete 0.326059225721
+zoltan SNARC line dot CD 0 down 10 delete 0.375641351824
+zoltan SNARC line dot CD 0 up 5 lctrl 0.40450493991
+zoltan SNARC line dot CD 0 down 30 delete 0.401945307007
+zoltan SNARC line dot CD 0 up 20 lctrl 0.431453877787
+zoltan SNARC line dot CD 0 down 10 delete 0.333284921719
+zoltan SNARC line dot CD 0 down 30 delete 0.332064249094
+zoltan SNARC line dot CD 0 up 25 lctrl 0.420752694459
+zoltan SNARC line dot CD 0 down 20 delete 0.277461896851
+zoltan SNARC line dot CD 0 down 30 delete 0.362215702793
+zoltan SNARC line dot CD 0 up 25 lctrl 0.513124855424
+zoltan SNARC line dot CD 0 down 10 delete 0.351979270963
+zoltan SNARC line dot CD 0 down 30 delete 0.289898899049
+zoltan SNARC line dot CD 0 down 35 delete 0.358366104494
+zoltan SNARC line dot CD 0 up 30 lctrl 0.629854824652
+zoltan SNARC line dot CD 0 up 45 lctrl 0.45307952115
+zoltan SNARC line dot CD 0 up 15 lctrl 0.924034127042
+zoltan SNARC line dot CD 0 down 45 delete 0.42143757299
+zoltan SNARC line dot CD 0 up 15 lctrl 0.422993860589
+zoltan SNARC line dot CD 0 down 15 delete 0.328719298144
+zoltan SNARC line dot CD 0 up 45 lctrl 0.356751372994
+zoltan SNARC line dot CD 0 down 40 delete 0.334325363146
+zoltan SNARC line dot CD 0 up 15 lctrl 0.364807882299
+zoltan SNARC line dot CD 0 down 30 delete 0.329535762943
+zoltan SNARC line dot CD 0 down 30 delete 0.317930273977
+zoltan SNARC line dot CD 0 up 45 lctrl 0.442961726942
+zoltan SNARC line dot CD 0 down 20 delete 0.405651070312
+zoltan SNARC line dot CD 0 up 15 lctrl 0.418219658779
+zoltan SNARC line dot CD 0 up 25 lctrl 0.380994043269
+zoltan SNARC line dot CD 0 up 5 lctrl 0.675326629669
+zoltan SNARC line dot CD 0 up 5 lctrl 0.392992191268
+zoltan SNARC line dot CD 0 up 30 lctrl 0.34780840619
+zoltan SNARC line dot CD 0 up 45 lctrl 0.354743632499
+zoltan SNARC line dot CD 0 down 5 delete 0.385628609652
+zoltan SNARC line dot CD 0 up 15 lctrl 0.396451930243
+zoltan SNARC line dot CD 0 down 35 delete 0.387677645838
+zoltan SNARC line dot CD 0 up 30 lctrl 0.402461503141
+zoltan SNARC line dot CD 0 up 5 lctrl 0.425219278368
+zoltan SNARC line dot CD 0 down 35 delete 0.389580047322
+zoltan SNARC line dot CD 0 up 10 delete 0.227799629109
+zoltan SNARC line dot CD 0 down 40 delete 0.710478011621
+zoltan SNARC line dot CD 0 up 10 lctrl 0.337329799633
+zoltan SNARC line dot CD 0 up 20 lctrl 0.428505785421
+zoltan SNARC line dot CD 0 down 45 delete 0.42607913864
+zoltan SNARC line dot CD 0 up 5 lctrl 0.398630102951
+zoltan SNARC line dot CD 0 up 25 lctrl 0.424789873177
+zoltan SNARC line dot CD 0 down 5 delete 0.350525522663
+zoltan SNARC line dot CD 0 up 20 lctrl 0.477532869445
+zoltan SNARC line dot CD 0 up 5 lctrl 0.318162299762
+zoltan SNARC line dot CD 0 down 5 delete 0.405059282064
+zoltan SNARC line dot CD 0 down 25 delete 0.770007149753
+zoltan SNARC line dot CD 0 down 20 delete 0.59198142674
+zoltan SNARC line dot CD 0 down 20 delete 0.407793546743
+zoltan SNARC line dot CD 0 up 5 lctrl 0.482562194637
+zoltan SNARC line dot CD 0 up 10 lctrl 0.537889671214
+zoltan SNARC line dot CD 0 up 5 delete 0.503432966772
+zoltan SNARC line dot CD 0 up 10 lctrl 0.916356978149
+zoltan SNARC line dot CD 0 up 30 lctrl 0.390669133674
+zoltan SNARC line dot CD 0 up 15 lctrl 0.346250368777
+zoltan SNARC line dot CD 0 down 45 delete 0.373866687012
+zoltan SNARC line dot CD 0 down 45 delete 0.348356449005
+zoltan SNARC line dot CD 0 down 30 delete 0.303603818942
+zoltan SNARC line dot CD 0 up 5 lctrl 0.453890736502
+zoltan SNARC line dot CD 0 down 35 delete 0.391108687811
+zoltan SNARC line dot CD 0 up 45 lctrl 0.368688977305
+zoltan SNARC line dot CD 0 up 10 lctrl 0.629032060504
+zoltan SNARC line dot CD 0 up 40 lctrl 0.49665662388
+zoltan SNARC line dot CD 0 down 15 delete 0.393278461393
+zoltan SNARC line dot CD 0 down 5 delete 1.34546155109
+zoltan SNARC line dot CD 0 up 20 lctrl 0.441169563957
+zoltan SNARC line dot CD 0 up 15 lctrl 0.438840556988
+zoltan SNARC line dot CD 0 up 40 lctrl 0.344389962906
+zoltan SNARC line dot CD 0 up 10 lctrl 0.425951751935
+zoltan SNARC line dot CD 0 down 30 delete 0.362354988258
+zoltan SNARC line dot CD 0 up 10 lctrl 0.405816253075
+zoltan SNARC line dot CD 0 down 20 delete 0.334503494563
+zoltan SNARC line dot CD 0 down 10 delete 0.336024085886
+zoltan SNARC line dot CD 0 down 15 delete 0.308548452969
+zoltan SNARC line dot CD 0 up 5 lctrl 0.446391019097
+zoltan SNARC line dot CD 0 up 35 lctrl 0.361554271811
+zoltan SNARC line dot CD 0 up 35 lctrl 0.375556310701
+{'delay': u'0', 'dateStr': u'05_18_1522', 'task': u'line', 'participant': u'zoltan', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zoltan SNARC line arabic CD 0 up 7 lctrl 3.23297418914
+zoltan SNARC line arabic CD 0 down 5 delete 0.525024663679
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.502649748498
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.520181519059
+zoltan SNARC line arabic CD 0 down 6 delete 0.419947078521
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.389322824165
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.353331879818
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.347380050891
+zoltan SNARC line arabic CD 0 down 3 delete 0.412135193692
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.397163406
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.323456897273
+zoltan SNARC line arabic CD 0 down 3 delete 0.417619821372
+zoltan SNARC line arabic CD 0 down 4 delete 0.467436423012
+zoltan SNARC line arabic CD 0 down 6 delete 0.331127396854
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.443268294952
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.444557560419
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.34197556485
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.374236948377
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.337749755814
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.355933158375
+zoltan SNARC line arabic CD 0 down 6 delete 0.83185864555
+zoltan SNARC line arabic CD 0 down 4 delete 0.868052568716
+zoltan SNARC line arabic CD 0 down 8 delete 0.433617002065
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.405624123123
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.62238170447
+zoltan SNARC line arabic CD 0 up 3 delete 0.439028487377
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.504752329092
+zoltan SNARC line arabic CD 0 down 1 delete 0.386337635668
+zoltan SNARC line arabic CD 0 down 7 delete 0.420606759682
+zoltan SNARC line arabic CD 0 down 4 delete 0.328135559055
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.418978379606
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.346810310344
+zoltan SNARC line arabic CD 0 down 3 delete 0.400263382515
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.400167492524
+zoltan SNARC line arabic CD 0 down 2 delete 0.438984042015
+zoltan SNARC line arabic CD 0 down 3 delete 0.400346323862
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.432858281238
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.485095580276
+zoltan SNARC line arabic CD 0 down 7 delete 0.38092160083
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.542593180402
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.331337374948
+zoltan SNARC line arabic CD 0 down 7 delete 0.419157210945
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.354762880495
+zoltan SNARC line arabic CD 0 down 5 lctrl 0.390394062379
+zoltan SNARC line arabic CD 0 down 5 delete 0.438369856103
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.386662401779
+zoltan SNARC line arabic CD 0 down 9 delete 0.376415121082
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.393134976366
+zoltan SNARC line arabic CD 0 down 9 delete 0.515250183646
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.429118221513
+zoltan SNARC line arabic CD 0 down 4 delete 0.542979890048
+zoltan SNARC line arabic CD 0 down 4 delete 0.426956497089
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.406341198297
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.501205799177
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.45094614377
+zoltan SNARC line arabic CD 0 down 6 delete 0.432886278315
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.374236598411
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.435144592662
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.515482559396
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.362763745605
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.387087607407
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.427178023972
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.338702006447
+zoltan SNARC line arabic CD 0 down 5 delete 0.349851842962
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.400803026205
+zoltan SNARC line arabic CD 0 down 3 delete 0.452587822459
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.504371218864
+zoltan SNARC line arabic CD 0 down 8 delete 0.388992458636
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.399941066149
+zoltan SNARC line arabic CD 0 down 9 delete 0.358948793695
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.368261671894
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.435159291126
+zoltan SNARC line arabic CD 0 down 5 delete 0.380764467231
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.380161830111
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.585529150034
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.397298491902
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.416976588494
+zoltan SNARC line arabic CD 0 down 3 delete 0.386122408127
+zoltan SNARC line arabic CD 0 down 8 delete 0.420886380503
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.406237959069
+zoltan SNARC line arabic CD 0 down 3 lctrl 0.452923087476
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.638572065003
+zoltan SNARC line arabic CD 0 down 8 delete 0.446673789589
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.594456718442
+zoltan SNARC line arabic CD 0 down 8 delete 0.426437501246
+zoltan SNARC line arabic CD 0 down 9 delete 0.442368888806
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.380407504479
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.651753789491
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.34471122938
+zoltan SNARC line arabic CD 0 down 2 delete 0.433492415068
+zoltan SNARC line arabic CD 0 down 4 delete 0.54930547997
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.422776183306
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.420926626306
+zoltan SNARC line arabic CD 0 down 2 delete 0.461107683415
+zoltan SNARC line arabic CD 0 down 7 delete 0.436899659519
+zoltan SNARC line arabic CD 0 up 5 delete 0.460083690268
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.575615384536
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.362586664083
+zoltan SNARC line arabic CD 0 down 8 delete 0.417324452195
+zoltan SNARC line arabic CD 0 down 8 delete 0.458559599305
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.444938320685
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.396516673485
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.350903133258
+zoltan SNARC line arabic CD 0 down 9 delete 0.462435444861
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.558145207549
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.491162197224
+zoltan SNARC line arabic CD 0 down 8 delete 0.560799330589
+zoltan SNARC line arabic CD 0 down 1 delete 0.444830181972
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.709308433663
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.615181905767
+zoltan SNARC line arabic CD 0 down 8 delete 0.481593495722
+zoltan SNARC line arabic CD 0 down 6 delete 1.81031209393
+zoltan SNARC line arabic CD 0 down 5 delete 0.372744004162
+zoltan SNARC line arabic CD 0 down 6 delete 0.35723852216
+zoltan SNARC line arabic CD 0 down 4 delete 0.384347393348
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.424786723506
+zoltan SNARC line arabic CD 0 down 6 delete 0.460800765442
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.404016040924
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.440321952403
+zoltan SNARC line arabic CD 0 down 6 delete 1.02246695558
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.46489113861
+zoltan SNARC line arabic CD 0 down 7 delete 0.500888382296
+zoltan SNARC line arabic CD 0 down 9 delete 0.824545458679
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.485943191827
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.809082322259
+zoltan SNARC line arabic CD 0 down 5 delete 0.40443284743
+zoltan SNARC line arabic CD 0 down 7 delete 0.455062064273
+zoltan SNARC line arabic CD 0 down 9 delete 0.388760782815
+zoltan SNARC line arabic CD 0 down 9 delete 0.392785712811
+zoltan SNARC line arabic CD 0 down 7 delete 0.41636205262
+zoltan SNARC line arabic CD 0 down 5 delete 0.432884528498
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.435716782955
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.54488509124
+zoltan SNARC line arabic CD 0 up 7 lctrl 1.08354503208
+zoltan SNARC line arabic CD 0 down 1 delete 0.590010082447
+zoltan SNARC line arabic CD 0 down 4 delete 0.384728853543
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.406298152786
+zoltan SNARC line arabic CD 0 down 3 delete 0.395300550386
+zoltan SNARC line arabic CD 0 down 2 delete 0.430674509113
+zoltan SNARC line arabic CD 0 down 2 delete 0.467951569255
+zoltan SNARC line arabic CD 0 down 9 delete 0.318206745127
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.388975310423
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.382842900344
+zoltan SNARC line arabic CD 0 down 1 delete 0.420964772329
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.414427804459
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.487573671686
+zoltan SNARC line arabic CD 0 down 5 delete 0.500919529048
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.378825319578
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.398963618147
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.408589713665
+zoltan SNARC line arabic CD 0 down 6 delete 0.390837816074
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.388195941752
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.447138541094
+zoltan SNARC line arabic CD 0 down 2 delete 0.519276863459
+zoltan SNARC line arabic CD 0 down 7 delete 0.412848069307
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.627134908471
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.453349692962
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.463387345528
+zoltan SNARC line arabic CD 0 down 8 delete 0.487163514485
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.399762584773
+zoltan SNARC line arabic CD 0 down 7 delete 0.490975666689
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.374364335083
+zoltan SNARC line arabic CD 0 up 1 delete 0.42355240231
+zoltan SNARC line arabic CD 0 down 5 delete 0.541685025168
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.401625090424
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.440579875489
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.402433156101
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.419100866824
+zoltan SNARC line arabic CD 0 down 9 delete 0.471653482957
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.541879254899
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.436935355796
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.392626479428
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.36023525945
+zoltan SNARC line arabic CD 0 down 1 delete 0.653625744155
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.418360344098
+zoltan SNARC line arabic CD 0 down 9 lctrl 0.345032495858
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.410442770299
+zoltan SNARC line arabic CD 0 down 2 delete 0.364632550594
+zoltan SNARC line arabic CD 0 down 6 delete 0.364038312604
+zoltan SNARC line arabic CD 0 down 6 delete 0.368632633184
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.432081712275
+zoltan SNARC line arabic CD 0 down 9 delete 0.517145585858
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.430667159882
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.428870097403
+zoltan SNARC line arabic CD 0 down 5 delete 0.436631237531
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.407955929801
+zoltan SNARC line arabic CD 0 down 7 delete 0.655863060689
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.422186844804
+zoltan SNARC line arabic CD 0 down 7 delete 0.447445109105
+zoltan SNARC line arabic CD 0 down 2 delete 0.461402352663
+zoltan SNARC line arabic CD 0 down 5 delete 0.517745073303
+zoltan SNARC line arabic CD 0 down 3 delete 0.513341132853
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.429223210558
+zoltan SNARC line arabic CD 0 down 6 delete 0.536037314505
+zoltan SNARC line arabic CD 0 down 4 delete 0.482523348688
+zoltan SNARC line arabic CD 0 down 1 delete 0.374267045234
+zoltan SNARC line arabic CD 0 down 1 delete 0.416882098354
+zoltan SNARC line arabic CD 0 down 6 delete 0.528432258096
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.398764138961
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.354712485754
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.398885926254
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.407004379093
+zoltan SNARC line arabic CD 0 down 2 delete 0.443377133597
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.406263856366
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.364470517499
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.371575126133
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.379505648587
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.383424189684
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.413329969018
+zoltan SNARC line arabic CD 0 down 4 lctrl 0.395269053675
+zoltan SNARC line arabic CD 0 down 6 delete 0.536381678572
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.411159145544
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.519904697947
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.348782004596
+zoltan SNARC line arabic CD 0 down 3 delete 0.387083057882
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.416585679282
+zoltan SNARC line arabic CD 0 down 6 delete 0.48451184119
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.382920242275
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.545092269622
+zoltan SNARC line arabic CD 0 down 3 delete 0.505218480452
+zoltan SNARC line arabic CD 0 down 4 delete 0.378304573918
+zoltan SNARC line arabic CD 0 down 2 delete 0.42235027775
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.421575108638
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.370699517505
+zoltan SNARC line arabic CD 0 down 4 lctrl 0.400251483756
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.656527291379
+zoltan SNARC line arabic CD 0 down 7 delete 0.485276161431
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.507451247464
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.418978729569
+zoltan SNARC line arabic CD 0 down 2 delete 0.386596608645
+zoltan SNARC line arabic CD 0 down 4 delete 0.407797396343
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.440749957743
+zoltan SNARC line arabic CD 0 down 1 delete 0.458446561101
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.448944352658
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.464643364463
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.388093752415
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.334364559058
+zoltan SNARC line arabic CD 0 down 5 delete 0.404801358978
+zoltan SNARC line arabic CD 0 down 9 delete 0.378249979614
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.474385997819
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.42438111583
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.356987248379
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.426852207973
+zoltan SNARC line arabic CD 0 down 6 delete 0.474972886579
+zoltan SNARC line arabic CD 0 down 2 delete 0.448277672225
+zoltan SNARC line arabic CD 0 down 1 delete 0.779411018462
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.465335942194
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.627644105338
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.532356748572
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.691119781652
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.605296137346
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.661879982825
+zoltan SNARC line arabic CD 0 down 2 delete 0.50887139927
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.533072773855
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.430933132127
+zoltan SNARC line arabic CD 0 down 8 delete 0.45684512821
+zoltan SNARC line arabic CD 0 down 6 delete 0.474700265029
+zoltan SNARC line arabic CD 0 down 2 delete 0.447769175287
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.454521370695
+zoltan SNARC line arabic CD 0 down 9 delete 0.85652477164
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.559492216988
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.39791652741
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.400759630731
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.374404230919
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.385209353404
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.371106175073
+zoltan SNARC line arabic CD 0 down 4 delete 0.442621562441
+zoltan SNARC line arabic CD 0 down 5 delete 0.365912017081
+zoltan SNARC line arabic CD 0 down 2 delete 0.362732948815
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.432817685476
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.400315177114
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.365082253666
+zoltan SNARC line arabic CD 0 down 4 delete 0.613453786096
+zoltan SNARC line arabic CD 0 down 2 delete 0.393739713261
+zoltan SNARC line arabic CD 0 down 1 delete 0.424086096617
+zoltan SNARC line arabic CD 0 down 5 delete 0.375745290981
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.482245127721
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.434410019316
+zoltan SNARC line arabic CD 0 down 8 delete 0.72985129002
+zoltan SNARC line arabic CD 0 down 9 delete 0.377482859662
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.65375698046
+zoltan SNARC line arabic CD 0 down 7 delete 0.651308635945
+zoltan SNARC line arabic CD 0 down 7 delete 0.434601099376
+zoltan SNARC line arabic CD 0 down 9 delete 0.758743925071
+zoltan SNARC line arabic CD 0 down 4 delete 1.07375445372
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.593208748665
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.49714307312
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.930395063275
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.759998894115
+zoltan SNARC line arabic CD 0 down 9 delete 0.617334181177
+zoltan SNARC line arabic CD 0 down 7 delete 0.579795348356
+zoltan SNARC line arabic CD 0 down 1 delete 0.500686103405
+zoltan SNARC line arabic CD 0 down 9 delete 0.464072574025
+zoltan SNARC line arabic CD 0 down 1 delete 0.482470154238
+zoltan SNARC line arabic CD 0 down 1 delete 0.428932390907
+zoltan SNARC line arabic CD 0 down 4 delete 0.406434988512
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.483129485441
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.575360261155
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.445655745825
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.446793127136
+zoltan SNARC line arabic CD 0 down 7 delete 0.418284402022
+zoltan SNARC line arabic CD 0 down 8 delete 0.418513278139
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.482595091202
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.398488367737
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.360984881227
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.326666762325
+zoltan SNARC line arabic CD 0 down 1 delete 0.536812833583
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.472951497512
+zoltan SNARC line arabic CD 0 down 1 delete 0.539067998256
+zoltan SNARC line arabic CD 0 down 2 delete 0.465221504139
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.432901676708
+zoltan SNARC line arabic CD 0 down 4 delete 0.394376996759
+zoltan SNARC line arabic CD 0 down 9 delete 0.43807063733
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.408781143688
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.346523340289
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.347386350233
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.467766088608
+zoltan SNARC line arabic CD 0 down 5 delete 0.473102331773
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.363005220403
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.386857681402
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.369481294627
+zoltan SNARC line arabic CD 0 up 9 lctrl 0.422796481187
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.342991858797
+zoltan SNARC line arabic CD 0 down 3 delete 0.347221167471
+zoltan SNARC line arabic CD 0 down 9 delete 0.525085207359
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.384421585608
+zoltan SNARC line arabic CD 0 down 4 delete 0.71804877161
+zoltan SNARC line arabic CD 0 down 7 delete 0.436920307366
+zoltan SNARC line arabic CD 0 up 7 lctrl 0.450369753915
+zoltan SNARC line arabic CD 0 down 5 delete 0.418487380841
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.418728155717
+zoltan SNARC line arabic CD 0 down 9 delete 0.347998436362
+zoltan SNARC line arabic CD 0 up 3 lctrl 0.370926643802
+zoltan SNARC line arabic CD 0 down 6 delete 0.350369438947
+zoltan SNARC line arabic CD 0 up 3 delete 0.419299996047
+zoltan SNARC line arabic CD 0 down 3 delete 0.435661838688
+zoltan SNARC line arabic CD 0 down 7 delete 0.410566657367
+zoltan SNARC line arabic CD 0 up 8 lctrl 0.447412912461
+zoltan SNARC line arabic CD 0 down 3 delete 0.45443527968
+zoltan SNARC line arabic CD 0 down 6 delete 0.438719469621
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.43230253923
+zoltan SNARC line arabic CD 0 down 8 delete 0.406971482527
+zoltan SNARC line arabic CD 0 down 5 delete 0.486740758603
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.518437651033
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.517098690754
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.458789525313
+zoltan SNARC line arabic CD 0 down 7 delete 0.438555686716
+zoltan SNARC line arabic CD 0 down 2 delete 0.428750759856
+zoltan SNARC line arabic CD 0 up 2 lctrl 0.497248762091
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.514881322135
+zoltan SNARC line arabic CD 0 down 9 delete 0.484496442794
+zoltan SNARC line arabic CD 0 up 5 lctrl 0.605521863796
+zoltan SNARC line arabic CD 0 up 6 lctrl 0.536302936787
+zoltan SNARC line arabic CD 0 up 2 delete 0.551109891683
+zoltan SNARC line arabic CD 0 up 1 lctrl 0.796161670529
+zoltan SNARC line arabic CD 0 down 2 delete 0.449214524466
+zoltan SNARC line arabic CD 0 down 8 delete 0.955857006324
+zoltan SNARC line arabic CD 0 down 8 delete 0.430692707218
+zoltan SNARC line arabic CD 0 up 4 lctrl 0.524021318375
+zoltan SNARC line arabic CD 0 down 7 delete 0.709632849812
+{'delay': u'0', 'dateStr': u'05_18_1531', 'task': u'line', 'participant': u'zoltan', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zoltan SNARC line dot DC 0 up 25 delete 2.25499914084
+zoltan SNARC line dot DC 0 up 25 delete 0.418660612766
+zoltan SNARC line dot DC 0 up 35 delete 0.387047011645
+zoltan SNARC line dot DC 0 up 5 delete 0.420606059757
+zoltan SNARC line dot DC 0 up 30 delete 0.363854931737
+zoltan SNARC line dot DC 0 up 40 delete 0.372850043099
+zoltan SNARC line dot DC 0 up 25 delete 0.363687999157
+zoltan SNARC line dot DC 0 up 35 delete 0.304792644885
+zoltan SNARC line dot DC 0 down 35 lctrl 0.422643197184
+zoltan SNARC line dot DC 0 down 20 lctrl 0.318621801816
+zoltan SNARC line dot DC 0 down 5 lctrl 0.289138778371
+zoltan SNARC line dot DC 0 down 10 lctrl 0.299190079513
+zoltan SNARC line dot DC 0 up 30 delete 0.430969878293
+zoltan SNARC line dot DC 0 down 15 lctrl 0.386439125079
+zoltan SNARC line dot DC 0 up 5 delete 0.522391888408
+zoltan SNARC line dot DC 0 up 5 delete 0.32893942517
+zoltan SNARC line dot DC 0 down 5 lctrl 0.421186999134
+zoltan SNARC line dot DC 0 down 10 lctrl 0.308475660564
+zoltan SNARC line dot DC 0 up 15 delete 0.339084866493
+zoltan SNARC line dot DC 0 up 5 delete 0.305188803548
+zoltan SNARC line dot DC 0 down 5 delete 0.312574432857
+zoltan SNARC line dot DC 0 up 40 delete 2.00194299725
+zoltan SNARC line dot DC 0 up 35 delete 0.374465474528
+zoltan SNARC line dot DC 0 down 45 lctrl 0.453036825606
+zoltan SNARC line dot DC 0 up 25 delete 0.368560540708
+zoltan SNARC line dot DC 0 down 20 lctrl 0.417475986378
+zoltan SNARC line dot DC 0 down 35 lctrl 0.432397729295
+zoltan SNARC line dot DC 0 up 35 delete 0.39116783164
+zoltan SNARC line dot DC 0 down 10 lctrl 0.379487100523
+zoltan SNARC line dot DC 0 down 10 lctrl 0.399046559491
+zoltan SNARC line dot DC 0 up 20 delete 0.405482737879
+zoltan SNARC line dot DC 0 down 20 lctrl 0.38930847566
+zoltan SNARC line dot DC 0 down 15 lctrl 0.342797629066
+zoltan SNARC line dot DC 0 down 45 lctrl 0.370750962138
+zoltan SNARC line dot DC 0 up 45 delete 0.335389952059
+zoltan SNARC line dot DC 0 up 25 delete 0.348659167415
+zoltan SNARC line dot DC 0 up 10 delete 0.282856583915
+zoltan SNARC line dot DC 0 up 20 delete 0.309262028506
+zoltan SNARC line dot DC 0 up 40 delete 0.287708127657
+zoltan SNARC line dot DC 0 down 15 lctrl 0.398093608932
+zoltan SNARC line dot DC 0 up 10 delete 0.351504370519
+zoltan SNARC line dot DC 0 down 45 lctrl 0.404233018282
+zoltan SNARC line dot DC 0 up 15 delete 0.354295679248
+zoltan SNARC line dot DC 0 down 45 lctrl 0.400897166379
+zoltan SNARC line dot DC 0 down 40 lctrl 0.451822102365
+zoltan SNARC line dot DC 0 up 5 delete 0.470111893825
+zoltan SNARC line dot DC 0 down 10 lctrl 0.982976376417
+zoltan SNARC line dot DC 0 down 30 lctrl 0.414326315051
+zoltan SNARC line dot DC 0 down 15 lctrl 0.321284673944
+zoltan SNARC line dot DC 0 up 15 delete 0.367048698467
+zoltan SNARC line dot DC 0 up 35 delete 0.320529452751
+zoltan SNARC line dot DC 0 up 20 delete 0.363875579584
+zoltan SNARC line dot DC 0 up 40 delete 0.32514932067
+zoltan SNARC line dot DC 0 down 20 lctrl 0.44566974436
+zoltan SNARC line dot DC 0 up 20 delete 0.369758115743
+zoltan SNARC line dot DC 0 up 35 delete 0.270328241248
+zoltan SNARC line dot DC 0 down 45 lctrl 0.425124088302
+zoltan SNARC line dot DC 0 up 20 delete 0.383751755504
+zoltan SNARC line dot DC 0 up 5 delete 0.376186594927
+zoltan SNARC line dot DC 0 up 10 delete 0.333322367809
+zoltan SNARC line dot DC 0 down 45 lctrl 0.439355003306
+zoltan SNARC line dot DC 0 up 10 delete 0.401954056095
+zoltan SNARC line dot DC 0 up 15 delete 0.304133663652
+zoltan SNARC line dot DC 0 up 20 delete 0.305376034012
+zoltan SNARC line dot DC 0 up 30 delete 0.347058784413
+zoltan SNARC line dot DC 0 down 25 lctrl 0.408259698102
+zoltan SNARC line dot DC 0 down 30 lctrl 0.237906924413
+zoltan SNARC line dot DC 0 up 40 delete 0.371688514304
+zoltan SNARC line dot DC 0 down 25 lctrl 0.406207512246
+zoltan SNARC line dot DC 0 down 10 lctrl 0.341196196176
+zoltan SNARC line dot DC 0 up 45 delete 0.375056562847
+zoltan SNARC line dot DC 0 up 35 delete 0.434568202807
+zoltan SNARC line dot DC 0 up 25 delete 0.327899683671
+zoltan SNARC line dot DC 0 up 25 delete 0.378336770558
+zoltan SNARC line dot DC 0 down 15 lctrl 0.392672674607
+zoltan SNARC line dot DC 0 up 45 delete 0.456850027702
+zoltan SNARC line dot DC 0 down 35 lctrl 0.528522898636
+zoltan SNARC line dot DC 0 down 20 lctrl 0.289898899049
+zoltan SNARC line dot DC 0 down 20 lctrl 0.393649072721
+zoltan SNARC line dot DC 0 down 35 lctrl 0.329693946438
+zoltan SNARC line dot DC 0 up 45 delete 0.546859585203
+zoltan SNARC line dot DC 0 down 10 lctrl 2.56509233261
+zoltan SNARC line dot DC 0 up 10 delete 0.515206788172
+zoltan SNARC line dot DC 0 down 15 lctrl 0.600531034586
+zoltan SNARC line dot DC 0 down 5 lctrl 0.377367721678
+zoltan SNARC line dot DC 0 up 20 delete 0.386618656343
+zoltan SNARC line dot DC 0 down 45 lctrl 0.375924122316
+zoltan SNARC line dot DC 0 down 45 lctrl 0.348860746381
+zoltan SNARC line dot DC 0 up 45 delete 0.378579995177
+zoltan SNARC line dot DC 0 down 25 lctrl 0.409172752821
+zoltan SNARC line dot DC 0 up 15 delete 0.402612687365
+zoltan SNARC line dot DC 0 down 20 lctrl 0.41149056096
+zoltan SNARC line dot DC 0 up 30 delete 0.357285067304
+zoltan SNARC line dot DC 0 down 35 lctrl 0.31857035718
+zoltan SNARC line dot DC 0 down 45 delete 0.333295420623
+zoltan SNARC line dot DC 0 down 5 lctrl 0.39968489288
+zoltan SNARC line dot DC 0 up 10 delete 0.367301022139
+zoltan SNARC line dot DC 0 up 25 delete 0.36465564818
+zoltan SNARC line dot DC 0 down 30 lctrl 0.395533626066
+zoltan SNARC line dot DC 0 down 40 lctrl 0.322162382352
+zoltan SNARC line dot DC 0 up 10 delete 0.367820017982
+zoltan SNARC line dot DC 0 down 30 lctrl 0.437722423667
+zoltan SNARC line dot DC 0 up 25 delete 0.376273385871
+zoltan SNARC line dot DC 0 down 10 lctrl 0.389673837533
+zoltan SNARC line dot DC 0 up 45 delete 0.360656965444
+zoltan SNARC line dot DC 0 up 15 delete 0.390883311327
+zoltan SNARC line dot DC 0 up 15 delete 0.330175846149
+zoltan SNARC line dot DC 0 down 40 lctrl 0.397970071823
+zoltan SNARC line dot DC 0 down 30 lctrl 0.459899609476
+zoltan SNARC line dot DC 0 down 45 lctrl 0.340806686821
+zoltan SNARC line dot DC 0 down 40 lctrl 0.325432441125
+zoltan SNARC line dot DC 0 down 10 lctrl 0.346071887398
+zoltan SNARC line dot DC 0 up 45 delete 0.371596123947
+zoltan SNARC line dot DC 0 down 15 lctrl 0.392744067158
+zoltan SNARC line dot DC 0 down 30 lctrl 0.760102833272
+zoltan SNARC line dot DC 0 down 45 lctrl 0.300398153453
+zoltan SNARC line dot DC 0 up 40 delete 0.544507480645
+zoltan SNARC line dot DC 0 up 5 delete 0.4182721533
+zoltan SNARC line dot DC 0 down 30 lctrl 0.414918803224
+zoltan SNARC line dot DC 0 down 10 lctrl 0.309224232449
+zoltan SNARC line dot DC 0 down 5 lctrl 0.350803393663
+zoltan SNARC line dot DC 0 up 25 delete 0.360722408615
+zoltan SNARC line dot DC 0 down 35 lctrl 0.412574047896
+zoltan SNARC line dot DC 0 up 20 delete 0.359986085452
+zoltan SNARC line dot DC 0 down 25 lctrl 0.523237050216
+zoltan SNARC line dot DC 0 down 45 lctrl 0.379160584591
+zoltan SNARC line dot DC 0 up 30 delete 0.379042296936
+zoltan SNARC line dot DC 0 down 10 lctrl 0.573990854053
+zoltan SNARC line dot DC 0 up 10 delete 0.359250112251
+zoltan SNARC line dot DC 0 up 25 delete 0.350642410463
+zoltan SNARC line dot DC 0 down 15 lctrl 0.506510545627
+zoltan SNARC line dot DC 0 down 35 lctrl 0.38014748161
+zoltan SNARC line dot DC 0 down 30 lctrl 0.449427302261
+zoltan SNARC line dot DC 0 up 40 delete 0.389806823659
+zoltan SNARC line dot DC 0 down 5 lctrl 0.411984009468
+zoltan SNARC line dot DC 0 down 45 lctrl 0.437011647835
+zoltan SNARC line dot DC 0 up 30 delete 0.398879276949
+zoltan SNARC line dot DC 0 down 30 lctrl 0.585507452299
+zoltan SNARC line dot DC 0 down 15 lctrl 0.387327332392
+zoltan SNARC line dot DC 0 down 30 lctrl 0.376175396097
+zoltan SNARC line dot DC 0 down 35 lctrl 0.348947887291
+zoltan SNARC line dot DC 0 down 10 lctrl 0.287496749716
+zoltan SNARC line dot DC 0 down 15 lctrl 0.3611854103
+zoltan SNARC line dot DC 0 down 30 lctrl 0.350044322877
+zoltan SNARC line dot DC 0 down 10 lctrl 0.272612452889
+zoltan SNARC line dot DC 0 up 5 delete 0.3846420626
+zoltan SNARC line dot DC 0 up 30 delete 0.293517871407
+zoltan SNARC line dot DC 0 up 35 delete 0.305045318521
+zoltan SNARC line dot DC 0 up 5 delete 0.338165862391
+zoltan SNARC line dot DC 0 down 10 lctrl 0.407867389036
+zoltan SNARC line dot DC 0 down 5 lctrl 0.338438483945
+zoltan SNARC line dot DC 0 down 30 lctrl 0.492028006876
+zoltan SNARC line dot DC 0 down 40 lctrl 0.302198715563
+zoltan SNARC line dot DC 0 up 25 delete 0.537301732562
+zoltan SNARC line dot DC 0 up 40 delete 0.322194578996
+zoltan SNARC line dot DC 0 down 30 lctrl 0.427869901778
+zoltan SNARC line dot DC 0 down 25 lctrl 0.294107209913
+zoltan SNARC line dot DC 0 up 15 delete 0.443169605252
+zoltan SNARC line dot DC 0 down 10 lctrl 0.377476910282
+zoltan SNARC line dot DC 0 up 35 delete 0.440900442041
+zoltan SNARC line dot DC 0 down 25 lctrl 0.408316392186
+zoltan SNARC line dot DC 0 down 15 lctrl 0.356810516823
+zoltan SNARC line dot DC 0 up 20 delete 0.460019296988
+zoltan SNARC line dot DC 0 down 25 lctrl 0.408644307965
+zoltan SNARC line dot DC 0 down 10 lctrl 0.483618734386
+zoltan SNARC line dot DC 0 up 25 delete 0.402581190654
+zoltan SNARC line dot DC 0 up 35 delete 0.451291907691
+zoltan SNARC line dot DC 0 down 35 lctrl 0.513330983911
+zoltan SNARC line dot DC 0 down 40 lctrl 0.376401822468
+zoltan SNARC line dot DC 0 up 10 delete 0.544433638352
+zoltan SNARC line dot DC 0 down 15 lctrl 0.446167392434
+zoltan SNARC line dot DC 0 up 15 delete 1.97315080171
+zoltan SNARC line dot DC 0 up 5 delete 0.817250119948
+zoltan SNARC line dot DC 0 down 15 lctrl 0.401772425048
+zoltan SNARC line dot DC 0 up 35 delete 0.34080948653
+zoltan SNARC line dot DC 0 up 30 delete 0.378946756904
+zoltan SNARC line dot DC 0 down 15 lctrl 0.470968254464
+zoltan SNARC line dot DC 0 down 45 lctrl 0.359201117364
+zoltan SNARC line dot DC 0 down 5 lctrl 0.359480388222
+zoltan SNARC line dot DC 0 up 35 delete 0.426708023017
+zoltan SNARC line dot DC 0 down 45 lctrl 0.53427769812
+zoltan SNARC line dot DC 0 up 15 delete 0.376770683979
+zoltan SNARC line dot DC 0 down 5 lctrl 0.377868169457
+zoltan SNARC line dot DC 0 up 30 lctrl 0.387806782361
+zoltan SNARC line dot DC 0 down 25 delete 0.839674729941
+zoltan SNARC line dot DC 0 down 15 lctrl 0.571986263236
+zoltan SNARC line dot DC 0 up 20 delete 0.427870251737
+zoltan SNARC line dot DC 0 down 30 lctrl 0.434887019543
+zoltan SNARC line dot DC 0 down 15 lctrl 0.342499810144
+zoltan SNARC line dot DC 0 down 40 lctrl 0.318315583769
+zoltan SNARC line dot DC 0 down 15 lctrl 0.348670366246
+zoltan SNARC line dot DC 0 up 45 delete 0.485295759387
+zoltan SNARC line dot DC 0 up 30 delete 0.44171165739
+zoltan SNARC line dot DC 0 down 5 lctrl 0.341427522038
+zoltan SNARC line dot DC 0 up 40 delete 0.401359818105
+zoltan SNARC line dot DC 0 up 10 delete 0.475493632242
+zoltan SNARC line dot DC 0 down 20 lctrl 0.367023151135
+zoltan SNARC line dot DC 0 up 10 delete 0.518137032399
+zoltan SNARC line dot DC 0 down 30 lctrl 0.427507339609
+zoltan SNARC line dot DC 0 down 15 lctrl 0.406036730066
+zoltan SNARC line dot DC 0 down 25 lctrl 0.326662212799
+zoltan SNARC line dot DC 0 down 20 lctrl 0.373246551721
+zoltan SNARC line dot DC 0 up 25 delete 0.296926165753
+zoltan SNARC line dot DC 0 up 45 delete 0.388804178281
+zoltan SNARC line dot DC 0 up 45 delete 0.322280320048
+zoltan SNARC line dot DC 0 up 45 delete 0.322401057452
+zoltan SNARC line dot DC 0 down 40 lctrl 0.376030161253
+zoltan SNARC line dot DC 0 up 35 delete 0.403031943617
+zoltan SNARC line dot DC 0 down 10 lctrl 0.30861214632
+zoltan SNARC line dot DC 0 up 30 lctrl 0.413599440901
+zoltan SNARC line dot DC 0 down 15 delete 0.41597919257
+zoltan SNARC line dot DC 0 down 5 lctrl 0.533892038366
+zoltan SNARC line dot DC 0 down 5 lctrl 0.352400626994
+zoltan SNARC line dot DC 0 down 35 lctrl 0.366708183999
+zoltan SNARC line dot DC 0 down 15 lctrl 0.336218315617
+zoltan SNARC line dot DC 0 up 30 delete 0.442291196916
+zoltan SNARC line dot DC 0 down 40 lctrl 0.527885615134
+zoltan SNARC line dot DC 0 up 40 delete 0.517562042402
+zoltan SNARC line dot DC 0 up 35 delete 0.464709157601
+zoltan SNARC line dot DC 0 down 5 lctrl 0.403437551289
+zoltan SNARC line dot DC 0 down 20 lctrl 0.393726064685
+zoltan SNARC line dot DC 0 up 40 delete 0.435930260675
+zoltan SNARC line dot DC 0 up 45 delete 0.420145157852
+zoltan SNARC line dot DC 0 down 30 lctrl 0.423218537147
+zoltan SNARC line dot DC 0 up 20 delete 0.398027465832
+zoltan SNARC line dot DC 0 down 15 lctrl 0.492349623317
+zoltan SNARC line dot DC 0 down 30 lctrl 0.43032419567
+zoltan SNARC line dot DC 0 up 45 delete 0.407345943451
+zoltan SNARC line dot DC 0 up 45 delete 0.471014449642
+zoltan SNARC line dot DC 0 up 35 delete 0.558859483011
+zoltan SNARC line dot DC 0 up 5 delete 0.66405605575
+zoltan SNARC line dot DC 0 up 25 delete 0.378821469982
+zoltan SNARC line dot DC 0 down 30 lctrl 0.389412064851
+zoltan SNARC line dot DC 0 up 20 delete 0.570687898715
+zoltan SNARC line dot DC 0 up 40 delete 0.315534773945
+zoltan SNARC line dot DC 0 down 45 delete 0.308787827991
+zoltan SNARC line dot DC 0 down 15 lctrl 0.360012332712
+zoltan SNARC line dot DC 0 down 20 lctrl 0.349817896502
+zoltan SNARC line dot DC 0 up 5 delete 0.408137210881
+zoltan SNARC line dot DC 0 down 40 lctrl 0.437927502266
+zoltan SNARC line dot DC 0 up 20 delete 0.421505465907
+zoltan SNARC line dot DC 0 up 30 delete 0.493294524716
+zoltan SNARC line dot DC 0 down 25 lctrl 0.516986702438
+zoltan SNARC line dot DC 0 up 25 delete 0.447001005447
+zoltan SNARC line dot DC 0 up 25 delete 0.440507083087
+zoltan SNARC line dot DC 0 up 40 delete 0.348921290064
+zoltan SNARC line dot DC 0 up 35 delete 0.346582834081
+zoltan SNARC line dot DC 0 up 20 delete 0.343779626597
+zoltan SNARC line dot DC 0 down 20 lctrl 0.457420118211
+zoltan SNARC line dot DC 0 down 40 lctrl 0.340138256572
+zoltan SNARC line dot DC 0 down 15 lctrl 0.32241715577
+zoltan SNARC line dot DC 0 up 20 delete 0.467501516217
+zoltan SNARC line dot DC 0 down 35 lctrl 0.376634198223
+zoltan SNARC line dot DC 0 down 25 lctrl 0.358281413333
+zoltan SNARC line dot DC 0 up 5 delete 0.467052163105
+zoltan SNARC line dot DC 0 down 20 lctrl 0.517857411578
+zoltan SNARC line dot DC 0 down 15 lctrl 0.384302947987
+zoltan SNARC line dot DC 0 down 25 lctrl 0.311935049576
+zoltan SNARC line dot DC 0 down 5 lctrl 0.298038699661
+zoltan SNARC line dot DC 0 down 45 lctrl 0.363036367155
+zoltan SNARC line dot DC 0 up 30 delete 0.393532534883
+zoltan SNARC line dot DC 0 down 20 delete 0.40093041291
+zoltan SNARC line dot DC 0 up 5 delete 0.896804168482
+zoltan SNARC line dot DC 0 up 30 delete 0.357544040278
+zoltan SNARC line dot DC 0 down 20 lctrl 0.455960420531
+zoltan SNARC line dot DC 0 up 40 delete 0.41208164928
+zoltan SNARC line dot DC 0 up 5 delete 0.363903576661
+zoltan SNARC line dot DC 0 up 30 delete 0.527934610025
+zoltan SNARC line dot DC 0 up 45 delete 0.309466757142
+zoltan SNARC line dot DC 0 down 5 lctrl 0.504823021718
+zoltan SNARC line dot DC 0 up 15 delete 0.534660208206
+zoltan SNARC line dot DC 0 down 30 lctrl 0.427501040267
+zoltan SNARC line dot DC 0 down 5 lctrl 0.653140344806
+zoltan SNARC line dot DC 0 up 40 delete 0.392334259919
+zoltan SNARC line dot DC 0 down 30 lctrl 0.381695720051
+zoltan SNARC line dot DC 0 down 20 lctrl 0.349076323884
+zoltan SNARC line dot DC 0 down 20 lctrl 0.607899515686
+zoltan SNARC line dot DC 0 down 25 lctrl 0.408806341056
+zoltan SNARC line dot DC 0 down 40 lctrl 0.483784267111
+zoltan SNARC line dot DC 0 down 10 lctrl 0.380777065911
+zoltan SNARC line dot DC 0 down 35 lctrl 0.41423602447
+zoltan SNARC line dot DC 0 up 25 delete 0.53678238676
+zoltan SNARC line dot DC 0 up 25 delete 0.504020205492
+zoltan SNARC line dot DC 0 down 40 lctrl 0.449568337543
+zoltan SNARC line dot DC 0 down 25 lctrl 0.402680930245
+zoltan SNARC line dot DC 0 down 20 lctrl 0.438862604686
+zoltan SNARC line dot DC 0 down 25 lctrl 0.50245376895
+zoltan SNARC line dot DC 0 down 10 lctrl 0.401577845354
+zoltan SNARC line dot DC 0 down 25 lctrl 0.372053526215
+zoltan SNARC line dot DC 0 up 40 delete 0.473739265308
+zoltan SNARC line dot DC 0 up 5 delete 0.431823439227
+zoltan SNARC line dot DC 0 down 15 lctrl 0.4802184892
+zoltan SNARC line dot DC 0 down 45 lctrl 0.446849821219
+zoltan SNARC line dot DC 0 up 45 delete 0.494446254532
+zoltan SNARC line dot DC 0 down 35 lctrl 0.430409236797
+zoltan SNARC line dot DC 0 down 15 lctrl 0.40657987339
+zoltan SNARC line dot DC 0 down 35 lctrl 0.347952241184
+zoltan SNARC line dot DC 0 down 40 lctrl 0.51706334444
+zoltan SNARC line dot DC 0 up 25 delete 0.542621877405
+zoltan SNARC line dot DC 0 down 20 lctrl 0.480989458749
+zoltan SNARC line dot DC 0 down 25 lctrl 0.422209942393
+zoltan SNARC line dot DC 0 up 35 delete 0.452464985279
+zoltan SNARC line dot DC 0 up 15 delete 0.462519786059
+zoltan SNARC line dot DC 0 up 35 delete 0.477812840229
+zoltan SNARC line dot DC 0 down 10 lctrl 0.424605792385
+zoltan SNARC line dot DC 0 up 35 delete 0.819282357887
+zoltan SNARC line dot DC 0 down 10 lctrl 0.444999564297
+zoltan SNARC line dot DC 0 up 45 delete 0.536979766162
+zoltan SNARC line dot DC 0 up 40 delete 0.471128187775
+zoltan SNARC line dot DC 0 down 25 lctrl 0.432027117971
+zoltan SNARC line dot DC 0 down 45 lctrl 0.466521618469
+zoltan SNARC line dot DC 0 up 30 delete 0.447465406985
+zoltan SNARC line dot DC 0 up 20 delete 0.52388413269
+zoltan SNARC line dot DC 0 up 40 delete 0.499380389658
+zoltan SNARC line dot DC 0 down 20 lctrl 0.483436753373
+zoltan SNARC line dot DC 0 down 35 lctrl 0.40057450005
+zoltan SNARC line dot DC 0 up 20 delete 0.447904961115
+zoltan SNARC line dot DC 0 down 20 lctrl 0.399214541962
+zoltan SNARC line dot DC 0 up 35 delete 0.500779893617
+zoltan SNARC line dot DC 0 up 15 delete 0.464058925449
+zoltan SNARC line dot DC 0 up 40 delete 0.457626946627
+zoltan SNARC line dot DC 0 up 45 delete 0.453130615821
+zoltan SNARC line dot DC 0 up 10 delete 0.465412934158
+zoltan SNARC line dot DC 0 up 35 delete 0.461403052592
+zoltan SNARC line dot DC 0 up 35 delete 0.509246910085
+zoltan SNARC line dot DC 0 up 40 delete 0.505007802436
+zoltan SNARC line dot DC 0 down 10 lctrl 0.439188070726
+zoltan SNARC line dot DC 0 down 20 lctrl 0.459867412836
+zoltan SNARC line dot DC 0 down 35 lctrl 0.410995712598
+zoltan SNARC line dot DC 0 up 10 delete 0.529768068704
+zoltan SNARC line dot DC 0 down 10 lctrl 0.505567744007
+zoltan SNARC line dot DC 0 up 5 delete 0.452201462776
+zoltan SNARC line dot DC 0 up 40 delete 0.584537353527
+zoltan SNARC line dot DC 0 down 30 lctrl 0.499505676584
+zoltan SNARC line dot DC 0 up 45 delete 0.478250994511
+zoltan SNARC line dot DC 0 up 10 delete 0.446854020782
+zoltan SNARC line dot DC 0 down 40 lctrl 0.465283797635
+zoltan SNARC line dot DC 0 up 5 delete 0.476443433126
+zoltan SNARC line dot DC 0 up 40 delete 0.485039936084
+zoltan SNARC line dot DC 0 down 35 lctrl 0.538396418335
+zoltan SNARC line dot DC 0 up 25 delete 0.460418605318
+zoltan SNARC line dot DC 0 up 40 delete 0.495402704728
+zoltan SNARC line dot DC 0 up 35 delete 0.573360919789
+zoltan SNARC line dot DC 0 up 45 delete 0.414840761365
+zoltan SNARC line dot DC 0 up 5 delete 0.489712298524
+zoltan SNARC line dot DC 0 down 5 lctrl 0.512431227799
+zoltan SNARC line dot DC 0 down 25 lctrl 0.448225177701
+zoltan SNARC line dot DC 0 down 30 lctrl 0.43385672705
+zoltan SNARC line dot DC 0 down 5 lctrl 0.488335542188
+zoltan SNARC line dot DC 0 down 10 lctrl 0.413493401964
+zoltan SNARC line dot DC 0 down 40 lctrl 0.491151348357
+zoltan SNARC line dot DC 0 down 10 lctrl 0.423145744742
+zoltan SNARC line dot DC 0 down 30 lctrl 0.36756349475
+zoltan SNARC line dot DC 0 down 40 lctrl 0.471815516048
+zoltan SNARC line dot DC 0 down 20 lctrl 0.523102664236
+zoltan SNARC line dot DC 0 up 10 delete 0.443279843748
+zoltan SNARC line dot DC 0 up 15 delete 0.396145362229
+zoltan SNARC line dot DC 0 up 45 delete 0.416819804854
+zoltan SNARC line dot DC 0 down 5 lctrl 0.52972852283
+zoltan SNARC line dot DC 0 up 5 delete 0.484860404817
+{'delay': u'0', 'dateStr': u'05_18_1541', 'task': u'line', 'participant': u'zoltan', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+zoltan SNARC line arabic DC 0 up 9 delete 2.73879355689
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.45502426822
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.45718599264
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.38815954555
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.407060373251
+zoltan SNARC line arabic DC 0 up 3 delete 0.44980106326
+zoltan SNARC line arabic DC 0 down 3 lctrl 1.12910432796
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.383786051927
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.421140453993
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.343146542658
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.289559084507
+zoltan SNARC line arabic DC 0 up 3 delete 0.400306777989
+zoltan SNARC line arabic DC 0 up 4 delete 0.311010096095
+zoltan SNARC line arabic DC 0 up 7 delete 0.299617384928
+zoltan SNARC line arabic DC 0 down 1 delete 0.280217159339
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.662571860626
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.404319809226
+zoltan SNARC line arabic DC 0 up 5 delete 0.545107668015
+zoltan SNARC line arabic DC 0 down 8 delete 0.38647447139
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.50705018931
+zoltan SNARC line arabic DC 0 up 4 delete 0.386550413466
+zoltan SNARC line arabic DC 0 up 3 delete 0.398445672192
+zoltan SNARC line arabic DC 0 up 8 delete 0.336456990713
+zoltan SNARC line arabic DC 0 up 3 delete 0.331922513888
+zoltan SNARC line arabic DC 0 up 8 delete 0.360336748861
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.394771055639
+zoltan SNARC line arabic DC 0 up 2 delete 0.451111326536
+zoltan SNARC line arabic DC 0 up 9 delete 0.484616830232
+zoltan SNARC line arabic DC 0 up 7 delete 0.385706301546
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.418013530289
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.384273901018
+zoltan SNARC line arabic DC 0 up 7 delete 0.514419370338
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.47042651099
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.390552945799
+zoltan SNARC line arabic DC 0 up 7 delete 0.370896546945
+zoltan SNARC line arabic DC 0 up 8 lctrl 0.414138734621
+zoltan SNARC line arabic DC 0 down 6 delete 0.396386837034
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.796432892228
+zoltan SNARC line arabic DC 0 up 8 delete 0.376541457899
+zoltan SNARC line arabic DC 0 up 1 delete 0.394610072439
+zoltan SNARC line arabic DC 0 up 2 delete 0.383621919053
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.452505931004
+zoltan SNARC line arabic DC 0 up 9 delete 0.398721443416
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.464142566721
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.484630128849
+zoltan SNARC line arabic DC 0 down 7 delete 0.421909323763
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.582152702365
+zoltan SNARC line arabic DC 0 up 1 delete 0.489802589102
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.384262352221
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.432332286124
+zoltan SNARC line arabic DC 0 up 7 delete 0.412178239199
+zoltan SNARC line arabic DC 0 up 9 delete 0.418553173979
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.461125881513
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.390767473415
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.422297433262
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.408837137846
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.422465415733
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.366812473119
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.309684084466
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.388753433577
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.322159582647
+zoltan SNARC line arabic DC 0 up 2 delete 0.41669871749
+zoltan SNARC line arabic DC 0 up 1 lctrl 0.502448869462
+zoltan SNARC line arabic DC 0 up 5 delete 0.457904817635
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.386497918942
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.376755985511
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.314096774
+zoltan SNARC line arabic DC 0 up 8 delete 0.392006694099
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.406640767036
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.482348016983
+zoltan SNARC line arabic DC 0 up 9 delete 0.673037868499
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.584617145203
+zoltan SNARC line arabic DC 0 up 9 delete 0.423850221228
+zoltan SNARC line arabic DC 0 up 7 delete 0.458094147874
+zoltan SNARC line arabic DC 0 up 6 delete 0.54260402927
+zoltan SNARC line arabic DC 0 up 5 delete 0.399589352852
+zoltan SNARC line arabic DC 0 up 2 delete 0.401441709557
+zoltan SNARC line arabic DC 0 up 7 delete 0.399950165203
+zoltan SNARC line arabic DC 0 up 4 delete 0.404150076938
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.512755293985
+zoltan SNARC line arabic DC 0 up 4 delete 0.522357941947
+zoltan SNARC line arabic DC 0 up 2 delete 0.424598793117
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.408085066323
+zoltan SNARC line arabic DC 0 up 1 delete 0.562692982985
+zoltan SNARC line arabic DC 0 up 3 delete 0.428026335452
+zoltan SNARC line arabic DC 0 up 5 delete 0.407983576915
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.458660388791
+zoltan SNARC line arabic DC 0 up 2 delete 0.43791175391
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.558521768256
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.416863200327
+zoltan SNARC line arabic DC 0 up 4 delete 0.482219930353
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.474570428578
+zoltan SNARC line arabic DC 0 up 4 delete 0.437130985381
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.444492117247
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.468362776344
+zoltan SNARC line arabic DC 0 up 3 delete 0.698845575465
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.566127174628
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.434629446416
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.417945987338
+zoltan SNARC line arabic DC 0 up 2 delete 0.392080886359
+zoltan SNARC line arabic DC 0 up 5 delete 0.404539236333
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.35955353059
+zoltan SNARC line arabic DC 0 up 1 delete 0.367024550986
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.369068337717
+zoltan SNARC line arabic DC 0 up 4 delete 0.358903998367
+zoltan SNARC line arabic DC 0 up 9 delete 0.393790457965
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.500484874403
+zoltan SNARC line arabic DC 0 up 4 delete 0.417378696533
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.408697152452
+zoltan SNARC line arabic DC 0 up 3 delete 0.462443843986
+zoltan SNARC line arabic DC 0 up 3 delete 0.394786104069
+zoltan SNARC line arabic DC 0 up 9 delete 0.393899646573
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.492278580728
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.601152219766
+zoltan SNARC line arabic DC 0 up 3 delete 0.410651698494
+zoltan SNARC line arabic DC 0 up 9 delete 0.389771127386
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.50630021757
+zoltan SNARC line arabic DC 0 up 6 delete 0.525581455575
+zoltan SNARC line arabic DC 0 up 4 delete 1.05234683761
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.476202658254
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.454267297209
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.389259830736
+zoltan SNARC line arabic DC 0 up 5 delete 0.423729483828
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.467834681451
+zoltan SNARC line arabic DC 0 up 1 delete 0.648708757239
+zoltan SNARC line arabic DC 0 up 7 delete 0.606294933121
+zoltan SNARC line arabic DC 0 up 5 delete 0.583008713042
+zoltan SNARC line arabic DC 0 up 1 delete 0.55470471656
+zoltan SNARC line arabic DC 0 up 4 delete 0.516079947058
+zoltan SNARC line arabic DC 0 up 6 delete 0.602846043013
+zoltan SNARC line arabic DC 0 up 7 delete 0.517974299382
+zoltan SNARC line arabic DC 0 up 8 delete 0.492867569268
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.488669757313
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.748807411946
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.677169187395
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.52084015033
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.464793848761
+zoltan SNARC line arabic DC 0 up 3 delete 1.56922960089
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.633071339005
+zoltan SNARC line arabic DC 0 up 4 delete 0.484606681293
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.552264421207
+zoltan SNARC line arabic DC 0 up 9 delete 0.581693200314
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.564571236991
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.520628422426
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.50506029696
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.513084259655
+zoltan SNARC line arabic DC 0 up 8 delete 2.67270085367
+zoltan SNARC line arabic DC 0 down 9 lctrl 1.09790613349
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.342215639797
+zoltan SNARC line arabic DC 0 up 5 delete 0.386196600386
+zoltan SNARC line arabic DC 0 up 9 delete 0.493065298637
+zoltan SNARC line arabic DC 0 up 2 lctrl 0.647061129173
+zoltan SNARC line arabic DC 0 up 1 delete 0.485438194526
+zoltan SNARC line arabic DC 0 up 8 delete 0.394633170032
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.460375209845
+zoltan SNARC line arabic DC 0 up 8 delete 0.487090022154
+zoltan SNARC line arabic DC 0 up 3 delete 0.424000355564
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.398191598706
+zoltan SNARC line arabic DC 0 up 2 delete 0.457455464522
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.398682597472
+zoltan SNARC line arabic DC 0 up 3 delete 0.475223460431
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.498405391398
+zoltan SNARC line arabic DC 0 up 6 delete 0.533465432884
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.394858896474
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.370242815163
+zoltan SNARC line arabic DC 0 down 1 delete 0.36297057402
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.504060801257
+zoltan SNARC line arabic DC 0 up 8 delete 0.423397368486
+zoltan SNARC line arabic DC 0 up 7 delete 0.412554449944
+zoltan SNARC line arabic DC 0 up 3 delete 0.388821326495
+zoltan SNARC line arabic DC 0 up 5 delete 0.372169014161
+zoltan SNARC line arabic DC 0 up 8 delete 0.348568176909
+zoltan SNARC line arabic DC 0 up 8 delete 0.322586188133
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.52529448552
+zoltan SNARC line arabic DC 0 up 7 lctrl 0.433172548444
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.557714052538
+zoltan SNARC line arabic DC 0 up 8 delete 0.368793616384
+zoltan SNARC line arabic DC 0 up 8 delete 0.382219265419
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.432826784523
+zoltan SNARC line arabic DC 0 up 1 delete 0.550939459466
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.595655343364
+zoltan SNARC line arabic DC 0 up 4 delete 0.521949884529
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.492338074524
+zoltan SNARC line arabic DC 0 up 2 delete 0.655537244689
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.509120573268
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.384194109345
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.529125535748
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.524988267476
+zoltan SNARC line arabic DC 0 up 7 delete 0.390027650614
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.496731166102
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.437787866835
+zoltan SNARC line arabic DC 0 up 1 delete 0.503937264148
+zoltan SNARC line arabic DC 0 up 4 lctrl 0.385849086648
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.505607639843
+zoltan SNARC line arabic DC 0 up 8 delete 0.532388595249
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.456934718863
+zoltan SNARC line arabic DC 0 up 2 delete 0.70091001004
+zoltan SNARC line arabic DC 0 up 3 delete 0.656578736009
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.576219421506
+zoltan SNARC line arabic DC 0 down 8 lctrl 1.86182741831
+zoltan SNARC line arabic DC 0 up 6 delete 0.550528252377
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.58955408003
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.534979374901
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.471078142997
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.468605651
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.341627701149
+zoltan SNARC line arabic DC 0 up 2 delete 0.498458585847
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.488874485945
+zoltan SNARC line arabic DC 0 up 5 delete 0.633069939155
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.482610839561
+zoltan SNARC line arabic DC 0 up 8 delete 0.560667044396
+zoltan SNARC line arabic DC 0 up 9 delete 0.556733454865
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.485010889111
+zoltan SNARC line arabic DC 0 up 6 delete 0.624701962352
+zoltan SNARC line arabic DC 0 down 5 lctrl 1.34854787903
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.476537223341
+zoltan SNARC line arabic DC 0 up 1 delete 0.537186244615
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.486877944284
+zoltan SNARC line arabic DC 0 up 8 delete 0.510609317917
+zoltan SNARC line arabic DC 0 up 5 delete 0.467058112488
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.435240132691
+zoltan SNARC line arabic DC 0 up 5 delete 0.445173146181
+zoltan SNARC line arabic DC 0 up 1 delete 0.368524494472
+zoltan SNARC line arabic DC 0 up 8 delete 0.431409432429
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.625320347819
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.424737378657
+zoltan SNARC line arabic DC 0 up 5 delete 0.540459453056
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.901821244952
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.422686592654
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.513669398599
+zoltan SNARC line arabic DC 0 up 4 delete 0.648989077992
+zoltan SNARC line arabic DC 0 up 5 delete 0.378685684147
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.377831423291
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.516576895199
+zoltan SNARC line arabic DC 0 up 6 delete 0.43005682357
+zoltan SNARC line arabic DC 0 up 7 lctrl 0.398407176213
+zoltan SNARC line arabic DC 0 up 6 delete 0.554251513855
+zoltan SNARC line arabic DC 0 up 8 delete 0.39045565595
+zoltan SNARC line arabic DC 0 up 1 delete 0.404555684614
+zoltan SNARC line arabic DC 0 up 6 delete 0.346046340062
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.460652030961
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.618547854534
+zoltan SNARC line arabic DC 0 up 9 delete 0.396900933389
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.636510780099
+zoltan SNARC line arabic DC 0 up 1 delete 0.663176247555
+zoltan SNARC line arabic DC 0 up 4 delete 0.384516425711
+zoltan SNARC line arabic DC 0 up 6 delete 0.474973586504
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.414034445505
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.601060179371
+zoltan SNARC line arabic DC 0 up 8 delete 0.781446756031
+zoltan SNARC line arabic DC 0 up 1 lctrl 0.525251440013
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.401624740458
+zoltan SNARC line arabic DC 0 up 2 delete 0.528295772336
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.565635825904
+zoltan SNARC line arabic DC 0 up 4 delete 0.590326449437
+zoltan SNARC line arabic DC 0 up 4 delete 0.452999729478
+zoltan SNARC line arabic DC 0 up 8 delete 0.716253458952
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.571804982148
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.64056370718
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.396709853329
+zoltan SNARC line arabic DC 0 up 7 delete 0.452075125962
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.384348093277
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.402538145147
+zoltan SNARC line arabic DC 0 up 3 delete 0.370610976745
+zoltan SNARC line arabic DC 0 up 2 delete 0.381944544086
+zoltan SNARC line arabic DC 0 up 8 delete 0.339930728227
+zoltan SNARC line arabic DC 0 down 9 delete 0.374852184177
+zoltan SNARC line arabic DC 0 up 2 delete 0.501540714224
+zoltan SNARC line arabic DC 0 up 8 delete 0.559191948323
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.504199386793
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.450693820101
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.453962479016
+zoltan SNARC line arabic DC 0 up 7 delete 0.452471984547
+zoltan SNARC line arabic DC 0 up 5 delete 0.504868516971
+zoltan SNARC line arabic DC 0 up 9 delete 0.464046326764
+zoltan SNARC line arabic DC 0 up 3 delete 0.549064005172
+zoltan SNARC line arabic DC 0 up 6 delete 0.493482805072
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.503859922217
+zoltan SNARC line arabic DC 0 up 6 lctrl 0.43666623388
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.460040294794
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.496529587137
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.446197139328
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.352116806611
+zoltan SNARC line arabic DC 0 up 7 delete 0.437989445803
+zoltan SNARC line arabic DC 0 up 6 delete 0.454785243161
+zoltan SNARC line arabic DC 0 up 1 delete 0.448414507948
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.41929649641
+zoltan SNARC line arabic DC 0 up 8 delete 0.458708683749
+zoltan SNARC line arabic DC 0 up 4 delete 0.392018242899
+zoltan SNARC line arabic DC 0 up 5 delete 0.440595973811
+zoltan SNARC line arabic DC 0 up 9 delete 0.445952864819
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.582566009238
+zoltan SNARC line arabic DC 0 up 6 delete 0.541522992076
+zoltan SNARC line arabic DC 0 up 2 delete 0.375977316766
+zoltan SNARC line arabic DC 0 up 9 delete 0.420313490285
+zoltan SNARC line arabic DC 0 up 9 delete 0.498641616749
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.499513025818
+zoltan SNARC line arabic DC 0 up 1 delete 0.74370179472
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.517958201064
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.429924537373
+zoltan SNARC line arabic DC 0 up 4 lctrl 0.432100260336
+zoltan SNARC line arabic DC 0 up 5 delete 0.455922274512
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.396285347626
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.398656000245
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.34809257654
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.348617521759
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.31781303621
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.48440230262
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.404847554157
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.434557353939
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.337726308258
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.407222056379
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.364977264624
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.406357646578
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.344227579852
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.384377490209
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.368653630994
+zoltan SNARC line arabic DC 0 up 1 delete 0.424101844972
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.416603877387
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.344464855094
+zoltan SNARC line arabic DC 0 down 2 lctrl 0.436369114883
+zoltan SNARC line arabic DC 0 down 8 lctrl 0.422729988124
+zoltan SNARC line arabic DC 0 up 3 delete 0.403827760576
+zoltan SNARC line arabic DC 0 up 6 delete 0.540685529464
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.403448050194
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.480705288403
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.442034673681
+zoltan SNARC line arabic DC 0 up 5 delete 0.488291446789
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.456327182259
+zoltan SNARC line arabic DC 0 up 5 delete 0.536197597779
+zoltan SNARC line arabic DC 0 up 2 delete 0.430444583108
+zoltan SNARC line arabic DC 0 up 8 delete 0.442704853751
+zoltan SNARC line arabic DC 0 down 9 lctrl 0.434018060216
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.506748170828
+zoltan SNARC line arabic DC 0 up 6 delete 0.38823163803
+zoltan SNARC line arabic DC 0 down 6 lctrl 0.637185159729
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.384782747922
+zoltan SNARC line arabic DC 0 down 6 delete 0.444052563114
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.427587131282
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.422236889579
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.388523857535
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.380054041361
+zoltan SNARC line arabic DC 0 up 3 delete 0.422334879357
+zoltan SNARC line arabic DC 0 up 7 delete 0.821685207149
+zoltan SNARC line arabic DC 0 up 1 delete 0.415988991546
+zoltan SNARC line arabic DC 0 up 2 delete 0.399865124073
+zoltan SNARC line arabic DC 0 up 8 delete 0.373836940114
+zoltan SNARC line arabic DC 0 down 7 lctrl 0.508706916436
+zoltan SNARC line arabic DC 0 up 2 delete 0.810031423222
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.755556807646
+zoltan SNARC line arabic DC 0 down 5 lctrl 0.87145211397
+zoltan SNARC line arabic DC 0 down 3 lctrl 0.37967818058
+zoltan SNARC line arabic DC 0 up 1 delete 0.482957303404
+zoltan SNARC line arabic DC 0 up 5 delete 0.46226536261
+zoltan SNARC line arabic DC 0 up 1 delete 0.352315585867
+zoltan SNARC line arabic DC 0 down 4 lctrl 0.464799798141
+zoltan SNARC line arabic DC 0 up 1 delete 0.715568580421
+zoltan SNARC line arabic DC 0 down 1 lctrl 0.470053799887
+zoltan SNARC line arabic DC 0 up 5 delete 0.503126048796
+zoltan SNARC line arabic DC 0 up 9 delete 0.398446022158
+{'participant': u'zoltan', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1555', 'autopilot': False, 'exp_id': u'SNARC'}
+zoltan SNARC_only CD 7 delete 3.52614839642
+zoltan SNARC_only CD 2 lctrl 0.578134421674
+zoltan SNARC_only CD 6 lctrl 0.634563583291
+zoltan SNARC_only CD 6 lctrl 1.37662264943
+zoltan SNARC_only CD 4 delete 0.404918246779
+zoltan SNARC_only CD 6 lctrl 0.658261010463
+zoltan SNARC_only CD 6 lctrl 0.411253635684
+zoltan SNARC_only CD 3 delete 0.565271863881
+zoltan SNARC_only CD 8 lctrl 0.540144835886
+zoltan SNARC_only CD 6 lctrl 0.452910838754
+zoltan SNARC_only CD 1 delete 0.57218994198
+zoltan SNARC_only CD 5 lctrl 0.485862700225
+zoltan SNARC_only CD 8 lctrl 0.613196562939
+zoltan SNARC_only CD 1 delete 0.753469625444
+zoltan SNARC_only CD 3 delete 4.4074288848
+zoltan SNARC_only CD 2 lctrl 0.513088109255
+zoltan SNARC_only CD 4 lctrl 0.466856883486
+zoltan SNARC_only CD 3 delete 0.523631109092
+zoltan SNARC_only CD 2 lctrl 0.50521743056
+zoltan SNARC_only CD 5 delete 0.527114645589
+zoltan SNARC_only CD 3 delete 0.6070809511
+zoltan SNARC_only CD 4 lctrl 0.466852333961
+zoltan SNARC_only CD 4 lctrl 0.369891101862
+zoltan SNARC_only CD 8 lctrl 0.512338487479
+zoltan SNARC_only CD 4 lctrl 0.448617136801
+zoltan SNARC_only CD 1 delete 0.409027168018
+zoltan SNARC_only CD 9 lctrl 0.539697232594
+zoltan SNARC_only CD 2 lctrl 0.542124229338
+zoltan SNARC_only CD 3 delete 0.462338854941
+zoltan SNARC_only CD 2 lctrl 0.505029500171
+zoltan SNARC_only CD 4 lctrl 0.424186536133
+zoltan SNARC_only CD 2 lctrl 0.408345439155
+zoltan SNARC_only CD 8 lctrl 0.402703677872
+zoltan SNARC_only CD 5 delete 0.551546646107
+zoltan SNARC_only CD 3 delete 0.423302878342
+zoltan SNARC_only CD 3 delete 0.408416831702
+zoltan SNARC_only CD 4 lctrl 0.519351055718
+zoltan SNARC_only CD 6 lctrl 0.416653922162
+zoltan SNARC_only CD 6 lctrl 0.378665386266
+zoltan SNARC_only CD 6 lctrl 0.384812844779
+zoltan SNARC_only CD 9 delete 0.575240923608
+zoltan SNARC_only CD 5 lctrl 0.428770357812
+zoltan SNARC_only CD 3 delete 0.668013092836
+zoltan SNARC_only CD 6 lctrl 0.545471280071
+zoltan SNARC_only CD 8 lctrl 0.568390388464
+zoltan SNARC_only CD 3 delete 0.421190848734
+zoltan SNARC_only CD 8 lctrl 0.560968712914
+zoltan SNARC_only CD 9 delete 0.536246942633
+zoltan SNARC_only CD 9 delete 0.448762721608
+zoltan SNARC_only CD 5 delete 0.573621642579
+zoltan SNARC_only CD 3 delete 0.466826786625
+zoltan SNARC_only CD 6 lctrl 0.510437135883
+zoltan SNARC_only CD 7 delete 0.601425191278
+zoltan SNARC_only CD 5 delete 0.490748190427
+zoltan SNARC_only CD 1 delete 0.480626196655
+zoltan SNARC_only CD 7 delete 0.373105516439
+zoltan SNARC_only CD 6 lctrl 0.364384426484
+zoltan SNARC_only CD 1 delete 0.444639801837
+zoltan SNARC_only CD 9 lctrl 0.537182744982
+zoltan SNARC_only CD 3 delete 0.568092919504
+zoltan SNARC_only CD 9 delete 0.434550704635
+zoltan SNARC_only CD 5 delete 0.507288164481
+zoltan SNARC_only CD 2 lctrl 1.03784120127
+zoltan SNARC_only CD 1 delete 0.506722273531
+zoltan SNARC_only CD 9 delete 0.714140029489
+zoltan SNARC_only CD 4 lctrl 1.09580425283
+zoltan SNARC_only CD 7 delete 0.53517115489
+zoltan SNARC_only CD 8 lctrl 0.623178571317
+zoltan SNARC_only CD 7 delete 0.572878670111
+zoltan SNARC_only CD 9 delete 0.532450538787
+zoltan SNARC_only CD 5 delete 0.532789303437
+zoltan SNARC_only CD 8 lctrl 0.550752578965
+zoltan SNARC_only CD 5 delete 0.508472090936
+zoltan SNARC_only CD 3 delete 0.507003644172
+zoltan SNARC_only CD 4 lctrl 1.10991618025
+zoltan SNARC_only CD 4 lctrl 0.606466065266
+zoltan SNARC_only CD 4 lctrl 0.448548193996
+zoltan SNARC_only CD 3 delete 0.51479278137
+zoltan SNARC_only CD 6 lctrl 0.535301341304
+zoltan SNARC_only CD 5 delete 0.608844067123
+zoltan SNARC_only CD 1 delete 0.550015555877
+zoltan SNARC_only CD 7 delete 0.555143220805
+zoltan SNARC_only CD 8 lctrl 0.524628854979
+zoltan SNARC_only CD 1 delete 0.48306019267
+zoltan SNARC_only CD 6 lctrl 0.565080433858
+zoltan SNARC_only CD 5 delete 0.412230033795
+zoltan SNARC_only CD 3 delete 0.563078992705
+zoltan SNARC_only CD 6 lctrl 0.616300389054
+zoltan SNARC_only CD 9 delete 0.543612973986
+zoltan SNARC_only CD 1 delete 0.49037337954
+zoltan SNARC_only CD 5 delete 0.440208214273
+zoltan SNARC_only CD 7 delete 0.44854364447
+zoltan SNARC_only CD 4 lctrl 0.605368579789
+zoltan SNARC_only CD 6 lctrl 0.481876966136
+zoltan SNARC_only CD 8 lctrl 0.468925867586
+zoltan SNARC_only CD 3 delete 0.467644301316
+zoltan SNARC_only CD 1 delete 0.547612706614
+zoltan SNARC_only CD 7 delete 0.436649435633
+zoltan SNARC_only CD 7 delete 0.836198892648
+zoltan SNARC_only CD 9 delete 0.38712575343
+zoltan SNARC_only CD 3 delete 0.446929262933
+zoltan SNARC_only CD 1 delete 0.374328988768
+zoltan SNARC_only CD 2 lctrl 0.5451384648
+zoltan SNARC_only CD 7 delete 0.467025915845
+zoltan SNARC_only CD 7 delete 0.446610796163
+zoltan SNARC_only CD 6 lctrl 0.569398983218
+zoltan SNARC_only CD 6 lctrl 0.463170368173
+zoltan SNARC_only CD 4 lctrl 0.477518170977
+zoltan SNARC_only CD 9 delete 0.759573688487
+zoltan SNARC_only CD 2 lctrl 0.430008878571
+zoltan SNARC_only CD 2 lctrl 0.452676013258
+zoltan SNARC_only CD 9 delete 0.447663836279
+zoltan SNARC_only CD 4 lctrl 0.501262843223
+zoltan SNARC_only CD 7 delete 0.435564548839
+zoltan SNARC_only CD 8 lctrl 0.49715812155
+zoltan SNARC_only CD 7 delete 0.4135332978
+zoltan SNARC_only CD 2 lctrl 0.394602723205
+zoltan SNARC_only CD 2 lctrl 0.427241017398
+zoltan SNARC_only CD 1 delete 0.4838553097
+zoltan SNARC_only CD 1 delete 0.449159230237
+zoltan SNARC_only CD 7 lctrl 0.477085616116
+zoltan SNARC_only CD 3 delete 0.539168087809
+zoltan SNARC_only CD 1 delete 0.480962161597
+zoltan SNARC_only CD 6 lctrl 0.578704162221
+zoltan SNARC_only CD 2 lctrl 0.658553929898
+zoltan SNARC_only CD 4 lctrl 0.493770125086
+zoltan SNARC_only CD 2 lctrl 0.438033891161
+zoltan SNARC_only CD 8 lctrl 0.53624484285
+zoltan SNARC_only CD 1 delete 0.796447240729
+zoltan SNARC_only CD 5 delete 0.481388417116
+zoltan SNARC_only CD 9 delete 0.524089911218
+zoltan SNARC_only CD 2 lctrl 0.494857461625
+zoltan SNARC_only CD 5 delete 0.634757813023
+zoltan SNARC_only CD 3 delete 0.466875081584
+zoltan SNARC_only CD 7 delete 0.540025148377
+zoltan SNARC_only CD 5 delete 0.449330012412
+zoltan SNARC_only CD 9 delete 0.414681178019
+zoltan SNARC_only CD 9 delete 0.38730773444
+zoltan SNARC_only CD 7 delete 0.384901035577
+zoltan SNARC_only CD 6 lctrl 0.58515468911
+zoltan SNARC_only CD 7 delete 0.548047011296
+zoltan SNARC_only CD 8 lctrl 0.606953214432
+zoltan SNARC_only CD 4 lctrl 0.457447765326
+zoltan SNARC_only CD 9 delete 0.529018446927
+zoltan SNARC_only CD 2 lctrl 0.494778019915
+zoltan SNARC_only CD 4 lctrl 0.480283932371
+zoltan SNARC_only CD 9 delete 0.499465430781
+zoltan SNARC_only CD 1 delete 0.47942897159
+zoltan SNARC_only CD 6 lctrl 0.567188263907
+zoltan SNARC_only CD 1 delete 0.527783775764
+zoltan SNARC_only CD 7 delete 1.55832508878
+zoltan SNARC_only CD 8 lctrl 0.577969588874
+zoltan SNARC_only CD 5 delete 0.747528995347
+zoltan SNARC_only CD 7 lctrl 0.44901889488
+zoltan SNARC_only CD 2 lctrl 0.493241330267
+zoltan SNARC_only CD 5 delete 0.467177799994
+zoltan SNARC_only CD 4 lctrl 0.424757676537
+zoltan SNARC_only CD 8 lctrl 0.469035756119
+zoltan SNARC_only CD 2 lctrl 0.451347901846
+zoltan SNARC_only CD 1 delete 0.497723312576
+zoltan SNARC_only CD 4 lctrl 0.469351773143
+zoltan SNARC_only CD 2 lctrl 0.661262297279
+zoltan SNARC_only CD 6 lctrl 0.57584986007
+zoltan SNARC_only CD 1 delete 0.447871714587
+zoltan SNARC_only CD 3 delete 0.609055095101
+zoltan SNARC_only CD 5 delete 0.542983389681
+zoltan SNARC_only CD 1 delete 0.414664379772
+zoltan SNARC_only CD 4 lctrl 0.52345052794
+zoltan SNARC_only CD 5 delete 0.535684201353
+zoltan SNARC_only CD 4 lctrl 0.414899555231
+zoltan SNARC_only CD 9 delete 0.541162879654
+zoltan SNARC_only CD 2 lctrl 0.537165946731
+zoltan SNARC_only CD 1 delete 0.717736254221
+zoltan SNARC_only CD 5 delete 0.519971890935
+zoltan SNARC_only CD 3 lctrl 0.444527113596
+zoltan SNARC_only CD 8 lctrl 0.600016588269
+zoltan SNARC_only CD 2 lctrl 0.519301710869
+zoltan SNARC_only CD 5 delete 0.579825095254
+zoltan SNARC_only CD 2 lctrl 0.634208720319
+zoltan SNARC_only CD 1 delete 0.66924531425
+zoltan SNARC_only CD 3 delete 0.484659875739
+zoltan SNARC_only CD 1 delete 0.457283632451
+zoltan SNARC_only CD 6 lctrl 0.567434288234
+zoltan SNARC_only CD 9 delete 0.547870279734
+zoltan SNARC_only CD 8 lctrl 0.56268108423
+zoltan SNARC_only CD 2 lctrl 0.425737924248
+zoltan SNARC_only CD 9 delete 0.690336563377
+zoltan SNARC_only CD 9 delete 0.382545081418
+zoltan SNARC_only CD 8 lctrl 0.392427000243
+zoltan SNARC_only CD 8 lctrl 0.427889849696
+zoltan SNARC_only CD 7 lctrl 0.40917555253
+zoltan SNARC_only CD 5 delete 0.494522196608
+zoltan SNARC_only CD 9 delete 0.44752735052
+zoltan SNARC_only CD 8 lctrl 0.485222267056
+zoltan SNARC_only CD 1 delete 0.395435986258
+zoltan SNARC_only CD 4 lctrl 0.475249707692
+zoltan SNARC_only CD 9 delete 0.51170715336
+zoltan SNARC_only CD 4 lctrl 0.443372584068
+zoltan SNARC_only CD 2 lctrl 0.533994227702
+zoltan SNARC_only CD 3 delete 0.509272807383
+zoltan SNARC_only CD 1 delete 0.799710300231
+zoltan SNARC_only CD 4 lctrl 0.498027080874
+zoltan SNARC_only CD 6 lctrl 0.557401535152
+zoltan SNARC_only CD 2 lctrl 0.541577936343
+zoltan SNARC_only CD 6 lctrl 0.517397559564
+zoltan SNARC_only CD 7 delete 0.559143303395
+zoltan SNARC_only CD 9 delete 0.542366404068
+zoltan SNARC_only CD 7 delete 0.617598753572
+zoltan SNARC_only CD 6 lctrl 0.703067884864
+zoltan SNARC_only CD 7 delete 0.540306868977
+zoltan SNARC_only CD 4 lctrl 0.534340341586
+zoltan SNARC_only CD 8 lctrl 0.40240515902
+zoltan SNARC_only CD 4 lctrl 0.509018733894
+zoltan SNARC_only CD 2 lctrl 0.470529750219
+zoltan SNARC_only CD 7 delete 0.595475462138
+zoltan SNARC_only CD 6 lctrl 0.43992964334
+zoltan SNARC_only CD 8 lctrl 0.464756052705
+zoltan SNARC_only CD 8 lctrl 0.441246905884
+zoltan SNARC_only CD 1 delete 0.426995343038
+zoltan SNARC_only CD 5 delete 0.584483109189
+zoltan SNARC_only CD 2 lctrl 0.509596873566
+zoltan SNARC_only CD 6 lctrl 0.49875045539
+zoltan SNARC_only CD 1 delete 0.500902380838
+zoltan SNARC_only CD 8 lctrl 0.438576684523
+zoltan SNARC_only CD 3 delete 0.480961111709
+zoltan SNARC_only CD 1 delete 0.466775691955
+zoltan SNARC_only CD 4 lctrl 0.426078788678
+zoltan SNARC_only CD 2 lctrl 0.504605694397
+zoltan SNARC_only CD 1 delete 0.441236057017
+zoltan SNARC_only CD 6 lctrl 0.905354826227
+zoltan SNARC_only CD 9 delete 0.44892440474
+zoltan SNARC_only CD 9 delete 0.410010565396
+zoltan SNARC_only CD 5 delete 0.442439231465
+zoltan SNARC_only CD 1 delete 0.424377966159
+zoltan SNARC_only CD 8 lctrl 0.527403715423
+zoltan SNARC_only CD 4 lctrl 0.354579849591
+zoltan SNARC_only CD 3 delete 0.477706101366
+zoltan SNARC_only CD 2 lctrl 0.494968400049
+zoltan SNARC_only CD 6 lctrl 0.442333892457
+zoltan SNARC_only CD 8 lctrl 0.390464055075
+zoltan SNARC_only CD 9 delete 0.629568904485
+zoltan SNARC_only CD 6 lctrl 0.553609680828
+zoltan SNARC_only CD 8 lctrl 0.584925812989
+zoltan SNARC_only CD 2 lctrl 0.432577260563
+zoltan SNARC_only CD 3 delete 0.575097088618
+zoltan SNARC_only CD 3 delete 0.382743860675
+zoltan SNARC_only CD 3 delete 0.385284245589
+zoltan SNARC_only CD 5 delete 0.655432255644
+zoltan SNARC_only CD 9 delete 0.478846982318
+zoltan SNARC_only CD 3 lctrl 0.491240939005
+zoltan SNARC_only CD 9 delete 0.805167630759
+zoltan SNARC_only CD 7 delete 0.540615186805
+zoltan SNARC_only CD 5 delete 0.60915973418
+zoltan SNARC_only CD 5 delete 0.318987863619
+zoltan SNARC_only CD 4 lctrl 0.529660979875
+zoltan SNARC_only CD 7 delete 0.449543140174
+zoltan SNARC_only CD 3 delete 0.562094545432
+zoltan SNARC_only CD 8 lctrl 0.474793005353
+zoltan SNARC_only CD 7 delete 0.748135832026
+zoltan SNARC_only CD 4 lctrl 0.548640549358
+zoltan SNARC_only CD 4 lctrl 0.446959009827
+zoltan SNARC_only CD 3 delete 0.410828430053
+zoltan SNARC_only CD 3 delete 0.417429441237
+zoltan SNARC_only CD 2 lctrl 0.563489849836
+zoltan SNARC_only CD 7 delete 0.49641619897
+zoltan SNARC_only CD 2 delete 0.404651224646
+zoltan SNARC_only CD 6 lctrl 0.571611452346
+zoltan SNARC_only CD 3 delete 0.627122659749
+zoltan SNARC_only CD 2 lctrl 0.979371402595
+zoltan SNARC_only CD 8 lctrl 2.18936348992
+zoltan SNARC_only CD 4 lctrl 0.413356916208
+zoltan SNARC_only CD 1 delete 0.367168735942
+zoltan SNARC_only CD 8 lctrl 0.398637102218
+zoltan SNARC_only CD 5 delete 0.421367580293
+zoltan SNARC_only CD 3 delete 0.449114784871
+zoltan SNARC_only CD 1 lctrl 0.370543783756
+zoltan SNARC_only CD 9 delete 0.500270696753
+zoltan SNARC_only CD 8 lctrl 0.412925411234
+zoltan SNARC_only CD 1 delete 0.514519109929
+zoltan SNARC_only CD 1 delete 0.334388706538
+zoltan SNARC_only CD 1 delete 0.296844974229
+zoltan SNARC_only CD 9 delete 0.429386643504
+zoltan SNARC_only CD 6 lctrl 0.449155380633
+zoltan SNARC_only CD 3 delete 0.39074577568
+zoltan SNARC_only CD 5 delete 0.427483892054
+zoltan SNARC_only CD 2 lctrl 0.420867132514
+zoltan SNARC_only CD 6 lctrl 0.765376782936
+zoltan SNARC_only CD 9 delete 0.483173230874
+zoltan SNARC_only CD 4 lctrl 0.385039971079
+zoltan SNARC_only CD 7 delete 0.473182823371
+zoltan SNARC_only CD 1 delete 0.474842700165
+zoltan SNARC_only CD 5 delete 0.474504985406
+zoltan SNARC_only CD 5 delete 0.431320191739
+zoltan SNARC_only CD 5 delete 0.377075852135
+zoltan SNARC_only CD 6 lctrl 0.469134795785
+zoltan SNARC_only CD 4 lctrl 0.518682625465
+zoltan SNARC_only CD 7 lctrl 0.398608755175
+zoltan SNARC_only CD 4 lctrl 0.576652676293
+zoltan SNARC_only CD 3 delete 0.47930368466
+zoltan SNARC_only CD 7 delete 0.438929097749
+zoltan SNARC_only CD 4 lctrl 0.469076001922
+zoltan SNARC_only CD 7 delete 0.500765195149
+zoltan SNARC_only CD 2 lctrl 0.465472777916
+zoltan SNARC_only CD 2 lctrl 0.438975292931
+zoltan SNARC_only CD 9 delete 0.376301382952
+zoltan SNARC_only CD 7 delete 0.574823067214
+zoltan SNARC_only CD 8 lctrl 0.530976492602
+zoltan SNARC_only CD 8 lctrl 0.484745266833
+zoltan SNARC_only CD 8 lctrl 0.422217991552
+zoltan SNARC_only CD 3 delete 0.402815666184
+zoltan SNARC_only CD 2 lctrl 0.886690223873
+zoltan SNARC_only CD 6 lctrl 0.729863888704
+zoltan SNARC_only CD 1 delete 0.490776887433
+zoltan SNARC_only CD 6 lctrl 0.573440361499
+zoltan SNARC_only CD 6 lctrl 0.97971681655
+zoltan SNARC_only CD 2 lctrl 0.568453381889
+zoltan SNARC_only CD 7 delete 0.456880124559
+zoltan SNARC_only CD 1 delete 0.566345551841
+zoltan SNARC_only CD 8 lctrl 0.787949077512
+zoltan SNARC_only CD 8 lctrl 0.478574010802
+zoltan SNARC_only CD 3 delete 0.39575445302
+zoltan SNARC_only CD 5 delete 0.559590206762
+zoltan SNARC_only CD 2 lctrl 0.505222330048
+zoltan SNARC_only CD 2 lctrl 0.419321343816
+zoltan SNARC_only CD 8 delete 0.404996288638
+zoltan SNARC_only CD 3 delete 0.653023457002
+zoltan SNARC_only CD 4 lctrl 0.524566911441
+zoltan SNARC_only CD 7 delete 0.402726425498
+zoltan SNARC_only CD 5 delete 0.493334070587
+zoltan SNARC_only CD 4 lctrl 0.488756898219
+zoltan SNARC_only CD 8 delete 0.368657830553
+zoltan SNARC_only CD 9 delete 0.525785834248
+zoltan SNARC_only CD 5 delete 0.464589120125
+zoltan SNARC_only CD 7 delete 0.448476101519
+zoltan SNARC_only CD 7 delete 0.396744499711
+zoltan SNARC_only CD 9 delete 0.451015086575
+zoltan SNARC_only CD 6 lctrl 0.588768062051
+zoltan SNARC_only CD 5 delete 0.473233568078
+zoltan SNARC_only CD 5 delete 0.44450156626
+zoltan SNARC_only CD 9 delete 0.401163138627
+zoltan SNARC_only CD 8 lctrl 0.74929736082
+zoltan SNARC_only CD 5 delete 0.53267591527
+zoltan SNARC_only CD 3 delete 0.734825320978
+zoltan SNARC_only CD 5 delete 0.488055571401
+zoltan SNARC_only CD 9 delete 0.456382826451
+zoltan SNARC_only CD 1 delete 0.496701069245
+zoltan SNARC_only CD 9 delete 0.392677924057
+zoltan SNARC_only CD 1 delete 0.433004915936
+zoltan SNARC_only CD 8 lctrl 0.638554566831
+zoltan SNARC_only CD 3 delete 0.478886528192
+zoltan SNARC_only CD 4 lctrl 0.513900724462
+zoltan SNARC_only CD 9 delete 0.442804593342
+zoltan SNARC_only CD 7 delete 0.521361595918
+zoltan SNARC_only CD 6 lctrl 0.486733409369
+zoltan SNARC_only CD 4 lctrl 0.441005081117
+zoltan SNARC_only CD 9 delete 0.424373416634
+zoltan SNARC_only CD 7 delete 0.549068554697
+zoltan SNARC_only CD 7 delete 0.346380555187
+zoltan SNARC_only CD 5 lctrl 0.462853651221
+zoltan SNARC_only CD 6 lctrl 0.455225847185
+{'participant': u'zoltan', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1606', 'autopilot': False, 'exp_id': u'SNARC'}
+zoltan SNARC_only DC 3 lctrl 2.55389980056
+zoltan SNARC_only DC 1 lctrl 1.34068594942
+zoltan SNARC_only DC 7 lctrl 1.59600355703
+zoltan SNARC_only DC 8 lctrl 0.328265745469
+zoltan SNARC_only DC 3 lctrl 0.0701435305236
+zoltan SNARC_only DC 3 lctrl 0.310856112166
+zoltan SNARC_only DC 3 lctrl 0.95985568906
+zoltan SNARC_only DC 6 lctrl 0.257165064828
+zoltan SNARC_only DC 5 lctrl 0.488299145982
+zoltan SNARC_only DC 8 lctrl 0.282103812468
+zoltan SNARC_only DC 9 lctrl 0.285584549252
+zoltan SNARC_only DC 6 lctrl 2.86319542556
+zoltan SNARC_only DC 8 lctrl 0.214004068675
+zoltan SNARC_only DC 5 lctrl 2.78668430949
+zoltan SNARC_only DC 6 return 2.19829175825
+zoltan SNARC_only DC 5 lctrl 0.56844743251
+zoltan SNARC_only DC 8 delete 0.54562701382
+zoltan SNARC_only DC 4 delete 0.600848101501
+zoltan SNARC_only DC 2 delete 0.81934290157
+zoltan SNARC_only DC 4 delete 0.350948978474
+zoltan SNARC_only DC 2 delete 0.256083327706
+zoltan SNARC_only DC 1 delete 0.266262715482
+zoltan SNARC_only DC 7 lctrl 0.514918768225
+zoltan SNARC_only DC 9 lctrl 0.254157128704
+zoltan SNARC_only DC 2 lctrl 0.254642878015
+zoltan SNARC_only DC 4 lctrl 2.50769097245
+zoltan SNARC_only DC 2 lctrl 0.32987627741
+zoltan SNARC_only DC 9 lctrl 0.288723721682
+zoltan SNARC_only DC 9 lctrl 0.291600421497
+zoltan SNARC_only DC 6 lctrl 0.562341969613
+zoltan SNARC_only DC 7 lctrl 2.65532831649
+zoltan SNARC_only DC 5 lctrl 0.509594423824
+zoltan SNARC_only DC 6 lctrl 0.82972526817
+zoltan SNARC_only DC 9 lctrl 0.161729323543
+zoltan SNARC_only DC 7 lctrl 0.260822533168
+zoltan SNARC_only DC 3 lctrl 0.202072063781
+zoltan SNARC_only DC 5 lctrl 0.232188171165
+zoltan SNARC_only DC 8 lctrl 0.241310669229
+zoltan SNARC_only DC 5 lctrl 0.384575919503
+zoltan SNARC_only DC 6 lctrl 0.353339928977
+zoltan SNARC_only DC 4 delete 1.48752187709
+zoltan SNARC_only DC 3 delete 0.290553680723
+zoltan SNARC_only DC 9 lctrl 0.389189488076
+zoltan SNARC_only DC 1 delete 0.821409785891
+zoltan SNARC_only DC 7 delete 0.46068107793
+zoltan SNARC_only DC 2 lctrl 0.45051673858
+zoltan SNARC_only DC 2 lctrl 0.365826625992
+zoltan SNARC_only DC 9 delete 0.446444213543
+zoltan SNARC_only DC 2 delete 0.798981326301
+zoltan SNARC_only DC 4 delete 0.380252470655
+zoltan SNARC_only DC 9 lctrl 0.559030265191
+zoltan SNARC_only DC 9 lctrl 0.393679869507
+zoltan SNARC_only DC 8 delete 0.429173865708
+zoltan SNARC_only DC 9 delete 0.400754031318
+zoltan SNARC_only DC 1 lctrl 0.897956948193
+zoltan SNARC_only DC 2 delete 0.548728390193
+zoltan SNARC_only DC 1 delete 0.465633061191
+zoltan SNARC_only DC 7 lctrl 0.829238468967
+zoltan SNARC_only DC 9 lctrl 0.567416440092
+zoltan SNARC_only DC 7 lctrl 0.631067098151
+zoltan SNARC_only DC 3 lctrl 0.582982115815
+zoltan SNARC_only DC 3 lctrl 0.348513932571
+zoltan SNARC_only DC 2 delete 0.418778550458
+zoltan SNARC_only DC 7 lctrl 0.536893675144
+zoltan SNARC_only DC 7 lctrl 0.374304141362
+zoltan SNARC_only DC 2 delete 0.45501656902
+zoltan SNARC_only DC 4 delete 0.532866645364
+zoltan SNARC_only DC 4 delete 0.400341424371
+zoltan SNARC_only DC 1 lctrl 0.460601286253
+zoltan SNARC_only DC 3 lctrl 0.499155363141
+zoltan SNARC_only DC 7 lctrl 0.386618656343
+zoltan SNARC_only DC 3 lctrl 0.420658204315
+zoltan SNARC_only DC 5 lctrl 0.478875329358
+zoltan SNARC_only DC 4 delete 0.743293387335
+zoltan SNARC_only DC 6 delete 0.398834831587
+zoltan SNARC_only DC 6 delete 0.386519616677
+zoltan SNARC_only DC 1 lctrl 0.517477351241
+zoltan SNARC_only DC 2 lctrl 0.551466154506
+zoltan SNARC_only DC 2 delete 0.414001898902
+zoltan SNARC_only DC 5 delete 0.386110159405
+zoltan SNARC_only DC 3 lctrl 0.601271557316
+zoltan SNARC_only DC 5 lctrl 0.465096567172
+zoltan SNARC_only DC 4 delete 0.553217371766
+zoltan SNARC_only DC 7 lctrl 0.532627620309
+zoltan SNARC_only DC 3 lctrl 0.499322995645
+zoltan SNARC_only DC 7 delete 0.470749177322
+zoltan SNARC_only DC 2 delete 0.662364682248
+zoltan SNARC_only DC 1 lctrl 0.530683573172
+zoltan SNARC_only DC 6 delete 0.555642968655
+zoltan SNARC_only DC 5 lctrl 0.647358248167
+zoltan SNARC_only DC 9 lctrl 0.548311583687
+zoltan SNARC_only DC 7 lctrl 0.396728401392
+zoltan SNARC_only DC 4 delete 0.464994027872
+zoltan SNARC_only DC 8 delete 1.08795912147
+zoltan SNARC_only DC 5 lctrl 0.596881615402
+zoltan SNARC_only DC 7 lctrl 0.869373680856
+zoltan SNARC_only DC 2 delete 0.541120184109
+zoltan SNARC_only DC 4 delete 0.386581910177
+zoltan SNARC_only DC 7 lctrl 0.500871584049
+zoltan SNARC_only DC 8 delete 0.486639269191
+zoltan SNARC_only DC 3 lctrl 0.569400733035
+zoltan SNARC_only DC 5 lctrl 0.615223901386
+zoltan SNARC_only DC 2 delete 0.550925810894
+zoltan SNARC_only DC 1 lctrl 0.490298137393
+zoltan SNARC_only DC 6 delete 0.536904524011
+zoltan SNARC_only DC 4 delete 0.570922724215
+zoltan SNARC_only DC 3 lctrl 0.472405904442
+zoltan SNARC_only DC 4 delete 0.439780208933
+zoltan SNARC_only DC 1 lctrl 0.404872751526
+zoltan SNARC_only DC 3 lctrl 0.593839382862
+zoltan SNARC_only DC 9 lctrl 0.490423774278
+zoltan SNARC_only DC 3 lctrl 0.401002505387
+zoltan SNARC_only DC 8 delete 0.560712889612
+zoltan SNARC_only DC 6 delete 0.37506601186
+zoltan SNARC_only DC 5 lctrl 0.510965580739
+zoltan SNARC_only DC 1 lctrl 0.562612141424
+zoltan SNARC_only DC 4 delete 0.466957323002
+zoltan SNARC_only DC 3 lctrl 0.496543585676
+zoltan SNARC_only DC 4 delete 0.519360154769
+zoltan SNARC_only DC 1 lctrl 0.410643299372
+zoltan SNARC_only DC 7 lctrl 0.68550006807
+zoltan SNARC_only DC 7 lctrl 0.395132217953
+zoltan SNARC_only DC 5 lctrl 0.482685031817
+zoltan SNARC_only DC 2 delete 0.844198707862
+zoltan SNARC_only DC 3 lctrl 0.509453388542
+zoltan SNARC_only DC 3 lctrl 0.421280789353
+zoltan SNARC_only DC 1 lctrl 0.46121302242
+zoltan SNARC_only DC 6 lctrl 0.489113161042
+zoltan SNARC_only DC 9 lctrl 0.632544643966
+zoltan SNARC_only DC 8 delete 0.484883852372
+zoltan SNARC_only DC 7 lctrl 0.554661671056
+zoltan SNARC_only DC 4 delete 0.447074147811
+zoltan SNARC_only DC 2 delete 0.38828413255
+zoltan SNARC_only DC 4 delete 0.44261246339
+zoltan SNARC_only DC 3 lctrl 0.396291297002
+zoltan SNARC_only DC 8 delete 0.491233239809
+zoltan SNARC_only DC 4 delete 0.412521203412
+zoltan SNARC_only DC 4 delete 0.516963954811
+zoltan SNARC_only DC 9 lctrl 0.582683247005
+zoltan SNARC_only DC 6 delete 0.427262715137
+zoltan SNARC_only DC 3 lctrl 0.592950825583
+zoltan SNARC_only DC 2 delete 0.466570613356
+zoltan SNARC_only DC 7 lctrl 0.392534089067
+zoltan SNARC_only DC 8 delete 0.45897710574
+zoltan SNARC_only DC 7 delete 0.414413455957
+zoltan SNARC_only DC 6 lctrl 0.627493271077
+zoltan SNARC_only DC 2 delete 0.682036829454
+zoltan SNARC_only DC 7 lctrl 0.556386291089
+zoltan SNARC_only DC 4 delete 0.462300708918
+zoltan SNARC_only DC 1 lctrl 0.438547637554
+zoltan SNARC_only DC 3 lctrl 0.573344821467
+zoltan SNARC_only DC 3 lctrl 0.518916751036
+zoltan SNARC_only DC 4 delete 0.668409601461
+zoltan SNARC_only DC 4 delete 0.441046026845
+zoltan SNARC_only DC 6 delete 0.466450575885
+zoltan SNARC_only DC 9 lctrl 0.559132454528
+zoltan SNARC_only DC 5 delete 0.438513341134
+zoltan SNARC_only DC 2 delete 0.635994234002
+zoltan SNARC_only DC 4 delete 0.426198126224
+zoltan SNARC_only DC 1 lctrl 0.530622679522
+zoltan SNARC_only DC 8 delete 0.553641177543
+zoltan SNARC_only DC 5 lctrl 0.502791483708
+zoltan SNARC_only DC 5 lctrl 0.474579877588
+zoltan SNARC_only DC 4 delete 0.492912364596
+zoltan SNARC_only DC 6 delete 0.454594513059
+zoltan SNARC_only DC 2 delete 0.431110563612
+zoltan SNARC_only DC 5 lctrl 0.591511425784
+zoltan SNARC_only DC 8 delete 0.599669074534
+zoltan SNARC_only DC 6 delete 1.78838583194
+zoltan SNARC_only DC 6 delete 0.392506791915
+zoltan SNARC_only DC 8 delete 0.421466619959
+zoltan SNARC_only DC 2 delete 0.346848106401
+zoltan SNARC_only DC 6 delete 0.434691389954
+zoltan SNARC_only DC 6 delete 0.427574182635
+zoltan SNARC_only DC 8 delete 0.533727555528
+zoltan SNARC_only DC 7 lctrl 1.38542038138
+zoltan SNARC_only DC 9 lctrl 0.476385689155
+zoltan SNARC_only DC 6 lctrl 0.448962200793
+zoltan SNARC_only DC 2 delete 0.732832628913
+zoltan SNARC_only DC 4 pagedown 0.570056914563
+zoltan SNARC_only DC 9 delete 0.362141510534
+zoltan SNARC_only DC 1 delete 0.0556385941127
+zoltan SNARC_only DC 1 delete 1.10403469398
+zoltan SNARC_only DC 1 delete 0.264303969878
+zoltan SNARC_only DC 7 lctrl 0.903835984715
+zoltan SNARC_only DC 4 delete 0.45924972729
+zoltan SNARC_only DC 9 lwindows 0.567985480717
+zoltan SNARC_only DC 5 lctrl 4.52289093633
+zoltan SNARC_only DC 8 delete 0.705528128139
+zoltan SNARC_only DC 2 delete 0.530921898302
+zoltan SNARC_only DC 6 delete 0.968190419328
+zoltan SNARC_only DC 5 delete 0.0594276487245
+zoltan SNARC_only DC 8 delete 0.271409978366
+zoltan SNARC_only DC 1 delete 0.0031433719887
+zoltan SNARC_only DC 4 delete 1.21870092856
+zoltan SNARC_only DC 6 delete 0.521244358151
+zoltan SNARC_only DC 7 delete 0.0676164442229
+zoltan SNARC_only DC 3 lctrl 2.49717981929
+zoltan SNARC_only DC 8 delete 0.424771325113
+zoltan SNARC_only DC 8 delete 0.563262023607
+zoltan SNARC_only DC 1 delete 0.250652594401
+zoltan SNARC_only DC 1 delete 0.149501949472
+zoltan SNARC_only DC 2 delete 0.00502337580838
+zoltan SNARC_only DC 9 lctrl 1.2402702278
+zoltan SNARC_only DC 8 delete 0.426294366182
+zoltan SNARC_only DC 5 lctrl 0.659329099009
+zoltan SNARC_only DC 6 delete 0.736765168556
+zoltan SNARC_only DC 6 delete 0.597249776984
+zoltan SNARC_only DC 3 delete 0.0854701811877
+zoltan SNARC_only DC 8 delete 0.603280347696
+zoltan SNARC_only DC 9 delete 0.556055225639
+zoltan SNARC_only DC 6 delete 0.0231294364421
+zoltan SNARC_only DC 5 delete 0.432353283933
+zoltan SNARC_only DC 5 lctrl 1.34168019567
+zoltan SNARC_only DC 7 lctrl 0.363450373956
+zoltan SNARC_only DC 1 lctrl 0.315737052839
+zoltan SNARC_only DC 2 delete 0.503171544049
+zoltan SNARC_only DC 7 lctrl 0.450423998256
+zoltan SNARC_only DC 8 delete 0.441298000555
+zoltan SNARC_only DC 1 lctrl 0.378571246092
+zoltan SNARC_only DC 2 delete 0.495608833218
+zoltan SNARC_only DC 5 lctrl 0.45455811686
+zoltan SNARC_only DC 9 lctrl 0.924311998042
+zoltan SNARC_only DC 9 lctrl 0.446873268775
+zoltan SNARC_only DC 1 lctrl 0.540620786218
+zoltan SNARC_only DC 7 lctrl 0.432961520466
+zoltan SNARC_only DC 2 delete 0.571564207272
+zoltan SNARC_only DC 9 lctrl 0.418945483041
+zoltan SNARC_only DC 8 delete 0.577495038393
+zoltan SNARC_only DC 2 delete 0.0843691960727
+zoltan SNARC_only DC 4 delete 0.0600743812356
+zoltan SNARC_only DC 3 delete 0.0657511388708
+zoltan SNARC_only DC 5 delete 0.0133115609387
+zoltan SNARC_only DC 7 lctrl 0.340634854754
+zoltan SNARC_only DC 6 delete 0.483060892595
+zoltan SNARC_only DC 3 delete 0.559364830282
+zoltan SNARC_only DC 8 delete 0.203566757809
+zoltan SNARC_only DC 1 delete 0.105909448346
+zoltan SNARC_only DC 3 lctrl 6.25098680953
+zoltan SNARC_only DC 1 lshift 2.04682406391
+zoltan SNARC_only DC 3 lctrl 0.368816713977
+zoltan SNARC_only DC 1 lctrl 0.38524399979
+zoltan SNARC_only DC 7 lctrl 0.456966565536
+zoltan SNARC_only DC 5 lctrl 0.55357853408
+zoltan SNARC_only DC 2 delete 0.514038260109
+zoltan SNARC_only DC 5 lctrl 0.458291177314
+zoltan SNARC_only DC 9 lctrl 0.519500840088
+zoltan SNARC_only DC 9 lctrl 0.357183927856
+zoltan SNARC_only DC 4 delete 0.413790170998
+zoltan SNARC_only DC 9 lctrl 0.509190565965
+zoltan SNARC_only DC 3 lctrl 0.443624557778
+zoltan SNARC_only DC 3 lctrl 0.339155559115
+zoltan SNARC_only DC 1 lctrl 0.419678306567
+zoltan SNARC_only DC 5 lctrl 0.437474299557
+zoltan SNARC_only DC 4 delete 0.494095941089
+zoltan SNARC_only DC 6 lctrl 0.359658169669
+zoltan SNARC_only DC 4 delete 0.49034853213
+zoltan SNARC_only DC 9 lctrl 0.641263634141
+zoltan SNARC_only DC 7 lctrl 0.302888843551
+zoltan SNARC_only DC 1 lctrl 0.59307156298
+zoltan SNARC_only DC 7 lctrl 0.398111807033
+zoltan SNARC_only DC 8 lctrl 0.196661628361
+zoltan SNARC_only DC 2 delete 0.415662125655
+zoltan SNARC_only DC 7 delete 0.417801102452
+zoltan SNARC_only DC 5 delete 0.720910422999
+zoltan SNARC_only DC 4 delete 1.72146651497
+zoltan SNARC_only DC 9 delete 0.0904848079117
+zoltan SNARC_only DC 5 lctrl 1.84364856527
+zoltan SNARC_only DC 6 delete 0.617840228373
+zoltan SNARC_only DC 1 delete 2.904101607
+zoltan SNARC_only DC 8 delete 0.147588349155
+zoltan SNARC_only DC 2 delete 0.16855431136
+zoltan SNARC_only DC 1 delete 0.147997806427
+zoltan SNARC_only DC 6 delete 0.20906573399
+zoltan SNARC_only DC 9 delete 0.0700714380437
+zoltan SNARC_only DC 4 delete 0.0829287463857
+zoltan SNARC_only DC 7 delete 0.0364686444955
+zoltan SNARC_only DC 8 delete 0.667934701014
+zoltan SNARC_only DC 7 lctrl 0.38589143223
+zoltan SNARC_only DC 1 lctrl 0.435145992516
+zoltan SNARC_only DC 4 delete 0.467094508687
+zoltan SNARC_only DC 2 delete 0.490432523366
+zoltan SNARC_only DC 3 lctrl 0.540976349119
+zoltan SNARC_only DC 1 delete 2.08525530361
+zoltan SNARC_only DC 6 delete 0.298795670671
+zoltan SNARC_only DC 3 lctrl 0.631872014153
+zoltan SNARC_only DC 2 delete 0.708753041617
+zoltan SNARC_only DC 3 delete 0.410873575343
+zoltan SNARC_only DC 5 lctrl 0.753479774387
+zoltan SNARC_only DC 5 lctrl 0.422927717493
+zoltan SNARC_only DC 6 delete 0.530929597495
+zoltan SNARC_only DC 3 lctrl 0.448892558063
+zoltan SNARC_only DC 6 delete 0.402825115201
+zoltan SNARC_only DC 8 delete 0.548701443007
+zoltan SNARC_only DC 8 delete 0.924730904328
+zoltan SNARC_only DC 6 delete 9.1981360245
+zoltan SNARC_only DC 8 delete 0.432918474955
+zoltan SNARC_only DC 4 delete 0.394942887709
+zoltan SNARC_only DC 2 delete 0.300471995746
+zoltan SNARC_only DC 2 delete 0.304922131378
+zoltan SNARC_only DC 6 delete 0.0577187770432
+zoltan SNARC_only DC 5 delete 2.97811853333
+zoltan SNARC_only DC 1 delete 0.240366117796
+zoltan SNARC_only DC 4 delete 0.161872458608
+zoltan SNARC_only DC 9 delete 0.379949752241
+zoltan SNARC_only DC 4 delete 0.427048537487
+zoltan SNARC_only DC 9 lctrl 0.512837535403
+zoltan SNARC_only DC 8 delete 0.454981572675
+zoltan SNARC_only DC 4 delete 0.416156624058
+zoltan SNARC_only DC 6 delete 0.504628092058
+zoltan SNARC_only DC 7 lctrl 0.595425067393
+zoltan SNARC_only DC 6 delete 0.667578788154
+zoltan SNARC_only DC 2 delete 0.44906229035
+zoltan SNARC_only DC 3 lctrl 0.476643612237
+zoltan SNARC_only DC 9 lctrl 0.63184016748
+zoltan SNARC_only DC 1 delete 0.497643870862
+zoltan SNARC_only DC 5 lctrl 0.534398435524
+zoltan SNARC_only DC 7 lctrl 0.527330223093
+zoltan SNARC_only DC 9 lctrl 0.423050554677
+zoltan SNARC_only DC 8 delete 0.563548993665
+zoltan SNARC_only DC 2 delete 0.611461444001
+zoltan SNARC_only DC 7 lctrl 0.823726544135
+zoltan SNARC_only DC 2 delete 0.50286602593
+zoltan SNARC_only DC 8 lctrl 0.408721999858
+zoltan SNARC_only DC 7 lctrl 0.671300649778
+zoltan SNARC_only DC 6 delete 0.559064561614
+zoltan SNARC_only DC 9 lctrl 0.432440774803
+zoltan SNARC_only DC 7 delete 0.487318198346
+zoltan SNARC_only DC 1 lctrl 0.550855818197
+zoltan SNARC_only DC 9 lctrl 0.488592415379
+zoltan SNARC_only DC 1 lctrl 0.485354203291
+zoltan SNARC_only DC 5 lctrl 0.647611271761
+zoltan SNARC_only DC 1 lctrl 0.418735154988
+zoltan SNARC_only DC 5 lctrl 0.476659710559
+zoltan SNARC_only DC 2 delete 0.593533514777
+zoltan SNARC_only DC 1 lctrl 0.507387904076
+zoltan SNARC_only DC 3 lctrl 0.440759756719
+zoltan SNARC_only DC 8 delete 0.539829168825
+zoltan SNARC_only DC 8 delete 0.482271374982
+zoltan SNARC_only DC 3 lctrl 0.436637886836
+zoltan SNARC_only DC 6 delete 0.567876292109
+zoltan SNARC_only DC 3 lctrl 0.451778356928
+zoltan SNARC_only DC 5 lctrl 0.410645399152
+zoltan SNARC_only DC 4 delete 0.555997831627
+zoltan SNARC_only DC 9 lctrl 0.374282093664
+zoltan SNARC_only DC 5 lctrl 0.453123966516
+zoltan SNARC_only DC 5 lctrl 0.408790592701
+zoltan SNARC_only DC 8 delete 0.505790320778
+zoltan SNARC_only DC 1 lctrl 0.48920345162
+zoltan SNARC_only DC 7 lctrl 0.484722169243
+zoltan SNARC_only DC 9 lctrl 0.388861922256
+zoltan SNARC_only DC 8 delete 0.514860674288
+zoltan SNARC_only DC 9 lctrl 0.456450719368
+zoltan SNARC_only DC 9 lctrl 0.379580540772
+zoltan SNARC_only DC 4 delete 0.575958698711
+zoltan SNARC_only DC 8 delete 0.94379761472
+zoltan SNARC_only DC 6 delete 0.784204818228
+zoltan SNARC_only DC 3 lctrl 0.555005335194
+zoltan SNARC_only DC 8 delete 0.480834424929
+zoltan SNARC_only DC 5 lctrl 0.488170009459
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'zoltan', 'dateStr': u'05_18_1616'}
+zoltan resp_prep 0.8 green q 0.578140021091
+zoltan resp_prep 0.8 green q 0.472673276545
+zoltan resp_prep 0.1 red p 0.567781801969
+zoltan resp_prep 0.3 red p 0.474356250925
+zoltan resp_prep 0.6 red p 0.453490728243
+zoltan resp_prep 1.0 green q 0.439296559402
+zoltan resp_prep 1.0 green q 0.403620932157
+zoltan resp_prep 0.6 green q 0.393350203907
+zoltan resp_prep 1.0 red p 0.418223508375
+zoltan resp_prep 0.8 green q 0.481285877817
+zoltan resp_prep 0.6 green q 0.539227931567
+zoltan resp_prep 0.1 red p 0.533297800375
+zoltan resp_prep 0.6 green q 0.410504713836
+zoltan resp_prep 0.8 green q 0.554445393624
+zoltan resp_prep 0.1 red p 0.593239195488
+zoltan resp_prep 0.8 red p 0.482525098509
+zoltan resp_prep 0.8 green q 0.397003822651
+zoltan resp_prep 0.6 green q 0.46286554998
+zoltan resp_prep 0.8 green q 0.381805608584
+zoltan resp_prep 0.6 green q 0.363175302657
+zoltan resp_prep 0.3 red p 0.483682077775
+zoltan resp_prep 0.6 green q 0.498574073797
+zoltan resp_prep 1.0 green q 0.425761371804
+zoltan resp_prep 0.3 red p 0.566242662579
+zoltan resp_prep 1.0 green q 0.588604979072
+zoltan resp_prep 0.6 green q 0.362880283443
+zoltan resp_prep 0.1 green q 0.438623579626
+zoltan resp_prep 0.3 red p 0.436462205169
+zoltan resp_prep 0.8 green q 0.465770596838
+zoltan resp_prep 0.3 red p 0.514827777719
+zoltan resp_prep 0.6 green q 0.394485135479
+zoltan resp_prep 0.6 red p 0.479938518416
+zoltan resp_prep 0.1 red p 0.482086244301
+zoltan resp_prep 1.0 green q 0.478254494144
+zoltan resp_prep 0.8 green q 0.411831425394
+zoltan resp_prep 0.3 green q 0.407639912773
+zoltan resp_prep 0.6 green q 0.351663953865
+zoltan resp_prep 0.1 red p 0.452672513624
+zoltan resp_prep 0.8 red p 0.386030717691
+zoltan resp_prep 0.6 red p 0.388650894278
+zoltan resp_prep 0.8 red p 0.376736387556
+zoltan resp_prep 1.0 green q 0.336818153024
+zoltan resp_prep 0.8 red p 0.40019968916
+zoltan resp_prep 1.0 green q 0.3890071571
+zoltan resp_prep 0.1 green q 0.657642974955
+zoltan resp_prep 0.1 red p 0.496128179027
+zoltan resp_prep 0.3 red p 0.519070035039
+zoltan resp_prep 1.0 red q 0.362634609079
+zoltan resp_prep 0.1 red p 0.575029545667
+zoltan resp_prep 0.3 green q 0.431384585019
+zoltan resp_prep 1.0 green q 0.426670926889
+zoltan resp_prep 0.6 red p 0.414265771367
+zoltan resp_prep 0.1 green q 0.502740039075
+zoltan resp_prep 0.8 green q 0.333899107627
+zoltan resp_prep 0.1 red p 0.466567813648
+zoltan resp_prep 1.0 green q 0.510393740413
+zoltan resp_prep 0.6 red p 0.370464692009
+zoltan resp_prep 0.3 green q 0.48661897131
+zoltan resp_prep 0.6 red p 0.326470782773
+zoltan resp_prep 0.8 red p 0.437402557043
+zoltan resp_prep 0.1 red p 0.456003116076
+zoltan resp_prep 0.3 red p 0.349251655589
+zoltan resp_prep 0.6 green q 0.351000423107
+zoltan resp_prep 1.0 red p 0.450810357936
+zoltan resp_prep 0.6 green q 0.429081475348
+zoltan resp_prep 1.0 red p 0.444600955889
+zoltan resp_prep 0.3 green q 0.508733163697
+zoltan resp_prep 0.3 green q 0.376821778649
+zoltan resp_prep 0.8 green q 0.425742123811
+zoltan resp_prep 0.1 red p 0.434449915152
+zoltan resp_prep 0.1 green p 0.402746373416
+zoltan resp_prep 1.0 green q 0.481165490382
+zoltan resp_prep 0.8 red p 0.350075119663
+zoltan resp_prep 0.1 red p 0.440770605586
+zoltan resp_prep 1.0 red p 0.437440003137
+zoltan resp_prep 0.3 red p 0.418996227741
+zoltan resp_prep 1.0 red p 0.393779609098
+zoltan resp_prep 0.8 green q 0.424781124089
+zoltan resp_prep 0.3 green q 0.443156656602
+zoltan resp_prep 0.1 green q 0.422979862051
+zoltan resp_prep 1.0 red p 0.43426758418
+zoltan resp_prep 0.8 green q 0.484054788885
+zoltan resp_prep 0.1 red p 0.488431782142
+zoltan resp_prep 0.1 red p 0.492211737703
+zoltan resp_prep 1.0 red p 0.38614305597
+zoltan resp_prep 0.1 green q 0.549895868367
+zoltan resp_prep 0.3 green q 0.330123351629
+zoltan resp_prep 0.6 red p 0.32581390132
+zoltan resp_prep 0.3 red p 0.354079751778
+zoltan resp_prep 0.1 red p 0.376441718308
+zoltan resp_prep 0.8 red p 0.369625129617
+zoltan resp_prep 0.8 red p 0.279295705495
+zoltan resp_prep 1.0 red p 0.350126564292
+zoltan resp_prep 0.3 red p 0.357533541377
+zoltan resp_prep 0.1 green p 0.341793583837
+zoltan resp_prep 1.0 red p 0.445481813971
+zoltan resp_prep 0.1 green q 0.484621029795
+zoltan resp_prep 0.1 red p 0.462578579925
+zoltan resp_prep 0.6 red p 0.432926524118
+zoltan resp_prep 1.0 green q 0.534318293885
+zoltan resp_prep 0.3 green q 0.408948426233
+zoltan resp_prep 1.0 green q 0.418073024081
+zoltan resp_prep 0.1 green q 0.378392064787
+zoltan resp_prep 0.8 red p 0.424429760755
+zoltan resp_prep 1.0 green q 0.497937140259
+zoltan resp_prep 1.0 red p 0.499691857156
+zoltan resp_prep 0.6 green q 0.4733042607
+zoltan resp_prep 0.1 green q 0.387721041308
+zoltan resp_prep 0.8 green q 0.434204240788
+zoltan resp_prep 0.8 red p 0.462257663414
+zoltan resp_prep 1.0 red p 0.744933316208
+zoltan resp_prep 0.6 red p 0.438375805483
+zoltan resp_prep 0.3 green q 0.420149707381
+zoltan resp_prep 0.1 green q 0.485136526004
+zoltan resp_prep 0.3 red p 0.395862941699
+zoltan resp_prep 0.6 red p 0.388525957314
+zoltan resp_prep 0.8 red p 0.404395751306
+zoltan resp_prep 0.6 red p 0.431241099992
+zoltan resp_prep 0.8 green q 0.394546379088
+zoltan resp_prep 0.6 red p 0.533943482998
+zoltan resp_prep 0.3 green q 0.486092626234
+zoltan resp_prep 0.3 red p 0.441741054321
+zoltan resp_prep 0.6 red p 0.419155461128
+zoltan resp_prep 0.6 green q 0.464134867529
+zoltan resp_prep 0.3 red p 0.430103718678
+zoltan resp_prep 0.3 red p 0.385235250702
+zoltan resp_prep 0.1 green q 0.500436929407
+zoltan resp_prep 0.3 red p 0.42298581143
+zoltan resp_prep 0.3 green q 0.576640077608
+zoltan resp_prep 1.0 green q 0.457532806453
+zoltan resp_prep 0.1 green q 0.417310453653
+zoltan resp_prep 0.3 green q 0.368439103382
+zoltan resp_prep 1.0 red p 0.396395586122
+zoltan resp_prep 0.3 green q 0.514873622938
+zoltan resp_prep 0.8 green q 0.406357996544
+zoltan resp_prep 0.8 red p 0.515236185103
+zoltan resp_prep 0.6 green q 0.506956749061
+zoltan resp_prep 0.6 red p 0.423062103469
+zoltan resp_prep 1.0 green q 0.387862776519
+zoltan resp_prep 0.8 red p 0.444695096066
+zoltan resp_prep 1.0 red p 0.405895694785
+zoltan resp_prep 0.6 green q 0.466265095238
+zoltan resp_prep 0.8 red p 0.429200462931
+zoltan resp_prep 0.1 green q 0.455464522278
+zoltan resp_prep 1.0 red p 0.399118651971
+zoltan resp_prep 0.6 red p 0.413661384435
+zoltan resp_prep 0.3 green q 0.420274644341
+zoltan resp_prep 0.1 green q 0.771475946483
+zoltan resp_prep 0.3 green q 0.457143997024
+zoltan resp_prep 0.8 red p 0.351553015444

@@ -1,0 +1,2318 @@
+{'delay': u'0', 'dateStr': u'05_18_1558', 'task': u'line', 'participant': u'farkas', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+farkas SNARC line dot CD 0 down 15 num_delete 1.76293206215
+farkas SNARC line dot CD 0 down 5 num_delete 0.512092828751
+farkas SNARC line dot CD 0 up 45 lctrl 0.412888050079
+farkas SNARC line dot CD 0 up 10 lctrl 0.450156927109
+farkas SNARC line dot CD 0 up 15 lctrl 0.338562965393
+farkas SNARC line dot CD 0 up 25 lctrl 0.342256069183
+farkas SNARC line dot CD 0 up 40 lctrl 0.321093082428
+farkas SNARC line dot CD 0 up 10 lctrl 0.298177957535
+farkas SNARC line dot CD 0 down 10 num_delete 0.321509838104
+farkas SNARC line dot CD 0 up 10 lctrl 0.378442049026
+farkas SNARC line dot CD 0 down 45 num_delete 0.421891927719
+farkas SNARC line dot CD 0 up 5 num_delete 0.465168952942
+farkas SNARC line dot CD 0 up 45 lctrl 0.84352517128
+farkas SNARC line dot CD 0 up 45 lctrl 0.443531036377
+farkas SNARC line dot CD 0 up 35 lctrl 0.344721078873
+farkas SNARC line dot CD 0 up 25 lctrl 0.348676919937
+farkas SNARC line dot CD 0 up 10 lctrl 0.337942123413
+farkas SNARC line dot CD 0 down 20 num_delete 0.391465187073
+farkas SNARC line dot CD 0 up 45 lctrl 0.336447000504
+farkas SNARC line dot CD 0 up 15 lctrl 0.531383991241
+farkas SNARC line dot CD 0 up 25 lctrl 0.438174962997
+farkas SNARC line dot CD 0 up 25 lctrl 0.325524091721
+farkas SNARC line dot CD 0 down 45 num_delete 0.355159044266
+farkas SNARC line dot CD 0 down 30 num_delete 0.639230966568
+farkas SNARC line dot CD 0 down 5 num_delete 0.288004159927
+farkas SNARC line dot CD 0 down 15 num_delete 0.291192054749
+farkas SNARC line dot CD 0 up 35 lctrl 0.344373941422
+farkas SNARC line dot CD 0 down 45 num_delete 0.554369926453
+farkas SNARC line dot CD 0 down 20 num_delete 0.381452798843
+farkas SNARC line dot CD 0 up 40 lctrl 0.363724946976
+farkas SNARC line dot CD 0 down 5 num_delete 0.680217027664
+farkas SNARC line dot CD 0 up 40 lctrl 0.43584394455
+farkas SNARC line dot CD 0 down 15 lctrl 0.595584154129
+farkas SNARC line dot CD 0 down 10 num_delete 0.473258018494
+farkas SNARC line dot CD 0 down 10 num_delete 0.282249927521
+farkas SNARC line dot CD 0 down 20 num_delete 0.333158016205
+farkas SNARC line dot CD 0 up 5 lctrl 0.384735107422
+farkas SNARC line dot CD 0 up 45 lctrl 0.411385059357
+farkas SNARC line dot CD 0 down 5 num_delete 0.335977077484
+farkas SNARC line dot CD 0 down 45 lctrl 0.38770699501
+farkas SNARC line dot CD 0 up 25 num_delete 0.524359941483
+farkas SNARC line dot CD 0 down 15 lctrl 0.379314899445
+farkas SNARC line dot CD 0 up 15 num_delete 0.330060005188
+farkas SNARC line dot CD 0 up 25 num_delete 0.454755067825
+farkas SNARC line dot CD 0 down 25 num_delete 0.701600074768
+farkas SNARC line dot CD 0 down 45 num_delete 0.41962313652
+farkas SNARC line dot CD 0 up 10 lctrl 0.353981018066
+farkas SNARC line dot CD 0 down 30 lctrl 0.495320081711
+farkas SNARC line dot CD 0 down 40 lctrl 0.496585130692
+farkas SNARC line dot CD 0 down 20 num_delete 0.404381990433
+farkas SNARC line dot CD 0 up 30 lctrl 0.52667593956
+farkas SNARC line dot CD 0 up 40 lctrl 0.387336969376
+farkas SNARC line dot CD 0 down 25 num_delete 0.533097982407
+farkas SNARC line dot CD 0 down 45 num_delete 0.379146099091
+farkas SNARC line dot CD 0 up 30 lctrl 0.534997940063
+farkas SNARC line dot CD 0 down 25 num_delete 0.39736199379
+farkas SNARC line dot CD 0 up 35 num_delete 0.816679000854
+farkas SNARC line dot CD 0 down 40 num_delete 0.658062934875
+farkas SNARC line dot CD 0 up 5 lctrl 0.737202882767
+farkas SNARC line dot CD 0 down 45 num_delete 0.346213817596
+farkas SNARC line dot CD 0 up 5 lctrl 0.336282968521
+farkas SNARC line dot CD 0 up 35 lctrl 0.337048053741
+farkas SNARC line dot CD 0 up 20 lctrl 0.300715923309
+farkas SNARC line dot CD 0 down 30 num_delete 0.367218017578
+farkas SNARC line dot CD 0 up 20 lctrl 0.340853214264
+farkas SNARC line dot CD 0 up 10 lctrl 0.386048078537
+farkas SNARC line dot CD 0 up 35 lctrl 0.391973972321
+farkas SNARC line dot CD 0 down 5 num_delete 0.358328819275
+farkas SNARC line dot CD 0 up 20 lctrl 0.38206911087
+farkas SNARC line dot CD 0 down 20 num_delete 0.299213171005
+farkas SNARC line dot CD 0 up 10 lctrl 0.538082122803
+farkas SNARC line dot CD 0 down 25 num_delete 0.333400964737
+farkas SNARC line dot CD 0 down 25 num_delete 0.358407974243
+farkas SNARC line dot CD 0 up 15 lctrl 0.395722150803
+farkas SNARC line dot CD 0 down 30 num_delete 0.303561210632
+farkas SNARC line dot CD 0 down 40 num_delete 0.410027980804
+farkas SNARC line dot CD 0 up 25 lctrl 0.365797996521
+farkas SNARC line dot CD 0 up 15 lctrl 0.314004898071
+farkas SNARC line dot CD 0 down 30 num_delete 0.343465089798
+farkas SNARC line dot CD 0 up 40 lctrl 0.395688056946
+farkas SNARC line dot CD 0 up 35 lctrl 0.384527206421
+farkas SNARC line dot CD 0 up 5 lctrl 0.376377105713
+farkas SNARC line dot CD 0 down 10 num_delete 0.361608982086
+farkas SNARC line dot CD 0 down 25 num_delete 0.478171110153
+farkas SNARC line dot CD 0 up 45 lctrl 0.363140106201
+farkas SNARC line dot CD 0 down 35 num_delete 0.393494844437
+farkas SNARC line dot CD 0 down 15 num_delete 0.370849847794
+farkas SNARC line dot CD 0 up 35 lctrl 0.512526988983
+farkas SNARC line dot CD 0 up 35 lctrl 0.377991914749
+farkas SNARC line dot CD 0 up 20 lctrl 0.340512990952
+farkas SNARC line dot CD 0 down 25 num_delete 0.422013998032
+farkas SNARC line dot CD 0 down 5 num_delete 0.391722202301
+farkas SNARC line dot CD 0 up 15 lctrl 0.355405092239
+farkas SNARC line dot CD 0 down 20 lctrl 0.779884815216
+farkas SNARC line dot CD 0 down 20 num_delete 0.507617950439
+farkas SNARC line dot CD 0 up 15 lctrl 0.33934378624
+farkas SNARC line dot CD 0 up 15 lctrl 0.379731893539
+farkas SNARC line dot CD 0 up 5 lctrl 0.336477994919
+farkas SNARC line dot CD 0 up 45 lctrl 0.354975938797
+farkas SNARC line dot CD 0 up 30 lctrl 0.32756114006
+farkas SNARC line dot CD 0 down 30 num_delete 0.342771053314
+farkas SNARC line dot CD 0 down 20 num_delete 0.380874156952
+farkas SNARC line dot CD 0 up 45 lctrl 0.387820959091
+farkas SNARC line dot CD 0 down 45 lctrl 0.36422419548
+farkas SNARC line dot CD 0 up 35 lctrl 0.424936056137
+farkas SNARC line dot CD 0 down 20 num_delete 0.372587919235
+farkas SNARC line dot CD 0 down 35 num_delete 0.344774007797
+farkas SNARC line dot CD 0 up 20 lctrl 0.396547079086
+farkas SNARC line dot CD 0 down 15 num_delete 0.411933898926
+farkas SNARC line dot CD 0 down 40 num_delete 0.434324026108
+farkas SNARC line dot CD 0 down 45 num_delete 0.395131111145
+farkas SNARC line dot CD 0 up 15 lctrl 0.435652017593
+farkas SNARC line dot CD 0 down 15 num_delete 0.362882852554
+farkas SNARC line dot CD 0 down 35 num_delete 0.370687961578
+farkas SNARC line dot CD 0 down 5 num_delete 0.32856798172
+farkas SNARC line dot CD 0 down 25 num_delete 0.324920892715
+farkas SNARC line dot CD 0 down 5 num_delete 0.328593969345
+farkas SNARC line dot CD 0 down 10 num_delete 0.529330968857
+farkas SNARC line dot CD 0 up 10 lctrl 0.401447057724
+farkas SNARC line dot CD 0 up 25 lctrl 0.35818195343
+farkas SNARC line dot CD 0 down 40 num_delete 0.361477136612
+farkas SNARC line dot CD 0 up 30 num_delete 0.751767158508
+farkas SNARC line dot CD 0 up 20 lctrl 0.571328163147
+farkas SNARC line dot CD 0 down 20 num_delete 0.371715068817
+farkas SNARC line dot CD 0 up 20 lctrl 0.460572004318
+farkas SNARC line dot CD 0 up 45 lctrl 0.418146848679
+farkas SNARC line dot CD 0 up 20 lctrl 0.484859228134
+farkas SNARC line dot CD 0 down 25 num_delete 0.405301094055
+farkas SNARC line dot CD 0 up 30 lctrl 0.359193086624
+farkas SNARC line dot CD 0 up 10 lctrl 0.346219062805
+farkas SNARC line dot CD 0 down 35 num_delete 0.376704931259
+farkas SNARC line dot CD 0 up 40 num_delete 0.355045080185
+farkas SNARC line dot CD 0 up 30 lctrl 0.455430030823
+farkas SNARC line dot CD 0 down 20 num_delete 0.372225999832
+farkas SNARC line dot CD 0 down 15 num_delete 0.387431144714
+farkas SNARC line dot CD 0 down 30 num_delete 0.318773984909
+farkas SNARC line dot CD 0 up 30 lctrl 0.280117988586
+farkas SNARC line dot CD 0 down 45 num_delete 0.299285888672
+farkas SNARC line dot CD 0 down 10 num_delete 0.481457948685
+farkas SNARC line dot CD 0 up 40 lctrl 0.435311079025
+farkas SNARC line dot CD 0 up 45 lctrl 0.435279130936
+farkas SNARC line dot CD 0 down 20 num_delete 0.413003921509
+farkas SNARC line dot CD 0 down 35 num_delete 0.355930089951
+farkas SNARC line dot CD 0 up 35 lctrl 0.345155000687
+farkas SNARC line dot CD 0 up 5 lctrl 0.320261955261
+farkas SNARC line dot CD 0 up 5 lctrl 0.296699047089
+farkas SNARC line dot CD 0 down 45 num_delete 0.411837100983
+farkas SNARC line dot CD 0 up 10 lctrl 0.473359107971
+farkas SNARC line dot CD 0 down 30 num_delete 0.429780960083
+farkas SNARC line dot CD 0 up 20 lctrl 0.325189113617
+farkas SNARC line dot CD 0 down 45 num_delete 0.332175016403
+farkas SNARC line dot CD 0 up 35 lctrl 0.673829078674
+farkas SNARC line dot CD 0 down 10 num_delete 0.4421210289
+farkas SNARC line dot CD 0 down 10 num_delete 0.337846040726
+farkas SNARC line dot CD 0 up 25 lctrl 0.333075046539
+farkas SNARC line dot CD 0 down 5 num_delete 0.576930999756
+farkas SNARC line dot CD 0 up 30 lctrl 0.374966859818
+farkas SNARC line dot CD 0 up 5 lctrl 0.368611812592
+farkas SNARC line dot CD 0 up 15 lctrl 0.32319688797
+farkas SNARC line dot CD 0 down 25 num_delete 0.356997966766
+farkas SNARC line dot CD 0 down 5 num_delete 0.343543052673
+farkas SNARC line dot CD 0 up 40 lctrl 0.370697021484
+farkas SNARC line dot CD 0 down 30 num_delete 0.334378957748
+farkas SNARC line dot CD 0 down 35 num_delete 0.360352993011
+farkas SNARC line dot CD 0 down 5 num_delete 0.359977960587
+farkas SNARC line dot CD 0 down 35 num_delete 0.409301996231
+farkas SNARC line dot CD 0 up 45 lctrl 0.37193608284
+farkas SNARC line dot CD 0 down 5 num_delete 0.343903064728
+farkas SNARC line dot CD 0 up 40 lctrl 0.314503908157
+farkas SNARC line dot CD 0 up 25 lctrl 0.26944899559
+farkas SNARC line dot CD 0 down 40 num_delete 0.337715148926
+farkas SNARC line dot CD 0 down 40 num_delete 0.386216878891
+farkas SNARC line dot CD 0 down 20 num_delete 0.412677049637
+farkas SNARC line dot CD 0 down 5 num_delete 0.520262002945
+farkas SNARC line dot CD 0 down 30 num_delete 0.351609945297
+farkas SNARC line dot CD 0 up 10 lctrl 0.362785816193
+farkas SNARC line dot CD 0 up 15 lctrl 0.31498003006
+farkas SNARC line dot CD 0 down 25 lctrl 0.34921002388
+farkas SNARC line dot CD 0 up 25 lctrl 0.430494070053
+farkas SNARC line dot CD 0 down 10 num_delete 0.311534881592
+farkas SNARC line dot CD 0 down 15 num_delete 0.516457080841
+farkas SNARC line dot CD 0 down 10 num_delete 0.29785490036
+farkas SNARC line dot CD 0 up 40 num_delete 0.329364061356
+farkas SNARC line dot CD 0 down 30 num_delete 0.478780031204
+farkas SNARC line dot CD 0 up 10 lctrl 0.345447063446
+farkas SNARC line dot CD 0 up 5 num_delete 0.336731910706
+farkas SNARC line dot CD 0 down 35 num_delete 0.44889998436
+farkas SNARC line dot CD 0 down 25 num_delete 0.582553863525
+farkas SNARC line dot CD 0 down 5 num_delete 0.345254182816
+farkas SNARC line dot CD 0 up 35 lctrl 0.361654996872
+farkas SNARC line dot CD 0 up 5 lctrl 0.328709840775
+farkas SNARC line dot CD 0 down 40 num_delete 0.402261018753
+farkas SNARC line dot CD 0 down 40 num_delete 0.362236976624
+farkas SNARC line dot CD 0 up 20 num_delete 0.292904853821
+farkas SNARC line dot CD 0 up 5 num_delete 0.51224398613
+farkas SNARC line dot CD 0 down 5 lctrl 0.376408815384
+farkas SNARC line dot CD 0 up 45 num_delete 0.442605018616
+farkas SNARC line dot CD 0 down 35 lctrl 0.600668907166
+farkas SNARC line dot CD 0 up 40 num_delete 0.815432786942
+farkas SNARC line dot CD 0 up 10 lctrl 0.649921894073
+farkas SNARC line dot CD 0 down 15 num_delete 0.434346199036
+farkas SNARC line dot CD 0 up 15 lctrl 0.587733983994
+farkas SNARC line dot CD 0 up 40 lctrl 0.409909009933
+farkas SNARC line dot CD 0 up 40 lctrl 0.395167827606
+farkas SNARC line dot CD 0 down 30 num_delete 0.382595062256
+farkas SNARC line dot CD 0 up 25 lctrl 0.414933919907
+farkas SNARC line dot CD 0 down 40 num_delete 0.457390785217
+farkas SNARC line dot CD 0 down 30 num_delete 0.446956157684
+farkas SNARC line dot CD 0 up 25 lctrl 0.549629926682
+farkas SNARC line dot CD 0 down 5 num_delete 0.599910020828
+farkas SNARC line dot CD 0 up 5 lctrl 0.303561210632
+farkas SNARC line dot CD 0 up 45 lctrl 0.467888116837
+farkas SNARC line dot CD 0 up 30 lctrl 0.398902177811
+farkas SNARC line dot CD 0 up 25 lctrl 0.321506023407
+farkas SNARC line dot CD 0 down 10 num_delete 0.49695110321
+farkas SNARC line dot CD 0 down 25 num_delete 0.397750854492
+farkas SNARC line dot CD 0 up 35 lctrl 0.497078895569
+farkas SNARC line dot CD 0 up 45 lctrl 0.349456071854
+farkas SNARC line dot CD 0 down 5 num_delete 0.448166131973
+farkas SNARC line dot CD 0 up 25 lctrl 0.33463716507
+farkas SNARC line dot CD 0 up 20 lctrl 0.308377027512
+farkas SNARC line dot CD 0 up 10 lctrl 0.273709058762
+farkas SNARC line dot CD 0 up 20 lctrl 0.292202949524
+farkas SNARC line dot CD 0 down 20 lctrl 0.340959072113
+farkas SNARC line dot CD 0 down 40 num_delete 0.463726997375
+farkas SNARC line dot CD 0 up 30 lctrl 0.512106895447
+farkas SNARC line dot CD 0 up 35 num_delete 0.528650045395
+farkas SNARC line dot CD 0 down 40 lctrl 0.506332874298
+farkas SNARC line dot CD 0 up 20 num_delete 0.578534841537
+farkas SNARC line dot CD 0 down 10 num_delete 1.01805901527
+farkas SNARC line dot CD 0 up 5 lctrl 0.440684080124
+farkas SNARC line dot CD 0 up 30 lctrl 0.406981945038
+farkas SNARC line dot CD 0 up 15 lctrl 0.363770961761
+farkas SNARC line dot CD 0 up 5 lctrl 0.407826900482
+farkas SNARC line dot CD 0 up 5 lctrl 0.304017066956
+farkas SNARC line dot CD 0 up 5 lctrl 0.296007871628
+farkas SNARC line dot CD 0 up 10 lctrl 0.297049045563
+farkas SNARC line dot CD 0 up 30 lctrl 0.271438121796
+farkas SNARC line dot CD 0 up 30 lctrl 0.311383008957
+farkas SNARC line dot CD 0 down 40 lctrl 0.298886060715
+farkas SNARC line dot CD 0 up 5 lctrl 0.72832608223
+farkas SNARC line dot CD 0 up 10 lctrl 0.28954410553
+farkas SNARC line dot CD 0 up 25 lctrl 0.421608924866
+farkas SNARC line dot CD 0 down 10 num_delete 0.416830062866
+farkas SNARC line dot CD 0 down 45 num_delete 0.403187990189
+farkas SNARC line dot CD 0 down 45 num_delete 0.411276102066
+farkas SNARC line dot CD 0 down 20 num_delete 0.372466087341
+farkas SNARC line dot CD 0 up 40 lctrl 0.433227062225
+farkas SNARC line dot CD 0 up 35 lctrl 0.36897277832
+farkas SNARC line dot CD 0 up 40 lctrl 0.386531114578
+farkas SNARC line dot CD 0 up 15 lctrl 0.331066846848
+farkas SNARC line dot CD 0 down 10 num_delete 0.465661048889
+farkas SNARC line dot CD 0 up 10 lctrl 0.410238981247
+farkas SNARC line dot CD 0 up 25 lctrl 0.397848129272
+farkas SNARC line dot CD 0 down 30 num_delete 0.390991926193
+farkas SNARC line dot CD 0 down 45 num_delete 0.403697967529
+farkas SNARC line dot CD 0 down 40 num_delete 0.378541946411
+farkas SNARC line dot CD 0 down 30 num_delete 0.407027006149
+farkas SNARC line dot CD 0 down 10 num_delete 0.377521038055
+farkas SNARC line dot CD 0 up 20 lctrl 0.453449964523
+farkas SNARC line dot CD 0 down 35 lctrl 0.608160972595
+farkas SNARC line dot CD 0 up 30 lctrl 0.471687078476
+farkas SNARC line dot CD 0 up 15 num_delete 0.578055143356
+farkas SNARC line dot CD 0 down 35 num_delete 0.720941066742
+farkas SNARC line dot CD 0 up 25 lctrl 0.358787059784
+farkas SNARC line dot CD 0 down 35 num_delete 1.11289191246
+farkas SNARC line dot CD 0 down 25 num_delete 0.495101928711
+farkas SNARC line dot CD 0 up 30 lctrl 0.360478878021
+farkas SNARC line dot CD 0 up 15 lctrl 0.770513057709
+farkas SNARC line dot CD 0 up 45 lctrl 0.37186384201
+farkas SNARC line dot CD 0 up 25 lctrl 0.269917011261
+farkas SNARC line dot CD 0 down 35 num_delete 0.320733070374
+farkas SNARC line dot CD 0 up 10 num_delete 0.401687860489
+farkas SNARC line dot CD 0 up 25 lctrl 0.390909910202
+farkas SNARC line dot CD 0 up 40 lctrl 0.33746099472
+farkas SNARC line dot CD 0 up 20 lctrl 0.349925994873
+farkas SNARC line dot CD 0 up 10 lctrl 0.248712062836
+farkas SNARC line dot CD 0 up 35 lctrl 0.280652046204
+farkas SNARC line dot CD 0 down 35 num_delete 0.432483911514
+farkas SNARC line dot CD 0 down 20 num_delete 0.363617897034
+farkas SNARC line dot CD 0 up 15 lctrl 0.419566869736
+farkas SNARC line dot CD 0 down 20 num_delete 0.452446222305
+farkas SNARC line dot CD 0 up 5 lctrl 0.441045045853
+farkas SNARC line dot CD 0 down 35 num_delete 0.77529001236
+farkas SNARC line dot CD 0 up 25 num_delete 0.662722110748
+farkas SNARC line dot CD 0 up 35 lctrl 0.440801858902
+farkas SNARC line dot CD 0 up 15 lctrl 0.323408842087
+farkas SNARC line dot CD 0 up 40 lctrl 0.346836090088
+farkas SNARC line dot CD 0 down 15 num_delete 0.385869026184
+farkas SNARC line dot CD 0 down 15 num_delete 0.363556861877
+farkas SNARC line dot CD 0 up 35 lctrl 0.40886092186
+farkas SNARC line dot CD 0 up 45 lctrl 0.525100946426
+farkas SNARC line dot CD 0 down 40 num_delete 0.497909069061
+farkas SNARC line dot CD 0 up 20 lctrl 0.420566082001
+farkas SNARC line dot CD 0 down 5 num_delete 0.472512960434
+farkas SNARC line dot CD 0 down 25 num_delete 0.398149013519
+farkas SNARC line dot CD 0 up 20 lctrl 0.389649868011
+farkas SNARC line dot CD 0 up 35 lctrl 0.455832958221
+farkas SNARC line dot CD 0 up 35 lctrl 0.344491004944
+farkas SNARC line dot CD 0 up 30 lctrl 0.438621044159
+farkas SNARC line dot CD 0 down 40 num_delete 0.392949819565
+farkas SNARC line dot CD 0 down 45 num_delete 0.404170036316
+farkas SNARC line dot CD 0 down 20 num_delete 0.428242921829
+farkas SNARC line dot CD 0 up 40 lctrl 0.394129037857
+farkas SNARC line dot CD 0 down 40 num_delete 0.42581987381
+farkas SNARC line dot CD 0 up 10 lctrl 0.425674915314
+farkas SNARC line dot CD 0 down 35 num_delete 0.360170125961
+farkas SNARC line dot CD 0 down 25 num_delete 0.422241926193
+farkas SNARC line dot CD 0 up 45 lctrl 0.556026935577
+farkas SNARC line dot CD 0 down 30 num_delete 0.653526067734
+farkas SNARC line dot CD 0 up 15 lctrl 0.539222002029
+farkas SNARC line dot CD 0 down 40 num_delete 0.899020910263
+farkas SNARC line dot CD 0 down 30 num_delete 0.926125049591
+farkas SNARC line dot CD 0 down 45 num_delete 0.476046085358
+farkas SNARC line dot CD 0 up 40 lctrl 0.385783910751
+farkas SNARC line dot CD 0 up 5 lctrl 0.504939079285
+farkas SNARC line dot CD 0 up 45 lctrl 0.323287963867
+farkas SNARC line dot CD 0 down 10 lctrl 0.21821808815
+farkas SNARC line dot CD 0 up 5 lctrl 0.400365114212
+farkas SNARC line dot CD 0 up 15 lctrl 0.386001110077
+farkas SNARC line dot CD 0 up 10 lctrl 0.321280002594
+farkas SNARC line dot CD 0 up 10 lctrl 0.305409193039
+farkas SNARC line dot CD 0 up 15 lctrl 0.291985988617
+farkas SNARC line dot CD 0 down 15 num_delete 0.39416217804
+farkas SNARC line dot CD 0 down 10 num_delete 0.361287117004
+farkas SNARC line dot CD 0 up 15 lctrl 0.379109859467
+farkas SNARC line dot CD 0 down 20 num_delete 0.499850988388
+farkas SNARC line dot CD 0 down 25 num_delete 0.501959085464
+farkas SNARC line dot CD 0 up 20 lctrl 0.628908157349
+farkas SNARC line dot CD 0 down 25 num_delete 0.461958885193
+farkas SNARC line dot CD 0 down 45 num_delete 0.507332086563
+farkas SNARC line dot CD 0 up 35 lctrl 0.705821990967
+farkas SNARC line dot CD 0 up 30 lctrl 0.615670919418
+farkas SNARC line dot CD 0 down 45 num_delete 0.602911949158
+farkas SNARC line dot CD 0 up 35 lctrl 0.593264102936
+farkas SNARC line dot CD 0 up 40 lctrl 0.354990959167
+farkas SNARC line dot CD 0 up 20 lctrl 0.372734069824
+farkas SNARC line dot CD 0 down 30 num_delete 0.351442098618
+farkas SNARC line dot CD 0 down 15 num_delete 0.363312005997
+farkas SNARC line dot CD 0 up 20 lctrl 0.500865936279
+farkas SNARC line dot CD 0 down 15 num_delete 0.554441928864
+farkas SNARC line dot CD 0 up 5 lctrl 0.336225986481
+farkas SNARC line dot CD 0 up 30 lctrl 0.527906894684
+farkas SNARC line dot CD 0 up 45 lctrl 0.411939144135
+farkas SNARC line dot CD 0 up 35 lctrl 0.336839914322
+farkas SNARC line dot CD 0 up 45 lctrl 0.378691911697
+farkas SNARC line dot CD 0 up 25 lctrl 0.397700071335
+farkas SNARC line dot CD 0 up 15 lctrl 0.355453968048
+farkas SNARC line dot CD 0 up 20 lctrl 0.460767030716
+farkas SNARC line dot CD 0 down 45 num_delete 0.412260055542
+farkas SNARC line dot CD 0 up 30 lctrl 0.566828966141
+farkas SNARC line dot CD 0 down 40 num_delete 0.464570999146
+farkas SNARC line dot CD 0 up 30 lctrl 0.591704130173
+farkas SNARC line dot CD 0 down 15 lctrl 0.739541053772
+farkas SNARC line dot CD 0 up 15 lctrl 0.44281411171
+farkas SNARC line dot CD 0 up 35 num_delete 0.687169075012
+farkas SNARC line dot CD 0 down 40 num_delete 0.570093870163
+farkas SNARC line dot CD 0 down 30 num_delete 0.342664003372
+farkas SNARC line dot CD 0 down 10 num_delete 0.346425056458
+farkas SNARC line dot CD 0 up 30 lctrl 0.376173973083
+{'delay': u'0', 'dateStr': u'05_18_1609', 'task': u'line', 'participant': u'farkas', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+farkas SNARC line arabic CD 0 down 6 num_delete 1.47898006439
+farkas SNARC line arabic CD 0 up 2 lctrl 0.535972118378
+farkas SNARC line arabic CD 0 up 1 lctrl 0.47213602066
+farkas SNARC line arabic CD 0 down 3 num_delete 0.487560987473
+farkas SNARC line arabic CD 0 up 7 num_delete 0.440119981766
+farkas SNARC line arabic CD 0 up 3 lctrl 0.60332608223
+farkas SNARC line arabic CD 0 up 1 lctrl 0.376842975616
+farkas SNARC line arabic CD 0 up 9 lctrl 0.360929965973
+farkas SNARC line arabic CD 0 down 7 num_delete 0.374316930771
+farkas SNARC line arabic CD 0 up 1 num_delete 0.368314027786
+farkas SNARC line arabic CD 0 down 5 lctrl 0.446812868118
+farkas SNARC line arabic CD 0 down 1 num_delete 0.783535957336
+farkas SNARC line arabic CD 0 up 9 lctrl 0.432940006256
+farkas SNARC line arabic CD 0 up 9 lctrl 0.384754896164
+farkas SNARC line arabic CD 0 down 4 num_delete 0.479893922806
+farkas SNARC line arabic CD 0 down 7 num_delete 0.673097848892
+farkas SNARC line arabic CD 0 up 6 lctrl 0.569102048874
+farkas SNARC line arabic CD 0 up 7 lctrl 0.41614484787
+farkas SNARC line arabic CD 0 down 8 num_delete 0.440140008926
+farkas SNARC line arabic CD 0 down 7 num_delete 0.680057048798
+farkas SNARC line arabic CD 0 up 7 lctrl 0.489822149277
+farkas SNARC line arabic CD 0 up 4 num_delete 0.823721885681
+farkas SNARC line arabic CD 0 up 6 lctrl 0.416620016098
+farkas SNARC line arabic CD 0 up 4 lctrl 0.289037942886
+farkas SNARC line arabic CD 0 up 5 lctrl 0.40087890625
+farkas SNARC line arabic CD 0 up 3 lctrl 0.305139064789
+farkas SNARC line arabic CD 0 up 3 lctrl 0.312305927277
+farkas SNARC line arabic CD 0 up 4 lctrl 0.313359975815
+farkas SNARC line arabic CD 0 up 4 lctrl 0.321590900421
+farkas SNARC line arabic CD 0 down 5 lctrl 0.225093126297
+farkas SNARC line arabic CD 0 down 2 num_delete 0.376613855362
+farkas SNARC line arabic CD 0 down 7 num_delete 0.289901018143
+farkas SNARC line arabic CD 0 up 8 lctrl 0.401290893555
+farkas SNARC line arabic CD 0 down 3 lctrl 0.50461602211
+farkas SNARC line arabic CD 0 down 9 num_delete 0.583567857742
+farkas SNARC line arabic CD 0 up 8 lctrl 0.417145967484
+farkas SNARC line arabic CD 0 down 1 num_delete 0.472601890564
+farkas SNARC line arabic CD 0 down 4 num_delete 0.464465141296
+farkas SNARC line arabic CD 0 down 5 num_delete 0.376477956772
+farkas SNARC line arabic CD 0 up 6 lctrl 0.369784832001
+farkas SNARC line arabic CD 0 down 1 num_delete 0.640153884888
+farkas SNARC line arabic CD 0 up 1 lctrl 1.21700382233
+farkas SNARC line arabic CD 0 up 3 lctrl 0.415652036667
+farkas SNARC line arabic CD 0 down 7 num_delete 0.392557859421
+farkas SNARC line arabic CD 0 up 4 lctrl 0.393726110458
+farkas SNARC line arabic CD 0 up 2 lctrl 0.59304189682
+farkas SNARC line arabic CD 0 down 7 num_delete 0.584444046021
+farkas SNARC line arabic CD 0 down 5 num_delete 0.440836906433
+farkas SNARC line arabic CD 0 up 3 lctrl 0.377432107925
+farkas SNARC line arabic CD 0 up 5 lctrl 0.513113021851
+farkas SNARC line arabic CD 0 down 9 num_delete 0.432608127594
+farkas SNARC line arabic CD 0 down 1 num_delete 0.511800050735
+farkas SNARC line arabic CD 0 up 5 lctrl 0.360870838165
+farkas SNARC line arabic CD 0 up 9 lctrl 0.416837930679
+farkas SNARC line arabic CD 0 down 3 num_delete 0.408705949783
+farkas SNARC line arabic CD 0 down 6 lctrl 0.376554965973
+farkas SNARC line arabic CD 0 up 2 lctrl 0.447889089584
+farkas SNARC line arabic CD 0 down 5 lctrl 0.361450195312
+farkas SNARC line arabic CD 0 down 5 lctrl 0.407895088196
+farkas SNARC line arabic CD 0 up 5 lctrl 0.568413972855
+farkas SNARC line arabic CD 0 up 4 lctrl 0.440448999405
+farkas SNARC line arabic CD 0 down 6 num_delete 0.368733167648
+farkas SNARC line arabic CD 0 down 3 num_delete 0.376596927643
+farkas SNARC line arabic CD 0 up 6 lctrl 0.385221004486
+farkas SNARC line arabic CD 0 up 7 lctrl 0.440603017807
+farkas SNARC line arabic CD 0 up 8 lctrl 0.392063856125
+farkas SNARC line arabic CD 0 up 6 lctrl 0.352953195572
+farkas SNARC line arabic CD 0 down 8 lctrl 0.368700027466
+farkas SNARC line arabic CD 0 up 9 lctrl 0.640857934952
+farkas SNARC line arabic CD 0 up 7 lctrl 0.397523164749
+farkas SNARC line arabic CD 0 up 9 lctrl 0.369773864746
+farkas SNARC line arabic CD 0 up 8 lctrl 0.456907987595
+farkas SNARC line arabic CD 0 up 1 lctrl 0.512503147125
+farkas SNARC line arabic CD 0 up 1 lctrl 0.328859090805
+farkas SNARC line arabic CD 0 down 5 num_delete 0.392415046692
+farkas SNARC line arabic CD 0 up 2 lctrl 0.465380907059
+farkas SNARC line arabic CD 0 up 3 lctrl 0.369116067886
+farkas SNARC line arabic CD 0 up 9 lctrl 0.384924888611
+farkas SNARC line arabic CD 0 up 6 lctrl 0.456434965134
+farkas SNARC line arabic CD 0 up 5 lctrl 0.399734973907
+farkas SNARC line arabic CD 0 down 2 num_delete 0.56836605072
+farkas SNARC line arabic CD 0 up 1 lctrl 0.497223854065
+farkas SNARC line arabic CD 0 up 7 lctrl 0.665138959885
+farkas SNARC line arabic CD 0 up 4 lctrl 0.593135118484
+farkas SNARC line arabic CD 0 up 5 lctrl 0.47199511528
+farkas SNARC line arabic CD 0 up 8 lctrl 0.593188047409
+farkas SNARC line arabic CD 0 down 8 lctrl 0.385153770447
+farkas SNARC line arabic CD 0 down 4 num_delete 0.471982955933
+farkas SNARC line arabic CD 0 up 2 lctrl 0.513495922089
+farkas SNARC line arabic CD 0 down 3 num_delete 0.40017580986
+farkas SNARC line arabic CD 0 up 1 lctrl 0.553071022034
+farkas SNARC line arabic CD 0 up 7 lctrl 0.416548967361
+farkas SNARC line arabic CD 0 up 1 lctrl 0.400944948196
+farkas SNARC line arabic CD 0 up 8 lctrl 0.544439077377
+farkas SNARC line arabic CD 0 up 5 lctrl 0.433573007584
+farkas SNARC line arabic CD 0 down 1 num_delete 0.47247004509
+farkas SNARC line arabic CD 0 up 6 lctrl 0.584772109985
+farkas SNARC line arabic CD 0 down 7 num_delete 0.391902923584
+farkas SNARC line arabic CD 0 up 9 lctrl 0.481710910797
+farkas SNARC line arabic CD 0 up 3 num_delete 0.45661687851
+farkas SNARC line arabic CD 0 up 6 lctrl 0.489555835724
+farkas SNARC line arabic CD 0 up 2 lctrl 0.351803064346
+farkas SNARC line arabic CD 0 down 9 num_delete 0.528964996338
+farkas SNARC line arabic CD 0 up 9 lctrl 0.648942947388
+farkas SNARC line arabic CD 0 down 3 num_delete 0.504519939423
+farkas SNARC line arabic CD 0 up 7 lctrl 0.488286972046
+farkas SNARC line arabic CD 0 up 4 lctrl 0.409889936447
+farkas SNARC line arabic CD 0 up 8 lctrl 0.472231864929
+farkas SNARC line arabic CD 0 up 2 lctrl 0.664081096649
+farkas SNARC line arabic CD 0 down 3 num_delete 0.464911937714
+farkas SNARC line arabic CD 0 down 2 num_delete 0.672865152359
+farkas SNARC line arabic CD 0 up 5 lctrl 0.417905807495
+farkas SNARC line arabic CD 0 down 1 lctrl 0.440656900406
+farkas SNARC line arabic CD 0 up 1 lctrl 0.776220083237
+farkas SNARC line arabic CD 0 up 9 lctrl 0.632146835327
+farkas SNARC line arabic CD 0 down 7 num_delete 0.488942146301
+farkas SNARC line arabic CD 0 down 2 num_delete 0.656316995621
+farkas SNARC line arabic CD 0 down 3 num_delete 0.423871994019
+farkas SNARC line arabic CD 0 up 3 lctrl 0.625327110291
+farkas SNARC line arabic CD 0 up 9 lctrl 0.457803964615
+farkas SNARC line arabic CD 0 down 1 num_delete 0.40812420845
+farkas SNARC line arabic CD 0 down 6 num_delete 0.441023826599
+farkas SNARC line arabic CD 0 down 3 num_delete 0.424002885818
+farkas SNARC line arabic CD 0 up 1 lctrl 0.398708105087
+farkas SNARC line arabic CD 0 down 6 lctrl 0.45619893074
+farkas SNARC line arabic CD 0 up 2 lctrl 0.640478134155
+farkas SNARC line arabic CD 0 down 1 num_delete 0.32052898407
+farkas SNARC line arabic CD 0 up 4 num_delete 0.456943035126
+farkas SNARC line arabic CD 0 up 5 lctrl 0.864655017853
+farkas SNARC line arabic CD 0 up 2 lctrl 0.36120891571
+farkas SNARC line arabic CD 0 down 1 num_delete 0.632057905197
+farkas SNARC line arabic CD 0 down 8 lctrl 0.761665821075
+farkas SNARC line arabic CD 0 down 9 num_delete 0.702986955643
+farkas SNARC line arabic CD 0 up 6 lctrl 0.873534917831
+farkas SNARC line arabic CD 0 down 9 num_delete 0.567941188812
+farkas SNARC line arabic CD 0 up 9 lctrl 0.913812875748
+farkas SNARC line arabic CD 0 down 7 num_delete 0.856118917465
+farkas SNARC line arabic CD 0 up 3 lctrl 0.920512914658
+farkas SNARC line arabic CD 0 up 2 lctrl 0.336489915848
+farkas SNARC line arabic CD 0 down 1 lctrl 0.351919174194
+farkas SNARC line arabic CD 0 down 6 num_delete 0.615709066391
+farkas SNARC line arabic CD 0 up 3 lctrl 0.479567050934
+farkas SNARC line arabic CD 0 up 9 lctrl 0.881079912186
+farkas SNARC line arabic CD 0 down 5 lctrl 0.496562957764
+farkas SNARC line arabic CD 0 up 5 num_delete 0.559670209885
+farkas SNARC line arabic CD 0 down 2 num_delete 1.20103311539
+farkas SNARC line arabic CD 0 down 4 num_delete 0.529266834259
+farkas SNARC line arabic CD 0 up 7 lctrl 0.76907491684
+farkas SNARC line arabic CD 0 down 7 num_delete 0.663652896881
+farkas SNARC line arabic CD 0 up 6 lctrl 0.38582110405
+farkas SNARC line arabic CD 0 down 6 lctrl 0.623486042023
+farkas SNARC line arabic CD 0 down 4 num_delete 0.647417068481
+farkas SNARC line arabic CD 0 down 7 num_delete 0.319869041443
+farkas SNARC line arabic CD 0 up 2 lctrl 0.512186050415
+farkas SNARC line arabic CD 0 up 6 lctrl 0.656350135803
+farkas SNARC line arabic CD 0 down 2 num_delete 0.449496030807
+farkas SNARC line arabic CD 0 up 9 lctrl 0.481339931488
+farkas SNARC line arabic CD 0 down 2 num_delete 0.889375925064
+farkas SNARC line arabic CD 0 down 4 num_delete 0.513151884079
+farkas SNARC line arabic CD 0 down 7 num_delete 0.392509937286
+farkas SNARC line arabic CD 0 up 5 lctrl 0.464690923691
+farkas SNARC line arabic CD 0 down 7 num_delete 0.656712055206
+farkas SNARC line arabic CD 0 down 1 num_delete 0.623914003372
+farkas SNARC line arabic CD 0 down 6 num_delete 0.392853021622
+farkas SNARC line arabic CD 0 down 5 num_delete 0.440999031067
+farkas SNARC line arabic CD 0 down 9 num_delete 0.457089185715
+farkas SNARC line arabic CD 0 down 2 num_delete 0.672873973846
+farkas SNARC line arabic CD 0 up 9 lctrl 0.441041946411
+farkas SNARC line arabic CD 0 down 2 lctrl 0.440320014954
+farkas SNARC line arabic CD 0 down 5 num_delete 0.496011018753
+farkas SNARC line arabic CD 0 up 9 lctrl 0.473796129227
+farkas SNARC line arabic CD 0 up 8 num_delete 0.488228082657
+farkas SNARC line arabic CD 0 down 8 lctrl 0.456523180008
+farkas SNARC line arabic CD 0 up 8 lctrl 0.720463991165
+farkas SNARC line arabic CD 0 up 9 lctrl 0.840350866318
+farkas SNARC line arabic CD 0 down 4 num_delete 0.353245019913
+farkas SNARC line arabic CD 0 down 3 num_delete 0.519450902939
+farkas SNARC line arabic CD 0 down 5 num_delete 0.429594039917
+farkas SNARC line arabic CD 0 down 7 num_delete 0.456947803497
+farkas SNARC line arabic CD 0 down 4 num_delete 0.872490167618
+farkas SNARC line arabic CD 0 down 4 num_delete 0.488199949265
+farkas SNARC line arabic CD 0 up 7 lctrl 0.56112408638
+farkas SNARC line arabic CD 0 down 1 num_delete 0.553009033203
+farkas SNARC line arabic CD 0 down 9 num_delete 1.05711221695
+farkas SNARC line arabic CD 0 up 7 lctrl 0.712754964828
+farkas SNARC line arabic CD 0 down 8 num_delete 0.552724838257
+farkas SNARC line arabic CD 0 down 6 num_delete 0.848070859909
+farkas SNARC line arabic CD 0 down 7 num_delete 0.791820049286
+farkas SNARC line arabic CD 0 up 9 lctrl 0.538798093796
+farkas SNARC line arabic CD 0 down 9 num_delete 0.575540065765
+farkas SNARC line arabic CD 0 down 1 num_delete 0.305636167526
+farkas SNARC line arabic CD 0 down 8 num_delete 0.440936088562
+farkas SNARC line arabic CD 0 down 2 num_delete 0.593067169189
+farkas SNARC line arabic CD 0 up 6 lctrl 0.433134078979
+farkas SNARC line arabic CD 0 down 1 num_delete 0.696691989899
+farkas SNARC line arabic CD 0 down 3 num_delete 0.513350963593
+farkas SNARC line arabic CD 0 up 7 lctrl 0.552914857864
+farkas SNARC line arabic CD 0 up 2 lctrl 0.457082986832
+farkas SNARC line arabic CD 0 down 9 num_delete 1.08792114258
+farkas SNARC line arabic CD 0 down 9 num_delete 0.71276307106
+farkas SNARC line arabic CD 0 up 2 lctrl 0.577333927155
+farkas SNARC line arabic CD 0 down 5 lctrl 0.464895009995
+farkas SNARC line arabic CD 0 down 6 num_delete 0.536540031433
+farkas SNARC line arabic CD 0 up 7 lctrl 0.585843086243
+farkas SNARC line arabic CD 0 down 8 num_delete 1.05589389801
+farkas SNARC line arabic CD 0 down 3 num_delete 1.49631309509
+farkas SNARC line arabic CD 0 down 4 num_delete 0.440820932388
+farkas SNARC line arabic CD 0 down 3 num_delete 0.576426029205
+farkas SNARC line arabic CD 0 down 6 num_delete 0.681199073792
+farkas SNARC line arabic CD 0 up 4 lctrl 0.721710920334
+farkas SNARC line arabic CD 0 down 9 num_delete 0.736242055893
+farkas SNARC line arabic CD 0 up 9 lctrl 0.521024942398
+farkas SNARC line arabic CD 0 down 6 num_delete 0.448291063309
+farkas SNARC line arabic CD 0 up 6 num_delete 0.695315122604
+farkas SNARC line arabic CD 0 up 2 lctrl 0.448318958282
+farkas SNARC line arabic CD 0 down 3 num_delete 0.576393842697
+farkas SNARC line arabic CD 0 down 8 num_delete 1.41687989235
+farkas SNARC line arabic CD 0 up 9 lctrl 0.458123922348
+farkas SNARC line arabic CD 0 up 5 num_delete 0.599779129028
+farkas SNARC line arabic CD 0 down 8 lctrl 0.432716846466
+farkas SNARC line arabic CD 0 up 3 lctrl 0.591938018799
+farkas SNARC line arabic CD 0 up 4 lctrl 0.384382009506
+farkas SNARC line arabic CD 0 down 8 num_delete 0.455744981766
+farkas SNARC line arabic CD 0 up 1 num_delete 0.576776027679
+farkas SNARC line arabic CD 0 down 1 lctrl 0.432559967041
+farkas SNARC line arabic CD 0 down 2 lctrl 0.759339809418
+farkas SNARC line arabic CD 0 up 5 lctrl 0.705109834671
+farkas SNARC line arabic CD 0 up 4 lctrl 0.430892944336
+farkas SNARC line arabic CD 0 up 2 lctrl 0.3511698246
+farkas SNARC line arabic CD 0 up 6 lctrl 0.384407997131
+farkas SNARC line arabic CD 0 up 4 lctrl 0.448462963104
+farkas SNARC line arabic CD 0 up 3 lctrl 0.352576971054
+farkas SNARC line arabic CD 0 down 4 num_delete 0.49626994133
+farkas SNARC line arabic CD 0 down 5 num_delete 0.401058912277
+farkas SNARC line arabic CD 0 down 2 num_delete 0.480137825012
+farkas SNARC line arabic CD 0 down 1 num_delete 0.569673061371
+farkas SNARC line arabic CD 0 up 2 lctrl 0.712625026703
+farkas SNARC line arabic CD 0 up 4 lctrl 0.49724817276
+farkas SNARC line arabic CD 0 down 1 num_delete 0.496742010117
+farkas SNARC line arabic CD 0 down 1 num_delete 0.448183059692
+farkas SNARC line arabic CD 0 up 5 lctrl 0.4957280159
+farkas SNARC line arabic CD 0 down 8 lctrl 0.520929098129
+farkas SNARC line arabic CD 0 down 4 num_delete 0.560142993927
+farkas SNARC line arabic CD 0 down 3 num_delete 0.392848014832
+farkas SNARC line arabic CD 0 up 4 lctrl 0.537375926971
+farkas SNARC line arabic CD 0 up 9 lctrl 0.816870927811
+farkas SNARC line arabic CD 0 down 4 num_delete 0.759644031525
+farkas SNARC line arabic CD 0 down 6 lctrl 2.64081406593
+farkas SNARC line arabic CD 0 down 4 num_delete 0.67206287384
+farkas SNARC line arabic CD 0 up 4 lctrl 0.728023052216
+farkas SNARC line arabic CD 0 up 1 lctrl 0.809199094772
+farkas SNARC line arabic CD 0 down 7 num_delete 0.488647937775
+farkas SNARC line arabic CD 0 up 8 num_delete 0.585333824158
+farkas SNARC line arabic CD 0 down 7 num_delete 0.456346988678
+farkas SNARC line arabic CD 0 down 4 num_delete 0.39219212532
+farkas SNARC line arabic CD 0 up 4 lctrl 0.409833908081
+farkas SNARC line arabic CD 0 down 8 lctrl 0.584532976151
+farkas SNARC line arabic CD 0 down 3 num_delete 0.680400133133
+farkas SNARC line arabic CD 0 up 5 lctrl 0.384776115417
+farkas SNARC line arabic CD 0 down 2 lctrl 0.41675901413
+farkas SNARC line arabic CD 0 up 6 lctrl 0.624136924744
+farkas SNARC line arabic CD 0 up 2 lctrl 0.488807916641
+farkas SNARC line arabic CD 0 down 8 num_delete 0.585071086884
+farkas SNARC line arabic CD 0 up 8 num_delete 0.50489115715
+farkas SNARC line arabic CD 0 up 9 lctrl 0.641748905182
+farkas SNARC line arabic CD 0 up 7 lctrl 0.496234893799
+farkas SNARC line arabic CD 0 up 6 lctrl 0.56850194931
+farkas SNARC line arabic CD 0 down 6 lctrl 0.448313951492
+farkas SNARC line arabic CD 0 down 6 num_delete 0.551373958588
+farkas SNARC line arabic CD 0 down 4 lctrl 0.43415594101
+farkas SNARC line arabic CD 0 down 6 num_delete 0.616587162018
+farkas SNARC line arabic CD 0 down 5 num_delete 0.39261007309
+farkas SNARC line arabic CD 0 down 8 num_delete 0.465515851974
+farkas SNARC line arabic CD 0 down 3 num_delete 0.38463306427
+farkas SNARC line arabic CD 0 down 9 num_delete 0.504375934601
+farkas SNARC line arabic CD 0 up 2 lctrl 0.618497848511
+farkas SNARC line arabic CD 0 up 5 lctrl 0.574783086777
+farkas SNARC line arabic CD 0 down 1 num_delete 0.90406703949
+farkas SNARC line arabic CD 0 down 9 num_delete 0.47682595253
+farkas SNARC line arabic CD 0 up 8 lctrl 0.426263093948
+farkas SNARC line arabic CD 0 up 3 lctrl 1.06290602684
+farkas SNARC line arabic CD 0 up 7 lctrl 0.734479188919
+farkas SNARC line arabic CD 0 up 2 lctrl 0.622565984726
+farkas SNARC line arabic CD 0 down 5 num_delete 0.720849990845
+farkas SNARC line arabic CD 0 down 3 lctrl 2.17469596863
+farkas SNARC line arabic CD 0 down 4 num_delete 0.647313117981
+farkas SNARC line arabic CD 0 up 8 lctrl 0.532218933105
+farkas SNARC line arabic CD 0 up 1 lctrl 1.72245383263
+farkas SNARC line arabic CD 0 up 8 lctrl 1.71909880638
+farkas SNARC line arabic CD 0 down 4 num_delete 1.29577708244
+farkas SNARC line arabic CD 0 down 5 num_delete 0.564106941223
+farkas SNARC line arabic CD 0 down 7 num_delete 0.644474983215
+farkas SNARC line arabic CD 0 up 8 lctrl 0.423901081085
+farkas SNARC line arabic CD 0 down 2 num_delete 0.611939907074
+farkas SNARC line arabic CD 0 up 8 lctrl 0.541072845459
+farkas SNARC line arabic CD 0 down 1 num_delete 0.571121931076
+farkas SNARC line arabic CD 0 up 7 lctrl 0.57842707634
+farkas SNARC line arabic CD 0 up 6 lctrl 0.520985841751
+farkas SNARC line arabic CD 0 down 8 num_delete 0.528948068619
+farkas SNARC line arabic CD 0 down 1 num_delete 0.577419042587
+farkas SNARC line arabic CD 0 down 8 num_delete 0.432686090469
+farkas SNARC line arabic CD 0 down 1 num_delete 0.417043924332
+farkas SNARC line arabic CD 0 up 1 lctrl 0.601580142975
+farkas SNARC line arabic CD 0 down 3 num_delete 0.503569126129
+farkas SNARC line arabic CD 0 up 5 lctrl 1.39370799065
+farkas SNARC line arabic CD 0 down 6 num_delete 0.679105997086
+farkas SNARC line arabic CD 0 up 5 lctrl 5.51329493523
+farkas SNARC line arabic CD 0 up 6 lctrl 0.449303865433
+farkas SNARC line arabic CD 0 up 1 lctrl 0.497098922729
+farkas SNARC line arabic CD 0 up 7 lctrl 0.873042106628
+farkas SNARC line arabic CD 0 up 4 lctrl 0.44807100296
+farkas SNARC line arabic CD 0 up 2 lctrl 0.34522485733
+farkas SNARC line arabic CD 0 down 4 num_delete 0.37669801712
+farkas SNARC line arabic CD 0 down 2 num_delete 0.417214870453
+farkas SNARC line arabic CD 0 up 9 lctrl 0.43251490593
+farkas SNARC line arabic CD 0 up 3 lctrl 0.464841127396
+farkas SNARC line arabic CD 0 up 2 lctrl 0.345402002335
+farkas SNARC line arabic CD 0 up 7 lctrl 0.321138143539
+farkas SNARC line arabic CD 0 up 7 lctrl 0.36804318428
+farkas SNARC line arabic CD 0 up 3 lctrl 0.36013007164
+farkas SNARC line arabic CD 0 down 5 lctrl 0.296398878098
+farkas SNARC line arabic CD 0 up 8 lctrl 0.440207004547
+farkas SNARC line arabic CD 0 up 6 lctrl 0.376389980316
+farkas SNARC line arabic CD 0 up 4 lctrl 0.321134090424
+farkas SNARC line arabic CD 0 up 5 lctrl 0.320717811584
+farkas SNARC line arabic CD 0 up 3 lctrl 0.319916009903
+farkas SNARC line arabic CD 0 up 8 lctrl 0.34472489357
+farkas SNARC line arabic CD 0 down 6 num_delete 0.528585910797
+farkas SNARC line arabic CD 0 up 7 num_delete 0.377138137817
+farkas SNARC line arabic CD 0 down 7 num_delete 0.624680042267
+farkas SNARC line arabic CD 0 down 9 num_delete 0.297132968903
+farkas SNARC line arabic CD 0 up 9 lctrl 0.58359003067
+farkas SNARC line arabic CD 0 up 3 lctrl 0.64115190506
+farkas SNARC line arabic CD 0 up 7 lctrl 0.713222026825
+farkas SNARC line arabic CD 0 down 9 num_delete 0.664543867111
+farkas SNARC line arabic CD 0 down 9 lctrl 5.26587796211
+farkas SNARC line arabic CD 0 down 1 num_delete 0.679385185242
+farkas SNARC line arabic CD 0 up 8 lctrl 0.513837099075
+farkas SNARC line arabic CD 0 down 2 num_delete 0.503669023514
+farkas SNARC line arabic CD 0 down 3 num_delete 0.815268993378
+farkas SNARC line arabic CD 0 down 8 num_delete 0.432825088501
+farkas SNARC line arabic CD 0 up 5 lctrl 0.504971981049
+farkas SNARC line arabic CD 0 up 6 lctrl 0.759904146194
+farkas SNARC line arabic CD 0 down 8 num_delete 0.599822044373
+farkas SNARC line arabic CD 0 up 5 lctrl 1.34568715096
+farkas SNARC line arabic CD 0 up 2 lctrl 0.856853961945
+farkas SNARC line arabic CD 0 up 5 lctrl 0.705254077911
+farkas SNARC line arabic CD 0 up 2 lctrl 0.961428165436
+farkas SNARC line arabic CD 0 down 6 lctrl 2.40063095093
+farkas SNARC line arabic CD 0 up 8 lctrl 0.992375850677
+farkas SNARC line arabic CD 0 up 3 lctrl 0.503772974014
+farkas SNARC line arabic CD 0 up 1 lctrl 0.552586078644
+farkas SNARC line arabic CD 0 up 2 lctrl 0.400327920914
+farkas SNARC line arabic CD 0 down 4 num_delete 0.448329925537
+farkas SNARC line arabic CD 0 down 3 num_delete 0.71218585968
+farkas SNARC line arabic CD 0 down 4 num_delete 0.400906801224
+farkas SNARC line arabic CD 0 down 6 num_delete 0.608097076416
+farkas SNARC line arabic CD 0 down 5 num_delete 0.497047901154
+farkas SNARC line arabic CD 0 up 3 lctrl 0.60749912262
+farkas SNARC line arabic CD 0 down 8 lctrl 0.416342020035
+{'delay': u'0', 'dateStr': u'05_18_1619', 'task': u'line', 'participant': u'farkas', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+farkas SNARC line dot DC 0 down 30 lctrl 0.941093921661
+farkas SNARC line dot DC 0 up 30 num_delete 0.541230916977
+farkas SNARC line dot DC 0 up 20 num_delete 0.436362028122
+farkas SNARC line dot DC 0 down 5 lctrl 0.360766887665
+farkas SNARC line dot DC 0 up 25 num_delete 0.581089019775
+farkas SNARC line dot DC 0 up 25 num_delete 0.404932022095
+farkas SNARC line dot DC 0 down 30 lctrl 0.366302967072
+farkas SNARC line dot DC 0 up 40 num_delete 0.433494091034
+farkas SNARC line dot DC 0 up 10 num_delete 0.393785953522
+farkas SNARC line dot DC 0 down 5 lctrl 0.352918148041
+farkas SNARC line dot DC 0 down 15 lctrl 0.418699026108
+farkas SNARC line dot DC 0 down 15 lctrl 0.41900396347
+farkas SNARC line dot DC 0 up 20 lctrl 0.315284013748
+farkas SNARC line dot DC 0 up 35 num_delete 0.336061000824
+farkas SNARC line dot DC 0 down 45 lctrl 0.346576929092
+farkas SNARC line dot DC 0 up 15 num_delete 0.433928012848
+farkas SNARC line dot DC 0 up 25 num_delete 0.365359067917
+farkas SNARC line dot DC 0 up 35 num_delete 0.35051202774
+farkas SNARC line dot DC 0 down 45 lctrl 0.362549066544
+farkas SNARC line dot DC 0 up 20 num_delete 0.571197032928
+farkas SNARC line dot DC 0 up 25 num_delete 0.37993311882
+farkas SNARC line dot DC 0 up 15 num_delete 0.330671072006
+farkas SNARC line dot DC 0 down 10 lctrl 0.377653837204
+farkas SNARC line dot DC 0 down 45 lctrl 0.36975979805
+farkas SNARC line dot DC 0 up 20 num_delete 0.290760040283
+farkas SNARC line dot DC 0 down 20 lctrl 0.34036397934
+farkas SNARC line dot DC 0 down 15 lctrl 0.401960134506
+farkas SNARC line dot DC 0 down 40 lctrl 0.376825809479
+farkas SNARC line dot DC 0 down 5 lctrl 0.319818973541
+farkas SNARC line dot DC 0 down 25 lctrl 0.341225862503
+farkas SNARC line dot DC 0 down 5 lctrl 0.311975002289
+farkas SNARC line dot DC 0 up 10 num_delete 0.361191034317
+farkas SNARC line dot DC 0 up 40 num_delete 0.360639095306
+farkas SNARC line dot DC 0 up 45 num_delete 0.426620960236
+farkas SNARC line dot DC 0 down 20 lctrl 0.395596981049
+farkas SNARC line dot DC 0 up 40 lctrl 0.473204135895
+farkas SNARC line dot DC 0 down 45 num_delete 0.384429931641
+farkas SNARC line dot DC 0 up 25 num_delete 0.469584941864
+farkas SNARC line dot DC 0 up 45 num_delete 0.345930099487
+farkas SNARC line dot DC 0 up 40 num_delete 0.37631893158
+farkas SNARC line dot DC 0 down 20 lctrl 0.419628143311
+farkas SNARC line dot DC 0 up 40 num_delete 0.832517147064
+farkas SNARC line dot DC 0 up 30 num_delete 1.13388419151
+farkas SNARC line dot DC 0 up 35 num_delete 0.438655853271
+farkas SNARC line dot DC 0 up 45 num_delete 0.401270151138
+farkas SNARC line dot DC 0 up 15 num_delete 0.346858978271
+farkas SNARC line dot DC 0 down 25 lctrl 0.364962100983
+farkas SNARC line dot DC 0 up 40 num_delete 0.383776903152
+farkas SNARC line dot DC 0 down 30 lctrl 0.476566076279
+farkas SNARC line dot DC 0 up 45 num_delete 0.328945875168
+farkas SNARC line dot DC 0 up 40 num_delete 0.368669033051
+farkas SNARC line dot DC 0 up 15 num_delete 0.346786975861
+farkas SNARC line dot DC 0 up 30 num_delete 0.334456920624
+farkas SNARC line dot DC 0 up 10 num_delete 0.337476015091
+farkas SNARC line dot DC 0 up 40 num_delete 0.384740829468
+farkas SNARC line dot DC 0 down 10 lctrl 0.393940925598
+farkas SNARC line dot DC 0 down 10 lctrl 0.385521888733
+farkas SNARC line dot DC 0 down 45 lctrl 0.40177989006
+farkas SNARC line dot DC 0 down 15 lctrl 0.426228046417
+farkas SNARC line dot DC 0 up 15 num_delete 0.370593070984
+farkas SNARC line dot DC 0 down 5 num_delete 0.320010185242
+farkas SNARC line dot DC 0 up 30 num_delete 0.348520040512
+farkas SNARC line dot DC 0 down 25 lctrl 0.333433151245
+farkas SNARC line dot DC 0 down 10 lctrl 0.353034973145
+farkas SNARC line dot DC 0 down 30 lctrl 0.334353923798
+farkas SNARC line dot DC 0 up 40 num_delete 0.384560108185
+farkas SNARC line dot DC 0 down 35 lctrl 0.335680961609
+farkas SNARC line dot DC 0 up 5 num_delete 0.416321992874
+farkas SNARC line dot DC 0 down 40 lctrl 0.248831987381
+farkas SNARC line dot DC 0 down 45 lctrl 0.397467851639
+farkas SNARC line dot DC 0 down 15 lctrl 0.338839054108
+farkas SNARC line dot DC 0 up 35 num_delete 0.383244991302
+farkas SNARC line dot DC 0 down 30 lctrl 0.33419585228
+farkas SNARC line dot DC 0 down 30 lctrl 0.340752840042
+farkas SNARC line dot DC 0 down 10 lctrl 0.321975946426
+farkas SNARC line dot DC 0 down 20 lctrl 0.33997797966
+farkas SNARC line dot DC 0 up 5 num_delete 0.431574106216
+farkas SNARC line dot DC 0 down 10 num_delete 1.13776302338
+farkas SNARC line dot DC 0 down 25 lctrl 0.532183885574
+farkas SNARC line dot DC 0 up 45 num_delete 0.353533983231
+farkas SNARC line dot DC 0 down 25 lctrl 0.605355978012
+farkas SNARC line dot DC 0 down 10 lctrl 0.433501958847
+farkas SNARC line dot DC 0 up 25 num_delete 0.381098031998
+farkas SNARC line dot DC 0 up 5 num_delete 0.800564050674
+farkas SNARC line dot DC 0 down 10 lctrl 0.457198858261
+farkas SNARC line dot DC 0 down 30 lctrl 0.430092811584
+farkas SNARC line dot DC 0 up 10 num_delete 0.480538845062
+farkas SNARC line dot DC 0 down 10 lctrl 0.417695999146
+farkas SNARC line dot DC 0 down 20 lctrl 0.562917947769
+farkas SNARC line dot DC 0 down 35 num_delete 0.414490938187
+farkas SNARC line dot DC 0 down 15 lctrl 0.587449073792
+farkas SNARC line dot DC 0 down 45 lctrl 0.353852987289
+farkas SNARC line dot DC 0 down 35 lctrl 0.335402965546
+farkas SNARC line dot DC 0 up 40 num_delete 0.447691202164
+farkas SNARC line dot DC 0 up 15 num_delete 0.410364151001
+farkas SNARC line dot DC 0 down 35 lctrl 0.392266988754
+farkas SNARC line dot DC 0 up 30 num_delete 0.564415931702
+farkas SNARC line dot DC 0 down 20 lctrl 0.651235103607
+farkas SNARC line dot DC 0 up 40 lctrl 0.519728899002
+farkas SNARC line dot DC 0 up 5 num_delete 0.399412155151
+farkas SNARC line dot DC 0 up 35 num_delete 0.326828956604
+farkas SNARC line dot DC 0 up 40 num_delete 0.328120946884
+farkas SNARC line dot DC 0 down 10 lctrl 0.426339864731
+farkas SNARC line dot DC 0 down 35 lctrl 0.358958959579
+farkas SNARC line dot DC 0 up 15 num_delete 0.410118103027
+farkas SNARC line dot DC 0 down 15 lctrl 0.507122039795
+farkas SNARC line dot DC 0 up 15 num_delete 0.315173149109
+farkas SNARC line dot DC 0 down 30 lctrl 0.374556779861
+farkas SNARC line dot DC 0 up 5 num_delete 0.34371304512
+farkas SNARC line dot DC 0 up 5 num_delete 0.359817028046
+farkas SNARC line dot DC 0 up 35 num_delete 0.341933012009
+farkas SNARC line dot DC 0 down 20 lctrl 0.395394802094
+farkas SNARC line dot DC 0 up 40 num_delete 0.359596014023
+farkas SNARC line dot DC 0 up 20 num_delete 0.324151039124
+farkas SNARC line dot DC 0 up 25 num_delete 0.28494310379
+farkas SNARC line dot DC 0 down 25 lctrl 0.365075826645
+farkas SNARC line dot DC 0 down 45 lctrl 0.642035961151
+farkas SNARC line dot DC 0 down 10 lctrl 0.297460794449
+farkas SNARC line dot DC 0 up 25 num_delete 0.372370958328
+farkas SNARC line dot DC 0 down 5 lctrl 0.679826021194
+farkas SNARC line dot DC 0 down 15 lctrl 0.594023942947
+farkas SNARC line dot DC 0 up 35 num_delete 0.78319811821
+farkas SNARC line dot DC 0 down 5 lctrl 2.4169459343
+farkas SNARC line dot DC 0 down 10 lctrl 0.288453817368
+farkas SNARC line dot DC 0 down 5 lctrl 0.487912893295
+farkas SNARC line dot DC 0 down 25 lctrl 0.373249053955
+farkas SNARC line dot DC 0 up 45 num_delete 0.400409936905
+farkas SNARC line dot DC 0 down 5 lctrl 0.352702856064
+farkas SNARC line dot DC 0 down 40 lctrl 0.352463006973
+farkas SNARC line dot DC 0 up 25 num_delete 0.45197892189
+farkas SNARC line dot DC 0 up 35 num_delete 0.351193904877
+farkas SNARC line dot DC 0 up 35 num_delete 0.423644065857
+farkas SNARC line dot DC 0 up 40 num_delete 0.312209129333
+farkas SNARC line dot DC 0 down 40 lctrl 0.408946037292
+farkas SNARC line dot DC 0 up 10 num_delete 0.472487926483
+farkas SNARC line dot DC 0 down 45 lctrl 0.346760988235
+farkas SNARC line dot DC 0 up 35 lctrl 0.34339594841
+farkas SNARC line dot DC 0 down 40 num_delete 0.472054004669
+farkas SNARC line dot DC 0 down 35 num_delete 0.390464067459
+farkas SNARC line dot DC 0 down 20 lctrl 0.387336969376
+farkas SNARC line dot DC 0 down 45 lctrl 0.377857923508
+farkas SNARC line dot DC 0 up 40 num_delete 0.296247005463
+farkas SNARC line dot DC 0 up 35 num_delete 0.470570802689
+farkas SNARC line dot DC 0 down 30 lctrl 0.358734846115
+farkas SNARC line dot DC 0 up 5 num_delete 0.583706855774
+farkas SNARC line dot DC 0 down 25 lctrl 0.358015060425
+farkas SNARC line dot DC 0 up 30 num_delete 0.35037612915
+farkas SNARC line dot DC 0 down 35 lctrl 0.415330886841
+farkas SNARC line dot DC 0 up 10 num_delete 0.377388954163
+farkas SNARC line dot DC 0 up 20 num_delete 0.41956615448
+farkas SNARC line dot DC 0 up 10 num_delete 0.329549074173
+farkas SNARC line dot DC 0 down 10 lctrl 0.393059015274
+farkas SNARC line dot DC 0 up 35 num_delete 0.351083993912
+farkas SNARC line dot DC 0 up 15 num_delete 0.411124944687
+farkas SNARC line dot DC 0 down 30 lctrl 0.357802867889
+farkas SNARC line dot DC 0 up 10 num_delete 0.464112043381
+farkas SNARC line dot DC 0 up 30 num_delete 0.413619995117
+farkas SNARC line dot DC 0 up 30 num_delete 0.326910972595
+farkas SNARC line dot DC 0 down 25 lctrl 0.357750892639
+farkas SNARC line dot DC 0 down 30 lctrl 0.414625883102
+farkas SNARC line dot DC 0 up 30 lctrl 0.309179067612
+farkas SNARC line dot DC 0 up 10 num_delete 0.376263856888
+farkas SNARC line dot DC 0 down 35 lctrl 0.368474006653
+farkas SNARC line dot DC 0 down 10 lctrl 0.40119600296
+farkas SNARC line dot DC 0 down 40 lctrl 0.335875034332
+farkas SNARC line dot DC 0 up 15 num_delete 0.427093029022
+farkas SNARC line dot DC 0 down 35 lctrl 0.560543060303
+farkas SNARC line dot DC 0 down 30 lctrl 0.405966997147
+farkas SNARC line dot DC 0 down 20 lctrl 0.348067998886
+farkas SNARC line dot DC 0 down 5 lctrl 0.311733961105
+farkas SNARC line dot DC 0 down 10 lctrl 0.385262012482
+farkas SNARC line dot DC 0 up 45 num_delete 0.426885843277
+farkas SNARC line dot DC 0 up 10 num_delete 0.52921795845
+farkas SNARC line dot DC 0 up 5 num_delete 0.430907964706
+farkas SNARC line dot DC 0 down 15 lctrl 0.635025024414
+farkas SNARC line dot DC 0 up 30 lctrl 0.342391967773
+farkas SNARC line dot DC 0 up 45 num_delete 0.552671909332
+farkas SNARC line dot DC 0 down 5 lctrl 0.576423883438
+farkas SNARC line dot DC 0 down 10 lctrl 0.441987991333
+farkas SNARC line dot DC 0 up 10 num_delete 0.465884923935
+farkas SNARC line dot DC 0 down 35 lctrl 0.630749940872
+farkas SNARC line dot DC 0 up 20 num_delete 0.402877092361
+farkas SNARC line dot DC 0 down 15 lctrl 0.458853006363
+farkas SNARC line dot DC 0 up 10 num_delete 0.408527851105
+farkas SNARC line dot DC 0 down 25 lctrl 0.389371156693
+farkas SNARC line dot DC 0 down 30 lctrl 0.38907289505
+farkas SNARC line dot DC 0 up 40 num_delete 0.416617870331
+farkas SNARC line dot DC 0 up 45 num_delete 0.37784910202
+farkas SNARC line dot DC 0 down 35 lctrl 0.31939291954
+farkas SNARC line dot DC 0 down 15 lctrl 0.506856918335
+farkas SNARC line dot DC 0 down 5 num_delete 0.368771791458
+farkas SNARC line dot DC 0 up 30 num_delete 1.4222638607
+farkas SNARC line dot DC 0 up 30 num_delete 0.349284172058
+farkas SNARC line dot DC 0 up 30 num_delete 0.341828107834
+farkas SNARC line dot DC 0 down 35 lctrl 0.382560014725
+farkas SNARC line dot DC 0 down 25 lctrl 0.32493019104
+farkas SNARC line dot DC 0 down 5 lctrl 0.336892127991
+farkas SNARC line dot DC 0 down 35 lctrl 0.336128950119
+farkas SNARC line dot DC 0 down 45 lctrl 0.418329954147
+farkas SNARC line dot DC 0 up 45 lctrl 0.315529108047
+farkas SNARC line dot DC 0 down 20 lctrl 0.562469005585
+farkas SNARC line dot DC 0 down 20 lctrl 0.387143850327
+farkas SNARC line dot DC 0 up 35 num_delete 0.46272277832
+farkas SNARC line dot DC 0 down 25 lctrl 1.26106095314
+farkas SNARC line dot DC 0 down 25 lctrl 0.340988874435
+farkas SNARC line dot DC 0 down 25 lctrl 0.349285125732
+farkas SNARC line dot DC 0 down 30 lctrl 0.309938192368
+farkas SNARC line dot DC 0 down 20 lctrl 0.284054994583
+farkas SNARC line dot DC 0 down 45 lctrl 0.36078119278
+farkas SNARC line dot DC 0 up 5 num_delete 0.551510095596
+farkas SNARC line dot DC 0 up 5 num_delete 0.832669973373
+farkas SNARC line dot DC 0 down 30 lctrl 0.74192404747
+farkas SNARC line dot DC 0 down 35 lctrl 0.351293087006
+farkas SNARC line dot DC 0 up 45 num_delete 0.58505988121
+farkas SNARC line dot DC 0 down 40 lctrl 0.353497982025
+farkas SNARC line dot DC 0 up 25 num_delete 0.94017291069
+farkas SNARC line dot DC 0 up 20 num_delete 0.428178071976
+farkas SNARC line dot DC 0 down 45 lctrl 0.338663816452
+farkas SNARC line dot DC 0 up 5 num_delete 0.456205129623
+farkas SNARC line dot DC 0 down 30 lctrl 0.357850074768
+farkas SNARC line dot DC 0 up 20 num_delete 0.330887079239
+farkas SNARC line dot DC 0 down 20 num_delete 0.44393992424
+farkas SNARC line dot DC 0 down 15 lctrl 0.466594934464
+farkas SNARC line dot DC 0 up 25 num_delete 0.363415956497
+farkas SNARC line dot DC 0 up 40 num_delete 0.392683982849
+farkas SNARC line dot DC 0 down 40 lctrl 0.320873975754
+farkas SNARC line dot DC 0 down 15 lctrl 0.40237903595
+farkas SNARC line dot DC 0 up 25 num_delete 0.419647932053
+farkas SNARC line dot DC 0 up 20 num_delete 0.563934087753
+farkas SNARC line dot DC 0 up 25 num_delete 0.349555015564
+farkas SNARC line dot DC 0 down 15 lctrl 0.354983091354
+farkas SNARC line dot DC 0 down 45 lctrl 0.410472869873
+farkas SNARC line dot DC 0 down 5 lctrl 0.415589094162
+farkas SNARC line dot DC 0 up 35 num_delete 0.535124063492
+farkas SNARC line dot DC 0 down 45 num_delete 0.313467025757
+farkas SNARC line dot DC 0 up 10 num_delete 0.424812078476
+farkas SNARC line dot DC 0 up 20 num_delete 0.420006990433
+farkas SNARC line dot DC 0 down 15 lctrl 0.538949012756
+farkas SNARC line dot DC 0 down 20 lctrl 3.54821801186
+farkas SNARC line dot DC 0 down 40 lctrl 0.368637084961
+farkas SNARC line dot DC 0 up 45 num_delete 0.392962932587
+farkas SNARC line dot DC 0 down 20 lctrl 0.412222146988
+farkas SNARC line dot DC 0 up 15 num_delete 0.369875907898
+farkas SNARC line dot DC 0 down 40 lctrl 0.3763859272
+farkas SNARC line dot DC 0 up 15 num_delete 0.417988061905
+farkas SNARC line dot DC 0 up 5 num_delete 0.471714019775
+farkas SNARC line dot DC 0 down 40 lctrl 0.975995063782
+farkas SNARC line dot DC 0 up 5 num_delete 3.48032689095
+farkas SNARC line dot DC 0 down 20 lctrl 0.3880879879
+farkas SNARC line dot DC 0 down 5 lctrl 0.60925412178
+farkas SNARC line dot DC 0 down 25 lctrl 0.356351137161
+farkas SNARC line dot DC 0 down 10 lctrl 0.329479932785
+farkas SNARC line dot DC 0 down 25 lctrl 0.372808933258
+farkas SNARC line dot DC 0 down 40 lctrl 0.463948965073
+farkas SNARC line dot DC 0 up 40 num_delete 0.527211904526
+farkas SNARC line dot DC 0 up 25 num_delete 0.636480093002
+farkas SNARC line dot DC 0 up 10 num_delete 5.51318693161
+farkas SNARC line dot DC 0 up 35 num_delete 0.398815870285
+farkas SNARC line dot DC 0 down 5 lctrl 0.51313495636
+farkas SNARC line dot DC 0 down 40 lctrl 0.592689990997
+farkas SNARC line dot DC 0 down 35 lctrl 0.383004903793
+farkas SNARC line dot DC 0 down 10 lctrl 0.353017091751
+farkas SNARC line dot DC 0 down 15 lctrl 0.386536836624
+farkas SNARC line dot DC 0 up 30 num_delete 0.445588827133
+farkas SNARC line dot DC 0 up 35 num_delete 0.423045158386
+farkas SNARC line dot DC 0 down 25 lctrl 0.404599905014
+farkas SNARC line dot DC 0 up 20 num_delete 0.515970945358
+farkas SNARC line dot DC 0 down 45 lctrl 0.69766497612
+farkas SNARC line dot DC 0 down 25 lctrl 0.436413049698
+farkas SNARC line dot DC 0 up 20 num_delete 0.395262002945
+farkas SNARC line dot DC 0 up 20 num_delete 0.380388975143
+farkas SNARC line dot DC 0 down 35 lctrl 0.335844993591
+farkas SNARC line dot DC 0 up 5 num_delete 0.471671819687
+farkas SNARC line dot DC 0 up 15 num_delete 0.46780705452
+farkas SNARC line dot DC 0 down 5 lctrl 0.40109705925
+farkas SNARC line dot DC 0 up 15 num_delete 0.394640922546
+farkas SNARC line dot DC 0 up 45 num_delete 0.433470964432
+farkas SNARC line dot DC 0 up 30 num_delete 0.381705999374
+farkas SNARC line dot DC 0 up 10 num_delete 0.440684080124
+farkas SNARC line dot DC 0 down 25 lctrl 0.741677045822
+farkas SNARC line dot DC 0 up 30 num_delete 3.57318806648
+farkas SNARC line dot DC 0 down 40 lctrl 0.376184940338
+farkas SNARC line dot DC 0 down 30 lctrl 0.534791946411
+farkas SNARC line dot DC 0 down 25 lctrl 7.03543114662
+farkas SNARC line dot DC 0 up 20 num_delete 0.330977916718
+farkas SNARC line dot DC 0 down 20 lctrl 0.571423053741
+farkas SNARC line dot DC 0 up 10 num_delete 0.560913085938
+farkas SNARC line dot DC 0 down 5 lctrl 0.376412153244
+farkas SNARC line dot DC 0 up 30 lctrl 0.406460046768
+farkas SNARC line dot DC 0 down 35 num_delete 0.806077003479
+farkas SNARC line dot DC 0 down 25 lctrl 0.555241107941
+farkas SNARC line dot DC 0 down 5 lctrl 0.480256080627
+farkas SNARC line dot DC 0 up 25 num_delete 0.475857019424
+farkas SNARC line dot DC 0 up 45 num_delete 0.465424060822
+farkas SNARC line dot DC 0 down 40 lctrl 0.352301120758
+farkas SNARC line dot DC 0 down 30 lctrl 0.454715013504
+farkas SNARC line dot DC 0 up 25 num_delete 0.540729045868
+farkas SNARC line dot DC 0 up 25 num_delete 0.812239170074
+farkas SNARC line dot DC 0 up 45 num_delete 0.37735915184
+farkas SNARC line dot DC 0 down 20 lctrl 0.546792984009
+farkas SNARC line dot DC 0 up 20 num_delete 3.17935204506
+farkas SNARC line dot DC 0 up 40 num_delete 0.361351966858
+farkas SNARC line dot DC 0 up 5 num_delete 0.343976020813
+farkas SNARC line dot DC 0 up 20 num_delete 0.363346815109
+farkas SNARC line dot DC 0 up 15 num_delete 0.458435058594
+farkas SNARC line dot DC 0 up 45 num_delete 4.31378388405
+farkas SNARC line dot DC 0 down 15 lctrl 0.394870996475
+farkas SNARC line dot DC 0 down 45 lctrl 0.44239783287
+farkas SNARC line dot DC 0 up 15 num_delete 0.393764972687
+farkas SNARC line dot DC 0 down 15 lctrl 0.362895965576
+farkas SNARC line dot DC 0 up 35 num_delete 0.358165979385
+farkas SNARC line dot DC 0 up 10 num_delete 0.553834915161
+farkas SNARC line dot DC 0 down 20 lctrl 0.460716962814
+farkas SNARC line dot DC 0 down 40 num_delete 0.479882955551
+farkas SNARC line dot DC 0 down 20 lctrl 0.419193029404
+farkas SNARC line dot DC 0 up 5 num_delete 0.439186096191
+farkas SNARC line dot DC 0 down 20 lctrl 0.932197093964
+farkas SNARC line dot DC 0 down 10 lctrl 0.376800060272
+farkas SNARC line dot DC 0 down 35 lctrl 0.462663888931
+farkas SNARC line dot DC 0 down 30 lctrl 0.622040987015
+farkas SNARC line dot DC 0 up 45 num_delete 0.777316808701
+farkas SNARC line dot DC 0 up 15 num_delete 7.38671898842
+farkas SNARC line dot DC 0 up 40 num_delete 0.432927131653
+farkas SNARC line dot DC 0 up 35 num_delete 0.367547035217
+farkas SNARC line dot DC 0 down 5 lctrl 0.456961154938
+farkas SNARC line dot DC 0 up 15 lctrl 0.474749088287
+farkas SNARC line dot DC 0 down 45 lctrl 0.697036027908
+farkas SNARC line dot DC 0 up 25 lctrl 0.436805009842
+farkas SNARC line dot DC 0 up 10 num_delete 0.568560838699
+farkas SNARC line dot DC 0 up 15 num_delete 0.393971204758
+farkas SNARC line dot DC 0 up 40 num_delete 0.344748973846
+farkas SNARC line dot DC 0 down 10 lctrl 0.409912109375
+farkas SNARC line dot DC 0 down 45 lctrl 0.40927195549
+farkas SNARC line dot DC 0 down 10 lctrl 0.408857107162
+farkas SNARC line dot DC 0 down 30 lctrl 0.486103057861
+farkas SNARC line dot DC 0 up 20 num_delete 0.45121216774
+farkas SNARC line dot DC 0 up 5 num_delete 0.552324056625
+farkas SNARC line dot DC 0 down 20 lctrl 0.412287950516
+farkas SNARC line dot DC 0 up 5 num_delete 0.503196001053
+farkas SNARC line dot DC 0 up 45 num_delete 0.809687852859
+farkas SNARC line dot DC 0 down 15 lctrl 4.23500585556
+farkas SNARC line dot DC 0 up 10 num_delete 0.352622032166
+farkas SNARC line dot DC 0 down 15 lctrl 0.322329998016
+farkas SNARC line dot DC 0 down 40 lctrl 0.344409942627
+farkas SNARC line dot DC 0 down 25 lctrl 0.333544969559
+farkas SNARC line dot DC 0 up 40 lctrl 0.343042135239
+farkas SNARC line dot DC 0 up 45 num_delete 0.42608499527
+farkas SNARC line dot DC 0 down 40 lctrl 0.489802837372
+farkas SNARC line dot DC 0 up 35 num_delete 0.583056926727
+farkas SNARC line dot DC 0 up 5 num_delete 0.567377090454
+farkas SNARC line dot DC 0 down 30 lctrl 0.557866096497
+farkas SNARC line dot DC 0 down 30 lctrl 0.438310861588
+farkas SNARC line dot DC 0 down 45 lctrl 2.10631990433
+farkas SNARC line dot DC 0 up 45 num_delete 0.600946903229
+farkas SNARC line dot DC 0 down 15 lctrl 9.43242096901
+farkas SNARC line dot DC 0 down 35 lctrl 0.401808023453
+farkas SNARC line dot DC 0 down 35 lctrl 0.39824795723
+farkas SNARC line dot DC 0 down 30 lctrl 0.312434911728
+farkas SNARC line dot DC 0 up 5 num_delete 0.511707782745
+farkas SNARC line dot DC 0 down 35 lctrl 0.361350059509
+{'delay': u'0', 'dateStr': u'05_18_1627', 'task': u'line', 'participant': u'farkas', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+farkas SNARC line arabic DC 0 down 7 lctrl 1.1596531868
+farkas SNARC line arabic DC 0 down 7 lctrl 0.384296178818
+farkas SNARC line arabic DC 0 down 4 lctrl 0.343095779419
+farkas SNARC line arabic DC 0 down 4 lctrl 0.32058095932
+farkas SNARC line arabic DC 0 down 8 lctrl 0.320308923721
+farkas SNARC line arabic DC 0 down 2 lctrl 0.320553064346
+farkas SNARC line arabic DC 0 down 3 lctrl 0.295640945435
+farkas SNARC line arabic DC 0 down 3 lctrl 0.313100814819
+farkas SNARC line arabic DC 0 up 2 lctrl 0.296749830246
+farkas SNARC line arabic DC 0 up 3 num_delete 0.338290929794
+farkas SNARC line arabic DC 0 up 4 num_delete 0.39228105545
+farkas SNARC line arabic DC 0 down 6 num_delete 0.264470815659
+farkas SNARC line arabic DC 0 up 4 lctrl 0.569036960602
+farkas SNARC line arabic DC 0 down 2 lctrl 0.553186178207
+farkas SNARC line arabic DC 0 down 1 lctrl 0.350605964661
+farkas SNARC line arabic DC 0 down 9 lctrl 0.360820055008
+farkas SNARC line arabic DC 0 down 1 lctrl 0.305099964142
+farkas SNARC line arabic DC 0 up 6 num_delete 0.399780988693
+farkas SNARC line arabic DC 0 down 6 lctrl 0.712802886963
+farkas SNARC line arabic DC 0 down 7 lctrl 0.423743963242
+farkas SNARC line arabic DC 0 down 5 lctrl 0.327029943466
+farkas SNARC line arabic DC 0 up 5 num_delete 0.48860001564
+farkas SNARC line arabic DC 0 down 7 lctrl 0.409755945206
+farkas SNARC line arabic DC 0 up 5 num_delete 0.512485027313
+farkas SNARC line arabic DC 0 down 9 lctrl 0.368933916092
+farkas SNARC line arabic DC 0 up 6 num_delete 0.368628978729
+farkas SNARC line arabic DC 0 up 7 num_delete 0.368897914886
+farkas SNARC line arabic DC 0 down 5 lctrl 0.312577009201
+farkas SNARC line arabic DC 0 down 6 lctrl 0.407737970352
+farkas SNARC line arabic DC 0 down 7 num_delete 0.319921016693
+farkas SNARC line arabic DC 0 up 5 num_delete 0.504771947861
+farkas SNARC line arabic DC 0 up 4 lctrl 0.377753019333
+farkas SNARC line arabic DC 0 up 2 num_delete 0.487312078476
+farkas SNARC line arabic DC 0 up 8 num_delete 0.3287358284
+farkas SNARC line arabic DC 0 up 9 num_delete 0.327884912491
+farkas SNARC line arabic DC 0 up 9 num_delete 0.312722921371
+farkas SNARC line arabic DC 0 down 7 lctrl 0.27322602272
+farkas SNARC line arabic DC 0 up 4 lctrl 0.312799930573
+farkas SNARC line arabic DC 0 up 7 num_delete 0.391928911209
+farkas SNARC line arabic DC 0 up 1 num_delete 0.369359016418
+farkas SNARC line arabic DC 0 down 8 lctrl 0.36082983017
+farkas SNARC line arabic DC 0 up 5 num_delete 0.480460882187
+farkas SNARC line arabic DC 0 down 8 lctrl 0.345319986343
+farkas SNARC line arabic DC 0 up 5 num_delete 0.463796854019
+farkas SNARC line arabic DC 0 up 9 num_delete 0.440601110458
+farkas SNARC line arabic DC 0 up 4 num_delete 0.393231868744
+farkas SNARC line arabic DC 0 up 4 num_delete 0.313215017319
+farkas SNARC line arabic DC 0 up 8 num_delete 0.305047035217
+farkas SNARC line arabic DC 0 down 8 num_delete 0.288278102875
+farkas SNARC line arabic DC 0 up 3 num_delete 0.392835140228
+farkas SNARC line arabic DC 0 down 6 lctrl 0.321182012558
+farkas SNARC line arabic DC 0 up 5 num_delete 0.49617099762
+farkas SNARC line arabic DC 0 down 2 lctrl 0.369017839432
+farkas SNARC line arabic DC 0 up 2 lctrl 0.401400089264
+farkas SNARC line arabic DC 0 up 2 num_delete 0.448386192322
+farkas SNARC line arabic DC 0 up 3 num_delete 0.359300851822
+farkas SNARC line arabic DC 0 down 3 lctrl 0.353689193726
+farkas SNARC line arabic DC 0 up 6 num_delete 0.351617097855
+farkas SNARC line arabic DC 0 up 3 num_delete 0.337741851807
+farkas SNARC line arabic DC 0 down 3 lctrl 0.328421115875
+farkas SNARC line arabic DC 0 up 1 num_delete 0.496062994003
+farkas SNARC line arabic DC 0 up 7 num_delete 0.504268169403
+farkas SNARC line arabic DC 0 down 8 lctrl 0.320755958557
+farkas SNARC line arabic DC 0 down 2 num_delete 0.32009601593
+farkas SNARC line arabic DC 0 down 7 lctrl 0.313091039658
+farkas SNARC line arabic DC 0 up 3 num_delete 0.393017053604
+farkas SNARC line arabic DC 0 up 9 num_delete 0.505136013031
+farkas SNARC line arabic DC 0 up 1 num_delete 0.369396924973
+farkas SNARC line arabic DC 0 down 8 lctrl 0.318161964417
+farkas SNARC line arabic DC 0 down 4 lctrl 0.281157016754
+farkas SNARC line arabic DC 0 down 5 lctrl 0.437242984772
+farkas SNARC line arabic DC 0 up 3 num_delete 0.376084089279
+farkas SNARC line arabic DC 0 up 6 num_delete 0.368270874023
+farkas SNARC line arabic DC 0 down 2 lctrl 0.384316921234
+farkas SNARC line arabic DC 0 down 7 lctrl 0.344350814819
+farkas SNARC line arabic DC 0 down 5 num_delete 0.360554933548
+farkas SNARC line arabic DC 0 up 3 num_delete 0.472250938416
+farkas SNARC line arabic DC 0 down 6 lctrl 0.513912916183
+farkas SNARC line arabic DC 0 down 3 lctrl 0.400688171387
+farkas SNARC line arabic DC 0 down 8 num_delete 0.344058990479
+farkas SNARC line arabic DC 0 up 8 lctrl 0.657218933105
+farkas SNARC line arabic DC 0 up 8 num_delete 0.344107866287
+farkas SNARC line arabic DC 0 up 8 num_delete 0.344491958618
+farkas SNARC line arabic DC 0 up 9 num_delete 0.504330158234
+farkas SNARC line arabic DC 0 up 5 num_delete 0.273340940475
+farkas SNARC line arabic DC 0 down 2 lctrl 0.377408981323
+farkas SNARC line arabic DC 0 down 9 lctrl 0.329346895218
+farkas SNARC line arabic DC 0 down 5 lctrl 0.249650001526
+farkas SNARC line arabic DC 0 down 8 lctrl 0.280006885529
+farkas SNARC line arabic DC 0 down 1 lctrl 0.288547039032
+farkas SNARC line arabic DC 0 up 4 num_delete 0.351319074631
+farkas SNARC line arabic DC 0 down 7 lctrl 0.40993309021
+farkas SNARC line arabic DC 0 down 8 num_delete 0.320170164108
+farkas SNARC line arabic DC 0 up 9 num_delete 0.440883159637
+farkas SNARC line arabic DC 0 up 8 num_delete 0.360791921616
+farkas SNARC line arabic DC 0 down 2 lctrl 0.369392871857
+farkas SNARC line arabic DC 0 down 8 lctrl 0.353317022324
+farkas SNARC line arabic DC 0 down 8 lctrl 0.319109916687
+farkas SNARC line arabic DC 0 down 4 lctrl 0.304659843445
+farkas SNARC line arabic DC 0 up 2 num_delete 0.400746107101
+farkas SNARC line arabic DC 0 down 8 num_delete 0.344942092896
+farkas SNARC line arabic DC 0 down 5 lctrl 0.472915887833
+farkas SNARC line arabic DC 0 down 1 num_delete 0.42391204834
+farkas SNARC line arabic DC 0 down 5 lctrl 0.312310934067
+farkas SNARC line arabic DC 0 up 8 num_delete 0.544776916504
+farkas SNARC line arabic DC 0 down 4 lctrl 0.385547161102
+farkas SNARC line arabic DC 0 up 6 num_delete 0.368201971054
+farkas SNARC line arabic DC 0 up 3 num_delete 0.384239912033
+farkas SNARC line arabic DC 0 up 3 num_delete 0.310507059097
+farkas SNARC line arabic DC 0 up 1 num_delete 0.337705135345
+farkas SNARC line arabic DC 0 up 8 num_delete 0.320586919785
+farkas SNARC line arabic DC 0 down 1 num_delete 0.2976770401
+farkas SNARC line arabic DC 0 down 4 lctrl 0.328655004501
+farkas SNARC line arabic DC 0 up 3 lctrl 0.4731528759
+farkas SNARC line arabic DC 0 down 9 lctrl 0.36039185524
+farkas SNARC line arabic DC 0 down 9 lctrl 0.352552175522
+farkas SNARC line arabic DC 0 up 7 num_delete 0.367989063263
+farkas SNARC line arabic DC 0 up 9 num_delete 0.321218967438
+farkas SNARC line arabic DC 0 up 5 num_delete 0.36847114563
+farkas SNARC line arabic DC 0 up 4 num_delete 0.288286924362
+farkas SNARC line arabic DC 0 down 9 lctrl 0.384119033813
+farkas SNARC line arabic DC 0 up 4 num_delete 0.584094047546
+farkas SNARC line arabic DC 0 up 3 num_delete 0.528734207153
+farkas SNARC line arabic DC 0 up 2 num_delete 0.352847099304
+farkas SNARC line arabic DC 0 down 4 lctrl 0.383598804474
+farkas SNARC line arabic DC 0 up 8 lctrl 0.423629999161
+farkas SNARC line arabic DC 0 up 3 num_delete 0.624448060989
+farkas SNARC line arabic DC 0 down 3 lctrl 0.545387983322
+farkas SNARC line arabic DC 0 down 9 lctrl 0.473236083984
+farkas SNARC line arabic DC 0 up 4 num_delete 0.360068082809
+farkas SNARC line arabic DC 0 up 2 num_delete 0.425393819809
+farkas SNARC line arabic DC 0 up 5 num_delete 0.375193119049
+farkas SNARC line arabic DC 0 up 4 num_delete 0.360759973526
+farkas SNARC line arabic DC 0 up 1 num_delete 0.392617940903
+farkas SNARC line arabic DC 0 up 2 num_delete 0.359267950058
+farkas SNARC line arabic DC 0 down 5 lctrl 0.417277097702
+farkas SNARC line arabic DC 0 up 3 lctrl 0.415976047516
+farkas SNARC line arabic DC 0 up 5 num_delete 0.496030092239
+farkas SNARC line arabic DC 0 up 1 num_delete 0.473091840744
+farkas SNARC line arabic DC 0 up 9 num_delete 0.344763994217
+farkas SNARC line arabic DC 0 up 1 num_delete 0.417289972305
+farkas SNARC line arabic DC 0 up 3 num_delete 0.408752918243
+farkas SNARC line arabic DC 0 up 4 num_delete 0.287932872772
+farkas SNARC line arabic DC 0 down 9 lctrl 0.481270074844
+farkas SNARC line arabic DC 0 up 1 num_delete 0.537348031998
+farkas SNARC line arabic DC 0 up 7 num_delete 0.486942052841
+farkas SNARC line arabic DC 0 down 6 lctrl 0.369392871857
+farkas SNARC line arabic DC 0 down 9 lctrl 0.393713951111
+farkas SNARC line arabic DC 0 up 6 num_delete 0.352432966232
+farkas SNARC line arabic DC 0 up 8 num_delete 0.4002430439
+farkas SNARC line arabic DC 0 down 6 lctrl 0.361767053604
+farkas SNARC line arabic DC 0 down 6 lctrl 0.335708856583
+farkas SNARC line arabic DC 0 down 1 lctrl 0.496524095535
+farkas SNARC line arabic DC 0 down 5 num_delete 0.352829933167
+farkas SNARC line arabic DC 0 down 2 lctrl 0.328498125076
+farkas SNARC line arabic DC 0 up 2 num_delete 0.504587888718
+farkas SNARC line arabic DC 0 down 2 lctrl 0.378887891769
+farkas SNARC line arabic DC 0 up 7 num_delete 0.423140048981
+farkas SNARC line arabic DC 0 up 4 num_delete 0.343394994736
+farkas SNARC line arabic DC 0 up 8 num_delete 0.335891962051
+farkas SNARC line arabic DC 0 up 9 num_delete 0.352147102356
+farkas SNARC line arabic DC 0 up 8 num_delete 0.33625292778
+farkas SNARC line arabic DC 0 up 6 num_delete 0.320990085602
+farkas SNARC line arabic DC 0 up 9 num_delete 0.311606884003
+farkas SNARC line arabic DC 0 up 8 num_delete 0.3057949543
+farkas SNARC line arabic DC 0 down 3 lctrl 0.56090092659
+farkas SNARC line arabic DC 0 up 1 num_delete 0.496932029724
+farkas SNARC line arabic DC 0 down 7 lctrl 0.417635917664
+farkas SNARC line arabic DC 0 down 1 lctrl 0.376741170883
+farkas SNARC line arabic DC 0 up 7 num_delete 0.494899988174
+farkas SNARC line arabic DC 0 down 9 num_delete 0.352558135986
+farkas SNARC line arabic DC 0 up 2 num_delete 0.368431806564
+farkas SNARC line arabic DC 0 down 7 lctrl 0.351945877075
+farkas SNARC line arabic DC 0 down 5 lctrl 0.328326940536
+farkas SNARC line arabic DC 0 down 1 lctrl 0.471174001694
+farkas SNARC line arabic DC 0 up 6 num_delete 0.32874083519
+farkas SNARC line arabic DC 0 down 4 lctrl 0.425508975983
+farkas SNARC line arabic DC 0 up 5 num_delete 0.287827968597
+farkas SNARC line arabic DC 0 down 5 lctrl 0.558145046234
+farkas SNARC line arabic DC 0 up 2 lctrl 0.36014008522
+farkas SNARC line arabic DC 0 up 2 num_delete 0.319678068161
+farkas SNARC line arabic DC 0 up 3 num_delete 0.344105958939
+farkas SNARC line arabic DC 0 up 6 num_delete 0.425117969513
+farkas SNARC line arabic DC 0 up 9 num_delete 0.327251911163
+farkas SNARC line arabic DC 0 up 3 num_delete 0.328024864197
+farkas SNARC line arabic DC 0 up 2 num_delete 0.369709014893
+farkas SNARC line arabic DC 0 down 1 lctrl 0.528995037079
+farkas SNARC line arabic DC 0 down 3 lctrl 0.440696954727
+farkas SNARC line arabic DC 0 up 5 num_delete 0.447619915009
+farkas SNARC line arabic DC 0 down 4 lctrl 0.786028146744
+farkas SNARC line arabic DC 0 up 5 num_delete 0.401546001434
+farkas SNARC line arabic DC 0 down 1 num_delete 0.295860052109
+farkas SNARC line arabic DC 0 down 9 lctrl 0.392803907394
+farkas SNARC line arabic DC 0 down 6 lctrl 0.392856836319
+farkas SNARC line arabic DC 0 up 4 num_delete 0.528645038605
+farkas SNARC line arabic DC 0 down 5 lctrl 0.370110034943
+farkas SNARC line arabic DC 0 up 3 num_delete 0.375951051712
+farkas SNARC line arabic DC 0 up 2 num_delete 0.464452981949
+farkas SNARC line arabic DC 0 down 2 lctrl 0.38440489769
+farkas SNARC line arabic DC 0 up 6 lctrl 0.320863008499
+farkas SNARC line arabic DC 0 up 9 num_delete 0.288449048996
+farkas SNARC line arabic DC 0 down 9 lctrl 0.51248717308
+farkas SNARC line arabic DC 0 down 9 num_delete 0.424856185913
+farkas SNARC line arabic DC 0 down 2 lctrl 0.368288993835
+farkas SNARC line arabic DC 0 up 4 num_delete 0.447339057922
+farkas SNARC line arabic DC 0 up 4 num_delete 0.4084379673
+farkas SNARC line arabic DC 0 down 1 lctrl 0.56901216507
+farkas SNARC line arabic DC 0 up 7 lctrl 0.296056032181
+farkas SNARC line arabic DC 0 down 7 num_delete 0.17645406723
+farkas SNARC line arabic DC 0 down 4 lctrl 0.58543586731
+farkas SNARC line arabic DC 0 up 9 lctrl 0.456828117371
+farkas SNARC line arabic DC 0 down 8 lctrl 0.449271917343
+farkas SNARC line arabic DC 0 down 8 lctrl 0.393155813217
+farkas SNARC line arabic DC 0 up 6 num_delete 0.336852073669
+farkas SNARC line arabic DC 0 down 3 lctrl 0.880712985992
+farkas SNARC line arabic DC 0 up 6 num_delete 0.424200057983
+farkas SNARC line arabic DC 0 up 2 num_delete 0.840960025787
+farkas SNARC line arabic DC 0 down 7 lctrl 0.536947965622
+farkas SNARC line arabic DC 0 up 5 num_delete 0.408112049103
+farkas SNARC line arabic DC 0 up 2 num_delete 0.607953071594
+farkas SNARC line arabic DC 0 down 3 lctrl 0.392846107483
+farkas SNARC line arabic DC 0 up 2 num_delete 0.391759872437
+farkas SNARC line arabic DC 0 down 1 lctrl 0.360826969147
+farkas SNARC line arabic DC 0 up 1 num_delete 0.383962869644
+farkas SNARC line arabic DC 0 up 8 num_delete 0.392166852951
+farkas SNARC line arabic DC 0 down 8 lctrl 0.545076131821
+farkas SNARC line arabic DC 0 up 6 lctrl 0.433151006699
+farkas SNARC line arabic DC 0 up 8 num_delete 0.360132932663
+farkas SNARC line arabic DC 0 up 5 num_delete 0.353037118912
+farkas SNARC line arabic DC 0 up 6 num_delete 0.367983102798
+farkas SNARC line arabic DC 0 up 8 num_delete 0.297171831131
+farkas SNARC line arabic DC 0 down 6 lctrl 0.44156908989
+farkas SNARC line arabic DC 0 up 6 lctrl 0.567579030991
+farkas SNARC line arabic DC 0 down 4 num_delete 0.376355171204
+farkas SNARC line arabic DC 0 down 9 lctrl 0.3207051754
+farkas SNARC line arabic DC 0 up 7 num_delete 0.535598039627
+farkas SNARC line arabic DC 0 down 5 lctrl 0.361763954163
+farkas SNARC line arabic DC 0 down 1 lctrl 0.41671204567
+farkas SNARC line arabic DC 0 down 7 num_delete 0.38384604454
+farkas SNARC line arabic DC 0 up 8 num_delete 0.465062856674
+farkas SNARC line arabic DC 0 up 9 lctrl 0.328840970993
+farkas SNARC line arabic DC 0 down 6 lctrl 0.407285928726
+farkas SNARC line arabic DC 0 down 9 lctrl 0.304151058197
+farkas SNARC line arabic DC 0 down 4 lctrl 0.345707893372
+farkas SNARC line arabic DC 0 up 1 num_delete 0.464954853058
+farkas SNARC line arabic DC 0 up 1 num_delete 0.369439125061
+farkas SNARC line arabic DC 0 up 4 num_delete 0.34498000145
+farkas SNARC line arabic DC 0 up 2 num_delete 0.400434017181
+farkas SNARC line arabic DC 0 down 5 lctrl 0.489730834961
+farkas SNARC line arabic DC 0 down 6 lctrl 0.481058835983
+farkas SNARC line arabic DC 0 down 7 lctrl 0.456154108047
+farkas SNARC line arabic DC 0 down 7 lctrl 0.385215044022
+farkas SNARC line arabic DC 0 down 8 lctrl 0.345254898071
+farkas SNARC line arabic DC 0 down 7 lctrl 0.304947853088
+farkas SNARC line arabic DC 0 up 2 num_delete 0.472538948059
+farkas SNARC line arabic DC 0 down 4 lctrl 0.39368391037
+farkas SNARC line arabic DC 0 up 3 num_delete 0.369464874268
+farkas SNARC line arabic DC 0 down 6 lctrl 0.45655298233
+farkas SNARC line arabic DC 0 down 9 lctrl 0.432585000992
+farkas SNARC line arabic DC 0 down 3 lctrl 0.463974952698
+farkas SNARC line arabic DC 0 down 1 lctrl 0.377525091171
+farkas SNARC line arabic DC 0 down 7 lctrl 0.352324962616
+farkas SNARC line arabic DC 0 up 4 num_delete 0.505224943161
+farkas SNARC line arabic DC 0 down 2 lctrl 0.425447940826
+farkas SNARC line arabic DC 0 up 9 num_delete 0.512526035309
+farkas SNARC line arabic DC 0 down 4 lctrl 0.425817012787
+farkas SNARC line arabic DC 0 up 7 num_delete 0.401160001755
+farkas SNARC line arabic DC 0 down 4 lctrl 0.481279850006
+farkas SNARC line arabic DC 0 up 6 num_delete 0.431185007095
+farkas SNARC line arabic DC 0 up 9 num_delete 0.496570110321
+farkas SNARC line arabic DC 0 up 6 num_delete 0.425129175186
+farkas SNARC line arabic DC 0 down 1 lctrl 0.425802946091
+farkas SNARC line arabic DC 0 down 3 lctrl 0.368992805481
+farkas SNARC line arabic DC 0 up 8 num_delete 0.408048152924
+farkas SNARC line arabic DC 0 down 8 lctrl 0.848875999451
+farkas SNARC line arabic DC 0 down 3 lctrl 0.408773183823
+farkas SNARC line arabic DC 0 up 6 num_delete 0.328768968582
+farkas SNARC line arabic DC 0 up 1 num_delete 0.431801795959
+farkas SNARC line arabic DC 0 down 4 lctrl 0.424605846405
+farkas SNARC line arabic DC 0 up 4 num_delete 0.481096982956
+farkas SNARC line arabic DC 0 down 1 lctrl 0.439982891083
+farkas SNARC line arabic DC 0 up 9 num_delete 0.408291101456
+farkas SNARC line arabic DC 0 up 7 num_delete 0.49743103981
+farkas SNARC line arabic DC 0 up 2 num_delete 0.392900943756
+farkas SNARC line arabic DC 0 down 9 lctrl 0.601357936859
+farkas SNARC line arabic DC 0 down 5 lctrl 0.368605136871
+farkas SNARC line arabic DC 0 down 4 lctrl 0.373805999756
+farkas SNARC line arabic DC 0 down 7 lctrl 0.433117866516
+farkas SNARC line arabic DC 0 up 1 num_delete 0.385082960129
+farkas SNARC line arabic DC 0 down 5 num_delete 0.49735212326
+farkas SNARC line arabic DC 0 down 1 lctrl 0.537149906158
+farkas SNARC line arabic DC 0 up 2 num_delete 0.368448019028
+farkas SNARC line arabic DC 0 up 3 lctrl 0.584709882736
+farkas SNARC line arabic DC 0 up 9 num_delete 0.432291030884
+farkas SNARC line arabic DC 0 up 2 num_delete 0.384433984756
+farkas SNARC line arabic DC 0 down 7 lctrl 0.455849170685
+farkas SNARC line arabic DC 0 up 7 num_delete 0.544457912445
+farkas SNARC line arabic DC 0 down 4 lctrl 0.449193000793
+farkas SNARC line arabic DC 0 down 6 lctrl 0.992676973343
+farkas SNARC line arabic DC 0 down 1 lctrl 0.488475084305
+farkas SNARC line arabic DC 0 down 4 lctrl 0.44912314415
+farkas SNARC line arabic DC 0 up 6 num_delete 0.504772901535
+farkas SNARC line arabic DC 0 down 6 lctrl 0.889380931854
+farkas SNARC line arabic DC 0 up 9 num_delete 0.519985198975
+farkas SNARC line arabic DC 0 up 6 num_delete 0.456034898758
+farkas SNARC line arabic DC 0 up 4 num_delete 0.40155506134
+farkas SNARC line arabic DC 0 up 3 num_delete 0.480751037598
+farkas SNARC line arabic DC 0 up 5 num_delete 0.480708122253
+farkas SNARC line arabic DC 0 up 3 num_delete 0.457257032394
+farkas SNARC line arabic DC 0 up 1 num_delete 0.585074901581
+farkas SNARC line arabic DC 0 down 8 lctrl 0.841660022736
+farkas SNARC line arabic DC 0 up 9 num_delete 0.496299028397
+farkas SNARC line arabic DC 0 down 5 lctrl 0.393857955933
+farkas SNARC line arabic DC 0 down 1 lctrl 0.391983032227
+farkas SNARC line arabic DC 0 up 5 num_delete 0.416422843933
+farkas SNARC line arabic DC 0 down 5 lctrl 0.473403930664
+farkas SNARC line arabic DC 0 down 5 lctrl 0.424806118011
+farkas SNARC line arabic DC 0 down 2 lctrl 0.337024211884
+farkas SNARC line arabic DC 0 down 9 lctrl 0.336831092834
+farkas SNARC line arabic DC 0 up 7 num_delete 0.464528083801
+farkas SNARC line arabic DC 0 up 8 num_delete 0.441244125366
+farkas SNARC line arabic DC 0 down 1 lctrl 0.521237134933
+farkas SNARC line arabic DC 0 up 7 lctrl 0.432625055313
+farkas SNARC line arabic DC 0 down 7 num_delete 0.432713985443
+farkas SNARC line arabic DC 0 up 3 num_delete 0.632915019989
+farkas SNARC line arabic DC 0 down 5 lctrl 0.568650007248
+farkas SNARC line arabic DC 0 up 5 num_delete 0.632806062698
+farkas SNARC line arabic DC 0 down 6 lctrl 0.649502038956
+farkas SNARC line arabic DC 0 down 1 lctrl 0.463619947433
+farkas SNARC line arabic DC 0 up 7 num_delete 0.409013032913
+farkas SNARC line arabic DC 0 down 3 lctrl 0.486408948898
+farkas SNARC line arabic DC 0 up 6 num_delete 0.526342868805
+farkas SNARC line arabic DC 0 up 6 num_delete 0.496901988983
+farkas SNARC line arabic DC 0 down 4 lctrl 0.337712049484
+farkas SNARC line arabic DC 0 down 6 lctrl 0.543112039566
+farkas SNARC line arabic DC 0 down 5 lctrl 0.424742937088
+farkas SNARC line arabic DC 0 up 2 num_delete 0.688492059708
+farkas SNARC line arabic DC 0 down 8 lctrl 1.37732815742
+farkas SNARC line arabic DC 0 down 7 lctrl 0.744390964508
+farkas SNARC line arabic DC 0 down 1 lctrl 0.489476919174
+farkas SNARC line arabic DC 0 down 1 lctrl 0.33606505394
+farkas SNARC line arabic DC 0 down 9 lctrl 0.312095880508
+farkas SNARC line arabic DC 0 down 2 lctrl 0.32782292366
+farkas SNARC line arabic DC 0 down 7 lctrl 0.325380086899
+farkas SNARC line arabic DC 0 down 1 lctrl 0.316684961319
+farkas SNARC line arabic DC 0 down 2 lctrl 0.353330850601
+farkas SNARC line arabic DC 0 down 3 lctrl 0.280940055847
+farkas SNARC line arabic DC 0 down 3 lctrl 0.360368013382
+farkas SNARC line arabic DC 0 up 6 lctrl 0.289125919342
+farkas SNARC line arabic DC 0 down 8 lctrl 0.476987838745
+farkas SNARC line arabic DC 0 down 7 lctrl 0.561125993729
+farkas SNARC line arabic DC 0 down 1 lctrl 0.352548837662
+farkas SNARC line arabic DC 0 up 2 lctrl 0.360010147095
+farkas SNARC line arabic DC 0 up 7 lctrl 0.416476011276
+farkas SNARC line arabic DC 0 down 8 lctrl 0.48751616478
+farkas SNARC line arabic DC 0 up 2 num_delete 0.616832017899
+farkas SNARC line arabic DC 0 down 3 lctrl 0.385031938553
+farkas SNARC line arabic DC 0 down 3 lctrl 0.46489906311
+farkas SNARC line arabic DC 0 up 9 lctrl 0.352506160736
+farkas SNARC line arabic DC 0 up 5 num_delete 0.440475940704
+{'participant': u'farkas', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1636', 'autopilot': False, 'exp_id': u'SNARC'}
+farkas SNARC_only CD 5 num_delete 1.02487897873
+farkas SNARC_only CD 2 lctrl 0.522484064102
+farkas SNARC_only CD 8 lctrl 0.543658018112
+farkas SNARC_only CD 8 lctrl 0.370205163956
+farkas SNARC_only CD 9 num_delete 0.480601072311
+farkas SNARC_only CD 9 num_delete 0.418094158173
+farkas SNARC_only CD 4 lctrl 0.36162686348
+farkas SNARC_only CD 2 lctrl 0.394232034683
+farkas SNARC_only CD 4 lctrl 0.363812923431
+farkas SNARC_only CD 6 lctrl 0.446712970734
+farkas SNARC_only CD 6 lctrl 0.31379699707
+farkas SNARC_only CD 2 lctrl 0.3861348629
+farkas SNARC_only CD 4 lctrl 0.330375909805
+farkas SNARC_only CD 2 lctrl 0.281842947006
+farkas SNARC_only CD 8 lctrl 0.53005695343
+farkas SNARC_only CD 8 lctrl 0.313152074814
+farkas SNARC_only CD 7 num_delete 0.431464910507
+farkas SNARC_only CD 5 num_delete 0.547597885132
+farkas SNARC_only CD 1 num_delete 0.687016963959
+farkas SNARC_only CD 1 num_delete 0.392200946808
+farkas SNARC_only CD 1 num_delete 0.32142496109
+farkas SNARC_only CD 3 num_delete 0.57638001442
+farkas SNARC_only CD 1 num_delete 0.433692932129
+farkas SNARC_only CD 3 num_delete 0.385797977448
+farkas SNARC_only CD 3 num_delete 0.322898864746
+farkas SNARC_only CD 7 num_delete 0.537487983704
+farkas SNARC_only CD 3 num_delete 0.489717006683
+farkas SNARC_only CD 9 num_delete 0.497833967209
+farkas SNARC_only CD 1 num_delete 0.489721059799
+farkas SNARC_only CD 5 num_delete 0.4263651371
+farkas SNARC_only CD 3 num_delete 0.369432926178
+farkas SNARC_only CD 2 lctrl 0.433871030807
+farkas SNARC_only CD 7 num_delete 0.417267084122
+farkas SNARC_only CD 7 num_delete 0.361413955688
+farkas SNARC_only CD 4 lctrl 0.497948884964
+farkas SNARC_only CD 7 num_delete 0.441864013672
+farkas SNARC_only CD 7 num_delete 0.377649068832
+farkas SNARC_only CD 8 lctrl 0.402388811111
+farkas SNARC_only CD 3 num_delete 0.385589122772
+farkas SNARC_only CD 6 lctrl 0.400943040848
+farkas SNARC_only CD 3 num_delete 0.537122964859
+farkas SNARC_only CD 5 num_delete 0.681815862656
+farkas SNARC_only CD 2 lctrl 0.434767961502
+farkas SNARC_only CD 2 lctrl 0.362720012665
+farkas SNARC_only CD 5 num_delete 0.52122592926
+farkas SNARC_only CD 5 num_delete 0.440750837326
+farkas SNARC_only CD 7 num_delete 0.689604043961
+farkas SNARC_only CD 3 num_delete 0.513355016708
+farkas SNARC_only CD 7 num_delete 0.616258144379
+farkas SNARC_only CD 5 lctrl 0.38599395752
+farkas SNARC_only CD 7 num_delete 0.475764989853
+farkas SNARC_only CD 4 lctrl 0.506162881851
+farkas SNARC_only CD 5 num_delete 0.464854001999
+farkas SNARC_only CD 4 num_delete 0.384708166122
+farkas SNARC_only CD 1 lctrl 0.536893844604
+farkas SNARC_only CD 1 num_delete 0.441326856613
+farkas SNARC_only CD 1 num_delete 0.30593085289
+farkas SNARC_only CD 6 lctrl 0.39405798912
+farkas SNARC_only CD 2 lctrl 0.802062034607
+farkas SNARC_only CD 2 lctrl 0.385751962662
+farkas SNARC_only CD 5 num_delete 0.449319839478
+farkas SNARC_only CD 8 lctrl 0.45791387558
+farkas SNARC_only CD 5 num_delete 0.649369955063
+farkas SNARC_only CD 5 num_delete 0.473478078842
+farkas SNARC_only CD 3 lctrl 0.442191123962
+farkas SNARC_only CD 8 lctrl 0.641086101532
+farkas SNARC_only CD 6 lctrl 0.488913059235
+farkas SNARC_only CD 7 num_delete 0.376878976822
+farkas SNARC_only CD 9 lctrl 0.530900001526
+farkas SNARC_only CD 2 lctrl 0.560807943344
+farkas SNARC_only CD 9 num_delete 0.673993110657
+farkas SNARC_only CD 3 num_delete 1.13003993034
+farkas SNARC_only CD 5 num_delete 1.13860297203
+farkas SNARC_only CD 8 lctrl 0.482223033905
+farkas SNARC_only CD 2 lctrl 0.422767162323
+farkas SNARC_only CD 9 num_delete 0.441833019257
+farkas SNARC_only CD 1 num_delete 1.05716300011
+farkas SNARC_only CD 5 num_delete 0.490118980408
+farkas SNARC_only CD 7 num_delete 0.394172906876
+farkas SNARC_only CD 7 num_delete 0.425192832947
+farkas SNARC_only CD 7 num_delete 0.369782924652
+farkas SNARC_only CD 6 lctrl 0.377940893173
+farkas SNARC_only CD 4 lctrl 0.520925998688
+farkas SNARC_only CD 2 lctrl 0.536690950394
+farkas SNARC_only CD 9 num_delete 0.441054105759
+farkas SNARC_only CD 8 lctrl 0.753871917725
+farkas SNARC_only CD 8 lctrl 0.37840795517
+farkas SNARC_only CD 6 lctrl 0.497329950333
+farkas SNARC_only CD 3 num_delete 0.425921916962
+farkas SNARC_only CD 9 lctrl 0.458467006683
+farkas SNARC_only CD 9 num_delete 0.448354005814
+farkas SNARC_only CD 2 lctrl 0.41007900238
+farkas SNARC_only CD 4 num_delete 0.480924129486
+farkas SNARC_only CD 4 lctrl 0.378038883209
+farkas SNARC_only CD 2 lctrl 0.426186084747
+farkas SNARC_only CD 4 lctrl 0.44034409523
+farkas SNARC_only CD 8 lctrl 0.402343034744
+farkas SNARC_only CD 8 lctrl 0.329180955887
+farkas SNARC_only CD 8 lctrl 0.266233921051
+farkas SNARC_only CD 4 lctrl 0.553236961365
+farkas SNARC_only CD 2 lctrl 0.489995956421
+farkas SNARC_only CD 1 num_delete 0.449358940125
+farkas SNARC_only CD 2 lctrl 0.577992916107
+farkas SNARC_only CD 5 num_delete 0.505267858505
+farkas SNARC_only CD 5 num_delete 0.377734184265
+farkas SNARC_only CD 8 lctrl 0.586171865463
+farkas SNARC_only CD 2 lctrl 0.706108093262
+farkas SNARC_only CD 7 num_delete 0.73767209053
+farkas SNARC_only CD 3 num_delete 0.521855831146
+farkas SNARC_only CD 4 lctrl 0.538583993912
+farkas SNARC_only CD 7 num_delete 0.513350009918
+farkas SNARC_only CD 7 num_delete 0.441169977188
+farkas SNARC_only CD 2 lctrl 0.434322834015
+farkas SNARC_only CD 1 num_delete 0.400856018066
+farkas SNARC_only CD 4 lctrl 0.465719938278
+farkas SNARC_only CD 6 lctrl 0.457326889038
+farkas SNARC_only CD 4 lctrl 0.440768957138
+farkas SNARC_only CD 5 num_delete 0.553148031235
+farkas SNARC_only CD 8 lctrl 0.489599943161
+farkas SNARC_only CD 1 num_delete 0.391831874847
+farkas SNARC_only CD 1 num_delete 0.416863918304
+farkas SNARC_only CD 5 num_delete 0.777864933014
+farkas SNARC_only CD 3 num_delete 0.792805194855
+farkas SNARC_only CD 7 num_delete 0.481792926788
+farkas SNARC_only CD 4 lctrl 0.514147996902
+farkas SNARC_only CD 2 lctrl 0.569675922394
+farkas SNARC_only CD 7 num_delete 0.513845920563
+farkas SNARC_only CD 8 lctrl 0.593688964844
+farkas SNARC_only CD 3 num_delete 0.456611871719
+farkas SNARC_only CD 4 lctrl 0.561651945114
+farkas SNARC_only CD 9 num_delete 0.505718946457
+farkas SNARC_only CD 8 lctrl 0.5221118927
+farkas SNARC_only CD 9 lctrl 0.441972017288
+farkas SNARC_only CD 6 lctrl 0.410006999969
+farkas SNARC_only CD 3 lctrl 0.378084182739
+farkas SNARC_only CD 1 num_delete 0.44146490097
+farkas SNARC_only CD 3 num_delete 0.434309959412
+farkas SNARC_only CD 9 num_delete 0.393174886703
+farkas SNARC_only CD 7 num_delete 0.408849000931
+farkas SNARC_only CD 9 num_delete 0.553947925568
+farkas SNARC_only CD 4 lctrl 0.539093017578
+farkas SNARC_only CD 5 num_delete 0.752777099609
+farkas SNARC_only CD 4 lctrl 0.410165071487
+farkas SNARC_only CD 4 lctrl 0.361593008041
+farkas SNARC_only CD 8 lctrl 0.353883981705
+farkas SNARC_only CD 2 lctrl 0.409289836884
+farkas SNARC_only CD 1 num_delete 0.465476036072
+farkas SNARC_only CD 1 num_delete 0.473021030426
+farkas SNARC_only CD 6 lctrl 0.530122041702
+farkas SNARC_only CD 9 num_delete 0.562031984329
+farkas SNARC_only CD 3 num_delete 0.906972169876
+farkas SNARC_only CD 9 num_delete 0.473551034927
+farkas SNARC_only CD 2 lctrl 0.4341340065
+farkas SNARC_only CD 5 lctrl 0.641355991364
+farkas SNARC_only CD 5 num_delete 0.312558889389
+farkas SNARC_only CD 9 num_delete 0.537877082825
+farkas SNARC_only CD 9 num_delete 0.432965993881
+farkas SNARC_only CD 3 lctrl 0.474271059036
+farkas SNARC_only CD 6 num_delete 0.38455414772
+farkas SNARC_only CD 7 num_delete 0.521081924438
+farkas SNARC_only CD 7 num_delete 0.402256965637
+farkas SNARC_only CD 1 num_delete 0.929532051086
+farkas SNARC_only CD 4 lctrl 0.465337991714
+farkas SNARC_only CD 1 num_delete 0.617973089218
+farkas SNARC_only CD 2 lctrl 0.593861818314
+farkas SNARC_only CD 6 lctrl 0.497910022736
+farkas SNARC_only CD 6 lctrl 0.402158975601
+farkas SNARC_only CD 3 num_delete 0.441221952438
+farkas SNARC_only CD 2 lctrl 0.522567033768
+farkas SNARC_only CD 7 num_delete 0.505242109299
+farkas SNARC_only CD 3 num_delete 0.730190992355
+farkas SNARC_only CD 6 num_delete 0.552884101868
+farkas SNARC_only CD 6 lctrl 0.266263008118
+farkas SNARC_only CD 6 lctrl 0.313251972198
+farkas SNARC_only CD 5 num_delete 0.521194934845
+farkas SNARC_only CD 1 num_delete 0.642204999924
+farkas SNARC_only CD 6 lctrl 0.890120029449
+farkas SNARC_only CD 8 lctrl 1.04977989197
+farkas SNARC_only CD 6 lctrl 0.67352104187
+farkas SNARC_only CD 6 lctrl 0.689233064651
+farkas SNARC_only CD 8 lctrl 0.546160936356
+farkas SNARC_only CD 2 lctrl 0.473697900772
+farkas SNARC_only CD 1 lctrl 0.415093898773
+farkas SNARC_only CD 1 num_delete 0.456537008286
+farkas SNARC_only CD 3 num_delete 0.586197137833
+farkas SNARC_only CD 7 num_delete 0.602020978928
+farkas SNARC_only CD 9 num_delete 0.585704088211
+farkas SNARC_only CD 2 lctrl 0.507119894028
+farkas SNARC_only CD 8 lctrl 0.442224979401
+farkas SNARC_only CD 6 lctrl 0.513448953629
+farkas SNARC_only CD 4 lctrl 0.58619594574
+farkas SNARC_only CD 1 num_delete 0.432621955872
+farkas SNARC_only CD 8 lctrl 0.482002973557
+farkas SNARC_only CD 5 num_delete 0.89701294899
+farkas SNARC_only CD 3 num_delete 0.602262973785
+farkas SNARC_only CD 1 num_delete 0.409968852997
+farkas SNARC_only CD 1 num_delete 0.345241069794
+farkas SNARC_only CD 6 lctrl 0.538866996765
+farkas SNARC_only CD 2 lctrl 0.762521982193
+farkas SNARC_only CD 4 lctrl 0.514487028122
+farkas SNARC_only CD 8 lctrl 0.492053031921
+farkas SNARC_only CD 4 lctrl 0.397935152054
+farkas SNARC_only CD 8 lctrl 0.474141120911
+farkas SNARC_only CD 6 lctrl 1.34633708
+farkas SNARC_only CD 6 lctrl 0.721236944199
+farkas SNARC_only CD 7 num_delete 0.449127912521
+farkas SNARC_only CD 2 lctrl 0.490108013153
+farkas SNARC_only CD 1 num_delete 0.705429792404
+farkas SNARC_only CD 4 lctrl 0.490890026093
+farkas SNARC_only CD 2 lctrl 0.46462392807
+farkas SNARC_only CD 7 lctrl 0.336308956146
+farkas SNARC_only CD 3 num_delete 0.408334970474
+farkas SNARC_only CD 6 lctrl 0.410362958908
+farkas SNARC_only CD 3 num_delete 0.759956121445
+farkas SNARC_only CD 5 num_delete 0.946109056473
+farkas SNARC_only CD 8 lctrl 0.473867893219
+farkas SNARC_only CD 9 num_delete 0.496812820435
+farkas SNARC_only CD 8 lctrl 0.37044095993
+farkas SNARC_only CD 6 lctrl 0.465007066727
+farkas SNARC_only CD 9 num_delete 0.433520078659
+farkas SNARC_only CD 1 num_delete 0.641086101532
+farkas SNARC_only CD 7 lctrl 0.440278053284
+farkas SNARC_only CD 4 lctrl 0.562296867371
+farkas SNARC_only CD 7 num_delete 0.432621002197
+farkas SNARC_only CD 8 lctrl 0.505950927734
+farkas SNARC_only CD 5 num_delete 0.657449960709
+farkas SNARC_only CD 4 lctrl 0.537710189819
+farkas SNARC_only CD 5 num_delete 0.536744117737
+farkas SNARC_only CD 1 lctrl 0.369826793671
+farkas SNARC_only CD 9 num_delete 0.641734838486
+farkas SNARC_only CD 3 num_delete 0.545437097549
+farkas SNARC_only CD 2 lctrl 0.474566936493
+farkas SNARC_only CD 4 lctrl 0.473485946655
+farkas SNARC_only CD 1 num_delete 0.521389007568
+farkas SNARC_only CD 1 num_delete 0.450183153152
+farkas SNARC_only CD 6 lctrl 0.609179973602
+farkas SNARC_only CD 9 num_delete 0.464573860168
+farkas SNARC_only CD 9 num_delete 0.48095703125
+farkas SNARC_only CD 5 lctrl 0.561951160431
+farkas SNARC_only CD 3 num_delete 1.04869794846
+farkas SNARC_only CD 6 lctrl 0.625998973846
+farkas SNARC_only CD 5 num_delete 0.753601074219
+farkas SNARC_only CD 4 lctrl 0.602349042892
+farkas SNARC_only CD 8 lctrl 0.60236620903
+farkas SNARC_only CD 6 lctrl 1.45753502846
+farkas SNARC_only CD 5 num_delete 0.425156116486
+farkas SNARC_only CD 6 lctrl 4.9629971981
+farkas SNARC_only CD 1 num_delete 0.401027917862
+farkas SNARC_only CD 3 num_delete 0.554219007492
+farkas SNARC_only CD 6 lctrl 0.425585031509
+farkas SNARC_only CD 7 num_delete 0.55261015892
+farkas SNARC_only CD 2 lctrl 0.442380189896
+farkas SNARC_only CD 4 lctrl 0.425647974014
+farkas SNARC_only CD 3 num_delete 0.457642793655
+farkas SNARC_only CD 1 lctrl 0.640591144562
+farkas SNARC_only CD 4 lctrl 0.593075037003
+farkas SNARC_only CD 9 num_delete 0.712827920914
+farkas SNARC_only CD 6 lctrl 0.562514066696
+farkas SNARC_only CD 4 lctrl 0.632720947266
+farkas SNARC_only CD 3 num_delete 0.425626039505
+farkas SNARC_only CD 2 lctrl 0.474903106689
+farkas SNARC_only CD 5 num_delete 0.449199914932
+farkas SNARC_only CD 1 lctrl 0.370465040207
+farkas SNARC_only CD 8 num_delete 0.328092813492
+farkas SNARC_only CD 9 num_delete 0.433345079422
+farkas SNARC_only CD 3 num_delete 0.393907785416
+farkas SNARC_only CD 9 num_delete 0.53759098053
+farkas SNARC_only CD 7 lctrl 0.393389940262
+farkas SNARC_only CD 2 lctrl 0.481261968613
+farkas SNARC_only CD 8 lctrl 0.535708904266
+farkas SNARC_only CD 7 num_delete 0.496556043625
+farkas SNARC_only CD 7 num_delete 0.377035140991
+farkas SNARC_only CD 8 lctrl 0.425413131714
+farkas SNARC_only CD 8 lctrl 0.305526971817
+farkas SNARC_only CD 9 num_delete 0.441235780716
+farkas SNARC_only CD 4 num_delete 0.346850156784
+farkas SNARC_only CD 6 lctrl 0.521413087845
+farkas SNARC_only CD 4 lctrl 0.48169708252
+farkas SNARC_only CD 3 num_delete 0.402013063431
+farkas SNARC_only CD 3 num_delete 0.345816850662
+farkas SNARC_only CD 2 lctrl 0.425932884216
+farkas SNARC_only CD 4 num_delete 0.368854999542
+farkas SNARC_only CD 7 lctrl 0.297221899033
+farkas SNARC_only CD 2 lctrl 0.553444862366
+farkas SNARC_only CD 8 num_delete 0.327852010727
+farkas SNARC_only CD 2 lctrl 0.409387111664
+farkas SNARC_only CD 3 num_delete 0.457340955734
+farkas SNARC_only CD 8 lctrl 0.32954788208
+farkas SNARC_only CD 9 num_delete 0.681528091431
+farkas SNARC_only CD 3 num_delete 0.617887973785
+farkas SNARC_only CD 5 num_delete 0.590392112732
+farkas SNARC_only CD 5 num_delete 0.458084106445
+farkas SNARC_only CD 9 num_delete 0.778408050537
+farkas SNARC_only CD 3 num_delete 0.490275859833
+farkas SNARC_only CD 5 num_delete 1.74580597878
+farkas SNARC_only CD 4 num_delete 0.305753946304
+farkas SNARC_only CD 4 lctrl 0.472903966904
+farkas SNARC_only CD 6 lctrl 0.417186021805
+farkas SNARC_only CD 9 num_delete 0.433779001236
+farkas SNARC_only CD 9 lctrl 0.393144130707
+farkas SNARC_only CD 1 num_delete 1.12051200867
+farkas SNARC_only CD 8 lctrl 0.481867074966
+farkas SNARC_only CD 3 num_delete 0.672497034073
+farkas SNARC_only CD 6 lctrl 0.377932071686
+farkas SNARC_only CD 2 lctrl 0.730112075806
+farkas SNARC_only CD 1 num_delete 0.512937068939
+farkas SNARC_only CD 1 num_delete 0.78462600708
+farkas SNARC_only CD 9 lctrl 0.459046125412
+farkas SNARC_only CD 5 num_delete 0.271894931793
+farkas SNARC_only CD 6 num_delete 0.233407020569
+farkas SNARC_only CD 3 num_delete 0.553586006165
+farkas SNARC_only CD 8 lctrl 0.489430904388
+farkas SNARC_only CD 6 lctrl 0.473005056381
+farkas SNARC_only CD 2 num_delete 0.449155092239
+farkas SNARC_only CD 1 num_delete 0.617578029633
+farkas SNARC_only CD 8 lctrl 0.498807907104
+farkas SNARC_only CD 8 lctrl 0.385413169861
+farkas SNARC_only CD 5 num_delete 0.616687059402
+farkas SNARC_only CD 9 num_delete 1.09785890579
+farkas SNARC_only CD 4 lctrl 0.482240915298
+farkas SNARC_only CD 3 num_delete 0.680776119232
+farkas SNARC_only CD 4 lctrl 0.489758968353
+farkas SNARC_only CD 5 num_delete 0.536566019058
+farkas SNARC_only CD 7 lctrl 0.649726867676
+farkas SNARC_only CD 4 num_delete 0.84082198143
+farkas SNARC_only CD 5 num_delete 0.59370303154
+farkas SNARC_only CD 3 num_delete 0.464418172836
+farkas SNARC_only CD 9 num_delete 0.490039110184
+farkas SNARC_only CD 2 lctrl 0.433854103088
+farkas SNARC_only CD 2 lctrl 0.441222906113
+farkas SNARC_only CD 7 lctrl 0.402351140976
+farkas SNARC_only CD 7 num_delete 0.281321048737
+farkas SNARC_only CD 7 num_delete 0.402219057083
+farkas SNARC_only CD 1 num_delete 0.625137090683
+farkas SNARC_only CD 9 num_delete 0.554184913635
+farkas SNARC_only CD 9 num_delete 0.360815048218
+farkas SNARC_only CD 7 num_delete 0.457362890244
+farkas SNARC_only CD 7 num_delete 0.321691989899
+farkas SNARC_only CD 7 num_delete 0.289278030396
+farkas SNARC_only CD 7 num_delete 0.290156126022
+farkas SNARC_only CD 1 num_delete 0.553669929504
+farkas SNARC_only CD 8 lctrl 0.450038194656
+farkas SNARC_only CD 9 lctrl 0.410312175751
+farkas SNARC_only CD 5 num_delete 0.583872795105
+farkas SNARC_only CD 6 lctrl 0.514188051224
+farkas SNARC_only CD 6 lctrl 0.370361089706
+farkas SNARC_only CD 9 num_delete 0.399687051773
+farkas SNARC_only CD 5 num_delete 0.569847106934
+farkas SNARC_only CD 1 num_delete 0.626585960388
+farkas SNARC_only CD 3 num_delete 0.602095842361
+farkas SNARC_only CD 8 lctrl 0.562216997147
+farkas SNARC_only CD 2 lctrl 0.633347034454
+farkas SNARC_only CD 5 num_delete 0.513768911362
+farkas SNARC_only CD 9 num_delete 0.680754184723
+farkas SNARC_only CD 4 lctrl 0.601327896118
+farkas SNARC_only CD 1 num_delete 0.585863113403
+farkas SNARC_only CD 5 lctrl 1.21750497818
+farkas SNARC_only CD 6 num_delete 0.384426116943
+farkas SNARC_only CD 6 lctrl 0.481700897217
+farkas SNARC_only CD 9 num_delete 0.433658123016
+{'participant': u'farkas', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1644', 'autopilot': False, 'exp_id': u'SNARC'}
+{'participant': u'farkas', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1644', 'autopilot': False, 'exp_id': u'SNARC'}
+farkas SNARC_only DC 8 num_delete 2.13492393494
+farkas SNARC_only DC 1 lctrl 0.497817993164
+farkas SNARC_only DC 7 lctrl 0.45715713501
+farkas SNARC_only DC 3 lctrl 0.424864053726
+farkas SNARC_only DC 1 lctrl 0.410190820694
+farkas SNARC_only DC 7 lctrl 0.297382831573
+farkas SNARC_only DC 6 lctrl 0.473197937012
+farkas SNARC_only DC 5 num_delete 0.441179037094
+farkas SNARC_only DC 2 lctrl 0.439805984497
+farkas SNARC_only DC 4 lctrl 0.345041036606
+farkas SNARC_only DC 6 lctrl 0.465478897095
+farkas SNARC_only DC 8 num_delete 0.313481807709
+farkas SNARC_only DC 1 lctrl 1.62527990341
+farkas SNARC_only DC 6 num_delete 0.553734064102
+farkas SNARC_only DC 4 num_delete 0.425591945648
+farkas SNARC_only DC 7 lctrl 0.403892993927
+farkas SNARC_only DC 3 lctrl 0.487357854843
+farkas SNARC_only DC 4 num_delete 0.529427051544
+farkas SNARC_only DC 7 lctrl 0.41720199585
+farkas SNARC_only DC 3 lctrl 0.47349691391
+farkas SNARC_only DC 8 num_delete 0.498022794724
+farkas SNARC_only DC 4 num_delete 0.73726606369
+farkas SNARC_only DC 6 num_delete 0.424799919128
+farkas SNARC_only DC 5 lctrl 0.506370067596
+farkas SNARC_only DC 7 lctrl 0.617733001709
+farkas SNARC_only DC 4 num_delete 0.376912117004
+farkas SNARC_only DC 5 lctrl 0.402309179306
+farkas SNARC_only DC 9 lctrl 0.586152791977
+farkas SNARC_only DC 3 num_delete 0.505044937134
+farkas SNARC_only DC 2 lctrl 0.394407987595
+farkas SNARC_only DC 6 num_delete 0.312566995621
+farkas SNARC_only DC 4 num_delete 0.417969942093
+farkas SNARC_only DC 4 num_delete 0.42612695694
+farkas SNARC_only DC 7 lctrl 0.865535974503
+farkas SNARC_only DC 7 lctrl 0.376662015915
+farkas SNARC_only DC 5 num_delete 0.49706697464
+farkas SNARC_only DC 5 lctrl 0.551652908325
+farkas SNARC_only DC 5 lctrl 0.433495998383
+farkas SNARC_only DC 9 num_delete 0.487971067429
+farkas SNARC_only DC 1 lctrl 0.697855949402
+farkas SNARC_only DC 6 num_delete 0.536671876907
+farkas SNARC_only DC 4 num_delete 1.08976602554
+farkas SNARC_only DC 3 lctrl 0.522135972977
+farkas SNARC_only DC 6 lctrl 0.665464162827
+farkas SNARC_only DC 9 lctrl 0.481316804886
+farkas SNARC_only DC 1 lctrl 0.433782815933
+farkas SNARC_only DC 4 num_delete 0.498003959656
+farkas SNARC_only DC 1 num_delete 0.816974878311
+farkas SNARC_only DC 5 lctrl 0.585951089859
+farkas SNARC_only DC 3 lctrl 0.465374946594
+farkas SNARC_only DC 4 num_delete 0.560633182526
+farkas SNARC_only DC 4 num_delete 0.39294719696
+farkas SNARC_only DC 9 lctrl 0.513774871826
+farkas SNARC_only DC 4 num_delete 0.600606918335
+farkas SNARC_only DC 8 lctrl 0.609818935394
+farkas SNARC_only DC 3 num_delete 1.07187104225
+farkas SNARC_only DC 9 lctrl 0.745655059814
+farkas SNARC_only DC 6 num_delete 0.766560077667
+farkas SNARC_only DC 2 num_delete 0.848635196686
+farkas SNARC_only DC 6 num_delete 0.456525087357
+farkas SNARC_only DC 9 lctrl 0.446207046509
+farkas SNARC_only DC 4 num_delete 1.02073597908
+farkas SNARC_only DC 9 lctrl 0.409883022308
+farkas SNARC_only DC 5 num_delete 0.916293859482
+farkas SNARC_only DC 3 lctrl 0.447204113007
+farkas SNARC_only DC 7 lctrl 0.373126029968
+farkas SNARC_only DC 6 num_delete 0.568266868591
+farkas SNARC_only DC 5 lctrl 0.647946834564
+farkas SNARC_only DC 5 lctrl 0.395862102509
+farkas SNARC_only DC 1 num_delete 0.570384979248
+farkas SNARC_only DC 3 lctrl 0.557776212692
+farkas SNARC_only DC 7 lctrl 0.388254165649
+farkas SNARC_only DC 2 num_delete 0.593341112137
+farkas SNARC_only DC 2 num_delete 1.02991604805
+farkas SNARC_only DC 7 lctrl 0.447307109833
+farkas SNARC_only DC 3 lctrl 0.616433858871
+farkas SNARC_only DC 9 lctrl 0.564331054688
+farkas SNARC_only DC 9 lctrl 0.348315000534
+farkas SNARC_only DC 8 num_delete 0.607887029648
+farkas SNARC_only DC 5 lctrl 0.450150966644
+farkas SNARC_only DC 5 lctrl 0.361792087555
+farkas SNARC_only DC 6 num_delete 0.945960044861
+farkas SNARC_only DC 8 num_delete 0.633522987366
+farkas SNARC_only DC 1 lctrl 0.473203897476
+farkas SNARC_only DC 1 lctrl 0.329838991165
+farkas SNARC_only DC 9 num_delete 0.520536899567
+farkas SNARC_only DC 7 lctrl 0.46507191658
+farkas SNARC_only DC 1 lctrl 0.417865991592
+farkas SNARC_only DC 2 num_delete 0.532995939255
+farkas SNARC_only DC 8 num_delete 0.857753992081
+farkas SNARC_only DC 6 num_delete 0.489372968674
+farkas SNARC_only DC 7 lctrl 0.546160936356
+farkas SNARC_only DC 8 num_delete 0.519498109818
+farkas SNARC_only DC 8 num_delete 0.345993041992
+farkas SNARC_only DC 7 lctrl 0.457278013229
+farkas SNARC_only DC 6 lctrl 0.506338119507
+farkas SNARC_only DC 9 lctrl 1.08041977882
+farkas SNARC_only DC 8 num_delete 0.433552026749
+farkas SNARC_only DC 9 lctrl 0.5787088871
+farkas SNARC_only DC 3 lctrl 0.497648000717
+farkas SNARC_only DC 5 lctrl 0.610191106796
+farkas SNARC_only DC 6 lctrl 0.456526994705
+farkas SNARC_only DC 9 lctrl 1.0488858223
+farkas SNARC_only DC 5 lctrl 0.505910873413
+farkas SNARC_only DC 2 num_delete 0.569509983063
+farkas SNARC_only DC 3 lctrl 0.53707909584
+farkas SNARC_only DC 4 num_delete 0.664678812027
+farkas SNARC_only DC 3 lctrl 0.610414028168
+farkas SNARC_only DC 4 num_delete 0.681531906128
+farkas SNARC_only DC 7 lctrl 0.498431921005
+farkas SNARC_only DC 5 lctrl 0.488564968109
+farkas SNARC_only DC 3 lctrl 0.600970029831
+farkas SNARC_only DC 9 num_delete 0.512964010239
+farkas SNARC_only DC 8 num_delete 0.808667898178
+farkas SNARC_only DC 2 num_delete 0.465605020523
+farkas SNARC_only DC 8 num_delete 0.400835037231
+farkas SNARC_only DC 8 num_delete 0.369883060455
+farkas SNARC_only DC 2 num_delete 0.521420955658
+farkas SNARC_only DC 6 num_delete 0.418303012848
+farkas SNARC_only DC 3 lctrl 0.425806045532
+farkas SNARC_only DC 1 lctrl 0.664836883545
+farkas SNARC_only DC 9 lctrl 0.450217962265
+farkas SNARC_only DC 4 num_delete 0.536883831024
+farkas SNARC_only DC 6 num_delete 0.5775411129
+farkas SNARC_only DC 2 num_delete 0.601866960526
+farkas SNARC_only DC 2 num_delete 0.370418071747
+farkas SNARC_only DC 4 num_delete 0.425817012787
+farkas SNARC_only DC 6 num_delete 0.402020931244
+farkas SNARC_only DC 1 lctrl 0.465443134308
+farkas SNARC_only DC 8 num_delete 0.497966051102
+farkas SNARC_only DC 8 num_delete 0.362341165543
+farkas SNARC_only DC 4 num_delete 0.497252225876
+farkas SNARC_only DC 7 lctrl 0.545621871948
+farkas SNARC_only DC 9 lctrl 0.441745042801
+farkas SNARC_only DC 8 num_delete 0.521083116531
+farkas SNARC_only DC 9 lctrl 0.521815061569
+farkas SNARC_only DC 9 lctrl 0.433531045914
+farkas SNARC_only DC 3 lctrl 0.776540994644
+farkas SNARC_only DC 3 lctrl 0.386218070984
+farkas SNARC_only DC 6 num_delete 0.720476150513
+farkas SNARC_only DC 2 num_delete 0.449181079865
+farkas SNARC_only DC 8 num_delete 0.521967887878
+farkas SNARC_only DC 7 lctrl 0.49020409584
+farkas SNARC_only DC 6 num_delete 0.625858068466
+farkas SNARC_only DC 5 lctrl 0.410556077957
+farkas SNARC_only DC 2 num_delete 0.672698020935
+farkas SNARC_only DC 2 num_delete 0.400949001312
+farkas SNARC_only DC 3 lctrl 0.50550699234
+farkas SNARC_only DC 3 lctrl 0.62602686882
+farkas SNARC_only DC 4 num_delete 0.833410024643
+farkas SNARC_only DC 8 num_delete 0.665789842606
+farkas SNARC_only DC 3 lctrl 0.410144090652
+farkas SNARC_only DC 8 num_delete 0.488653898239
+farkas SNARC_only DC 5 lctrl 0.536181926727
+farkas SNARC_only DC 8 num_delete 0.488466024399
+farkas SNARC_only DC 2 num_delete 0.712383031845
+farkas SNARC_only DC 6 num_delete 0.514086008072
+farkas SNARC_only DC 1 lctrl 0.458605051041
+farkas SNARC_only DC 7 lctrl 0.658527851105
+farkas SNARC_only DC 4 num_delete 0.520041942596
+farkas SNARC_only DC 5 lctrl 0.513878107071
+farkas SNARC_only DC 6 num_delete 0.536554813385
+farkas SNARC_only DC 5 lctrl 0.561206102371
+farkas SNARC_only DC 9 lctrl 0.93746304512
+farkas SNARC_only DC 5 lctrl 0.64116191864
+farkas SNARC_only DC 1 lctrl 1.15289998055
+farkas SNARC_only DC 5 lctrl 0.99404001236
+farkas SNARC_only DC 9 num_delete 1.28092718124
+farkas SNARC_only DC 7 lctrl 1.41779589653
+farkas SNARC_only DC 4 num_delete 0.761166095734
+farkas SNARC_only DC 4 num_delete 0.385172843933
+farkas SNARC_only DC 2 num_delete 0.440547943115
+farkas SNARC_only DC 4 num_delete 0.353284835815
+farkas SNARC_only DC 9 lctrl 0.432796955109
+farkas SNARC_only DC 4 num_delete 0.601315975189
+farkas SNARC_only DC 6 lctrl 0.38537311554
+farkas SNARC_only DC 3 lctrl 0.569719076157
+farkas SNARC_only DC 1 lctrl 0.538019895554
+farkas SNARC_only DC 3 lctrl 0.417809009552
+farkas SNARC_only DC 4 num_delete 0.488958120346
+farkas SNARC_only DC 1 lctrl 0.394127130508
+farkas SNARC_only DC 5 lctrl 0.561381101608
+farkas SNARC_only DC 3 lctrl 0.414849042892
+farkas SNARC_only DC 3 lctrl 0.337546110153
+farkas SNARC_only DC 6 lctrl 0.409795999527
+farkas SNARC_only DC 2 lctrl 0.337071895599
+farkas SNARC_only DC 9 lctrl 0.513638019562
+farkas SNARC_only DC 8 num_delete 0.433456897736
+farkas SNARC_only DC 4 num_delete 0.393371105194
+farkas SNARC_only DC 8 num_delete 0.385346889496
+farkas SNARC_only DC 1 lctrl 0.474560022354
+farkas SNARC_only DC 7 num_delete 0.504223108292
+farkas SNARC_only DC 7 lctrl 0.257421970367
+farkas SNARC_only DC 7 lctrl 0.337458133698
+farkas SNARC_only DC 6 num_delete 0.521682977676
+farkas SNARC_only DC 2 num_delete 0.433761119843
+farkas SNARC_only DC 7 num_delete 0.417803049088
+farkas SNARC_only DC 9 lctrl 0.528557062149
+farkas SNARC_only DC 7 lctrl 0.34600019455
+farkas SNARC_only DC 1 lctrl 0.338171958923
+farkas SNARC_only DC 4 num_delete 0.535951137543
+farkas SNARC_only DC 1 num_delete 0.473623037338
+farkas SNARC_only DC 1 lctrl 0.377772092819
+farkas SNARC_only DC 1 lctrl 0.313513040543
+farkas SNARC_only DC 1 lctrl 0.257180929184
+farkas SNARC_only DC 9 lctrl 0.562118053436
+farkas SNARC_only DC 4 lctrl 0.360903978348
+farkas SNARC_only DC 7 lctrl 0.57728600502
+farkas SNARC_only DC 2 num_delete 0.415970087051
+farkas SNARC_only DC 7 lctrl 0.537646055222
+farkas SNARC_only DC 9 lctrl 0.521318912506
+farkas SNARC_only DC 3 lctrl 0.449729919434
+farkas SNARC_only DC 1 lctrl 0.481754779816
+farkas SNARC_only DC 3 lctrl 0.401221990585
+farkas SNARC_only DC 9 lctrl 0.529679059982
+farkas SNARC_only DC 3 lctrl 0.522547960281
+farkas SNARC_only DC 9 lctrl 2.40879511833
+farkas SNARC_only DC 7 lctrl 0.673020124435
+farkas SNARC_only DC 9 lctrl 0.393322944641
+farkas SNARC_only DC 6 lctrl 0.433537006378
+farkas SNARC_only DC 5 lctrl 0.608814001083
+farkas SNARC_only DC 2 num_delete 1.05720615387
+farkas SNARC_only DC 3 lctrl 1.57756781578
+farkas SNARC_only DC 1 lctrl 0.61821103096
+farkas SNARC_only DC 8 num_delete 0.624794006348
+farkas SNARC_only DC 3 lctrl 0.618317127228
+farkas SNARC_only DC 1 lctrl 1.18574309349
+farkas SNARC_only DC 6 num_delete 0.537153959274
+farkas SNARC_only DC 7 lctrl 0.378484964371
+farkas SNARC_only DC 5 lctrl 0.528022050858
+farkas SNARC_only DC 7 num_delete 0.849102973938
+farkas SNARC_only DC 2 num_delete 0.576533794403
+farkas SNARC_only DC 8 num_delete 0.465942144394
+farkas SNARC_only DC 5 lctrl 0.498187065125
+farkas SNARC_only DC 7 lctrl 0.825640916824
+farkas SNARC_only DC 1 lctrl 0.993244171143
+farkas SNARC_only DC 9 num_delete 0.391982078552
+farkas SNARC_only DC 5 lctrl 0.44907784462
+farkas SNARC_only DC 1 lctrl 0.33012008667
+farkas SNARC_only DC 8 num_delete 0.440593957901
+farkas SNARC_only DC 1 lctrl 0.697355985641
+farkas SNARC_only DC 2 num_delete 0.681545972824
+farkas SNARC_only DC 2 num_delete 0.62525510788
+farkas SNARC_only DC 5 lctrl 0.69806098938
+farkas SNARC_only DC 6 num_delete 0.545609951019
+farkas SNARC_only DC 7 lctrl 0.9534471035
+farkas SNARC_only DC 1 lctrl 0.769059896469
+farkas SNARC_only DC 9 lctrl 2.79384589195
+farkas SNARC_only DC 3 lctrl 0.449130058289
+farkas SNARC_only DC 8 num_delete 0.409602880478
+farkas SNARC_only DC 4 num_delete 0.633647918701
+farkas SNARC_only DC 7 lctrl 0.503612041473
+farkas SNARC_only DC 4 num_delete 0.649436950684
+farkas SNARC_only DC 5 lctrl 0.546087026596
+farkas SNARC_only DC 6 lctrl 0.480717897415
+farkas SNARC_only DC 2 lctrl 0.496502161026
+farkas SNARC_only DC 7 lctrl 0.608526945114
+farkas SNARC_only DC 2 lctrl 0.553203821182
+farkas SNARC_only DC 2 num_delete 0.505040168762
+farkas SNARC_only DC 8 num_delete 0.417492866516
+farkas SNARC_only DC 3 lctrl 0.401881933212
+farkas SNARC_only DC 8 num_delete 0.600797891617
+farkas SNARC_only DC 3 lctrl 0.570030927658
+farkas SNARC_only DC 8 num_delete 0.511921882629
+farkas SNARC_only DC 9 lctrl 0.434225082397
+farkas SNARC_only DC 6 num_delete 0.648302078247
+farkas SNARC_only DC 7 lctrl 0.514194965363
+farkas SNARC_only DC 9 lctrl 0.513093948364
+farkas SNARC_only DC 4 num_delete 0.450052022934
+farkas SNARC_only DC 7 lctrl 0.449585199356
+farkas SNARC_only DC 1 lctrl 0.786074876785
+farkas SNARC_only DC 6 num_delete 0.632896900177
+farkas SNARC_only DC 4 num_delete 0.616796016693
+farkas SNARC_only DC 7 lctrl 0.498033046722
+farkas SNARC_only DC 6 num_delete 0.576708078384
+farkas SNARC_only DC 9 num_delete 0.488934993744
+farkas SNARC_only DC 6 lctrl 0.466091156006
+farkas SNARC_only DC 4 num_delete 0.376311063766
+farkas SNARC_only DC 4 num_delete 0.401600837708
+farkas SNARC_only DC 8 num_delete 0.417342185974
+farkas SNARC_only DC 3 lctrl 0.578712940216
+farkas SNARC_only DC 1 lctrl 0.545886039734
+farkas SNARC_only DC 3 lctrl 0.570099115372
+farkas SNARC_only DC 1 lctrl 0.472496986389
+farkas SNARC_only DC 6 num_delete 0.657649993896
+farkas SNARC_only DC 5 lctrl 0.512335062027
+farkas SNARC_only DC 8 num_delete 0.553185939789
+farkas SNARC_only DC 4 lctrl 0.705203056335
+farkas SNARC_only DC 4 num_delete 0.377782821655
+farkas SNARC_only DC 1 lctrl 0.472943067551
+farkas SNARC_only DC 8 num_delete 0.422379970551
+farkas SNARC_only DC 4 num_delete 0.458009004593
+farkas SNARC_only DC 2 num_delete 0.88104891777
+farkas SNARC_only DC 7 lctrl 5.10639190674
+farkas SNARC_only DC 1 lctrl 0.456763029099
+farkas SNARC_only DC 2 num_delete 0.785067081451
+farkas SNARC_only DC 1 lctrl 0.625758171082
+farkas SNARC_only DC 5 num_delete 0.490000009537
+farkas SNARC_only DC 1 lctrl 0.44867682457
+farkas SNARC_only DC 5 lctrl 0.457090139389
+farkas SNARC_only DC 4 num_delete 0.433161973953
+farkas SNARC_only DC 2 num_delete 0.433954000473
+farkas SNARC_only DC 6 num_delete 0.392721891403
+farkas SNARC_only DC 4 num_delete 0.377520084381
+farkas SNARC_only DC 2 num_delete 0.394593954086
+farkas SNARC_only DC 2 num_delete 0.353305101395
+farkas SNARC_only DC 8 num_delete 0.393229961395
+farkas SNARC_only DC 3 lctrl 0.458353042603
+farkas SNARC_only DC 6 num_delete 0.696040868759
+farkas SNARC_only DC 8 num_delete 0.449220895767
+farkas SNARC_only DC 1 lctrl 0.458159923553
+farkas SNARC_only DC 5 lctrl 0.536837100983
+farkas SNARC_only DC 7 num_delete 0.505382061005
+farkas SNARC_only DC 5 lctrl 0.458009004593
+farkas SNARC_only DC 5 lctrl 0.385948181152
+farkas SNARC_only DC 9 lctrl 0.55980682373
+farkas SNARC_only DC 2 lctrl 0.360585927963
+farkas SNARC_only DC 2 lctrl 0.345232963562
+farkas SNARC_only DC 6 num_delete 0.336536884308
+farkas SNARC_only DC 6 num_delete 0.305189847946
+farkas SNARC_only DC 4 lctrl 0.320770025253
+farkas SNARC_only DC 9 num_delete 0.449357032776
+farkas SNARC_only DC 1 lctrl 0.336799860001
+farkas SNARC_only DC 5 lctrl 0.322406053543
+farkas SNARC_only DC 6 lctrl 0.361174106598
+farkas SNARC_only DC 3 num_delete 0.424501180649
+farkas SNARC_only DC 1 lctrl 0.360851049423
+farkas SNARC_only DC 3 lctrl 0.616807937622
+farkas SNARC_only DC 6 num_delete 0.352499008179
+farkas SNARC_only DC 8 num_delete 0.338155984879
+farkas SNARC_only DC 5 lctrl 0.466040849686
+farkas SNARC_only DC 9 lctrl 0.505687952042
+farkas SNARC_only DC 6 num_delete 0.440812110901
+farkas SNARC_only DC 8 num_delete 0.440369129181
+farkas SNARC_only DC 9 lctrl 0.706390142441
+farkas SNARC_only DC 7 lctrl 0.601176023483
+farkas SNARC_only DC 3 lctrl 0.489113092422
+farkas SNARC_only DC 8 lctrl 0.489374876022
+farkas SNARC_only DC 2 num_delete 0.464763879776
+farkas SNARC_only DC 7 lctrl 0.482096910477
+farkas SNARC_only DC 2 lctrl 0.474202871323
+farkas SNARC_only DC 2 num_delete 0.360494852066
+farkas SNARC_only DC 5 lctrl 4.13817000389
+farkas SNARC_only DC 7 lctrl 0.449413061142
+farkas SNARC_only DC 5 lctrl 0.504329204559
+farkas SNARC_only DC 9 lctrl 0.513425111771
+farkas SNARC_only DC 3 lctrl 0.481781959534
+farkas SNARC_only DC 2 num_delete 0.617250204086
+farkas SNARC_only DC 9 lctrl 0.545592784882
+farkas SNARC_only DC 9 lctrl 0.392897129059
+farkas SNARC_only DC 8 num_delete 0.496128082275
+farkas SNARC_only DC 2 num_delete 0.577821969986
+farkas SNARC_only DC 3 lctrl 0.545483112335
+farkas SNARC_only DC 5 lctrl 0.528476953506
+farkas SNARC_only DC 2 num_delete 0.55982208252
+farkas SNARC_only DC 5 lctrl 0.554265022278
+farkas SNARC_only DC 1 lctrl 0.561046123505
+farkas SNARC_only DC 8 num_delete 0.729482889175
+farkas SNARC_only DC 8 num_delete 0.401166915894
+farkas SNARC_only DC 2 num_delete 0.577697992325
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'farkas', 'dateStr': u'05_18_1653'}
+farkas resp_prep 0.1 green q 0.709054946899
+farkas resp_prep 0.6 green q 2.26468682289
+farkas resp_prep 0.1 green q 0.444446802139
+farkas resp_prep 0.3 green q 0.460973024368
+farkas resp_prep 0.3 green q 0.404668092728
+farkas resp_prep 1.0 green q 0.520038127899
+farkas resp_prep 0.3 green q 0.356424808502
+farkas resp_prep 0.8 green q 0.304751873016
+farkas resp_prep 0.3 red p 0.468493938446
+farkas resp_prep 0.8 green q 0.497237205505
+farkas resp_prep 0.3 green q 0.429033994675
+farkas resp_prep 0.6 green q 0.343901157379
+farkas resp_prep 0.6 green q 0.528433799744
+farkas resp_prep 0.8 red p 0.368943929672
+farkas resp_prep 0.1 green q 0.50102186203
+farkas resp_prep 0.3 red p 0.444582939148
+farkas resp_prep 0.8 red p 0.368319034576
+farkas resp_prep 0.6 red p 0.296154022217
+farkas resp_prep 0.1 red p 0.437228918076
+farkas resp_prep 0.8 green q 0.528409957886
+farkas resp_prep 0.6 red p 0.296941041946
+farkas resp_prep 0.8 red p 0.335667848587
+farkas resp_prep 1.0 red p 0.328366041183
+farkas resp_prep 0.3 green q 1.00503277779
+farkas resp_prep 0.8 red p 0.392602920532
+farkas resp_prep 0.3 green q 0.580586910248
+farkas resp_prep 0.1 green q 0.468837022781
+farkas resp_prep 0.6 red p 0.265134811401
+farkas resp_prep 1.0 green q 0.408928871155
+farkas resp_prep 1.0 red p 0.432602882385
+farkas resp_prep 0.1 red p 0.437594175339
+farkas resp_prep 1.0 red p 0.303951025009
+farkas resp_prep 0.1 green q 0.492134094238
+farkas resp_prep 0.8 green q 0.29606294632
+farkas resp_prep 0.8 red p 0.248356103897
+farkas resp_prep 0.6 red p 0.329190015793
+farkas resp_prep 0.6 red p 0.328145027161
+farkas resp_prep 0.1 green q 0.476773023605
+farkas resp_prep 1.0 green q 0.368839025497
+farkas resp_prep 0.3 green q 0.30776309967
+farkas resp_prep 0.8 green q 0.289081811905
+farkas resp_prep 0.3 green q 0.380057811737
+farkas resp_prep 0.1 green q 0.340775966644
+farkas resp_prep 0.3 red p 0.300958871841
+farkas resp_prep 1.0 green q 0.641041040421
+farkas resp_prep 0.6 red p 0.4484770298
+farkas resp_prep 1.0 green q 0.495579957962
+farkas resp_prep 0.6 green p 0.368613958359
+farkas resp_prep 0.6 green q 0.808875083923
+farkas resp_prep 0.3 red p 0.348886013031
+farkas resp_prep 1.0 green q 0.496020078659
+farkas resp_prep 1.0 red p 0.311753034592
+farkas resp_prep 0.8 red p 0.352133989334
+farkas resp_prep 1.0 red p 0.296702861786
+farkas resp_prep 0.1 red p 0.388110876083
+farkas resp_prep 0.6 green q 0.376145124435
+farkas resp_prep 0.8 green q 0.448639154434
+farkas resp_prep 0.6 green q 0.336889982224
+farkas resp_prep 0.3 red p 0.404495000839
+farkas resp_prep 0.8 red p 0.688365936279
+farkas resp_prep 1.0 red p 0.287993907928
+farkas resp_prep 0.6 red p 0.296892881393
+farkas resp_prep 0.3 red p 0.309906959534
+farkas resp_prep 0.1 red p 0.340327978134
+farkas resp_prep 0.1 red p 0.325371026993
+farkas resp_prep 1.0 red q 0.255369186401
+farkas resp_prep 0.6 red p 0.488923072815
+farkas resp_prep 0.3 red p 0.396859884262
+farkas resp_prep 0.8 green q 0.376190900803
+farkas resp_prep 1.0 red p 0.383888959885
+farkas resp_prep 0.1 green q 0.581415891647
+farkas resp_prep 1.0 red p 0.344673871994
+farkas resp_prep 0.6 green q 0.528658866882
+farkas resp_prep 1.0 red p 0.296887874603
+farkas resp_prep 0.3 red p 0.316977024078
+farkas resp_prep 0.6 red p 0.240574121475
+farkas resp_prep 1.0 red p 0.289083003998
+farkas resp_prep 0.3 green q 0.468816995621
+farkas resp_prep 0.8 red p 0.264652013779
+farkas resp_prep 0.1 red p 0.3222219944
+farkas resp_prep 0.3 green p 0.284868001938
+farkas resp_prep 1.0 green q 0.528328895569
+farkas resp_prep 1.0 green q 0.488285064697
+farkas resp_prep 0.1 red p 0.484663963318
+farkas resp_prep 0.1 green q 0.492671966553
+farkas resp_prep 0.6 green q 0.66460609436
+farkas resp_prep 1.0 green q 0.592913866043
+farkas resp_prep 0.1 red p 0.52518415451
+farkas resp_prep 0.6 red p 0.543937921524
+farkas resp_prep 0.3 red p 0.397238969803
+farkas resp_prep 0.6 red p 0.464496135712
+farkas resp_prep 0.8 red p 0.368361949921
+farkas resp_prep 0.8 green q 0.328346967697
+farkas resp_prep 0.1 red p 0.532968997955
+farkas resp_prep 0.1 green q 0.404888153076
+farkas resp_prep 0.6 green q 0.448610067368
+farkas resp_prep 0.3 red p 0.43652510643
+farkas resp_prep 0.8 red p 0.280839920044
+farkas resp_prep 0.6 green q 0.479699134827
+farkas resp_prep 0.1 green p 0.380872011185
+farkas resp_prep 0.8 red p 0.296612977982
+farkas resp_prep 0.3 green q 0.323239088058
+farkas resp_prep 0.8 green q 0.4476749897
+farkas resp_prep 0.8 green q 0.392502069473
+farkas resp_prep 1.0 red p 0.303947925568
+farkas resp_prep 0.1 red p 0.332695960999
+farkas resp_prep 0.8 red p 0.296793937683
+farkas resp_prep 0.1 green q 0.48545384407
+farkas resp_prep 0.3 red p 0.508756875992
+farkas resp_prep 0.1 red p 0.349318027496
+farkas resp_prep 1.0 red p 0.280068874359
+farkas resp_prep 0.1 red p 0.325291872025
+farkas resp_prep 0.1 red p 0.316457986832
+farkas resp_prep 1.0 green q 0.343816041946
+farkas resp_prep 0.1 green q 0.388610839844
+farkas resp_prep 0.6 green p 0.384960889816
+farkas resp_prep 1.0 green q 0.448158025742
+farkas resp_prep 1.0 green q 0.47226190567
+farkas resp_prep 0.8 red p 0.336329936981
+farkas resp_prep 0.8 red p 0.392518997192
+farkas resp_prep 1.0 green q 0.320192098618
+farkas resp_prep 0.8 green p 0.328327894211
+farkas resp_prep 0.6 red p 0.296576976776
+farkas resp_prep 0.6 green q 0.320976018906
+farkas resp_prep 0.6 green q 0.28125
+farkas resp_prep 0.8 green q 0.27237200737
+farkas resp_prep 0.3 red p 0.629516839981
+farkas resp_prep 1.0 red p 0.304061889648
+farkas resp_prep 0.3 red p 0.365005016327
+farkas resp_prep 1.0 green p 0.248894929886
+farkas resp_prep 0.1 green q 0.516554832458
+farkas resp_prep 0.8 green q 0.360784053802
+farkas resp_prep 1.0 green q 0.360607147217
+farkas resp_prep 0.3 green q 0.356354951859
+farkas resp_prep 0.6 red p 0.329431056976
+farkas resp_prep 0.1 red p 0.388575792313
+farkas resp_prep 0.8 green q 0.488552093506
+farkas resp_prep 0.8 green q 0.303603172302
+farkas resp_prep 0.3 green q 0.364915847778
+farkas resp_prep 0.3 red p 0.41176700592
+farkas resp_prep 0.3 green p 0.324740886688
+farkas resp_prep 0.6 red p 0.336536884308
+farkas resp_prep 0.6 red p 0.416851997375
+farkas resp_prep 0.8 red p 0.304702997208
+farkas resp_prep 0.1 red p 0.380825042725
+farkas resp_prep 0.6 green q 0.360634088516
+farkas resp_prep 0.1 green q 0.428709030151
+farkas resp_prep 0.3 green q 0.316161870956
+farkas resp_prep 0.3 red p 0.41967010498
+farkas resp_prep 1.0 red p 0.37677192688

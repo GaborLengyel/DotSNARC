@@ -1,0 +1,2166 @@
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'CD', 'dateStr': '12_09_0810', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'wean', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+wean SNARC color dot CD 0 down 30 comma 1.57770933224
+wean SNARC color dot CD 0 down 35 num_decimal 5.96402461805
+wean SNARC color dot CD 0 down 25 num_decimal 0.503469476919
+wean SNARC color dot CD 0 down 30 num_decimal 0.405110225167
+wean SNARC color dot CD 0 up 45 lctrl 0.646369973277
+wean SNARC color dot CD 0 down 15 num_decimal 0.615626578657
+wean SNARC color dot CD 0 up 35 lctrl 0.448514216136
+wean SNARC color dot CD 0 up 45 lctrl 0.614787214104
+wean SNARC color dot CD 0 up 30 lctrl 0.432209443332
+wean SNARC color dot CD 0 down 20 num_decimal 0.496676674912
+wean SNARC color dot CD 0 up 45 lctrl 0.462436496874
+wean SNARC color dot CD 0 up 40 lctrl 0.382194486818
+wean SNARC color dot CD 0 down 40 num_decimal 0.400595654047
+wean SNARC color dot CD 0 up 5 lctrl 0.490679484999
+wean SNARC color dot CD 0 down 10 num_decimal 0.521999729418
+wean SNARC color dot CD 0 down 40 num_decimal 0.415257072073
+wean SNARC color dot CD 0 up 35 lctrl 0.416147636312
+wean SNARC color dot CD 0 up 10 lctrl 0.537961619474
+wean SNARC color dot CD 0 up 10 lctrl 0.406957758087
+wean SNARC color dot CD 0 down 40 num_decimal 0.360311430625
+wean SNARC color dot CD 0 down 45 num_decimal 0.41137954917
+wean SNARC color dot CD 0 down 5 num_decimal 0.438352785077
+wean SNARC color dot CD 0 down 10 num_decimal 0.399459021012
+wean SNARC color dot CD 0 down 40 num_decimal 0.433423031046
+wean SNARC color dot CD 0 down 15 num_decimal 0.393541578489
+wean SNARC color dot CD 0 down 40 num_decimal 0.452233485464
+wean SNARC color dot CD 0 up 25 lctrl 0.388266459303
+wean SNARC color dot CD 0 down 45 num_decimal 0.701882534887
+wean SNARC color dot CD 0 down 5 num_decimal 0.44442972238
+wean SNARC color dot CD 0 down 15 num_decimal 0.389270593755
+wean SNARC color dot CD 0 down 25 num_decimal 0.398882171214
+wean SNARC color dot CD 0 down 35 num_decimal 0.471913093342
+wean SNARC color dot CD 0 up 35 lctrl 0.49453714863
+wean SNARC color dot CD 0 down 30 num_decimal 0.421260157708
+wean SNARC color dot CD 0 down 35 num_decimal 0.39821564439
+wean SNARC color dot CD 0 down 5 num_decimal 0.376977393942
+wean SNARC color dot CD 0 down 5 num_decimal 0.364846171319
+wean SNARC color dot CD 0 up 5 lctrl 0.376785317543
+wean SNARC color dot CD 0 up 10 lctrl 0.556660055184
+wean SNARC color dot CD 0 up 15 lctrl 0.793129684771
+wean SNARC color dot CD 0 up 30 lctrl 0.451289859731
+wean SNARC color dot CD 0 down 35 num_decimal 0.507189366849
+wean SNARC color dot CD 0 up 20 lctrl 0.376715810091
+wean SNARC color dot CD 0 down 15 num_decimal 0.460676158571
+wean SNARC color dot CD 0 down 45 num_decimal 0.659389588032
+wean SNARC color dot CD 0 down 5 num_decimal 0.41216305952
+wean SNARC color dot CD 0 up 30 lctrl 0.461634989059
+wean SNARC color dot CD 0 up 20 lctrl 0.365651092446
+wean SNARC color dot CD 0 up 5 lctrl 0.481362383311
+wean SNARC color dot CD 0 up 30 lctrl 0.446971088623
+wean SNARC color dot CD 0 up 40 lctrl 0.45577091833
+wean SNARC color dot CD 0 down 25 num_decimal 0.3915925771
+wean SNARC color dot CD 0 down 35 num_decimal 0.37013897767
+wean SNARC color dot CD 0 up 30 lctrl 0.397580768281
+wean SNARC color dot CD 0 up 5 lctrl 0.399763116118
+wean SNARC color dot CD 0 up 25 lctrl 0.457639241425
+wean SNARC color dot CD 0 up 30 lctrl 0.393561748063
+wean SNARC color dot CD 0 down 15 num_decimal 0.420974060067
+wean SNARC color dot CD 0 up 20 lctrl 0.367016417412
+wean SNARC color dot CD 0 up 20 lctrl 0.393977241274
+wean SNARC color dot CD 0 up 5 lctrl 0.364804901268
+wean SNARC color dot CD 0 up 5 lctrl 0.32895363977
+wean SNARC color dot CD 0 up 30 lctrl 0.374424856858
+wean SNARC color dot CD 0 up 40 lctrl 0.36916308062
+wean SNARC color dot CD 0 up 45 lctrl 0.339834038544
+wean SNARC color dot CD 0 up 40 lctrl 0.328532250837
+wean SNARC color dot CD 0 up 35 lctrl 0.333065129724
+wean SNARC color dot CD 0 down 10 num_decimal 0.418102533423
+wean SNARC color dot CD 0 up 10 lctrl 0.363748325925
+wean SNARC color dot CD 0 up 5 lctrl 0.840327417339
+wean SNARC color dot CD 0 up 10 lctrl 0.377715290026
+wean SNARC color dot CD 0 down 25 num_decimal 0.389145852701
+wean SNARC color dot CD 0 up 5 lctrl 0.359995544076
+wean SNARC color dot CD 0 up 5 lctrl 0.459637270393
+wean SNARC color dot CD 0 up 35 lctrl 0.403120264029
+wean SNARC color dot CD 0 down 35 num_decimal 0.380882533646
+wean SNARC color dot CD 0 down 5 num_decimal 0.367915670083
+wean SNARC color dot CD 0 down 20 num_decimal 0.324002164661
+wean SNARC color dot CD 0 up 30 lctrl 0.352242980678
+wean SNARC color dot CD 0 down 25 num_decimal 0.500018618068
+wean SNARC color dot CD 0 down 15 num_decimal 0.321582126159
+wean SNARC color dot CD 0 down 45 num_decimal 0.334270649609
+wean SNARC color dot CD 0 down 30 num_decimal 0.3388869995
+wean SNARC color dot CD 0 up 15 lctrl 0.384217029574
+wean SNARC color dot CD 0 down 45 num_decimal 0.393014066571
+wean SNARC color dot CD 0 up 20 lctrl 0.419296882467
+wean SNARC color dot CD 0 up 30 lctrl 0.308629536447
+wean SNARC color dot CD 0 up 15 lctrl 0.323022543997
+wean SNARC color dot CD 0 down 10 num_decimal 0.376906955586
+wean SNARC color dot CD 0 down 15 num_decimal 0.380865467084
+wean SNARC color dot CD 0 up 25 lctrl 0.366600924201
+wean SNARC color dot CD 0 up 45 lctrl 0.377196156238
+wean SNARC color dot CD 0 up 20 lctrl 0.357300268472
+wean SNARC color dot CD 0 up 5 lctrl 0.345958762221
+wean SNARC color dot CD 0 up 15 lctrl 0.406154698766
+wean SNARC color dot CD 0 down 45 num_decimal 0.352060833916
+wean SNARC color dot CD 0 down 25 num_decimal 0.300111460165
+wean SNARC color dot CD 0 down 10 num_decimal 0.371098428759
+wean SNARC color dot CD 0 down 5 num_decimal 0.326684717918
+wean SNARC color dot CD 0 down 5 num_decimal 0.37255032774
+wean SNARC color dot CD 0 down 35 num_decimal 0.57591827413
+wean SNARC color dot CD 0 up 5 lctrl 0.395872250266
+wean SNARC color dot CD 0 down 45 num_decimal 0.389402782036
+wean SNARC color dot CD 0 down 30 num_decimal 1.3680847842
+wean SNARC color dot CD 0 down 20 num_decimal 0.412238462694
+wean SNARC color dot CD 0 up 20 lctrl 0.469746260561
+wean SNARC color dot CD 0 up 5 lctrl 0.389171607695
+wean SNARC color dot CD 0 up 25 lctrl 0.504043844308
+wean SNARC color dot CD 0 down 5 num_decimal 0.390845992585
+wean SNARC color dot CD 0 down 25 num_decimal 0.552463853022
+wean SNARC color dot CD 0 up 15 lctrl 0.373112283084
+wean SNARC color dot CD 0 up 45 lctrl 0.311648456128
+wean SNARC color dot CD 0 up 45 lctrl 0.324638592276
+wean SNARC color dot CD 0 down 10 num_decimal 0.377640197153
+wean SNARC color dot CD 0 up 20 lctrl 0.372600286222
+wean SNARC color dot CD 0 down 35 num_decimal 0.503953236379
+wean SNARC color dot CD 0 down 20 num_decimal 0.405669387801
+wean SNARC color dot CD 0 up 25 lctrl 0.367324856734
+wean SNARC color dot CD 0 down 35 num_decimal 0.418292748014
+wean SNARC color dot CD 0 up 15 lctrl 0.428076232299
+wean SNARC color dot CD 0 up 35 lctrl 0.413185501738
+wean SNARC color dot CD 0 up 45 lctrl 0.366344615469
+wean SNARC color dot CD 0 down 15 num_decimal 0.54617280794
+wean SNARC color dot CD 0 up 35 lctrl 0.437832099783
+wean SNARC color dot CD 0 up 5 lctrl 0.374569457184
+wean SNARC color dot CD 0 up 45 lctrl 0.305067279491
+wean SNARC color dot CD 0 down 5 num_decimal 0.367247902054
+wean SNARC color dot CD 0 down 10 num_decimal 0.371134113389
+wean SNARC color dot CD 0 up 30 lctrl 0.40618883189
+wean SNARC color dot CD 0 down 15 num_decimal 0.37678717935
+wean SNARC color dot CD 0 up 35 lctrl 0.412128305793
+wean SNARC color dot CD 0 down 20 num_decimal 0.389833790304
+wean SNARC color dot CD 0 down 5 num_decimal 0.433225369227
+wean SNARC color dot CD 0 down 15 num_decimal 0.378084548369
+wean SNARC color dot CD 0 down 10 num_decimal 0.389690120881
+wean SNARC color dot CD 0 down 45 num_decimal 0.383471065661
+wean SNARC color dot CD 0 up 40 lctrl 0.290128762556
+wean SNARC color dot CD 0 up 15 lctrl 0.337179102088
+wean SNARC color dot CD 0 down 40 num_decimal 0.365619752032
+wean SNARC color dot CD 0 down 35 num_decimal 0.384058465698
+wean SNARC color dot CD 0 up 30 lctrl 0.362121106807
+wean SNARC color dot CD 0 up 45 lctrl 0.389009320205
+wean SNARC color dot CD 0 down 20 num_decimal 0.399312248579
+wean SNARC color dot CD 0 down 45 num_decimal 0.528341353583
+wean SNARC color dot CD 0 up 10 lctrl 0.398225574026
+wean SNARC color dot CD 0 up 10 lctrl 0.400799832189
+wean SNARC color dot CD 0 up 30 lctrl 0.322759718942
+wean SNARC color dot CD 0 up 20 lctrl 0.360504437927
+wean SNARC color dot CD 0 up 20 lctrl 0.325247092789
+wean SNARC color dot CD 0 down 30 num_decimal 0.329939156155
+wean SNARC color dot CD 0 down 45 num_decimal 0.382536748963
+wean SNARC color dot CD 0 up 40 lctrl 0.377280558145
+wean SNARC color dot CD 0 down 40 num_decimal 0.372641245971
+wean SNARC color dot CD 0 down 20 num_decimal 0.336211272868
+wean SNARC color dot CD 0 down 25 num_decimal 0.355947045251
+wean SNARC color dot CD 0 down 20 num_decimal 0.320129296274
+wean SNARC color dot CD 0 down 45 num_decimal 0.324563499403
+wean SNARC color dot CD 0 up 45 lctrl 0.303633377975
+wean SNARC color dot CD 0 down 40 num_decimal 0.365748837302
+wean SNARC color dot CD 0 up 45 lctrl 0.367236110611
+wean SNARC color dot CD 0 down 40 num_decimal 0.386251363773
+wean SNARC color dot CD 0 down 40 num_decimal 0.380548649631
+wean SNARC color dot CD 0 down 35 num_decimal 0.27978952895
+wean SNARC color dot CD 0 up 15 lctrl 0.367713043446
+wean SNARC color dot CD 0 down 10 num_decimal 0.387734292867
+wean SNARC color dot CD 0 up 45 lctrl 0.765678274825
+wean SNARC color dot CD 0 up 30 lctrl 0.368905220382
+wean SNARC color dot CD 0 down 45 num_decimal 0.363097314158
+wean SNARC color dot CD 0 down 5 num_decimal 0.367998520484
+wean SNARC color dot CD 0 up 25 lctrl 0.371116115924
+wean SNARC color dot CD 0 down 40 num_decimal 0.342555069141
+wean SNARC color dot CD 0 down 5 num_decimal 0.379461354477
+wean SNARC color dot CD 0 up 45 lctrl 0.333980828355
+wean SNARC color dot CD 0 down 25 num_decimal 0.538534745659
+wean SNARC color dot CD 0 down 15 num_decimal 0.367402432016
+wean SNARC color dot CD 0 down 30 num_decimal 0.306076689062
+wean SNARC color dot CD 0 up 10 lctrl 0.49692615702
+wean SNARC color dot CD 0 up 10 lctrl 0.576183581595
+wean SNARC color dot CD 0 up 25 lctrl 0.363358587708
+wean SNARC color dot CD 0 up 30 lctrl 0.319221355172
+wean SNARC color dot CD 0 down 25 num_decimal 0.388572726517
+wean SNARC color dot CD 0 down 30 num_decimal 0.319235939325
+wean SNARC color dot CD 0 down 40 num_decimal 0.347235030763
+wean SNARC color dot CD 0 down 40 num_decimal 0.28802088699
+wean SNARC color dot CD 0 up 45 lctrl 0.445812113908
+wean SNARC color dot CD 0 down 40 num_decimal 0.686358479723
+wean SNARC color dot CD 0 up 5 lctrl 0.429580261869
+wean SNARC color dot CD 0 up 25 lctrl 0.614084382048
+wean SNARC color dot CD 0 up 20 lctrl 0.367910084663
+wean SNARC color dot CD 0 down 20 num_decimal 0.395210998561
+wean SNARC color dot CD 0 up 25 lctrl 0.348964338953
+wean SNARC color dot CD 0 up 20 lctrl 0.376393717519
+wean SNARC color dot CD 0 up 10 lctrl 0.275857082747
+wean SNARC color dot CD 0 down 35 num_decimal 0.354341857512
+wean SNARC color dot CD 0 up 35 lctrl 0.34216967514
+wean SNARC color dot CD 0 down 20 num_decimal 0.395283919327
+wean SNARC color dot CD 0 down 35 num_decimal 0.388821588022
+wean SNARC color dot CD 0 down 5 num_decimal 0.431228271163
+wean SNARC color dot CD 0 down 15 num_decimal 0.399459021012
+wean SNARC color dot CD 0 down 20 num_decimal 0.361172826558
+wean SNARC color dot CD 0 up 40 lctrl 0.300598322636
+wean SNARC color dot CD 0 down 10 num_decimal 0.355392537134
+wean SNARC color dot CD 0 down 20 num_decimal 0.295992212683
+wean SNARC color dot CD 0 up 40 lctrl 0.374654479693
+wean SNARC color dot CD 0 down 25 num_decimal 0.385152897778
+wean SNARC color dot CD 0 up 25 lctrl 0.458827384447
+wean SNARC color dot CD 0 up 20 lctrl 0.39507322486
+wean SNARC color dot CD 0 up 25 lctrl 0.284599506746
+wean SNARC color dot CD 0 up 20 lctrl 0.322614498013
+wean SNARC color dot CD 0 down 15 num_decimal 0.384538811845
+wean SNARC color dot CD 0 down 10 num_decimal 0.323815673682
+wean SNARC color dot CD 0 up 20 lctrl 0.368401291349
+wean SNARC color dot CD 0 up 45 lctrl 0.361683582215
+wean SNARC color dot CD 0 up 20 lctrl 0.398385068806
+wean SNARC color dot CD 0 up 35 lctrl 0.367978350911
+wean SNARC color dot CD 0 up 25 lctrl 0.354958736156
+wean SNARC color dot CD 0 up 35 lctrl 0.366352372997
+wean SNARC color dot CD 0 up 45 lctrl 0.352321486864
+wean SNARC color dot CD 0 down 30 num_decimal 0.356262311197
+wean SNARC color dot CD 0 up 35 lctrl 0.352205434242
+wean SNARC color dot CD 0 up 30 lctrl 0.396073946
+wean SNARC color dot CD 0 down 5 num_decimal 0.374904892704
+wean SNARC color dot CD 0 up 35 lctrl 0.345566231294
+wean SNARC color dot CD 0 up 40 lctrl 0.300982165132
+wean SNARC color dot CD 0 up 15 lctrl 0.324176243594
+wean SNARC color dot CD 0 down 35 num_decimal 0.369150358274
+wean SNARC color dot CD 0 up 30 lctrl 0.475803338592
+wean SNARC color dot CD 0 up 5 lctrl 0.411533148228
+wean SNARC color dot CD 0 down 30 num_decimal 0.381291200232
+wean SNARC color dot CD 0 up 20 lctrl 0.528333906356
+wean SNARC color dot CD 0 down 15 num_decimal 0.365499975796
+wean SNARC color dot CD 0 down 10 num_decimal 0.433284947044
+wean SNARC color dot CD 0 down 15 num_decimal 0.298236931047
+wean SNARC color dot CD 0 down 30 num_decimal 0.383884076463
+wean SNARC color dot CD 0 down 40 num_decimal 0.298176422327
+wean SNARC color dot CD 0 up 25 lctrl 0.351441783164
+wean SNARC color dot CD 0 down 5 num_decimal 0.572275959482
+wean SNARC color dot CD 0 up 5 lctrl 0.463915702354
+wean SNARC color dot CD 0 up 35 lctrl 0.423732637101
+wean SNARC color dot CD 0 up 10 lctrl 0.369966450242
+wean SNARC color dot CD 0 down 40 num_decimal 0.381321299442
+wean SNARC color dot CD 0 down 25 num_decimal 0.303513291439
+wean SNARC color dot CD 0 up 20 lctrl 0.365176642021
+wean SNARC color dot CD 0 down 25 num_decimal 0.45613397065
+wean SNARC color dot CD 0 up 35 lctrl 0.36771955977
+wean SNARC color dot CD 0 down 15 num_decimal 0.403378744869
+wean SNARC color dot CD 0 down 5 num_decimal 0.357302130279
+wean SNARC color dot CD 0 down 40 num_decimal 0.312970649237
+wean SNARC color dot CD 0 up 25 lctrl 0.398294150576
+wean SNARC color dot CD 0 up 45 lctrl 0.310776820257
+wean SNARC color dot CD 0 up 5 lctrl 0.366249353022
+wean SNARC color dot CD 0 up 10 lctrl 0.282179778544
+wean SNARC color dot CD 0 down 25 num_decimal 0.320758586963
+wean SNARC color dot CD 0 up 20 lctrl 0.381673180922
+wean SNARC color dot CD 0 up 35 lctrl 0.328259806447
+wean SNARC color dot CD 0 down 25 num_decimal 0.349208856243
+wean SNARC color dot CD 0 up 40 lctrl 0.472534316202
+wean SNARC color dot CD 0 down 10 num_decimal 0.384134179173
+wean SNARC color dot CD 0 up 15 lctrl 0.394966791573
+wean SNARC color dot CD 0 down 25 num_decimal 0.404860122457
+wean SNARC color dot CD 0 up 30 lctrl 0.382653422187
+wean SNARC color dot CD 0 up 15 lctrl 0.46569900294
+wean SNARC color dot CD 0 down 20 num_decimal 0.384547810577
+wean SNARC color dot CD 0 down 15 num_decimal 0.355436289593
+wean SNARC color dot CD 0 down 5 num_decimal 0.35145978063
+wean SNARC color dot CD 0 up 30 lctrl 0.37133798123
+wean SNARC color dot CD 0 down 10 num_decimal 0.37536289717
+wean SNARC color dot CD 0 down 5 num_decimal 0.611259090272
+wean SNARC color dot CD 0 up 10 lctrl 0.38096600465
+wean SNARC color dot CD 0 up 45 lctrl 0.31086835909
+wean SNARC color dot CD 0 down 45 num_decimal 0.379522173498
+wean SNARC color dot CD 0 up 25 lctrl 0.366772210424
+wean SNARC color dot CD 0 up 25 lctrl 0.266048774373
+wean SNARC color dot CD 0 down 40 num_decimal 0.392670563221
+wean SNARC color dot CD 0 down 45 num_decimal 0.290584594914
+wean SNARC color dot CD 0 up 25 lctrl 0.353204914177
+wean SNARC color dot CD 0 down 5 num_decimal 0.413553829178
+wean SNARC color dot CD 0 up 20 lctrl 0.38335811605
+wean SNARC color dot CD 0 down 30 num_decimal 0.337408724923
+wean SNARC color dot CD 0 up 20 lctrl 0.294390438257
+wean SNARC color dot CD 0 up 40 lctrl 0.364673023289
+wean SNARC color dot CD 0 up 15 lctrl 0.272346646079
+wean SNARC color dot CD 0 up 10 lctrl 0.264334981239
+wean SNARC color dot CD 0 up 15 lctrl 0.32023541926
+wean SNARC color dot CD 0 up 15 lctrl 0.374130381087
+wean SNARC color dot CD 0 up 25 lctrl 0.33748754141
+wean SNARC color dot CD 0 down 30 num_decimal 0.374211990284
+wean SNARC color dot CD 0 up 40 lctrl 0.336657796192
+wean SNARC color dot CD 0 down 35 num_decimal 0.373558806408
+wean SNARC color dot CD 0 up 40 lctrl 0.391679151115
+wean SNARC color dot CD 0 down 35 num_decimal 0.530331625022
+wean SNARC color dot CD 0 down 30 num_decimal 0.359656695243
+wean SNARC color dot CD 0 up 20 lctrl 0.388320141398
+wean SNARC color dot CD 0 up 15 lctrl 0.383698516388
+wean SNARC color dot CD 0 up 10 lctrl 0.331068962564
+wean SNARC color dot CD 0 down 35 num_decimal 0.44767671339
+wean SNARC color dot CD 0 down 15 num_decimal 0.336290709957
+wean SNARC color dot CD 0 up 20 lctrl 0.437427467111
+wean SNARC color dot CD 0 up 10 lctrl 0.406247168502
+wean SNARC color dot CD 0 down 15 num_decimal 0.384894106637
+wean SNARC color dot CD 0 down 5 num_decimal 0.523922665512
+wean SNARC color dot CD 0 up 45 lctrl 0.368535341437
+wean SNARC color dot CD 0 up 35 lctrl 0.355768932403
+wean SNARC color dot CD 0 up 30 lctrl 0.311650317934
+wean SNARC color dot CD 0 down 45 num_decimal 0.396665379951
+wean SNARC color dot CD 0 down 10 num_decimal 0.367757416507
+wean SNARC color dot CD 0 down 40 num_decimal 0.362598039642
+wean SNARC color dot CD 0 down 40 num_decimal 0.318474150054
+wean SNARC color dot CD 0 down 30 num_decimal 0.3314636656
+wean SNARC color dot CD 0 up 30 lctrl 0.439441321436
+wean SNARC color dot CD 0 down 10 num_decimal 0.368382983583
+wean SNARC color dot CD 0 down 45 num_decimal 0.490888938261
+wean SNARC color dot CD 0 up 10 lctrl 0.354101684439
+wean SNARC color dot CD 0 up 15 lctrl 0.318076654308
+wean SNARC color dot CD 0 up 20 lctrl 0.283033106648
+wean SNARC color dot CD 0 down 10 num_decimal 0.378111854868
+wean SNARC color dot CD 0 down 15 num_decimal 0.302022294515
+wean SNARC color dot CD 0 up 45 lctrl 0.37063390797
+wean SNARC color dot CD 0 up 35 lctrl 0.300835703
+wean SNARC color dot CD 0 down 40 num_decimal 0.386324905141
+wean SNARC color dot CD 0 down 30 num_decimal 0.299791850003
+wean SNARC color dot CD 0 up 45 lctrl 0.359769644854
+wean SNARC color dot CD 0 up 10 lctrl 0.356365641473
+wean SNARC color dot CD 0 down 15 num_decimal 0.368813060947
+wean SNARC color dot CD 0 up 35 lctrl 0.348038400385
+wean SNARC color dot CD 0 up 25 lctrl 0.319513348534
+wean SNARC color dot CD 0 down 5 num_decimal 0.365365615408
+wean SNARC color dot CD 0 up 25 lctrl 1.10439181599
+wean SNARC color dot CD 0 up 35 lctrl 0.518467261369
+wean SNARC color dot CD 0 up 40 lctrl 0.739798850396
+wean SNARC color dot CD 0 down 40 num_decimal 0.416397739022
+wean SNARC color dot CD 0 up 30 lctrl 0.457186201778
+wean SNARC color dot CD 0 up 10 lctrl 0.345799577742
+wean SNARC color dot CD 0 down 10 num_decimal 0.57474161225
+wean SNARC color dot CD 0 down 10 num_decimal 0.474554066248
+wean SNARC color dot CD 0 down 25 num_decimal 0.345345917492
+wean SNARC color dot CD 0 down 10 num_decimal 0.638397406379
+wean SNARC color dot CD 0 down 30 num_decimal 0.30205394523
+wean SNARC color dot CD 0 up 30 lctrl 0.371025197693
+wean SNARC color dot CD 0 up 5 lctrl 0.367039379696
+wean SNARC color dot CD 0 up 15 lctrl 0.402907087154
+wean SNARC color dot CD 0 down 10 num_decimal 0.413625198438
+wean SNARC color dot CD 0 down 20 num_decimal 0.383537159801
+wean SNARC color dot CD 0 down 25 num_decimal 0.306256974018
+wean SNARC color dot CD 0 down 25 lctrl 0.367537723308
+wean SNARC color dot CD 0 up 35 lctrl 0.61750514169
+wean SNARC color dot CD 0 up 40 lctrl 0.32183005676
+wean SNARC color dot CD 0 up 35 lctrl 0.318997007456
+wean SNARC color dot CD 0 down 25 num_decimal 0.396295501006
+wean SNARC color dot CD 0 down 35 num_decimal 0.366973906158
+wean SNARC color dot CD 0 down 40 num_decimal 0.354361096182
+wean SNARC color dot CD 0 up 40 lctrl 0.493611210063
+wean SNARC color dot CD 0 up 45 lctrl 0.387537561952
+wean SNARC color dot CD 0 up 15 lctrl 0.36642188045
+wean SNARC color dot CD 0 down 15 num_decimal 0.377580309035
+wean SNARC color dot CD 0 up 30 lctrl 0.628217046951
+wean SNARC color dot CD 0 down 20 num_decimal 0.454161076075
+wean SNARC color dot CD 0 up 20 lctrl 0.462853541591
+wean SNARC color dot CD 0 up 45 lctrl 0.380771445842
+wean SNARC color dot CD 0 down 40 num_decimal 0.359604254353
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'CD', 'dateStr': '12_09_0819', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'wean', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+wean SNARC color arabic CD 0 down 4 num_decimal 0.62254753503
+wean SNARC color arabic CD 0 down 7 num_decimal 0.344145362425
+wean SNARC color arabic CD 0 up 1 lctrl 0.389051210857
+wean SNARC color arabic CD 0 down 8 num_decimal 0.368135052981
+wean SNARC color arabic CD 0 up 4 lctrl 0.371966961618
+wean SNARC color arabic CD 0 down 4 num_decimal 0.376046180255
+wean SNARC color arabic CD 0 down 5 num_decimal 0.451970660408
+wean SNARC color arabic CD 0 down 9 num_decimal 0.316558661187
+wean SNARC color arabic CD 0 down 6 num_decimal 0.338584145598
+wean SNARC color arabic CD 0 up 9 lctrl 0.367740970547
+wean SNARC color arabic CD 0 down 1 num_decimal 0.459698710016
+wean SNARC color arabic CD 0 down 8 num_decimal 0.307621988683
+wean SNARC color arabic CD 0 down 1 num_decimal 0.314135829975
+wean SNARC color arabic CD 0 up 8 lctrl 0.312258818448
+wean SNARC color arabic CD 0 down 2 num_decimal 0.374868897773
+wean SNARC color arabic CD 0 down 5 num_decimal 0.354586064501
+wean SNARC color arabic CD 0 down 6 num_decimal 0.302463853021
+wean SNARC color arabic CD 0 up 3 lctrl 0.325077978674
+wean SNARC color arabic CD 0 up 6 lctrl 0.330456117835
+wean SNARC color arabic CD 0 up 9 lctrl 0.296479385455
+wean SNARC color arabic CD 0 up 1 lctrl 0.3354227977
+wean SNARC color arabic CD 0 down 7 num_decimal 0.372421552772
+wean SNARC color arabic CD 0 up 6 lctrl 0.352391304618
+wean SNARC color arabic CD 0 down 1 num_decimal 0.421109971961
+wean SNARC color arabic CD 0 down 6 num_decimal 0.32628939428
+wean SNARC color arabic CD 0 up 5 lctrl 0.348280435266
+wean SNARC color arabic CD 0 down 6 num_decimal 0.336210031663
+wean SNARC color arabic CD 0 up 8 lctrl 0.381096020822
+wean SNARC color arabic CD 0 up 6 lctrl 0.288140042623
+wean SNARC color arabic CD 0 down 2 num_decimal 0.351205333704
+wean SNARC color arabic CD 0 up 9 lctrl 0.363744602312
+wean SNARC color arabic CD 0 up 1 lctrl 0.360436792281
+wean SNARC color arabic CD 0 up 9 lctrl 0.364885889863
+wean SNARC color arabic CD 0 up 6 lctrl 0.29675586376
+wean SNARC color arabic CD 0 up 4 lctrl 0.3840867031
+wean SNARC color arabic CD 0 up 8 lctrl 0.370888665196
+wean SNARC color arabic CD 0 up 2 lctrl 0.374800321224
+wean SNARC color arabic CD 0 down 1 num_decimal 0.386818283936
+wean SNARC color arabic CD 0 down 5 num_decimal 0.285731795564
+wean SNARC color arabic CD 0 up 3 lctrl 0.356789512815
+wean SNARC color arabic CD 0 up 1 lctrl 0.352757770251
+wean SNARC color arabic CD 0 up 3 lctrl 0.340689538756
+wean SNARC color arabic CD 0 down 5 num_decimal 0.361640140057
+wean SNARC color arabic CD 0 up 4 lctrl 0.389631784269
+wean SNARC color arabic CD 0 down 6 num_decimal 0.464635290672
+wean SNARC color arabic CD 0 down 7 num_decimal 0.320400809762
+wean SNARC color arabic CD 0 up 2 lctrl 0.326391793652
+wean SNARC color arabic CD 0 up 1 lctrl 0.348419760472
+wean SNARC color arabic CD 0 up 1 lctrl 0.337033570858
+wean SNARC color arabic CD 0 down 8 num_decimal 0.350334939038
+wean SNARC color arabic CD 0 up 3 lctrl 0.370343466113
+wean SNARC color arabic CD 0 up 6 lctrl 0.414194290707
+wean SNARC color arabic CD 0 down 7 num_decimal 0.352243911582
+wean SNARC color arabic CD 0 down 5 num_decimal 0.443979785743
+wean SNARC color arabic CD 0 up 1 lctrl 0.309006242017
+wean SNARC color arabic CD 0 up 6 lctrl 0.306975631432
+wean SNARC color arabic CD 0 up 5 lctrl 0.305038731787
+wean SNARC color arabic CD 0 up 5 lctrl 0.318946428372
+wean SNARC color arabic CD 0 up 3 lctrl 0.333055820691
+wean SNARC color arabic CD 0 down 2 num_decimal 0.322052232368
+wean SNARC color arabic CD 0 down 9 num_decimal 0.287928106952
+wean SNARC color arabic CD 0 down 5 num_decimal 0.383110185448
+wean SNARC color arabic CD 0 down 5 num_decimal 0.409953715484
+wean SNARC color arabic CD 0 up 3 lctrl 0.347848185794
+wean SNARC color arabic CD 0 up 9 lctrl 0.319797584368
+wean SNARC color arabic CD 0 down 9 num_decimal 0.357697453917
+wean SNARC color arabic CD 0 down 7 num_decimal 0.314450475319
+wean SNARC color arabic CD 0 up 3 lctrl 0.368457145552
+wean SNARC color arabic CD 0 down 1 num_decimal 0.340460536523
+wean SNARC color arabic CD 0 down 3 num_decimal 0.313700787792
+wean SNARC color arabic CD 0 up 4 lctrl 0.352403716663
+wean SNARC color arabic CD 0 up 6 lctrl 0.308597575431
+wean SNARC color arabic CD 0 down 4 num_decimal 0.362713781963
+wean SNARC color arabic CD 0 down 5 num_decimal 0.287287955724
+wean SNARC color arabic CD 0 up 6 lctrl 0.302565942093
+wean SNARC color arabic CD 0 up 2 lctrl 0.268612482297
+wean SNARC color arabic CD 0 down 3 num_decimal 0.292596587432
+wean SNARC color arabic CD 0 down 1 num_decimal 0.331766519501
+wean SNARC color arabic CD 0 down 1 num_decimal 0.353059693249
+wean SNARC color arabic CD 0 down 3 num_decimal 0.277654346884
+wean SNARC color arabic CD 0 down 5 num_decimal 0.341696155617
+wean SNARC color arabic CD 0 down 9 num_decimal 0.362689578474
+wean SNARC color arabic CD 0 up 7 lctrl 0.374549597912
+wean SNARC color arabic CD 0 up 2 lctrl 0.274529304218
+wean SNARC color arabic CD 0 up 8 lctrl 0.370541438233
+wean SNARC color arabic CD 0 down 5 num_decimal 0.334579088931
+wean SNARC color arabic CD 0 down 4 num_decimal 0.347507785455
+wean SNARC color arabic CD 0 up 5 lctrl 0.432521606268
+wean SNARC color arabic CD 0 down 2 num_decimal 0.361421998364
+wean SNARC color arabic CD 0 down 6 num_decimal 0.33410867242
+wean SNARC color arabic CD 0 up 9 lctrl 0.323359531023
+wean SNARC color arabic CD 0 down 6 num_decimal 0.337373040293
+wean SNARC color arabic CD 0 up 6 lctrl 0.710137165511
+wean SNARC color arabic CD 0 up 5 lctrl 0.444920618765
+wean SNARC color arabic CD 0 down 8 num_decimal 0.365789797051
+wean SNARC color arabic CD 0 down 9 num_decimal 0.305793073831
+wean SNARC color arabic CD 0 up 2 lctrl 0.359842255318
+wean SNARC color arabic CD 0 up 6 lctrl 0.307684048908
+wean SNARC color arabic CD 0 up 3 lctrl 0.417715277614
+wean SNARC color arabic CD 0 up 7 lctrl 0.315552975229
+wean SNARC color arabic CD 0 up 3 lctrl 0.393611396243
+wean SNARC color arabic CD 0 down 4 num_decimal 0.34055052385
+wean SNARC color arabic CD 0 up 9 lctrl 0.273500345676
+wean SNARC color arabic CD 0 down 6 num_decimal 0.417574400902
+wean SNARC color arabic CD 0 up 9 lctrl 0.347325328392
+wean SNARC color arabic CD 0 down 9 num_decimal 0.344798546301
+wean SNARC color arabic CD 0 up 8 lctrl 0.381314472817
+wean SNARC color arabic CD 0 up 4 lctrl 0.336291330559
+wean SNARC color arabic CD 0 up 8 lctrl 0.285341436744
+wean SNARC color arabic CD 0 up 5 lctrl 0.268218399864
+wean SNARC color arabic CD 0 down 1 num_decimal 0.364323624218
+wean SNARC color arabic CD 0 up 2 lctrl 0.344335266716
+wean SNARC color arabic CD 0 up 3 lctrl 0.32532715048
+wean SNARC color arabic CD 0 up 2 lctrl 0.291242123006
+wean SNARC color arabic CD 0 down 9 num_decimal 0.39436387648
+wean SNARC color arabic CD 0 up 1 lctrl 0.357243483366
+wean SNARC color arabic CD 0 down 3 num_decimal 0.569284966903
+wean SNARC color arabic CD 0 down 7 num_decimal 0.3409765673
+wean SNARC color arabic CD 0 up 3 lctrl 0.337876038423
+wean SNARC color arabic CD 0 down 7 num_decimal 0.366943186346
+wean SNARC color arabic CD 0 down 6 num_decimal 0.322918282818
+wean SNARC color arabic CD 0 down 4 num_decimal 0.312904555096
+wean SNARC color arabic CD 0 down 3 num_decimal 0.350926993592
+wean SNARC color arabic CD 0 down 6 num_decimal 0.322886632103
+wean SNARC color arabic CD 0 down 5 num_decimal 0.424923572832
+wean SNARC color arabic CD 0 up 5 lctrl 0.474803238054
+wean SNARC color arabic CD 0 down 2 num_decimal 0.346589294114
+wean SNARC color arabic CD 0 up 4 lctrl 0.39949967046
+wean SNARC color arabic CD 0 up 6 lctrl 0.314071597641
+wean SNARC color arabic CD 0 down 2 num_decimal 0.336550742302
+wean SNARC color arabic CD 0 down 1 num_decimal 0.389496492977
+wean SNARC color arabic CD 0 up 8 lctrl 0.336327946092
+wean SNARC color arabic CD 0 down 5 num_decimal 0.333324541468
+wean SNARC color arabic CD 0 down 8 num_decimal 0.450317686296
+wean SNARC color arabic CD 0 down 5 num_decimal 0.315032289936
+wean SNARC color arabic CD 0 up 5 lctrl 0.417003136524
+wean SNARC color arabic CD 0 down 7 num_decimal 0.322944658414
+wean SNARC color arabic CD 0 down 4 num_decimal 0.320080268696
+wean SNARC color arabic CD 0 down 6 num_decimal 0.326134243715
+wean SNARC color arabic CD 0 up 2 lctrl 0.32400464707
+wean SNARC color arabic CD 0 up 8 lctrl 0.370060471484
+wean SNARC color arabic CD 0 down 2 num_decimal 0.358082537618
+wean SNARC color arabic CD 0 up 4 lctrl 0.409899102485
+wean SNARC color arabic CD 0 down 9 num_decimal 0.3639062692
+wean SNARC color arabic CD 0 up 2 lctrl 0.351784045309
+wean SNARC color arabic CD 0 up 2 lctrl 0.332535135397
+wean SNARC color arabic CD 0 down 8 num_decimal 0.361834388564
+wean SNARC color arabic CD 0 down 3 num_decimal 0.325863661131
+wean SNARC color arabic CD 0 down 7 num_decimal 0.251854669846
+wean SNARC color arabic CD 0 down 1 num_decimal 0.275802159448
+wean SNARC color arabic CD 0 down 1 num_decimal 0.283775036647
+wean SNARC color arabic CD 0 up 7 lctrl 0.282844133261
+wean SNARC color arabic CD 0 up 8 lctrl 0.273878913052
+wean SNARC color arabic CD 0 down 4 num_decimal 0.369932627419
+wean SNARC color arabic CD 0 down 5 num_decimal 0.32588538221
+wean SNARC color arabic CD 0 up 9 lctrl 0.355865436054
+wean SNARC color arabic CD 0 up 1 lctrl 0.312498370919
+wean SNARC color arabic CD 0 down 4 num_decimal 0.334863945367
+wean SNARC color arabic CD 0 down 5 num_decimal 0.467735509247
+wean SNARC color arabic CD 0 up 1 lctrl 0.347691794025
+wean SNARC color arabic CD 0 up 2 lctrl 0.263481653136
+wean SNARC color arabic CD 0 up 3 lctrl 0.327644169007
+wean SNARC color arabic CD 0 up 2 lctrl 0.293652852474
+wean SNARC color arabic CD 0 down 9 num_decimal 0.372689963248
+wean SNARC color arabic CD 0 down 4 num_decimal 0.280594450078
+wean SNARC color arabic CD 0 up 7 lctrl 0.376663058899
+wean SNARC color arabic CD 0 up 2 lctrl 0.35649410614
+wean SNARC color arabic CD 0 down 5 num_decimal 0.344687768798
+wean SNARC color arabic CD 0 down 5 num_decimal 0.301915550927
+wean SNARC color arabic CD 0 down 7 num_decimal 0.324652555826
+wean SNARC color arabic CD 0 down 7 num_decimal 0.306568516351
+wean SNARC color arabic CD 0 down 3 num_decimal 0.336524056405
+wean SNARC color arabic CD 0 down 6 num_decimal 0.341560864325
+wean SNARC color arabic CD 0 up 4 lctrl 0.402516107732
+wean SNARC color arabic CD 0 up 7 lctrl 0.308450182395
+wean SNARC color arabic CD 0 up 8 lctrl 0.314380657565
+wean SNARC color arabic CD 0 up 4 lctrl 0.304458158375
+wean SNARC color arabic CD 0 down 4 num_decimal 0.343103681537
+wean SNARC color arabic CD 0 down 5 num_decimal 0.244464848467
+wean SNARC color arabic CD 0 up 4 lctrl 0.365489735859
+wean SNARC color arabic CD 0 up 2 lctrl 0.297489105327
+wean SNARC color arabic CD 0 down 1 num_decimal 0.336487751173
+wean SNARC color arabic CD 0 down 2 num_decimal 0.261410703403
+wean SNARC color arabic CD 0 up 4 lctrl 0.37351257154
+wean SNARC color arabic CD 0 up 5 lctrl 0.257400992219
+wean SNARC color arabic CD 0 down 2 num_decimal 0.345502309261
+wean SNARC color arabic CD 0 down 9 num_decimal 0.286267685613
+wean SNARC color arabic CD 0 up 7 lctrl 0.317489564573
+wean SNARC color arabic CD 0 up 8 lctrl 0.379440874602
+wean SNARC color arabic CD 0 down 9 num_decimal 0.319391710492
+wean SNARC color arabic CD 0 up 9 lctrl 0.397450752108
+wean SNARC color arabic CD 0 up 9 lctrl 0.304327211299
+wean SNARC color arabic CD 0 up 8 lctrl 0.414282726529
+wean SNARC color arabic CD 0 down 9 num_decimal 0.344221075901
+wean SNARC color arabic CD 0 down 6 num_decimal 0.301258022836
+wean SNARC color arabic CD 0 up 1 lctrl 0.37915167395
+wean SNARC color arabic CD 0 up 3 lctrl 0.279157445552
+wean SNARC color arabic CD 0 down 5 num_decimal 0.391212768519
+wean SNARC color arabic CD 0 down 6 num_decimal 0.442246133338
+wean SNARC color arabic CD 0 down 8 num_decimal 0.299077847106
+wean SNARC color arabic CD 0 down 7 num_decimal 0.369020962703
+wean SNARC color arabic CD 0 down 5 num_decimal 0.293000599502
+wean SNARC color arabic CD 0 down 1 num_decimal 0.316018426922
+wean SNARC color arabic CD 0 up 6 lctrl 0.361916308062
+wean SNARC color arabic CD 0 up 9 lctrl 0.285970727433
+wean SNARC color arabic CD 0 down 7 num_decimal 0.349008091412
+wean SNARC color arabic CD 0 down 3 num_decimal 0.384934756085
+wean SNARC color arabic CD 0 down 3 num_decimal 0.259931497923
+wean SNARC color arabic CD 0 down 2 num_decimal 0.27594303616
+wean SNARC color arabic CD 0 up 9 lctrl 0.35591942845
+wean SNARC color arabic CD 0 down 4 num_decimal 0.351875584142
+wean SNARC color arabic CD 0 down 4 num_decimal 0.340607308957
+wean SNARC color arabic CD 0 down 2 num_decimal 0.297879153846
+wean SNARC color arabic CD 0 down 4 num_decimal 0.279861518812
+wean SNARC color arabic CD 0 up 2 lctrl 0.414926601371
+wean SNARC color arabic CD 0 down 8 num_decimal 0.352760873262
+wean SNARC color arabic CD 0 up 4 lctrl 0.388805142062
+wean SNARC color arabic CD 0 up 9 lctrl 0.319685875961
+wean SNARC color arabic CD 0 up 6 lctrl 0.357663320793
+wean SNARC color arabic CD 0 down 3 num_decimal 0.354330996973
+wean SNARC color arabic CD 0 up 7 lctrl 0.34263450623
+wean SNARC color arabic CD 0 down 7 num_decimal 0.435947330728
+wean SNARC color arabic CD 0 down 4 num_decimal 0.356450663982
+wean SNARC color arabic CD 0 down 7 num_decimal 0.352493083388
+wean SNARC color arabic CD 0 up 5 lctrl 0.421077080041
+wean SNARC color arabic CD 0 down 1 num_decimal 0.423131894115
+wean SNARC color arabic CD 0 down 5 num_decimal 0.337056843443
+wean SNARC color arabic CD 0 down 5 num_decimal 0.294247389437
+wean SNARC color arabic CD 0 up 2 lctrl 0.40520455671
+wean SNARC color arabic CD 0 up 3 lctrl 0.351147617694
+wean SNARC color arabic CD 0 up 7 lctrl 0.307063756952
+wean SNARC color arabic CD 0 down 1 num_decimal 0.353042626687
+wean SNARC color arabic CD 0 up 4 lctrl 0.333045270452
+wean SNARC color arabic CD 0 up 2 lctrl 0.370016098422
+wean SNARC color arabic CD 0 down 3 num_decimal 0.317941052715
+wean SNARC color arabic CD 0 down 9 num_decimal 0.291937507835
+wean SNARC color arabic CD 0 up 8 lctrl 0.402964182561
+wean SNARC color arabic CD 0 down 2 num_decimal 0.33281657852
+wean SNARC color arabic CD 0 up 7 lctrl 0.385847351704
+wean SNARC color arabic CD 0 down 7 num_decimal 0.365221635684
+wean SNARC color arabic CD 0 up 5 lctrl 0.360768193886
+wean SNARC color arabic CD 0 down 6 num_decimal 0.444688823822
+wean SNARC color arabic CD 0 up 9 lctrl 0.381550301675
+wean SNARC color arabic CD 0 down 1 num_decimal 0.360481165342
+wean SNARC color arabic CD 0 down 7 num_decimal 0.348455445102
+wean SNARC color arabic CD 0 down 5 num_decimal 0.328503392833
+wean SNARC color arabic CD 0 up 9 lctrl 0.318382611221
+wean SNARC color arabic CD 0 down 8 num_decimal 0.380418633459
+wean SNARC color arabic CD 0 down 1 num_decimal 0.3123832492
+wean SNARC color arabic CD 0 down 8 num_decimal 0.30241668725
+wean SNARC color arabic CD 0 up 7 lctrl 0.396347631596
+wean SNARC color arabic CD 0 up 7 lctrl 0.319283725699
+wean SNARC color arabic CD 0 down 2 num_decimal 0.301395796537
+wean SNARC color arabic CD 0 down 3 num_decimal 0.347173901441
+wean SNARC color arabic CD 0 down 7 num_decimal 0.328367791239
+wean SNARC color arabic CD 0 down 8 num_decimal 0.29423187438
+wean SNARC color arabic CD 0 down 1 num_decimal 0.301348320464
+wean SNARC color arabic CD 0 up 1 lctrl 0.307891640364
+wean SNARC color arabic CD 0 up 9 lctrl 0.298245619479
+wean SNARC color arabic CD 0 up 9 lctrl 0.272928770996
+wean SNARC color arabic CD 0 up 6 lctrl 0.264306743836
+wean SNARC color arabic CD 0 up 8 lctrl 0.312314982952
+wean SNARC color arabic CD 0 up 7 lctrl 0.382426592062
+wean SNARC color arabic CD 0 up 8 lctrl 0.265282640886
+wean SNARC color arabic CD 0 down 6 num_decimal 0.361378866507
+wean SNARC color arabic CD 0 up 2 lctrl 0.349320564649
+wean SNARC color arabic CD 0 up 2 lctrl 0.330071654736
+wean SNARC color arabic CD 0 up 4 lctrl 0.328017150964
+wean SNARC color arabic CD 0 down 9 num_decimal 0.301238473864
+wean SNARC color arabic CD 0 up 5 lctrl 0.323223308828
+wean SNARC color arabic CD 0 down 3 num_decimal 0.345340332072
+wean SNARC color arabic CD 0 up 6 lctrl 0.430294264766
+wean SNARC color arabic CD 0 up 6 lctrl 0.320182668068
+wean SNARC color arabic CD 0 down 7 num_decimal 0.326189787618
+wean SNARC color arabic CD 0 up 4 lctrl 0.372156555608
+wean SNARC color arabic CD 0 up 4 lctrl 0.336151074449
+wean SNARC color arabic CD 0 down 9 num_decimal 0.341041109935
+wean SNARC color arabic CD 0 up 7 lctrl 0.370024166252
+wean SNARC color arabic CD 0 up 3 lctrl 0.317992562703
+wean SNARC color arabic CD 0 up 3 lctrl 0.307990936725
+wean SNARC color arabic CD 0 up 3 lctrl 0.314019467052
+wean SNARC color arabic CD 0 down 3 num_decimal 0.43272019899
+wean SNARC color arabic CD 0 down 2 num_decimal 0.297916389982
+wean SNARC color arabic CD 0 up 7 lctrl 0.359880422357
+wean SNARC color arabic CD 0 up 1 lctrl 0.347723755041
+wean SNARC color arabic CD 0 up 4 lctrl 0.304527045226
+wean SNARC color arabic CD 0 down 8 num_decimal 0.350907134319
+wean SNARC color arabic CD 0 down 9 num_decimal 0.410758636611
+wean SNARC color arabic CD 0 up 5 lctrl 0.325260746038
+wean SNARC color arabic CD 0 down 2 num_decimal 0.418666971176
+wean SNARC color arabic CD 0 down 7 num_decimal 0.33264312019
+wean SNARC color arabic CD 0 down 1 num_decimal 0.369600915513
+wean SNARC color arabic CD 0 down 7 num_decimal 0.333508239736
+wean SNARC color arabic CD 0 down 2 num_decimal 0.338536669526
+wean SNARC color arabic CD 0 down 2 num_decimal 0.319462148848
+wean SNARC color arabic CD 0 down 4 num_decimal 0.309377672468
+wean SNARC color arabic CD 0 down 5 num_decimal 0.291470814938
+wean SNARC color arabic CD 0 up 9 lctrl 0.338375002638
+wean SNARC color arabic CD 0 up 7 lctrl 0.303429820435
+wean SNARC color arabic CD 0 down 9 num_decimal 0.341491667173
+wean SNARC color arabic CD 0 down 8 num_decimal 0.314459163751
+wean SNARC color arabic CD 0 up 5 lctrl 0.352451503037
+wean SNARC color arabic CD 0 down 3 num_decimal 0.308392156084
+wean SNARC color arabic CD 0 down 2 num_decimal 0.330461392954
+wean SNARC color arabic CD 0 up 2 lctrl 0.376435918473
+wean SNARC color arabic CD 0 down 2 num_decimal 0.364397786188
+wean SNARC color arabic CD 0 up 5 lctrl 0.352289525847
+wean SNARC color arabic CD 0 down 3 num_decimal 0.356299857634
+wean SNARC color arabic CD 0 up 3 lctrl 0.336895486856
+wean SNARC color arabic CD 0 up 4 lctrl 0.286184835211
+wean SNARC color arabic CD 0 down 9 num_decimal 0.365237771343
+wean SNARC color arabic CD 0 up 6 lctrl 0.377135337216
+wean SNARC color arabic CD 0 up 1 lctrl 0.389155161735
+wean SNARC color arabic CD 0 down 7 num_decimal 0.295924567037
+wean SNARC color arabic CD 0 up 4 lctrl 0.326905962622
+wean SNARC color arabic CD 0 down 9 num_decimal 0.357045821547
+wean SNARC color arabic CD 0 up 5 lctrl 0.289038054089
+wean SNARC color arabic CD 0 up 8 lctrl 0.296106713799
+wean SNARC color arabic CD 0 down 9 num_decimal 0.519020838582
+wean SNARC color arabic CD 0 up 8 lctrl 0.340847171729
+wean SNARC color arabic CD 0 up 6 lctrl 0.329867786895
+wean SNARC color arabic CD 0 up 3 lctrl 0.319899363138
+wean SNARC color arabic CD 0 down 1 num_decimal 0.349892139327
+wean SNARC color arabic CD 0 down 6 num_decimal 0.32188218735
+wean SNARC color arabic CD 0 up 1 lctrl 0.327707780739
+wean SNARC color arabic CD 0 up 8 lctrl 0.365723082308
+wean SNARC color arabic CD 0 down 1 num_decimal 0.273816852827
+wean SNARC color arabic CD 0 down 1 num_decimal 0.353701085682
+wean SNARC color arabic CD 0 down 1 num_decimal 0.286384979439
+wean SNARC color arabic CD 0 up 3 num_decimal 0.357763237756
+wean SNARC color arabic CD 0 down 8 num_decimal 0.697741566326
+wean SNARC color arabic CD 0 up 4 lctrl 0.480336838081
+wean SNARC color arabic CD 0 up 8 lctrl 0.376194504195
+wean SNARC color arabic CD 0 up 3 lctrl 0.340154269309
+wean SNARC color arabic CD 0 up 8 lctrl 0.305039972991
+wean SNARC color arabic CD 0 down 6 num_decimal 0.479141247833
+wean SNARC color arabic CD 0 down 4 num_decimal 0.3190091092
+wean SNARC color arabic CD 0 up 7 lctrl 0.388944467269
+wean SNARC color arabic CD 0 down 2 num_decimal 0.335885456683
+wean SNARC color arabic CD 0 down 1 num_decimal 0.444947925264
+wean SNARC color arabic CD 0 up 8 lctrl 0.397656171455
+wean SNARC color arabic CD 0 down 9 num_decimal 0.359579740564
+wean SNARC color arabic CD 0 up 8 lctrl 0.419651556657
+wean SNARC color arabic CD 0 up 8 lctrl 0.309546786583
+wean SNARC color arabic CD 0 up 6 lctrl 0.356215145426
+wean SNARC color arabic CD 0 up 4 lctrl 0.336439964799
+wean SNARC color arabic CD 0 down 7 num_decimal 0.373484644438
+wean SNARC color arabic CD 0 up 6 lctrl 0.441388461018
+wean SNARC color arabic CD 0 up 6 lctrl 0.330307173293
+wean SNARC color arabic CD 0 down 4 num_decimal 0.360282882921
+wean SNARC color arabic CD 0 up 4 lctrl 0.516934684095
+wean SNARC color arabic CD 0 up 3 lctrl 0.330034418601
+wean SNARC color arabic CD 0 up 6 lctrl 0.295990971478
+wean SNARC color arabic CD 0 up 3 lctrl 0.295084581881
+wean SNARC color arabic CD 0 up 8 lctrl 0.341885129005
+wean SNARC color arabic CD 0 up 3 lctrl 0.354954702241
+wean SNARC color arabic CD 0 up 8 lctrl 0.318950151986
+wean SNARC color arabic CD 0 up 8 lctrl 0.317001771199
+wean SNARC color arabic CD 0 up 1 lctrl 0.354977974826
+wean SNARC color arabic CD 0 down 7 num_decimal 0.406980099768
+{'background_stim_color': 'random', 'notation': 'dot', 'response_buttons': 'DC', 'dateStr': '12_09_0827', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'wean', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+wean SNARC color dot DC 0 up 25 num_decimal 0.453668938485
+wean SNARC color dot DC 0 down 25 lctrl 0.40571593297
+wean SNARC color dot DC 0 down 45 lctrl 0.286346812401
+wean SNARC color dot DC 0 down 20 lctrl 0.372824013336
+wean SNARC color dot DC 0 down 25 lctrl 0.295235698531
+wean SNARC color dot DC 0 up 5 num_decimal 0.358398734468
+wean SNARC color dot DC 0 up 25 num_decimal 0.37041142206
+wean SNARC color dot DC 0 down 15 lctrl 0.342302794324
+wean SNARC color dot DC 0 down 25 lctrl 0.26622936963
+wean SNARC color dot DC 0 up 30 num_decimal 0.393301405416
+wean SNARC color dot DC 0 up 15 num_decimal 0.332283481182
+wean SNARC color dot DC 0 down 35 lctrl 0.351070973315
+wean SNARC color dot DC 0 up 20 num_decimal 0.442490650627
+wean SNARC color dot DC 0 down 45 lctrl 0.360834598328
+wean SNARC color dot DC 0 up 40 num_decimal 0.355488420183
+wean SNARC color dot DC 0 up 5 num_decimal 0.375785527307
+wean SNARC color dot DC 0 down 30 lctrl 0.322615118616
+wean SNARC color dot DC 0 down 15 lctrl 0.304766907998
+wean SNARC color dot DC 0 up 25 lctrl 0.366640642745
+wean SNARC color dot DC 0 up 5 num_decimal 0.722680468034
+wean SNARC color dot DC 0 down 30 lctrl 0.367626469431
+wean SNARC color dot DC 0 up 25 num_decimal 0.458164270935
+wean SNARC color dot DC 0 up 35 num_decimal 0.338021259351
+wean SNARC color dot DC 0 up 5 num_decimal 0.383148662788
+wean SNARC color dot DC 0 down 40 lctrl 0.36053267533
+wean SNARC color dot DC 0 down 35 lctrl 0.316567349619
+wean SNARC color dot DC 0 down 35 lctrl 0.344776514921
+wean SNARC color dot DC 0 up 40 num_decimal 0.388663644747
+wean SNARC color dot DC 0 down 20 lctrl 0.472190502551
+wean SNARC color dot DC 0 down 5 lctrl 0.408076703957
+wean SNARC color dot DC 0 up 10 num_decimal 0.394431211826
+wean SNARC color dot DC 0 up 10 num_decimal 0.365369959623
+wean SNARC color dot DC 0 down 35 lctrl 0.352299455484
+wean SNARC color dot DC 0 up 15 num_decimal 0.373044637438
+wean SNARC color dot DC 0 up 45 num_decimal 0.383197380065
+wean SNARC color dot DC 0 up 25 num_decimal 0.393156494789
+wean SNARC color dot DC 0 down 35 lctrl 0.362975676115
+wean SNARC color dot DC 0 down 30 lctrl 0.293979909864
+wean SNARC color dot DC 0 up 35 num_decimal 0.364367376677
+wean SNARC color dot DC 0 up 15 num_decimal 0.303941506996
+wean SNARC color dot DC 0 up 10 num_decimal 0.366036176147
+wean SNARC color dot DC 0 down 40 lctrl 0.353217015921
+wean SNARC color dot DC 0 up 45 num_decimal 0.340500565369
+wean SNARC color dot DC 0 up 5 num_decimal 0.361808323269
+wean SNARC color dot DC 0 down 25 lctrl 0.373685098967
+wean SNARC color dot DC 0 up 15 num_decimal 0.465657422589
+wean SNARC color dot DC 0 down 45 lctrl 0.312135939201
+wean SNARC color dot DC 0 down 40 lctrl 0.292437092652
+wean SNARC color dot DC 0 down 20 lctrl 0.354475286998
+wean SNARC color dot DC 0 down 35 lctrl 0.302396517677
+wean SNARC color dot DC 0 down 35 lctrl 0.348388109757
+wean SNARC color dot DC 0 up 10 num_decimal 0.409173928747
+wean SNARC color dot DC 0 up 10 num_decimal 0.379332269207
+wean SNARC color dot DC 0 down 25 lctrl 0.486214251759
+wean SNARC color dot DC 0 up 25 num_decimal 0.500052440891
+wean SNARC color dot DC 0 up 40 num_decimal 0.407766713129
+wean SNARC color dot DC 0 down 5 lctrl 0.441820089888
+wean SNARC color dot DC 0 down 40 lctrl 0.393534131263
+wean SNARC color dot DC 0 down 30 lctrl 0.31623501711
+wean SNARC color dot DC 0 up 45 num_decimal 0.352904232383
+wean SNARC color dot DC 0 down 45 lctrl 0.380026723133
+wean SNARC color dot DC 0 up 15 num_decimal 0.36726589952
+wean SNARC color dot DC 0 up 20 num_decimal 0.355315272153
+wean SNARC color dot DC 0 down 15 lctrl 0.455206170276
+wean SNARC color dot DC 0 down 45 lctrl 0.405961381163
+wean SNARC color dot DC 0 up 45 num_decimal 0.317929881875
+wean SNARC color dot DC 0 up 5 num_decimal 0.372017540702
+wean SNARC color dot DC 0 down 40 lctrl 0.343199874887
+wean SNARC color dot DC 0 up 35 num_decimal 0.347829567726
+wean SNARC color dot DC 0 up 30 num_decimal 0.319738006551
+wean SNARC color dot DC 0 up 25 num_decimal 0.364754942787
+wean SNARC color dot DC 0 up 20 num_decimal 0.344057236905
+wean SNARC color dot DC 0 up 20 num_decimal 0.364687607442
+wean SNARC color dot DC 0 down 5 lctrl 0.39260136607
+wean SNARC color dot DC 0 up 30 num_decimal 0.379249418806
+wean SNARC color dot DC 0 down 45 lctrl 0.325128247456
+wean SNARC color dot DC 0 down 30 lctrl 0.362158963545
+wean SNARC color dot DC 0 up 5 num_decimal 0.390417156425
+wean SNARC color dot DC 0 up 20 num_decimal 0.369320092991
+wean SNARC color dot DC 0 down 15 lctrl 0.396953339399
+wean SNARC color dot DC 0 up 10 lctrl 0.336567808864
+wean SNARC color dot DC 0 up 10 num_decimal 0.453852016151
+wean SNARC color dot DC 0 down 15 lctrl 0.422012948246
+wean SNARC color dot DC 0 up 20 num_decimal 0.4319531346
+wean SNARC color dot DC 0 up 35 num_decimal 0.40776423072
+wean SNARC color dot DC 0 down 15 lctrl 0.385667687351
+wean SNARC color dot DC 0 up 40 num_decimal 0.56351584832
+wean SNARC color dot DC 0 up 20 num_decimal 0.303322456245
+wean SNARC color dot DC 0 up 20 num_decimal 0.269965395218
+wean SNARC color dot DC 0 down 25 lctrl 0.389234288523
+wean SNARC color dot DC 0 up 20 num_decimal 0.384377455258
+wean SNARC color dot DC 0 up 35 num_decimal 0.378237526826
+wean SNARC color dot DC 0 up 40 num_decimal 0.357490793365
+wean SNARC color dot DC 0 down 25 lctrl 0.38506260015
+wean SNARC color dot DC 0 up 10 num_decimal 0.364075073014
+wean SNARC color dot DC 0 down 15 lctrl 0.367958801939
+wean SNARC color dot DC 0 up 5 num_decimal 0.379951940561
+wean SNARC color dot DC 0 down 45 lctrl 0.381792026254
+wean SNARC color dot DC 0 up 45 num_decimal 0.336428173357
+wean SNARC color dot DC 0 down 25 lctrl 0.356022138124
+wean SNARC color dot DC 0 down 35 lctrl 0.384464029272
+wean SNARC color dot DC 0 up 20 num_decimal 0.371950515658
+wean SNARC color dot DC 0 up 40 num_decimal 0.374422374449
+wean SNARC color dot DC 0 down 30 lctrl 0.353418711655
+wean SNARC color dot DC 0 up 5 num_decimal 0.445422685991
+wean SNARC color dot DC 0 down 40 lctrl 0.365194329185
+wean SNARC color dot DC 0 down 25 lctrl 0.328144995029
+wean SNARC color dot DC 0 up 40 num_decimal 0.373128418743
+wean SNARC color dot DC 0 up 35 num_decimal 0.375969535876
+wean SNARC color dot DC 0 up 10 num_decimal 0.37203895148
+wean SNARC color dot DC 0 down 40 lctrl 0.319218872763
+wean SNARC color dot DC 0 up 20 num_decimal 0.589060457831
+wean SNARC color dot DC 0 up 35 num_decimal 0.343502728788
+wean SNARC color dot DC 0 up 10 num_decimal 0.32468668895
+wean SNARC color dot DC 0 down 45 lctrl 0.329345860397
+wean SNARC color dot DC 0 up 30 num_decimal 0.318592064483
+wean SNARC color dot DC 0 up 5 num_decimal 0.396603940328
+wean SNARC color dot DC 0 down 40 lctrl 0.399140962355
+wean SNARC color dot DC 0 up 30 num_decimal 0.304686540006
+wean SNARC color dot DC 0 up 35 num_decimal 0.358284853954
+wean SNARC color dot DC 0 up 10 num_decimal 0.370999442699
+wean SNARC color dot DC 0 down 45 lctrl 0.325120179627
+wean SNARC color dot DC 0 up 10 num_decimal 0.323272336406
+wean SNARC color dot DC 0 down 30 lctrl 0.424197778492
+wean SNARC color dot DC 0 down 20 lctrl 0.434106314131
+wean SNARC color dot DC 0 up 20 num_decimal 0.466980236301
+wean SNARC color dot DC 0 up 15 num_decimal 0.370956310842
+wean SNARC color dot DC 0 up 40 num_decimal 0.326157205999
+wean SNARC color dot DC 0 up 30 num_decimal 0.347621976271
+wean SNARC color dot DC 0 down 25 lctrl 0.415700182085
+wean SNARC color dot DC 0 down 20 lctrl 0.585765680447
+wean SNARC color dot DC 0 up 10 num_decimal 0.308945733298
+wean SNARC color dot DC 0 down 10 lctrl 0.387352312177
+wean SNARC color dot DC 0 down 45 lctrl 0.476098434965
+wean SNARC color dot DC 0 down 10 lctrl 0.372108148632
+wean SNARC color dot DC 0 down 15 lctrl 0.311067572415
+wean SNARC color dot DC 0 down 40 lctrl 0.371890627541
+wean SNARC color dot DC 0 down 40 lctrl 0.318637368448
+wean SNARC color dot DC 0 up 5 num_decimal 0.411875720674
+wean SNARC color dot DC 0 down 5 lctrl 0.349850869277
+wean SNARC color dot DC 0 up 20 num_decimal 0.361851765427
+wean SNARC color dot DC 0 down 10 lctrl 0.366465322607
+wean SNARC color dot DC 0 down 30 lctrl 0.409561805158
+wean SNARC color dot DC 0 down 40 lctrl 0.443491371767
+wean SNARC color dot DC 0 up 30 num_decimal 0.363812247958
+wean SNARC color dot DC 0 down 20 lctrl 0.33527974888
+wean SNARC color dot DC 0 down 10 lctrl 0.356274723242
+wean SNARC color dot DC 0 up 45 num_decimal 0.383750336677
+wean SNARC color dot DC 0 up 25 num_decimal 0.434265808912
+wean SNARC color dot DC 0 up 35 num_decimal 0.322411250774
+wean SNARC color dot DC 0 up 15 num_decimal 0.296099887174
+wean SNARC color dot DC 0 down 40 lctrl 0.365929122258
+wean SNARC color dot DC 0 up 5 num_decimal 0.474016314392
+wean SNARC color dot DC 0 up 25 num_decimal 0.312836288848
+wean SNARC color dot DC 0 up 20 num_decimal 0.398174064039
+wean SNARC color dot DC 0 down 25 lctrl 0.375633169453
+wean SNARC color dot DC 0 down 30 lctrl 0.370913799587
+wean SNARC color dot DC 0 up 10 num_decimal 0.422999395534
+wean SNARC color dot DC 0 down 15 lctrl 0.360445791014
+wean SNARC color dot DC 0 down 30 lctrl 0.364363653063
+wean SNARC color dot DC 0 down 25 lctrl 0.375663889265
+wean SNARC color dot DC 0 down 25 lctrl 0.394540437822
+wean SNARC color dot DC 0 up 30 num_decimal 0.373191720173
+wean SNARC color dot DC 0 down 30 lctrl 0.336110735302
+wean SNARC color dot DC 0 up 45 num_decimal 0.403736211769
+wean SNARC color dot DC 0 down 5 lctrl 0.382028475714
+wean SNARC color dot DC 0 up 10 num_decimal 0.34497138403
+wean SNARC color dot DC 0 up 25 num_decimal 0.476907390008
+wean SNARC color dot DC 0 down 15 lctrl 0.428746482737
+wean SNARC color dot DC 0 up 30 num_decimal 0.42956660862
+wean SNARC color dot DC 0 up 30 num_decimal 0.430465240688
+wean SNARC color dot DC 0 up 5 num_decimal 0.408399727432
+wean SNARC color dot DC 0 down 5 lctrl 0.386235228115
+wean SNARC color dot DC 0 up 10 num_decimal 0.509231458576
+wean SNARC color dot DC 0 up 20 num_decimal 0.28295397986
+wean SNARC color dot DC 0 down 15 lctrl 0.416978002133
+wean SNARC color dot DC 0 up 10 num_decimal 0.394908765262
+wean SNARC color dot DC 0 down 15 lctrl 0.397851040564
+wean SNARC color dot DC 0 down 30 lctrl 0.343722111686
+wean SNARC color dot DC 0 up 25 num_decimal 0.379746210913
+wean SNARC color dot DC 0 down 45 lctrl 0.373570597851
+wean SNARC color dot DC 0 up 35 num_decimal 0.456567771628
+wean SNARC color dot DC 0 down 45 lctrl 0.351341866201
+wean SNARC color dot DC 0 up 45 num_decimal 0.378243732848
+wean SNARC color dot DC 0 up 35 num_decimal 0.365468325081
+wean SNARC color dot DC 0 up 45 num_decimal 0.47190968003
+wean SNARC color dot DC 0 up 20 lctrl 0.351009223391
+wean SNARC color dot DC 0 down 15 lctrl 0.538911140928
+wean SNARC color dot DC 0 up 45 num_decimal 0.343674015011
+wean SNARC color dot DC 0 up 20 num_decimal 0.339664614128
+wean SNARC color dot DC 0 down 10 lctrl 0.465052335388
+wean SNARC color dot DC 0 down 40 num_decimal 0.376348103253
+wean SNARC color dot DC 0 down 20 lctrl 0.515365801589
+wean SNARC color dot DC 0 down 30 lctrl 0.296576820009
+wean SNARC color dot DC 0 up 30 num_decimal 0.41448349136
+wean SNARC color dot DC 0 down 35 lctrl 0.383163557242
+wean SNARC color dot DC 0 up 15 num_decimal 0.778030431852
+wean SNARC color dot DC 0 down 45 lctrl 0.404268378205
+wean SNARC color dot DC 0 down 25 lctrl 0.37445557667
+wean SNARC color dot DC 0 up 25 num_decimal 0.40939734556
+wean SNARC color dot DC 0 down 10 lctrl 0.420035399153
+wean SNARC color dot DC 0 down 10 lctrl 0.406050747888
+wean SNARC color dot DC 0 down 5 lctrl 0.416082473075
+wean SNARC color dot DC 0 up 40 num_decimal 0.384964855294
+wean SNARC color dot DC 0 up 30 num_decimal 0.386920373007
+wean SNARC color dot DC 0 up 35 num_decimal 0.341435192368
+wean SNARC color dot DC 0 up 10 num_decimal 0.386832247486
+wean SNARC color dot DC 0 down 5 lctrl 0.453745582864
+wean SNARC color dot DC 0 up 10 num_decimal 0.397647483024
+wean SNARC color dot DC 0 up 20 num_decimal 0.432237991036
+wean SNARC color dot DC 0 up 20 num_decimal 0.40144339673
+wean SNARC color dot DC 0 up 45 num_decimal 0.450205357287
+wean SNARC color dot DC 0 up 40 num_decimal 0.314071597641
+wean SNARC color dot DC 0 down 35 lctrl 0.432066704813
+wean SNARC color dot DC 0 down 5 lctrl 0.368881327195
+wean SNARC color dot DC 0 up 40 num_decimal 0.379656223585
+wean SNARC color dot DC 0 up 5 num_decimal 0.374817387786
+wean SNARC color dot DC 0 down 30 lctrl 0.497727044233
+wean SNARC color dot DC 0 down 10 lctrl 0.400387441989
+wean SNARC color dot DC 0 up 15 num_decimal 0.387062490924
+wean SNARC color dot DC 0 up 20 num_decimal 0.309322749169
+wean SNARC color dot DC 0 down 25 lctrl 0.451400637234
+wean SNARC color dot DC 0 down 25 lctrl 0.363234467256
+wean SNARC color dot DC 0 up 10 num_decimal 0.367888363583
+wean SNARC color dot DC 0 up 40 num_decimal 0.331056240218
+wean SNARC color dot DC 0 up 30 num_decimal 0.351517806941
+wean SNARC color dot DC 0 down 15 lctrl 0.379927116471
+wean SNARC color dot DC 0 down 20 lctrl 0.335372528917
+wean SNARC color dot DC 0 up 15 num_decimal 0.38800456515
+wean SNARC color dot DC 0 up 20 num_decimal 0.405803127587
+wean SNARC color dot DC 0 up 10 num_decimal 0.312529711333
+wean SNARC color dot DC 0 down 30 lctrl 0.349740402076
+wean SNARC color dot DC 0 up 15 num_decimal 0.386372070913
+wean SNARC color dot DC 0 down 15 lctrl 0.389677708836
+wean SNARC color dot DC 0 up 35 num_decimal 0.367601645341
+wean SNARC color dot DC 0 up 25 num_decimal 0.346551127076
+wean SNARC color dot DC 0 down 20 lctrl 0.375179819504
+wean SNARC color dot DC 0 down 20 lctrl 0.387190955591
+wean SNARC color dot DC 0 up 25 num_decimal 0.381277546983
+wean SNARC color dot DC 0 down 5 lctrl 0.376207226541
+wean SNARC color dot DC 0 down 5 lctrl 0.34826802322
+wean SNARC color dot DC 0 up 40 num_decimal 0.351161581245
+wean SNARC color dot DC 0 down 45 lctrl 0.345671733677
+wean SNARC color dot DC 0 up 15 num_decimal 0.439021173708
+wean SNARC color dot DC 0 down 10 lctrl 0.375948745701
+wean SNARC color dot DC 0 down 20 lctrl 0.363914026728
+wean SNARC color dot DC 0 down 30 lctrl 0.343801238474
+wean SNARC color dot DC 0 down 30 lctrl 0.291591522077
+wean SNARC color dot DC 0 down 25 lctrl 0.393780510358
+wean SNARC color dot DC 0 down 40 lctrl 0.30840208572
+wean SNARC color dot DC 0 down 40 lctrl 0.314412308281
+wean SNARC color dot DC 0 up 20 num_decimal 0.368459627961
+wean SNARC color dot DC 0 down 15 lctrl 0.379645983648
+wean SNARC color dot DC 0 down 40 lctrl 0.382915626641
+wean SNARC color dot DC 0 down 5 lctrl 0.377387301733
+wean SNARC color dot DC 0 up 30 num_decimal 0.372787087501
+wean SNARC color dot DC 0 up 30 num_decimal 0.343703493618
+wean SNARC color dot DC 0 down 35 lctrl 0.404294753801
+wean SNARC color dot DC 0 down 45 lctrl 0.301523640602
+wean SNARC color dot DC 0 up 30 num_decimal 0.323549125013
+wean SNARC color dot DC 0 down 35 lctrl 0.392203560023
+wean SNARC color dot DC 0 up 40 num_decimal 0.402081996453
+wean SNARC color dot DC 0 down 10 lctrl 0.364001531646
+wean SNARC color dot DC 0 down 5 lctrl 0.391932667138
+wean SNARC color dot DC 0 down 5 lctrl 0.386808974901
+wean SNARC color dot DC 0 down 20 lctrl 0.477507822691
+wean SNARC color dot DC 0 up 35 num_decimal 0.348126525906
+wean SNARC color dot DC 0 up 35 num_decimal 0.351492051947
+wean SNARC color dot DC 0 up 15 num_decimal 0.355532793244
+wean SNARC color dot DC 0 up 10 num_decimal 0.33623671756
+wean SNARC color dot DC 0 down 35 lctrl 0.388386856141
+wean SNARC color dot DC 0 up 35 num_decimal 0.390174500943
+wean SNARC color dot DC 0 up 30 num_decimal 0.448163575861
+wean SNARC color dot DC 0 up 45 num_decimal 0.335542884236
+wean SNARC color dot DC 0 down 5 lctrl 0.412834240861
+wean SNARC color dot DC 0 down 5 lctrl 0.318919742475
+wean SNARC color dot DC 0 up 25 num_decimal 0.35628496318
+wean SNARC color dot DC 0 down 15 lctrl 0.63297303235
+wean SNARC color dot DC 0 down 35 lctrl 0.38544489114
+wean SNARC color dot DC 0 up 25 num_decimal 0.395475064822
+wean SNARC color dot DC 0 down 45 lctrl 0.372339322972
+wean SNARC color dot DC 0 up 30 num_decimal 0.399243672029
+wean SNARC color dot DC 0 up 25 num_decimal 0.385207510777
+wean SNARC color dot DC 0 up 15 num_decimal 0.420185274598
+wean SNARC color dot DC 0 down 40 lctrl 0.461230356387
+wean SNARC color dot DC 0 up 10 num_decimal 0.413838375313
+wean SNARC color dot DC 0 up 35 num_decimal 0.38390796965
+wean SNARC color dot DC 0 up 45 num_decimal 0.377593031381
+wean SNARC color dot DC 0 up 15 num_decimal 0.381700487421
+wean SNARC color dot DC 0 up 20 num_decimal 0.392953247549
+wean SNARC color dot DC 0 up 35 num_decimal 0.355438772002
+wean SNARC color dot DC 0 up 10 num_decimal 0.464147497297
+wean SNARC color dot DC 0 up 15 num_decimal 0.344244038185
+wean SNARC color dot DC 0 up 15 num_decimal 0.325335218309
+wean SNARC color dot DC 0 down 25 lctrl 0.474255246261
+wean SNARC color dot DC 0 up 15 num_decimal 0.377985252008
+wean SNARC color dot DC 0 up 30 num_decimal 0.429429455521
+wean SNARC color dot DC 0 up 35 num_decimal 0.325852800592
+wean SNARC color dot DC 0 down 15 lctrl 0.41892948593
+wean SNARC color dot DC 0 down 45 lctrl 0.347408799395
+wean SNARC color dot DC 0 up 35 num_decimal 0.37464796337
+wean SNARC color dot DC 0 up 10 num_decimal 0.698678365433
+wean SNARC color dot DC 0 up 5 num_decimal 0.297223797862
+wean SNARC color dot DC 0 up 5 num_decimal 0.352286422836
+wean SNARC color dot DC 0 up 45 num_decimal 0.379548238793
+wean SNARC color dot DC 0 up 35 num_decimal 0.350130760895
+wean SNARC color dot DC 0 up 25 num_decimal 0.313071497103
+wean SNARC color dot DC 0 down 25 lctrl 0.374000364914
+wean SNARC color dot DC 0 up 40 num_decimal 0.367949803207
+wean SNARC color dot DC 0 up 5 num_decimal 0.64402006283
+wean SNARC color dot DC 0 down 25 lctrl 0.316530423785
+wean SNARC color dot DC 0 down 45 lctrl 0.417219416411
+wean SNARC color dot DC 0 up 40 num_decimal 0.298436144372
+wean SNARC color dot DC 0 up 40 num_decimal 0.344392362124
+wean SNARC color dot DC 0 up 45 num_decimal 0.315374862381
+wean SNARC color dot DC 0 up 10 num_decimal 0.345443662347
+wean SNARC color dot DC 0 up 25 num_decimal 0.333342228632
+wean SNARC color dot DC 0 up 45 num_decimal 0.288974132057
+wean SNARC color dot DC 0 down 40 lctrl 0.399101864413
+wean SNARC color dot DC 0 down 30 lctrl 0.337169172451
+wean SNARC color dot DC 0 down 20 lctrl 0.333143015308
+wean SNARC color dot DC 0 down 5 lctrl 0.386175960599
+wean SNARC color dot DC 0 up 5 num_decimal 0.436992424929
+wean SNARC color dot DC 0 down 15 lctrl 0.381965484585
+wean SNARC color dot DC 0 up 35 num_decimal 0.383827911959
+wean SNARC color dot DC 0 up 35 num_decimal 0.345734414505
+wean SNARC color dot DC 0 up 10 num_decimal 0.343152088512
+wean SNARC color dot DC 0 up 35 num_decimal 0.363680369978
+wean SNARC color dot DC 0 up 40 num_decimal 0.311632010168
+wean SNARC color dot DC 0 down 20 lctrl 0.390326858797
+wean SNARC color dot DC 0 up 45 num_decimal 0.376191401183
+wean SNARC color dot DC 0 up 40 num_decimal 0.306856165497
+wean SNARC color dot DC 0 up 45 num_decimal 0.360142626811
+wean SNARC color dot DC 0 up 45 num_decimal 0.386322422732
+wean SNARC color dot DC 0 up 10 num_decimal 0.32537121324
+wean SNARC color dot DC 0 up 5 num_decimal 0.395293848963
+wean SNARC color dot DC 0 down 10 lctrl 0.454280542009
+wean SNARC color dot DC 0 up 40 num_decimal 0.349580286693
+wean SNARC color dot DC 0 up 35 num_decimal 0.36138786524
+wean SNARC color dot DC 0 down 40 lctrl 0.388823139528
+wean SNARC color dot DC 0 down 45 lctrl 0.350747329238
+wean SNARC color dot DC 0 down 35 lctrl 0.354771314274
+wean SNARC color dot DC 0 up 40 num_decimal 0.3586823497
+wean SNARC color dot DC 0 up 45 num_decimal 0.2981140518
+wean SNARC color dot DC 0 down 5 lctrl 0.384673482534
+wean SNARC color dot DC 0 up 5 num_decimal 0.387496602203
+wean SNARC color dot DC 0 down 20 lctrl 0.398473504628
+wean SNARC color dot DC 0 down 15 lctrl 0.425164056207
+wean SNARC color dot DC 0 up 20 num_decimal 0.386281462983
+wean SNARC color dot DC 0 up 15 num_decimal 0.413241666242
+wean SNARC color dot DC 0 up 20 num_decimal 0.415257382374
+wean SNARC color dot DC 0 down 30 lctrl 0.400056660986
+wean SNARC color dot DC 0 up 45 num_decimal 0.40060496308
+wean SNARC color dot DC 0 up 5 num_decimal 0.378788311329
+wean SNARC color dot DC 0 down 10 lctrl 0.398701265656
+wean SNARC color dot DC 0 up 15 num_decimal 0.425456980472
+wean SNARC color dot DC 0 down 30 lctrl 0.378499110677
+wean SNARC color dot DC 0 down 30 lctrl 0.397837387314
+wean SNARC color dot DC 0 up 5 num_decimal 0.472402127921
+wean SNARC color dot DC 0 up 25 num_decimal 0.367244488742
+{'background_stim_color': 'random', 'notation': 'arabic', 'response_buttons': 'DC', 'dateStr': '12_09_0834', 'exp_id': 'SNARC_automatic', 'task': 'color', 'participant': u'wean', 'range_in_instr': True, 'interactive_setting': False, 'delay': 0, 'autopilot': False}
+wean SNARC color arabic DC 0 down 7 lctrl 0.520956186722
+wean SNARC color arabic DC 0 up 8 num_decimal 0.390768107002
+wean SNARC color arabic DC 0 up 8 num_decimal 0.322050991164
+wean SNARC color arabic DC 0 down 5 lctrl 0.367592646608
+wean SNARC color arabic DC 0 down 9 lctrl 0.299610944445
+wean SNARC color arabic DC 0 up 2 num_decimal 0.385669238856
+wean SNARC color arabic DC 0 up 7 num_decimal 0.364600102524
+wean SNARC color arabic DC 0 up 3 num_decimal 0.320516552083
+wean SNARC color arabic DC 0 down 5 lctrl 0.358505167755
+wean SNARC color arabic DC 0 down 3 lctrl 0.299108877219
+wean SNARC color arabic DC 0 up 6 num_decimal 0.345461970114
+wean SNARC color arabic DC 0 up 4 num_decimal 0.29444349975
+wean SNARC color arabic DC 0 up 4 num_decimal 0.293512596364
+wean SNARC color arabic DC 0 up 7 num_decimal 0.276516782947
+wean SNARC color arabic DC 0 down 8 lctrl 0.34048722242
+wean SNARC color arabic DC 0 down 1 lctrl 0.289419103875
+wean SNARC color arabic DC 0 up 5 num_decimal 0.344562717443
+wean SNARC color arabic DC 0 up 6 num_decimal 0.301437066587
+wean SNARC color arabic DC 0 up 4 num_decimal 0.315513256685
+wean SNARC color arabic DC 0 up 3 num_decimal 0.321484071002
+wean SNARC color arabic DC 0 up 8 num_decimal 0.319595578333
+wean SNARC color arabic DC 0 up 5 num_decimal 0.301478336637
+wean SNARC color arabic DC 0 up 8 num_decimal 0.275519785421
+wean SNARC color arabic DC 0 down 9 lctrl 0.387475812027
+wean SNARC color arabic DC 0 down 2 lctrl 0.342435292906
+wean SNARC color arabic DC 0 up 8 num_decimal 0.49142482831
+wean SNARC color arabic DC 0 down 4 lctrl 0.378177018105
+wean SNARC color arabic DC 0 down 4 lctrl 0.302152931291
+wean SNARC color arabic DC 0 down 7 lctrl 0.364224948459
+wean SNARC color arabic DC 0 down 2 lctrl 0.304872410382
+wean SNARC color arabic DC 0 down 1 lctrl 0.311222722979
+wean SNARC color arabic DC 0 down 7 lctrl 0.293194848008
+wean SNARC color arabic DC 0 up 4 num_decimal 0.348260575993
+wean SNARC color arabic DC 0 down 3 lctrl 0.424181642833
+wean SNARC color arabic DC 0 up 4 num_decimal 0.354106028654
+wean SNARC color arabic DC 0 down 5 lctrl 0.382014201862
+wean SNARC color arabic DC 0 down 7 lctrl 0.376994770805
+wean SNARC color arabic DC 0 up 1 num_decimal 0.332921770603
+wean SNARC color arabic DC 0 up 1 num_decimal 0.314264604943
+wean SNARC color arabic DC 0 up 7 num_decimal 0.312907658108
+wean SNARC color arabic DC 0 down 6 lctrl 0.374916684147
+wean SNARC color arabic DC 0 down 9 lctrl 0.330875955262
+wean SNARC color arabic DC 0 down 5 lctrl 0.288863664855
+wean SNARC color arabic DC 0 up 2 num_decimal 0.351872481131
+wean SNARC color arabic DC 0 up 9 num_decimal 0.27583846468
+wean SNARC color arabic DC 0 up 7 num_decimal 0.29994513876
+wean SNARC color arabic DC 0 down 1 lctrl 0.361848972717
+wean SNARC color arabic DC 0 down 7 lctrl 0.357829331897
+wean SNARC color arabic DC 0 up 1 num_decimal 0.418576052945
+wean SNARC color arabic DC 0 up 1 num_decimal 0.316502186382
+wean SNARC color arabic DC 0 down 9 lctrl 0.41853912711
+wean SNARC color arabic DC 0 up 9 num_decimal 0.380521653433
+wean SNARC color arabic DC 0 up 5 num_decimal 0.296285136948
+wean SNARC color arabic DC 0 up 1 num_decimal 0.311653731247
+wean SNARC color arabic DC 0 up 8 num_decimal 0.293638268321
+wean SNARC color arabic DC 0 up 3 num_decimal 0.30863853518
+wean SNARC color arabic DC 0 down 1 lctrl 0.410625827728
+wean SNARC color arabic DC 0 up 3 num_decimal 0.340518252533
+wean SNARC color arabic DC 0 down 6 lctrl 0.385483989082
+wean SNARC color arabic DC 0 down 3 lctrl 0.356433287119
+wean SNARC color arabic DC 0 down 1 lctrl 0.320338439235
+wean SNARC color arabic DC 0 down 5 num_decimal 0.302448648266
+wean SNARC color arabic DC 0 down 2 lctrl 0.500387876411
+wean SNARC color arabic DC 0 down 8 lctrl 0.338116521797
+wean SNARC color arabic DC 0 down 3 lctrl 0.303198956395
+wean SNARC color arabic DC 0 down 8 lctrl 0.309186526973
+wean SNARC color arabic DC 0 up 2 num_decimal 0.427154327645
+wean SNARC color arabic DC 0 up 1 num_decimal 0.333138360791
+wean SNARC color arabic DC 0 up 1 num_decimal 0.306077309664
+wean SNARC color arabic DC 0 up 3 num_decimal 0.320043032561
+wean SNARC color arabic DC 0 up 7 num_decimal 0.350088249641
+wean SNARC color arabic DC 0 up 5 num_decimal 0.37804638133
+wean SNARC color arabic DC 0 up 8 num_decimal 0.270013181592
+wean SNARC color arabic DC 0 up 5 num_decimal 0.32600360694
+wean SNARC color arabic DC 0 down 6 lctrl 0.435955398557
+wean SNARC color arabic DC 0 down 7 lctrl 0.292867170017
+wean SNARC color arabic DC 0 down 1 lctrl 0.307842612785
+wean SNARC color arabic DC 0 up 1 num_decimal 0.370527474683
+wean SNARC color arabic DC 0 down 9 lctrl 0.373862280912
+wean SNARC color arabic DC 0 down 5 lctrl 0.321745654853
+wean SNARC color arabic DC 0 down 8 lctrl 0.343723042589
+wean SNARC color arabic DC 0 down 9 lctrl 0.300769298558
+wean SNARC color arabic DC 0 up 5 num_decimal 0.338809734519
+wean SNARC color arabic DC 0 down 6 lctrl 0.367734764525
+wean SNARC color arabic DC 0 down 8 lctrl 0.307688082823
+wean SNARC color arabic DC 0 up 5 num_decimal 0.377701016174
+wean SNARC color arabic DC 0 up 2 num_decimal 0.285646152452
+wean SNARC color arabic DC 0 up 6 num_decimal 0.268715812573
+wean SNARC color arabic DC 0 up 5 num_decimal 0.260703527131
+wean SNARC color arabic DC 0 up 9 num_decimal 0.284821992655
+wean SNARC color arabic DC 0 up 7 num_decimal 0.347834532544
+wean SNARC color arabic DC 0 down 3 lctrl 0.431724132367
+wean SNARC color arabic DC 0 down 4 lctrl 0.344644947243
+wean SNARC color arabic DC 0 up 8 num_decimal 0.373637622895
+wean SNARC color arabic DC 0 up 8 num_decimal 0.345541407203
+wean SNARC color arabic DC 0 up 4 num_decimal 0.294598029712
+wean SNARC color arabic DC 0 down 9 lctrl 0.349595181147
+wean SNARC color arabic DC 0 down 7 lctrl 0.337573805124
+wean SNARC color arabic DC 0 up 5 num_decimal 0.294492217027
+wean SNARC color arabic DC 0 up 7 num_decimal 0.301586011129
+wean SNARC color arabic DC 0 up 1 num_decimal 0.363567110066
+wean SNARC color arabic DC 0 down 4 num_decimal 0.279534771724
+wean SNARC color arabic DC 0 down 2 lctrl 0.39945281499
+wean SNARC color arabic DC 0 up 3 num_decimal 0.369505342765
+wean SNARC color arabic DC 0 up 9 num_decimal 0.35745914265
+wean SNARC color arabic DC 0 down 7 lctrl 0.369393324057
+wean SNARC color arabic DC 0 down 6 lctrl 0.325265090254
+wean SNARC color arabic DC 0 up 7 num_decimal 0.387340210434
+wean SNARC color arabic DC 0 down 4 lctrl 0.486279725297
+wean SNARC color arabic DC 0 down 2 lctrl 0.349081632779
+wean SNARC color arabic DC 0 up 4 num_decimal 0.361056773936
+wean SNARC color arabic DC 0 up 2 num_decimal 0.316987807648
+wean SNARC color arabic DC 0 down 8 lctrl 0.371003166313
+wean SNARC color arabic DC 0 down 5 lctrl 0.302915651465
+wean SNARC color arabic DC 0 down 8 lctrl 0.380834747272
+wean SNARC color arabic DC 0 up 4 num_decimal 0.352918195934
+wean SNARC color arabic DC 0 down 6 lctrl 0.405534096508
+wean SNARC color arabic DC 0 down 4 lctrl 0.303666269895
+wean SNARC color arabic DC 0 up 6 num_decimal 0.333735069862
+wean SNARC color arabic DC 0 up 8 num_decimal 0.35474804169
+wean SNARC color arabic DC 0 down 8 lctrl 0.367389089068
+wean SNARC color arabic DC 0 down 7 lctrl 0.37866481148
+wean SNARC color arabic DC 0 down 8 lctrl 0.326574871318
+wean SNARC color arabic DC 0 up 4 num_decimal 0.316546249142
+wean SNARC color arabic DC 0 down 3 lctrl 0.370555091483
+wean SNARC color arabic DC 0 down 7 lctrl 0.310493515327
+wean SNARC color arabic DC 0 down 1 lctrl 0.325141590405
+wean SNARC color arabic DC 0 up 7 num_decimal 0.378565515118
+wean SNARC color arabic DC 0 up 8 num_decimal 0.302487746208
+wean SNARC color arabic DC 0 up 1 num_decimal 0.32448592412
+wean SNARC color arabic DC 0 down 4 lctrl 0.394451381399
+wean SNARC color arabic DC 0 down 2 lctrl 0.301382763889
+wean SNARC color arabic DC 0 down 8 lctrl 0.30742060325
+wean SNARC color arabic DC 0 down 5 lctrl 0.337385142037
+wean SNARC color arabic DC 0 down 7 lctrl 0.36639984907
+wean SNARC color arabic DC 0 down 9 lctrl 0.258340894337
+wean SNARC color arabic DC 0 down 4 lctrl 0.354365130097
+wean SNARC color arabic DC 0 up 9 num_decimal 0.382339397445
+wean SNARC color arabic DC 0 down 7 lctrl 0.353225394052
+wean SNARC color arabic DC 0 up 1 num_decimal 0.437266731127
+wean SNARC color arabic DC 0 up 2 num_decimal 0.358145839048
+wean SNARC color arabic DC 0 up 3 num_decimal 0.33011913081
+wean SNARC color arabic DC 0 up 2 num_decimal 0.352058041206
+wean SNARC color arabic DC 0 down 1 lctrl 0.388053592729
+wean SNARC color arabic DC 0 up 5 num_decimal 0.375000775753
+wean SNARC color arabic DC 0 down 5 lctrl 0.362910512878
+wean SNARC color arabic DC 0 down 1 lctrl 0.335530782493
+wean SNARC color arabic DC 0 down 4 lctrl 0.356858399665
+wean SNARC color arabic DC 0 down 7 lctrl 0.304791111486
+wean SNARC color arabic DC 0 down 2 lctrl 0.310861222164
+wean SNARC color arabic DC 0 up 3 num_decimal 0.4527659622
+wean SNARC color arabic DC 0 down 7 lctrl 0.348677931011
+wean SNARC color arabic DC 0 down 5 lctrl 0.400665782101
+wean SNARC color arabic DC 0 down 9 lctrl 0.307315100866
+wean SNARC color arabic DC 0 up 1 num_decimal 0.361565357485
+wean SNARC color arabic DC 0 up 5 num_decimal 0.3975584266
+wean SNARC color arabic DC 0 down 6 lctrl 0.400425919329
+wean SNARC color arabic DC 0 down 2 lctrl 0.298360430897
+wean SNARC color arabic DC 0 down 4 lctrl 0.272391329442
+wean SNARC color arabic DC 0 up 8 num_decimal 0.288287125358
+wean SNARC color arabic DC 0 down 4 lctrl 0.375426508901
+wean SNARC color arabic DC 0 up 3 num_decimal 0.443342116924
+wean SNARC color arabic DC 0 up 3 num_decimal 0.332265794018
+wean SNARC color arabic DC 0 down 5 lctrl 0.385174929158
+wean SNARC color arabic DC 0 down 1 lctrl 0.308170601078
+wean SNARC color arabic DC 0 up 7 num_decimal 0.298232586832
+wean SNARC color arabic DC 0 down 6 lctrl 0.368224419706
+wean SNARC color arabic DC 0 down 3 lctrl 0.316163027248
+wean SNARC color arabic DC 0 down 1 lctrl 0.354120612807
+wean SNARC color arabic DC 0 down 4 lctrl 0.294107753929
+wean SNARC color arabic DC 0 up 4 num_decimal 0.349155174147
+wean SNARC color arabic DC 0 up 5 num_decimal 0.321175011078
+wean SNARC color arabic DC 0 up 5 num_decimal 0.319106543755
+wean SNARC color arabic DC 0 down 9 lctrl 0.357087712199
+wean SNARC color arabic DC 0 up 5 num_decimal 0.361035052857
+wean SNARC color arabic DC 0 up 1 lctrl 0.348932067636
+wean SNARC color arabic DC 0 up 9 num_decimal 0.38499681631
+wean SNARC color arabic DC 0 down 6 lctrl 0.403915565822
+wean SNARC color arabic DC 0 up 7 num_decimal 0.44578511771
+wean SNARC color arabic DC 0 down 9 lctrl 0.374608244825
+wean SNARC color arabic DC 0 up 1 num_decimal 0.378562412107
+wean SNARC color arabic DC 0 down 6 lctrl 0.390547172598
+wean SNARC color arabic DC 0 up 6 num_decimal 0.377455878282
+wean SNARC color arabic DC 0 up 8 num_decimal 0.365476392911
+wean SNARC color arabic DC 0 up 4 num_decimal 0.369353605513
+wean SNARC color arabic DC 0 down 8 lctrl 0.365313484818
+wean SNARC color arabic DC 0 up 2 num_decimal 0.369247482527
+wean SNARC color arabic DC 0 up 6 num_decimal 0.357210591446
+wean SNARC color arabic DC 0 up 8 num_decimal 0.30516036983
+wean SNARC color arabic DC 0 down 3 lctrl 0.359150904404
+wean SNARC color arabic DC 0 up 9 num_decimal 0.379128401366
+wean SNARC color arabic DC 0 down 6 lctrl 0.375059422666
+wean SNARC color arabic DC 0 down 9 lctrl 0.339022601093
+wean SNARC color arabic DC 0 down 8 lctrl 0.288086050227
+wean SNARC color arabic DC 0 up 8 num_decimal 0.383022370229
+wean SNARC color arabic DC 0 up 6 num_decimal 0.313937237253
+wean SNARC color arabic DC 0 up 9 num_decimal 0.319975697215
+wean SNARC color arabic DC 0 down 1 lctrl 0.37394420041
+wean SNARC color arabic DC 0 up 8 num_decimal 0.401960668712
+wean SNARC color arabic DC 0 down 6 lctrl 0.339621792572
+wean SNARC color arabic DC 0 up 2 num_decimal 0.368762792164
+wean SNARC color arabic DC 0 down 3 lctrl 0.404638567451
+wean SNARC color arabic DC 0 up 7 lctrl 0.342600683407
+wean SNARC color arabic DC 0 down 8 lctrl 0.65162213018
+wean SNARC color arabic DC 0 down 8 lctrl 0.43625856276
+wean SNARC color arabic DC 0 down 2 lctrl 0.317125581349
+wean SNARC color arabic DC 0 up 3 num_decimal 0.371207965058
+wean SNARC color arabic DC 0 down 6 lctrl 0.383063019677
+wean SNARC color arabic DC 0 up 3 num_decimal 0.418067469395
+wean SNARC color arabic DC 0 down 1 lctrl 0.379839921854
+wean SNARC color arabic DC 0 up 3 num_decimal 0.431887661062
+wean SNARC color arabic DC 0 up 3 num_decimal 0.329248115541
+wean SNARC color arabic DC 0 up 6 num_decimal 0.334737342507
+wean SNARC color arabic DC 0 down 4 lctrl 0.379745900611
+wean SNARC color arabic DC 0 down 8 lctrl 0.455675035281
+wean SNARC color arabic DC 0 down 1 lctrl 0.367516622831
+wean SNARC color arabic DC 0 down 3 lctrl 0.363453539853
+wean SNARC color arabic DC 0 down 9 lctrl 0.383406833327
+wean SNARC color arabic DC 0 up 7 num_decimal 0.43432880004
+wean SNARC color arabic DC 0 down 5 lctrl 0.347219826008
+wean SNARC color arabic DC 0 down 6 lctrl 0.336166899806
+wean SNARC color arabic DC 0 down 9 lctrl 0.277167794715
+wean SNARC color arabic DC 0 up 2 num_decimal 0.397168378081
+wean SNARC color arabic DC 0 down 7 lctrl 0.360182345355
+wean SNARC color arabic DC 0 down 3 lctrl 0.340158613525
+wean SNARC color arabic DC 0 down 5 lctrl 0.353163023524
+wean SNARC color arabic DC 0 down 4 lctrl 0.284772965076
+wean SNARC color arabic DC 0 up 6 num_decimal 0.332119642186
+wean SNARC color arabic DC 0 down 8 lctrl 0.329057590649
+wean SNARC color arabic DC 0 down 3 lctrl 0.36706265228
+wean SNARC color arabic DC 0 down 6 lctrl 0.282985940877
+wean SNARC color arabic DC 0 up 5 num_decimal 0.402093787896
+wean SNARC color arabic DC 0 up 7 num_decimal 0.427904015172
+wean SNARC color arabic DC 0 up 6 num_decimal 0.429828502772
+wean SNARC color arabic DC 0 down 1 lctrl 0.391732833211
+wean SNARC color arabic DC 0 down 4 lctrl 0.346644217414
+wean SNARC color arabic DC 0 down 4 lctrl 0.344061891422
+wean SNARC color arabic DC 0 down 2 lctrl 0.372550017439
+wean SNARC color arabic DC 0 up 1 num_decimal 0.384595596951
+wean SNARC color arabic DC 0 down 9 lctrl 0.355477559643
+wean SNARC color arabic DC 0 up 9 num_decimal 0.376187056967
+wean SNARC color arabic DC 0 up 3 num_decimal 0.603468670136
+wean SNARC color arabic DC 0 down 9 lctrl 0.374009673948
+wean SNARC color arabic DC 0 down 3 lctrl 0.314061668005
+wean SNARC color arabic DC 0 down 9 lctrl 0.320079648094
+wean SNARC color arabic DC 0 up 8 num_decimal 0.398068561655
+wean SNARC color arabic DC 0 up 8 num_decimal 0.352079141682
+wean SNARC color arabic DC 0 down 3 lctrl 0.371958583488
+wean SNARC color arabic DC 0 up 6 num_decimal 0.463922218678
+wean SNARC color arabic DC 0 down 2 lctrl 0.43182404933
+wean SNARC color arabic DC 0 up 5 num_decimal 0.376606273792
+wean SNARC color arabic DC 0 down 4 lctrl 0.388534869779
+wean SNARC color arabic DC 0 down 7 lctrl 0.3195040395
+wean SNARC color arabic DC 0 up 3 num_decimal 0.373491781364
+wean SNARC color arabic DC 0 down 2 lctrl 0.385437133612
+wean SNARC color arabic DC 0 up 2 num_decimal 0.444378522694
+wean SNARC color arabic DC 0 down 2 lctrl 0.365157403351
+wean SNARC color arabic DC 0 down 7 lctrl 0.401208809077
+wean SNARC color arabic DC 0 up 6 num_decimal 0.41118716247
+wean SNARC color arabic DC 0 up 4 num_decimal 0.357051096666
+wean SNARC color arabic DC 0 up 6 num_decimal 0.377003459237
+wean SNARC color arabic DC 0 up 6 num_decimal 0.324908243957
+wean SNARC color arabic DC 0 up 5 num_decimal 0.346990513474
+wean SNARC color arabic DC 0 up 7 num_decimal 0.335897558426
+wean SNARC color arabic DC 0 up 8 num_decimal 0.356847228825
+wean SNARC color arabic DC 0 up 3 num_decimal 0.377595824091
+wean SNARC color arabic DC 0 down 3 lctrl 0.429520684052
+wean SNARC color arabic DC 0 up 1 num_decimal 0.366644986961
+wean SNARC color arabic DC 0 down 5 lctrl 0.370628322549
+wean SNARC color arabic DC 0 down 9 lctrl 0.390643055647
+wean SNARC color arabic DC 0 down 9 lctrl 0.345868774894
+wean SNARC color arabic DC 0 up 2 num_decimal 0.382527129628
+wean SNARC color arabic DC 0 up 4 num_decimal 0.465447969328
+wean SNARC color arabic DC 0 down 2 lctrl 0.401246045212
+wean SNARC color arabic DC 0 up 3 num_decimal 0.355265623972
+wean SNARC color arabic DC 0 down 9 lctrl 0.37517330318
+wean SNARC color arabic DC 0 down 9 lctrl 0.36304021875
+wean SNARC color arabic DC 0 down 7 lctrl 0.350978503579
+wean SNARC color arabic DC 0 up 4 num_decimal 0.346972826309
+wean SNARC color arabic DC 0 up 2 num_decimal 0.312004371522
+wean SNARC color arabic DC 0 down 1 lctrl 0.39002245339
+wean SNARC color arabic DC 0 down 9 lctrl 0.344830197016
+wean SNARC color arabic DC 0 down 7 lctrl 0.389866371922
+wean SNARC color arabic DC 0 up 4 num_decimal 0.401279868036
+wean SNARC color arabic DC 0 down 7 lctrl 0.33165356989
+wean SNARC color arabic DC 0 up 1 num_decimal 0.440711694257
+wean SNARC color arabic DC 0 down 2 lctrl 0.361599800911
+wean SNARC color arabic DC 0 up 1 num_decimal 0.373557565204
+wean SNARC color arabic DC 0 up 9 num_decimal 0.305508527696
+wean SNARC color arabic DC 0 down 7 lctrl 0.423448401266
+wean SNARC color arabic DC 0 down 9 lctrl 0.361350318803
+wean SNARC color arabic DC 0 up 1 num_decimal 0.405328056559
+wean SNARC color arabic DC 0 down 2 lctrl 0.375286252791
+wean SNARC color arabic DC 0 up 5 num_decimal 0.371293608169
+wean SNARC color arabic DC 0 up 6 num_decimal 0.327219366762
+wean SNARC color arabic DC 0 down 2 lctrl 0.349094355126
+wean SNARC color arabic DC 0 down 6 lctrl 0.296843368679
+wean SNARC color arabic DC 0 up 6 num_decimal 0.376318624647
+wean SNARC color arabic DC 0 up 1 num_decimal 0.355702527962
+wean SNARC color arabic DC 0 up 6 num_decimal 0.295189773964
+wean SNARC color arabic DC 0 down 5 lctrl 0.413918122703
+wean SNARC color arabic DC 0 up 2 num_decimal 0.360636936508
+wean SNARC color arabic DC 0 up 2 num_decimal 0.316719086871
+wean SNARC color arabic DC 0 up 9 num_decimal 0.314641310513
+wean SNARC color arabic DC 0 down 5 num_decimal 0.288476409046
+wean SNARC color arabic DC 0 down 2 lctrl 0.607931731269
+wean SNARC color arabic DC 0 up 6 num_decimal 0.40202086713
+wean SNARC color arabic DC 0 down 8 lctrl 0.404010517967
+wean SNARC color arabic DC 0 up 3 num_decimal 0.381670388211
+wean SNARC color arabic DC 0 up 2 num_decimal 0.392367088717
+wean SNARC color arabic DC 0 down 9 lctrl 0.387272564788
+wean SNARC color arabic DC 0 down 4 lctrl 0.325760330856
+wean SNARC color arabic DC 0 up 4 num_decimal 0.428026273817
+wean SNARC color arabic DC 0 up 3 num_decimal 0.597851599106
+wean SNARC color arabic DC 0 down 8 lctrl 0.407971201573
+wean SNARC color arabic DC 0 up 2 num_decimal 0.434757015598
+wean SNARC color arabic DC 0 up 3 num_decimal 0.36357921181
+wean SNARC color arabic DC 0 down 9 lctrl 0.368347298953
+wean SNARC color arabic DC 0 up 7 num_decimal 0.396433895309
+wean SNARC color arabic DC 0 down 2 lctrl 0.391558443976
+wean SNARC color arabic DC 0 down 5 lctrl 0.370006479087
+wean SNARC color arabic DC 0 up 3 num_decimal 0.389749388396
+wean SNARC color arabic DC 0 up 1 num_decimal 0.352447469122
+wean SNARC color arabic DC 0 up 6 num_decimal 0.349160759567
+wean SNARC color arabic DC 0 up 2 num_decimal 0.345006758359
+wean SNARC color arabic DC 0 up 3 num_decimal 0.381785820231
+wean SNARC color arabic DC 0 down 2 lctrl 0.424339896409
+wean SNARC color arabic DC 0 down 6 lctrl 0.306002837393
+wean SNARC color arabic DC 0 down 2 lctrl 0.319604887367
+wean SNARC color arabic DC 0 up 4 num_decimal 0.396495955535
+wean SNARC color arabic DC 0 up 8 num_decimal 0.34349776397
+wean SNARC color arabic DC 0 up 7 num_decimal 0.188034105818
+wean SNARC color arabic DC 0 up 9 num_decimal 0.327069801618
+wean SNARC color arabic DC 0 down 5 lctrl 0.364932124731
+wean SNARC color arabic DC 0 down 4 lctrl 0.376728842738
+wean SNARC color arabic DC 0 up 3 num_decimal 0.388439917634
+wean SNARC color arabic DC 0 up 9 num_decimal 0.311234824723
+wean SNARC color arabic DC 0 up 7 num_decimal 0.390001042612
+wean SNARC color arabic DC 0 up 5 num_decimal 0.344832989726
+wean SNARC color arabic DC 0 down 6 lctrl 0.389579653679
+wean SNARC color arabic DC 0 up 5 num_decimal 0.368457766154
+wean SNARC color arabic DC 0 up 7 num_decimal 0.300152730215
+wean SNARC color arabic DC 0 down 1 lctrl 0.362819284347
+wean SNARC color arabic DC 0 down 8 lctrl 0.295026555571
+wean SNARC color arabic DC 0 down 2 lctrl 0.285782064347
+wean SNARC color arabic DC 0 down 9 lctrl 0.276961134163
+wean SNARC color arabic DC 0 up 6 num_decimal 0.412857203144
+wean SNARC color arabic DC 0 down 3 lctrl 0.382553505223
+wean SNARC color arabic DC 0 up 1 num_decimal 0.369375326592
+wean SNARC color arabic DC 0 up 4 num_decimal 0.389306898987
+wean SNARC color arabic DC 0 down 5 lctrl 0.384204307228
+wean SNARC color arabic DC 0 down 6 lctrl 0.314943543813
+wean SNARC color arabic DC 0 up 8 num_decimal 0.416800509887
+wean SNARC color arabic DC 0 up 5 num_decimal 0.330606924183
+wean SNARC color arabic DC 0 up 4 num_decimal 0.376427230041
+wean SNARC color arabic DC 0 up 4 num_decimal 0.300379870641
+wean SNARC color arabic DC 0 up 6 num_decimal 0.314209681643
+wean SNARC color arabic DC 0 up 1 num_decimal 0.335896006921
+wean SNARC color arabic DC 0 up 9 num_decimal 0.333298786474
+wean SNARC color arabic DC 0 down 4 lctrl 0.322093502419
+{'participant': u'wean', 'interactive_setting': False, 'response_buttons': 'CD', 'range_in_instr': True, 'dateStr': '12_09_0841', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+wean SNARC_only CD 3 lctrl 0.59194439652
+wean SNARC_only CD 7 num_decimal 0.679248239662
+wean SNARC_only CD 5 num_decimal 0.63129864746
+wean SNARC_only CD 8 lctrl 0.591795451978
+wean SNARC_only CD 7 num_decimal 0.514951859883
+wean SNARC_only CD 5 num_decimal 0.553039771916
+wean SNARC_only CD 8 lctrl 0.517642791271
+wean SNARC_only CD 5 num_decimal 0.475259380714
+wean SNARC_only CD 1 num_decimal 0.674997114199
+wean SNARC_only CD 6 lctrl 0.562650418472
+wean SNARC_only CD 2 lctrl 0.535376811073
+wean SNARC_only CD 2 lctrl 0.444268365793
+wean SNARC_only CD 5 num_decimal 0.436859926347
+wean SNARC_only CD 9 num_decimal 0.653693079913
+wean SNARC_only CD 9 num_decimal 0.470265704651
+wean SNARC_only CD 5 num_decimal 0.477878322239
+wean SNARC_only CD 2 lctrl 0.469763016822
+wean SNARC_only CD 6 lctrl 0.717300156764
+wean SNARC_only CD 4 lctrl 0.466890248973
+wean SNARC_only CD 1 num_decimal 0.610654003071
+wean SNARC_only CD 9 num_decimal 0.573365737046
+wean SNARC_only CD 1 num_decimal 0.577040943614
+wean SNARC_only CD 9 num_decimal 0.564596627151
+wean SNARC_only CD 3 num_decimal 0.58427095991
+wean SNARC_only CD 6 lctrl 0.634815910752
+wean SNARC_only CD 7 num_decimal 0.468405759686
+wean SNARC_only CD 7 num_decimal 0.452292752979
+wean SNARC_only CD 5 num_decimal 0.541073319192
+wean SNARC_only CD 8 lctrl 0.481835902834
+wean SNARC_only CD 6 lctrl 0.449051657691
+wean SNARC_only CD 1 num_decimal 0.456792739946
+wean SNARC_only CD 1 num_decimal 0.393458728088
+wean SNARC_only CD 9 num_decimal 0.66035121123
+wean SNARC_only CD 3 num_decimal 0.636895238615
+wean SNARC_only CD 6 lctrl 0.469763327123
+wean SNARC_only CD 9 num_decimal 0.581387641823
+wean SNARC_only CD 4 lctrl 0.528373004298
+wean SNARC_only CD 1 num_decimal 0.582201251382
+wean SNARC_only CD 6 lctrl 0.544479804982
+wean SNARC_only CD 7 num_decimal 0.533333167839
+wean SNARC_only CD 3 num_decimal 0.442279956161
+wean SNARC_only CD 9 num_decimal 0.578834173836
+wean SNARC_only CD 8 lctrl 0.534662497875
+wean SNARC_only CD 7 num_decimal 0.44365459016
+wean SNARC_only CD 3 num_decimal 0.468245334002
+wean SNARC_only CD 8 lctrl 0.492328114896
+wean SNARC_only CD 5 num_decimal 0.499282894092
+wean SNARC_only CD 6 lctrl 0.521832166808
+wean SNARC_only CD 7 num_decimal 0.415912117755
+wean SNARC_only CD 1 num_decimal 0.673629617126
+wean SNARC_only CD 8 lctrl 0.473420225924
+wean SNARC_only CD 1 num_decimal 0.441002136113
+wean SNARC_only CD 1 num_decimal 0.370277682274
+wean SNARC_only CD 8 lctrl 0.510176635814
+wean SNARC_only CD 4 lctrl 0.500456763261
+wean SNARC_only CD 4 lctrl 0.395211619164
+wean SNARC_only CD 8 lctrl 0.40650502874
+wean SNARC_only CD 2 lctrl 0.408288329326
+wean SNARC_only CD 3 num_decimal 0.538281539938
+wean SNARC_only CD 8 lctrl 0.598854802655
+wean SNARC_only CD 7 num_decimal 0.433779877344
+wean SNARC_only CD 6 lctrl 0.538248027416
+wean SNARC_only CD 9 num_decimal 0.455244957917
+wean SNARC_only CD 9 num_decimal 0.424101585142
+wean SNARC_only CD 1 num_decimal 0.617850196545
+wean SNARC_only CD 6 lctrl 0.491906415662
+wean SNARC_only CD 2 lctrl 0.37075492541
+wean SNARC_only CD 5 num_decimal 0.486724386814
+wean SNARC_only CD 9 num_decimal 0.42924234394
+wean SNARC_only CD 5 num_decimal 0.606767791736
+wean SNARC_only CD 1 lctrl 0.393264479581
+wean SNARC_only CD 1 num_decimal 0.474964904943
+wean SNARC_only CD 9 num_decimal 0.85855605714
+wean SNARC_only CD 9 num_decimal 0.411045665155
+wean SNARC_only CD 6 lctrl 0.485916362675
+wean SNARC_only CD 6 lctrl 0.388545420018
+wean SNARC_only CD 7 num_decimal 0.488146186586
+wean SNARC_only CD 6 lctrl 0.494848070361
+wean SNARC_only CD 7 num_decimal 0.525644526474
+wean SNARC_only CD 3 num_decimal 0.515049294438
+wean SNARC_only CD 1 num_decimal 0.432796222767
+wean SNARC_only CD 9 num_decimal 0.60991703789
+wean SNARC_only CD 6 lctrl 0.452346124773
+wean SNARC_only CD 9 num_decimal 0.445355040345
+wean SNARC_only CD 3 num_decimal 0.509950736593
+wean SNARC_only CD 1 num_decimal 0.436636199233
+wean SNARC_only CD 1 num_decimal 0.365542797352
+wean SNARC_only CD 1 num_decimal 0.368810888839
+wean SNARC_only CD 2 lctrl 0.516469853004
+wean SNARC_only CD 2 lctrl 0.378505316699
+wean SNARC_only CD 5 num_decimal 0.517762257205
+wean SNARC_only CD 2 lctrl 0.507590275907
+wean SNARC_only CD 7 num_decimal 0.466244202024
+wean SNARC_only CD 2 lctrl 0.481960643887
+wean SNARC_only CD 4 lctrl 0.464756928714
+wean SNARC_only CD 9 num_decimal 0.592407365804
+wean SNARC_only CD 5 num_decimal 0.539849181239
+wean SNARC_only CD 2 lctrl 0.456332563373
+wean SNARC_only CD 3 num_decimal 0.529075526053
+wean SNARC_only CD 1 num_decimal 0.622705168003
+wean SNARC_only CD 7 num_decimal 0.43997565998
+wean SNARC_only CD 2 lctrl 0.472788142525
+wean SNARC_only CD 6 lctrl 0.432389107686
+wean SNARC_only CD 2 lctrl 0.538253302535
+wean SNARC_only CD 9 num_decimal 0.566903405741
+wean SNARC_only CD 9 num_decimal 0.418948103998
+wean SNARC_only CD 2 lctrl 0.525024855121
+wean SNARC_only CD 8 lctrl 0.45060223243
+wean SNARC_only CD 3 num_decimal 0.491614111999
+wean SNARC_only CD 6 lctrl 0.514506267462
+wean SNARC_only CD 4 lctrl 0.504176032589
+wean SNARC_only CD 3 num_decimal 0.398975882155
+wean SNARC_only CD 3 num_decimal 0.384853146888
+wean SNARC_only CD 7 num_decimal 0.428114399338
+wean SNARC_only CD 3 num_decimal 0.405987446457
+wean SNARC_only CD 8 lctrl 0.481236711354
+wean SNARC_only CD 9 num_decimal 0.511550959513
+wean SNARC_only CD 8 lctrl 0.57398261569
+wean SNARC_only CD 1 num_decimal 0.465954070468
+wean SNARC_only CD 9 num_decimal 0.569246799864
+wean SNARC_only CD 7 num_decimal 0.540594834852
+wean SNARC_only CD 2 lctrl 0.489155285856
+wean SNARC_only CD 7 num_decimal 0.440189767759
+wean SNARC_only CD 7 num_decimal 0.36912181057
+wean SNARC_only CD 7 num_decimal 0.324968132074
+wean SNARC_only CD 1 num_decimal 0.586427552754
+wean SNARC_only CD 7 num_decimal 0.389261905323
+wean SNARC_only CD 7 num_decimal 0.351903200942
+wean SNARC_only CD 1 num_decimal 0.387935057698
+wean SNARC_only CD 7 num_decimal 0.382938588924
+wean SNARC_only CD 4 lctrl 0.489743927097
+wean SNARC_only CD 1 num_decimal 0.384697375721
+wean SNARC_only CD 4 lctrl 0.45151234564
+wean SNARC_only CD 3 num_decimal 0.38741623421
+wean SNARC_only CD 9 num_decimal 0.558392466385
+wean SNARC_only CD 8 num_decimal 0.418180729307
+wean SNARC_only CD 5 num_decimal 0.435022323064
+wean SNARC_only CD 9 num_decimal 0.731807665431
+wean SNARC_only CD 1 num_decimal 0.424445398793
+wean SNARC_only CD 7 num_decimal 0.506437196913
+wean SNARC_only CD 3 lctrl 0.536973930982
+wean SNARC_only CD 8 lctrl 0.525870425696
+wean SNARC_only CD 7 num_decimal 0.435769838482
+wean SNARC_only CD 5 num_decimal 0.501135702131
+wean SNARC_only CD 5 num_decimal 0.499492037052
+wean SNARC_only CD 7 num_decimal 0.473266626865
+wean SNARC_only CD 4 lctrl 0.59314588249
+wean SNARC_only CD 4 lctrl 0.372452582885
+wean SNARC_only CD 5 num_decimal 0.416445835697
+wean SNARC_only CD 8 lctrl 0.569758796727
+wean SNARC_only CD 9 num_decimal 0.445529429579
+wean SNARC_only CD 2 lctrl 0.462305860099
+wean SNARC_only CD 8 lctrl 0.622210237703
+wean SNARC_only CD 5 num_decimal 0.559907356495
+wean SNARC_only CD 6 lctrl 0.667595811679
+wean SNARC_only CD 3 num_decimal 0.42736998693
+wean SNARC_only CD 4 num_decimal 0.444720164237
+wean SNARC_only CD 4 lctrl 0.662158094701
+wean SNARC_only CD 6 lctrl 0.470796629882
+wean SNARC_only CD 1 num_decimal 0.518640409399
+wean SNARC_only CD 4 lctrl 0.572455313535
+wean SNARC_only CD 5 num_decimal 0.552180858392
+wean SNARC_only CD 6 lctrl 0.475963764275
+wean SNARC_only CD 1 num_decimal 0.443788640248
+wean SNARC_only CD 5 num_decimal 0.724736213011
+wean SNARC_only CD 8 lctrl 0.538373699373
+wean SNARC_only CD 2 lctrl 0.423000947039
+wean SNARC_only CD 7 num_decimal 0.521044622543
+wean SNARC_only CD 2 lctrl 0.486774965898
+wean SNARC_only CD 8 lctrl 0.509615611374
+wean SNARC_only CD 4 lctrl 0.436228773851
+wean SNARC_only CD 5 num_decimal 0.47735081032
+wean SNARC_only CD 4 lctrl 0.605184325076
+wean SNARC_only CD 3 num_decimal 0.495828311627
+wean SNARC_only CD 8 lctrl 0.526662934778
+wean SNARC_only CD 1 num_decimal 0.420569117094
+wean SNARC_only CD 3 num_decimal 0.406388355516
+wean SNARC_only CD 5 num_decimal 0.591460326759
+wean SNARC_only CD 2 lctrl 0.55390147815
+wean SNARC_only CD 7 num_decimal 0.478672693128
+wean SNARC_only CD 1 num_decimal 0.638665816855
+wean SNARC_only CD 7 num_decimal 0.399406890423
+wean SNARC_only CD 5 num_decimal 0.465280717019
+wean SNARC_only CD 4 lctrl 0.441065437543
+wean SNARC_only CD 8 lctrl 0.465967103115
+wean SNARC_only CD 5 num_decimal 0.409793910403
+wean SNARC_only CD 8 lctrl 0.515762676732
+wean SNARC_only CD 7 num_decimal 0.465623910067
+wean SNARC_only CD 6 lctrl 0.481360831805
+wean SNARC_only CD 5 num_decimal 0.408226269101
+wean SNARC_only CD 6 lctrl 0.642179977137
+wean SNARC_only CD 3 num_decimal 0.482787286094
+wean SNARC_only CD 9 num_decimal 0.577621827326
+wean SNARC_only CD 4 lctrl 0.477322262617
+wean SNARC_only CD 6 lctrl 0.445216335741
+wean SNARC_only CD 5 num_decimal 0.702132016994
+wean SNARC_only CD 4 lctrl 0.444740333809
+wean SNARC_only CD 8 lctrl 0.525612255157
+wean SNARC_only CD 4 lctrl 0.427352920368
+wean SNARC_only CD 5 num_decimal 0.517426201083
+wean SNARC_only CD 5 num_decimal 0.355081925704
+wean SNARC_only CD 6 lctrl 0.503070739969
+wean SNARC_only CD 1 num_decimal 0.628936014666
+wean SNARC_only CD 6 lctrl 0.476948660058
+wean SNARC_only CD 4 lctrl 0.460389440329
+wean SNARC_only CD 7 num_decimal 0.413110719167
+wean SNARC_only CD 4 lctrl 0.439146535364
+wean SNARC_only CD 9 num_decimal 0.560078642718
+wean SNARC_only CD 8 lctrl 0.652444428171
+wean SNARC_only CD 4 lctrl 0.404520653023
+wean SNARC_only CD 3 num_decimal 0.470423647925
+wean SNARC_only CD 1 num_decimal 0.486303308182
+wean SNARC_only CD 5 num_decimal 0.581148089352
+wean SNARC_only CD 4 lctrl 0.455887281253
+wean SNARC_only CD 9 num_decimal 0.503648830972
+wean SNARC_only CD 3 num_decimal 0.454381079575
+wean SNARC_only CD 5 num_decimal 0.502493890171
+wean SNARC_only CD 2 lctrl 0.437050761541
+wean SNARC_only CD 4 lctrl 0.390071791269
+wean SNARC_only CD 5 num_decimal 0.400909058186
+wean SNARC_only CD 7 num_decimal 0.522888742151
+wean SNARC_only CD 9 num_decimal 0.480678479624
+wean SNARC_only CD 2 lctrl 0.432522537171
+wean SNARC_only CD 1 num_decimal 0.393531338552
+wean SNARC_only CD 3 num_decimal 0.492359145009
+wean SNARC_only CD 1 num_decimal 0.483251186281
+wean SNARC_only CD 2 num_decimal 0.329986011625
+wean SNARC_only CD 1 num_decimal 0.416095195421
+wean SNARC_only CD 6 lctrl 0.489954931864
+wean SNARC_only CD 5 num_decimal 0.576853832033
+wean SNARC_only CD 8 lctrl 0.476510825165
+wean SNARC_only CD 3 num_decimal 0.436462740902
+wean SNARC_only CD 2 lctrl 0.509323928313
+wean SNARC_only CD 3 num_decimal 0.483975429115
+wean SNARC_only CD 9 num_decimal 0.498912394544
+wean SNARC_only CD 8 lctrl 0.48877423607
+wean SNARC_only CD 5 num_decimal 0.407543606617
+wean SNARC_only CD 2 lctrl 0.450287587086
+wean SNARC_only CD 2 lctrl 0.354918397009
+wean SNARC_only CD 3 num_decimal 0.463376709294
+wean SNARC_only CD 3 num_decimal 0.384028366488
+wean SNARC_only CD 6 lctrl 0.419045848853
+wean SNARC_only CD 8 lctrl 0.428849813013
+wean SNARC_only CD 5 num_decimal 0.43104860681
+wean SNARC_only CD 6 lctrl 0.423777630764
+wean SNARC_only CD 5 num_decimal 0.457666237624
+wean SNARC_only CD 4 lctrl 0.418214862431
+wean SNARC_only CD 8 lctrl 0.492361317116
+wean SNARC_only CD 5 num_decimal 0.395237063856
+wean SNARC_only CD 8 lctrl 0.462277932997
+wean SNARC_only CD 4 lctrl 0.454035714419
+wean SNARC_only CD 4 lctrl 0.35794848753
+wean SNARC_only CD 4 lctrl 0.354622059431
+wean SNARC_only CD 6 lctrl 0.486807547516
+wean SNARC_only CD 1 num_decimal 0.4298086435
+wean SNARC_only CD 7 num_decimal 0.375621688311
+wean SNARC_only CD 9 num_decimal 0.579571449317
+wean SNARC_only CD 4 lctrl 0.471232913269
+wean SNARC_only CD 8 lctrl 0.511064097042
+wean SNARC_only CD 1 num_decimal 0.412990012027
+wean SNARC_only CD 9 num_decimal 0.590662542558
+wean SNARC_only CD 3 num_decimal 0.497592063242
+wean SNARC_only CD 1 num_decimal 0.440324748749
+wean SNARC_only CD 2 lctrl 0.53735280866
+wean SNARC_only CD 3 num_decimal 0.694128730285
+wean SNARC_only CD 6 lctrl 0.500578091003
+wean SNARC_only CD 2 lctrl 0.41052715197
+wean SNARC_only CD 9 num_decimal 0.444532742354
+wean SNARC_only CD 4 lctrl 0.453358947657
+wean SNARC_only CD 7 num_decimal 0.445907996957
+wean SNARC_only CD 8 lctrl 0.527066946848
+wean SNARC_only CD 3 num_decimal 0.396932859524
+wean SNARC_only CD 9 num_decimal 0.599835974823
+wean SNARC_only CD 2 lctrl 0.570463800891
+wean SNARC_only CD 9 num_decimal 0.47033986662
+wean SNARC_only CD 7 num_decimal 0.462152261041
+wean SNARC_only CD 6 lctrl 0.413943567396
+wean SNARC_only CD 3 num_decimal 0.439876984221
+wean SNARC_only CD 8 lctrl 0.537268717054
+wean SNARC_only CD 2 lctrl 0.5265862904
+wean SNARC_only CD 2 lctrl 0.396333668045
+wean SNARC_only CD 1 num_decimal 0.407334153356
+wean SNARC_only CD 8 lctrl 0.553226573196
+wean SNARC_only CD 4 lctrl 0.748882605636
+wean SNARC_only CD 8 lctrl 0.497566308248
+wean SNARC_only CD 4 lctrl 0.384426793137
+wean SNARC_only CD 3 num_decimal 0.419371665038
+wean SNARC_only CD 5 num_decimal 0.637095382843
+wean SNARC_only CD 4 lctrl 0.413820688148
+wean SNARC_only CD 7 num_decimal 0.479860215548
+wean SNARC_only CD 9 num_decimal 0.559806508628
+wean SNARC_only CD 9 num_decimal 0.412353584413
+wean SNARC_only CD 7 num_decimal 0.422405479173
+wean SNARC_only CD 6 lctrl 0.408283054207
+wean SNARC_only CD 2 lctrl 0.530127757181
+wean SNARC_only CD 1 num_decimal 0.424022768656
+wean SNARC_only CD 2 lctrl 0.425694360835
+wean SNARC_only CD 1 num_decimal 0.939706628901
+wean SNARC_only CD 3 num_decimal 0.513072676248
+wean SNARC_only CD 3 num_decimal 0.414976249552
+wean SNARC_only CD 7 num_decimal 0.544827342246
+wean SNARC_only CD 7 num_decimal 0.374233090761
+wean SNARC_only CD 9 num_decimal 0.529621035438
+wean SNARC_only CD 3 num_decimal 0.479478234858
+wean SNARC_only CD 4 lctrl 0.391256210677
+wean SNARC_only CD 6 lctrl 0.466168488548
+wean SNARC_only CD 3 num_decimal 0.473978767956
+wean SNARC_only CD 2 lctrl 0.473871403765
+wean SNARC_only CD 8 lctrl 0.857513445348
+wean SNARC_only CD 4 lctrl 0.482150548178
+wean SNARC_only CD 6 lctrl 0.376995391407
+wean SNARC_only CD 9 num_decimal 0.493028464543
+wean SNARC_only CD 2 lctrl 0.443788329947
+wean SNARC_only CD 7 num_decimal 0.47663308381
+wean SNARC_only CD 2 num_decimal 0.404521894227
+wean SNARC_only CD 2 lctrl 0.543261562751
+wean SNARC_only CD 1 num_decimal 0.548176732629
+wean SNARC_only CD 8 lctrl 0.456816633133
+wean SNARC_only CD 8 lctrl 0.377535935974
+wean SNARC_only CD 8 lctrl 0.396764676313
+wean SNARC_only CD 6 lctrl 0.551758848857
+wean SNARC_only CD 2 lctrl 0.40350255502
+wean SNARC_only CD 8 lctrl 0.517408203617
+wean SNARC_only CD 5 num_decimal 0.619250585538
+wean SNARC_only CD 3 num_decimal 0.596795954666
+wean SNARC_only CD 3 num_decimal 0.320283826236
+wean SNARC_only CD 7 num_decimal 0.414349751573
+wean SNARC_only CD 3 num_decimal 0.511629155397
+wean SNARC_only CD 9 num_decimal 0.405418354188
+wean SNARC_only CD 1 num_decimal 0.575324978372
+wean SNARC_only CD 5 num_decimal 0.498996175849
+wean SNARC_only CD 8 lctrl 0.480881416562
+wean SNARC_only CD 7 num_decimal 0.400710775765
+wean SNARC_only CD 9 num_decimal 0.491396280607
+wean SNARC_only CD 6 lctrl 0.570416635119
+wean SNARC_only CD 7 num_decimal 0.486263589638
+wean SNARC_only CD 3 num_decimal 0.469083147049
+wean SNARC_only CD 2 lctrl 0.468865625958
+wean SNARC_only CD 4 lctrl 0.444462614299
+wean SNARC_only CD 5 num_decimal 0.485624369313
+wean SNARC_only CD 4 lctrl 0.444502953446
+wean SNARC_only CD 2 lctrl 0.541354762316
+wean SNARC_only CD 6 lctrl 0.466013958586
+wean SNARC_only CD 6 lctrl 0.49797373363
+wean SNARC_only CD 1 num_decimal 0.472636405273
+wean SNARC_only CD 6 lctrl 0.40867992935
+wean SNARC_only CD 4 lctrl 0.522561064159
+wean SNARC_only CD 6 lctrl 0.43240958756
+wean SNARC_only CD 9 num_decimal 0.473236217354
+wean SNARC_only CD 5 num_decimal 0.513156767854
+wean SNARC_only CD 2 lctrl 0.422850450992
+wean SNARC_only CD 8 lctrl 0.392759309344
+wean SNARC_only CD 9 num_decimal 0.539703339709
+wean SNARC_only CD 2 lctrl 0.633026404143
+wean SNARC_only CD 4 lctrl 0.442241478821
+wean SNARC_only CD 5 num_decimal 0.555130580921
+wean SNARC_only CD 6 lctrl 0.511722556038
+wean SNARC_only CD 3 num_decimal 0.413671743607
+wean SNARC_only CD 6 lctrl 0.488171631278
+wean SNARC_only CD 4 lctrl 0.407359908349
+{'participant': u'wean', 'interactive_setting': False, 'response_buttons': 'DC', 'range_in_instr': True, 'dateStr': '12_09_0849', 'autopilot': False, 'exp_id': 'SNARC_parity'}
+wean SNARC_only DC 7 lctrl 0.685873168758
+wean SNARC_only DC 2 num_decimal 0.428589470366
+wean SNARC_only DC 6 num_decimal 0.518600380553
+wean SNARC_only DC 8 num_decimal 0.42835426211
+wean SNARC_only DC 7 lctrl 0.470229709719
+wean SNARC_only DC 6 num_decimal 0.390176983352
+wean SNARC_only DC 2 num_decimal 0.424949017524
+wean SNARC_only DC 3 lctrl 0.418953068816
+wean SNARC_only DC 3 lctrl 0.356708834521
+wean SNARC_only DC 5 lctrl 0.409444821632
+wean SNARC_only DC 7 num_decimal 0.387645236443
+wean SNARC_only DC 6 num_decimal 0.830497698186
+wean SNARC_only DC 2 num_decimal 0.440658632764
+wean SNARC_only DC 1 lctrl 0.433903997796
+wean SNARC_only DC 1 lctrl 0.354900399544
+wean SNARC_only DC 6 num_decimal 0.414811789954
+wean SNARC_only DC 2 num_decimal 0.440786476829
+wean SNARC_only DC 5 lctrl 0.401618716867
+wean SNARC_only DC 7 lctrl 0.388281664058
+wean SNARC_only DC 7 lctrl 0.359553364967
+wean SNARC_only DC 4 num_decimal 0.595412632234
+wean SNARC_only DC 8 num_decimal 0.52626202572
+wean SNARC_only DC 4 num_decimal 0.459919023817
+wean SNARC_only DC 4 num_decimal 0.420660966228
+wean SNARC_only DC 7 lctrl 0.40663969943
+wean SNARC_only DC 7 lctrl 0.353275662834
+wean SNARC_only DC 9 lctrl 0.605642639844
+wean SNARC_only DC 6 num_decimal 0.456297809646
+wean SNARC_only DC 7 lctrl 0.424207087526
+wean SNARC_only DC 6 num_decimal 0.522103369995
+wean SNARC_only DC 6 num_decimal 0.359907418555
+wean SNARC_only DC 8 num_decimal 0.411895579946
+wean SNARC_only DC 8 num_decimal 0.36657020439
+wean SNARC_only DC 1 lctrl 0.466557606163
+wean SNARC_only DC 9 lctrl 0.370497685774
+wean SNARC_only DC 8 lctrl 0.350311045851
+wean SNARC_only DC 5 lctrl 0.403159361971
+wean SNARC_only DC 8 num_decimal 0.541388585139
+wean SNARC_only DC 3 lctrl 0.546206010161
+wean SNARC_only DC 5 lctrl 0.559053407789
+wean SNARC_only DC 5 lctrl 0.347513060574
+wean SNARC_only DC 7 lctrl 0.559705971062
+wean SNARC_only DC 7 lctrl 0.356339265878
+wean SNARC_only DC 5 lctrl 0.4244472606
+wean SNARC_only DC 4 num_decimal 0.474237869398
+wean SNARC_only DC 9 lctrl 0.538134457202
+wean SNARC_only DC 7 lctrl 0.486879537378
+wean SNARC_only DC 1 lctrl 0.414117646329
+wean SNARC_only DC 8 num_decimal 0.567712671085
+wean SNARC_only DC 9 lctrl 0.547397256193
+wean SNARC_only DC 3 lctrl 0.480223578169
+wean SNARC_only DC 2 num_decimal 0.488103054728
+wean SNARC_only DC 2 num_decimal 0.390974457252
+wean SNARC_only DC 8 num_decimal 0.513776439208
+wean SNARC_only DC 6 num_decimal 0.456444892382
+wean SNARC_only DC 1 lctrl 0.440473072689
+wean SNARC_only DC 5 lctrl 0.385425031868
+wean SNARC_only DC 9 lctrl 0.380290168791
+wean SNARC_only DC 9 lctrl 0.360280090211
+wean SNARC_only DC 2 num_decimal 0.444139901126
+wean SNARC_only DC 8 num_decimal 0.637155891563
+wean SNARC_only DC 3 lctrl 0.541804698952
+wean SNARC_only DC 8 num_decimal 0.58654453628
+wean SNARC_only DC 6 num_decimal 0.413376336932
+wean SNARC_only DC 2 num_decimal 0.408012781924
+wean SNARC_only DC 6 num_decimal 0.386107073748
+wean SNARC_only DC 2 num_decimal 0.556967253301
+wean SNARC_only DC 1 lctrl 0.417753754954
+wean SNARC_only DC 4 num_decimal 0.403745520803
+wean SNARC_only DC 5 lctrl 0.510301687169
+wean SNARC_only DC 5 lctrl 0.389074793743
+wean SNARC_only DC 9 lctrl 0.52033713597
+wean SNARC_only DC 3 lctrl 0.382119393945
+wean SNARC_only DC 3 lctrl 0.393094744864
+wean SNARC_only DC 6 num_decimal 0.412096655078
+wean SNARC_only DC 5 lctrl 0.453969309977
+wean SNARC_only DC 2 num_decimal 0.398604141403
+wean SNARC_only DC 9 lctrl 0.424647094526
+wean SNARC_only DC 2 num_decimal 0.418616702393
+wean SNARC_only DC 8 num_decimal 0.452506240156
+wean SNARC_only DC 1 lctrl 0.397221439574
+wean SNARC_only DC 6 num_decimal 0.432243266155
+wean SNARC_only DC 9 lctrl 0.457231195441
+wean SNARC_only DC 4 num_decimal 0.432987988864
+wean SNARC_only DC 7 lctrl 0.417804334038
+wean SNARC_only DC 1 lctrl 0.475788133836
+wean SNARC_only DC 2 num_decimal 0.443712616472
+wean SNARC_only DC 5 lctrl 0.420987713317
+wean SNARC_only DC 8 lctrl 0.326895102083
+wean SNARC_only DC 8 num_decimal 0.436974427463
+wean SNARC_only DC 7 lctrl 0.47833787821
+wean SNARC_only DC 3 lctrl 0.678205938171
+wean SNARC_only DC 8 num_decimal 0.66986132022
+wean SNARC_only DC 9 lctrl 0.493497639849
+wean SNARC_only DC 9 lctrl 0.460428538271
+wean SNARC_only DC 4 num_decimal 0.477058506657
+wean SNARC_only DC 4 num_decimal 0.381039546017
+wean SNARC_only DC 8 num_decimal 0.576018811696
+wean SNARC_only DC 2 num_decimal 0.411774252205
+wean SNARC_only DC 8 num_decimal 0.453700278898
+wean SNARC_only DC 4 num_decimal 0.53434785253
+wean SNARC_only DC 8 num_decimal 0.403352058972
+wean SNARC_only DC 4 num_decimal 0.597216722997
+wean SNARC_only DC 5 lctrl 0.488572850637
+wean SNARC_only DC 9 lctrl 0.399819590924
+wean SNARC_only DC 8 num_decimal 0.537736961457
+wean SNARC_only DC 7 lctrl 0.510528517294
+wean SNARC_only DC 1 lctrl 0.397209648131
+wean SNARC_only DC 1 lctrl 0.368460558865
+wean SNARC_only DC 8 num_decimal 0.412159646207
+wean SNARC_only DC 4 num_decimal 0.422126518458
+wean SNARC_only DC 2 num_decimal 0.352027321394
+wean SNARC_only DC 5 lctrl 0.563876418231
+wean SNARC_only DC 6 num_decimal 0.472697844897
+wean SNARC_only DC 6 num_decimal 0.400543523457
+wean SNARC_only DC 7 lctrl 0.475217490061
+wean SNARC_only DC 4 num_decimal 0.403257106827
+wean SNARC_only DC 6 num_decimal 0.389278351283
+wean SNARC_only DC 1 lctrl 0.416183320942
+wean SNARC_only DC 7 num_decimal 0.458109657936
+wean SNARC_only DC 5 lctrl 0.545954045644
+wean SNARC_only DC 7 lctrl 0.390633746613
+wean SNARC_only DC 8 num_decimal 0.521662121789
+wean SNARC_only DC 1 lctrl 0.503451169153
+wean SNARC_only DC 9 lctrl 0.534123194513
+wean SNARC_only DC 9 lctrl 0.411055594791
+wean SNARC_only DC 5 lctrl 0.532979114251
+wean SNARC_only DC 2 num_decimal 0.425829031525
+wean SNARC_only DC 9 lctrl 0.419627353168
+wean SNARC_only DC 4 num_decimal 0.59756674267
+wean SNARC_only DC 2 num_decimal 0.488348813222
+wean SNARC_only DC 1 lctrl 0.439099990195
+wean SNARC_only DC 7 lctrl 0.439956421309
+wean SNARC_only DC 9 lctrl 0.44880403739
+wean SNARC_only DC 3 lctrl 0.489544713772
+wean SNARC_only DC 6 num_decimal 0.520528902068
+wean SNARC_only DC 6 num_decimal 0.41442050023
+wean SNARC_only DC 8 num_decimal 0.424153405431
+wean SNARC_only DC 6 num_decimal 0.370253478786
+wean SNARC_only DC 5 lctrl 0.462094855332
+wean SNARC_only DC 7 lctrl 0.382033750833
+wean SNARC_only DC 1 lctrl 0.560875185715
+wean SNARC_only DC 3 lctrl 0.469555735668
+wean SNARC_only DC 4 num_decimal 0.461548104743
+wean SNARC_only DC 5 lctrl 0.446190681285
+wean SNARC_only DC 5 lctrl 0.431265196998
+wean SNARC_only DC 4 num_decimal 0.472178711108
+wean SNARC_only DC 4 num_decimal 0.464011275102
+wean SNARC_only DC 1 lctrl 0.448670297604
+wean SNARC_only DC 1 lctrl 0.53727585398
+wean SNARC_only DC 6 num_decimal 0.430567329759
+wean SNARC_only DC 6 num_decimal 0.408421138209
+wean SNARC_only DC 1 lctrl 0.458349520709
+wean SNARC_only DC 4 num_decimal 0.474988177527
+wean SNARC_only DC 1 lctrl 2.64298769097
+wean SNARC_only DC 7 lctrl 0.515785639016
+wean SNARC_only DC 8 lctrl 0.385608109534
+wean SNARC_only DC 2 num_decimal 0.452579781523
+wean SNARC_only DC 9 lctrl 0.525029819938
+wean SNARC_only DC 6 num_decimal 0.459142029791
+wean SNARC_only DC 9 lctrl 0.62714712866
+wean SNARC_only DC 2 num_decimal 0.500702211454
+wean SNARC_only DC 4 num_decimal 0.64341249322
+wean SNARC_only DC 9 lctrl 0.788235925671
+wean SNARC_only DC 1 lctrl 0.406844498175
+wean SNARC_only DC 1 lctrl 0.361416102643
+wean SNARC_only DC 6 num_decimal 0.541692680245
+wean SNARC_only DC 4 num_decimal 1.04240885525
+wean SNARC_only DC 3 lctrl 1.26777466925
+wean SNARC_only DC 5 lctrl 0.531835344291
+wean SNARC_only DC 5 lctrl 0.385085252132
+wean SNARC_only DC 9 lctrl 0.404414219735
+wean SNARC_only DC 7 lctrl 0.455041400377
+wean SNARC_only DC 3 lctrl 0.535289616455
+wean SNARC_only DC 1 lctrl 0.39613445472
+wean SNARC_only DC 5 lctrl 0.535014689655
+wean SNARC_only DC 5 lctrl 0.388358308437
+wean SNARC_only DC 6 num_decimal 0.423739153424
+wean SNARC_only DC 1 lctrl 0.505668581018
+wean SNARC_only DC 6 num_decimal 0.591499424702
+wean SNARC_only DC 3 lctrl 0.394173351587
+wean SNARC_only DC 1 lctrl 0.373053325869
+wean SNARC_only DC 3 lctrl 0.497015834046
+wean SNARC_only DC 9 lctrl 0.639949842925
+wean SNARC_only DC 3 lctrl 0.552605970938
+wean SNARC_only DC 8 num_decimal 0.645354357683
+wean SNARC_only DC 8 num_decimal 0.374000675215
+wean SNARC_only DC 8 num_decimal 0.394025958551
+wean SNARC_only DC 5 lctrl 0.541055011425
+wean SNARC_only DC 2 num_decimal 0.5464092574
+wean SNARC_only DC 1 lctrl 0.535477348638
+wean SNARC_only DC 6 num_decimal 0.443883282092
+wean SNARC_only DC 6 num_decimal 0.381206177723
+wean SNARC_only DC 7 lctrl 0.368146534122
+wean SNARC_only DC 5 lctrl 0.388074693205
+wean SNARC_only DC 8 num_decimal 0.495104068792
+wean SNARC_only DC 2 num_decimal 0.749865019009
+wean SNARC_only DC 1 lctrl 0.386601383446
+wean SNARC_only DC 5 lctrl 0.517459713605
+wean SNARC_only DC 3 lctrl 0.42711709151
+wean SNARC_only DC 8 lctrl 0.420961337721
+wean SNARC_only DC 8 num_decimal 0.486973868922
+wean SNARC_only DC 8 num_decimal 0.334285233762
+wean SNARC_only DC 1 lctrl 0.490726961072
+wean SNARC_only DC 3 lctrl 0.513976583436
+wean SNARC_only DC 4 num_decimal 0.520399506497
+wean SNARC_only DC 3 lctrl 0.798121188726
+wean SNARC_only DC 4 num_decimal 0.440779339902
+wean SNARC_only DC 8 num_decimal 0.433690510619
+wean SNARC_only DC 5 num_decimal 0.386535289306
+wean SNARC_only DC 6 num_decimal 0.485443153454
+wean SNARC_only DC 4 num_decimal 0.50819846612
+wean SNARC_only DC 4 num_decimal 0.41812921932
+wean SNARC_only DC 3 lctrl 0.484012044649
+wean SNARC_only DC 1 lctrl 0.442804365068
+wean SNARC_only DC 4 num_decimal 0.523815301321
+wean SNARC_only DC 3 lctrl 0.481454853048
+wean SNARC_only DC 3 lctrl 0.560317884888
+wean SNARC_only DC 9 lctrl 0.492929478483
+wean SNARC_only DC 6 num_decimal 0.451928769755
+wean SNARC_only DC 2 num_decimal 0.403751726826
+wean SNARC_only DC 1 lctrl 0.606450974284
+wean SNARC_only DC 1 lctrl 0.377088481746
+wean SNARC_only DC 7 lctrl 0.468301808808
+wean SNARC_only DC 5 lctrl 0.55622190999
+wean SNARC_only DC 9 lctrl 0.560014100084
+wean SNARC_only DC 6 num_decimal 0.459741531572
+wean SNARC_only DC 2 num_decimal 0.380299167524
+wean SNARC_only DC 6 num_decimal 0.383592393403
+wean SNARC_only DC 2 num_decimal 0.410474400777
+wean SNARC_only DC 7 lctrl 0.420425757973
+wean SNARC_only DC 8 num_decimal 0.574328911749
+wean SNARC_only DC 9 lctrl 0.522041930371
+wean SNARC_only DC 4 num_decimal 0.487838988468
+wean SNARC_only DC 6 num_decimal 0.478770437984
+wean SNARC_only DC 2 num_decimal 0.414523830506
+wean SNARC_only DC 7 lctrl 0.440379361748
+wean SNARC_only DC 1 lctrl 0.537339465711
+wean SNARC_only DC 1 lctrl 0.374093765554
+wean SNARC_only DC 4 num_decimal 0.666089920302
+wean SNARC_only DC 8 num_decimal 0.417717449722
+wean SNARC_only DC 6 num_decimal 0.435556351305
+wean SNARC_only DC 3 lctrl 0.404951350989
+wean SNARC_only DC 3 lctrl 0.4313756642
+wean SNARC_only DC 4 num_decimal 0.432207581525
+wean SNARC_only DC 7 lctrl 0.497184017257
+wean SNARC_only DC 5 num_decimal 0.488500240173
+wean SNARC_only DC 4 num_decimal 0.575884141006
+wean SNARC_only DC 1 lctrl 0.531544281833
+wean SNARC_only DC 7 lctrl 0.448366512799
+wean SNARC_only DC 5 lctrl 0.528021743421
+wean SNARC_only DC 7 lctrl 0.669974890433
+wean SNARC_only DC 1 lctrl 0.469768912543
+wean SNARC_only DC 4 num_decimal 0.421569838234
+wean SNARC_only DC 4 num_decimal 0.399412786144
+wean SNARC_only DC 1 lctrl 0.434123690995
+wean SNARC_only DC 2 num_decimal 0.507242118041
+wean SNARC_only DC 3 lctrl 0.465046749968
+wean SNARC_only DC 9 lctrl 0.464834193695
+wean SNARC_only DC 9 lctrl 0.392715246584
+wean SNARC_only DC 1 lctrl 0.411592105443
+wean SNARC_only DC 9 lctrl 0.390002594118
+wean SNARC_only DC 9 lctrl 0.353443535745
+wean SNARC_only DC 4 num_decimal 0.445302599455
+wean SNARC_only DC 2 num_decimal 0.38231333215
+wean SNARC_only DC 4 num_decimal 0.44930455311
+wean SNARC_only DC 2 num_decimal 0.385156311091
+wean SNARC_only DC 1 lctrl 0.45208392032
+wean SNARC_only DC 5 lctrl 0.587914515763
+wean SNARC_only DC 5 lctrl 0.335267957436
+wean SNARC_only DC 4 num_decimal 0.587677756002
+wean SNARC_only DC 5 lctrl 0.55836360838
+wean SNARC_only DC 3 lctrl 0.602213812372
+wean SNARC_only DC 1 lctrl 0.443839219332
+wean SNARC_only DC 3 lctrl 0.405127912331
+wean SNARC_only DC 9 lctrl 0.543595757066
+wean SNARC_only DC 7 lctrl 0.404368295168
+wean SNARC_only DC 7 lctrl 0.319114301283
+wean SNARC_only DC 7 lctrl 0.317049557573
+wean SNARC_only DC 3 num_decimal 0.426389125063
+wean SNARC_only DC 5 lctrl 0.612262604122
+wean SNARC_only DC 3 lctrl 0.85488022997
+wean SNARC_only DC 2 num_decimal 0.54355821063
+wean SNARC_only DC 6 num_decimal 0.516216336982
+wean SNARC_only DC 7 lctrl 0.417959174301
+wean SNARC_only DC 9 lctrl 0.395972477531
+wean SNARC_only DC 8 num_decimal 0.566937538865
+wean SNARC_only DC 6 num_decimal 0.466626803315
+wean SNARC_only DC 3 lctrl 0.418466826948
+wean SNARC_only DC 4 num_decimal 0.492324701584
+wean SNARC_only DC 2 num_decimal 0.451175048314
+wean SNARC_only DC 6 num_decimal 0.451023311062
+wean SNARC_only DC 6 num_decimal 0.506927162396
+wean SNARC_only DC 3 lctrl 0.424635613384
+wean SNARC_only DC 8 num_decimal 0.602631477691
+wean SNARC_only DC 4 num_decimal 0.388429057094
+wean SNARC_only DC 4 num_decimal 0.35118206112
+wean SNARC_only DC 5 lctrl 0.435298801369
+wean SNARC_only DC 6 num_decimal 0.596110189172
+wean SNARC_only DC 7 lctrl 0.654826609935
+wean SNARC_only DC 4 num_decimal 0.439526964547
+wean SNARC_only DC 6 num_decimal 0.58431471237
+wean SNARC_only DC 9 lctrl 0.451092818515
+wean SNARC_only DC 7 lctrl 0.411016496849
+wean SNARC_only DC 8 num_decimal 0.516920720544
+wean SNARC_only DC 3 lctrl 0.466666832161
+wean SNARC_only DC 7 lctrl 0.434511567405
+wean SNARC_only DC 9 lctrl 0.403467180691
+wean SNARC_only DC 2 num_decimal 0.40537770474
+wean SNARC_only DC 9 lctrl 0.423272770828
+wean SNARC_only DC 6 num_decimal 0.449280659924
+wean SNARC_only DC 5 lctrl 0.489039233234
+wean SNARC_only DC 8 num_decimal 0.415694906966
+wean SNARC_only DC 3 lctrl 0.449744870412
+wean SNARC_only DC 7 lctrl 0.417651665883
+wean SNARC_only DC 3 lctrl 0.467528538395
+wean SNARC_only DC 4 num_decimal 0.467348874041
+wean SNARC_only DC 2 num_decimal 0.427231282325
+wean SNARC_only DC 2 num_decimal 0.389137474571
+wean SNARC_only DC 5 lctrl 0.488065197991
+wean SNARC_only DC 9 lctrl 0.422875895684
+wean SNARC_only DC 2 num_decimal 0.40079734978
+wean SNARC_only DC 1 lctrl 0.418651456119
+wean SNARC_only DC 5 lctrl 0.468554083625
+wean SNARC_only DC 2 num_decimal 0.49259031935
+wean SNARC_only DC 4 num_decimal 0.531277112561
+wean SNARC_only DC 7 lctrl 0.415959593828
+wean SNARC_only DC 3 lctrl 0.497840924747
+wean SNARC_only DC 6 num_decimal 0.455666036548
+wean SNARC_only DC 3 lctrl 0.527657449896
+wean SNARC_only DC 8 num_decimal 0.629463216284
+wean SNARC_only DC 9 lctrl 0.631086711789
+wean SNARC_only DC 2 num_decimal 0.495839482467
+wean SNARC_only DC 9 lctrl 0.414594268862
+wean SNARC_only DC 5 lctrl 0.568465461623
+wean SNARC_only DC 1 lctrl 0.364345965899
+wean SNARC_only DC 9 lctrl 0.432305636682
+wean SNARC_only DC 9 lctrl 0.361100526395
+wean SNARC_only DC 2 num_decimal 0.453088675374
+wean SNARC_only DC 3 lctrl 0.468966473825
+wean SNARC_only DC 2 num_decimal 0.572792610861
+wean SNARC_only DC 9 lctrl 0.664618782651
+wean SNARC_only DC 3 lctrl 0.432218131764
+wean SNARC_only DC 7 lctrl 0.417113293424
+wean SNARC_only DC 3 lctrl 0.795010419912
+wean SNARC_only DC 3 lctrl 0.366292174578
+wean SNARC_only DC 3 lctrl 0.354236044827
+wean SNARC_only DC 7 lctrl 0.462397709233
+wean SNARC_only DC 4 num_decimal 0.390309171632
+wean SNARC_only DC 5 lctrl 0.48121343877
+wean SNARC_only DC 2 num_decimal 0.43987419151
+wean SNARC_only DC 1 lctrl 0.472895196414
+wean SNARC_only DC 2 num_decimal 0.432809255414
+wean SNARC_only DC 8 num_decimal 0.705631593123
+wean SNARC_only DC 7 lctrl 0.408426103027
+wean SNARC_only DC 9 lctrl 0.490956583908
+wean SNARC_only DC 8 num_decimal 0.594065304734
+wean SNARC_only DC 2 num_decimal 0.517292461296
+wean SNARC_only DC 5 lctrl 0.562611941132
+wean SNARC_only DC 8 num_decimal 0.839283564343

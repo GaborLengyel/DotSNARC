@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_15_1401', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'erynnis', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+erynnis SNARC line dot DC 0 down 40 lctrl 6.69789290428
+erynnis SNARC line dot DC 0 down 35 lctrl 0.767393112183
+erynnis SNARC line dot DC 0 up 30 num_delete 0.546571016312
+erynnis SNARC line dot DC 0 down 15 lctrl 0.4906270504
+erynnis SNARC line dot DC 0 down 20 lctrl 0.379106044769
+erynnis SNARC line dot DC 0 up 45 num_delete 0.502858877182
+erynnis SNARC line dot DC 0 down 30 lctrl 0.430371046066
+erynnis SNARC line dot DC 0 up 40 num_delete 0.383496046066
+erynnis SNARC line dot DC 0 down 35 lctrl 0.523347854614
+erynnis SNARC line dot DC 0 down 20 lctrl 0.442683935165
+erynnis SNARC line dot DC 0 up 10 num_delete 0.533948898315
+erynnis SNARC line dot DC 0 down 25 lctrl 0.428663015366
+erynnis SNARC line dot DC 0 up 20 num_delete 0.439847946167
+erynnis SNARC line dot DC 0 down 25 lctrl 0.507107019424
+erynnis SNARC line dot DC 0 up 45 num_delete 0.393368959427
+erynnis SNARC line dot DC 0 up 45 num_delete 0.612885951996
+erynnis SNARC line dot DC 0 down 20 lctrl 0.544745922089
+erynnis SNARC line dot DC 0 down 10 lctrl 0.416059970856
+erynnis SNARC line dot DC 0 down 40 lctrl 0.562584877014
+erynnis SNARC line dot DC 0 down 20 lctrl 0.592028856277
+erynnis SNARC line dot DC 0 down 25 lctrl 0.356544017792
+erynnis SNARC line dot DC 0 up 20 num_delete 0.418362855911
+erynnis SNARC line dot DC 0 down 5 lctrl 0.503771066666
+erynnis SNARC line dot DC 0 down 45 lctrl 0.350456953049
+erynnis SNARC line dot DC 0 up 40 num_delete 0.394796848297
+erynnis SNARC line dot DC 0 up 10 num_delete 0.808532953262
+erynnis SNARC line dot DC 0 down 40 lctrl 0.554524898529
+erynnis SNARC line dot DC 0 up 15 num_delete 0.801155090332
+erynnis SNARC line dot DC 0 up 10 num_delete 0.652424097061
+erynnis SNARC line dot DC 0 up 30 num_delete 0.477446079254
+erynnis SNARC line dot DC 0 down 15 lctrl 0.495780944824
+erynnis SNARC line dot DC 0 down 30 lctrl 0.423585176468
+erynnis SNARC line dot DC 0 up 35 num_delete 2.61000084877
+erynnis SNARC line dot DC 0 down 35 lctrl 0.447068214417
+erynnis SNARC line dot DC 0 up 10 num_delete 0.54550909996
+erynnis SNARC line dot DC 0 up 35 num_delete 0.54278588295
+erynnis SNARC line dot DC 0 down 30 lctrl 0.524791002274
+erynnis SNARC line dot DC 0 down 40 lctrl 0.495628118515
+erynnis SNARC line dot DC 0 up 45 num_delete 0.560922861099
+erynnis SNARC line dot DC 0 up 35 num_delete 0.350097894669
+erynnis SNARC line dot DC 0 down 35 lctrl 0.388366937637
+erynnis SNARC line dot DC 0 down 15 lctrl 0.54571390152
+erynnis SNARC line dot DC 0 up 25 num_delete 0.447889089584
+erynnis SNARC line dot DC 0 down 45 lctrl 0.400815010071
+erynnis SNARC line dot DC 0 up 45 num_delete 1.70673584938
+erynnis SNARC line dot DC 0 down 40 lctrl 0.669924974442
+erynnis SNARC line dot DC 0 down 15 lctrl 0.447609901428
+erynnis SNARC line dot DC 0 up 30 num_delete 0.368150949478
+erynnis SNARC line dot DC 0 down 45 lctrl 0.388928174973
+erynnis SNARC line dot DC 0 down 20 lctrl 0.481945991516
+erynnis SNARC line dot DC 0 down 20 lctrl 0.426832914352
+erynnis SNARC line dot DC 0 up 15 num_delete 0.342889070511
+erynnis SNARC line dot DC 0 down 10 lctrl 0.382806062698
+erynnis SNARC line dot DC 0 up 15 num_delete 0.324203968048
+erynnis SNARC line dot DC 0 up 30 num_delete 0.35528087616
+erynnis SNARC line dot DC 0 up 20 num_delete 0.377552986145
+erynnis SNARC line dot DC 0 up 25 num_delete 0.335404157639
+erynnis SNARC line dot DC 0 up 5 num_delete 0.520054101944
+erynnis SNARC line dot DC 0 down 35 lctrl 0.39798617363
+erynnis SNARC line dot DC 0 up 20 lctrl 0.354367017746
+erynnis SNARC line dot DC 0 down 5 lctrl 1.13772201538
+erynnis SNARC line dot DC 0 down 20 lctrl 0.622143983841
+erynnis SNARC line dot DC 0 down 30 lctrl 0.488265037537
+erynnis SNARC line dot DC 0 up 35 num_delete 0.591742038727
+erynnis SNARC line dot DC 0 up 5 num_delete 0.653815984726
+erynnis SNARC line dot DC 0 down 45 lctrl 0.486176013947
+erynnis SNARC line dot DC 0 down 45 lctrl 0.468773126602
+erynnis SNARC line dot DC 0 down 15 lctrl 0.454825878143
+erynnis SNARC line dot DC 0 down 45 lctrl 0.48680305481
+erynnis SNARC line dot DC 0 down 35 lctrl 0.343060970306
+erynnis SNARC line dot DC 0 down 40 lctrl 0.420544147491
+erynnis SNARC line dot DC 0 down 40 lctrl 0.374500989914
+erynnis SNARC line dot DC 0 up 30 num_delete 0.419282913208
+erynnis SNARC line dot DC 0 up 45 num_delete 0.36475610733
+erynnis SNARC line dot DC 0 up 20 num_delete 0.354418039322
+erynnis SNARC line dot DC 0 up 5 num_delete 0.298331022263
+erynnis SNARC line dot DC 0 up 45 num_delete 0.320667982101
+erynnis SNARC line dot DC 0 up 10 num_delete 0.369192123413
+erynnis SNARC line dot DC 0 down 40 lctrl 1.72584199905
+erynnis SNARC line dot DC 0 down 35 lctrl 0.448354005814
+erynnis SNARC line dot DC 0 down 45 lctrl 0.480525016785
+erynnis SNARC line dot DC 0 up 15 num_delete 0.522107839584
+erynnis SNARC line dot DC 0 down 25 lctrl 0.641022920609
+erynnis SNARC line dot DC 0 up 20 num_delete 0.387209177017
+erynnis SNARC line dot DC 0 up 40 num_delete 0.382552862167
+erynnis SNARC line dot DC 0 down 15 lctrl 0.412943124771
+erynnis SNARC line dot DC 0 up 10 num_delete 0.401260137558
+erynnis SNARC line dot DC 0 down 25 lctrl 0.477933168411
+erynnis SNARC line dot DC 0 up 35 num_delete 0.366270065308
+erynnis SNARC line dot DC 0 up 40 num_delete 0.386482000351
+erynnis SNARC line dot DC 0 down 45 lctrl 0.365794897079
+erynnis SNARC line dot DC 0 down 15 lctrl 0.404235124588
+erynnis SNARC line dot DC 0 up 40 num_delete 0.630661964417
+erynnis SNARC line dot DC 0 up 20 num_delete 0.377629995346
+erynnis SNARC line dot DC 0 down 10 lctrl 0.416255950928
+erynnis SNARC line dot DC 0 up 35 num_delete 0.35435795784
+erynnis SNARC line dot DC 0 up 40 num_delete 0.311091899872
+erynnis SNARC line dot DC 0 up 25 num_delete 0.351610898972
+erynnis SNARC line dot DC 0 down 25 lctrl 0.382461071014
+erynnis SNARC line dot DC 0 up 20 num_delete 0.35525894165
+erynnis SNARC line dot DC 0 up 15 num_delete 0.377963066101
+erynnis SNARC line dot DC 0 down 5 lctrl 0.457838058472
+erynnis SNARC line dot DC 0 up 5 num_delete 0.356986045837
+erynnis SNARC line dot DC 0 down 15 lctrl 0.516404867172
+erynnis SNARC line dot DC 0 up 5 num_delete 0.373116970062
+erynnis SNARC line dot DC 0 down 25 lctrl 0.474775791168
+erynnis SNARC line dot DC 0 down 35 lctrl 0.395626068115
+erynnis SNARC line dot DC 0 down 20 lctrl 0.344676971436
+erynnis SNARC line dot DC 0 up 5 num_delete 0.432708978653
+erynnis SNARC line dot DC 0 down 10 lctrl 0.380578041077
+erynnis SNARC line dot DC 0 down 10 lctrl 0.586296081543
+erynnis SNARC line dot DC 0 down 25 lctrl 0.422670125961
+erynnis SNARC line dot DC 0 up 30 num_delete 0.449213027954
+erynnis SNARC line dot DC 0 up 20 num_delete 0.331176996231
+erynnis SNARC line dot DC 0 up 15 num_delete 0.539594173431
+erynnis SNARC line dot DC 0 up 25 num_delete 0.409559965134
+erynnis SNARC line dot DC 0 up 35 num_delete 0.957143783569
+erynnis SNARC line dot DC 0 up 5 num_delete 0.411249876022
+erynnis SNARC line dot DC 0 up 35 num_delete 0.47870016098
+erynnis SNARC line dot DC 0 up 15 num_delete 0.33687210083
+erynnis SNARC line dot DC 0 up 40 num_delete 0.326990127563
+erynnis SNARC line dot DC 0 up 5 num_delete 0.327877998352
+erynnis SNARC line dot DC 0 down 40 lctrl 0.414557933807
+erynnis SNARC line dot DC 0 up 25 lctrl 0.362365007401
+erynnis SNARC line dot DC 0 up 10 num_delete 1.49682497978
+erynnis SNARC line dot DC 0 up 35 num_delete 0.973546981812
+erynnis SNARC line dot DC 0 down 20 lctrl 0.64218211174
+erynnis SNARC line dot DC 0 down 35 lctrl 0.603568077087
+erynnis SNARC line dot DC 0 up 30 num_delete 0.68613409996
+erynnis SNARC line dot DC 0 up 25 num_delete 0.638094902039
+erynnis SNARC line dot DC 0 up 40 num_delete 0.775030851364
+erynnis SNARC line dot DC 0 down 35 lctrl 0.698333978653
+erynnis SNARC line dot DC 0 up 10 num_delete 0.681997060776
+erynnis SNARC line dot DC 0 up 15 num_delete 0.538069009781
+erynnis SNARC line dot DC 0 up 10 num_delete 0.689335107803
+erynnis SNARC line dot DC 0 up 20 num_delete 0.481392145157
+erynnis SNARC line dot DC 0 down 10 lctrl 0.570812940598
+erynnis SNARC line dot DC 0 down 5 lctrl 0.633689165115
+erynnis SNARC line dot DC 0 down 45 lctrl 0.585492134094
+erynnis SNARC line dot DC 0 down 45 lctrl 0.499810934067
+erynnis SNARC line dot DC 0 up 45 num_delete 0.945330858231
+erynnis SNARC line dot DC 0 down 5 lctrl 0.504444122314
+erynnis SNARC line dot DC 0 up 20 num_delete 0.599949836731
+erynnis SNARC line dot DC 0 down 40 lctrl 0.53084397316
+erynnis SNARC line dot DC 0 down 45 lctrl 0.527491807938
+erynnis SNARC line dot DC 0 down 35 lctrl 0.501502990723
+erynnis SNARC line dot DC 0 up 15 num_delete 0.485941886902
+erynnis SNARC line dot DC 0 up 40 num_delete 0.437189102173
+erynnis SNARC line dot DC 0 up 45 num_delete 0.453713178635
+erynnis SNARC line dot DC 0 up 5 num_delete 0.497138977051
+erynnis SNARC line dot DC 0 up 20 num_delete 0.385024785995
+erynnis SNARC line dot DC 0 up 20 num_delete 0.334268093109
+erynnis SNARC line dot DC 0 up 45 num_delete 1.61915683746
+erynnis SNARC line dot DC 0 up 15 num_delete 1.93965506554
+erynnis SNARC line dot DC 0 down 35 lctrl 0.916700124741
+erynnis SNARC line dot DC 0 down 30 lctrl 0.426052093506
+erynnis SNARC line dot DC 0 up 20 num_delete 0.581411838531
+erynnis SNARC line dot DC 0 down 30 lctrl 0.529409885406
+erynnis SNARC line dot DC 0 down 20 lctrl 0.408508062363
+erynnis SNARC line dot DC 0 down 35 lctrl 0.397006034851
+erynnis SNARC line dot DC 0 up 20 num_delete 0.456078052521
+erynnis SNARC line dot DC 0 up 40 num_delete 0.384585142136
+erynnis SNARC line dot DC 0 up 5 num_delete 0.423001050949
+erynnis SNARC line dot DC 0 up 40 num_delete 0.409136772156
+erynnis SNARC line dot DC 0 up 40 num_delete 0.467843055725
+erynnis SNARC line dot DC 0 down 10 lctrl 0.486489057541
+erynnis SNARC line dot DC 0 down 40 lctrl 0.421772956848
+erynnis SNARC line dot DC 0 up 30 num_delete 0.648290157318
+erynnis SNARC line dot DC 0 down 40 lctrl 0.512727022171
+erynnis SNARC line dot DC 0 up 30 num_delete 0.367171049118
+erynnis SNARC line dot DC 0 up 45 num_delete 0.363051176071
+erynnis SNARC line dot DC 0 up 15 num_delete 0.562391042709
+erynnis SNARC line dot DC 0 up 15 num_delete 0.425346136093
+erynnis SNARC line dot DC 0 down 10 lctrl 0.422044038773
+erynnis SNARC line dot DC 0 up 30 num_delete 0.359654903412
+erynnis SNARC line dot DC 0 up 35 num_delete 0.436944961548
+erynnis SNARC line dot DC 0 up 10 num_delete 0.376394987106
+erynnis SNARC line dot DC 0 down 10 lctrl 0.399159193039
+erynnis SNARC line dot DC 0 down 20 lctrl 0.395562887192
+erynnis SNARC line dot DC 0 up 20 num_delete 0.360121011734
+erynnis SNARC line dot DC 0 down 10 lctrl 0.343621015549
+erynnis SNARC line dot DC 0 up 30 num_delete 0.333714962006
+erynnis SNARC line dot DC 0 down 25 lctrl 0.28538107872
+erynnis SNARC line dot DC 0 down 5 lctrl 0.42404794693
+erynnis SNARC line dot DC 0 up 40 num_delete 0.369476079941
+erynnis SNARC line dot DC 0 down 25 lctrl 0.543972015381
+erynnis SNARC line dot DC 0 down 5 lctrl 0.679725885391
+erynnis SNARC line dot DC 0 down 10 lctrl 0.529333114624
+erynnis SNARC line dot DC 0 down 30 lctrl 0.575714826584
+erynnis SNARC line dot DC 0 up 25 num_delete 0.579556941986
+erynnis SNARC line dot DC 0 down 20 lctrl 0.61691904068
+erynnis SNARC line dot DC 0 down 40 lctrl 1.19507718086
+erynnis SNARC line dot DC 0 down 35 lctrl 0.5315990448
+erynnis SNARC line dot DC 0 up 25 num_delete 0.577825069427
+erynnis SNARC line dot DC 0 up 30 lctrl 0.630632162094
+erynnis SNARC line dot DC 0 down 45 lctrl 1.42380309105
+erynnis SNARC line dot DC 0 down 15 lctrl 0.640664100647
+erynnis SNARC line dot DC 0 down 40 lctrl 0.425072908401
+erynnis SNARC line dot DC 0 down 25 lctrl 0.341002941132
+erynnis SNARC line dot DC 0 up 10 num_delete 0.508279085159
+erynnis SNARC line dot DC 0 down 15 lctrl 0.421401977539
+erynnis SNARC line dot DC 0 up 40 num_delete 0.734848022461
+erynnis SNARC line dot DC 0 down 20 lctrl 0.565378189087
+erynnis SNARC line dot DC 0 down 30 lctrl 0.409712076187
+erynnis SNARC line dot DC 0 up 20 num_delete 0.597644090652
+erynnis SNARC line dot DC 0 down 30 lctrl 0.480989933014
+erynnis SNARC line dot DC 0 up 20 lctrl 0.39381980896
+erynnis SNARC line dot DC 0 down 15 lctrl 5.08739900589
+erynnis SNARC line dot DC 0 down 30 lctrl 1.08152699471
+erynnis SNARC line dot DC 0 up 30 num_delete 0.672174930573
+erynnis SNARC line dot DC 0 down 25 lctrl 1.66523599625
+erynnis SNARC line dot DC 0 up 15 num_delete 0.568073987961
+erynnis SNARC line dot DC 0 up 40 num_delete 0.739531993866
+erynnis SNARC line dot DC 0 down 30 lctrl 1.98439097404
+erynnis SNARC line dot DC 0 down 25 lctrl 1.05713701248
+erynnis SNARC line dot DC 0 down 20 lctrl 0.497896909714
+erynnis SNARC line dot DC 0 up 30 num_delete 0.568248987198
+erynnis SNARC line dot DC 0 up 20 num_delete 0.557343006134
+erynnis SNARC line dot DC 0 down 25 lctrl 0.987593173981
+erynnis SNARC line dot DC 0 up 35 num_delete 1.21279811859
+erynnis SNARC line dot DC 0 up 30 num_delete 0.597944974899
+erynnis SNARC line dot DC 0 up 35 num_delete 0.600230932236
+erynnis SNARC line dot DC 0 down 25 lctrl 0.74028801918
+erynnis SNARC line dot DC 0 up 10 num_delete 0.986405134201
+erynnis SNARC line dot DC 0 up 45 num_delete 0.563467979431
+erynnis SNARC line dot DC 0 up 30 num_delete 0.800660133362
+erynnis SNARC line dot DC 0 down 45 lctrl 2.13775396347
+erynnis SNARC line dot DC 0 down 5 lctrl 0.948797941208
+erynnis SNARC line dot DC 0 down 25 lctrl 0.544991016388
+erynnis SNARC line dot DC 0 down 15 lctrl 0.527890920639
+erynnis SNARC line dot DC 0 up 30 num_delete 0.829636096954
+erynnis SNARC line dot DC 0 down 35 lctrl 0.463255882263
+erynnis SNARC line dot DC 0 up 15 num_delete 0.65771484375
+erynnis SNARC line dot DC 0 down 20 lctrl 0.547601938248
+erynnis SNARC line dot DC 0 up 15 num_delete 0.505705833435
+erynnis SNARC line dot DC 0 down 5 lctrl 0.595623016357
+erynnis SNARC line dot DC 0 up 5 num_delete 0.569004058838
+erynnis SNARC line dot DC 0 up 20 num_delete 0.574088096619
+erynnis SNARC line dot DC 0 up 10 num_delete 0.515758037567
+erynnis SNARC line dot DC 0 down 5 lctrl 0.501035928726
+erynnis SNARC line dot DC 0 up 40 num_delete 0.506918907166
+erynnis SNARC line dot DC 0 up 10 num_delete 0.508563995361
+erynnis SNARC line dot DC 0 up 45 num_delete 1.44719600677
+erynnis SNARC line dot DC 0 up 10 num_delete 0.743675947189
+erynnis SNARC line dot DC 0 down 40 lctrl 0.436775922775
+erynnis SNARC line dot DC 0 up 5 num_delete 0.432500839233
+erynnis SNARC line dot DC 0 up 15 num_delete 0.499962806702
+erynnis SNARC line dot DC 0 up 25 num_delete 0.531486034393
+erynnis SNARC line dot DC 0 up 10 num_delete 0.546586036682
+erynnis SNARC line dot DC 0 up 15 num_delete 0.513775110245
+erynnis SNARC line dot DC 0 up 10 num_delete 0.641819000244
+erynnis SNARC line dot DC 0 up 45 num_delete 0.489581108093
+erynnis SNARC line dot DC 0 up 10 num_delete 0.379358053207
+erynnis SNARC line dot DC 0 up 35 num_delete 0.487766027451
+erynnis SNARC line dot DC 0 down 30 lctrl 0.496587991714
+erynnis SNARC line dot DC 0 up 35 num_delete 0.422670125961
+erynnis SNARC line dot DC 0 down 25 lctrl 0.473959922791
+erynnis SNARC line dot DC 0 up 10 num_delete 0.427669048309
+erynnis SNARC line dot DC 0 up 5 num_delete 0.424586057663
+erynnis SNARC line dot DC 0 up 15 lctrl 0.469210863113
+erynnis SNARC line dot DC 0 up 5 num_delete 0.743640184402
+erynnis SNARC line dot DC 0 down 5 lctrl 0.591372013092
+erynnis SNARC line dot DC 0 up 15 num_delete 0.460234165192
+erynnis SNARC line dot DC 0 up 10 num_delete 0.598885059357
+erynnis SNARC line dot DC 0 up 20 num_delete 0.538634061813
+erynnis SNARC line dot DC 0 down 45 lctrl 0.695159912109
+erynnis SNARC line dot DC 0 up 35 num_delete 0.565441846848
+erynnis SNARC line dot DC 0 down 45 lctrl 0.504829883575
+erynnis SNARC line dot DC 0 down 20 lctrl 0.928891181946
+erynnis SNARC line dot DC 0 up 5 num_delete 0.78392291069
+erynnis SNARC line dot DC 0 up 5 num_delete 2.13317799568
+erynnis SNARC line dot DC 0 down 25 lctrl 0.767669916153
+erynnis SNARC line dot DC 0 down 45 lctrl 0.441836833954
+erynnis SNARC line dot DC 0 up 5 num_delete 0.605986118317
+erynnis SNARC line dot DC 0 up 5 num_delete 0.426609992981
+erynnis SNARC line dot DC 0 up 5 num_delete 0.399875879288
+erynnis SNARC line dot DC 0 down 30 lctrl 0.482524871826
+erynnis SNARC line dot DC 0 up 30 num_delete 0.73003911972
+erynnis SNARC line dot DC 0 up 10 num_delete 0.777580976486
+erynnis SNARC line dot DC 0 up 30 num_delete 1.13320994377
+erynnis SNARC line dot DC 0 up 40 num_delete 0.472615003586
+erynnis SNARC line dot DC 0 up 35 num_delete 0.392153024673
+erynnis SNARC line dot DC 0 up 45 num_delete 0.363274097443
+erynnis SNARC line dot DC 0 down 25 lctrl 0.465952157974
+erynnis SNARC line dot DC 0 up 40 num_delete 0.402137041092
+erynnis SNARC line dot DC 0 up 30 num_delete 0.484946012497
+erynnis SNARC line dot DC 0 down 45 lctrl 1.02777600288
+erynnis SNARC line dot DC 0 up 25 num_delete 0.773143053055
+erynnis SNARC line dot DC 0 up 25 num_delete 6.28093719482
+erynnis SNARC line dot DC 0 up 25 num_delete 1.24831700325
+erynnis SNARC line dot DC 0 up 35 num_delete 0.535313844681
+erynnis SNARC line dot DC 0 up 40 num_delete 0.532277107239
+erynnis SNARC line dot DC 0 up 30 num_delete 0.81803393364
+erynnis SNARC line dot DC 0 down 15 lctrl 0.845639944077
+erynnis SNARC line dot DC 0 up 45 num_delete 0.724523067474
+erynnis SNARC line dot DC 0 down 45 lctrl 1.0252828598
+erynnis SNARC line dot DC 0 up 35 num_delete 0.697350025177
+erynnis SNARC line dot DC 0 up 25 num_delete 0.601320981979
+erynnis SNARC line dot DC 0 up 35 num_delete 3.00336098671
+erynnis SNARC line dot DC 0 down 25 lctrl 0.536150932312
+erynnis SNARC line dot DC 0 up 30 num_delete 4.24531698227
+erynnis SNARC line dot DC 0 down 15 lctrl 0.997897863388
+erynnis SNARC line dot DC 0 up 5 num_delete 1.27393388748
+erynnis SNARC line dot DC 0 up 10 num_delete 0.393400907516
+erynnis SNARC line dot DC 0 up 40 num_delete 0.389297962189
+erynnis SNARC line dot DC 0 up 25 num_delete 0.458077192307
+erynnis SNARC line dot DC 0 down 5 lctrl 0.606114149094
+erynnis SNARC line dot DC 0 up 10 num_delete 0.426408052444
+erynnis SNARC line dot DC 0 down 25 lctrl 0.604947805405
+erynnis SNARC line dot DC 0 down 5 lctrl 2.58634090424
+erynnis SNARC line dot DC 0 down 5 lctrl 0.458637952805
+erynnis SNARC line dot DC 0 up 25 num_delete 0.499594926834
+erynnis SNARC line dot DC 0 down 35 lctrl 0.619261026382
+erynnis SNARC line dot DC 0 up 5 num_delete 1.35131216049
+erynnis SNARC line dot DC 0 down 15 lctrl 0.515440940857
+erynnis SNARC line dot DC 0 up 35 num_delete 0.481781959534
+erynnis SNARC line dot DC 0 down 30 lctrl 0.546123027802
+erynnis SNARC line dot DC 0 down 10 lctrl 0.449276924133
+erynnis SNARC line dot DC 0 down 25 lctrl 0.571385860443
+erynnis SNARC line dot DC 0 up 45 num_delete 0.50976896286
+erynnis SNARC line dot DC 0 down 25 lctrl 0.566094875336
+erynnis SNARC line dot DC 0 down 40 lctrl 0.50589299202
+erynnis SNARC line dot DC 0 down 30 lctrl 0.513295888901
+erynnis SNARC line dot DC 0 down 35 lctrl 0.631685018539
+erynnis SNARC line dot DC 0 up 45 num_delete 0.455305099487
+erynnis SNARC line dot DC 0 up 35 num_delete 0.752568006516
+erynnis SNARC line dot DC 0 down 5 lctrl 0.487753152847
+erynnis SNARC line dot DC 0 down 15 lctrl 0.425292015076
+erynnis SNARC line dot DC 0 down 15 lctrl 0.461447954178
+erynnis SNARC line dot DC 0 down 45 lctrl 0.485461950302
+erynnis SNARC line dot DC 0 up 5 num_delete 0.503116846085
+erynnis SNARC line dot DC 0 up 5 num_delete 0.416574001312
+erynnis SNARC line dot DC 0 up 10 num_delete 0.413387060165
+erynnis SNARC line dot DC 0 up 40 num_delete 0.527382135391
+erynnis SNARC line dot DC 0 down 30 lctrl 0.430711984634
+erynnis SNARC line dot DC 0 down 45 lctrl 0.423182964325
+erynnis SNARC line dot DC 0 up 40 num_delete 0.617086172104
+erynnis SNARC line dot DC 0 up 20 num_delete 0.452008962631
+erynnis SNARC line dot DC 0 down 10 lctrl 1.71124219894
+erynnis SNARC line dot DC 0 down 5 lctrl 0.492954969406
+erynnis SNARC line dot DC 0 up 10 num_delete 0.453851938248
+erynnis SNARC line dot DC 0 down 10 lctrl 0.441167116165
+erynnis SNARC line dot DC 0 up 45 num_delete 0.393332004547
+erynnis SNARC line dot DC 0 up 15 num_delete 0.447153091431
+erynnis SNARC line dot DC 0 down 30 lctrl 0.416738033295
+erynnis SNARC line dot DC 0 up 20 num_delete 0.419871091843
+erynnis SNARC line dot DC 0 up 45 num_delete 0.501704931259
+erynnis SNARC line dot DC 0 down 15 lctrl 0.502506971359
+erynnis SNARC line dot DC 0 up 35 num_delete 0.452440023422
+erynnis SNARC line dot DC 0 up 35 num_delete 0.509028911591
+erynnis SNARC line dot DC 0 down 25 lctrl 0.525728940964
+erynnis SNARC line dot DC 0 down 15 lctrl 0.421018123627
+erynnis SNARC line dot DC 0 up 30 num_delete 0.423215866089
+erynnis SNARC line dot DC 0 up 20 num_delete 0.40282201767
+erynnis SNARC line dot DC 0 up 25 num_delete 0.398962020874
+erynnis SNARC line dot DC 0 down 10 lctrl 0.604760885239
+erynnis SNARC line dot DC 0 up 40 num_delete 0.470053911209
+erynnis SNARC line dot DC 0 up 5 num_delete 0.39319396019
+erynnis SNARC line dot DC 0 up 40 num_delete 0.388576030731
+erynnis SNARC line dot DC 0 down 15 lctrl 0.562785863876
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_15_1411', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'erynnis', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+erynnis SNARC line arabic DC 0 down 8 lctrl 2.88109087944
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.700155973434
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.437294960022
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.393746137619
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.351981163025
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.456093072891
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.379481077194
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.434151887894
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.390706062317
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.445353031158
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.433202028275
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.557439804077
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.42112994194
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.418076992035
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.423084974289
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.515429973602
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.669255018234
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.366708993912
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.430256843567
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.491217136383
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.452970981598
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.672587871552
+erynnis SNARC line arabic DC 0 down 5 lctrl 1.16293001175
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.592358112335
+erynnis SNARC line arabic DC 0 down 7 lctrl 1.11835694313
+erynnis SNARC line arabic DC 0 down 4 lctrl 1.04530787468
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.655300140381
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.650137901306
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.980911970139
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.586034059525
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.503966808319
+erynnis SNARC line arabic DC 0 down 8 num_delete 0.529261827469
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.817571163177
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.485428094864
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.703727006912
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.752164840698
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.839001178741
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.537836074829
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.657470941544
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.700807094574
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.573572158813
+erynnis SNARC line arabic DC 0 up 2 num_delete 1.01952886581
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.542788982391
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.911120891571
+erynnis SNARC line arabic DC 0 down 2 lctrl 1.22333812714
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.505529880524
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.618805885315
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.775279045105
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.869302034378
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.551159143448
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.638401031494
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.51404094696
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.394630908966
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.424432992935
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.494189023972
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.424059152603
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.572793960571
+erynnis SNARC line arabic DC 0 down 6 num_delete 0.979233980179
+erynnis SNARC line arabic DC 0 down 1 lctrl 7.32098078728
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.437252044678
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.449546098709
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.428988933563
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.52229309082
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.394705057144
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.552770137787
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.52849984169
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.472826004028
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.500011205673
+erynnis SNARC line arabic DC 0 down 7 lctrl 1.07740211487
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.494360208511
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.519991874695
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.68083691597
+erynnis SNARC line arabic DC 0 down 5 lctrl 1.13879323006
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.520471096039
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.761248111725
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.919500112534
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.655180931091
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.554202079773
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.489207983017
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.491899967194
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.589699983597
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.587098121643
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.577394962311
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.463891983032
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.474303007126
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.437129974365
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.393634796143
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.768261194229
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.461968898773
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.377722978592
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.608399152756
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.661412000656
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.576534032822
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.703313112259
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.592048883438
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.845502138138
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.984871864319
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.725439071655
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.692974805832
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.406856060028
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.404386043549
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.650467157364
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.773396968842
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.755352973938
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.681435108185
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.635419130325
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.726573944092
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.919097900391
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.54261803627
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.518556833267
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.575013875961
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.637823104858
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.673049926758
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.707561969757
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.507943868637
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.637650966644
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.641170024872
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.700431108475
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.565723896027
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.683718919754
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.57390499115
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.587844133377
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.58564209938
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.712109088898
+erynnis SNARC line arabic DC 0 down 5 lctrl 4.06462311745
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.585021972656
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.550415039062
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.718024015427
+erynnis SNARC line arabic DC 0 up 6 num_delete 1.09385704994
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.462065935135
+erynnis SNARC line arabic DC 0 down 8 lctrl 5.47428202629
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.389829158783
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.357316017151
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.436610937119
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.304847002029
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.610947132111
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.503968000412
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.99369597435
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.757945775986
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.717139959335
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.693015813828
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.654143095016
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.537039995193
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.761322975159
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.655549049377
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.490527153015
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.485303878784
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.503108978271
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.424507856369
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.549061059952
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.356320858002
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.460175991058
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.640105009079
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.475382089615
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.558823108673
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.413957834244
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.426883220673
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.463426113129
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.587355852127
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.46542096138
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.467871189117
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.446865081787
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.402354955673
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.599869012833
+erynnis SNARC line arabic DC 0 up 8 num_delete 1.2608590126
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.597925901413
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.571027994156
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.609517812729
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.614989042282
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.570886850357
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.553844928741
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.456741809845
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.436825037003
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.489421129227
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.434785842896
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.438964128494
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.499462127686
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.373332023621
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.404466867447
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.329743146896
+erynnis SNARC line arabic DC 0 down 4 lctrl 2.14713191986
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.645690202713
+erynnis SNARC line arabic DC 0 up 6 num_delete 1.74535918236
+erynnis SNARC line arabic DC 0 down 4 lctrl 3.78183293343
+erynnis SNARC line arabic DC 0 up 2 num_delete 1.38618588448
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.526103019714
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.390090942383
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.508780956268
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.389801979065
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.684478998184
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.525938987732
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.526415109634
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.527679204941
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.632588148117
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.435507059097
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.912214040756
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.575886011124
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.414617776871
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.507623910904
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.565346956253
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.491399049759
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.405935049057
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.419314146042
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.536650180817
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.392473936081
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.695218801498
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.416189908981
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.669449806213
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.495581150055
+erynnis SNARC line arabic DC 0 up 1 num_delete 1.14541292191
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.576154947281
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.494033098221
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.576519966125
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.559285879135
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.501883029938
+erynnis SNARC line arabic DC 0 down 7 num_delete 0.463285207748
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.779304027557
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.47260093689
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.548019886017
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.427518129349
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.360166072845
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.455878019333
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.588050127029
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.553192138672
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.544156074524
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.712687015533
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.457578897476
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.740260124207
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.659774065018
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.655066013336
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.786165952682
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.799171924591
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.763538122177
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.626439094543
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.687124013901
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.752741098404
+erynnis SNARC line arabic DC 0 down 4 lctrl 3.55960512161
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.501102924347
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.447151899338
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.546446084976
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.818423032761
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.45450091362
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.601445913315
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.526485919952
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.518905162811
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.528064966202
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.480466127396
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.55483007431
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.474119901657
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.652469873428
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.632285118103
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.611859083176
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.592555046082
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.44651889801
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.482280015945
+erynnis SNARC line arabic DC 0 up 9 num_delete 1.30039715767
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.475565910339
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.510186910629
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.520137071609
+erynnis SNARC line arabic DC 0 down 4 lctrl 4.98491621017
+erynnis SNARC line arabic DC 0 down 8 lctrl 2.88141202927
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.532325983047
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.612549066544
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.681509017944
+erynnis SNARC line arabic DC 0 up 6 num_delete 1.02699613571
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.526033878326
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.742942094803
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.50209403038
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.632121086121
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.60369181633
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.49644613266
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.43386220932
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.358096122742
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.438290119171
+erynnis SNARC line arabic DC 0 down 8 num_delete 0.402101993561
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.544189214706
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.559770107269
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.439464092255
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.507309913635
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.549009799957
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.604116916656
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.512856006622
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.594893932343
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.584540128708
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.502386808395
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.559545993805
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.511044979095
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.42439198494
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.501139879227
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.575114965439
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.509078025818
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.582674980164
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.676468849182
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.734292030334
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.606091022491
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.75474190712
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.553493022919
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.784422159195
+erynnis SNARC line arabic DC 0 up 1 num_delete 6.26192498207
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.584036827087
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.518057107925
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.478945970535
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.409593105316
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.375502109528
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.64600610733
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.361707210541
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.458148002625
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.525945901871
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.518211126328
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.462867021561
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.578382968903
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.865147829056
+erynnis SNARC line arabic DC 0 down 1 lctrl 1.65086984634
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.762534141541
+erynnis SNARC line arabic DC 0 up 6 num_delete 0.432698011398
+erynnis SNARC line arabic DC 0 down 6 lctrl 0.837351799011
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.456479072571
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.41934299469
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.536654949188
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.632843017578
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.540128946304
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.660579919815
+erynnis SNARC line arabic DC 0 down 8 lctrl 1.43158316612
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.433273077011
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.50160908699
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.559357881546
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.445903778076
+erynnis SNARC line arabic DC 0 down 3 lctrl 1.03460788727
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.404914855957
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.458138942719
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.469885110855
+erynnis SNARC line arabic DC 0 up 1 num_delete 0.368593931198
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.431792974472
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.572316884995
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.602828979492
+erynnis SNARC line arabic DC 0 down 8 lctrl 0.544058084488
+erynnis SNARC line arabic DC 0 down 1 lctrl 7.04004693031
+erynnis SNARC line arabic DC 0 up 5 num_delete 0.472026109695
+erynnis SNARC line arabic DC 0 down 3 lctrl 1.09124803543
+erynnis SNARC line arabic DC 0 down 1 num_delete 0.963041067123
+erynnis SNARC line arabic DC 0 down 2 lctrl 1.0015039444
+erynnis SNARC line arabic DC 0 up 9 num_delete 0.565366983414
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.443483114243
+erynnis SNARC line arabic DC 0 down 2 lctrl 0.448116064072
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.627444982529
+erynnis SNARC line arabic DC 0 down 5 lctrl 0.608077049255
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.500742912292
+erynnis SNARC line arabic DC 0 up 2 num_delete 0.446183919907
+erynnis SNARC line arabic DC 0 down 7 lctrl 0.450843095779
+erynnis SNARC line arabic DC 0 down 9 lctrl 0.398364067078
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.491765975952
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.502238988876
+erynnis SNARC line arabic DC 0 up 3 num_delete 0.535084009171
+erynnis SNARC line arabic DC 0 down 3 lctrl 0.463565826416
+erynnis SNARC line arabic DC 0 down 4 lctrl 0.507230043411
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.748460054398
+erynnis SNARC line arabic DC 0 up 4 num_delete 0.490802049637
+erynnis SNARC line arabic DC 0 down 1 lctrl 0.917468070984
+erynnis SNARC line arabic DC 0 up 7 num_delete 0.692206859589
+erynnis SNARC line arabic DC 0 up 8 num_delete 0.701662063599
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_15_1421', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'erynnis', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+erynnis SNARC line dot CD 0 down 5 num_delete 1.79128098488
+erynnis SNARC line dot CD 0 up 40 lctrl 0.679229021072
+erynnis SNARC line dot CD 0 down 40 num_delete 0.797957897186
+erynnis SNARC line dot CD 0 down 35 num_delete 0.648282051086
+erynnis SNARC line dot CD 0 up 45 lctrl 0.54483294487
+erynnis SNARC line dot CD 0 up 40 lctrl 0.671293973923
+erynnis SNARC line dot CD 0 up 15 lctrl 0.527296066284
+erynnis SNARC line dot CD 0 up 40 lctrl 0.445096969604
+erynnis SNARC line dot CD 0 up 5 lctrl 0.4419028759
+erynnis SNARC line dot CD 0 up 45 lctrl 0.467213153839
+erynnis SNARC line dot CD 0 down 25 num_delete 0.443667173386
+erynnis SNARC line dot CD 0 down 40 num_delete 0.765115022659
+erynnis SNARC line dot CD 0 up 45 lctrl 0.67257809639
+erynnis SNARC line dot CD 0 down 15 num_delete 0.457778930664
+erynnis SNARC line dot CD 0 up 10 lctrl 1.10158109665
+erynnis SNARC line dot CD 0 up 15 lctrl 0.435963869095
+erynnis SNARC line dot CD 0 down 10 num_delete 0.622954845428
+erynnis SNARC line dot CD 0 down 20 num_delete 0.441810846329
+erynnis SNARC line dot CD 0 down 30 num_delete 0.427628993988
+erynnis SNARC line dot CD 0 down 40 num_delete 0.413975954056
+erynnis SNARC line dot CD 0 down 30 num_delete 0.360887050629
+erynnis SNARC line dot CD 0 down 45 num_delete 0.389774084091
+erynnis SNARC line dot CD 0 up 25 lctrl 0.659333944321
+erynnis SNARC line dot CD 0 down 40 num_delete 0.442955970764
+erynnis SNARC line dot CD 0 up 25 lctrl 0.710546016693
+erynnis SNARC line dot CD 0 up 30 lctrl 0.540562868118
+erynnis SNARC line dot CD 0 up 20 lctrl 0.37912106514
+erynnis SNARC line dot CD 0 down 25 num_delete 0.481099843979
+erynnis SNARC line dot CD 0 up 40 lctrl 0.720190048218
+erynnis SNARC line dot CD 0 down 20 num_delete 0.510400056839
+erynnis SNARC line dot CD 0 up 25 lctrl 0.854844093323
+erynnis SNARC line dot CD 0 up 30 lctrl 0.703045129776
+erynnis SNARC line dot CD 0 down 10 num_delete 0.446704149246
+erynnis SNARC line dot CD 0 up 35 lctrl 2.73725700378
+erynnis SNARC line dot CD 0 up 5 lctrl 0.618257045746
+erynnis SNARC line dot CD 0 up 5 lctrl 0.431153059006
+erynnis SNARC line dot CD 0 up 35 lctrl 0.472625017166
+erynnis SNARC line dot CD 0 up 15 lctrl 0.450845003128
+erynnis SNARC line dot CD 0 up 25 lctrl 0.612938165665
+erynnis SNARC line dot CD 0 up 30 lctrl 0.423774003983
+erynnis SNARC line dot CD 0 up 45 lctrl 0.570040941238
+erynnis SNARC line dot CD 0 up 10 lctrl 0.583604097366
+erynnis SNARC line dot CD 0 up 20 lctrl 0.484261989594
+erynnis SNARC line dot CD 0 down 10 num_delete 0.541126966476
+erynnis SNARC line dot CD 0 up 30 lctrl 0.547361135483
+erynnis SNARC line dot CD 0 down 45 num_delete 0.759224891663
+erynnis SNARC line dot CD 0 up 25 lctrl 1.02899003029
+erynnis SNARC line dot CD 0 up 20 lctrl 0.494754076004
+erynnis SNARC line dot CD 0 down 30 num_delete 0.630244970322
+erynnis SNARC line dot CD 0 down 15 num_delete 0.537957191467
+erynnis SNARC line dot CD 0 up 30 lctrl 0.928009033203
+erynnis SNARC line dot CD 0 down 15 num_delete 0.566321134567
+erynnis SNARC line dot CD 0 up 25 lctrl 0.611916065216
+erynnis SNARC line dot CD 0 up 10 lctrl 0.672141075134
+erynnis SNARC line dot CD 0 up 45 lctrl 0.591763019562
+erynnis SNARC line dot CD 0 up 5 lctrl 0.605501890182
+erynnis SNARC line dot CD 0 up 40 lctrl 0.751381874084
+erynnis SNARC line dot CD 0 down 40 num_delete 0.642827987671
+erynnis SNARC line dot CD 0 down 15 num_delete 0.60585808754
+erynnis SNARC line dot CD 0 down 25 num_delete 0.537103891373
+erynnis SNARC line dot CD 0 down 20 num_delete 0.688127040863
+erynnis SNARC line dot CD 0 up 30 lctrl 0.527958869934
+erynnis SNARC line dot CD 0 down 45 num_delete 0.461136102676
+erynnis SNARC line dot CD 0 up 25 lctrl 0.719643831253
+erynnis SNARC line dot CD 0 up 35 lctrl 0.685565948486
+erynnis SNARC line dot CD 0 down 45 num_delete 0.459628105164
+erynnis SNARC line dot CD 0 up 30 lctrl 0.517669916153
+erynnis SNARC line dot CD 0 up 40 lctrl 0.571321964264
+erynnis SNARC line dot CD 0 up 30 lctrl 0.463871002197
+erynnis SNARC line dot CD 0 down 15 num_delete 0.657506942749
+erynnis SNARC line dot CD 0 up 5 lctrl 1.13286089897
+erynnis SNARC line dot CD 0 down 25 num_delete 0.505106925964
+erynnis SNARC line dot CD 0 down 30 num_delete 0.52022600174
+erynnis SNARC line dot CD 0 up 35 lctrl 0.582968950272
+erynnis SNARC line dot CD 0 down 30 num_delete 0.898562908173
+erynnis SNARC line dot CD 0 down 35 num_delete 0.592360019684
+erynnis SNARC line dot CD 0 up 10 lctrl 0.622467041016
+erynnis SNARC line dot CD 0 down 25 num_delete 1.06450295448
+erynnis SNARC line dot CD 0 up 15 lctrl 1.29786920547
+erynnis SNARC line dot CD 0 down 5 num_delete 0.649197816849
+erynnis SNARC line dot CD 0 down 15 num_delete 1.78725290298
+erynnis SNARC line dot CD 0 down 45 num_delete 0.466300010681
+erynnis SNARC line dot CD 0 up 15 lctrl 0.548989057541
+erynnis SNARC line dot CD 0 up 10 lctrl 3.98751211166
+erynnis SNARC line dot CD 0 down 5 num_delete 0.566951036453
+erynnis SNARC line dot CD 0 up 40 lctrl 0.754959106445
+erynnis SNARC line dot CD 0 down 10 num_delete 0.400574922562
+erynnis SNARC line dot CD 0 up 45 lctrl 0.460026979446
+erynnis SNARC line dot CD 0 down 45 num_delete 0.436304092407
+erynnis SNARC line dot CD 0 up 5 lctrl 0.512962818146
+erynnis SNARC line dot CD 0 up 30 lctrl 0.383908033371
+erynnis SNARC line dot CD 0 down 5 num_delete 0.486382961273
+erynnis SNARC line dot CD 0 down 15 num_delete 0.407700061798
+erynnis SNARC line dot CD 0 down 15 num_delete 0.460339069366
+erynnis SNARC line dot CD 0 down 20 num_delete 0.382365942001
+erynnis SNARC line dot CD 0 up 45 lctrl 0.43444108963
+erynnis SNARC line dot CD 0 up 5 lctrl 0.342656135559
+erynnis SNARC line dot CD 0 up 20 lctrl 0.389962911606
+erynnis SNARC line dot CD 0 down 25 num_delete 0.410551786423
+erynnis SNARC line dot CD 0 down 35 num_delete 0.413895845413
+erynnis SNARC line dot CD 0 down 35 num_delete 0.392775058746
+erynnis SNARC line dot CD 0 up 45 lctrl 0.45291185379
+erynnis SNARC line dot CD 0 down 35 num_delete 0.365684986115
+erynnis SNARC line dot CD 0 down 10 num_delete 0.412176132202
+erynnis SNARC line dot CD 0 down 45 num_delete 0.398793935776
+erynnis SNARC line dot CD 0 down 5 num_delete 0.444958925247
+erynnis SNARC line dot CD 0 up 15 lctrl 0.560530900955
+erynnis SNARC line dot CD 0 up 10 lctrl 0.405822992325
+erynnis SNARC line dot CD 0 down 45 num_delete 0.417702913284
+erynnis SNARC line dot CD 0 down 30 num_delete 0.516350984573
+erynnis SNARC line dot CD 0 down 5 num_delete 0.477460861206
+erynnis SNARC line dot CD 0 up 45 lctrl 0.476721048355
+erynnis SNARC line dot CD 0 down 35 num_delete 0.644984960556
+erynnis SNARC line dot CD 0 down 15 num_delete 0.432288885117
+erynnis SNARC line dot CD 0 up 40 lctrl 0.561906099319
+erynnis SNARC line dot CD 0 down 40 num_delete 0.517954111099
+erynnis SNARC line dot CD 0 down 40 num_delete 0.40353178978
+erynnis SNARC line dot CD 0 down 5 num_delete 0.401429891586
+erynnis SNARC line dot CD 0 down 30 num_delete 0.452744007111
+erynnis SNARC line dot CD 0 up 15 lctrl 0.688112974167
+erynnis SNARC line dot CD 0 up 30 lctrl 0.519515991211
+erynnis SNARC line dot CD 0 down 45 num_delete 0.548657178879
+erynnis SNARC line dot CD 0 up 40 lctrl 0.537456989288
+erynnis SNARC line dot CD 0 up 45 lctrl 0.48665189743
+erynnis SNARC line dot CD 0 down 45 num_delete 0.589203119278
+erynnis SNARC line dot CD 0 down 5 num_delete 0.651371002197
+erynnis SNARC line dot CD 0 up 45 lctrl 1.34773111343
+erynnis SNARC line dot CD 0 up 15 lctrl 0.440520048141
+erynnis SNARC line dot CD 0 up 30 lctrl 0.658497095108
+erynnis SNARC line dot CD 0 up 35 lctrl 0.411344051361
+erynnis SNARC line dot CD 0 down 20 num_delete 0.46323299408
+erynnis SNARC line dot CD 0 up 25 lctrl 0.505722045898
+erynnis SNARC line dot CD 0 up 35 lctrl 0.497153043747
+erynnis SNARC line dot CD 0 down 40 num_delete 0.439003944397
+erynnis SNARC line dot CD 0 up 20 lctrl 0.69845199585
+erynnis SNARC line dot CD 0 down 35 num_delete 0.480673074722
+erynnis SNARC line dot CD 0 down 25 num_delete 0.569240093231
+erynnis SNARC line dot CD 0 up 20 lctrl 1.21471405029
+erynnis SNARC line dot CD 0 up 10 lctrl 0.505254030228
+erynnis SNARC line dot CD 0 up 40 lctrl 0.423806905746
+erynnis SNARC line dot CD 0 down 15 num_delete 0.723701000214
+erynnis SNARC line dot CD 0 down 45 num_delete 0.480868816376
+erynnis SNARC line dot CD 0 up 15 lctrl 0.674734115601
+erynnis SNARC line dot CD 0 up 10 lctrl 0.460180997849
+erynnis SNARC line dot CD 0 up 5 lctrl 0.42368721962
+erynnis SNARC line dot CD 0 down 5 num_delete 0.476438999176
+erynnis SNARC line dot CD 0 down 45 num_delete 0.428193092346
+erynnis SNARC line dot CD 0 up 40 lctrl 0.830749988556
+erynnis SNARC line dot CD 0 down 25 num_delete 0.673184156418
+erynnis SNARC line dot CD 0 up 10 lctrl 0.890461921692
+erynnis SNARC line dot CD 0 up 35 lctrl 0.497331142426
+erynnis SNARC line dot CD 0 up 5 lctrl 0.682823181152
+erynnis SNARC line dot CD 0 up 20 lctrl 2.54709911346
+erynnis SNARC line dot CD 0 up 5 lctrl 0.66101193428
+erynnis SNARC line dot CD 0 up 45 lctrl 0.48456287384
+erynnis SNARC line dot CD 0 up 20 lctrl 0.365303039551
+erynnis SNARC line dot CD 0 up 40 lctrl 0.409687042236
+erynnis SNARC line dot CD 0 down 15 num_delete 0.446220874786
+erynnis SNARC line dot CD 0 up 20 lctrl 0.441193819046
+erynnis SNARC line dot CD 0 up 5 lctrl 0.461467027664
+erynnis SNARC line dot CD 0 down 30 num_delete 0.43085193634
+erynnis SNARC line dot CD 0 up 40 lctrl 0.464619874954
+erynnis SNARC line dot CD 0 down 20 num_delete 0.577476978302
+erynnis SNARC line dot CD 0 up 15 lctrl 0.775515079498
+erynnis SNARC line dot CD 0 down 10 num_delete 0.531847953796
+erynnis SNARC line dot CD 0 down 15 num_delete 0.675388097763
+erynnis SNARC line dot CD 0 up 15 lctrl 0.565728902817
+erynnis SNARC line dot CD 0 up 25 lctrl 0.586726903915
+erynnis SNARC line dot CD 0 down 35 num_delete 0.477787971497
+erynnis SNARC line dot CD 0 down 40 num_delete 0.50150513649
+erynnis SNARC line dot CD 0 down 10 num_delete 0.478655099869
+erynnis SNARC line dot CD 0 down 5 num_delete 0.377388000488
+erynnis SNARC line dot CD 0 up 20 lctrl 0.687460899353
+erynnis SNARC line dot CD 0 down 25 num_delete 0.462912082672
+erynnis SNARC line dot CD 0 up 25 lctrl 0.537796974182
+erynnis SNARC line dot CD 0 up 40 lctrl 0.550493955612
+erynnis SNARC line dot CD 0 up 5 lctrl 0.437938928604
+erynnis SNARC line dot CD 0 down 5 num_delete 0.961838006973
+erynnis SNARC line dot CD 0 down 15 num_delete 1.22310900688
+erynnis SNARC line dot CD 0 up 25 lctrl 0.960886955261
+erynnis SNARC line dot CD 0 up 35 lctrl 5.54809308052
+erynnis SNARC line dot CD 0 down 10 num_delete 0.515091180801
+erynnis SNARC line dot CD 0 down 10 num_delete 2.89155507088
+erynnis SNARC line dot CD 0 down 15 num_delete 0.477537155151
+erynnis SNARC line dot CD 0 down 30 num_delete 0.438410043716
+erynnis SNARC line dot CD 0 down 25 num_delete 0.377099990845
+erynnis SNARC line dot CD 0 up 35 lctrl 0.454380989075
+erynnis SNARC line dot CD 0 up 30 lctrl 0.423593997955
+erynnis SNARC line dot CD 0 down 15 lctrl 0.668180942535
+erynnis SNARC line dot CD 0 up 10 lctrl 1.04584789276
+erynnis SNARC line dot CD 0 up 25 lctrl 0.454504966736
+erynnis SNARC line dot CD 0 down 45 num_delete 0.462754964828
+erynnis SNARC line dot CD 0 down 20 num_delete 0.520913124084
+erynnis SNARC line dot CD 0 up 15 lctrl 0.649326086044
+erynnis SNARC line dot CD 0 down 30 num_delete 0.617470979691
+erynnis SNARC line dot CD 0 down 35 num_delete 0.491689920425
+erynnis SNARC line dot CD 0 up 5 lctrl 0.646347999573
+erynnis SNARC line dot CD 0 down 35 num_delete 0.763533115387
+erynnis SNARC line dot CD 0 down 20 num_delete 0.516606092453
+erynnis SNARC line dot CD 0 up 45 lctrl 0.506622076035
+erynnis SNARC line dot CD 0 down 30 num_delete 1.20947599411
+erynnis SNARC line dot CD 0 up 30 lctrl 0.635176897049
+erynnis SNARC line dot CD 0 up 5 lctrl 0.678833007812
+erynnis SNARC line dot CD 0 down 25 num_delete 0.623574018478
+erynnis SNARC line dot CD 0 up 15 lctrl 0.987229824066
+erynnis SNARC line dot CD 0 down 10 num_delete 0.566705942154
+erynnis SNARC line dot CD 0 up 30 lctrl 0.611383199692
+erynnis SNARC line dot CD 0 up 15 lctrl 0.479756116867
+erynnis SNARC line dot CD 0 up 35 lctrl 0.440247058868
+erynnis SNARC line dot CD 0 down 10 num_delete 0.739496946335
+erynnis SNARC line dot CD 0 up 20 lctrl 0.674126148224
+erynnis SNARC line dot CD 0 down 40 num_delete 0.736745119095
+erynnis SNARC line dot CD 0 up 20 lctrl 0.599060058594
+erynnis SNARC line dot CD 0 down 5 num_delete 4.04383993149
+erynnis SNARC line dot CD 0 up 35 lctrl 0.699095964432
+erynnis SNARC line dot CD 0 up 10 lctrl 0.443349123001
+erynnis SNARC line dot CD 0 up 45 lctrl 0.452672958374
+erynnis SNARC line dot CD 0 down 40 num_delete 0.508807897568
+erynnis SNARC line dot CD 0 up 30 lctrl 0.724577903748
+erynnis SNARC line dot CD 0 down 15 num_delete 1.19544887543
+erynnis SNARC line dot CD 0 up 10 lctrl 0.647259950638
+erynnis SNARC line dot CD 0 down 30 num_delete 1.28807592392
+erynnis SNARC line dot CD 0 up 30 lctrl 0.509937047958
+erynnis SNARC line dot CD 0 up 20 lctrl 0.446053028107
+erynnis SNARC line dot CD 0 down 35 num_delete 0.503734827042
+erynnis SNARC line dot CD 0 up 25 lctrl 0.696534872055
+erynnis SNARC line dot CD 0 down 10 num_delete 0.46467089653
+erynnis SNARC line dot CD 0 down 25 num_delete 0.474034786224
+erynnis SNARC line dot CD 0 up 15 lctrl 0.692322969437
+erynnis SNARC line dot CD 0 up 20 lctrl 0.612604141235
+erynnis SNARC line dot CD 0 up 15 lctrl 0.424672842026
+erynnis SNARC line dot CD 0 up 35 lctrl 0.739502906799
+erynnis SNARC line dot CD 0 down 45 num_delete 0.839517831802
+erynnis SNARC line dot CD 0 down 5 num_delete 0.562675952911
+erynnis SNARC line dot CD 0 up 35 lctrl 0.575994968414
+erynnis SNARC line dot CD 0 down 40 num_delete 1.97926402092
+erynnis SNARC line dot CD 0 down 25 num_delete 0.588025093079
+erynnis SNARC line dot CD 0 up 40 lctrl 0.671383857727
+erynnis SNARC line dot CD 0 up 20 lctrl 1.48027205467
+erynnis SNARC line dot CD 0 down 10 num_delete 1.64680194855
+erynnis SNARC line dot CD 0 down 20 num_delete 1.46982693672
+erynnis SNARC line dot CD 0 up 35 lctrl 2.60431599617
+erynnis SNARC line dot CD 0 down 35 num_delete 1.80023598671
+erynnis SNARC line dot CD 0 up 15 lctrl 0.850063800812
+erynnis SNARC line dot CD 0 up 40 lctrl 0.48938202858
+erynnis SNARC line dot CD 0 down 25 num_delete 0.657840967178
+erynnis SNARC line dot CD 0 up 20 lctrl 0.595756053925
+erynnis SNARC line dot CD 0 down 45 num_delete 0.622511863708
+erynnis SNARC line dot CD 0 up 10 lctrl 1.30630207062
+erynnis SNARC line dot CD 0 down 30 num_delete 0.542205095291
+erynnis SNARC line dot CD 0 down 5 num_delete 1.45460391045
+erynnis SNARC line dot CD 0 down 40 num_delete 0.748193025589
+erynnis SNARC line dot CD 0 down 10 num_delete 0.98594379425
+erynnis SNARC line dot CD 0 down 20 num_delete 0.668950080872
+erynnis SNARC line dot CD 0 up 35 lctrl 1.35750794411
+erynnis SNARC line dot CD 0 up 30 lctrl 1.73613810539
+erynnis SNARC line dot CD 0 down 5 num_delete 0.523849964142
+erynnis SNARC line dot CD 0 up 20 lctrl 1.76354384422
+erynnis SNARC line dot CD 0 down 35 num_delete 0.636523962021
+erynnis SNARC line dot CD 0 down 40 num_delete 4.13330507278
+erynnis SNARC line dot CD 0 down 40 num_delete 0.543828964233
+erynnis SNARC line dot CD 0 up 45 lctrl 0.517638921738
+erynnis SNARC line dot CD 0 down 15 num_delete 0.492887973785
+erynnis SNARC line dot CD 0 down 45 num_delete 0.532328128815
+erynnis SNARC line dot CD 0 down 45 num_delete 0.441197872162
+erynnis SNARC line dot CD 0 up 25 lctrl 0.692499876022
+erynnis SNARC line dot CD 0 down 40 num_delete 0.730833053589
+erynnis SNARC line dot CD 0 up 15 lctrl 0.970924139023
+erynnis SNARC line dot CD 0 down 25 num_delete 2.62959194183
+erynnis SNARC line dot CD 0 down 20 num_delete 1.01861810684
+erynnis SNARC line dot CD 0 up 30 lctrl 0.963958024979
+erynnis SNARC line dot CD 0 up 10 lctrl 2.65745615959
+erynnis SNARC line dot CD 0 down 10 num_delete 0.500668048859
+erynnis SNARC line dot CD 0 down 45 num_delete 0.483195781708
+erynnis SNARC line dot CD 0 up 25 lctrl 0.924644947052
+erynnis SNARC line dot CD 0 down 25 num_delete 0.482023000717
+erynnis SNARC line dot CD 0 up 20 lctrl 0.898977041245
+erynnis SNARC line dot CD 0 up 40 lctrl 0.528360843658
+erynnis SNARC line dot CD 0 up 40 lctrl 0.342084884644
+erynnis SNARC line dot CD 0 up 5 lctrl 0.454831123352
+erynnis SNARC line dot CD 0 up 30 lctrl 0.48820400238
+erynnis SNARC line dot CD 0 down 20 num_delete 0.45652794838
+erynnis SNARC line dot CD 0 down 25 num_delete 0.450572013855
+erynnis SNARC line dot CD 0 up 15 lctrl 0.509755849838
+erynnis SNARC line dot CD 0 down 10 num_delete 0.630043029785
+erynnis SNARC line dot CD 0 down 5 num_delete 0.954456090927
+erynnis SNARC line dot CD 0 down 35 num_delete 0.774285078049
+erynnis SNARC line dot CD 0 down 5 num_delete 2.84418702126
+erynnis SNARC line dot CD 0 down 45 num_delete 0.44606089592
+erynnis SNARC line dot CD 0 down 5 num_delete 0.346492052078
+erynnis SNARC line dot CD 0 up 20 lctrl 0.393748044968
+erynnis SNARC line dot CD 0 up 40 lctrl 0.364794969559
+erynnis SNARC line dot CD 0 up 30 lctrl 0.361587047577
+erynnis SNARC line dot CD 0 up 20 lctrl 0.376126050949
+erynnis SNARC line dot CD 0 up 40 lctrl 0.348247051239
+erynnis SNARC line dot CD 0 up 15 lctrl 0.31560087204
+erynnis SNARC line dot CD 0 down 25 num_delete 0.547034978867
+erynnis SNARC line dot CD 0 up 45 lctrl 0.568439006805
+erynnis SNARC line dot CD 0 up 10 lctrl 0.398447036743
+erynnis SNARC line dot CD 0 up 10 lctrl 0.363344192505
+erynnis SNARC line dot CD 0 up 30 lctrl 0.504408836365
+erynnis SNARC line dot CD 0 up 25 lctrl 0.384338140488
+erynnis SNARC line dot CD 0 down 45 num_delete 0.459280014038
+erynnis SNARC line dot CD 0 up 40 lctrl 0.436617136002
+erynnis SNARC line dot CD 0 down 40 num_delete 0.405572891235
+erynnis SNARC line dot CD 0 down 25 num_delete 0.4497859478
+erynnis SNARC line dot CD 0 down 25 num_delete 0.532205104828
+erynnis SNARC line dot CD 0 down 10 num_delete 0.467069149017
+erynnis SNARC line dot CD 0 up 35 lctrl 1.09223890305
+erynnis SNARC line dot CD 0 down 20 num_delete 0.618322849274
+erynnis SNARC line dot CD 0 down 35 num_delete 0.780751943588
+erynnis SNARC line dot CD 0 up 5 lctrl 1.29919981956
+erynnis SNARC line dot CD 0 down 10 num_delete 1.39358496666
+erynnis SNARC line dot CD 0 down 25 num_delete 1.20318818092
+erynnis SNARC line dot CD 0 down 15 num_delete 2.77410793304
+erynnis SNARC line dot CD 0 down 30 num_delete 0.467461824417
+erynnis SNARC line dot CD 0 up 10 lctrl 0.542083024979
+erynnis SNARC line dot CD 0 up 5 lctrl 0.53396487236
+erynnis SNARC line dot CD 0 down 30 num_delete 0.523447036743
+erynnis SNARC line dot CD 0 up 35 lctrl 0.658331155777
+erynnis SNARC line dot CD 0 up 35 lctrl 0.499511003494
+erynnis SNARC line dot CD 0 up 20 lctrl 0.41117310524
+erynnis SNARC line dot CD 0 up 45 lctrl 0.366652011871
+erynnis SNARC line dot CD 0 up 10 lctrl 0.34881401062
+erynnis SNARC line dot CD 0 up 30 lctrl 0.354048013687
+erynnis SNARC line dot CD 0 up 10 lctrl 0.329159975052
+erynnis SNARC line dot CD 0 down 20 num_delete 0.536599159241
+erynnis SNARC line dot CD 0 up 40 lctrl 0.870311021805
+erynnis SNARC line dot CD 0 up 45 lctrl 0.476804018021
+erynnis SNARC line dot CD 0 up 5 lctrl 0.319844961166
+erynnis SNARC line dot CD 0 up 35 lctrl 0.42271900177
+erynnis SNARC line dot CD 0 up 10 lctrl 0.299238920212
+erynnis SNARC line dot CD 0 down 40 num_delete 0.505469799042
+erynnis SNARC line dot CD 0 up 35 lctrl 0.481474876404
+erynnis SNARC line dot CD 0 down 5 num_delete 0.505794048309
+erynnis SNARC line dot CD 0 up 35 lctrl 0.410904169083
+erynnis SNARC line dot CD 0 up 10 lctrl 0.351743936539
+erynnis SNARC line dot CD 0 down 35 num_delete 0.653023004532
+erynnis SNARC line dot CD 0 up 10 lctrl 0.39172410965
+erynnis SNARC line dot CD 0 up 5 lctrl 0.366078138351
+erynnis SNARC line dot CD 0 up 5 lctrl 0.341370105743
+erynnis SNARC line dot CD 0 up 20 lctrl 0.316524028778
+erynnis SNARC line dot CD 0 down 45 num_delete 0.530420064926
+erynnis SNARC line dot CD 0 up 30 lctrl 0.345047950745
+erynnis SNARC line dot CD 0 down 20 num_delete 0.479664087296
+erynnis SNARC line dot CD 0 up 35 lctrl 0.992556810379
+erynnis SNARC line dot CD 0 up 15 lctrl 0.316259860992
+erynnis SNARC line dot CD 0 up 20 lctrl 0.340406894684
+erynnis SNARC line dot CD 0 down 35 num_delete 0.498105049133
+erynnis SNARC line dot CD 0 down 20 num_delete 0.322113990784
+erynnis SNARC line dot CD 0 down 30 num_delete 0.321285963058
+erynnis SNARC line dot CD 0 up 25 lctrl 0.545641183853
+erynnis SNARC line dot CD 0 down 35 num_delete 0.462853908539
+erynnis SNARC line dot CD 0 up 15 lctrl 0.47401714325
+erynnis SNARC line dot CD 0 up 5 lctrl 0.325131177902
+erynnis SNARC line dot CD 0 down 20 num_delete 0.532422065735
+erynnis SNARC line dot CD 0 up 45 lctrl 0.481257200241
+erynnis SNARC line dot CD 0 up 30 lctrl 0.377280950546
+erynnis SNARC line dot CD 0 up 25 lctrl 0.350900888443
+erynnis SNARC line dot CD 0 up 25 lctrl 0.413411855698
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_15_1431', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'erynnis', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+erynnis SNARC line arabic CD 0 up 8 lctrl 3.15498399734
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.355123996735
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.474822998047
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.302018165588
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.398978948593
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.348882913589
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.445050001144
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.473345041275
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.35618185997
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.419713020325
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.360904216766
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.329049110413
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.330379962921
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.402878046036
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.440091848373
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.452780008316
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.42400097847
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.589771986008
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.419073104858
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.407809019089
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.405583143234
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.347220897675
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.419011116028
+erynnis SNARC line arabic CD 0 up 8 num_delete 0.351956129074
+erynnis SNARC line arabic CD 0 down 7 num_delete 2.59942293167
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.414602041245
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.427797079086
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.400758981705
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.358596086502
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.470592975616
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.753174066544
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.512075185776
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.449449062347
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.652698040009
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.73607301712
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.711078882217
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.616069793701
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.564558982849
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.514949083328
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.467260837555
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.422240018845
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.339101076126
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.427547931671
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.400640964508
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.542407989502
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.758381128311
+erynnis SNARC line arabic CD 0 up 9 lctrl 1.22193098068
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.847413063049
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.474463939667
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.381242036819
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.476138114929
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.406546115875
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.500540971756
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.333899021149
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.462181091309
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.362143993378
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.401919126511
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.383302927017
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.397796154022
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.355370998383
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.347733020782
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.283524990082
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.43007683754
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.435696840286
+erynnis SNARC line arabic CD 0 down 5 num_delete 1.02325201035
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.570777893066
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.424903869629
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.549903154373
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.48545217514
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.463576078415
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.38671207428
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.480741977692
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.707020044327
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.804219961166
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.768036842346
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.486487150192
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.352093935013
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.408092021942
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.453543186188
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.561334848404
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.423944950104
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.429777860641
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.61844587326
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.470711946487
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.545156002045
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.545267820358
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.513574838638
+erynnis SNARC line arabic CD 0 up 1 lctrl 1.05080389977
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.573079824448
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.611442089081
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.544381141663
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.68016409874
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.338556051254
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.930718898773
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.450078964233
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.533953905106
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.398074865341
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.371809959412
+erynnis SNARC line arabic CD 0 down 2 lctrl 0.706908941269
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.459707975388
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.550751924515
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.773845911026
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.50831413269
+erynnis SNARC line arabic CD 0 down 6 num_delete 1.19714713097
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.521792888641
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.482326984406
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.740121841431
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.555449008942
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.690895795822
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.540616035461
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.50804400444
+erynnis SNARC line arabic CD 0 up 4 lctrl 1.04577422142
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.384188890457
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.406790971756
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.524304151535
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.596772909164
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.610785007477
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.679856061935
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.426238059998
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.487153053284
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.361246109009
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.616738080978
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.597285032272
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.451031923294
+erynnis SNARC line arabic CD 0 down 7 num_delete 3.03051495552
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.467844009399
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.39807510376
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.451795816422
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.639806032181
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.572072982788
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.698096990585
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.490621805191
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.852505922318
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.582862854004
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.356558084488
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.524900913239
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.557405948639
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.55645108223
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.676150083542
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.446218013763
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.554222106934
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.537372112274
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.409255027771
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.69554901123
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.592678070068
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.406486988068
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.332259893417
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.548623085022
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.427947998047
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.648983955383
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.628194093704
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.680185079575
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.650953054428
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.493807077408
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.591295003891
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.566224098206
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.579987049103
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.546409130096
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.66668510437
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.63716006279
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.775993824005
+erynnis SNARC line arabic CD 0 down 3 num_delete 2.31789684296
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.465553998947
+erynnis SNARC line arabic CD 0 up 4 lctrl 2.30904102325
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.448976993561
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.396281003952
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.37114405632
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.457643985748
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.533445119858
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.525296211243
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.661917924881
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.560592889786
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.680360078812
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.586138010025
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.5838098526
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.534151077271
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.382047891617
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.444426059723
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.472398042679
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.507807970047
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.461208105087
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.392096996307
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.343184947968
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.31144785881
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.305781841278
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.339359998703
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.340270996094
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.404398918152
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.442485809326
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.39096903801
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.508835077286
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.422174215317
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.403491020203
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.601130962372
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.574028968811
+erynnis SNARC line arabic CD 0 up 4 lctrl 1.08474612236
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.620884895325
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.897200107574
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.450013160706
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.741563081741
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.492547035217
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.447078943253
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.482511997223
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.461050987244
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.43224811554
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.437176942825
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.520717859268
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.45733499527
+erynnis SNARC line arabic CD 0 down 9 num_delete 1.27669715881
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.541030168533
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.581526041031
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.482939958572
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.700954914093
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.613854169846
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.890990018845
+erynnis SNARC line arabic CD 0 down 4 num_delete 1.12399411201
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.570928812027
+erynnis SNARC line arabic CD 0 down 4 num_delete 2.49705719948
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.925393819809
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.580476045609
+erynnis SNARC line arabic CD 0 down 8 num_delete 0.483391046524
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.493510961533
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.551553010941
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.48702287674
+erynnis SNARC line arabic CD 0 down 8 num_delete 3.48848700523
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.610456943512
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.583362102509
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.54928612709
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.532281160355
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.62853717804
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.592843055725
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.695156812668
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.45619392395
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.363863945007
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.274868965149
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.310189008713
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.384510993958
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.390299081802
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.437336206436
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.321176052094
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.402711868286
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.408134222031
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.518348932266
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.438506126404
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.72310590744
+erynnis SNARC line arabic CD 0 down 9 lctrl 0.363368034363
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.538880109787
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.449850082397
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.4299659729
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.387220859528
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.464620113373
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.412314891815
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.521462917328
+erynnis SNARC line arabic CD 0 up 6 num_delete 0.410133123398
+erynnis SNARC line arabic CD 0 down 3 num_delete 3.33574199677
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.464040994644
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.643102884293
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.582328081131
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.684634923935
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.60598897934
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.482452869415
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.693218946457
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.399193048477
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.523933887482
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.685250043869
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.806915998459
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.525367021561
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.515136957169
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.692250013351
+erynnis SNARC line arabic CD 0 up 1 lctrl 4.51792407036
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.482547998428
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.508996963501
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.45406293869
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.794028043747
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.406658172607
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.396323919296
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.378945112228
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.49835395813
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.643925905228
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.719040870667
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.719825029373
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.655503988266
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.9221098423
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.593294143677
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.815606832504
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.635037899017
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.655045032501
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.433970928192
+erynnis SNARC line arabic CD 0 up 2 lctrl 0.40669298172
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.69163107872
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.413671970367
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.498103141785
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.435758113861
+erynnis SNARC line arabic CD 0 up 8 lctrl 0.440224885941
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.388236999512
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.49032998085
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.980609893799
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.554371118546
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.635782957077
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.380656957626
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.499596834183
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.429562091827
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.577913045883
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.408319950104
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.558347940445
+erynnis SNARC line arabic CD 0 up 5 lctrl 2.97319698334
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.404014825821
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.594195127487
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.5596139431
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.4949259758
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.585217952728
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.526827096939
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.54311299324
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.367264032364
+erynnis SNARC line arabic CD 0 up 4 lctrl 0.430997133255
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.339170217514
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.379655122757
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.507169008255
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.356173992157
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.436023950577
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.311173915863
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.337563037872
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.337844848633
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.546824932098
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.506494045258
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.355866909027
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.371726036072
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.515249013901
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.395461082458
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.345968961716
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.338404893875
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.323056221008
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.308284044266
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.407032966614
+erynnis SNARC line arabic CD 0 down 7 num_delete 0.44402718544
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.440337181091
+erynnis SNARC line arabic CD 0 up 9 lctrl 0.40503692627
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.466248989105
+erynnis SNARC line arabic CD 0 down 1 num_delete 0.429190158844
+erynnis SNARC line arabic CD 0 down 5 num_delete 0.362175941467
+erynnis SNARC line arabic CD 0 up 6 lctrl 2.29020810127
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.358916044235
+erynnis SNARC line arabic CD 0 down 2 num_delete 0.486351013184
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.336601018906
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.75346493721
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.463718891144
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.458914041519
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.65406703949
+erynnis SNARC line arabic CD 0 down 3 num_delete 0.393095970154
+erynnis SNARC line arabic CD 0 up 1 lctrl 0.455893993378
+erynnis SNARC line arabic CD 0 up 5 lctrl 0.403542995453
+erynnis SNARC line arabic CD 0 down 9 num_delete 0.480804920197
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.595726966858
+erynnis SNARC line arabic CD 0 up 6 lctrl 0.521049976349
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.393769025803
+erynnis SNARC line arabic CD 0 up 3 lctrl 0.456147909164
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.396044015884
+erynnis SNARC line arabic CD 0 down 6 num_delete 0.489906072617
+erynnis SNARC line arabic CD 0 up 7 lctrl 0.428158998489
+erynnis SNARC line arabic CD 0 down 4 num_delete 0.368599891663
+{'participant': u'erynnis', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_15_1441', 'autopilot': False, 'exp_id': u'SNARC'}
+erynnis SNARC_only DC 6 num_delete 1.02361512184
+erynnis SNARC_only DC 7 lctrl 0.787638902664
+erynnis SNARC_only DC 2 num_delete 0.544266939163
+erynnis SNARC_only DC 2 num_delete 0.368452072144
+erynnis SNARC_only DC 9 lctrl 2.03956389427
+erynnis SNARC_only DC 6 num_delete 0.526546955109
+erynnis SNARC_only DC 3 lctrl 1.11158299446
+erynnis SNARC_only DC 9 lctrl 0.639142990112
+erynnis SNARC_only DC 5 lctrl 0.554995059967
+erynnis SNARC_only DC 5 lctrl 0.401725053787
+erynnis SNARC_only DC 5 lctrl 0.440006971359
+erynnis SNARC_only DC 5 lctrl 0.35587310791
+erynnis SNARC_only DC 3 lctrl 0.683777093887
+erynnis SNARC_only DC 6 num_delete 0.508895158768
+erynnis SNARC_only DC 1 lctrl 0.718682050705
+erynnis SNARC_only DC 7 lctrl 0.694993019104
+erynnis SNARC_only DC 1 lctrl 0.584207057953
+erynnis SNARC_only DC 5 lctrl 0.798119068146
+erynnis SNARC_only DC 9 lctrl 0.754500865936
+erynnis SNARC_only DC 9 lctrl 0.497210979462
+erynnis SNARC_only DC 5 lctrl 0.514652967453
+erynnis SNARC_only DC 8 num_delete 0.514865159988
+erynnis SNARC_only DC 8 num_delete 0.507562160492
+erynnis SNARC_only DC 5 lctrl 0.557404994965
+erynnis SNARC_only DC 3 lctrl 1.18854618073
+erynnis SNARC_only DC 6 num_delete 0.639986038208
+erynnis SNARC_only DC 8 num_delete 0.651894807816
+erynnis SNARC_only DC 5 lctrl 0.614920139313
+erynnis SNARC_only DC 4 num_delete 1.2592151165
+erynnis SNARC_only DC 1 lctrl 0.628238916397
+erynnis SNARC_only DC 3 lctrl 0.680886983871
+erynnis SNARC_only DC 1 lctrl 0.46701002121
+erynnis SNARC_only DC 7 lctrl 0.518181085587
+erynnis SNARC_only DC 8 num_delete 0.566096067429
+erynnis SNARC_only DC 5 lctrl 0.565119028091
+erynnis SNARC_only DC 9 lctrl 0.763190031052
+erynnis SNARC_only DC 1 lctrl 0.538244009018
+erynnis SNARC_only DC 1 lctrl 0.657983064651
+erynnis SNARC_only DC 9 lctrl 0.605069160461
+erynnis SNARC_only DC 1 lctrl 0.490252017975
+erynnis SNARC_only DC 1 lctrl 0.507616043091
+erynnis SNARC_only DC 8 num_delete 0.492472887039
+erynnis SNARC_only DC 5 lctrl 0.559054136276
+erynnis SNARC_only DC 9 lctrl 0.710294961929
+erynnis SNARC_only DC 6 lctrl 0.75116610527
+erynnis SNARC_only DC 5 lctrl 1.03688979149
+erynnis SNARC_only DC 3 lctrl 0.727499961853
+erynnis SNARC_only DC 9 lctrl 0.679409980774
+erynnis SNARC_only DC 7 lctrl 1.96951508522
+erynnis SNARC_only DC 2 num_delete 0.747370958328
+erynnis SNARC_only DC 2 num_delete 0.522605895996
+erynnis SNARC_only DC 7 lctrl 1.41170907021
+erynnis SNARC_only DC 7 lctrl 0.518311023712
+erynnis SNARC_only DC 6 num_delete 0.550602912903
+erynnis SNARC_only DC 7 lctrl 0.566406011581
+erynnis SNARC_only DC 2 num_delete 0.884368896484
+erynnis SNARC_only DC 2 num_delete 0.517544984818
+erynnis SNARC_only DC 3 lctrl 0.702616930008
+erynnis SNARC_only DC 6 num_delete 1.46298003197
+erynnis SNARC_only DC 3 lctrl 10.1836371422
+erynnis SNARC_only DC 7 lctrl 0.601022005081
+erynnis SNARC_only DC 4 num_delete 0.773809909821
+erynnis SNARC_only DC 5 lctrl 0.611911058426
+erynnis SNARC_only DC 7 lctrl 2.68769192696
+erynnis SNARC_only DC 2 num_delete 0.660027980804
+erynnis SNARC_only DC 4 num_delete 0.687026023865
+erynnis SNARC_only DC 3 lctrl 0.608851909637
+erynnis SNARC_only DC 9 lctrl 0.7418820858
+erynnis SNARC_only DC 6 num_delete 0.64484000206
+erynnis SNARC_only DC 3 lctrl 1.6889128685
+erynnis SNARC_only DC 3 lctrl 0.391355037689
+erynnis SNARC_only DC 4 num_delete 1.92539095879
+erynnis SNARC_only DC 1 lctrl 0.777951955795
+erynnis SNARC_only DC 5 lctrl 1.39183115959
+erynnis SNARC_only DC 1 lctrl 0.507292032242
+erynnis SNARC_only DC 3 lctrl 0.484459877014
+erynnis SNARC_only DC 9 lctrl 0.542698860168
+erynnis SNARC_only DC 7 lctrl 0.478738069534
+erynnis SNARC_only DC 4 num_delete 0.617170095444
+erynnis SNARC_only DC 1 lctrl 0.509849071503
+erynnis SNARC_only DC 5 lctrl 0.535252094269
+erynnis SNARC_only DC 5 lctrl 0.415259122849
+erynnis SNARC_only DC 8 num_delete 0.587719202042
+erynnis SNARC_only DC 6 num_delete 0.529653072357
+erynnis SNARC_only DC 6 num_delete 0.490313053131
+erynnis SNARC_only DC 9 lctrl 0.733174800873
+erynnis SNARC_only DC 1 lctrl 0.572088003159
+erynnis SNARC_only DC 6 num_delete 0.618191957474
+erynnis SNARC_only DC 1 lctrl 1.07907390594
+erynnis SNARC_only DC 8 num_delete 2.02378797531
+erynnis SNARC_only DC 1 lctrl 0.527697086334
+erynnis SNARC_only DC 8 num_delete 0.608406066895
+erynnis SNARC_only DC 9 lctrl 0.581784009933
+erynnis SNARC_only DC 4 num_delete 0.68310713768
+erynnis SNARC_only DC 3 lctrl 0.589000940323
+erynnis SNARC_only DC 6 num_delete 0.69854593277
+erynnis SNARC_only DC 5 lctrl 0.811596870422
+erynnis SNARC_only DC 8 num_delete 0.639616966248
+erynnis SNARC_only DC 8 num_delete 0.595522880554
+erynnis SNARC_only DC 7 lctrl 0.545406103134
+erynnis SNARC_only DC 3 lctrl 0.705487012863
+erynnis SNARC_only DC 4 num_delete 0.649911165237
+erynnis SNARC_only DC 2 num_delete 0.764852046967
+erynnis SNARC_only DC 3 lctrl 0.555196046829
+erynnis SNARC_only DC 4 num_delete 0.769949197769
+erynnis SNARC_only DC 8 num_delete 0.59974193573
+erynnis SNARC_only DC 5 lctrl 0.613968849182
+erynnis SNARC_only DC 1 lctrl 0.810405015945
+erynnis SNARC_only DC 1 lctrl 0.414938926697
+erynnis SNARC_only DC 9 lctrl 0.891795873642
+erynnis SNARC_only DC 9 lctrl 1.244617939
+erynnis SNARC_only DC 9 lctrl 0.766554117203
+erynnis SNARC_only DC 2 num_delete 1.09224081039
+erynnis SNARC_only DC 1 lctrl 1.14855480194
+erynnis SNARC_only DC 4 num_delete 2.90653300285
+erynnis SNARC_only DC 3 lctrl 0.588640928268
+erynnis SNARC_only DC 6 num_delete 0.762029886246
+erynnis SNARC_only DC 1 lctrl 0.937096834183
+erynnis SNARC_only DC 2 num_delete 0.487464904785
+erynnis SNARC_only DC 2 num_delete 0.569986820221
+erynnis SNARC_only DC 7 lctrl 0.512542963028
+erynnis SNARC_only DC 1 lctrl 0.537949800491
+erynnis SNARC_only DC 4 num_delete 0.489480018616
+erynnis SNARC_only DC 1 lctrl 0.443918943405
+erynnis SNARC_only DC 7 lctrl 0.408428907394
+erynnis SNARC_only DC 6 num_delete 0.517497062683
+erynnis SNARC_only DC 1 lctrl 0.510680913925
+erynnis SNARC_only DC 7 lctrl 1.01617479324
+erynnis SNARC_only DC 8 num_delete 0.522663831711
+erynnis SNARC_only DC 9 lctrl 1.14827418327
+erynnis SNARC_only DC 2 num_delete 0.665474891663
+erynnis SNARC_only DC 8 num_delete 0.611673116684
+erynnis SNARC_only DC 3 lctrl 0.649430036545
+erynnis SNARC_only DC 6 num_delete 1.18784213066
+erynnis SNARC_only DC 9 lctrl 1.03153395653
+erynnis SNARC_only DC 3 lctrl 1.52232408524
+erynnis SNARC_only DC 8 num_delete 0.543599843979
+erynnis SNARC_only DC 4 lctrl 0.519748210907
+erynnis SNARC_only DC 6 num_delete 0.80819106102
+erynnis SNARC_only DC 1 lctrl 0.493427038193
+erynnis SNARC_only DC 4 num_delete 1.05486297607
+erynnis SNARC_only DC 1 lctrl 0.649079799652
+erynnis SNARC_only DC 4 num_delete 3.53925204277
+erynnis SNARC_only DC 9 lctrl 0.635713100433
+erynnis SNARC_only DC 4 num_delete 3.86273694038
+erynnis SNARC_only DC 7 lctrl 0.511504173279
+erynnis SNARC_only DC 5 lctrl 1.25729203224
+erynnis SNARC_only DC 9 lctrl 0.562274932861
+erynnis SNARC_only DC 4 num_delete 0.569459915161
+erynnis SNARC_only DC 5 lctrl 0.624208927155
+erynnis SNARC_only DC 1 lctrl 0.75691485405
+erynnis SNARC_only DC 2 num_delete 0.650624990463
+erynnis SNARC_only DC 7 lctrl 0.669838905334
+erynnis SNARC_only DC 2 num_delete 0.503834009171
+erynnis SNARC_only DC 6 num_delete 0.720949888229
+erynnis SNARC_only DC 7 lctrl 0.857695817947
+erynnis SNARC_only DC 8 num_delete 0.523614883423
+erynnis SNARC_only DC 5 lctrl 0.436706066132
+erynnis SNARC_only DC 7 lctrl 3.27300405502
+erynnis SNARC_only DC 7 lctrl 0.483042955399
+erynnis SNARC_only DC 8 num_delete 0.396708011627
+erynnis SNARC_only DC 2 lctrl 0.755743026733
+erynnis SNARC_only DC 2 num_delete 0.889935970306
+erynnis SNARC_only DC 4 num_delete 0.562732934952
+erynnis SNARC_only DC 6 num_delete 0.449851989746
+erynnis SNARC_only DC 6 num_delete 0.413480043411
+erynnis SNARC_only DC 7 lctrl 0.47493314743
+erynnis SNARC_only DC 7 lctrl 0.565705060959
+erynnis SNARC_only DC 3 lctrl 0.684208154678
+erynnis SNARC_only DC 3 lctrl 0.469640016556
+erynnis SNARC_only DC 8 num_delete 0.560024023056
+erynnis SNARC_only DC 1 lctrl 0.679697990417
+erynnis SNARC_only DC 3 lctrl 1.72193694115
+erynnis SNARC_only DC 8 num_delete 0.550165891647
+erynnis SNARC_only DC 2 num_delete 0.997801065445
+erynnis SNARC_only DC 8 num_delete 0.666129112244
+erynnis SNARC_only DC 8 num_delete 0.852540969849
+erynnis SNARC_only DC 9 lctrl 0.823235988617
+erynnis SNARC_only DC 6 num_delete 0.714548826218
+erynnis SNARC_only DC 5 lctrl 0.49081993103
+erynnis SNARC_only DC 1 lctrl 0.525156974792
+erynnis SNARC_only DC 2 num_delete 0.509438037872
+erynnis SNARC_only DC 2 num_delete 0.430675029755
+erynnis SNARC_only DC 3 lctrl 0.435451030731
+erynnis SNARC_only DC 4 num_delete 0.807471990585
+erynnis SNARC_only DC 6 num_delete 0.915868997574
+erynnis SNARC_only DC 2 num_delete 0.587260007858
+erynnis SNARC_only DC 7 lctrl 0.465531110764
+erynnis SNARC_only DC 4 num_delete 1.03581809998
+erynnis SNARC_only DC 6 num_delete 0.598112821579
+erynnis SNARC_only DC 3 lctrl 0.635904073715
+erynnis SNARC_only DC 4 num_delete 1.2629802227
+erynnis SNARC_only DC 9 lctrl 1.08858299255
+erynnis SNARC_only DC 3 lctrl 0.896851062775
+erynnis SNARC_only DC 5 lctrl 0.545485973358
+erynnis SNARC_only DC 3 lctrl 0.457592964172
+erynnis SNARC_only DC 6 num_delete 0.524659156799
+erynnis SNARC_only DC 3 lctrl 0.662061929703
+erynnis SNARC_only DC 9 lctrl 0.713244915009
+erynnis SNARC_only DC 8 num_delete 0.417116880417
+erynnis SNARC_only DC 3 lctrl 0.60657286644
+erynnis SNARC_only DC 4 num_delete 0.546853065491
+erynnis SNARC_only DC 5 lctrl 0.55587887764
+erynnis SNARC_only DC 9 lctrl 0.626590013504
+erynnis SNARC_only DC 1 lctrl 1.19111204147
+erynnis SNARC_only DC 2 num_delete 0.634584903717
+erynnis SNARC_only DC 1 lctrl 0.542689800262
+erynnis SNARC_only DC 2 num_delete 0.830616950989
+erynnis SNARC_only DC 5 lctrl 1.14623093605
+erynnis SNARC_only DC 8 num_delete 15.4160368443
+erynnis SNARC_only DC 5 lctrl 0.568483829498
+erynnis SNARC_only DC 4 num_delete 1.16711497307
+erynnis SNARC_only DC 2 num_delete 0.899743080139
+erynnis SNARC_only DC 3 lctrl 0.652478933334
+erynnis SNARC_only DC 9 lctrl 0.959249019623
+erynnis SNARC_only DC 6 num_delete 0.62077999115
+erynnis SNARC_only DC 7 lctrl 1.36984610558
+erynnis SNARC_only DC 1 lctrl 0.581686973572
+erynnis SNARC_only DC 4 num_delete 0.723148822784
+erynnis SNARC_only DC 6 num_delete 0.578933000565
+erynnis SNARC_only DC 5 lctrl 0.530081033707
+erynnis SNARC_only DC 5 lctrl 0.426425933838
+erynnis SNARC_only DC 8 num_delete 0.575293064117
+erynnis SNARC_only DC 9 lctrl 0.798331975937
+erynnis SNARC_only DC 9 lctrl 0.802742958069
+erynnis SNARC_only DC 6 num_delete 0.630750179291
+erynnis SNARC_only DC 4 num_delete 0.786396026611
+erynnis SNARC_only DC 7 lctrl 1.03191614151
+erynnis SNARC_only DC 8 num_delete 0.834671974182
+erynnis SNARC_only DC 3 lctrl 1.12732887268
+erynnis SNARC_only DC 5 lctrl 1.76562809944
+erynnis SNARC_only DC 7 lctrl 0.744459867477
+erynnis SNARC_only DC 9 lctrl 1.5438117981
+erynnis SNARC_only DC 2 num_delete 0.556558847427
+erynnis SNARC_only DC 3 lctrl 0.852130889893
+erynnis SNARC_only DC 3 lctrl 0.406565904617
+erynnis SNARC_only DC 7 lctrl 0.499891996384
+erynnis SNARC_only DC 1 lctrl 0.701036930084
+erynnis SNARC_only DC 2 num_delete 0.622037172318
+erynnis SNARC_only DC 8 num_delete 0.554005146027
+erynnis SNARC_only DC 5 lctrl 0.753645181656
+erynnis SNARC_only DC 1 lctrl 0.616216897964
+erynnis SNARC_only DC 8 num_delete 0.556295871735
+erynnis SNARC_only DC 2 num_delete 1.2915160656
+erynnis SNARC_only DC 7 lctrl 2.33955216408
+erynnis SNARC_only DC 3 lctrl 0.614295005798
+erynnis SNARC_only DC 3 lctrl 0.634145975113
+erynnis SNARC_only DC 2 num_delete 0.621575832367
+erynnis SNARC_only DC 3 lctrl 0.650245904922
+erynnis SNARC_only DC 2 num_delete 0.708548069
+erynnis SNARC_only DC 3 lctrl 1.81396412849
+erynnis SNARC_only DC 9 lctrl 0.663236856461
+erynnis SNARC_only DC 4 num_delete 0.585929870605
+erynnis SNARC_only DC 4 num_delete 0.559694051743
+erynnis SNARC_only DC 6 num_delete 0.518930912018
+erynnis SNARC_only DC 8 num_delete 0.495520830154
+erynnis SNARC_only DC 8 num_delete 0.530313968658
+erynnis SNARC_only DC 8 num_delete 0.426547050476
+erynnis SNARC_only DC 4 num_delete 0.575525999069
+erynnis SNARC_only DC 2 num_delete 0.557765007019
+erynnis SNARC_only DC 6 num_delete 0.549129009247
+erynnis SNARC_only DC 1 lctrl 0.493006944656
+erynnis SNARC_only DC 6 num_delete 0.518440008163
+erynnis SNARC_only DC 1 lctrl 0.447622060776
+erynnis SNARC_only DC 5 lctrl 0.54727602005
+erynnis SNARC_only DC 5 lctrl 0.507224082947
+erynnis SNARC_only DC 5 lctrl 0.404451131821
+erynnis SNARC_only DC 6 num_delete 0.569456100464
+erynnis SNARC_only DC 2 num_delete 0.816690921783
+erynnis SNARC_only DC 8 num_delete 0.476099014282
+erynnis SNARC_only DC 4 num_delete 0.526801109314
+erynnis SNARC_only DC 4 num_delete 0.479506015778
+erynnis SNARC_only DC 2 num_delete 0.458317995071
+erynnis SNARC_only DC 2 num_delete 0.429994106293
+erynnis SNARC_only DC 7 lctrl 0.539389848709
+erynnis SNARC_only DC 5 lctrl 0.563246965408
+erynnis SNARC_only DC 1 lctrl 2.906509161
+erynnis SNARC_only DC 9 lctrl 0.636451005936
+erynnis SNARC_only DC 8 num_delete 0.591722011566
+erynnis SNARC_only DC 5 lctrl 0.685767889023
+erynnis SNARC_only DC 5 lctrl 0.37534403801
+erynnis SNARC_only DC 9 num_delete 0.518079042435
+erynnis SNARC_only DC 5 lctrl 0.815315961838
+erynnis SNARC_only DC 5 lctrl 0.307502031326
+erynnis SNARC_only DC 7 lctrl 0.461245059967
+erynnis SNARC_only DC 2 num_delete 0.607913970947
+erynnis SNARC_only DC 4 num_delete 0.51763510704
+erynnis SNARC_only DC 4 num_delete 0.478104829788
+erynnis SNARC_only DC 4 num_delete 0.472927093506
+erynnis SNARC_only DC 1 lctrl 0.499802112579
+erynnis SNARC_only DC 4 num_delete 0.493022918701
+erynnis SNARC_only DC 9 lctrl 0.631291866302
+erynnis SNARC_only DC 7 lctrl 0.619057893753
+erynnis SNARC_only DC 2 num_delete 0.847028017044
+erynnis SNARC_only DC 3 lctrl 0.898600101471
+erynnis SNARC_only DC 3 lctrl 0.499205112457
+erynnis SNARC_only DC 9 lctrl 0.76417183876
+erynnis SNARC_only DC 9 lctrl 0.434697151184
+erynnis SNARC_only DC 6 num_delete 0.574444055557
+erynnis SNARC_only DC 9 num_delete 0.541158914566
+erynnis SNARC_only DC 2 num_delete 1.14891886711
+erynnis SNARC_only DC 4 num_delete 1.54763484001
+erynnis SNARC_only DC 8 num_delete 0.632146835327
+erynnis SNARC_only DC 1 lctrl 0.643948078156
+erynnis SNARC_only DC 2 num_delete 0.679379940033
+erynnis SNARC_only DC 4 num_delete 0.705570936203
+erynnis SNARC_only DC 8 num_delete 0.578375101089
+erynnis SNARC_only DC 6 num_delete 0.520892858505
+erynnis SNARC_only DC 4 num_delete 0.761371850967
+erynnis SNARC_only DC 6 num_delete 0.624032020569
+erynnis SNARC_only DC 4 num_delete 0.692628860474
+erynnis SNARC_only DC 8 num_delete 0.629894018173
+erynnis SNARC_only DC 2 num_delete 0.586273908615
+erynnis SNARC_only DC 3 lctrl 1.17635607719
+erynnis SNARC_only DC 7 lctrl 0.5575299263
+erynnis SNARC_only DC 6 num_delete 0.483908891678
+erynnis SNARC_only DC 6 num_delete 0.517967939377
+erynnis SNARC_only DC 7 lctrl 0.551089048386
+erynnis SNARC_only DC 5 lctrl 0.606158971786
+erynnis SNARC_only DC 7 lctrl 0.41943192482
+erynnis SNARC_only DC 4 num_delete 0.704021930695
+erynnis SNARC_only DC 2 num_delete 0.944775819778
+erynnis SNARC_only DC 7 lctrl 0.688197135925
+erynnis SNARC_only DC 8 num_delete 0.537225961685
+erynnis SNARC_only DC 7 lctrl 0.569376945496
+erynnis SNARC_only DC 9 lctrl 0.759845018387
+erynnis SNARC_only DC 6 num_delete 0.661927938461
+erynnis SNARC_only DC 7 lctrl 0.697302103043
+erynnis SNARC_only DC 4 num_delete 0.642673969269
+erynnis SNARC_only DC 2 num_delete 0.798449993134
+erynnis SNARC_only DC 9 lctrl 0.866992950439
+erynnis SNARC_only DC 9 lctrl 0.836551189423
+erynnis SNARC_only DC 6 num_delete 1.0073890686
+erynnis SNARC_only DC 6 num_delete 0.59522485733
+erynnis SNARC_only DC 9 lctrl 0.71328997612
+erynnis SNARC_only DC 3 lctrl 3.17044091225
+erynnis SNARC_only DC 6 num_delete 1.08078718185
+erynnis SNARC_only DC 3 lctrl 1.01028800011
+erynnis SNARC_only DC 1 lctrl 0.63006901741
+erynnis SNARC_only DC 7 lctrl 0.682260990143
+erynnis SNARC_only DC 1 lctrl 0.499918937683
+erynnis SNARC_only DC 7 lctrl 0.381292104721
+erynnis SNARC_only DC 8 num_delete 0.539395809174
+erynnis SNARC_only DC 1 lctrl 0.451987028122
+erynnis SNARC_only DC 8 num_delete 0.550916910172
+erynnis SNARC_only DC 1 lctrl 0.478739976883
+erynnis SNARC_only DC 5 lctrl 0.95320391655
+erynnis SNARC_only DC 9 num_delete 0.5431599617
+erynnis SNARC_only DC 8 num_delete 0.638927936554
+erynnis SNARC_only DC 5 lctrl 0.490836858749
+erynnis SNARC_only DC 4 num_delete 0.860672950745
+erynnis SNARC_only DC 8 num_delete 0.478991031647
+erynnis SNARC_only DC 6 num_delete 0.474369049072
+erynnis SNARC_only DC 4 num_delete 0.452671051025
+erynnis SNARC_only DC 7 lctrl 0.529045820236
+erynnis SNARC_only DC 7 lctrl 0.369304895401
+erynnis SNARC_only DC 8 num_delete 0.903996229172
+erynnis SNARC_only DC 3 lctrl 0.697078943253
+erynnis SNARC_only DC 2 num_delete 0.601586818695
+erynnis SNARC_only DC 9 lctrl 0.895048141479
+{'participant': u'erynnis', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_15_1451', 'autopilot': False, 'exp_id': u'SNARC'}
+erynnis SNARC_only CD 2 lctrl 0.906942844391
+erynnis SNARC_only CD 1 num_delete 0.682338953018
+erynnis SNARC_only CD 2 lctrl 1.6203110218
+erynnis SNARC_only CD 9 num_delete 1.0853869915
+erynnis SNARC_only CD 7 num_delete 0.477225065231
+erynnis SNARC_only CD 8 lctrl 0.568598031998
+erynnis SNARC_only CD 5 num_delete 0.566776990891
+erynnis SNARC_only CD 5 num_delete 0.493066072464
+erynnis SNARC_only CD 3 num_delete 0.448106050491
+erynnis SNARC_only CD 7 num_delete 0.482825994492
+erynnis SNARC_only CD 8 lctrl 0.421316146851
+erynnis SNARC_only CD 4 lctrl 0.410474777222
+erynnis SNARC_only CD 9 num_delete 0.559695005417
+erynnis SNARC_only CD 1 num_delete 0.591131925583
+erynnis SNARC_only CD 1 num_delete 0.380753040314
+erynnis SNARC_only CD 6 lctrl 0.532151937485
+erynnis SNARC_only CD 2 lctrl 0.523414850235
+erynnis SNARC_only CD 7 num_delete 0.547865152359
+erynnis SNARC_only CD 9 num_delete 0.699238061905
+erynnis SNARC_only CD 1 num_delete 0.603995084763
+erynnis SNARC_only CD 9 num_delete 0.560909986496
+erynnis SNARC_only CD 4 lctrl 0.576575994492
+erynnis SNARC_only CD 1 num_delete 0.51873087883
+erynnis SNARC_only CD 3 num_delete 1.18365883827
+erynnis SNARC_only CD 8 lctrl 0.659754037857
+erynnis SNARC_only CD 4 lctrl 1.41486501694
+erynnis SNARC_only CD 7 num_delete 0.53698015213
+erynnis SNARC_only CD 4 lctrl 0.561182975769
+erynnis SNARC_only CD 7 num_delete 0.552009105682
+erynnis SNARC_only CD 9 num_delete 0.919363975525
+erynnis SNARC_only CD 2 lctrl 0.63128900528
+erynnis SNARC_only CD 7 num_delete 0.506352901459
+erynnis SNARC_only CD 8 lctrl 0.515918970108
+erynnis SNARC_only CD 5 num_delete 0.564615011215
+erynnis SNARC_only CD 2 lctrl 0.451123952866
+erynnis SNARC_only CD 1 num_delete 0.494449138641
+erynnis SNARC_only CD 7 num_delete 0.424367904663
+erynnis SNARC_only CD 7 num_delete 0.381669044495
+erynnis SNARC_only CD 2 lctrl 0.548458099365
+erynnis SNARC_only CD 7 lctrl 0.403668880463
+erynnis SNARC_only CD 1 num_delete 0.992206096649
+erynnis SNARC_only CD 4 lctrl 0.477140903473
+erynnis SNARC_only CD 3 num_delete 0.57448887825
+erynnis SNARC_only CD 2 lctrl 0.453917980194
+erynnis SNARC_only CD 1 num_delete 2.17690706253
+erynnis SNARC_only CD 8 lctrl 0.57902097702
+erynnis SNARC_only CD 3 num_delete 0.600960969925
+erynnis SNARC_only CD 4 lctrl 0.79053902626
+erynnis SNARC_only CD 4 lctrl 0.499466896057
+erynnis SNARC_only CD 6 lctrl 0.509191989899
+erynnis SNARC_only CD 5 num_delete 0.662250041962
+erynnis SNARC_only CD 6 lctrl 0.72953915596
+erynnis SNARC_only CD 4 num_delete 0.873101949692
+erynnis SNARC_only CD 1 num_delete 1.96254992485
+erynnis SNARC_only CD 3 num_delete 0.725562810898
+erynnis SNARC_only CD 8 lctrl 0.806035041809
+erynnis SNARC_only CD 3 num_delete 0.682099103928
+erynnis SNARC_only CD 4 lctrl 3.05994105339
+erynnis SNARC_only CD 9 num_delete 0.847029924393
+erynnis SNARC_only CD 4 lctrl 0.698459148407
+erynnis SNARC_only CD 1 num_delete 0.682926177979
+erynnis SNARC_only CD 9 num_delete 0.835973978043
+erynnis SNARC_only CD 7 num_delete 0.463257074356
+erynnis SNARC_only CD 4 lctrl 0.795373916626
+erynnis SNARC_only CD 9 num_delete 1.66418790817
+erynnis SNARC_only CD 8 lctrl 0.504231929779
+erynnis SNARC_only CD 6 lctrl 0.649756908417
+erynnis SNARC_only CD 2 lctrl 1.22872495651
+erynnis SNARC_only CD 6 lctrl 0.567492961884
+erynnis SNARC_only CD 7 num_delete 0.573539018631
+erynnis SNARC_only CD 7 num_delete 0.451976060867
+erynnis SNARC_only CD 1 num_delete 0.687289953232
+erynnis SNARC_only CD 1 num_delete 0.481080055237
+erynnis SNARC_only CD 2 lctrl 0.651391029358
+erynnis SNARC_only CD 4 lctrl 0.798315048218
+erynnis SNARC_only CD 5 num_delete 4.23429298401
+erynnis SNARC_only CD 7 num_delete 0.523358106613
+erynnis SNARC_only CD 5 num_delete 0.564111948013
+erynnis SNARC_only CD 3 num_delete 0.635271072388
+erynnis SNARC_only CD 6 lctrl 0.630934000015
+erynnis SNARC_only CD 4 lctrl 0.538360834122
+erynnis SNARC_only CD 3 num_delete 0.474306821823
+erynnis SNARC_only CD 4 lctrl 0.557209968567
+erynnis SNARC_only CD 4 lctrl 0.420369148254
+erynnis SNARC_only CD 6 lctrl 0.457294225693
+erynnis SNARC_only CD 6 lctrl 0.460864067078
+erynnis SNARC_only CD 7 num_delete 0.480200052261
+erynnis SNARC_only CD 2 lctrl 0.555479049683
+erynnis SNARC_only CD 9 num_delete 0.490165948868
+erynnis SNARC_only CD 9 num_delete 0.484425067902
+erynnis SNARC_only CD 8 lctrl 0.639456987381
+erynnis SNARC_only CD 1 num_delete 0.626000165939
+erynnis SNARC_only CD 3 num_delete 0.806385993958
+erynnis SNARC_only CD 1 num_delete 0.466860055923
+erynnis SNARC_only CD 3 num_delete 1.14158511162
+erynnis SNARC_only CD 5 num_delete 0.563755989075
+erynnis SNARC_only CD 7 num_delete 0.443017959595
+erynnis SNARC_only CD 5 num_delete 0.447144985199
+erynnis SNARC_only CD 8 lctrl 0.59524512291
+erynnis SNARC_only CD 6 lctrl 0.505069971085
+erynnis SNARC_only CD 5 num_delete 0.450046062469
+erynnis SNARC_only CD 5 num_delete 0.48597407341
+erynnis SNARC_only CD 6 lctrl 0.535997867584
+erynnis SNARC_only CD 7 num_delete 0.527976989746
+erynnis SNARC_only CD 5 num_delete 1.24847912788
+erynnis SNARC_only CD 6 lctrl 0.626426935196
+erynnis SNARC_only CD 6 lctrl 1.24769616127
+erynnis SNARC_only CD 3 num_delete 0.520268917084
+erynnis SNARC_only CD 6 lctrl 0.65761089325
+erynnis SNARC_only CD 6 lctrl 0.476330041885
+erynnis SNARC_only CD 2 lctrl 0.575136899948
+erynnis SNARC_only CD 8 lctrl 0.557956933975
+erynnis SNARC_only CD 2 lctrl 0.836548089981
+erynnis SNARC_only CD 4 lctrl 5.6398100853
+erynnis SNARC_only CD 1 num_delete 0.579983949661
+erynnis SNARC_only CD 7 num_delete 0.682899951935
+erynnis SNARC_only CD 8 lctrl 0.516736984253
+erynnis SNARC_only CD 5 num_delete 0.605036020279
+erynnis SNARC_only CD 7 num_delete 0.546044826508
+erynnis SNARC_only CD 5 num_delete 0.37819314003
+erynnis SNARC_only CD 8 lctrl 0.521735906601
+erynnis SNARC_only CD 9 num_delete 0.457846164703
+erynnis SNARC_only CD 5 num_delete 0.821513175964
+erynnis SNARC_only CD 2 lctrl 0.593683004379
+erynnis SNARC_only CD 8 lctrl 0.48753786087
+erynnis SNARC_only CD 5 num_delete 0.577667951584
+erynnis SNARC_only CD 1 num_delete 0.511718034744
+erynnis SNARC_only CD 8 lctrl 0.665097951889
+erynnis SNARC_only CD 4 lctrl 0.659708023071
+erynnis SNARC_only CD 5 num_delete 0.750090837479
+erynnis SNARC_only CD 6 num_delete 0.749326944351
+erynnis SNARC_only CD 8 lctrl 0.92356801033
+erynnis SNARC_only CD 8 lctrl 0.355319976807
+erynnis SNARC_only CD 6 lctrl 0.515376091003
+erynnis SNARC_only CD 8 lctrl 0.371832132339
+erynnis SNARC_only CD 2 lctrl 0.442972898483
+erynnis SNARC_only CD 5 num_delete 0.566751003265
+erynnis SNARC_only CD 9 num_delete 0.765213012695
+erynnis SNARC_only CD 5 num_delete 1.02715301514
+erynnis SNARC_only CD 6 lctrl 0.710732221603
+erynnis SNARC_only CD 2 lctrl 0.975661993027
+erynnis SNARC_only CD 2 lctrl 0.452900886536
+erynnis SNARC_only CD 2 lctrl 0.408406019211
+erynnis SNARC_only CD 8 lctrl 0.733953952789
+erynnis SNARC_only CD 1 num_delete 0.525192975998
+erynnis SNARC_only CD 7 num_delete 0.605623006821
+erynnis SNARC_only CD 9 num_delete 0.642871141434
+erynnis SNARC_only CD 1 num_delete 0.566932916641
+erynnis SNARC_only CD 3 num_delete 0.669053077698
+erynnis SNARC_only CD 8 lctrl 1.00747489929
+erynnis SNARC_only CD 3 num_delete 2.57903695107
+erynnis SNARC_only CD 9 num_delete 0.555396795273
+erynnis SNARC_only CD 3 num_delete 0.506623983383
+erynnis SNARC_only CD 5 num_delete 0.547805070877
+erynnis SNARC_only CD 5 num_delete 0.651119947433
+erynnis SNARC_only CD 1 num_delete 0.598124027252
+erynnis SNARC_only CD 1 num_delete 1.00315213203
+erynnis SNARC_only CD 8 lctrl 0.671344995499
+erynnis SNARC_only CD 9 num_delete 0.64151096344
+erynnis SNARC_only CD 1 num_delete 0.772924900055
+erynnis SNARC_only CD 2 lctrl 1.34718108177
+erynnis SNARC_only CD 6 lctrl 1.24070477486
+erynnis SNARC_only CD 7 num_delete 0.698539972305
+erynnis SNARC_only CD 5 num_delete 6.03463482857
+erynnis SNARC_only CD 6 lctrl 2.00664901733
+erynnis SNARC_only CD 3 num_delete 0.526999950409
+erynnis SNARC_only CD 4 lctrl 0.696302890778
+erynnis SNARC_only CD 2 lctrl 0.513389110565
+erynnis SNARC_only CD 8 lctrl 0.539616107941
+erynnis SNARC_only CD 4 lctrl 0.451243877411
+erynnis SNARC_only CD 8 lctrl 0.398957967758
+erynnis SNARC_only CD 3 num_delete 0.491826057434
+erynnis SNARC_only CD 3 num_delete 0.406023025513
+erynnis SNARC_only CD 4 lctrl 0.588190078735
+erynnis SNARC_only CD 2 lctrl 0.594000816345
+erynnis SNARC_only CD 5 num_delete 0.535187005997
+erynnis SNARC_only CD 7 num_delete 1.03120398521
+erynnis SNARC_only CD 9 num_delete 0.738702058792
+erynnis SNARC_only CD 6 lctrl 0.890089988708
+erynnis SNARC_only CD 3 num_delete 0.618571043015
+erynnis SNARC_only CD 3 num_delete 0.66307091713
+erynnis SNARC_only CD 1 num_delete 0.617784976959
+erynnis SNARC_only CD 6 lctrl 0.550604104996
+erynnis SNARC_only CD 3 num_delete 0.725528001785
+erynnis SNARC_only CD 9 num_delete 1.24562907219
+erynnis SNARC_only CD 6 lctrl 0.511869192123
+erynnis SNARC_only CD 3 num_delete 0.601044178009
+erynnis SNARC_only CD 9 num_delete 0.525680065155
+erynnis SNARC_only CD 7 num_delete 0.870384216309
+erynnis SNARC_only CD 3 num_delete 0.480047941208
+erynnis SNARC_only CD 2 lctrl 0.539721012115
+erynnis SNARC_only CD 9 num_delete 0.674636125565
+erynnis SNARC_only CD 2 lctrl 1.26161289215
+erynnis SNARC_only CD 5 num_delete 0.814472913742
+erynnis SNARC_only CD 2 lctrl 0.634809017181
+erynnis SNARC_only CD 8 lctrl 0.462594985962
+erynnis SNARC_only CD 3 num_delete 0.490164041519
+erynnis SNARC_only CD 8 lctrl 0.596268177032
+erynnis SNARC_only CD 1 num_delete 1.0176680088
+erynnis SNARC_only CD 3 num_delete 0.716825008392
+erynnis SNARC_only CD 2 lctrl 0.597402095795
+erynnis SNARC_only CD 1 num_delete 1.26604509354
+erynnis SNARC_only CD 4 lctrl 0.587382078171
+erynnis SNARC_only CD 1 num_delete 0.617316007614
+erynnis SNARC_only CD 1 num_delete 0.365388870239
+erynnis SNARC_only CD 1 num_delete 0.332253932953
+erynnis SNARC_only CD 4 lctrl 0.453349113464
+erynnis SNARC_only CD 3 num_delete 0.696349859238
+erynnis SNARC_only CD 8 lctrl 0.810393095016
+erynnis SNARC_only CD 7 num_delete 1.03038287163
+erynnis SNARC_only CD 3 num_delete 1.00949001312
+erynnis SNARC_only CD 1 num_delete 0.581427097321
+erynnis SNARC_only CD 4 lctrl 0.539636135101
+erynnis SNARC_only CD 2 lctrl 0.484097957611
+erynnis SNARC_only CD 3 num_delete 0.461344003677
+erynnis SNARC_only CD 5 num_delete 0.552839994431
+erynnis SNARC_only CD 2 lctrl 0.520545959473
+erynnis SNARC_only CD 8 lctrl 0.473465919495
+erynnis SNARC_only CD 5 num_delete 0.531401872635
+erynnis SNARC_only CD 1 lctrl 0.476009845734
+erynnis SNARC_only CD 9 num_delete 1.598747015
+erynnis SNARC_only CD 6 lctrl 0.681540966034
+erynnis SNARC_only CD 9 num_delete 0.626646995544
+erynnis SNARC_only CD 5 num_delete 0.991353988647
+erynnis SNARC_only CD 8 lctrl 1.34802699089
+erynnis SNARC_only CD 7 num_delete 0.53724694252
+erynnis SNARC_only CD 3 num_delete 1.24889492989
+erynnis SNARC_only CD 2 lctrl 0.627161979675
+erynnis SNARC_only CD 6 lctrl 0.639237880707
+erynnis SNARC_only CD 3 num_delete 0.538499832153
+erynnis SNARC_only CD 3 num_delete 0.474804162979
+erynnis SNARC_only CD 7 num_delete 0.549410820007
+erynnis SNARC_only CD 2 lctrl 0.661399126053
+erynnis SNARC_only CD 6 lctrl 0.720618009567
+erynnis SNARC_only CD 5 num_delete 0.663743972778
+erynnis SNARC_only CD 7 num_delete 0.51473402977
+erynnis SNARC_only CD 8 lctrl 0.627722024918
+erynnis SNARC_only CD 7 num_delete 0.471672058105
+erynnis SNARC_only CD 4 lctrl 0.554931163788
+erynnis SNARC_only CD 2 lctrl 0.426185846329
+erynnis SNARC_only CD 3 num_delete 0.49494600296
+erynnis SNARC_only CD 8 lctrl 0.449227809906
+erynnis SNARC_only CD 8 lctrl 0.396688938141
+erynnis SNARC_only CD 5 num_delete 0.458065032959
+erynnis SNARC_only CD 7 num_delete 0.557560920715
+erynnis SNARC_only CD 4 num_delete 0.428911209106
+erynnis SNARC_only CD 1 num_delete 2.41779184341
+erynnis SNARC_only CD 7 num_delete 0.368757963181
+erynnis SNARC_only CD 6 lctrl 0.528970003128
+erynnis SNARC_only CD 6 lctrl 0.441790103912
+erynnis SNARC_only CD 3 num_delete 0.797596931458
+erynnis SNARC_only CD 9 num_delete 4.51453113556
+erynnis SNARC_only CD 4 lctrl 0.448087930679
+erynnis SNARC_only CD 9 num_delete 0.563112020493
+erynnis SNARC_only CD 9 num_delete 0.499022006989
+erynnis SNARC_only CD 2 lctrl 3.34827113152
+erynnis SNARC_only CD 9 num_delete 0.555081129074
+erynnis SNARC_only CD 8 lctrl 0.618761062622
+erynnis SNARC_only CD 3 num_delete 0.710666894913
+erynnis SNARC_only CD 1 num_delete 1.50303792953
+erynnis SNARC_only CD 7 num_delete 0.565687179565
+erynnis SNARC_only CD 2 lctrl 0.772701025009
+erynnis SNARC_only CD 7 num_delete 0.954246997833
+erynnis SNARC_only CD 8 lctrl 0.712504863739
+erynnis SNARC_only CD 6 lctrl 0.761348009109
+erynnis SNARC_only CD 9 num_delete 0.479829072952
+erynnis SNARC_only CD 4 lctrl 0.570786952972
+erynnis SNARC_only CD 8 lctrl 0.577538967133
+erynnis SNARC_only CD 2 lctrl 0.543606996536
+erynnis SNARC_only CD 2 lctrl 0.367676019669
+erynnis SNARC_only CD 6 lctrl 0.423070192337
+erynnis SNARC_only CD 6 lctrl 0.356015205383
+erynnis SNARC_only CD 6 lctrl 0.811726093292
+erynnis SNARC_only CD 4 lctrl 0.384218931198
+erynnis SNARC_only CD 1 num_delete 0.558250904083
+erynnis SNARC_only CD 6 lctrl 0.65389919281
+erynnis SNARC_only CD 3 num_delete 0.528627872467
+erynnis SNARC_only CD 1 num_delete 0.481148004532
+erynnis SNARC_only CD 5 lctrl 0.771361112595
+erynnis SNARC_only CD 9 num_delete 0.80908203125
+erynnis SNARC_only CD 9 num_delete 0.381533145905
+erynnis SNARC_only CD 4 lctrl 0.524371147156
+erynnis SNARC_only CD 3 num_delete 0.804901838303
+erynnis SNARC_only CD 1 num_delete 0.529366970062
+erynnis SNARC_only CD 9 num_delete 2.26584100723
+erynnis SNARC_only CD 9 num_delete 0.479856967926
+erynnis SNARC_only CD 7 num_delete 0.490513086319
+erynnis SNARC_only CD 9 num_delete 0.380634784698
+erynnis SNARC_only CD 2 lctrl 0.611593008041
+erynnis SNARC_only CD 8 lctrl 0.528961896896
+erynnis SNARC_only CD 6 lctrl 0.553248167038
+erynnis SNARC_only CD 4 lctrl 0.464560985565
+erynnis SNARC_only CD 9 num_delete 2.9711420536
+erynnis SNARC_only CD 1 num_delete 0.530841112137
+erynnis SNARC_only CD 3 num_delete 0.418787002563
+erynnis SNARC_only CD 4 num_delete 0.423746824265
+erynnis SNARC_only CD 8 lctrl 0.709022045135
+erynnis SNARC_only CD 8 lctrl 0.59814786911
+erynnis SNARC_only CD 6 lctrl 0.546955108643
+erynnis SNARC_only CD 5 num_delete 0.594502210617
+erynnis SNARC_only CD 4 lctrl 0.585018873215
+erynnis SNARC_only CD 1 num_delete 0.646161079407
+erynnis SNARC_only CD 5 num_delete 3.56991410255
+erynnis SNARC_only CD 6 lctrl 0.568146944046
+erynnis SNARC_only CD 5 num_delete 0.766270160675
+erynnis SNARC_only CD 8 lctrl 0.628883123398
+erynnis SNARC_only CD 2 lctrl 0.632989883423
+erynnis SNARC_only CD 4 lctrl 0.532452821732
+erynnis SNARC_only CD 4 lctrl 0.420464038849
+erynnis SNARC_only CD 4 lctrl 0.393594026566
+erynnis SNARC_only CD 4 lctrl 0.544243097305
+erynnis SNARC_only CD 5 num_delete 0.471497058868
+erynnis SNARC_only CD 5 num_delete 0.642334938049
+erynnis SNARC_only CD 2 lctrl 0.662453889847
+erynnis SNARC_only CD 4 lctrl 0.609574079514
+erynnis SNARC_only CD 8 lctrl 0.66232919693
+erynnis SNARC_only CD 6 lctrl 0.521264076233
+erynnis SNARC_only CD 9 num_delete 0.625606060028
+erynnis SNARC_only CD 5 num_delete 0.797961950302
+erynnis SNARC_only CD 7 num_delete 0.547183036804
+erynnis SNARC_only CD 9 num_delete 0.683114051819
+erynnis SNARC_only CD 6 lctrl 0.597048997879
+erynnis SNARC_only CD 3 num_delete 0.618637084961
+erynnis SNARC_only CD 3 num_delete 0.56680393219
+erynnis SNARC_only CD 5 num_delete 1.02185511589
+erynnis SNARC_only CD 9 num_delete 0.664313077927
+erynnis SNARC_only CD 6 lctrl 0.682996034622
+erynnis SNARC_only CD 9 num_delete 0.859987974167
+erynnis SNARC_only CD 3 num_delete 0.870498895645
+erynnis SNARC_only CD 7 num_delete 0.551982164383
+erynnis SNARC_only CD 2 lctrl 0.687548160553
+erynnis SNARC_only CD 1 num_delete 0.649098157883
+erynnis SNARC_only CD 6 lctrl 0.572129011154
+erynnis SNARC_only CD 7 num_delete 0.650224208832
+erynnis SNARC_only CD 8 lctrl 0.637498140335
+erynnis SNARC_only CD 2 lctrl 0.633098840714
+erynnis SNARC_only CD 6 lctrl 0.61279296875
+erynnis SNARC_only CD 1 num_delete 0.489353895187
+erynnis SNARC_only CD 2 lctrl 0.491864204407
+erynnis SNARC_only CD 7 num_delete 0.781904935837
+erynnis SNARC_only CD 1 num_delete 0.546747207642
+erynnis SNARC_only CD 7 num_delete 0.554661035538
+erynnis SNARC_only CD 7 num_delete 0.361968994141
+erynnis SNARC_only CD 5 num_delete 0.481828927994
+erynnis SNARC_only CD 4 lctrl 0.532289028168
+erynnis SNARC_only CD 5 num_delete 0.628010034561
+erynnis SNARC_only CD 4 lctrl 0.552714109421
+erynnis SNARC_only CD 7 num_delete 0.607766151428
+erynnis SNARC_only CD 8 lctrl 0.629107952118
+erynnis SNARC_only CD 9 num_delete 0.881556987762
+erynnis SNARC_only CD 7 num_delete 0.514039039612
+erynnis SNARC_only CD 9 num_delete 0.514621973038
+erynnis SNARC_only CD 9 num_delete 0.387239217758
+erynnis SNARC_only CD 5 num_delete 0.489959001541
+erynnis SNARC_only CD 1 num_delete 0.523759126663
+erynnis SNARC_only CD 3 num_delete 0.500478982925
+erynnis SNARC_only CD 4 lctrl 0.654228925705
+erynnis SNARC_only CD 9 num_delete 0.552860975266
+erynnis SNARC_only CD 2 lctrl 0.752539157867
+erynnis SNARC_only CD 5 num_delete 0.742570877075

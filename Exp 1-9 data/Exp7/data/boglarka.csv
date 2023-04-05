@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1218', 'task': u'line', 'participant': u'boglarka', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+boglarka SNARC line dot DC 0 down 20 lctrl 2.09275152138
+boglarka SNARC line dot DC 0 down 25 lctrl 0.482302871696
+boglarka SNARC line dot DC 0 down 5 lctrl 0.445689342316
+boglarka SNARC line dot DC 0 down 15 lctrl 0.518288216625
+boglarka SNARC line dot DC 0 down 5 lctrl 1.13067426414
+boglarka SNARC line dot DC 0 up 15 delete 0.487520477238
+boglarka SNARC line dot DC 0 down 35 lctrl 0.433847278036
+boglarka SNARC line dot DC 0 down 45 lctrl 0.776128710968
+boglarka SNARC line dot DC 0 up 15 delete 0.535674752338
+boglarka SNARC line dot DC 0 down 45 lctrl 0.635745060003
+boglarka SNARC line dot DC 0 up 15 delete 0.556628115857
+boglarka SNARC line dot DC 0 up 35 delete 0.494527446061
+boglarka SNARC line dot DC 0 down 35 lctrl 0.479066059457
+boglarka SNARC line dot DC 0 up 35 delete 0.629525858976
+boglarka SNARC line dot DC 0 down 10 lctrl 0.462049085178
+boglarka SNARC line dot DC 0 down 25 lctrl 0.472649828989
+boglarka SNARC line dot DC 0 up 5 delete 0.548661197205
+boglarka SNARC line dot DC 0 down 30 lctrl 0.44337153418
+boglarka SNARC line dot DC 0 down 10 lctrl 0.520157021614
+boglarka SNARC line dot DC 0 down 40 lctrl 0.454879733301
+boglarka SNARC line dot DC 0 up 45 delete 0.695751548326
+boglarka SNARC line dot DC 0 down 10 lctrl 0.901964380017
+boglarka SNARC line dot DC 0 down 40 lctrl 0.727900593574
+boglarka SNARC line dot DC 0 up 20 delete 0.417294355335
+boglarka SNARC line dot DC 0 down 15 lctrl 1.0644331764
+boglarka SNARC line dot DC 0 down 35 lctrl 0.465792644538
+boglarka SNARC line dot DC 0 down 20 lctrl 0.414627983571
+boglarka SNARC line dot DC 0 up 35 delete 0.591170561353
+boglarka SNARC line dot DC 0 down 30 lctrl 0.469715735164
+boglarka SNARC line dot DC 0 down 5 lctrl 0.436881461421
+boglarka SNARC line dot DC 0 up 10 delete 0.499117567082
+boglarka SNARC line dot DC 0 up 45 delete 0.564254170078
+boglarka SNARC line dot DC 0 up 30 delete 0.417479136053
+boglarka SNARC line dot DC 0 down 25 lctrl 0.417120073522
+boglarka SNARC line dot DC 0 down 40 lctrl 0.408862335215
+boglarka SNARC line dot DC 0 up 30 delete 0.387094956641
+boglarka SNARC line dot DC 0 down 20 lctrl 0.398542612078
+boglarka SNARC line dot DC 0 down 40 lctrl 0.413248427527
+boglarka SNARC line dot DC 0 up 25 delete 0.868019322183
+boglarka SNARC line dot DC 0 down 45 lctrl 0.404546585565
+boglarka SNARC line dot DC 0 up 40 delete 0.488671157165
+boglarka SNARC line dot DC 0 up 25 delete 0.361814644642
+boglarka SNARC line dot DC 0 up 40 delete 0.370176672064
+boglarka SNARC line dot DC 0 down 5 lctrl 0.402190981371
+boglarka SNARC line dot DC 0 up 30 delete 0.372823795837
+boglarka SNARC line dot DC 0 up 15 delete 0.358662523566
+boglarka SNARC line dot DC 0 down 45 lctrl 0.399527409316
+boglarka SNARC line dot DC 0 up 25 delete 0.347923544177
+boglarka SNARC line dot DC 0 down 25 lctrl 0.406686262288
+boglarka SNARC line dot DC 0 down 20 lctrl 0.373698354577
+boglarka SNARC line dot DC 0 up 25 delete 0.464068024501
+boglarka SNARC line dot DC 0 up 20 delete 0.48250340077
+boglarka SNARC line dot DC 0 down 35 lctrl 0.708508767111
+boglarka SNARC line dot DC 0 up 20 delete 0.435939009765
+boglarka SNARC line dot DC 0 up 25 delete 0.359663069159
+boglarka SNARC line dot DC 0 up 30 delete 0.335290562431
+boglarka SNARC line dot DC 0 down 5 lctrl 0.350462529235
+boglarka SNARC line dot DC 0 up 25 delete 0.342612498385
+boglarka SNARC line dot DC 0 up 35 delete 0.317235246503
+boglarka SNARC line dot DC 0 down 45 lctrl 0.387430221657
+boglarka SNARC line dot DC 0 up 15 delete 0.328983870533
+boglarka SNARC line dot DC 0 down 45 lctrl 0.417624720862
+boglarka SNARC line dot DC 0 down 20 lctrl 0.40344945005
+boglarka SNARC line dot DC 0 down 15 lctrl 0.362417281756
+boglarka SNARC line dot DC 0 down 40 lctrl 0.398296937714
+boglarka SNARC line dot DC 0 down 5 lctrl 0.369067987756
+boglarka SNARC line dot DC 0 up 5 delete 0.385723099795
+boglarka SNARC line dot DC 0 up 30 delete 0.362407132816
+boglarka SNARC line dot DC 0 down 5 lctrl 0.384149314019
+boglarka SNARC line dot DC 0 up 10 delete 0.394395894788
+boglarka SNARC line dot DC 0 down 40 lctrl 0.4045059898
+boglarka SNARC line dot DC 0 down 45 lctrl 0.444024216073
+boglarka SNARC line dot DC 0 up 15 delete 0.373306395479
+boglarka SNARC line dot DC 0 up 35 delete 0.34237872278
+boglarka SNARC line dot DC 0 down 35 lctrl 0.371190866232
+boglarka SNARC line dot DC 0 up 10 delete 0.329368830364
+boglarka SNARC line dot DC 0 down 10 lctrl 0.371041781789
+boglarka SNARC line dot DC 0 up 40 delete 0.39458697485
+boglarka SNARC line dot DC 0 down 10 lctrl 0.348123373326
+boglarka SNARC line dot DC 0 up 15 delete 0.397475223461
+boglarka SNARC line dot DC 0 down 35 lctrl 0.376966313564
+boglarka SNARC line dot DC 0 down 10 lctrl 0.45149313669
+boglarka SNARC line dot DC 0 up 10 delete 0.39056099496
+boglarka SNARC line dot DC 0 down 30 lctrl 0.338072772107
+boglarka SNARC line dot DC 0 down 5 lctrl 0.352920322764
+boglarka SNARC line dot DC 0 down 5 lctrl 0.339065618504
+boglarka SNARC line dot DC 0 up 25 delete 0.463502133553
+boglarka SNARC line dot DC 0 down 20 lctrl 0.373900983432
+boglarka SNARC line dot DC 0 up 5 delete 0.367755974665
+boglarka SNARC line dot DC 0 up 15 lctrl 0.380239871969
+boglarka SNARC line dot DC 0 down 40 lctrl 0.718343790826
+boglarka SNARC line dot DC 0 up 30 delete 0.395088472518
+boglarka SNARC line dot DC 0 down 35 lctrl 0.426911001836
+boglarka SNARC line dot DC 0 up 10 delete 0.327159510905
+boglarka SNARC line dot DC 0 down 35 lctrl 0.356588639976
+boglarka SNARC line dot DC 0 up 40 delete 0.370196619982
+boglarka SNARC line dot DC 0 down 15 lctrl 0.426068639737
+boglarka SNARC line dot DC 0 up 20 delete 0.670148220033
+boglarka SNARC line dot DC 0 up 20 delete 0.536181149497
+boglarka SNARC line dot DC 0 up 25 delete 0.551090993655
+boglarka SNARC line dot DC 0 up 20 delete 0.367459905558
+boglarka SNARC line dot DC 0 down 30 lctrl 0.431033571647
+boglarka SNARC line dot DC 0 down 15 lctrl 0.440358348607
+boglarka SNARC line dot DC 0 down 35 lctrl 0.383129520435
+boglarka SNARC line dot DC 0 up 20 delete 0.403560388473
+boglarka SNARC line dot DC 0 down 5 lctrl 0.353654546148
+boglarka SNARC line dot DC 0 up 15 delete 0.512598160381
+boglarka SNARC line dot DC 0 up 40 delete 0.359391497499
+boglarka SNARC line dot DC 0 down 10 lctrl 0.401617741189
+boglarka SNARC line dot DC 0 down 30 lctrl 0.306922872598
+boglarka SNARC line dot DC 0 down 20 lctrl 0.343309275677
+boglarka SNARC line dot DC 0 up 45 delete 0.418961581359
+boglarka SNARC line dot DC 0 up 35 delete 0.366268629869
+boglarka SNARC line dot DC 0 down 15 lctrl 0.374490321936
+boglarka SNARC line dot DC 0 down 20 lctrl 0.376963163893
+boglarka SNARC line dot DC 0 down 35 lctrl 0.376717489531
+boglarka SNARC line dot DC 0 up 30 delete 0.406824847827
+boglarka SNARC line dot DC 0 up 25 delete 0.388429017432
+boglarka SNARC line dot DC 0 down 15 lctrl 0.475219610833
+boglarka SNARC line dot DC 0 up 15 delete 0.552741421432
+boglarka SNARC line dot DC 0 down 45 lctrl 0.390051798095
+boglarka SNARC line dot DC 0 down 15 lctrl 0.500504822321
+boglarka SNARC line dot DC 0 down 40 lctrl 0.695984973967
+boglarka SNARC line dot DC 0 down 35 lctrl 0.454502122704
+boglarka SNARC line dot DC 0 up 35 delete 0.992643767624
+boglarka SNARC line dot DC 0 up 15 delete 0.501960670405
+boglarka SNARC line dot DC 0 up 30 delete 0.4536895075
+boglarka SNARC line dot DC 0 down 10 lctrl 0.611344206232
+boglarka SNARC line dot DC 0 down 45 lctrl 0.398726692869
+boglarka SNARC line dot DC 0 up 10 delete 0.429114371917
+boglarka SNARC line dot DC 0 up 10 delete 0.369200973879
+boglarka SNARC line dot DC 0 up 45 delete 0.364942618238
+boglarka SNARC line dot DC 0 up 5 delete 0.367718178608
+boglarka SNARC line dot DC 0 down 40 lctrl 0.415538238585
+boglarka SNARC line dot DC 0 down 15 lctrl 0.364968865499
+boglarka SNARC line dot DC 0 up 35 delete 0.471111389526
+boglarka SNARC line dot DC 0 up 25 delete 0.350052372036
+boglarka SNARC line dot DC 0 down 40 lctrl 0.401730779393
+boglarka SNARC line dot DC 0 down 35 lctrl 0.392913099518
+boglarka SNARC line dot DC 0 up 30 lctrl 0.377338674709
+boglarka SNARC line dot DC 0 down 30 lctrl 0.687362223753
+boglarka SNARC line dot DC 0 up 5 delete 0.391614385038
+boglarka SNARC line dot DC 0 down 30 lctrl 0.451457790379
+boglarka SNARC line dot DC 0 down 45 lctrl 0.362213952974
+boglarka SNARC line dot DC 0 up 30 delete 0.474380748368
+boglarka SNARC line dot DC 0 up 30 delete 0.383691561787
+boglarka SNARC line dot DC 0 down 45 lctrl 0.450145777289
+boglarka SNARC line dot DC 0 down 25 lctrl 0.427035238872
+boglarka SNARC line dot DC 0 up 25 delete 0.372597019501
+boglarka SNARC line dot DC 0 down 20 lctrl 0.461290014387
+boglarka SNARC line dot DC 0 up 15 delete 0.407219256671
+boglarka SNARC line dot DC 0 down 10 lctrl 0.612246062123
+boglarka SNARC line dot DC 0 down 40 lctrl 0.496979640175
+boglarka SNARC line dot DC 0 up 30 delete 0.512690550742
+boglarka SNARC line dot DC 0 up 20 delete 0.485442044122
+boglarka SNARC line dot DC 0 up 30 delete 0.353744136799
+boglarka SNARC line dot DC 0 up 40 delete 0.394916290485
+boglarka SNARC line dot DC 0 down 40 lctrl 0.505683231955
+boglarka SNARC line dot DC 0 up 35 delete 0.395622166827
+boglarka SNARC line dot DC 0 up 10 delete 0.493011754223
+boglarka SNARC line dot DC 0 up 45 delete 0.475143318794
+boglarka SNARC line dot DC 0 up 40 delete 0.325248360334
+boglarka SNARC line dot DC 0 down 10 lctrl 0.453551971852
+boglarka SNARC line dot DC 0 down 15 lctrl 0.417003185717
+boglarka SNARC line dot DC 0 up 35 delete 0.413195933004
+boglarka SNARC line dot DC 0 up 15 delete 0.374592511271
+boglarka SNARC line dot DC 0 down 20 lctrl 0.38675199243
+boglarka SNARC line dot DC 0 up 35 delete 0.403378057499
+boglarka SNARC line dot DC 0 up 10 delete 0.732316432781
+boglarka SNARC line dot DC 0 up 30 delete 0.638426130234
+boglarka SNARC line dot DC 0 up 20 delete 0.413708279541
+boglarka SNARC line dot DC 0 down 30 lctrl 0.513242443152
+boglarka SNARC line dot DC 0 up 20 delete 0.440479435971
+boglarka SNARC line dot DC 0 up 10 delete 0.350364889424
+boglarka SNARC line dot DC 0 up 40 delete 0.383742306491
+boglarka SNARC line dot DC 0 down 25 delete 0.339932828008
+boglarka SNARC line dot DC 0 up 10 delete 0.591225155655
+boglarka SNARC line dot DC 0 down 10 lctrl 0.427863952396
+boglarka SNARC line dot DC 0 down 35 lctrl 0.426994293146
+boglarka SNARC line dot DC 0 up 25 delete 0.540906006459
+boglarka SNARC line dot DC 0 down 20 lctrl 0.43919646985
+boglarka SNARC line dot DC 0 up 30 delete 0.43625817646
+boglarka SNARC line dot DC 0 down 20 lctrl 0.485936192557
+boglarka SNARC line dot DC 0 down 40 lctrl 0.50661553467
+boglarka SNARC line dot DC 0 down 10 lctrl 0.358141777906
+boglarka SNARC line dot DC 0 down 25 lctrl 0.40731164703
+boglarka SNARC line dot DC 0 up 45 delete 0.439149224778
+boglarka SNARC line dot DC 0 down 35 lctrl 0.46668575134
+boglarka SNARC line dot DC 0 down 30 lctrl 0.422305132459
+boglarka SNARC line dot DC 0 down 15 lctrl 0.439011339167
+boglarka SNARC line dot DC 0 up 35 delete 0.443040118764
+boglarka SNARC line dot DC 0 down 40 lctrl 0.473573032654
+boglarka SNARC line dot DC 0 down 30 lctrl 0.531611326358
+boglarka SNARC line dot DC 0 up 30 delete 0.5804973751
+boglarka SNARC line dot DC 0 up 15 delete 1.03849633291
+boglarka SNARC line dot DC 0 down 5 lctrl 0.399616650002
+boglarka SNARC line dot DC 0 down 5 lctrl 0.35813827827
+boglarka SNARC line dot DC 0 down 15 lctrl 0.423018707997
+boglarka SNARC line dot DC 0 up 15 delete 0.490832531625
+boglarka SNARC line dot DC 0 up 45 delete 0.416301858902
+boglarka SNARC line dot DC 0 up 30 delete 0.359881796334
+boglarka SNARC line dot DC 0 down 25 lctrl 0.630715384848
+boglarka SNARC line dot DC 0 up 20 delete 0.472174578583
+boglarka SNARC line dot DC 0 down 15 lctrl 0.422343278478
+boglarka SNARC line dot DC 0 down 45 lctrl 0.386070613531
+boglarka SNARC line dot DC 0 up 45 delete 0.433408773793
+boglarka SNARC line dot DC 0 up 20 delete 0.363391230127
+boglarka SNARC line dot DC 0 down 40 lctrl 0.670405793155
+boglarka SNARC line dot DC 0 up 45 lctrl 0.410011265325
+boglarka SNARC line dot DC 0 down 45 lctrl 0.451172570143
+boglarka SNARC line dot DC 0 down 40 lctrl 0.586481050703
+boglarka SNARC line dot DC 0 up 20 delete 0.462875348958
+boglarka SNARC line dot DC 0 down 10 lctrl 0.387015164968
+boglarka SNARC line dot DC 0 down 5 lctrl 0.385057469253
+boglarka SNARC line dot DC 0 up 30 delete 0.354574250176
+boglarka SNARC line dot DC 0 up 30 delete 0.376052908878
+boglarka SNARC line dot DC 0 down 25 lctrl 0.454477975223
+boglarka SNARC line dot DC 0 up 5 delete 0.423697287188
+boglarka SNARC line dot DC 0 down 15 lctrl 0.406171815972
+boglarka SNARC line dot DC 0 up 40 delete 0.316735498651
+boglarka SNARC line dot DC 0 up 45 delete 0.46861160038
+boglarka SNARC line dot DC 0 down 5 lctrl 0.446694437436
+boglarka SNARC line dot DC 0 up 35 delete 0.35929420765
+boglarka SNARC line dot DC 0 up 20 delete 0.417551228529
+boglarka SNARC line dot DC 0 up 25 delete 0.389650389981
+boglarka SNARC line dot DC 0 up 30 delete 0.348875794811
+boglarka SNARC line dot DC 0 up 10 delete 0.318709292686
+boglarka SNARC line dot DC 0 up 20 delete 0.374783241368
+boglarka SNARC line dot DC 0 up 35 delete 0.388065055411
+boglarka SNARC line dot DC 0 down 45 lctrl 0.532686414173
+boglarka SNARC line dot DC 0 down 25 lctrl 0.403399405273
+boglarka SNARC line dot DC 0 down 15 lctrl 0.429756554902
+boglarka SNARC line dot DC 0 up 5 delete 0.394893892822
+boglarka SNARC line dot DC 0 down 20 lctrl 0.487574371615
+boglarka SNARC line dot DC 0 down 25 lctrl 0.586739323751
+boglarka SNARC line dot DC 0 up 25 delete 0.371206614591
+boglarka SNARC line dot DC 0 up 30 delete 0.393537434369
+boglarka SNARC line dot DC 0 down 35 lctrl 0.479093006645
+boglarka SNARC line dot DC 0 up 45 delete 0.395375442571
+boglarka SNARC line dot DC 0 up 20 delete 0.401501203349
+boglarka SNARC line dot DC 0 up 5 delete 0.387682545326
+boglarka SNARC line dot DC 0 up 15 delete 0.359947239505
+boglarka SNARC line dot DC 0 up 45 delete 0.418448884859
+boglarka SNARC line dot DC 0 up 5 delete 0.307836627248
+boglarka SNARC line dot DC 0 down 35 lctrl 0.666807118678
+boglarka SNARC line dot DC 0 up 40 delete 0.424438859805
+boglarka SNARC line dot DC 0 down 40 lctrl 0.501660401738
+boglarka SNARC line dot DC 0 up 10 delete 0.41202740494
+boglarka SNARC line dot DC 0 up 35 delete 0.448756422267
+boglarka SNARC line dot DC 0 down 10 lctrl 0.564984543862
+boglarka SNARC line dot DC 0 down 40 lctrl 0.388713887705
+boglarka SNARC line dot DC 0 down 10 lctrl 0.399587952998
+boglarka SNARC line dot DC 0 down 10 lctrl 0.359398846731
+boglarka SNARC line dot DC 0 down 35 lctrl 0.412491106554
+boglarka SNARC line dot DC 0 up 30 delete 0.468481413964
+boglarka SNARC line dot DC 0 down 5 lctrl 0.460820363394
+boglarka SNARC line dot DC 0 up 45 delete 0.421070111333
+boglarka SNARC line dot DC 0 up 25 delete 0.436326769301
+boglarka SNARC line dot DC 0 up 20 delete 0.433685244945
+boglarka SNARC line dot DC 0 down 40 lctrl 0.429238258988
+boglarka SNARC line dot DC 0 down 25 lctrl 0.400873718827
+boglarka SNARC line dot DC 0 up 35 delete 0.476881237442
+boglarka SNARC line dot DC 0 up 25 delete 0.403998192787
+boglarka SNARC line dot DC 0 up 15 delete 0.344268175617
+boglarka SNARC line dot DC 0 down 5 lctrl 0.527192687443
+boglarka SNARC line dot DC 0 up 20 delete 0.369911049782
+boglarka SNARC line dot DC 0 down 40 lctrl 0.460084740158
+boglarka SNARC line dot DC 0 up 15 delete 0.413156737093
+boglarka SNARC line dot DC 0 down 35 delete 0.370818155125
+boglarka SNARC line dot DC 0 up 40 delete 0.436898609631
+boglarka SNARC line dot DC 0 up 40 delete 0.403055391171
+boglarka SNARC line dot DC 0 down 5 lctrl 0.439882048309
+boglarka SNARC line dot DC 0 up 15 delete 0.589861347968
+boglarka SNARC line dot DC 0 down 10 lctrl 0.581403080589
+boglarka SNARC line dot DC 0 down 5 lctrl 0.386510517628
+boglarka SNARC line dot DC 0 down 10 lctrl 0.383309751627
+boglarka SNARC line dot DC 0 up 45 delete 0.51581082514
+boglarka SNARC line dot DC 0 up 10 delete 0.426861656986
+boglarka SNARC line dot DC 0 up 15 delete 0.358069335465
+boglarka SNARC line dot DC 0 down 5 lctrl 0.450125829369
+boglarka SNARC line dot DC 0 down 20 lctrl 0.407848141047
+boglarka SNARC line dot DC 0 down 25 lctrl 0.348465637611
+boglarka SNARC line dot DC 0 down 35 lctrl 0.359245562726
+boglarka SNARC line dot DC 0 down 40 lctrl 0.468413871013
+boglarka SNARC line dot DC 0 down 25 lctrl 0.381151876802
+boglarka SNARC line dot DC 0 up 20 delete 0.456114404462
+boglarka SNARC line dot DC 0 up 5 delete 0.380201026024
+boglarka SNARC line dot DC 0 down 45 lctrl 0.440694313547
+boglarka SNARC line dot DC 0 down 5 lctrl 0.420438077286
+boglarka SNARC line dot DC 0 up 15 delete 0.438588583282
+boglarka SNARC line dot DC 0 down 25 lctrl 0.394133772141
+boglarka SNARC line dot DC 0 down 40 lctrl 0.417843448036
+boglarka SNARC line dot DC 0 down 45 lctrl 0.396546420381
+boglarka SNARC line dot DC 0 down 10 lctrl 0.337050528778
+boglarka SNARC line dot DC 0 down 10 lctrl 0.344134489565
+boglarka SNARC line dot DC 0 down 15 lctrl 0.332568896436
+boglarka SNARC line dot DC 0 down 5 lctrl 0.341971715252
+boglarka SNARC line dot DC 0 down 35 lctrl 0.456921420251
+boglarka SNARC line dot DC 0 down 35 lctrl 0.384486678817
+boglarka SNARC line dot DC 0 up 5 delete 0.501538964409
+boglarka SNARC line dot DC 0 down 40 lctrl 0.443380283266
+boglarka SNARC line dot DC 0 down 30 lctrl 0.452320450362
+boglarka SNARC line dot DC 0 down 20 lctrl 0.484198273909
+boglarka SNARC line dot DC 0 up 30 delete 0.482833066369
+boglarka SNARC line dot DC 0 down 40 lctrl 0.437600636375
+boglarka SNARC line dot DC 0 down 45 lctrl 0.419707353538
+boglarka SNARC line dot DC 0 down 45 lctrl 0.323295914071
+boglarka SNARC line dot DC 0 up 10 lctrl 0.337613620019
+boglarka SNARC line dot DC 0 up 35 delete 0.378566346602
+boglarka SNARC line dot DC 0 down 25 lctrl 0.436049598224
+boglarka SNARC line dot DC 0 up 10 delete 0.44614114517
+boglarka SNARC line dot DC 0 up 15 delete 0.370326456434
+boglarka SNARC line dot DC 0 down 30 lctrl 0.548217093547
+boglarka SNARC line dot DC 0 up 20 lctrl 0.435621592887
+boglarka SNARC line dot DC 0 up 15 delete 0.436626338042
+boglarka SNARC line dot DC 0 up 45 delete 0.388218689381
+boglarka SNARC line dot DC 0 up 10 delete 0.36679952447
+boglarka SNARC line dot DC 0 down 30 lctrl 0.421044214037
+boglarka SNARC line dot DC 0 up 40 delete 0.325530780863
+boglarka SNARC line dot DC 0 down 35 lctrl 0.38843286703
+boglarka SNARC line dot DC 0 up 45 delete 0.385157908773
+boglarka SNARC line dot DC 0 up 30 delete 0.365370973539
+boglarka SNARC line dot DC 0 up 45 delete 0.350555969486
+boglarka SNARC line dot DC 0 up 25 delete 0.36278544334
+boglarka SNARC line dot DC 0 up 45 delete 0.410242241222
+boglarka SNARC line dot DC 0 up 25 delete 0.4003421243
+boglarka SNARC line dot DC 0 down 20 lctrl 0.411583301282
+boglarka SNARC line dot DC 0 up 20 delete 0.417291905589
+boglarka SNARC line dot DC 0 up 25 delete 0.368133585262
+boglarka SNARC line dot DC 0 down 25 lctrl 0.382297307277
+boglarka SNARC line dot DC 0 down 5 lctrl 0.381055636844
+boglarka SNARC line dot DC 0 down 5 lctrl 0.338556771601
+boglarka SNARC line dot DC 0 down 25 lctrl 0.348499234105
+boglarka SNARC line dot DC 0 up 25 delete 0.493499253353
+boglarka SNARC line dot DC 0 up 10 delete 0.409879679055
+boglarka SNARC line dot DC 0 down 45 lctrl 0.424520401295
+boglarka SNARC line dot DC 0 down 15 lctrl 0.358629277034
+boglarka SNARC line dot DC 0 down 20 lctrl 0.369239819824
+boglarka SNARC line dot DC 0 down 40 lctrl 0.40794893053
+boglarka SNARC line dot DC 0 up 40 delete 0.58022825318
+boglarka SNARC line dot DC 0 up 25 delete 0.400310977551
+boglarka SNARC line dot DC 0 up 45 delete 0.372742954272
+boglarka SNARC line dot DC 0 up 10 delete 0.386621806016
+boglarka SNARC line dot DC 0 up 10 delete 0.673305940525
+boglarka SNARC line dot DC 0 up 5 delete 0.423934912391
+boglarka SNARC line dot DC 0 up 30 delete 0.351225099661
+boglarka SNARC line dot DC 0 down 5 lctrl 0.466421878877
+boglarka SNARC line dot DC 0 up 20 delete 0.607458911663
+boglarka SNARC line dot DC 0 up 5 delete 0.41635505335
+boglarka SNARC line dot DC 0 up 25 delete 0.414578288755
+boglarka SNARC line dot DC 0 down 45 lctrl 0.506111937219
+boglarka SNARC line dot DC 0 down 30 lctrl 0.399737387404
+boglarka SNARC line dot DC 0 down 35 lctrl 0.414372160265
+boglarka SNARC line dot DC 0 up 30 delete 0.468336529082
+boglarka SNARC line dot DC 0 up 5 delete 0.413992799851
+boglarka SNARC line dot DC 0 down 5 lctrl 0.426205125495
+boglarka SNARC line dot DC 0 up 45 delete 0.497845449827
+boglarka SNARC line dot DC 0 down 40 lctrl 0.589337102672
+boglarka SNARC line dot DC 0 up 5 delete 0.400946161268
+boglarka SNARC line dot DC 0 up 20 delete 0.38121906979
+{'delay': u'0', 'dateStr': u'05_18_1227', 'task': u'line', 'participant': u'boglarka', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+boglarka SNARC line arabic DC 0 up 9 delete 2.59256376597
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.621531293209
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.526685940322
+boglarka SNARC line arabic DC 0 up 8 delete 0.622031041061
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.528597440856
+boglarka SNARC line arabic DC 0 up 3 delete 0.64673636306
+boglarka SNARC line arabic DC 0 up 7 delete 0.440536480019
+boglarka SNARC line arabic DC 0 up 1 delete 0.508307258138
+boglarka SNARC line arabic DC 0 up 6 delete 0.428720313035
+boglarka SNARC line arabic DC 0 up 4 delete 0.984009118649
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.556530476044
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.618801578055
+boglarka SNARC line arabic DC 0 up 8 delete 0.5411394321
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.55054470066
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.442439581429
+boglarka SNARC line arabic DC 0 up 5 lctrl 0.39386430026
+boglarka SNARC line arabic DC 0 up 7 delete 0.442577817004
+boglarka SNARC line arabic DC 0 up 2 delete 0.430291299102
+boglarka SNARC line arabic DC 0 up 7 delete 0.43409400229
+boglarka SNARC line arabic DC 0 up 9 delete 0.418186062285
+boglarka SNARC line arabic DC 0 up 3 delete 0.446267481988
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.600918444159
+boglarka SNARC line arabic DC 0 up 1 delete 0.430891486474
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.72883919563
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.553394103325
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.467233794154
+boglarka SNARC line arabic DC 0 up 7 delete 0.40715801306
+boglarka SNARC line arabic DC 0 up 8 delete 0.376306982365
+boglarka SNARC line arabic DC 0 up 3 delete 0.386375431724
+boglarka SNARC line arabic DC 0 up 4 delete 0.404581931874
+boglarka SNARC line arabic DC 0 up 8 delete 0.381971491275
+boglarka SNARC line arabic DC 0 down 4 delete 0.388113350371
+boglarka SNARC line arabic DC 0 up 3 delete 0.484140529936
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.407936681808
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.421504066051
+boglarka SNARC line arabic DC 0 up 3 delete 0.455498818699
+boglarka SNARC line arabic DC 0 up 7 delete 0.59022845966
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.595088052562
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.684752546073
+boglarka SNARC line arabic DC 0 up 6 delete 0.473971641059
+boglarka SNARC line arabic DC 0 down 8 delete 0.44638541968
+boglarka SNARC line arabic DC 0 up 8 delete 0.539935557725
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.411986809177
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.471492849721
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.406436738327
+boglarka SNARC line arabic DC 0 up 8 delete 0.47462712266
+boglarka SNARC line arabic DC 0 up 4 delete 0.656688974505
+boglarka SNARC line arabic DC 0 up 7 delete 0.48840623481
+boglarka SNARC line arabic DC 0 up 1 delete 0.577307108002
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.465148361767
+boglarka SNARC line arabic DC 0 up 4 delete 0.611035188478
+boglarka SNARC line arabic DC 0 up 2 delete 0.50863202425
+boglarka SNARC line arabic DC 0 up 6 delete 0.518893303484
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.564290566279
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.626333142136
+boglarka SNARC line arabic DC 0 up 5 delete 0.584340324089
+boglarka SNARC line arabic DC 0 up 6 delete 0.418827545345
+boglarka SNARC line arabic DC 0 up 9 delete 1.07802505808
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.470422661396
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.476192859274
+boglarka SNARC line arabic DC 0 up 8 delete 0.642883965058
+boglarka SNARC line arabic DC 0 up 1 delete 0.508808755807
+boglarka SNARC line arabic DC 0 up 2 delete 0.444486167868
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.609382660918
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.359690016348
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.451199867293
+boglarka SNARC line arabic DC 0 up 8 delete 0.491637447632
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.444047313662
+boglarka SNARC line arabic DC 0 up 5 delete 0.619736680477
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.400912564774
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.395431786692
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.387517362564
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.489933475441
+boglarka SNARC line arabic DC 0 up 5 delete 0.488640360378
+boglarka SNARC line arabic DC 0 down 5 lctrl 1.01550828171
+boglarka SNARC line arabic DC 0 up 4 delete 0.612077379725
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.37211127019
+boglarka SNARC line arabic DC 0 up 7 delete 0.413259626359
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.476070372057
+boglarka SNARC line arabic DC 0 up 5 delete 0.461256067929
+boglarka SNARC line arabic DC 0 up 7 delete 0.41656713122
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.421124705637
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.372727205917
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.407344543597
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.439771459849
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.398701145536
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.418937433878
+boglarka SNARC line arabic DC 0 up 7 delete 0.623089680592
+boglarka SNARC line arabic DC 0 up 7 delete 0.432671050776
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.467918322722
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.493217882713
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.481349571173
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.617459818068
+boglarka SNARC line arabic DC 0 up 4 delete 0.66705664264
+boglarka SNARC line arabic DC 0 up 2 delete 0.71337220961
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.603270198755
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.461502092257
+boglarka SNARC line arabic DC 0 up 5 delete 0.567469984508
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.374573963207
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.579117119129
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.515335574733
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.914622559136
+boglarka SNARC line arabic DC 0 up 7 delete 0.507015192963
+boglarka SNARC line arabic DC 0 up 6 delete 0.608648087573
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.393655722026
+boglarka SNARC line arabic DC 0 up 8 delete 0.448100240739
+boglarka SNARC line arabic DC 0 up 3 delete 0.39502022964
+boglarka SNARC line arabic DC 0 up 9 delete 0.384563670781
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.443119560474
+boglarka SNARC line arabic DC 0 up 8 delete 0.551797569924
+boglarka SNARC line arabic DC 0 up 8 delete 0.414395607819
+boglarka SNARC line arabic DC 0 up 6 delete 0.463069928654
+boglarka SNARC line arabic DC 0 up 4 delete 0.404533636914
+boglarka SNARC line arabic DC 0 down 4 delete 0.439117728065
+boglarka SNARC line arabic DC 0 up 9 delete 0.496355655288
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.44397067166
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.655800067263
+boglarka SNARC line arabic DC 0 up 9 delete 0.503581351286
+boglarka SNARC line arabic DC 0 up 5 delete 0.452868843136
+boglarka SNARC line arabic DC 0 up 7 delete 0.602860041554
+boglarka SNARC line arabic DC 0 up 2 delete 0.446157943419
+boglarka SNARC line arabic DC 0 up 7 delete 0.402439805406
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.414842511185
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.484912199412
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.65058141183
+boglarka SNARC line arabic DC 0 up 1 lctrl 0.512150907052
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.634386151805
+boglarka SNARC line arabic DC 0 up 3 delete 0.441624166519
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.453902635261
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.435224034372
+boglarka SNARC line arabic DC 0 up 2 delete 0.565895848769
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.438331010158
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.391078940913
+boglarka SNARC line arabic DC 0 up 6 delete 0.522315946331
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.522545522374
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.408552967498
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.344013752165
+boglarka SNARC line arabic DC 0 up 1 delete 0.702254219772
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.366321824318
+boglarka SNARC line arabic DC 0 up 1 delete 0.518056540801
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.341819481137
+boglarka SNARC line arabic DC 0 up 1 delete 0.583171096097
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.352628103257
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.3830598777
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.378922259462
+boglarka SNARC line arabic DC 0 up 2 delete 0.623535534067
+boglarka SNARC line arabic DC 0 up 1 delete 0.524722645192
+boglarka SNARC line arabic DC 0 up 1 delete 0.386114358967
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.440680664973
+boglarka SNARC line arabic DC 0 up 5 delete 0.549347825556
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.311843709109
+boglarka SNARC line arabic DC 0 up 3 delete 0.545487728356
+boglarka SNARC line arabic DC 0 up 1 delete 0.60338113718
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.342522207808
+boglarka SNARC line arabic DC 0 up 1 delete 0.560170796178
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.322340863731
+boglarka SNARC line arabic DC 0 up 7 delete 0.457682940785
+boglarka SNARC line arabic DC 0 up 7 delete 0.408035721472
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.418487730805
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.431412932061
+boglarka SNARC line arabic DC 0 up 8 delete 0.458608244231
+boglarka SNARC line arabic DC 0 up 6 delete 0.429420589962
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.368985746338
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.397166205707
+boglarka SNARC line arabic DC 0 up 4 delete 0.50936904734
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.426321313371
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.324693318253
+boglarka SNARC line arabic DC 0 up 5 lctrl 0.384863239522
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.498394192566
+boglarka SNARC line arabic DC 0 up 5 delete 0.456516862465
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.359023685878
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.490958168515
+boglarka SNARC line arabic DC 0 up 6 delete 0.517405958688
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.410783284764
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.390892760341
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.387115954451
+boglarka SNARC line arabic DC 0 up 2 lctrl 0.371361648413
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.429688661987
+boglarka SNARC line arabic DC 0 up 2 delete 0.336702315113
+boglarka SNARC line arabic DC 0 up 9 delete 0.394041381782
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.394316453079
+boglarka SNARC line arabic DC 0 up 5 delete 0.42757873216
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.329611355055
+boglarka SNARC line arabic DC 0 up 3 delete 0.39284695642
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.335680071785
+boglarka SNARC line arabic DC 0 up 3 delete 0.449180228043
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.347893447319
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.493262678039
+boglarka SNARC line arabic DC 0 up 7 delete 0.438854555528
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.349889639017
+boglarka SNARC line arabic DC 0 up 3 lctrl 0.278608027253
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.419788545065
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.488734150591
+boglarka SNARC line arabic DC 0 up 5 delete 0.378405013436
+boglarka SNARC line arabic DC 0 up 3 lctrl 0.33044321825
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.48754777439
+boglarka SNARC line arabic DC 0 up 6 delete 0.4525797733
+boglarka SNARC line arabic DC 0 up 6 delete 0.448064194501
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.504604994469
+boglarka SNARC line arabic DC 0 up 1 delete 0.518267918744
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.36250512259
+boglarka SNARC line arabic DC 0 up 6 delete 0.537880222199
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.392062688259
+boglarka SNARC line arabic DC 0 up 5 delete 0.498843195714
+boglarka SNARC line arabic DC 0 up 8 delete 0.678863010644
+boglarka SNARC line arabic DC 0 up 3 delete 0.440658967236
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.642777926123
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.45570494719
+boglarka SNARC line arabic DC 0 up 1 delete 0.517374112011
+boglarka SNARC line arabic DC 0 up 3 delete 0.422626398935
+boglarka SNARC line arabic DC 0 up 4 delete 0.416952091051
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.526498359897
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.511929380169
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.477606361776
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.418829995089
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.346995091062
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.567394042431
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.388121399532
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.325582925421
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.317388180543
+boglarka SNARC line arabic DC 0 up 1 lctrl 0.267126075394
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.402972799789
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.376313631674
+boglarka SNARC line arabic DC 0 up 3 delete 0.416741413033
+boglarka SNARC line arabic DC 0 up 9 delete 0.377859420369
+boglarka SNARC line arabic DC 0 up 9 delete 0.434543355401
+boglarka SNARC line arabic DC 0 up 8 delete 0.334692824803
+boglarka SNARC line arabic DC 0 up 9 delete 0.377976308173
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.514793481299
+boglarka SNARC line arabic DC 0 up 7 delete 0.456859126749
+boglarka SNARC line arabic DC 0 up 2 delete 0.368139534639
+boglarka SNARC line arabic DC 0 up 6 delete 0.470387315085
+boglarka SNARC line arabic DC 0 down 6 delete 0.376022112094
+boglarka SNARC line arabic DC 0 up 8 delete 0.43429698111
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.622956344505
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.435211435688
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.445426169779
+boglarka SNARC line arabic DC 0 up 7 lctrl 0.401417212113
+boglarka SNARC line arabic DC 0 up 6 delete 0.580653108847
+boglarka SNARC line arabic DC 0 up 9 delete 0.389896064346
+boglarka SNARC line arabic DC 0 up 3 delete 0.419731151054
+boglarka SNARC line arabic DC 0 down 9 delete 0.434264084543
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.571289835905
+boglarka SNARC line arabic DC 0 up 5 delete 0.641719286592
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.415833957728
+boglarka SNARC line arabic DC 0 up 4 delete 0.535252346417
+boglarka SNARC line arabic DC 0 up 7 delete 0.444418624915
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.394595373973
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.520497186119
+boglarka SNARC line arabic DC 0 up 2 delete 0.63564427052
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.458252681332
+boglarka SNARC line arabic DC 0 up 3 delete 0.455382280858
+boglarka SNARC line arabic DC 0 up 2 delete 0.514715089481
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.564026693815
+boglarka SNARC line arabic DC 0 up 5 delete 0.55646258313
+boglarka SNARC line arabic DC 0 up 7 delete 0.488500724949
+boglarka SNARC line arabic DC 0 up 8 delete 0.51281198807
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.440649518223
+boglarka SNARC line arabic DC 0 up 3 delete 0.462629324631
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.508335255217
+boglarka SNARC line arabic DC 0 up 9 delete 0.784607276231
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.451763308498
+boglarka SNARC line arabic DC 0 up 5 delete 0.44716443839
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.404060486288
+boglarka SNARC line arabic DC 0 up 2 delete 0.511781695579
+boglarka SNARC line arabic DC 0 up 8 delete 0.477949325988
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.929447362167
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.382917792529
+boglarka SNARC line arabic DC 0 up 5 delete 0.648157214795
+boglarka SNARC line arabic DC 0 up 9 delete 0.442071769812
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.453987326424
+boglarka SNARC line arabic DC 0 up 1 lctrl 0.503318528712
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.511531821656
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.472558838484
+boglarka SNARC line arabic DC 0 up 6 delete 0.40962385575
+boglarka SNARC line arabic DC 0 up 2 delete 0.401368567189
+boglarka SNARC line arabic DC 0 up 6 delete 0.40596253781
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.528642236182
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.51066881171
+boglarka SNARC line arabic DC 0 up 9 delete 0.574959203008
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.482072245763
+boglarka SNARC line arabic DC 0 up 2 delete 0.398819783157
+boglarka SNARC line arabic DC 0 up 9 delete 0.526080853464
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.446179641154
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.415228170939
+boglarka SNARC line arabic DC 0 up 2 delete 0.797882091005
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.462317507168
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.405506535393
+boglarka SNARC line arabic DC 0 up 3 delete 0.587834359483
+boglarka SNARC line arabic DC 0 up 4 delete 0.456143801395
+boglarka SNARC line arabic DC 0 down 7 delete 0.430185960095
+boglarka SNARC line arabic DC 0 up 4 delete 0.80589765458
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.419969476185
+boglarka SNARC line arabic DC 0 up 9 delete 0.509095375897
+boglarka SNARC line arabic DC 0 up 6 delete 0.509806501692
+boglarka SNARC line arabic DC 0 up 9 delete 0.498728757653
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.650370733814
+boglarka SNARC line arabic DC 0 up 4 delete 0.532083077132
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.44219530692
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.694185111783
+boglarka SNARC line arabic DC 0 up 8 delete 0.453713305016
+boglarka SNARC line arabic DC 0 up 8 delete 0.421732592204
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.445708590309
+boglarka SNARC line arabic DC 0 up 8 delete 0.466767992759
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.454039820945
+boglarka SNARC line arabic DC 0 up 5 delete 0.384800946022
+boglarka SNARC line arabic DC 0 up 1 delete 0.492085750851
+boglarka SNARC line arabic DC 0 down 1 lctrl 0.574079394813
+boglarka SNARC line arabic DC 0 up 3 delete 0.451699965108
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.475592321942
+boglarka SNARC line arabic DC 0 down 7 delete 0.43492831523
+boglarka SNARC line arabic DC 0 up 8 delete 0.427929395568
+boglarka SNARC line arabic DC 0 up 7 delete 0.517771320563
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.386012169631
+boglarka SNARC line arabic DC 0 up 6 delete 0.535692950441
+boglarka SNARC line arabic DC 0 up 6 delete 0.456265238723
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.648801847527
+boglarka SNARC line arabic DC 0 up 6 delete 0.419379437755
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.380491845675
+boglarka SNARC line arabic DC 0 up 2 delete 0.445590652615
+boglarka SNARC line arabic DC 0 up 4 delete 0.406449337012
+boglarka SNARC line arabic DC 0 up 8 delete 0.379156734994
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.915392828758
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.475491882422
+boglarka SNARC line arabic DC 0 up 6 delete 0.481665588197
+boglarka SNARC line arabic DC 0 down 9 lctrl 0.646205118495
+boglarka SNARC line arabic DC 0 up 1 delete 0.364837979156
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.391955599434
+boglarka SNARC line arabic DC 0 up 4 lctrl 0.495233322403
+boglarka SNARC line arabic DC 0 up 7 delete 0.584705335999
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.459198632621
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.451417544578
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.587614932381
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.415200173862
+boglarka SNARC line arabic DC 0 up 6 delete 0.587527791475
+boglarka SNARC line arabic DC 0 down 4 lctrl 0.436711379167
+boglarka SNARC line arabic DC 0 up 2 delete 0.601253709176
+boglarka SNARC line arabic DC 0 up 2 delete 0.462318207095
+boglarka SNARC line arabic DC 0 up 4 delete 0.582793485499
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.705606869924
+boglarka SNARC line arabic DC 0 up 9 delete 0.59189113616
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.672513973166
+boglarka SNARC line arabic DC 0 up 1 delete 0.48291670764
+boglarka SNARC line arabic DC 0 up 1 delete 0.518009995658
+boglarka SNARC line arabic DC 0 up 1 delete 0.422271535965
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.755257588871
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.486020883722
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.447679584635
+boglarka SNARC line arabic DC 0 down 2 lctrl 0.45116942047
+boglarka SNARC line arabic DC 0 down 6 lctrl 0.53011173284
+boglarka SNARC line arabic DC 0 up 4 lctrl 0.373591965677
+boglarka SNARC line arabic DC 0 down 5 lctrl 0.749943393406
+boglarka SNARC line arabic DC 0 down 2 delete 0.427471293371
+boglarka SNARC line arabic DC 0 down 7 lctrl 0.780518652879
+boglarka SNARC line arabic DC 0 up 6 lctrl 0.297602995126
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.61570475121
+boglarka SNARC line arabic DC 0 down 8 lctrl 0.533163064434
+boglarka SNARC line arabic DC 0 up 6 delete 0.419351440678
+boglarka SNARC line arabic DC 0 up 7 delete 0.403883054803
+boglarka SNARC line arabic DC 0 down 3 lctrl 0.568106218116
+{'delay': u'0', 'dateStr': u'05_18_1235', 'task': u'line', 'participant': u'boglarka', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+boglarka SNARC line dot CD 0 down 20 delete 1.92263707282
+boglarka SNARC line dot CD 0 down 40 delete 0.562260078161
+boglarka SNARC line dot CD 0 up 30 lctrl 0.645175875898
+boglarka SNARC line dot CD 0 down 35 delete 0.518951747386
+boglarka SNARC line dot CD 0 down 20 delete 0.394902991873
+boglarka SNARC line dot CD 0 down 10 delete 0.356256524632
+boglarka SNARC line dot CD 0 up 25 lctrl 0.520688616143
+boglarka SNARC line dot CD 0 down 20 delete 0.4416224167
+boglarka SNARC line dot CD 0 up 25 lctrl 0.99437643682
+boglarka SNARC line dot CD 0 down 20 delete 0.610212074371
+boglarka SNARC line dot CD 0 down 20 delete 0.355197535137
+boglarka SNARC line dot CD 0 down 30 delete 0.431873484004
+boglarka SNARC line dot CD 0 up 25 lctrl 0.381946993832
+boglarka SNARC line dot CD 0 up 45 lctrl 0.418706108017
+boglarka SNARC line dot CD 0 down 25 delete 0.484143679607
+boglarka SNARC line dot CD 0 up 5 lctrl 0.421962168248
+boglarka SNARC line dot CD 0 down 25 delete 0.439806456196
+boglarka SNARC line dot CD 0 down 15 delete 0.442003876895
+boglarka SNARC line dot CD 0 up 25 lctrl 0.402398509716
+boglarka SNARC line dot CD 0 down 30 delete 0.46240814771
+boglarka SNARC line dot CD 0 up 25 lctrl 0.340433625752
+boglarka SNARC line dot CD 0 up 45 lctrl 0.447914060167
+boglarka SNARC line dot CD 0 down 45 delete 0.422590702659
+boglarka SNARC line dot CD 0 down 15 delete 0.458871416768
+boglarka SNARC line dot CD 0 down 25 delete 0.37786746953
+boglarka SNARC line dot CD 0 up 25 lctrl 0.40725950247
+boglarka SNARC line dot CD 0 down 40 delete 0.77401668136
+boglarka SNARC line dot CD 0 down 35 delete 0.402275322571
+boglarka SNARC line dot CD 0 down 15 delete 0.430196808962
+boglarka SNARC line dot CD 0 down 25 delete 0.334531141676
+boglarka SNARC line dot CD 0 down 15 delete 0.312082384204
+boglarka SNARC line dot CD 0 down 10 delete 0.358252716329
+boglarka SNARC line dot CD 0 down 25 delete 0.397744345379
+boglarka SNARC line dot CD 0 down 45 delete 0.345729623114
+boglarka SNARC line dot CD 0 up 35 lctrl 0.632957600874
+boglarka SNARC line dot CD 0 up 40 lctrl 0.392568735451
+boglarka SNARC line dot CD 0 down 15 delete 0.584132095815
+boglarka SNARC line dot CD 0 up 5 lctrl 0.680926745294
+boglarka SNARC line dot CD 0 down 35 delete 0.438845456476
+boglarka SNARC line dot CD 0 down 30 delete 0.465152911294
+boglarka SNARC line dot CD 0 up 5 lctrl 0.713989195228
+boglarka SNARC line dot CD 0 down 10 delete 0.312999638489
+boglarka SNARC line dot CD 0 up 30 lctrl 0.52455151305
+boglarka SNARC line dot CD 0 up 15 lctrl 0.37912418839
+boglarka SNARC line dot CD 0 down 25 delete 0.619270879084
+boglarka SNARC line dot CD 0 down 35 delete 0.58980815352
+boglarka SNARC line dot CD 0 down 30 delete 0.448142236359
+boglarka SNARC line dot CD 0 up 40 lctrl 0.439726664523
+boglarka SNARC line dot CD 0 up 45 lctrl 0.432458272981
+boglarka SNARC line dot CD 0 up 30 lctrl 0.742427577683
+boglarka SNARC line dot CD 0 down 5 delete 0.394003235762
+boglarka SNARC line dot CD 0 up 25 lctrl 0.357356809818
+boglarka SNARC line dot CD 0 down 30 lctrl 0.393551432908
+boglarka SNARC line dot CD 0 up 10 lctrl 0.637533373394
+boglarka SNARC line dot CD 0 down 35 delete 0.501543513934
+boglarka SNARC line dot CD 0 up 45 lctrl 0.419682156167
+boglarka SNARC line dot CD 0 down 40 lctrl 0.375147903316
+boglarka SNARC line dot CD 0 down 30 delete 0.397870682194
+boglarka SNARC line dot CD 0 up 45 lctrl 0.364166749199
+boglarka SNARC line dot CD 0 down 40 delete 0.396295496565
+boglarka SNARC line dot CD 0 down 20 delete 0.453064822686
+boglarka SNARC line dot CD 0 down 20 delete 0.421682547425
+boglarka SNARC line dot CD 0 up 40 lctrl 0.327068520401
+boglarka SNARC line dot CD 0 down 40 delete 0.302286906361
+boglarka SNARC line dot CD 0 down 5 delete 0.377162643077
+boglarka SNARC line dot CD 0 down 5 delete 0.402513647701
+boglarka SNARC line dot CD 0 down 45 delete 0.592713200378
+boglarka SNARC line dot CD 0 up 25 lctrl 0.38413531548
+boglarka SNARC line dot CD 0 up 15 lctrl 0.347163073533
+boglarka SNARC line dot CD 0 down 25 delete 0.451081229674
+boglarka SNARC line dot CD 0 up 30 lctrl 0.598290918342
+boglarka SNARC line dot CD 0 up 40 lctrl 0.346178976224
+boglarka SNARC line dot CD 0 down 10 delete 0.382095728311
+boglarka SNARC line dot CD 0 up 35 lctrl 0.272003866397
+boglarka SNARC line dot CD 0 up 10 lctrl 0.369514191194
+boglarka SNARC line dot CD 0 up 35 lctrl 0.400379220428
+boglarka SNARC line dot CD 0 up 35 lctrl 0.341115354613
+boglarka SNARC line dot CD 0 down 45 delete 0.381354155694
+boglarka SNARC line dot CD 0 up 40 lctrl 0.307517810515
+boglarka SNARC line dot CD 0 down 10 delete 0.388530506842
+boglarka SNARC line dot CD 0 up 45 lctrl 0.286226732242
+boglarka SNARC line dot CD 0 down 15 delete 0.284394323453
+boglarka SNARC line dot CD 0 up 25 lctrl 0.26464763402
+boglarka SNARC line dot CD 0 up 15 lctrl 0.484485243966
+boglarka SNARC line dot CD 0 up 20 lctrl 0.395753403132
+boglarka SNARC line dot CD 0 down 15 delete 0.426337061728
+boglarka SNARC line dot CD 0 up 40 lctrl 0.333010900313
+boglarka SNARC line dot CD 0 up 15 lctrl 0.491042159751
+boglarka SNARC line dot CD 0 down 10 delete 0.427870251739
+boglarka SNARC line dot CD 0 up 35 lctrl 0.265957897293
+boglarka SNARC line dot CD 0 down 35 delete 0.378601692913
+boglarka SNARC line dot CD 0 up 35 lctrl 0.274048353054
+boglarka SNARC line dot CD 0 down 30 delete 0.371892543013
+boglarka SNARC line dot CD 0 up 5 lctrl 0.265506794365
+boglarka SNARC line dot CD 0 down 30 delete 0.30143929481
+boglarka SNARC line dot CD 0 down 20 delete 0.401562446958
+boglarka SNARC line dot CD 0 up 30 lctrl 0.441128268265
+boglarka SNARC line dot CD 0 up 5 lctrl 0.394634919847
+boglarka SNARC line dot CD 0 down 25 delete 0.288394756008
+boglarka SNARC line dot CD 0 down 20 lctrl 0.28533887489
+boglarka SNARC line dot CD 0 down 10 delete 0.413164436291
+boglarka SNARC line dot CD 0 down 20 delete 0.396351840685
+boglarka SNARC line dot CD 0 up 35 lctrl 0.294217798373
+boglarka SNARC line dot CD 0 down 15 delete 0.29090014457
+boglarka SNARC line dot CD 0 down 5 delete 0.366067750831
+boglarka SNARC line dot CD 0 down 15 delete 0.389995453974
+boglarka SNARC line dot CD 0 down 15 delete 0.329706545121
+boglarka SNARC line dot CD 0 down 10 delete 0.347052485073
+boglarka SNARC line dot CD 0 down 45 delete 0.304559569209
+boglarka SNARC line dot CD 0 up 45 lctrl 0.473331207888
+boglarka SNARC line dot CD 0 down 40 delete 0.302014634774
+boglarka SNARC line dot CD 0 down 35 delete 0.422923167967
+boglarka SNARC line dot CD 0 down 35 delete 0.331868619509
+boglarka SNARC line dot CD 0 down 10 delete 0.338737352757
+boglarka SNARC line dot CD 0 down 30 delete 0.410946017782
+boglarka SNARC line dot CD 0 up 10 lctrl 0.335018990769
+boglarka SNARC line dot CD 0 down 25 delete 0.375253592289
+boglarka SNARC line dot CD 0 up 15 lctrl 0.48294890428
+boglarka SNARC line dot CD 0 down 20 delete 0.295263489255
+boglarka SNARC line dot CD 0 up 15 lctrl 0.234312449496
+boglarka SNARC line dot CD 0 up 25 delete 0.252816418608
+boglarka SNARC line dot CD 0 up 10 lctrl 0.334350560519
+boglarka SNARC line dot CD 0 down 5 delete 0.336818153024
+boglarka SNARC line dot CD 0 down 30 lctrl 0.316864285212
+boglarka SNARC line dot CD 0 down 40 delete 0.379867860789
+boglarka SNARC line dot CD 0 down 10 lctrl 0.328514919469
+boglarka SNARC line dot CD 0 up 30 delete 0.371229362217
+boglarka SNARC line dot CD 0 down 40 delete 0.486660966928
+boglarka SNARC line dot CD 0 up 5 lctrl 0.297147342675
+boglarka SNARC line dot CD 0 down 40 delete 0.370257163666
+boglarka SNARC line dot CD 0 down 35 delete 0.456483615935
+boglarka SNARC line dot CD 0 down 35 delete 0.412484107283
+boglarka SNARC line dot CD 0 down 30 delete 0.3595706788
+boglarka SNARC line dot CD 0 down 20 delete 0.34277768115
+boglarka SNARC line dot CD 0 down 10 delete 0.364963616046
+boglarka SNARC line dot CD 0 down 35 delete 0.300250468863
+boglarka SNARC line dot CD 0 down 40 delete 0.295705493132
+boglarka SNARC line dot CD 0 down 25 delete 0.317590109473
+boglarka SNARC line dot CD 0 down 30 delete 0.327061871092
+boglarka SNARC line dot CD 0 up 5 lctrl 0.514077106054
+boglarka SNARC line dot CD 0 down 5 delete 0.415048989638
+boglarka SNARC line dot CD 0 down 25 delete 0.424613841546
+boglarka SNARC line dot CD 0 up 25 lctrl 0.427814257582
+boglarka SNARC line dot CD 0 up 10 lctrl 0.51566104077
+boglarka SNARC line dot CD 0 down 40 delete 0.462662221198
+boglarka SNARC line dot CD 0 up 20 lctrl 0.61795466643
+boglarka SNARC line dot CD 0 up 30 lctrl 0.494241175933
+boglarka SNARC line dot CD 0 down 45 delete 0.361375790437
+boglarka SNARC line dot CD 0 up 5 lctrl 0.42280068075
+boglarka SNARC line dot CD 0 down 15 delete 0.334392206172
+boglarka SNARC line dot CD 0 up 35 lctrl 0.422201193305
+boglarka SNARC line dot CD 0 down 15 delete 0.425619286627
+boglarka SNARC line dot CD 0 up 5 lctrl 0.32552238174
+boglarka SNARC line dot CD 0 up 30 lctrl 0.349602668961
+boglarka SNARC line dot CD 0 up 10 lctrl 0.411453114868
+boglarka SNARC line dot CD 0 down 45 delete 0.336587177128
+boglarka SNARC line dot CD 0 down 20 delete 0.591295148351
+boglarka SNARC line dot CD 0 down 20 delete 0.437281819643
+boglarka SNARC line dot CD 0 down 30 delete 0.349121819139
+boglarka SNARC line dot CD 0 down 5 delete 0.34616147805
+boglarka SNARC line dot CD 0 down 5 delete 0.321751525229
+boglarka SNARC line dot CD 0 down 10 delete 0.358875301363
+boglarka SNARC line dot CD 0 down 40 delete 0.315177811197
+boglarka SNARC line dot CD 0 up 10 lctrl 0.431213102913
+boglarka SNARC line dot CD 0 down 15 delete 0.421413775472
+boglarka SNARC line dot CD 0 up 30 lctrl 0.466959422783
+boglarka SNARC line dot CD 0 down 40 delete 0.317732194646
+boglarka SNARC line dot CD 0 up 15 lctrl 0.34511088768
+boglarka SNARC line dot CD 0 up 5 lctrl 0.447560947016
+boglarka SNARC line dot CD 0 up 45 lctrl 0.557021124847
+boglarka SNARC line dot CD 0 down 20 delete 0.361818494239
+boglarka SNARC line dot CD 0 up 45 lctrl 0.396125764277
+boglarka SNARC line dot CD 0 down 5 delete 0.320701284822
+boglarka SNARC line dot CD 0 down 10 lctrl 0.322495547589
+boglarka SNARC line dot CD 0 down 20 delete 0.386823384981
+boglarka SNARC line dot CD 0 up 15 lctrl 0.452353346929
+boglarka SNARC line dot CD 0 down 30 delete 0.512436827217
+boglarka SNARC line dot CD 0 down 35 delete 0.350361739753
+boglarka SNARC line dot CD 0 up 15 lctrl 0.396071519937
+boglarka SNARC line dot CD 0 up 10 lctrl 0.434052006673
+boglarka SNARC line dot CD 0 up 40 lctrl 0.386181551956
+boglarka SNARC line dot CD 0 up 35 lctrl 0.334700873964
+boglarka SNARC line dot CD 0 up 20 lctrl 0.379226027764
+boglarka SNARC line dot CD 0 up 15 lctrl 0.337471534845
+boglarka SNARC line dot CD 0 up 10 lctrl 0.325179417527
+boglarka SNARC line dot CD 0 up 35 lctrl 0.346920898804
+boglarka SNARC line dot CD 0 down 45 delete 0.46473820457
+boglarka SNARC line dot CD 0 up 5 lctrl 0.418138117288
+boglarka SNARC line dot CD 0 down 10 delete 0.317638754397
+boglarka SNARC line dot CD 0 up 15 lctrl 0.331634143979
+boglarka SNARC line dot CD 0 up 25 lctrl 0.330780583046
+boglarka SNARC line dot CD 0 up 35 lctrl 0.324559982166
+boglarka SNARC line dot CD 0 up 35 lctrl 0.341034513049
+boglarka SNARC line dot CD 0 up 25 lctrl 0.332279476637
+boglarka SNARC line dot CD 0 down 40 delete 0.544695411034
+boglarka SNARC line dot CD 0 down 35 delete 0.344282174156
+boglarka SNARC line dot CD 0 down 35 delete 0.36208096685
+boglarka SNARC line dot CD 0 up 35 lctrl 0.452025081184
+boglarka SNARC line dot CD 0 down 30 delete 0.420020920817
+boglarka SNARC line dot CD 0 down 40 lctrl 0.306868278296
+boglarka SNARC line dot CD 0 up 45 lctrl 0.418312399102
+boglarka SNARC line dot CD 0 down 45 delete 0.411305430278
+boglarka SNARC line dot CD 0 down 45 delete 0.384307147549
+boglarka SNARC line dot CD 0 down 20 delete 0.372973930171
+boglarka SNARC line dot CD 0 down 25 delete 0.67887560933
+boglarka SNARC line dot CD 0 up 45 lctrl 0.386101410319
+boglarka SNARC line dot CD 0 up 40 lctrl 0.291743906524
+boglarka SNARC line dot CD 0 down 30 delete 0.38141014985
+boglarka SNARC line dot CD 0 down 35 delete 0.3410215644
+boglarka SNARC line dot CD 0 up 30 lctrl 0.354991406648
+boglarka SNARC line dot CD 0 down 35 delete 0.515468910819
+boglarka SNARC line dot CD 0 down 30 lctrl 0.285110348734
+boglarka SNARC line dot CD 0 up 40 delete 0.319513858729
+boglarka SNARC line dot CD 0 down 40 delete 0.54690578038
+boglarka SNARC line dot CD 0 down 40 lctrl 0.308673739895
+boglarka SNARC line dot CD 0 up 5 lctrl 0.472399955064
+boglarka SNARC line dot CD 0 down 10 delete 0.344842815652
+boglarka SNARC line dot CD 0 down 35 delete 0.422221841151
+boglarka SNARC line dot CD 0 up 5 lctrl 0.468170646394
+boglarka SNARC line dot CD 0 up 15 lctrl 0.425155235051
+boglarka SNARC line dot CD 0 down 5 delete 0.358251316475
+boglarka SNARC line dot CD 0 up 35 lctrl 0.420800989416
+boglarka SNARC line dot CD 0 up 10 lctrl 0.381067185639
+boglarka SNARC line dot CD 0 up 15 lctrl 0.344599591033
+boglarka SNARC line dot CD 0 up 45 lctrl 0.384491928267
+boglarka SNARC line dot CD 0 up 30 lctrl 0.367374164505
+boglarka SNARC line dot CD 0 up 10 lctrl 0.319635646021
+boglarka SNARC line dot CD 0 up 40 lctrl 0.310991198068
+boglarka SNARC line dot CD 0 up 10 lctrl 0.329139954245
+boglarka SNARC line dot CD 0 up 10 lctrl 0.333357714124
+boglarka SNARC line dot CD 0 down 35 delete 0.400890167111
+boglarka SNARC line dot CD 0 up 30 lctrl 0.340981318601
+boglarka SNARC line dot CD 0 up 20 lctrl 0.345290768908
+boglarka SNARC line dot CD 0 up 20 lctrl 0.333676880819
+boglarka SNARC line dot CD 0 down 20 delete 0.409445374375
+boglarka SNARC line dot CD 0 down 20 delete 0.355018703798
+boglarka SNARC line dot CD 0 up 40 lctrl 0.395479731691
+boglarka SNARC line dot CD 0 down 40 lctrl 0.366178689254
+boglarka SNARC line dot CD 0 up 20 lctrl 0.430967778513
+boglarka SNARC line dot CD 0 down 40 delete 0.37734077449
+boglarka SNARC line dot CD 0 up 15 lctrl 0.388560953665
+boglarka SNARC line dot CD 0 up 45 lctrl 0.414327714903
+boglarka SNARC line dot CD 0 up 45 lctrl 0.420824087007
+boglarka SNARC line dot CD 0 up 45 lctrl 0.36031960065
+boglarka SNARC line dot CD 0 down 15 delete 0.442858137754
+boglarka SNARC line dot CD 0 down 30 delete 0.384908384809
+boglarka SNARC line dot CD 0 up 5 lctrl 0.464276252775
+boglarka SNARC line dot CD 0 down 10 delete 0.397325439089
+boglarka SNARC line dot CD 0 up 5 lctrl 0.394546029122
+boglarka SNARC line dot CD 0 up 25 lctrl 0.398873327569
+boglarka SNARC line dot CD 0 down 45 delete 0.400464961482
+boglarka SNARC line dot CD 0 up 45 lctrl 0.470793972649
+boglarka SNARC line dot CD 0 down 45 delete 0.354226386477
+boglarka SNARC line dot CD 0 down 25 delete 0.470635789155
+boglarka SNARC line dot CD 0 down 10 delete 0.400432064913
+boglarka SNARC line dot CD 0 down 40 delete 0.365174294062
+boglarka SNARC line dot CD 0 down 45 delete 0.358232068484
+boglarka SNARC line dot CD 0 down 5 delete 0.346006444228
+boglarka SNARC line dot CD 0 up 40 lctrl 0.460191828983
+boglarka SNARC line dot CD 0 up 25 lctrl 0.382607724885
+boglarka SNARC line dot CD 0 down 30 delete 0.423324226116
+boglarka SNARC line dot CD 0 up 10 lctrl 0.764103965752
+boglarka SNARC line dot CD 0 down 10 delete 0.347691518389
+boglarka SNARC line dot CD 0 up 45 lctrl 0.393884598143
+boglarka SNARC line dot CD 0 down 40 delete 0.341130403043
+boglarka SNARC line dot CD 0 down 40 delete 0.507590532929
+boglarka SNARC line dot CD 0 up 5 lctrl 0.330058258422
+boglarka SNARC line dot CD 0 down 20 delete 0.341282287194
+boglarka SNARC line dot CD 0 up 25 lctrl 0.340497669069
+boglarka SNARC line dot CD 0 down 20 delete 0.304858787986
+boglarka SNARC line dot CD 0 up 15 lctrl 0.305987770176
+boglarka SNARC line dot CD 0 down 30 delete 0.299510646064
+boglarka SNARC line dot CD 0 down 20 delete 0.441694509178
+boglarka SNARC line dot CD 0 down 45 delete 1.16605347232
+boglarka SNARC line dot CD 0 up 20 lctrl 0.433296085554
+boglarka SNARC line dot CD 0 down 20 delete 0.36169880673
+boglarka SNARC line dot CD 0 up 25 lctrl 0.354151494292
+boglarka SNARC line dot CD 0 down 5 delete 0.274740230858
+boglarka SNARC line dot CD 0 up 35 lctrl 0.418160164985
+boglarka SNARC line dot CD 0 down 15 delete 0.270293594864
+boglarka SNARC line dot CD 0 down 20 delete 0.417701362863
+boglarka SNARC line dot CD 0 down 15 delete 0.42379702678
+boglarka SNARC line dot CD 0 down 15 delete 0.435905763234
+boglarka SNARC line dot CD 0 up 35 lctrl 0.369889002082
+boglarka SNARC line dot CD 0 up 15 lctrl 0.398899224865
+boglarka SNARC line dot CD 0 up 35 lctrl 0.356433606154
+boglarka SNARC line dot CD 0 down 15 delete 0.384271451274
+boglarka SNARC line dot CD 0 down 15 delete 0.360152318106
+boglarka SNARC line dot CD 0 down 5 delete 0.352090909315
+boglarka SNARC line dot CD 0 down 45 delete 0.342278983189
+boglarka SNARC line dot CD 0 down 10 delete 0.383015782303
+boglarka SNARC line dot CD 0 up 30 lctrl 0.475469134797
+boglarka SNARC line dot CD 0 up 45 lctrl 0.38922903395
+boglarka SNARC line dot CD 0 down 40 delete 0.369878153213
+boglarka SNARC line dot CD 0 down 25 delete 0.303791749331
+boglarka SNARC line dot CD 0 up 45 lctrl 0.339930728229
+boglarka SNARC line dot CD 0 down 40 delete 0.400022957605
+boglarka SNARC line dot CD 0 down 25 delete 0.393569631009
+boglarka SNARC line dot CD 0 up 20 lctrl 0.777930322971
+boglarka SNARC line dot CD 0 down 35 delete 0.460949849883
+boglarka SNARC line dot CD 0 up 10 lctrl 0.541306714646
+boglarka SNARC line dot CD 0 down 5 delete 0.340481220785
+boglarka SNARC line dot CD 0 down 45 delete 0.45030991016
+boglarka SNARC line dot CD 0 up 10 lctrl 0.314836596801
+boglarka SNARC line dot CD 0 down 20 delete 0.381192472565
+boglarka SNARC line dot CD 0 down 25 delete 0.396391736524
+boglarka SNARC line dot CD 0 down 30 delete 0.377433514814
+boglarka SNARC line dot CD 0 up 5 lctrl 0.48324532335
+boglarka SNARC line dot CD 0 up 35 lctrl 0.367000053544
+boglarka SNARC line dot CD 0 down 10 delete 0.415325810751
+boglarka SNARC line dot CD 0 down 20 delete 0.389744880122
+boglarka SNARC line dot CD 0 down 20 delete 0.565048937144
+boglarka SNARC line dot CD 0 down 40 delete 0.401682484433
+boglarka SNARC line dot CD 0 up 30 lctrl 0.539169837628
+boglarka SNARC line dot CD 0 up 30 lctrl 0.550038303503
+boglarka SNARC line dot CD 0 up 25 lctrl 0.377199039282
+boglarka SNARC line dot CD 0 down 25 delete 0.385015123671
+boglarka SNARC line dot CD 0 down 40 delete 0.373251101248
+boglarka SNARC line dot CD 0 down 5 delete 0.364110055114
+boglarka SNARC line dot CD 0 down 25 delete 0.430505476754
+boglarka SNARC line dot CD 0 up 15 lctrl 0.566914242498
+boglarka SNARC line dot CD 0 down 20 delete 0.391850260427
+boglarka SNARC line dot CD 0 down 45 delete 0.346386854531
+boglarka SNARC line dot CD 0 up 30 lctrl 0.423386519617
+boglarka SNARC line dot CD 0 up 30 lctrl 0.390138239074
+boglarka SNARC line dot CD 0 up 40 lctrl 0.361608866115
+boglarka SNARC line dot CD 0 down 10 delete 0.351965272424
+boglarka SNARC line dot CD 0 up 30 lctrl 0.42953922758
+boglarka SNARC line dot CD 0 down 15 delete 0.386244545381
+boglarka SNARC line dot CD 0 down 15 delete 0.486912590672
+boglarka SNARC line dot CD 0 down 25 delete 0.383548076758
+boglarka SNARC line dot CD 0 down 35 delete 0.34448865261
+boglarka SNARC line dot CD 0 up 40 lctrl 0.466056517002
+boglarka SNARC line dot CD 0 down 20 delete 0.369458896965
+boglarka SNARC line dot CD 0 down 5 delete 0.329791586249
+boglarka SNARC line dot CD 0 down 35 delete 0.450384102418
+boglarka SNARC line dot CD 0 down 20 delete 0.339185306013
+boglarka SNARC line dot CD 0 up 5 lctrl 0.486273557355
+boglarka SNARC line dot CD 0 down 5 delete 0.336734861718
+boglarka SNARC line dot CD 0 down 35 delete 0.392655176433
+boglarka SNARC line dot CD 0 down 45 delete 0.329661049869
+boglarka SNARC line dot CD 0 up 10 lctrl 0.454658556378
+boglarka SNARC line dot CD 0 down 45 delete 0.304041623256
+boglarka SNARC line dot CD 0 up 5 lctrl 0.624702312314
+boglarka SNARC line dot CD 0 up 25 lctrl 0.495171378867
+boglarka SNARC line dot CD 0 down 45 delete 0.339183906159
+boglarka SNARC line dot CD 0 up 5 lctrl 0.568709905121
+boglarka SNARC line dot CD 0 down 45 delete 0.342742334837
+boglarka SNARC line dot CD 0 down 5 delete 0.433579905937
+boglarka SNARC line dot CD 0 up 20 lctrl 0.392778013615
+boglarka SNARC line dot CD 0 down 10 delete 0.335355655638
+boglarka SNARC line dot CD 0 down 5 delete 0.384437333965
+boglarka SNARC line dot CD 0 up 25 lctrl 0.495956696919
+boglarka SNARC line dot CD 0 down 30 delete 0.349479831781
+boglarka SNARC line dot CD 0 up 15 lctrl 0.344071146175
+boglarka SNARC line dot CD 0 up 25 lctrl 0.469169792132
+boglarka SNARC line dot CD 0 down 20 delete 0.371957286257
+boglarka SNARC line dot CD 0 down 5 delete 0.389853718763
+boglarka SNARC line dot CD 0 down 15 delete 0.420274294376
+boglarka SNARC line dot CD 0 down 10 delete 0.389224834389
+{'delay': u'0', 'dateStr': u'05_18_1244', 'task': u'line', 'participant': u'boglarka', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+boglarka SNARC line arabic CD 0 up 7 lctrl 1.94906631493
+boglarka SNARC line arabic CD 0 down 6 delete 0.367940405418
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.474874896803
+boglarka SNARC line arabic CD 0 down 3 delete 0.4681332003
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.550752928933
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.455239145795
+boglarka SNARC line arabic CD 0 down 1 delete 0.454977723075
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.465383887191
+boglarka SNARC line arabic CD 0 down 1 delete 0.43764368188
+boglarka SNARC line arabic CD 0 down 1 delete 0.404498290603
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.579667611684
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.643706029276
+boglarka SNARC line arabic CD 0 down 6 delete 0.398157302285
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.397382133175
+boglarka SNARC line arabic CD 0 down 2 delete 0.381099032316
+boglarka SNARC line arabic CD 0 down 3 delete 0.38389699035
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.348120573619
+boglarka SNARC line arabic CD 0 down 5 delete 0.371081677627
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.43387072559
+boglarka SNARC line arabic CD 0 down 4 delete 0.395452084576
+boglarka SNARC line arabic CD 0 down 1 delete 0.400190940074
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.44147158244
+boglarka SNARC line arabic CD 0 down 9 delete 0.380468048159
+boglarka SNARC line arabic CD 0 down 5 lctrl 0.373889434639
+boglarka SNARC line arabic CD 0 down 3 delete 0.792590643166
+boglarka SNARC line arabic CD 0 down 4 delete 0.468515710387
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.396678706576
+boglarka SNARC line arabic CD 0 down 6 delete 0.496425298021
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.344694781099
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.396499175311
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.416966789517
+boglarka SNARC line arabic CD 0 down 5 delete 0.458639390979
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.375745290978
+boglarka SNARC line arabic CD 0 down 9 delete 0.394070428751
+boglarka SNARC line arabic CD 0 down 9 delete 0.390527398466
+boglarka SNARC line arabic CD 0 down 7 delete 0.647306453571
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.715333404958
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.648284601501
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.413848964861
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.516903061167
+boglarka SNARC line arabic CD 0 down 8 delete 0.54726449295
+boglarka SNARC line arabic CD 0 up 2 delete 0.426680725866
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.44535582712
+boglarka SNARC line arabic CD 0 down 4 delete 0.430578269157
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.347671920435
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.425139136732
+boglarka SNARC line arabic CD 0 down 4 delete 0.462953390814
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.32981188413
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.531244564629
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.539244729813
+boglarka SNARC line arabic CD 0 down 6 delete 0.379004500879
+boglarka SNARC line arabic CD 0 down 9 delete 0.431674004818
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.365839574641
+boglarka SNARC line arabic CD 0 down 2 delete 0.394399394423
+boglarka SNARC line arabic CD 0 down 8 delete 0.436858013867
+boglarka SNARC line arabic CD 0 down 4 delete 0.415995640855
+boglarka SNARC line arabic CD 0 down 1 delete 0.554500687853
+boglarka SNARC line arabic CD 0 down 5 delete 0.47794862606
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.502651148352
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.504414964298
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.420904228642
+boglarka SNARC line arabic CD 0 down 1 delete 0.364936668859
+boglarka SNARC line arabic CD 0 down 2 delete 0.458295026914
+boglarka SNARC line arabic CD 0 down 3 delete 0.436986450464
+boglarka SNARC line arabic CD 0 down 4 delete 0.395794348859
+boglarka SNARC line arabic CD 0 down 9 delete 0.377949011021
+boglarka SNARC line arabic CD 0 down 5 delete 0.405935240657
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.469737782862
+boglarka SNARC line arabic CD 0 down 9 delete 0.370213768194
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.3819942389
+boglarka SNARC line arabic CD 0 down 9 delete 0.337195413658
+boglarka SNARC line arabic CD 0 down 8 delete 0.512601310054
+boglarka SNARC line arabic CD 0 down 8 delete 0.494166283748
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.426516243031
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.401473206271
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.397231298914
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.509035882107
+boglarka SNARC line arabic CD 0 down 3 delete 0.625373892235
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.482378113844
+boglarka SNARC line arabic CD 0 down 1 delete 0.410643299372
+boglarka SNARC line arabic CD 0 down 5 delete 0.397923526682
+boglarka SNARC line arabic CD 0 down 2 delete 0.431982322643
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.381947693757
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.42700689183
+boglarka SNARC line arabic CD 0 down 4 delete 0.376662545264
+boglarka SNARC line arabic CD 0 down 5 delete 0.373801593803
+boglarka SNARC line arabic CD 0 down 6 delete 0.401780124244
+boglarka SNARC line arabic CD 0 down 2 delete 0.341393925544
+boglarka SNARC line arabic CD 0 down 3 delete 0.379987548298
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.722630493508
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.401823169754
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.473035488747
+boglarka SNARC line arabic CD 0 down 7 delete 0.451068980952
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.568327744999
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.481554999737
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.445869223546
+boglarka SNARC line arabic CD 0 down 7 delete 0.364280487331
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.493728479432
+boglarka SNARC line arabic CD 0 down 7 delete 0.396778096207
+boglarka SNARC line arabic CD 0 down 2 delete 0.498062427185
+boglarka SNARC line arabic CD 0 down 3 delete 0.419768947111
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.482220980241
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.401357368359
+boglarka SNARC line arabic CD 0 down 7 delete 0.3472803113
+boglarka SNARC line arabic CD 0 down 5 delete 0.42229113392
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.517406308651
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.444660799645
+boglarka SNARC line arabic CD 0 down 2 delete 0.398448821865
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.749347055635
+boglarka SNARC line arabic CD 0 down 3 delete 0.415719869632
+boglarka SNARC line arabic CD 0 down 4 delete 0.732884073548
+boglarka SNARC line arabic CD 0 down 8 lctrl 0.261132250849
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.419189407585
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.467077010515
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.803344321019
+boglarka SNARC line arabic CD 0 up 5 delete 0.687511658158
+boglarka SNARC line arabic CD 0 down 3 delete 0.655932703423
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.472065739941
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.485337755004
+boglarka SNARC line arabic CD 0 down 4 delete 0.5176866294
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.299108188059
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.521530978242
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.813282583964
+boglarka SNARC line arabic CD 0 down 5 delete 0.46329075561
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.549803827971
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.41688174839
+boglarka SNARC line arabic CD 0 down 2 delete 0.455085161862
+boglarka SNARC line arabic CD 0 down 7 delete 0.53843421439
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.522702306014
+boglarka SNARC line arabic CD 0 down 6 delete 0.493110793888
+boglarka SNARC line arabic CD 0 down 2 delete 0.580357039744
+boglarka SNARC line arabic CD 0 down 3 delete 0.46467906074
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.667921052438
+boglarka SNARC line arabic CD 0 down 7 delete 0.526583401022
+boglarka SNARC line arabic CD 0 down 4 delete 0.503647494384
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.65616157954
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.620226279387
+boglarka SNARC line arabic CD 0 down 8 delete 0.596167689901
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.390197382903
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.401721680342
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.515370921044
+boglarka SNARC line arabic CD 0 down 4 delete 0.425099240894
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.536720093258
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.535833985723
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.410768586298
+boglarka SNARC line arabic CD 0 down 8 delete 0.416982887835
+boglarka SNARC line arabic CD 0 down 7 delete 0.548291285804
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.413939955366
+boglarka SNARC line arabic CD 0 down 1 delete 0.427432447423
+boglarka SNARC line arabic CD 0 down 1 delete 0.42857822786
+boglarka SNARC line arabic CD 0 down 2 delete 0.411365274034
+boglarka SNARC line arabic CD 0 down 9 delete 0.518279817501
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.554756161193
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.428776307192
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.410982413985
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.403409204249
+boglarka SNARC line arabic CD 0 down 7 delete 0.469701036696
+boglarka SNARC line arabic CD 0 down 7 delete 0.452112922016
+boglarka SNARC line arabic CD 0 down 2 delete 0.438100734189
+boglarka SNARC line arabic CD 0 down 4 delete 1.2619175689
+boglarka SNARC line arabic CD 0 down 1 delete 0.412668888001
+boglarka SNARC line arabic CD 0 down 8 delete 0.429738006838
+boglarka SNARC line arabic CD 0 up 8 delete 0.407737552587
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.383135469814
+boglarka SNARC line arabic CD 0 down 2 lctrl 0.523312992289
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.717610967295
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.488799243798
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.396940829225
+boglarka SNARC line arabic CD 0 down 2 delete 0.39671335296
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.454316992022
+boglarka SNARC line arabic CD 0 down 3 delete 0.423443563664
+boglarka SNARC line arabic CD 0 down 5 delete 1.09838068398
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.390449706572
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.485997086203
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.489486922039
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.511985024363
+boglarka SNARC line arabic CD 0 down 4 delete 0.695888734012
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.42217564597
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.588560533708
+boglarka SNARC line arabic CD 0 down 9 delete 0.556301949891
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.468858674598
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.431149059596
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.351333238377
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.347657571932
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.298027850793
+boglarka SNARC line arabic CD 0 down 2 delete 0.387408173958
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.36213521119
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.36350216855
+boglarka SNARC line arabic CD 0 down 4 delete 0.355191935721
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.595046406906
+boglarka SNARC line arabic CD 0 down 4 delete 0.441163264613
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.44061697162
+boglarka SNARC line arabic CD 0 down 2 delete 0.388929465211
+boglarka SNARC line arabic CD 0 down 5 delete 0.422276785417
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.444734291976
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.635171469856
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.375166101418
+boglarka SNARC line arabic CD 0 down 2 delete 0.554072332552
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.380643029899
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.441029928526
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.479501414029
+boglarka SNARC line arabic CD 0 down 7 delete 0.460025596329
+boglarka SNARC line arabic CD 0 down 9 lctrl 0.765270394035
+boglarka SNARC line arabic CD 0 down 3 delete 0.599248068464
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.426610033242
+boglarka SNARC line arabic CD 0 down 1 delete 0.437275870263
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.496489341338
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.48558552915
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.93480250336
+boglarka SNARC line arabic CD 0 down 6 delete 0.338682758455
+boglarka SNARC line arabic CD 0 down 7 delete 0.474001037992
+boglarka SNARC line arabic CD 0 down 1 delete 0.416484189875
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.372825195691
+boglarka SNARC line arabic CD 0 down 4 delete 0.413466454775
+boglarka SNARC line arabic CD 0 down 6 delete 0.418155615462
+boglarka SNARC line arabic CD 0 up 2 delete 0.400061453587
+boglarka SNARC line arabic CD 0 down 3 delete 0.418474082229
+boglarka SNARC line arabic CD 0 down 1 lctrl 0.324404598379
+boglarka SNARC line arabic CD 0 down 9 delete 0.428577877899
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.501981668214
+boglarka SNARC line arabic CD 0 down 1 delete 0.39087771191
+boglarka SNARC line arabic CD 0 down 1 delete 0.458227133999
+boglarka SNARC line arabic CD 0 down 8 delete 0.458270179506
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.423891516921
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.454915429576
+boglarka SNARC line arabic CD 0 down 9 delete 0.469166992423
+boglarka SNARC line arabic CD 0 down 4 delete 0.489146757536
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.458535451826
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.479380676627
+boglarka SNARC line arabic CD 0 down 5 delete 0.529473749415
+boglarka SNARC line arabic CD 0 down 9 delete 0.438893751438
+boglarka SNARC line arabic CD 0 down 5 delete 0.359346002246
+boglarka SNARC line arabic CD 0 up 8 delete 0.375954219176
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.586183231781
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.432930373716
+boglarka SNARC line arabic CD 0 down 5 delete 0.378656987143
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.466127909553
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.411343576297
+boglarka SNARC line arabic CD 0 down 4 delete 0.443347736664
+boglarka SNARC line arabic CD 0 down 2 delete 0.392787812592
+boglarka SNARC line arabic CD 0 down 6 delete 0.389561149294
+boglarka SNARC line arabic CD 0 down 9 delete 0.394126072944
+boglarka SNARC line arabic CD 0 down 8 delete 0.396153061429
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.408418581521
+boglarka SNARC line arabic CD 0 down 1 delete 0.445493712732
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.511018075264
+boglarka SNARC line arabic CD 0 down 9 delete 0.443322539293
+boglarka SNARC line arabic CD 0 up 4 delete 0.47305193703
+boglarka SNARC line arabic CD 0 down 2 delete 0.508467191448
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.374461274965
+boglarka SNARC line arabic CD 0 down 7 delete 0.431132611311
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.364266488792
+boglarka SNARC line arabic CD 0 down 8 delete 0.463565476943
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.342264984649
+boglarka SNARC line arabic CD 0 down 4 delete 0.511866386743
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.385648557574
+boglarka SNARC line arabic CD 0 down 9 delete 0.378380865957
+boglarka SNARC line arabic CD 0 down 2 lctrl 0.300355107946
+boglarka SNARC line arabic CD 0 down 9 delete 0.504163340556
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.400540553592
+boglarka SNARC line arabic CD 0 down 5 delete 0.329299887557
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.346291314501
+boglarka SNARC line arabic CD 0 down 7 delete 0.353140449794
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.301982438134
+boglarka SNARC line arabic CD 0 up 1 delete 0.288932299914
+boglarka SNARC line arabic CD 0 down 3 delete 0.606705440288
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.325628770637
+boglarka SNARC line arabic CD 0 down 7 delete 0.660820293402
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.366466009271
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.53809929934
+boglarka SNARC line arabic CD 0 down 4 delete 0.449121434178
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.917230137034
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.459050248108
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.416621725522
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.35872726681
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.370490239344
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.377103149287
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.32715706116
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.393134276437
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.345042294837
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.415082586132
+boglarka SNARC line arabic CD 0 down 6 delete 0.701801017065
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.630438563736
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.382952438913
+boglarka SNARC line arabic CD 0 down 2 delete 0.469532354298
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.426273368374
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.438632328716
+boglarka SNARC line arabic CD 0 up 6 lctrl 0.575381958892
+boglarka SNARC line arabic CD 0 down 5 delete 0.497219365159
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.458800374181
+boglarka SNARC line arabic CD 0 up 1 delete 0.426838209432
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.351835785936
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.408965574443
+boglarka SNARC line arabic CD 0 down 6 delete 0.44919702629
+boglarka SNARC line arabic CD 0 down 6 delete 0.427952143194
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.462452943037
+boglarka SNARC line arabic CD 0 down 6 delete 0.509725310163
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.307269336445
+boglarka SNARC line arabic CD 0 down 6 delete 0.447360767905
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.494669531234
+boglarka SNARC line arabic CD 0 down 9 delete 0.470767725388
+boglarka SNARC line arabic CD 0 down 7 delete 0.592355537699
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.508621875308
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.412035804064
+boglarka SNARC line arabic CD 0 down 8 delete 0.437443152807
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.470830718816
+boglarka SNARC line arabic CD 0 down 7 delete 0.43872016955
+boglarka SNARC line arabic CD 0 down 2 delete 1.34650724197
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.589286707933
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.355118093426
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.439528235229
+boglarka SNARC line arabic CD 0 down 7 delete 0.425891558216
+boglarka SNARC line arabic CD 0 down 8 delete 0.399759785067
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.370160573744
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.34474412595
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.469093500094
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.388664542856
+boglarka SNARC line arabic CD 0 down 6 delete 0.44655305219
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.420717698109
+boglarka SNARC line arabic CD 0 down 2 delete 0.434707138311
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.249191496867
+boglarka SNARC line arabic CD 0 down 8 delete 0.516279076277
+boglarka SNARC line arabic CD 0 down 9 delete 0.432025018188
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.325751257857
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.299855010129
+boglarka SNARC line arabic CD 0 down 1 delete 0.364507263666
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.386682349697
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.35217595044
+boglarka SNARC line arabic CD 0 down 1 delete 0.401268827598
+boglarka SNARC line arabic CD 0 down 3 delete 0.434471262923
+boglarka SNARC line arabic CD 0 up 9 delete 0.437805714975
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.367559295188
+boglarka SNARC line arabic CD 0 up 9 lctrl 0.397337687813
+boglarka SNARC line arabic CD 0 down 5 delete 0.432439724915
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.422682043129
+boglarka SNARC line arabic CD 0 down 4 delete 0.434514658396
+boglarka SNARC line arabic CD 0 down 5 delete 0.592790192342
+boglarka SNARC line arabic CD 0 down 8 delete 0.508324406348
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.552866008433
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.333563842612
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.423256683165
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.35899778858
+boglarka SNARC line arabic CD 0 down 1 delete 0.455379831115
+boglarka SNARC line arabic CD 0 up 7 lctrl 0.412834770692
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.392557886586
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.619992153819
+boglarka SNARC line arabic CD 0 down 9 delete 0.443412479908
+boglarka SNARC line arabic CD 0 down 3 delete 0.502848877719
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.400124796977
+boglarka SNARC line arabic CD 0 down 6 delete 0.519725866607
+boglarka SNARC line arabic CD 0 up 5 lctrl 0.385958275254
+boglarka SNARC line arabic CD 0 down 5 lctrl 0.398718293747
+boglarka SNARC line arabic CD 0 up 4 lctrl 0.585120042722
+boglarka SNARC line arabic CD 0 down 8 delete 0.326464483431
+boglarka SNARC line arabic CD 0 up 2 lctrl 0.392494543194
+boglarka SNARC line arabic CD 0 down 9 delete 0.346858605304
+boglarka SNARC line arabic CD 0 up 1 lctrl 0.726987188888
+boglarka SNARC line arabic CD 0 up 3 lctrl 0.514204492762
+boglarka SNARC line arabic CD 0 up 8 lctrl 0.404289362405
+boglarka SNARC line arabic CD 0 down 3 delete 0.443244497435
+{'participant': u'boglarka', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1252', 'autopilot': False, 'exp_id': u'SNARC'}
+boglarka SNARC_only DC 1 lctrl 2.44209136777
+boglarka SNARC_only DC 5 delete 0.623079531651
+boglarka SNARC_only DC 4 delete 0.949836934516
+boglarka SNARC_only DC 8 delete 0.981140467993
+boglarka SNARC_only DC 4 delete 0.603971875535
+boglarka SNARC_only DC 6 delete 0.699775078472
+boglarka SNARC_only DC 6 delete 0.386116808711
+boglarka SNARC_only DC 8 delete 0.502322882607
+boglarka SNARC_only DC 6 delete 0.460656230522
+boglarka SNARC_only DC 6 delete 0.350561918864
+boglarka SNARC_only DC 4 lctrl 0.460535843084
+boglarka SNARC_only DC 3 lctrl 0.571809881638
+boglarka SNARC_only DC 3 lctrl 0.348611922345
+boglarka SNARC_only DC 8 delete 0.423603496974
+boglarka SNARC_only DC 9 lctrl 0.712981300401
+boglarka SNARC_only DC 9 lctrl 0.411160545396
+boglarka SNARC_only DC 7 lctrl 0.701083941891
+boglarka SNARC_only DC 2 delete 0.610483646031
+boglarka SNARC_only DC 6 delete 0.778220792659
+boglarka SNARC_only DC 5 lctrl 0.635039883588
+boglarka SNARC_only DC 7 lctrl 0.623634923697
+boglarka SNARC_only DC 8 delete 0.559834131309
+boglarka SNARC_only DC 3 lctrl 0.858182898615
+boglarka SNARC_only DC 6 lctrl 1.15277725769
+boglarka SNARC_only DC 4 delete 0.9124916315
+boglarka SNARC_only DC 6 delete 0.370448243726
+boglarka SNARC_only DC 1 lctrl 0.508511986774
+boglarka SNARC_only DC 7 lctrl 0.569419981026
+boglarka SNARC_only DC 3 lctrl 0.736642331372
+boglarka SNARC_only DC 4 delete 0.560131250304
+boglarka SNARC_only DC 4 delete 0.37430204158
+boglarka SNARC_only DC 5 delete 0.488611663373
+boglarka SNARC_only DC 3 lctrl 0.525772185672
+boglarka SNARC_only DC 3 lctrl 0.468121301543
+boglarka SNARC_only DC 9 lctrl 0.569236950125
+boglarka SNARC_only DC 2 delete 0.576094134576
+boglarka SNARC_only DC 9 lctrl 0.733369122932
+boglarka SNARC_only DC 2 delete 0.561764879834
+boglarka SNARC_only DC 6 lctrl 0.591560420669
+boglarka SNARC_only DC 6 delete 0.4867887036
+boglarka SNARC_only DC 9 lctrl 0.593531065033
+boglarka SNARC_only DC 4 delete 0.599824458317
+boglarka SNARC_only DC 8 delete 0.952932361508
+boglarka SNARC_only DC 5 lctrl 0.487737104633
+boglarka SNARC_only DC 5 lctrl 0.539630039604
+boglarka SNARC_only DC 5 lctrl 0.365645694872
+boglarka SNARC_only DC 3 lctrl 0.951036959292
+boglarka SNARC_only DC 2 delete 0.819847198944
+boglarka SNARC_only DC 5 lctrl 0.564878854892
+boglarka SNARC_only DC 2 delete 0.886593283991
+boglarka SNARC_only DC 7 lctrl 0.643150287267
+boglarka SNARC_only DC 2 delete 0.469260432674
+boglarka SNARC_only DC 8 delete 0.694620466355
+boglarka SNARC_only DC 3 lctrl 0.598653480509
+boglarka SNARC_only DC 6 delete 0.590062926933
+boglarka SNARC_only DC 9 lctrl 0.526294681151
+boglarka SNARC_only DC 6 lctrl 0.447004155116
+boglarka SNARC_only DC 9 lctrl 0.545113967357
+boglarka SNARC_only DC 1 delete 0.561246583919
+boglarka SNARC_only DC 8 delete 0.730990071186
+boglarka SNARC_only DC 5 lctrl 0.634596129894
+boglarka SNARC_only DC 5 lctrl 0.364617852129
+boglarka SNARC_only DC 2 delete 0.480973360429
+boglarka SNARC_only DC 7 lctrl 0.524794737668
+boglarka SNARC_only DC 7 lctrl 0.363958170965
+boglarka SNARC_only DC 3 lctrl 0.603158210441
+boglarka SNARC_only DC 2 delete 0.344771773067
+boglarka SNARC_only DC 7 lctrl 0.41703468243
+boglarka SNARC_only DC 8 delete 0.314677363418
+boglarka SNARC_only DC 6 delete 0.388896218681
+boglarka SNARC_only DC 3 lctrl 0.405535232399
+boglarka SNARC_only DC 3 lctrl 0.370631274627
+boglarka SNARC_only DC 9 lctrl 0.545689657283
+boglarka SNARC_only DC 7 lctrl 0.463665216535
+boglarka SNARC_only DC 7 lctrl 0.361358642225
+boglarka SNARC_only DC 8 delete 0.557635660718
+boglarka SNARC_only DC 9 lctrl 0.515251233533
+boglarka SNARC_only DC 9 lctrl 0.373234303001
+boglarka SNARC_only DC 8 delete 0.427478642603
+boglarka SNARC_only DC 9 lctrl 0.630799026121
+boglarka SNARC_only DC 7 lctrl 0.527214385178
+boglarka SNARC_only DC 3 delete 0.419443831037
+boglarka SNARC_only DC 8 delete 0.460842061131
+boglarka SNARC_only DC 2 delete 0.568203857927
+boglarka SNARC_only DC 3 lctrl 0.454605011966
+boglarka SNARC_only DC 8 delete 0.555773155073
+boglarka SNARC_only DC 9 lctrl 0.580390986199
+boglarka SNARC_only DC 1 lctrl 0.447517201581
+boglarka SNARC_only DC 4 delete 0.521062727104
+boglarka SNARC_only DC 5 lctrl 0.390579892988
+boglarka SNARC_only DC 2 delete 0.475768353572
+boglarka SNARC_only DC 5 lctrl 0.459083144673
+boglarka SNARC_only DC 9 lctrl 0.547642803474
+boglarka SNARC_only DC 2 delete 0.437533093422
+boglarka SNARC_only DC 1 lctrl 0.792017053021
+boglarka SNARC_only DC 1 lctrl 0.460973297437
+boglarka SNARC_only DC 9 lctrl 0.681772956992
+boglarka SNARC_only DC 5 lctrl 0.695987073748
+boglarka SNARC_only DC 1 lctrl 0.45496722417
+boglarka SNARC_only DC 4 delete 0.466630457111
+boglarka SNARC_only DC 7 lctrl 0.439011339166
+boglarka SNARC_only DC 1 lctrl 0.442632411308
+boglarka SNARC_only DC 8 delete 0.423092550292
+boglarka SNARC_only DC 1 lctrl 0.438317711547
+boglarka SNARC_only DC 2 delete 0.361149014101
+boglarka SNARC_only DC 3 lctrl 0.295917571002
+boglarka SNARC_only DC 1 lctrl 0.397787040922
+boglarka SNARC_only DC 9 delete 0.362646507838
+boglarka SNARC_only DC 4 delete 0.38189764898
+boglarka SNARC_only DC 9 lctrl 0.39412467309
+boglarka SNARC_only DC 2 lctrl 0.40494134437
+boglarka SNARC_only DC 7 lctrl 0.785845796991
+boglarka SNARC_only DC 3 lctrl 0.461713470198
+boglarka SNARC_only DC 9 lctrl 0.491575854059
+boglarka SNARC_only DC 8 delete 0.457358874601
+boglarka SNARC_only DC 6 delete 0.434311329613
+boglarka SNARC_only DC 8 delete 0.428667818513
+boglarka SNARC_only DC 1 lctrl 0.657348655668
+boglarka SNARC_only DC 4 delete 0.395140267114
+boglarka SNARC_only DC 2 delete 0.516793872559
+boglarka SNARC_only DC 5 lctrl 0.555415142429
+boglarka SNARC_only DC 3 lctrl 0.44175400297
+boglarka SNARC_only DC 9 lctrl 0.519783960544
+boglarka SNARC_only DC 9 lctrl 0.414201378086
+boglarka SNARC_only DC 6 delete 0.567578823151
+boglarka SNARC_only DC 2 delete 0.560679993043
+boglarka SNARC_only DC 1 lctrl 0.455315437835
+boglarka SNARC_only DC 4 delete 0.537885121688
+boglarka SNARC_only DC 6 delete 0.568762049681
+boglarka SNARC_only DC 6 delete 0.397044768379
+boglarka SNARC_only DC 5 lctrl 0.548809231757
+boglarka SNARC_only DC 2 delete 0.630341623852
+boglarka SNARC_only DC 7 lctrl 0.498721758384
+boglarka SNARC_only DC 4 delete 0.56809046976
+boglarka SNARC_only DC 6 delete 0.597203231844
+boglarka SNARC_only DC 4 delete 0.639107509132
+boglarka SNARC_only DC 1 lctrl 0.442145962068
+boglarka SNARC_only DC 3 lctrl 0.475369045242
+boglarka SNARC_only DC 6 delete 0.41725270968
+boglarka SNARC_only DC 2 delete 0.422855974979
+boglarka SNARC_only DC 8 delete 0.440226412375
+boglarka SNARC_only DC 2 delete 0.448826414964
+boglarka SNARC_only DC 2 delete 0.304457379872
+boglarka SNARC_only DC 3 delete 0.326037527984
+boglarka SNARC_only DC 2 delete 0.412339572365
+boglarka SNARC_only DC 3 lctrl 0.992174466593
+boglarka SNARC_only DC 2 delete 0.447125242481
+boglarka SNARC_only DC 7 lctrl 0.492819624271
+boglarka SNARC_only DC 1 lctrl 0.52159222185
+boglarka SNARC_only DC 6 delete 0.425778520012
+boglarka SNARC_only DC 7 lctrl 0.471046646282
+boglarka SNARC_only DC 5 lctrl 0.590573173689
+boglarka SNARC_only DC 8 delete 0.393311357959
+boglarka SNARC_only DC 4 delete 0.372685210297
+boglarka SNARC_only DC 6 delete 0.382906943662
+boglarka SNARC_only DC 1 lctrl 0.416093630629
+boglarka SNARC_only DC 5 lctrl 0.503142847043
+boglarka SNARC_only DC 8 delete 0.398939470666
+boglarka SNARC_only DC 1 lctrl 0.400210188067
+boglarka SNARC_only DC 5 delete 0.36657239817
+boglarka SNARC_only DC 5 lctrl 0.483211726856
+boglarka SNARC_only DC 1 lctrl 0.427489841435
+boglarka SNARC_only DC 7 lctrl 0.437126435856
+boglarka SNARC_only DC 1 lctrl 0.402907706581
+boglarka SNARC_only DC 5 lctrl 0.428637721654
+boglarka SNARC_only DC 7 lctrl 0.563744973211
+boglarka SNARC_only DC 1 lctrl 0.383370645273
+boglarka SNARC_only DC 3 delete 0.481227783881
+boglarka SNARC_only DC 5 lctrl 0.396279748207
+boglarka SNARC_only DC 2 delete 0.432977968749
+boglarka SNARC_only DC 9 lctrl 0.494851862208
+boglarka SNARC_only DC 1 lctrl 0.49465483277
+boglarka SNARC_only DC 2 delete 0.523666455405
+boglarka SNARC_only DC 3 lctrl 0.480857522516
+boglarka SNARC_only DC 3 lctrl 0.35230368711
+boglarka SNARC_only DC 3 lctrl 0.324385700353
+boglarka SNARC_only DC 8 delete 0.531247714302
+boglarka SNARC_only DC 8 delete 0.386428626172
+boglarka SNARC_only DC 6 delete 0.508531934693
+boglarka SNARC_only DC 9 lctrl 0.462254513741
+boglarka SNARC_only DC 2 delete 1.20894219688
+boglarka SNARC_only DC 1 lctrl 0.392052189354
+boglarka SNARC_only DC 9 lctrl 0.346431299895
+boglarka SNARC_only DC 9 lctrl 0.348670716212
+boglarka SNARC_only DC 9 lctrl 0.366582547111
+boglarka SNARC_only DC 4 delete 0.633468547558
+boglarka SNARC_only DC 7 lctrl 0.43287962901
+boglarka SNARC_only DC 2 delete 0.492160993001
+boglarka SNARC_only DC 2 delete 0.362534169561
+boglarka SNARC_only DC 6 delete 0.559151002592
+boglarka SNARC_only DC 8 lctrl 0.412328023571
+boglarka SNARC_only DC 8 delete 0.559000518297
+boglarka SNARC_only DC 6 delete 0.518670376747
+boglarka SNARC_only DC 3 lctrl 0.457012060791
+boglarka SNARC_only DC 4 lctrl 0.683365290832
+boglarka SNARC_only DC 4 delete 0.370470991353
+boglarka SNARC_only DC 9 lctrl 0.396418683709
+boglarka SNARC_only DC 4 delete 0.356121438728
+boglarka SNARC_only DC 1 lctrl 0.606705090324
+boglarka SNARC_only DC 5 lctrl 0.47726794709
+boglarka SNARC_only DC 9 lctrl 0.444597456255
+boglarka SNARC_only DC 7 lctrl 0.445239639244
+boglarka SNARC_only DC 6 delete 0.498608020254
+boglarka SNARC_only DC 9 lctrl 0.573012356161
+boglarka SNARC_only DC 7 lctrl 0.448520546881
+boglarka SNARC_only DC 1 lctrl 0.516727729462
+boglarka SNARC_only DC 3 lctrl 0.694922484839
+boglarka SNARC_only DC 3 lctrl 0.580566317905
+boglarka SNARC_only DC 4 delete 0.421616054364
+boglarka SNARC_only DC 7 lctrl 0.382927241542
+boglarka SNARC_only DC 4 delete 0.689429458036
+boglarka SNARC_only DC 8 lctrl 0.43681531832
+boglarka SNARC_only DC 4 delete 0.436373664408
+boglarka SNARC_only DC 8 delete 0.362534169559
+boglarka SNARC_only DC 9 lctrl 0.415461946546
+boglarka SNARC_only DC 1 lctrl 0.617546958976
+boglarka SNARC_only DC 2 delete 0.435702784414
+boglarka SNARC_only DC 3 lctrl 0.509318652599
+boglarka SNARC_only DC 1 lctrl 0.401137941255
+boglarka SNARC_only DC 1 lctrl 0.372759752521
+boglarka SNARC_only DC 3 lctrl 0.495508393698
+boglarka SNARC_only DC 4 delete 0.432886978244
+boglarka SNARC_only DC 6 lctrl 0.384509426442
+boglarka SNARC_only DC 5 lctrl 0.465638660606
+boglarka SNARC_only DC 9 lctrl 0.495014945191
+boglarka SNARC_only DC 1 lctrl 0.38477364887
+boglarka SNARC_only DC 6 delete 0.465594565208
+boglarka SNARC_only DC 2 delete 0.401102944907
+boglarka SNARC_only DC 2 delete 0.416562581695
+boglarka SNARC_only DC 7 lctrl 0.448730874932
+boglarka SNARC_only DC 7 lctrl 0.34312169525
+boglarka SNARC_only DC 6 delete 0.437143584066
+boglarka SNARC_only DC 3 delete 0.420174204823
+boglarka SNARC_only DC 8 delete 0.606171396015
+boglarka SNARC_only DC 9 lctrl 0.516412412364
+boglarka SNARC_only DC 8 delete 0.5617211344
+boglarka SNARC_only DC 4 delete 0.553283864829
+boglarka SNARC_only DC 8 delete 0.480757782925
+boglarka SNARC_only DC 5 lctrl 0.497300556686
+boglarka SNARC_only DC 5 lctrl 0.365421718245
+boglarka SNARC_only DC 3 delete 0.429539577544
+boglarka SNARC_only DC 5 delete 0.565795759212
+boglarka SNARC_only DC 1 lctrl 0.574532947488
+boglarka SNARC_only DC 9 lctrl 0.389231483696
+boglarka SNARC_only DC 9 lctrl 0.342999208033
+boglarka SNARC_only DC 2 delete 0.493355418363
+boglarka SNARC_only DC 7 lctrl 0.508650922277
+boglarka SNARC_only DC 1 lctrl 0.684669254762
+boglarka SNARC_only DC 2 lctrl 0.54364342081
+boglarka SNARC_only DC 8 delete 0.538776828638
+boglarka SNARC_only DC 8 delete 1.35959342642
+boglarka SNARC_only DC 4 delete 0.39846841982
+boglarka SNARC_only DC 4 delete 0.374790940565
+boglarka SNARC_only DC 1 lctrl 0.824512212152
+boglarka SNARC_only DC 7 lctrl 0.562471456104
+boglarka SNARC_only DC 4 delete 0.482160086594
+boglarka SNARC_only DC 6 delete 0.668900600222
+boglarka SNARC_only DC 3 lctrl 0.410064459775
+boglarka SNARC_only DC 6 delete 0.491234639665
+boglarka SNARC_only DC 5 lctrl 0.614582768287
+boglarka SNARC_only DC 4 delete 0.665478307339
+boglarka SNARC_only DC 6 delete 0.623155123762
+boglarka SNARC_only DC 1 lctrl 0.402473751865
+boglarka SNARC_only DC 7 lctrl 0.557618512508
+boglarka SNARC_only DC 7 lctrl 0.327252951156
+boglarka SNARC_only DC 4 delete 0.432995466923
+boglarka SNARC_only DC 1 lctrl 0.660873487852
+boglarka SNARC_only DC 4 delete 0.602946132571
+boglarka SNARC_only DC 7 lctrl 0.449655828415
+boglarka SNARC_only DC 2 delete 0.789840980093
+boglarka SNARC_only DC 2 delete 0.634554134276
+boglarka SNARC_only DC 4 delete 0.553064437725
+boglarka SNARC_only DC 8 delete 0.458237282939
+boglarka SNARC_only DC 2 delete 0.458610344011
+boglarka SNARC_only DC 7 lctrl 0.481019905574
+boglarka SNARC_only DC 7 lctrl 0.479100705841
+boglarka SNARC_only DC 5 lctrl 0.474978136031
+boglarka SNARC_only DC 1 lctrl 0.464384391487
+boglarka SNARC_only DC 7 lctrl 0.603868286345
+boglarka SNARC_only DC 9 lctrl 0.472578086477
+boglarka SNARC_only DC 6 delete 0.69815159788
+boglarka SNARC_only DC 1 lctrl 0.450352605705
+boglarka SNARC_only DC 8 delete 0.479688994454
+boglarka SNARC_only DC 1 lctrl 0.392665675337
+boglarka SNARC_only DC 1 lctrl 0.331252333819
+boglarka SNARC_only DC 3 delete 0.452845745547
+boglarka SNARC_only DC 7 lctrl 0.467219445653
+boglarka SNARC_only DC 8 delete 0.721661094665
+boglarka SNARC_only DC 9 lctrl 0.64342605849
+boglarka SNARC_only DC 3 lctrl 0.421071511188
+boglarka SNARC_only DC 1 lctrl 0.404677471906
+boglarka SNARC_only DC 1 lctrl 0.316547918224
+boglarka SNARC_only DC 5 delete 0.439294459622
+boglarka SNARC_only DC 2 delete 0.534626611712
+boglarka SNARC_only DC 8 delete 0.569208953046
+boglarka SNARC_only DC 4 delete 0.48217478506
+boglarka SNARC_only DC 5 lctrl 0.564996442621
+boglarka SNARC_only DC 2 delete 1.04835585407
+boglarka SNARC_only DC 5 lctrl 0.476483678927
+boglarka SNARC_only DC 3 lctrl 0.635987584696
+boglarka SNARC_only DC 7 lctrl 0.737555036132
+boglarka SNARC_only DC 5 lctrl 0.532326301749
+boglarka SNARC_only DC 5 lctrl 0.365226088657
+boglarka SNARC_only DC 3 lctrl 0.457403319964
+boglarka SNARC_only DC 6 delete 0.545252902861
+boglarka SNARC_only DC 4 delete 0.356554343554
+boglarka SNARC_only DC 4 delete 0.36276339564
+boglarka SNARC_only DC 8 delete 0.38882692591
+boglarka SNARC_only DC 2 delete 0.345930502152
+boglarka SNARC_only DC 1 lctrl 0.516175487088
+boglarka SNARC_only DC 9 lctrl 0.48959051123
+boglarka SNARC_only DC 3 lctrl 0.351130609521
+boglarka SNARC_only DC 7 lctrl 0.362973723693
+boglarka SNARC_only DC 8 delete 0.496594680346
+boglarka SNARC_only DC 3 delete 0.388103901358
+boglarka SNARC_only DC 4 delete 0.662653052155
+boglarka SNARC_only DC 6 delete 0.456813631497
+boglarka SNARC_only DC 8 delete 0.340584809974
+boglarka SNARC_only DC 6 delete 0.382547881129
+boglarka SNARC_only DC 8 delete 0.350660258602
+boglarka SNARC_only DC 5 lctrl 0.533052825936
+boglarka SNARC_only DC 7 lctrl 0.565380702525
+boglarka SNARC_only DC 2 delete 0.514184194881
+boglarka SNARC_only DC 2 delete 0.406518979744
+boglarka SNARC_only DC 7 lctrl 0.687576751367
+boglarka SNARC_only DC 8 delete 0.448056145342
+boglarka SNARC_only DC 9 lctrl 0.486627370434
+boglarka SNARC_only DC 6 delete 0.546147059555
+boglarka SNARC_only DC 5 lctrl 0.442515873468
+boglarka SNARC_only DC 7 lctrl 0.42348030983
+boglarka SNARC_only DC 5 lctrl 0.50783795711
+boglarka SNARC_only DC 9 lctrl 0.447295674696
+boglarka SNARC_only DC 3 lctrl 0.29723728329
+boglarka SNARC_only DC 5 lctrl 0.463316302943
+boglarka SNARC_only DC 4 delete 0.45706805495
+boglarka SNARC_only DC 5 lctrl 0.426578886494
+boglarka SNARC_only DC 4 lctrl 0.449504994154
+boglarka SNARC_only DC 6 delete 0.418151065935
+boglarka SNARC_only DC 6 delete 0.504672187457
+boglarka SNARC_only DC 3 lctrl 0.81885155284
+boglarka SNARC_only DC 6 delete 0.465223603916
+boglarka SNARC_only DC 5 lctrl 0.428905093753
+boglarka SNARC_only DC 2 delete 1.90321584943
+boglarka SNARC_only DC 7 lctrl 0.555014434243
+boglarka SNARC_only DC 3 delete 0.360235959377
+boglarka SNARC_only DC 8 delete 0.578886843157
+boglarka SNARC_only DC 9 lctrl 0.422222891042
+boglarka SNARC_only DC 4 delete 0.487200610616
+boglarka SNARC_only DC 6 delete 0.53266296662
+boglarka SNARC_only DC 9 lctrl 0.444651000667
+boglarka SNARC_only DC 4 delete 0.481001707472
+boglarka SNARC_only DC 9 lctrl 0.424262828175
+boglarka SNARC_only DC 6 delete 0.413236178805
+boglarka SNARC_only DC 4 delete 0.412433712541
+boglarka SNARC_only DC 7 lctrl 0.452544077025
+boglarka SNARC_only DC 1 lctrl 0.493491904121
+boglarka SNARC_only DC 8 delete 0.491237789336
+boglarka SNARC_only DC 5 lctrl 0.402021249083
+boglarka SNARC_only DC 5 lctrl 0.337951684742
+boglarka SNARC_only DC 7 lctrl 0.404938194699
+{'participant': u'boglarka', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1302', 'autopilot': False, 'exp_id': u'SNARC'}
+boglarka SNARC_only CD 7 delete 1.85801141651
+boglarka SNARC_only CD 5 delete 1.00729708855
+boglarka SNARC_only CD 4 delete 0.560270885733
+boglarka SNARC_only CD 2 lctrl 0.526150846159
+boglarka SNARC_only CD 6 lctrl 0.561441163614
+boglarka SNARC_only CD 1 delete 0.848195990748
+boglarka SNARC_only CD 8 lctrl 1.02276897406
+boglarka SNARC_only CD 7 delete 0.516147140046
+boglarka SNARC_only CD 6 lctrl 0.502782034695
+boglarka SNARC_only CD 6 lctrl 0.37534528272
+boglarka SNARC_only CD 3 delete 0.700410612153
+boglarka SNARC_only CD 2 lctrl 0.426818261514
+boglarka SNARC_only CD 3 delete 0.462685318787
+boglarka SNARC_only CD 1 delete 0.501067563599
+boglarka SNARC_only CD 4 lctrl 0.546839637283
+boglarka SNARC_only CD 1 delete 0.462721015061
+boglarka SNARC_only CD 2 lctrl 0.553108533124
+boglarka SNARC_only CD 5 delete 0.543066331029
+boglarka SNARC_only CD 2 lctrl 0.436231929198
+boglarka SNARC_only CD 3 delete 0.589552330215
+boglarka SNARC_only CD 9 lctrl 0.484719369533
+boglarka SNARC_only CD 6 lctrl 0.588753363585
+boglarka SNARC_only CD 6 lctrl 0.37726238267
+boglarka SNARC_only CD 7 delete 0.386757591845
+boglarka SNARC_only CD 9 lctrl 0.493544748604
+boglarka SNARC_only CD 6 lctrl 0.806708519965
+boglarka SNARC_only CD 9 delete 0.443345986847
+boglarka SNARC_only CD 7 delete 0.465047572285
+boglarka SNARC_only CD 9 delete 0.400068802821
+boglarka SNARC_only CD 3 delete 0.534411034208
+boglarka SNARC_only CD 3 delete 0.344593291689
+boglarka SNARC_only CD 9 delete 0.465036373454
+boglarka SNARC_only CD 3 delete 0.35025605078
+boglarka SNARC_only CD 8 delete 0.324149475004
+boglarka SNARC_only CD 9 delete 0.488602914285
+boglarka SNARC_only CD 6 lctrl 0.484306412625
+boglarka SNARC_only CD 4 lctrl 0.431049669967
+boglarka SNARC_only CD 3 delete 0.447000655482
+boglarka SNARC_only CD 6 lctrl 0.420552515345
+boglarka SNARC_only CD 6 lctrl 0.389357820512
+boglarka SNARC_only CD 1 delete 0.455047365807
+boglarka SNARC_only CD 6 lctrl 0.484345258572
+boglarka SNARC_only CD 8 lctrl 0.714633128033
+boglarka SNARC_only CD 3 lctrl 0.393380300766
+boglarka SNARC_only CD 1 delete 0.416812105657
+boglarka SNARC_only CD 4 lctrl 0.556953581894
+boglarka SNARC_only CD 9 delete 0.54941466858
+boglarka SNARC_only CD 4 lctrl 0.507075386684
+boglarka SNARC_only CD 2 lctrl 0.450730566266
+boglarka SNARC_only CD 8 lctrl 0.578164868495
+boglarka SNARC_only CD 6 lctrl 0.571060259863
+boglarka SNARC_only CD 5 delete 0.597337617819
+boglarka SNARC_only CD 4 lctrl 0.450842554581
+boglarka SNARC_only CD 5 delete 0.710927014765
+boglarka SNARC_only CD 5 delete 0.378659086924
+boglarka SNARC_only CD 8 lctrl 0.402902457128
+boglarka SNARC_only CD 5 delete 0.428769657887
+boglarka SNARC_only CD 2 lctrl 0.44986545654
+boglarka SNARC_only CD 5 delete 0.44861293724
+boglarka SNARC_only CD 8 delete 0.407183560395
+boglarka SNARC_only CD 1 delete 0.486095075979
+boglarka SNARC_only CD 7 delete 0.560523909329
+boglarka SNARC_only CD 4 lctrl 0.510417187967
+boglarka SNARC_only CD 9 delete 0.425171333372
+boglarka SNARC_only CD 8 lctrl 0.422537508211
+boglarka SNARC_only CD 1 delete 0.409078612645
+boglarka SNARC_only CD 7 delete 0.456579855892
+boglarka SNARC_only CD 8 lctrl 0.495018794789
+boglarka SNARC_only CD 7 delete 0.432746992852
+boglarka SNARC_only CD 1 delete 0.352988565643
+boglarka SNARC_only CD 2 lctrl 0.492688038004
+boglarka SNARC_only CD 1 delete 0.442966626433
+boglarka SNARC_only CD 8 lctrl 0.408638008623
+boglarka SNARC_only CD 9 delete 0.37216761431
+boglarka SNARC_only CD 8 lctrl 0.362186655822
+boglarka SNARC_only CD 6 lctrl 0.481030754439
+boglarka SNARC_only CD 6 lctrl 0.347007339784
+boglarka SNARC_only CD 6 lctrl 0.304554319757
+boglarka SNARC_only CD 1 delete 1.09133521917
+boglarka SNARC_only CD 4 delete 0.384631563697
+boglarka SNARC_only CD 5 delete 0.50527062501
+boglarka SNARC_only CD 8 lctrl 0.430831642718
+boglarka SNARC_only CD 5 delete 0.48402434206
+boglarka SNARC_only CD 1 lctrl 0.422395073076
+boglarka SNARC_only CD 4 lctrl 0.452441537725
+boglarka SNARC_only CD 9 delete 0.481489206601
+boglarka SNARC_only CD 1 delete 0.433013665024
+boglarka SNARC_only CD 1 delete 0.372144516719
+boglarka SNARC_only CD 4 lctrl 0.685138905754
+boglarka SNARC_only CD 3 delete 0.508722314826
+boglarka SNARC_only CD 5 delete 0.530398352932
+boglarka SNARC_only CD 2 lctrl 0.587103635737
+boglarka SNARC_only CD 9 delete 0.489201001876
+boglarka SNARC_only CD 8 lctrl 0.340058814863
+boglarka SNARC_only CD 1 delete 0.523152359052
+boglarka SNARC_only CD 5 delete 0.522437033695
+boglarka SNARC_only CD 2 lctrl 0.514815179036
+boglarka SNARC_only CD 4 lctrl 0.372656163328
+boglarka SNARC_only CD 5 delete 0.493127592137
+boglarka SNARC_only CD 6 lctrl 0.53753655806
+boglarka SNARC_only CD 8 lctrl 0.583622548987
+boglarka SNARC_only CD 7 delete 0.51573628292
+boglarka SNARC_only CD 7 delete 0.920407455482
+boglarka SNARC_only CD 3 delete 0.462768610096
+boglarka SNARC_only CD 9 delete 0.53517325467
+boglarka SNARC_only CD 9 delete 0.490514764784
+boglarka SNARC_only CD 7 delete 0.474905343628
+boglarka SNARC_only CD 7 delete 0.377014958491
+boglarka SNARC_only CD 6 lctrl 0.647146170297
+boglarka SNARC_only CD 4 lctrl 0.52522099319
+boglarka SNARC_only CD 9 delete 0.601334200775
+boglarka SNARC_only CD 4 lctrl 0.789521813398
+boglarka SNARC_only CD 9 delete 0.489210800853
+boglarka SNARC_only CD 2 lctrl 0.825568751901
+boglarka SNARC_only CD 4 lctrl 2.05915082761
+boglarka SNARC_only CD 6 lctrl 0.447031102303
+boglarka SNARC_only CD 2 lctrl 0.550837620094
+boglarka SNARC_only CD 5 delete 0.69032361473
+boglarka SNARC_only CD 1 delete 0.539096345297
+boglarka SNARC_only CD 1 delete 0.48844438083
+boglarka SNARC_only CD 5 delete 0.641195391261
+boglarka SNARC_only CD 4 lctrl 0.416453043126
+boglarka SNARC_only CD 9 delete 0.908526895219
+boglarka SNARC_only CD 8 lctrl 0.59170215588
+boglarka SNARC_only CD 4 lctrl 0.57024379506
+boglarka SNARC_only CD 8 lctrl 0.487261854225
+boglarka SNARC_only CD 1 delete 0.617712491701
+boglarka SNARC_only CD 4 lctrl 1.36973256841
+boglarka SNARC_only CD 1 delete 0.454782793415
+boglarka SNARC_only CD 3 delete 0.551459155236
+boglarka SNARC_only CD 4 lctrl 0.565202921074
+boglarka SNARC_only CD 3 delete 0.487417238011
+boglarka SNARC_only CD 3 delete 0.450263015053
+boglarka SNARC_only CD 1 delete 0.463895842469
+boglarka SNARC_only CD 3 delete 0.507952045205
+boglarka SNARC_only CD 1 delete 0.414555541131
+boglarka SNARC_only CD 9 lctrl 0.428780506754
+boglarka SNARC_only CD 7 delete 0.547094410698
+boglarka SNARC_only CD 2 lctrl 0.441814896614
+boglarka SNARC_only CD 3 lctrl 0.405786856141
+boglarka SNARC_only CD 5 delete 0.538966158882
+boglarka SNARC_only CD 3 delete 0.55886123283
+boglarka SNARC_only CD 9 delete 0.452421239845
+boglarka SNARC_only CD 5 delete 0.546914529468
+boglarka SNARC_only CD 5 delete 0.384681258511
+boglarka SNARC_only CD 7 delete 0.50533501829
+boglarka SNARC_only CD 7 delete 0.408713950699
+boglarka SNARC_only CD 2 lctrl 0.593311987894
+boglarka SNARC_only CD 8 lctrl 0.455366532502
+boglarka SNARC_only CD 7 delete 0.545400937413
+boglarka SNARC_only CD 8 lctrl 0.455082012191
+boglarka SNARC_only CD 9 delete 0.503028758949
+boglarka SNARC_only CD 8 delete 0.538268681663
+boglarka SNARC_only CD 6 lctrl 0.489118060532
+boglarka SNARC_only CD 8 lctrl 0.358881250741
+boglarka SNARC_only CD 1 delete 0.46360747256
+boglarka SNARC_only CD 4 lctrl 0.444423874367
+boglarka SNARC_only CD 4 lctrl 0.390995649605
+boglarka SNARC_only CD 8 delete 0.513082159878
+boglarka SNARC_only CD 8 lctrl 0.329993515175
+boglarka SNARC_only CD 4 lctrl 0.430864189322
+boglarka SNARC_only CD 8 lctrl 0.426331462311
+boglarka SNARC_only CD 3 delete 0.547996616553
+boglarka SNARC_only CD 9 lctrl 0.546169107254
+boglarka SNARC_only CD 9 delete 0.433955066788
+boglarka SNARC_only CD 8 lctrl 0.411999407861
+boglarka SNARC_only CD 9 delete 0.519298911158
+boglarka SNARC_only CD 1 delete 0.484646927092
+boglarka SNARC_only CD 6 lctrl 0.493266177675
+boglarka SNARC_only CD 2 lctrl 0.467109557118
+boglarka SNARC_only CD 4 lctrl 0.482807519036
+boglarka SNARC_only CD 5 lctrl 0.37279999832
+boglarka SNARC_only CD 6 lctrl 0.420624957786
+boglarka SNARC_only CD 9 delete 0.465763247605
+boglarka SNARC_only CD 6 lctrl 0.482334018445
+boglarka SNARC_only CD 3 delete 0.483329314586
+boglarka SNARC_only CD 8 lctrl 0.496835805185
+boglarka SNARC_only CD 3 delete 0.427994138812
+boglarka SNARC_only CD 1 delete 0.436387662947
+boglarka SNARC_only CD 4 lctrl 0.476427334808
+boglarka SNARC_only CD 2 delete 0.445371225513
+boglarka SNARC_only CD 8 lctrl 0.438658226014
+boglarka SNARC_only CD 7 delete 0.461173126585
+boglarka SNARC_only CD 7 delete 0.38810915081
+boglarka SNARC_only CD 8 lctrl 0.446574049996
+boglarka SNARC_only CD 5 delete 0.507054738837
+boglarka SNARC_only CD 7 delete 0.460298567845
+boglarka SNARC_only CD 4 lctrl 0.482690981196
+boglarka SNARC_only CD 1 delete 0.43516034102
+boglarka SNARC_only CD 4 lctrl 0.482864563082
+boglarka SNARC_only CD 2 lctrl 0.627060016288
+boglarka SNARC_only CD 9 delete 0.38432639554
+boglarka SNARC_only CD 6 lctrl 0.418402689678
+boglarka SNARC_only CD 4 lctrl 0.459131789597
+boglarka SNARC_only CD 3 delete 0.466811388233
+boglarka SNARC_only CD 3 delete 0.449494845214
+boglarka SNARC_only CD 1 delete 0.390538947262
+boglarka SNARC_only CD 1 delete 0.364133852632
+boglarka SNARC_only CD 5 lctrl 0.350462529233
+boglarka SNARC_only CD 2 lctrl 0.445861524351
+boglarka SNARC_only CD 7 delete 0.48848567652
+boglarka SNARC_only CD 5 delete 0.532994032073
+boglarka SNARC_only CD 7 delete 0.372183362666
+boglarka SNARC_only CD 2 lctrl 0.552720423624
+boglarka SNARC_only CD 7 delete 0.389122645052
+boglarka SNARC_only CD 3 delete 0.4544475284
+boglarka SNARC_only CD 5 delete 0.38636003333
+boglarka SNARC_only CD 7 delete 0.362498123321
+boglarka SNARC_only CD 2 lctrl 0.491099553761
+boglarka SNARC_only CD 8 lctrl 0.547335185573
+boglarka SNARC_only CD 1 delete 0.484864254415
+boglarka SNARC_only CD 5 delete 0.500461426849
+boglarka SNARC_only CD 2 lctrl 0.524836733288
+boglarka SNARC_only CD 5 delete 0.702943297867
+boglarka SNARC_only CD 9 delete 0.468650796291
+boglarka SNARC_only CD 3 delete 0.474100077658
+boglarka SNARC_only CD 7 delete 0.446615345689
+boglarka SNARC_only CD 6 lctrl 0.503024209424
+boglarka SNARC_only CD 8 lctrl 0.546944276366
+boglarka SNARC_only CD 2 lctrl 0.430782647831
+boglarka SNARC_only CD 2 lctrl 0.395531176322
+boglarka SNARC_only CD 5 delete 0.597518548941
+boglarka SNARC_only CD 2 lctrl 0.343672537772
+boglarka SNARC_only CD 2 lctrl 0.635951538457
+boglarka SNARC_only CD 7 delete 0.56338591068
+boglarka SNARC_only CD 1 delete 0.591617464717
+boglarka SNARC_only CD 4 lctrl 0.461091235131
+boglarka SNARC_only CD 2 lctrl 0.426624731708
+boglarka SNARC_only CD 9 delete 0.547546563517
+boglarka SNARC_only CD 3 delete 0.447242130285
+boglarka SNARC_only CD 1 delete 0.490607155143
+boglarka SNARC_only CD 3 delete 0.418880039868
+boglarka SNARC_only CD 3 delete 0.309874464599
+boglarka SNARC_only CD 2 lctrl 0.648533075573
+boglarka SNARC_only CD 4 lctrl 0.468745986356
+boglarka SNARC_only CD 2 lctrl 0.494151585282
+boglarka SNARC_only CD 9 delete 0.485122177501
+boglarka SNARC_only CD 8 delete 0.412278328755
+boglarka SNARC_only CD 8 lctrl 0.392081236323
+boglarka SNARC_only CD 3 delete 0.583101453363
+boglarka SNARC_only CD 9 delete 0.401717830744
+boglarka SNARC_only CD 2 lctrl 0.419061320952
+boglarka SNARC_only CD 4 lctrl 0.444736391757
+boglarka SNARC_only CD 2 lctrl 0.418455184201
+boglarka SNARC_only CD 6 lctrl 0.503493510452
+boglarka SNARC_only CD 2 lctrl 0.421127855308
+boglarka SNARC_only CD 5 delete 0.493211583371
+boglarka SNARC_only CD 7 delete 0.466512519419
+boglarka SNARC_only CD 9 delete 0.384508726514
+boglarka SNARC_only CD 6 lctrl 0.472683075521
+boglarka SNARC_only CD 5 delete 0.511734100546
+boglarka SNARC_only CD 7 delete 0.463081827411
+boglarka SNARC_only CD 3 lctrl 0.55329611355
+boglarka SNARC_only CD 2 lctrl 0.402106990136
+boglarka SNARC_only CD 6 lctrl 0.518928999758
+boglarka SNARC_only CD 5 delete 0.502795333308
+boglarka SNARC_only CD 9 delete 0.673927475667
+boglarka SNARC_only CD 1 delete 0.420436327469
+boglarka SNARC_only CD 7 delete 0.398577958391
+boglarka SNARC_only CD 7 delete 0.414917053406
+boglarka SNARC_only CD 9 delete 0.630260432323
+boglarka SNARC_only CD 1 delete 0.454642108096
+boglarka SNARC_only CD 4 lctrl 0.541309514352
+boglarka SNARC_only CD 4 lctrl 0.427045737777
+boglarka SNARC_only CD 3 delete 0.424382515685
+boglarka SNARC_only CD 9 delete 0.51956523337
+boglarka SNARC_only CD 4 lctrl 0.57913041774
+boglarka SNARC_only CD 8 lctrl 0.478674100357
+boglarka SNARC_only CD 9 delete 0.718223753351
+boglarka SNARC_only CD 8 lctrl 0.849091197335
+boglarka SNARC_only CD 8 lctrl 0.628036064438
+boglarka SNARC_only CD 7 delete 0.52545826843
+boglarka SNARC_only CD 6 lctrl 0.601728609619
+boglarka SNARC_only CD 2 lctrl 0.507563935704
+boglarka SNARC_only CD 8 lctrl 0.509528280725
+boglarka SNARC_only CD 6 lctrl 0.535958572722
+boglarka SNARC_only CD 6 lctrl 0.408749297012
+boglarka SNARC_only CD 3 delete 1.25334976295
+boglarka SNARC_only CD 6 lctrl 0.480435466559
+boglarka SNARC_only CD 7 delete 0.421619903964
+boglarka SNARC_only CD 7 delete 0.354930862964
+boglarka SNARC_only CD 7 lctrl 0.402242076039
+boglarka SNARC_only CD 3 delete 0.516722130045
+boglarka SNARC_only CD 3 delete 0.340673350736
+boglarka SNARC_only CD 9 delete 0.55109554318
+boglarka SNARC_only CD 9 delete 0.35661733698
+boglarka SNARC_only CD 3 delete 0.579155265148
+boglarka SNARC_only CD 7 delete 0.357432401928
+boglarka SNARC_only CD 6 lctrl 0.550262980059
+boglarka SNARC_only CD 4 lctrl 0.388721586902
+boglarka SNARC_only CD 2 lctrl 0.331249534111
+boglarka SNARC_only CD 5 delete 0.535459874762
+boglarka SNARC_only CD 5 delete 0.379170733533
+boglarka SNARC_only CD 1 delete 0.558673652404
+boglarka SNARC_only CD 3 delete 0.471649983323
+boglarka SNARC_only CD 2 lctrl 0.46497163021
+boglarka SNARC_only CD 5 delete 0.568707455377
+boglarka SNARC_only CD 4 lctrl 0.418554573829
+boglarka SNARC_only CD 7 delete 0.445310331868
+boglarka SNARC_only CD 8 lctrl 0.600992986381
+boglarka SNARC_only CD 4 lctrl 0.603101166393
+boglarka SNARC_only CD 3 delete 0.432849882114
+boglarka SNARC_only CD 1 delete 0.394354949061
+boglarka SNARC_only CD 8 lctrl 0.504733081103
+boglarka SNARC_only CD 7 delete 0.425513597656
+boglarka SNARC_only CD 4 lctrl 0.498308101551
+boglarka SNARC_only CD 5 delete 0.405353251388
+boglarka SNARC_only CD 1 delete 0.428424593894
+boglarka SNARC_only CD 4 lctrl 0.590883241333
+boglarka SNARC_only CD 5 delete 0.458522153214
+boglarka SNARC_only CD 6 lctrl 0.845770743823
+boglarka SNARC_only CD 6 lctrl 0.383459885961
+boglarka SNARC_only CD 7 delete 0.535438526989
+boglarka SNARC_only CD 5 delete 0.524959920433
+boglarka SNARC_only CD 5 delete 0.519984489618
+boglarka SNARC_only CD 9 delete 0.406606820579
+boglarka SNARC_only CD 5 delete 0.35854948536
+boglarka SNARC_only CD 5 delete 0.332612291908
+boglarka SNARC_only CD 3 delete 0.462838952755
+boglarka SNARC_only CD 5 delete 0.895619192137
+boglarka SNARC_only CD 7 delete 0.479225642803
+boglarka SNARC_only CD 7 delete 0.309901761751
+boglarka SNARC_only CD 6 delete 0.39398293788
+boglarka SNARC_only CD 8 lctrl 0.386270092715
+boglarka SNARC_only CD 9 delete 0.40492314627
+boglarka SNARC_only CD 8 lctrl 0.510082272916
+boglarka SNARC_only CD 3 delete 0.414825712938
+boglarka SNARC_only CD 9 delete 0.485058484148
+boglarka SNARC_only CD 1 delete 0.566564628982
+boglarka SNARC_only CD 3 lctrl 0.681491936317
+boglarka SNARC_only CD 3 delete 0.451379048596
+boglarka SNARC_only CD 6 lctrl 0.374488922082
+boglarka SNARC_only CD 1 delete 0.427021240333
+boglarka SNARC_only CD 9 delete 0.759692676071
+boglarka SNARC_only CD 2 lctrl 2.01353413771
+boglarka SNARC_only CD 4 lctrl 0.557526472112
+boglarka SNARC_only CD 1 delete 0.437360561426
+boglarka SNARC_only CD 6 lctrl 0.510448334717
+boglarka SNARC_only CD 2 lctrl 0.543294857183
+boglarka SNARC_only CD 7 delete 0.467051813142
+boglarka SNARC_only CD 8 lctrl 0.472068539648
+boglarka SNARC_only CD 2 lctrl 0.460629633299
+boglarka SNARC_only CD 6 lctrl 0.42268414291
+boglarka SNARC_only CD 5 lctrl 0.461343908764
+boglarka SNARC_only CD 9 delete 0.488647709612
+boglarka SNARC_only CD 4 lctrl 0.681581876932
+boglarka SNARC_only CD 3 delete 0.531702666827
+boglarka SNARC_only CD 7 delete 0.378868365087
+boglarka SNARC_only CD 8 lctrl 0.473070135131
+boglarka SNARC_only CD 2 lctrl 0.40068193884
+boglarka SNARC_only CD 1 lctrl 0.511074419384
+boglarka SNARC_only CD 4 lctrl 0.49536665849
+boglarka SNARC_only CD 2 lctrl 0.535060916392
+boglarka SNARC_only CD 6 lctrl 0.514687792329
+boglarka SNARC_only CD 6 lctrl 0.372870690944
+boglarka SNARC_only CD 5 delete 0.443323239218
+boglarka SNARC_only CD 6 lctrl 0.48472601884
+boglarka SNARC_only CD 1 delete 0.469447313173
+boglarka SNARC_only CD 2 lctrl 0.549156395531
+boglarka SNARC_only CD 1 lctrl 0.422857374833
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'boglarka', 'dateStr': u'05_18_1314'}
+boglarka resp_prep 0.3 green q 1.29564459949
+boglarka resp_prep 0.8 green q 0.51837815724
+boglarka resp_prep 0.8 red p 0.392507141878
+boglarka resp_prep 0.3 red p 0.655383260757
+boglarka resp_prep 0.1 green q 0.713510445185
+boglarka resp_prep 0.8 green q 0.417996032114
+boglarka resp_prep 0.8 green q 0.399416820856
+boglarka resp_prep 0.8 red p 0.436294572663
+boglarka resp_prep 0.1 green q 0.48867255702
+boglarka resp_prep 0.8 green q 0.471574391213
+boglarka resp_prep 0.3 red p 0.45686017664
+boglarka resp_prep 0.6 red q 0.527281928131
+boglarka resp_prep 1.0 red p 0.760613429988
+boglarka resp_prep 0.6 red p 0.506592087115
+boglarka resp_prep 0.6 green q 0.496198521683
+boglarka resp_prep 0.6 green q 0.492138945301
+boglarka resp_prep 0.1 red p 0.476789197048
+boglarka resp_prep 0.3 green q 0.532622720819
+boglarka resp_prep 0.6 green q 0.473752913884
+boglarka resp_prep 0.1 green q 0.520022285675
+boglarka resp_prep 1.0 green q 0.526014360401
+boglarka resp_prep 1.0 green q 0.508129826652
+boglarka resp_prep 0.8 green q 0.470226681846
+boglarka resp_prep 0.1 green q 0.765090512805
+boglarka resp_prep 0.1 green q 0.4558466824
+boglarka resp_prep 0.1 green q 0.487142516678
+boglarka resp_prep 0.6 green q 0.479952516955
+boglarka resp_prep 1.0 red p 0.454481474857
+boglarka resp_prep 0.3 green q 0.494584140144
+boglarka resp_prep 0.3 red p 0.469855720556
+boglarka resp_prep 0.1 red p 0.429255057234
+boglarka resp_prep 0.1 red p 0.452877592223
+boglarka resp_prep 0.1 green q 0.435158941164
+boglarka resp_prep 1.0 green q 0.496984539664
+boglarka resp_prep 0.3 green q 0.456584405418
+boglarka resp_prep 1.0 green q 0.412725582084
+boglarka resp_prep 0.6 red p 0.35218189982
+boglarka resp_prep 0.8 green q 0.447306173601
+boglarka resp_prep 0.8 red p 0.455868030172
+boglarka resp_prep 0.8 red p 0.470007954669
+boglarka resp_prep 0.3 red p 0.442523572665
+boglarka resp_prep 0.3 green q 0.409970319597
+boglarka resp_prep 1.0 green q 0.42754373581
+boglarka resp_prep 1.0 red p 0.365026959436
+boglarka resp_prep 0.8 green q 0.473081683926
+boglarka resp_prep 0.6 green q 0.452973482217
+boglarka resp_prep 1.0 green q 0.431171107295
+boglarka resp_prep 0.1 red p 0.476577819105
+boglarka resp_prep 0.1 red p 0.445104903303
+boglarka resp_prep 0.3 green q 0.40001455848
+boglarka resp_prep 1.0 red p 0.601485035037
+boglarka resp_prep 1.0 red p 0.426822461077
+boglarka resp_prep 0.8 red p 0.578582024966
+boglarka resp_prep 0.1 green q 0.434445365625
+boglarka resp_prep 0.6 red p 0.476853590328
+boglarka resp_prep 0.6 green q 0.365304480478
+boglarka resp_prep 0.6 green q 0.472411153896
+boglarka resp_prep 0.8 red p 0.365809827745
+boglarka resp_prep 0.8 red p 0.473847404024
+boglarka resp_prep 0.1 green q 0.449355559747
+boglarka resp_prep 0.3 red p 0.499660710404
+boglarka resp_prep 0.6 red p 0.496966691526
+boglarka resp_prep 0.1 red p 0.471004650664
+boglarka resp_prep 0.3 green q 0.41652583553
+boglarka resp_prep 0.6 red p 0.500661955924
+boglarka resp_prep 0.3 green q 0.524390879811
+boglarka resp_prep 0.3 red p 0.39475985681
+boglarka resp_prep 1.0 red p 0.511126913907
+boglarka resp_prep 0.6 red p 0.454297044103
+boglarka resp_prep 1.0 green q 0.400286130143
+boglarka resp_prep 1.0 red p 0.445418820547
+boglarka resp_prep 0.1 green q 0.472349560323
+boglarka resp_prep 0.1 red p 0.419953727829
+boglarka resp_prep 0.3 red p 0.424114093696
+boglarka resp_prep 1.0 green q 0.364788284343
+boglarka resp_prep 0.6 green q 0.345461551087
+boglarka resp_prep 1.0 green q 0.361408687004
+boglarka resp_prep 1.0 green q 0.502074758499
+boglarka resp_prep 0.6 green q 0.440874894704
+boglarka resp_prep 0.1 red p 0.424439909695
+boglarka resp_prep 1.0 red p 0.669225366333
+boglarka resp_prep 0.8 green q 0.392168027265
+boglarka resp_prep 0.8 red p 0.371313003488
+boglarka resp_prep 1.0 green q 0.332219282916
+boglarka resp_prep 0.8 red p 0.429687262134
+boglarka resp_prep 0.3 red p 0.410750388197
+boglarka resp_prep 1.0 red p 0.373208755665
+boglarka resp_prep 0.8 green q 0.376819328902
+boglarka resp_prep 0.8 red p 0.511865336852
+boglarka resp_prep 0.6 green q 0.551960652907
+boglarka resp_prep 1.0 red p 0.57921370905
+boglarka resp_prep 0.3 green q 0.398275939906
+boglarka resp_prep 0.3 red p 0.509128972391
+boglarka resp_prep 0.6 red p 0.572740084572
+boglarka resp_prep 0.8 red p 0.493659886592
+boglarka resp_prep 0.3 green q 0.586912555675
+boglarka resp_prep 0.3 green q 0.631620040449
+boglarka resp_prep 1.0 red p 0.571340930574
+boglarka resp_prep 0.3 green q 0.529793616037
+boglarka resp_prep 0.6 red p 0.416610526692
+boglarka resp_prep 0.8 green q 0.818529236474
+boglarka resp_prep 0.3 green q 0.410420722597
+boglarka resp_prep 1.0 red p 0.379657532738
+boglarka resp_prep 0.8 red q 0.375479668695
+boglarka resp_prep 0.1 red p 0.503283882326
+boglarka resp_prep 0.3 red p 0.359191318386
+boglarka resp_prep 0.1 red p 0.423100249489
+boglarka resp_prep 0.8 green q 0.447325071629
+boglarka resp_prep 0.8 green q 0.461827558294
+boglarka resp_prep 0.1 green q 0.447592793691
+boglarka resp_prep 0.8 green q 0.517748222974
+boglarka resp_prep 1.0 red p 0.610615232301
+boglarka resp_prep 0.6 green q 0.436737626429
+boglarka resp_prep 1.0 green q 0.534536671099
+boglarka resp_prep 0.6 green q 0.460071441545
+boglarka resp_prep 1.0 red p 0.504546200604
+boglarka resp_prep 0.1 green q 0.446569850435
+boglarka resp_prep 0.1 red p 0.56521027031
+boglarka resp_prep 0.6 red p 0.443160156239
+boglarka resp_prep 0.6 green q 0.450860402718
+boglarka resp_prep 1.0 green q 0.822626608913
+boglarka resp_prep 0.3 green q 0.420767742886
+boglarka resp_prep 0.1 green q 0.425390760474
+boglarka resp_prep 0.6 red p 0.44065231793
+boglarka resp_prep 0.6 red p 0.384339344189
+boglarka resp_prep 0.1 red p 0.449360109273
+boglarka resp_prep 0.8 red q 0.382410695445
+boglarka resp_prep 0.8 red p 0.326396240553
+boglarka resp_prep 0.6 green q 0.411049956938
+boglarka resp_prep 0.1 green q 0.409599358307
+boglarka resp_prep 0.8 red p 0.512510319548
+boglarka resp_prep 0.8 green q 0.712379363213
+boglarka resp_prep 0.3 red p 0.445481114046
+boglarka resp_prep 0.1 red p 0.405732261837
+boglarka resp_prep 0.6 red p 0.512061316402
+boglarka resp_prep 0.1 red p 0.436259576314
+boglarka resp_prep 0.3 red p 0.400892616855
+boglarka resp_prep 0.6 green q 0.672194456509
+boglarka resp_prep 1.0 green q 0.532609422205
+boglarka resp_prep 1.0 green q 0.532180366979
+boglarka resp_prep 1.0 red p 0.64985978713
+boglarka resp_prep 0.3 red p 0.402274622644
+boglarka resp_prep 0.6 red p 0.546896681331
+boglarka resp_prep 0.1 red p 0.452220010842
+boglarka resp_prep 0.3 red p 0.519705568724
+boglarka resp_prep 0.1 green q 0.484866704161
+boglarka resp_prep 0.3 red p 0.487813746635
+boglarka resp_prep 0.8 green q 0.498905139249
+boglarka resp_prep 0.6 red p 0.525319682891
+boglarka resp_prep 0.3 green q 0.471132387334

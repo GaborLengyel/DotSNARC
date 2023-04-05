@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_17_0955', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'alma', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+alma SNARC line dot CD 0 down 20 num_decimal 2.74579543653
+alma SNARC line dot CD 0 down 40 num_decimal 0.582197435388
+alma SNARC line dot CD 0 up 25 lctrl 0.519896718416
+alma SNARC line dot CD 0 up 15 lctrl 0.703877713933
+alma SNARC line dot CD 0 down 15 num_decimal 0.670461333974
+alma SNARC line dot CD 0 down 20 num_decimal 1.04016229963
+alma SNARC line dot CD 0 down 30 num_decimal 0.534604335153
+alma SNARC line dot CD 0 down 5 num_decimal 0.717741215798
+alma SNARC line dot CD 0 up 25 lctrl 0.47926266636
+alma SNARC line dot CD 0 down 30 num_decimal 0.60085195408
+alma SNARC line dot CD 0 down 30 num_decimal 0.524196734759
+alma SNARC line dot CD 0 down 20 num_decimal 0.475522593547
+alma SNARC line dot CD 0 up 35 lctrl 0.560901733061
+alma SNARC line dot CD 0 down 45 num_decimal 0.454816231783
+alma SNARC line dot CD 0 up 5 lctrl 0.609981133402
+alma SNARC line dot CD 0 down 45 num_decimal 0.416708924905
+alma SNARC line dot CD 0 down 15 num_decimal 0.458654994643
+alma SNARC line dot CD 0 up 5 num_decimal 0.398684692648
+alma SNARC line dot CD 0 down 30 num_decimal 1.00379991678
+alma SNARC line dot CD 0 up 45 lctrl 0.446738696402
+alma SNARC line dot CD 0 up 10 lctrl 0.612184861156
+alma SNARC line dot CD 0 down 15 num_decimal 0.63268894332
+alma SNARC line dot CD 0 up 5 lctrl 0.86243867306
+alma SNARC line dot CD 0 up 15 lctrl 0.593097786089
+alma SNARC line dot CD 0 up 5 lctrl 0.467861866131
+alma SNARC line dot CD 0 down 25 num_decimal 0.590568591158
+alma SNARC line dot CD 0 up 30 lctrl 0.722617973977
+alma SNARC line dot CD 0 down 15 num_decimal 0.556408886164
+alma SNARC line dot CD 0 down 45 num_decimal 0.599100030761
+alma SNARC line dot CD 0 down 15 num_decimal 0.447771792215
+alma SNARC line dot CD 0 up 25 lctrl 0.44328944426
+alma SNARC line dot CD 0 up 20 lctrl 0.444608461236
+alma SNARC line dot CD 0 down 40 num_decimal 0.483504588563
+alma SNARC line dot CD 0 up 45 lctrl 0.49038909426
+alma SNARC line dot CD 0 down 5 num_decimal 0.531888958999
+alma SNARC line dot CD 0 down 25 num_decimal 0.467545848001
+alma SNARC line dot CD 0 down 5 num_decimal 0.405864918523
+alma SNARC line dot CD 0 up 45 lctrl 0.570006414852
+alma SNARC line dot CD 0 down 5 num_decimal 0.499915483523
+alma SNARC line dot CD 0 down 45 num_decimal 0.557884687329
+alma SNARC line dot CD 0 down 40 num_decimal 0.687721243313
+alma SNARC line dot CD 0 down 10 num_decimal 0.7453961268
+alma SNARC line dot CD 0 up 5 lctrl 0.416240672128
+alma SNARC line dot CD 0 down 20 num_decimal 0.485503236999
+alma SNARC line dot CD 0 up 15 lctrl 0.665260158513
+alma SNARC line dot CD 0 down 40 num_decimal 0.497403786828
+alma SNARC line dot CD 0 down 30 num_decimal 0.467406212084
+alma SNARC line dot CD 0 up 45 lctrl 0.6152474023
+alma SNARC line dot CD 0 down 30 num_decimal 0.464391616106
+alma SNARC line dot CD 0 up 10 lctrl 0.644167435714
+alma SNARC line dot CD 0 up 10 lctrl 0.701489204814
+alma SNARC line dot CD 0 down 25 num_decimal 0.412441105314
+alma SNARC line dot CD 0 up 45 lctrl 0.580540352506
+alma SNARC line dot CD 0 up 5 lctrl 0.915995521852
+alma SNARC line dot CD 0 up 35 lctrl 0.591535193676
+alma SNARC line dot CD 0 up 30 lctrl 0.461677289845
+alma SNARC line dot CD 0 down 45 num_decimal 0.549435139466
+alma SNARC line dot CD 0 up 20 num_decimal 0.506303039338
+alma SNARC line dot CD 0 down 35 num_decimal 0.86886157531
+alma SNARC line dot CD 0 down 20 num_decimal 0.473717475593
+alma SNARC line dot CD 0 up 5 lctrl 0.707381910534
+alma SNARC line dot CD 0 up 20 lctrl 0.440266449129
+alma SNARC line dot CD 0 down 20 num_decimal 0.555666960987
+alma SNARC line dot CD 0 up 15 lctrl 0.776425397498
+alma SNARC line dot CD 0 up 40 lctrl 0.542986689792
+alma SNARC line dot CD 0 up 45 lctrl 0.522083297899
+alma SNARC line dot CD 0 down 35 num_decimal 0.62823074293
+alma SNARC line dot CD 0 down 10 num_decimal 0.405946810264
+alma SNARC line dot CD 0 down 30 num_decimal 0.412441105315
+alma SNARC line dot CD 0 down 25 num_decimal 0.368860350433
+alma SNARC line dot CD 0 down 25 num_decimal 0.367223565503
+alma SNARC line dot CD 0 down 15 num_decimal 0.511251540283
+alma SNARC line dot CD 0 up 20 lctrl 0.443730399789
+alma SNARC line dot CD 0 up 5 num_decimal 0.358692125899
+alma SNARC line dot CD 0 down 25 num_decimal 0.624541764962
+alma SNARC line dot CD 0 up 25 lctrl 0.705507149604
+alma SNARC line dot CD 0 up 20 lctrl 0.403597147228
+alma SNARC line dot CD 0 up 15 lctrl 0.456970964478
+alma SNARC line dot CD 0 up 25 lctrl 0.36801973521
+alma SNARC line dot CD 0 up 35 lctrl 0.435498529973
+alma SNARC line dot CD 0 down 5 num_decimal 0.607344149343
+alma SNARC line dot CD 0 up 20 lctrl 0.438106116998
+alma SNARC line dot CD 0 up 15 lctrl 0.398250736413
+alma SNARC line dot CD 0 down 15 num_decimal 0.601294659434
+alma SNARC line dot CD 0 down 20 num_decimal 0.464124593035
+alma SNARC line dot CD 0 down 45 num_decimal 0.638077699864
+alma SNARC line dot CD 0 up 10 lctrl 0.518833875603
+alma SNARC line dot CD 0 down 35 num_decimal 0.475703175335
+alma SNARC line dot CD 0 down 35 num_decimal 0.493660914297
+alma SNARC line dot CD 0 down 15 num_decimal 0.495414237474
+alma SNARC line dot CD 0 up 35 lctrl 0.530730575822
+alma SNARC line dot CD 0 up 40 lctrl 0.434080123019
+alma SNARC line dot CD 0 up 35 lctrl 0.381290046899
+alma SNARC line dot CD 0 down 20 num_decimal 0.469817118943
+alma SNARC line dot CD 0 down 25 num_decimal 0.439675708704
+alma SNARC line dot CD 0 up 45 lctrl 0.417769317964
+alma SNARC line dot CD 0 up 20 lctrl 0.813413167281
+alma SNARC line dot CD 0 up 30 lctrl 0.426001887709
+alma SNARC line dot CD 0 down 10 num_decimal 0.524836470242
+alma SNARC line dot CD 0 up 40 lctrl 0.57301646129
+alma SNARC line dot CD 0 up 5 num_decimal 0.498920533864
+alma SNARC line dot CD 0 down 10 num_decimal 0.467236829166
+alma SNARC line dot CD 0 down 5 num_decimal 0.456246887501
+alma SNARC line dot CD 0 down 35 num_decimal 0.529096590609
+alma SNARC line dot CD 0 up 35 lctrl 0.452707344464
+alma SNARC line dot CD 0 down 40 num_decimal 0.610732857591
+alma SNARC line dot CD 0 down 10 num_decimal 0.492390542414
+alma SNARC line dot CD 0 down 45 num_decimal 0.547688815583
+alma SNARC line dot CD 0 down 45 num_decimal 0.397027959731
+alma SNARC line dot CD 0 down 25 num_decimal 0.521934212934
+alma SNARC line dot CD 0 down 35 num_decimal 0.48570481667
+alma SNARC line dot CD 0 down 45 num_decimal 0.450984118252
+alma SNARC line dot CD 0 up 40 lctrl 0.649298968199
+alma SNARC line dot CD 0 up 30 lctrl 0.415175379562
+alma SNARC line dot CD 0 down 45 num_decimal 0.61374535378
+alma SNARC line dot CD 0 up 45 lctrl 0.583565797389
+alma SNARC line dot CD 0 down 10 num_decimal 0.492111270579
+alma SNARC line dot CD 0 up 40 lctrl 0.447535916003
+alma SNARC line dot CD 0 down 30 num_decimal 0.49423310659
+alma SNARC line dot CD 0 up 20 lctrl 0.395634050306
+alma SNARC line dot CD 0 down 40 num_decimal 0.418122432352
+alma SNARC line dot CD 0 up 40 lctrl 0.403841072627
+alma SNARC line dot CD 0 down 20 num_decimal 0.365913297644
+alma SNARC line dot CD 0 up 30 lctrl 0.294046645396
+alma SNARC line dot CD 0 down 25 num_decimal 0.405546800605
+alma SNARC line dot CD 0 down 5 lctrl 0.286770529192
+alma SNARC line dot CD 0 up 25 lctrl 0.626246093081
+alma SNARC line dot CD 0 down 25 num_decimal 0.300292815469
+alma SNARC line dot CD 0 down 40 num_decimal 0.476419903052
+alma SNARC line dot CD 0 down 30 num_decimal 0.440041771787
+alma SNARC line dot CD 0 down 25 num_decimal 0.351481453095
+alma SNARC line dot CD 0 up 5 lctrl 0.515749286685
+alma SNARC line dot CD 0 up 35 lctrl 0.399150145708
+alma SNARC line dot CD 0 down 35 num_decimal 0.468702831319
+alma SNARC line dot CD 0 up 25 lctrl 0.521625544064
+alma SNARC line dot CD 0 up 30 lctrl 0.509912575317
+alma SNARC line dot CD 0 up 15 lctrl 0.515382173708
+alma SNARC line dot CD 0 down 10 num_decimal 0.542250714016
+alma SNARC line dot CD 0 up 10 lctrl 0.586164285332
+alma SNARC line dot CD 0 up 15 lctrl 0.470856164156
+alma SNARC line dot CD 0 up 15 lctrl 0.459621247197
+alma SNARC line dot CD 0 up 25 lctrl 0.368568479868
+alma SNARC line dot CD 0 down 30 num_decimal 0.516705740227
+alma SNARC line dot CD 0 down 5 num_decimal 0.812279281634
+alma SNARC line dot CD 0 down 45 num_decimal 0.508898727563
+alma SNARC line dot CD 0 up 40 lctrl 0.59870352075
+alma SNARC line dot CD 0 up 15 lctrl 0.32683658853
+alma SNARC line dot CD 0 up 45 lctrl 0.515672644414
+alma SNARC line dot CD 0 down 15 num_decimal 0.538945647331
+alma SNARC line dot CD 0 up 30 lctrl 0.471404208886
+alma SNARC line dot CD 0 up 35 lctrl 0.374726458836
+alma SNARC line dot CD 0 up 15 lctrl 0.53134476388
+alma SNARC line dot CD 0 up 20 lctrl 0.291764175583
+alma SNARC line dot CD 0 down 15 lctrl 0.33128428998
+alma SNARC line dot CD 0 down 45 num_decimal 0.388964072973
+alma SNARC line dot CD 0 up 15 lctrl 0.509811785481
+alma SNARC line dot CD 0 up 40 lctrl 0.422249916096
+alma SNARC line dot CD 0 up 35 lctrl 0.35244630579
+alma SNARC line dot CD 0 up 5 lctrl 0.446749895273
+alma SNARC line dot CD 0 up 5 lctrl 0.350683533566
+alma SNARC line dot CD 0 up 35 lctrl 0.449246543486
+alma SNARC line dot CD 0 down 30 num_decimal 0.575702440409
+alma SNARC line dot CD 0 up 10 num_decimal 0.382066968546
+alma SNARC line dot CD 0 down 5 num_decimal 0.520485709017
+alma SNARC line dot CD 0 up 5 lctrl 0.438920134905
+alma SNARC line dot CD 0 down 20 num_decimal 0.403410616039
+alma SNARC line dot CD 0 down 30 num_decimal 0.436351743927
+alma SNARC line dot CD 0 up 45 lctrl 0.480965244655
+alma SNARC line dot CD 0 up 25 lctrl 0.405224833075
+alma SNARC line dot CD 0 up 25 lctrl 0.362158176348
+alma SNARC line dot CD 0 up 15 lctrl 0.372182915353
+alma SNARC line dot CD 0 down 30 num_decimal 0.461630394574
+alma SNARC line dot CD 0 up 20 lctrl 0.706669732358
+alma SNARC line dot CD 0 down 30 num_decimal 0.3941180032
+alma SNARC line dot CD 0 up 5 lctrl 0.498790696958
+alma SNARC line dot CD 0 up 15 lctrl 0.441460528706
+alma SNARC line dot CD 0 up 5 lctrl 0.454894623877
+alma SNARC line dot CD 0 up 5 lctrl 0.304765714378
+alma SNARC line dot CD 0 down 10 num_decimal 0.444278444518
+alma SNARC line dot CD 0 down 5 num_decimal 0.372763506801
+alma SNARC line dot CD 0 up 20 lctrl 0.365894399551
+alma SNARC line dot CD 0 up 10 lctrl 0.3617739151
+alma SNARC line dot CD 0 down 40 num_decimal 0.456071905148
+alma SNARC line dot CD 0 up 45 lctrl 0.378529875263
+alma SNARC line dot CD 0 up 25 lctrl 0.344687938222
+alma SNARC line dot CD 0 up 5 lctrl 0.276648150034
+alma SNARC line dot CD 0 up 45 lctrl 0.437281950115
+alma SNARC line dot CD 0 down 40 num_decimal 0.439991026905
+alma SNARC line dot CD 0 down 25 num_decimal 0.377370092226
+alma SNARC line dot CD 0 down 10 num_decimal 0.542432345698
+alma SNARC line dot CD 0 up 40 lctrl 0.610930587651
+alma SNARC line dot CD 0 down 35 num_decimal 0.377888039991
+alma SNARC line dot CD 0 down 20 num_decimal 0.416492996681
+alma SNARC line dot CD 0 down 40 num_decimal 0.346300575587
+alma SNARC line dot CD 0 up 45 lctrl 0.443133010036
+alma SNARC line dot CD 0 up 25 num_decimal 0.351581892966
+alma SNARC line dot CD 0 down 10 num_decimal 0.476877306924
+alma SNARC line dot CD 0 up 10 lctrl 0.566455322981
+alma SNARC line dot CD 0 down 45 num_decimal 0.45933742582
+alma SNARC line dot CD 0 down 25 num_decimal 0.503110311325
+alma SNARC line dot CD 0 down 30 num_decimal 0.470613638614
+alma SNARC line dot CD 0 down 20 num_decimal 0.38973574515
+alma SNARC line dot CD 0 down 30 num_decimal 0.374559525671
+alma SNARC line dot CD 0 down 5 num_decimal 0.476900754558
+alma SNARC line dot CD 0 up 20 lctrl 0.36194714763
+alma SNARC line dot CD 0 down 30 num_decimal 0.487965938635
+alma SNARC line dot CD 0 down 40 num_decimal 0.462407316222
+alma SNARC line dot CD 0 down 45 num_decimal 0.539830708073
+alma SNARC line dot CD 0 down 10 num_decimal 0.587446905979
+alma SNARC line dot CD 0 up 45 lctrl 0.515733538273
+alma SNARC line dot CD 0 up 35 lctrl 0.392972918681
+alma SNARC line dot CD 0 up 30 lctrl 0.297794767397
+alma SNARC line dot CD 0 up 15 lctrl 0.332405226933
+alma SNARC line dot CD 0 up 20 lwindows 0.781848800549
+alma SNARC line dot CD 0 down 40 num_decimal 0.482519437915
+alma SNARC line dot CD 0 up 5 lctrl 0.53524512053
+alma SNARC line dot CD 0 up 40 lctrl 0.433726308702
+alma SNARC line dot CD 0 up 30 lctrl 0.339601901149
+alma SNARC line dot CD 0 up 35 lctrl 0.308693368273
+alma SNARC line dot CD 0 up 35 lctrl 0.304706920307
+alma SNARC line dot CD 0 up 25 lctrl 0.282487661119
+alma SNARC line dot CD 0 up 15 lctrl 0.697210186352
+alma SNARC line dot CD 0 down 45 lctrl 0.310911444581
+alma SNARC line dot CD 0 down 40 num_decimal 0.453092305641
+alma SNARC line dot CD 0 down 40 num_decimal 0.432505981772
+alma SNARC line dot CD 0 down 35 num_decimal 0.28079068226
+alma SNARC line dot CD 0 down 20 num_decimal 0.249858351785
+alma SNARC line dot CD 0 up 25 num_decimal 0.343578200138
+alma SNARC line dot CD 0 up 45 lctrl 0.557744351482
+alma SNARC line dot CD 0 down 40 lctrl 0.279496162811
+alma SNARC line dot CD 0 down 10 num_decimal 0.548105623548
+alma SNARC line dot CD 0 up 15 num_decimal 0.394378026976
+alma SNARC line dot CD 0 down 30 num_decimal 0.505334337032
+alma SNARC line dot CD 0 up 15 lctrl 0.800045565405
+alma SNARC line dot CD 0 up 5 lctrl 0.524028401735
+alma SNARC line dot CD 0 down 30 num_decimal 0.614241953699
+alma SNARC line dot CD 0 down 35 num_decimal 0.692055556196
+alma SNARC line dot CD 0 down 5 num_decimal 0.46612464133
+alma SNARC line dot CD 0 up 15 lctrl 0.47232286624
+alma SNARC line dot CD 0 up 15 lctrl 0.446565463873
+alma SNARC line dot CD 0 up 45 lctrl 0.507001218927
+alma SNARC line dot CD 0 up 30 lctrl 0.48019742209
+alma SNARC line dot CD 0 up 15 lctrl 0.325391234294
+alma SNARC line dot CD 0 down 35 num_decimal 0.525228430713
+alma SNARC line dot CD 0 down 10 num_decimal 0.495739004721
+alma SNARC line dot CD 0 down 5 num_decimal 0.418607483435
+alma SNARC line dot CD 0 down 35 num_decimal 0.465210183554
+alma SNARC line dot CD 0 down 10 num_decimal 0.479973444679
+alma SNARC line dot CD 0 down 40 num_decimal 0.419953447695
+alma SNARC line dot CD 0 up 20 lctrl 0.374108771131
+alma SNARC line dot CD 0 up 35 lctrl 0.279904921589
+alma SNARC line dot CD 0 down 20 lctrl 0.306081231708
+alma SNARC line dot CD 0 up 30 lctrl 0.467753727036
+alma SNARC line dot CD 0 down 40 num_decimal 0.386070214819
+alma SNARC line dot CD 0 up 40 lctrl 0.642980355431
+alma SNARC line dot CD 0 up 30 lctrl 0.403937662886
+alma SNARC line dot CD 0 down 15 num_decimal 0.493336497015
+alma SNARC line dot CD 0 down 5 num_decimal 0.615410485852
+alma SNARC line dot CD 0 down 10 num_decimal 0.413581990257
+alma SNARC line dot CD 0 up 20 lctrl 0.482232116891
+alma SNARC line dot CD 0 down 25 num_decimal 0.341850774349
+alma SNARC line dot CD 0 up 10 lctrl 0.655873055202
+alma SNARC line dot CD 0 down 35 num_decimal 0.598612179961
+alma SNARC line dot CD 0 up 35 lctrl 0.428967138663
+alma SNARC line dot CD 0 down 10 num_decimal 0.402026505627
+alma SNARC line dot CD 0 down 30 num_decimal 0.445386082813
+alma SNARC line dot CD 0 up 45 lctrl 0.486959440141
+alma SNARC line dot CD 0 down 40 num_decimal 0.694199439987
+alma SNARC line dot CD 0 down 40 num_decimal 0.548320851843
+alma SNARC line dot CD 0 down 25 num_decimal 0.569271139006
+alma SNARC line dot CD 0 up 10 lctrl 0.523191636124
+alma SNARC line dot CD 0 down 35 num_decimal 0.431114172135
+alma SNARC line dot CD 0 down 30 num_decimal 0.409300172078
+alma SNARC line dot CD 0 up 5 lctrl 0.607152718649
+alma SNARC line dot CD 0 up 10 lctrl 0.437598668174
+alma SNARC line dot CD 0 up 25 lctrl 0.441125612482
+alma SNARC line dot CD 0 down 10 num_decimal 0.475998895511
+alma SNARC line dot CD 0 down 10 num_decimal 0.373429139671
+alma SNARC line dot CD 0 down 40 num_decimal 0.434174963455
+alma SNARC line dot CD 0 down 10 num_decimal 0.388841235362
+alma SNARC line dot CD 0 up 45 lctrl 0.449187399451
+alma SNARC line dot CD 0 down 15 num_decimal 0.508764341116
+alma SNARC line dot CD 0 down 35 num_decimal 0.501338090054
+alma SNARC line dot CD 0 up 35 lctrl 0.482621627609
+alma SNARC line dot CD 0 up 30 lctrl 0.43205522723
+alma SNARC line dot CD 0 down 30 num_decimal 0.487986936518
+alma SNARC line dot CD 0 down 20 num_decimal 0.476021293252
+alma SNARC line dot CD 0 up 10 lctrl 0.531841363799
+alma SNARC line dot CD 0 down 40 num_decimal 0.528694481161
+alma SNARC line dot CD 0 down 30 num_decimal 0.46249340754
+alma SNARC line dot CD 0 up 30 lctrl 0.349179035295
+alma SNARC line dot CD 0 down 45 num_decimal 0.338555156713
+alma SNARC line dot CD 0 down 20 num_decimal 0.299228922763
+alma SNARC line dot CD 0 down 20 num_decimal 0.376409089143
+alma SNARC line dot CD 0 up 35 lctrl 0.462348172187
+alma SNARC line dot CD 0 up 20 lctrl 0.387469723679
+alma SNARC line dot CD 0 down 30 num_decimal 0.604508035365
+alma SNARC line dot CD 0 up 35 lctrl 0.559080866695
+alma SNARC line dot CD 0 up 35 lctrl 0.571112303324
+alma SNARC line dot CD 0 up 10 lctrl 0.543799307839
+alma SNARC line dot CD 0 up 25 lctrl 0.527562695303
+alma SNARC line dot CD 0 down 15 lctrl 0.371110973459
+alma SNARC line dot CD 0 up 40 lctrl 0.557882587541
+alma SNARC line dot CD 0 down 40 num_decimal 0.508408776975
+alma SNARC line dot CD 0 down 5 num_decimal 0.423797809991
+alma SNARC line dot CD 0 up 35 lctrl 0.515719539685
+alma SNARC line dot CD 0 down 45 num_decimal 0.371098024764
+alma SNARC line dot CD 0 up 15 lctrl 0.63895856103
+alma SNARC line dot CD 0 down 5 lctrl 0.365961242808
+alma SNARC line dot CD 0 up 45 lctrl 0.52068378904
+alma SNARC line dot CD 0 down 35 num_decimal 0.376796500073
+alma SNARC line dot CD 0 down 25 lctrl 0.466493154166
+alma SNARC line dot CD 0 down 20 num_decimal 0.767968500377
+alma SNARC line dot CD 0 up 30 lctrl 0.517822127638
+alma SNARC line dot CD 0 down 40 num_decimal 0.375953785061
+alma SNARC line dot CD 0 down 10 num_decimal 0.364059184631
+alma SNARC line dot CD 0 up 25 lctrl 0.353911608015
+alma SNARC line dot CD 0 up 40 lctrl 0.478019241759
+alma SNARC line dot CD 0 up 10 lctrl 0.398884172531
+alma SNARC line dot CD 0 down 40 num_decimal 0.352813418767
+alma SNARC line dot CD 0 up 20 lctrl 0.618582915912
+alma SNARC line dot CD 0 down 25 lctrl 0.412298319714
+alma SNARC line dot CD 0 up 10 lctrl 0.497460831075
+alma SNARC line dot CD 0 up 20 lctrl 0.455845477984
+alma SNARC line dot CD 0 down 5 num_decimal 0.377039725544
+alma SNARC line dot CD 0 down 35 num_decimal 0.444457626448
+alma SNARC line dot CD 0 down 45 num_decimal 0.450804936322
+alma SNARC line dot CD 0 up 25 lctrl 0.485621875034
+alma SNARC line dot CD 0 up 45 lctrl 0.452936571347
+alma SNARC line dot CD 0 down 25 num_decimal 0.50097937623
+alma SNARC line dot CD 0 up 35 lctrl 0.550838847902
+alma SNARC line dot CD 0 up 15 lctrl 0.40470233577
+alma SNARC line dot CD 0 down 15 num_decimal 0.425626725545
+alma SNARC line dot CD 0 down 10 num_decimal 0.345595396704
+alma SNARC line dot CD 0 up 20 lctrl 0.586348016802
+alma SNARC line dot CD 0 down 40 num_decimal 0.462733483328
+alma SNARC line dot CD 0 down 45 num_decimal 0.445064465249
+alma SNARC line dot CD 0 up 15 lctrl 0.386433478184
+alma SNARC line dot CD 0 down 10 num_decimal 0.43147218603
+alma SNARC line dot CD 0 up 15 lctrl 0.305953494591
+alma SNARC line dot CD 0 down 20 lctrl 0.405541551134
+alma SNARC line dot CD 0 down 40 num_decimal 0.493072273661
+alma SNARC line dot CD 0 up 5 lctrl 0.581248331106
+alma SNARC line dot CD 0 down 10 num_decimal 0.393280537658
+alma SNARC line dot CD 0 up 15 lctrl 0.370044630999
+alma SNARC line dot CD 0 up 25 lctrl 0.635143595768
+alma SNARC line dot CD 0 down 5 num_decimal 0.471807718191
+alma SNARC line dot CD 0 up 5 lctrl 0.9765929606
+alma SNARC line dot CD 0 up 40 lctrl 0.544798457076
+alma SNARC line dot CD 0 up 45 lctrl 0.397228489506
+alma SNARC line dot CD 0 up 20 lctrl 0.42405433412
+alma SNARC line dot CD 0 up 25 lctrl 0.520992457911
+alma SNARC line dot CD 0 down 25 num_decimal 0.832180024644
+alma SNARC line dot CD 0 up 35 lctrl 0.490539929048
+alma SNARC line dot CD 0 down 35 num_decimal 0.385174305172
+alma SNARC line dot CD 0 down 30 num_decimal 0.551576573503
+alma SNARC line dot CD 0 down 25 num_decimal 0.37694803479
+alma SNARC line dot CD 0 down 10 num_decimal 0.420139278954
+alma SNARC line dot CD 0 up 10 lctrl 0.367077630221
+alma SNARC line dot CD 0 up 20 lctrl 0.433282553454
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_17_1004', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'alma', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+alma SNARC line arabic CD 0 down 5 num_decimal 1.16988756684
+alma SNARC line arabic CD 0 up 3 lctrl 0.856462325774
+alma SNARC line arabic CD 0 up 6 lctrl 0.522397566205
+alma SNARC line arabic CD 0 down 6 num_decimal 0.54722231263
+alma SNARC line arabic CD 0 down 8 num_decimal 0.675270199
+alma SNARC line arabic CD 0 up 3 num_decimal 0.555853142211
+alma SNARC line arabic CD 0 down 1 num_decimal 0.611260954333
+alma SNARC line arabic CD 0 down 2 num_decimal 0.510285637693
+alma SNARC line arabic CD 0 down 7 num_decimal 0.466024201459
+alma SNARC line arabic CD 0 up 6 lctrl 0.52530262323
+alma SNARC line arabic CD 0 down 4 num_decimal 0.4771730271
+alma SNARC line arabic CD 0 up 5 lctrl 0.558512873977
+alma SNARC line arabic CD 0 down 1 num_decimal 0.437350193232
+alma SNARC line arabic CD 0 up 8 lctrl 0.556284998658
+alma SNARC line arabic CD 0 down 4 num_decimal 0.334059160134
+alma SNARC line arabic CD 0 up 2 lctrl 0.434404540302
+alma SNARC line arabic CD 0 down 4 num_decimal 0.332338033709
+alma SNARC line arabic CD 0 up 5 lctrl 0.456795632161
+alma SNARC line arabic CD 0 down 9 num_decimal 0.278327280694
+alma SNARC line arabic CD 0 up 3 lctrl 0.284435914638
+alma SNARC line arabic CD 0 down 5 num_decimal 0.467076895295
+alma SNARC line arabic CD 0 down 2 num_decimal 0.514309181919
+alma SNARC line arabic CD 0 down 1 lctrl 0.582891765365
+alma SNARC line arabic CD 0 down 4 num_decimal 0.50205096816
+alma SNARC line arabic CD 0 down 1 num_decimal 0.470525097544
+alma SNARC line arabic CD 0 up 1 lctrl 0.470848814897
+alma SNARC line arabic CD 0 down 7 num_decimal 0.615852141312
+alma SNARC line arabic CD 0 down 1 num_decimal 0.441475577188
+alma SNARC line arabic CD 0 up 3 lctrl 0.533487597776
+alma SNARC line arabic CD 0 up 1 lctrl 0.523181137182
+alma SNARC line arabic CD 0 up 4 lctrl 0.36195309703
+alma SNARC line arabic CD 0 up 6 lctrl 0.469080443238
+alma SNARC line arabic CD 0 down 7 num_decimal 0.426693767933
+alma SNARC line arabic CD 0 up 4 lctrl 0.633468664685
+alma SNARC line arabic CD 0 up 1 lctrl 0.487349650787
+alma SNARC line arabic CD 0 up 9 lctrl 0.368568829833
+alma SNARC line arabic CD 0 up 4 lctrl 0.697841872648
+alma SNARC line arabic CD 0 up 4 lctrl 0.321041172998
+alma SNARC line arabic CD 0 down 3 num_decimal 0.57410590142
+alma SNARC line arabic CD 0 down 9 num_decimal 0.430636470312
+alma SNARC line arabic CD 0 down 4 num_decimal 0.350214580859
+alma SNARC line arabic CD 0 up 4 lctrl 0.596673025525
+alma SNARC line arabic CD 0 down 7 lctrl 0.368681168505
+alma SNARC line arabic CD 0 down 4 num_decimal 0.291652536842
+alma SNARC line arabic CD 0 up 3 lctrl 0.490324700754
+alma SNARC line arabic CD 0 up 8 lctrl 0.675375188413
+alma SNARC line arabic CD 0 down 3 num_decimal 0.468306321308
+alma SNARC line arabic CD 0 down 5 num_decimal 0.532544442893
+alma SNARC line arabic CD 0 down 8 num_decimal 0.441017823352
+alma SNARC line arabic CD 0 up 6 num_decimal 0.449020816251
+alma SNARC line arabic CD 0 up 9 lctrl 0.554886889658
+alma SNARC line arabic CD 0 up 3 lctrl 0.2885840463
+alma SNARC line arabic CD 0 up 1 lctrl 0.355053192886
+alma SNARC line arabic CD 0 up 7 lctrl 0.350668485084
+alma SNARC line arabic CD 0 down 3 num_decimal 0.598074984137
+alma SNARC line arabic CD 0 down 4 num_decimal 0.593318263854
+alma SNARC line arabic CD 0 down 6 num_decimal 0.358275667899
+alma SNARC line arabic CD 0 down 2 num_decimal 0.373500882436
+alma SNARC line arabic CD 0 down 5 num_decimal 0.406646739677
+alma SNARC line arabic CD 0 up 8 lctrl 0.361012041935
+alma SNARC line arabic CD 0 down 7 lctrl 0.267295693229
+alma SNARC line arabic CD 0 down 8 num_decimal 0.312271407428
+alma SNARC line arabic CD 0 down 2 num_decimal 0.283854623262
+alma SNARC line arabic CD 0 down 3 num_decimal 0.352436506778
+alma SNARC line arabic CD 0 up 1 lctrl 0.573237988949
+alma SNARC line arabic CD 0 down 4 num_decimal 0.637525455558
+alma SNARC line arabic CD 0 down 3 num_decimal 0.418957098177
+alma SNARC line arabic CD 0 up 9 lctrl 0.43728894941
+alma SNARC line arabic CD 0 down 5 num_decimal 0.388620057667
+alma SNARC line arabic CD 0 up 1 lctrl 0.532959850999
+alma SNARC line arabic CD 0 down 5 num_decimal 0.31631699943
+alma SNARC line arabic CD 0 down 6 num_decimal 0.458680542068
+alma SNARC line arabic CD 0 down 3 num_decimal 0.368613625316
+alma SNARC line arabic CD 0 up 6 lctrl 0.413382510374
+alma SNARC line arabic CD 0 up 1 lctrl 0.33244442298
+alma SNARC line arabic CD 0 down 1 lctrl 0.343322375938
+alma SNARC line arabic CD 0 up 7 num_decimal 0.314420190723
+alma SNARC line arabic CD 0 down 8 num_decimal 0.538825959402
+alma SNARC line arabic CD 0 up 9 lctrl 0.549328750195
+alma SNARC line arabic CD 0 down 8 num_decimal 0.342145794596
+alma SNARC line arabic CD 0 up 7 lctrl 0.35857103811
+alma SNARC line arabic CD 0 up 1 lctrl 0.438337443668
+alma SNARC line arabic CD 0 down 2 num_decimal 0.493041126802
+alma SNARC line arabic CD 0 down 3 num_decimal 0.465172387365
+alma SNARC line arabic CD 0 down 1 num_decimal 0.364527787372
+alma SNARC line arabic CD 0 up 6 lctrl 0.416550040928
+alma SNARC line arabic CD 0 up 2 lctrl 0.479093633407
+alma SNARC line arabic CD 0 down 7 num_decimal 0.480419999643
+alma SNARC line arabic CD 0 down 6 num_decimal 0.677413032896
+alma SNARC line arabic CD 0 down 3 num_decimal 0.41669737607
+alma SNARC line arabic CD 0 down 3 num_decimal 0.435040076208
+alma SNARC line arabic CD 0 up 8 lctrl 0.547076027383
+alma SNARC line arabic CD 0 up 1 lctrl 0.345234233127
+alma SNARC line arabic CD 0 up 8 lctrl 0.553549324551
+alma SNARC line arabic CD 0 up 7 lctrl 0.413098339032
+alma SNARC line arabic CD 0 up 2 lctrl 0.337631249889
+alma SNARC line arabic CD 0 down 9 num_decimal 0.480047637196
+alma SNARC line arabic CD 0 down 9 num_decimal 0.343554752503
+alma SNARC line arabic CD 0 up 1 lctrl 0.360915451677
+alma SNARC line arabic CD 0 down 6 num_decimal 0.451610555075
+alma SNARC line arabic CD 0 down 6 num_decimal 0.409026849642
+alma SNARC line arabic CD 0 down 3 num_decimal 0.447734345991
+alma SNARC line arabic CD 0 down 5 num_decimal 0.425824805568
+alma SNARC line arabic CD 0 down 2 num_decimal 0.391711645881
+alma SNARC line arabic CD 0 up 3 lctrl 0.361093233747
+alma SNARC line arabic CD 0 down 6 lctrl 0.29308914196
+alma SNARC line arabic CD 0 down 7 num_decimal 0.384119161583
+alma SNARC line arabic CD 0 up 9 num_decimal 0.327113060647
+alma SNARC line arabic CD 0 up 2 lctrl 0.683546864298
+alma SNARC line arabic CD 0 up 6 lctrl 0.372748108353
+alma SNARC line arabic CD 0 down 5 num_decimal 0.669802700398
+alma SNARC line arabic CD 0 up 7 lctrl 0.443740898731
+alma SNARC line arabic CD 0 up 6 lctrl 0.404977757994
+alma SNARC line arabic CD 0 up 8 lctrl 0.41749459567
+alma SNARC line arabic CD 0 down 9 num_decimal 0.555586469104
+alma SNARC line arabic CD 0 up 2 lctrl 0.541456994062
+alma SNARC line arabic CD 0 down 3 num_decimal 0.563607660168
+alma SNARC line arabic CD 0 up 4 lctrl 0.645751725938
+alma SNARC line arabic CD 0 down 5 num_decimal 0.344817075198
+alma SNARC line arabic CD 0 up 6 lctrl 0.553557023774
+alma SNARC line arabic CD 0 up 9 lctrl 0.520999807169
+alma SNARC line arabic CD 0 up 3 lctrl 0.561508921825
+alma SNARC line arabic CD 0 up 3 lctrl 0.358376457734
+alma SNARC line arabic CD 0 down 6 num_decimal 0.551043577255
+alma SNARC line arabic CD 0 up 9 lctrl 0.427289057898
+alma SNARC line arabic CD 0 up 4 lctrl 0.396916320989
+alma SNARC line arabic CD 0 down 1 num_decimal 0.405358869559
+alma SNARC line arabic CD 0 up 6 lctrl 0.490771255719
+alma SNARC line arabic CD 0 down 1 num_decimal 0.300797464576
+alma SNARC line arabic CD 0 up 5 lctrl 0.420724419942
+alma SNARC line arabic CD 0 up 4 lctrl 0.573913770796
+alma SNARC line arabic CD 0 up 8 lctrl 0.425391199297
+alma SNARC line arabic CD 0 down 9 num_decimal 0.517166643745
+alma SNARC line arabic CD 0 down 9 num_decimal 0.434524228232
+alma SNARC line arabic CD 0 down 2 num_decimal 0.523460758983
+alma SNARC line arabic CD 0 up 4 lctrl 0.28589211778
+alma SNARC line arabic CD 0 down 5 num_decimal 0.54373316451
+alma SNARC line arabic CD 0 down 2 num_decimal 0.43334694696
+alma SNARC line arabic CD 0 down 9 num_decimal 0.396693043506
+alma SNARC line arabic CD 0 down 7 num_decimal 0.389118057444
+alma SNARC line arabic CD 0 up 5 num_decimal 0.435696609997
+alma SNARC line arabic CD 0 up 7 lctrl 0.423389051214
+alma SNARC line arabic CD 0 down 9 lctrl 0.244093733147
+alma SNARC line arabic CD 0 down 2 num_decimal 0.288327872134
+alma SNARC line arabic CD 0 down 6 num_decimal 0.502567516067
+alma SNARC line arabic CD 0 up 7 lctrl 0.631805282437
+alma SNARC line arabic CD 0 up 7 lctrl 0.366544983938
+alma SNARC line arabic CD 0 up 6 lctrl 0.447286391167
+alma SNARC line arabic CD 0 up 7 lctrl 0.317738906031
+alma SNARC line arabic CD 0 down 9 num_decimal 0.587784971885
+alma SNARC line arabic CD 0 down 2 num_decimal 0.448822036298
+alma SNARC line arabic CD 0 up 6 lctrl 0.438929933915
+alma SNARC line arabic CD 0 up 4 lctrl 0.425886749321
+alma SNARC line arabic CD 0 down 5 num_decimal 0.389068012491
+alma SNARC line arabic CD 0 down 4 num_decimal 0.485503236998
+alma SNARC line arabic CD 0 up 9 lctrl 0.482064833761
+alma SNARC line arabic CD 0 down 5 num_decimal 0.538009841707
+alma SNARC line arabic CD 0 up 9 lctrl 0.635614648263
+alma SNARC line arabic CD 0 up 2 lctrl 0.356659530887
+alma SNARC line arabic CD 0 up 6 lctrl 0.457108850572
+alma SNARC line arabic CD 0 up 9 lctrl 0.378527425509
+alma SNARC line arabic CD 0 down 2 lctrl 0.332454921921
+alma SNARC line arabic CD 0 up 7 num_decimal 0.300340410669
+alma SNARC line arabic CD 0 up 1 lctrl 0.630680495872
+alma SNARC line arabic CD 0 down 4 num_decimal 0.444838038085
+alma SNARC line arabic CD 0 up 2 lctrl 0.456892222419
+alma SNARC line arabic CD 0 down 2 num_decimal 0.459816527504
+alma SNARC line arabic CD 0 up 3 lctrl 0.376714258367
+alma SNARC line arabic CD 0 up 7 lctrl 0.346866818481
+alma SNARC line arabic CD 0 down 7 num_decimal 0.628680797542
+alma SNARC line arabic CD 0 up 8 lctrl 0.394370677717
+alma SNARC line arabic CD 0 up 4 lctrl 0.398994761378
+alma SNARC line arabic CD 0 up 5 lctrl 0.337641398864
+alma SNARC line arabic CD 0 up 8 lctrl 0.489552678612
+alma SNARC line arabic CD 0 down 1 num_decimal 0.365294910009
+alma SNARC line arabic CD 0 up 4 lctrl 0.39853385786
+alma SNARC line arabic CD 0 down 3 num_decimal 0.385006322113
+alma SNARC line arabic CD 0 down 6 num_decimal 0.511048560752
+alma SNARC line arabic CD 0 down 4 num_decimal 0.489007083635
+alma SNARC line arabic CD 0 down 3 num_decimal 0.479219270736
+alma SNARC line arabic CD 0 down 5 num_decimal 0.400190940743
+alma SNARC line arabic CD 0 down 6 num_decimal 0.373938688283
+alma SNARC line arabic CD 0 down 1 num_decimal 0.376854944178
+alma SNARC line arabic CD 0 down 5 num_decimal 0.516256035579
+alma SNARC line arabic CD 0 down 2 num_decimal 0.413960302103
+alma SNARC line arabic CD 0 up 7 num_decimal 0.379009326909
+alma SNARC line arabic CD 0 down 8 num_decimal 0.497710005946
+alma SNARC line arabic CD 0 down 4 num_decimal 0.408389563912
+alma SNARC line arabic CD 0 up 5 lctrl 0.353977051414
+alma SNARC line arabic CD 0 down 5 num_decimal 0.592442302193
+alma SNARC line arabic CD 0 up 1 lctrl 0.289230431111
+alma SNARC line arabic CD 0 down 7 num_decimal 0.463069799411
+alma SNARC line arabic CD 0 up 5 lctrl 0.362349257077
+alma SNARC line arabic CD 0 up 3 lctrl 0.491024980131
+alma SNARC line arabic CD 0 up 8 lctrl 0.504080763455
+alma SNARC line arabic CD 0 down 8 lctrl 0.299041691645
+alma SNARC line arabic CD 0 up 8 lctrl 0.671422337057
+alma SNARC line arabic CD 0 down 2 num_decimal 0.482929246586
+alma SNARC line arabic CD 0 up 5 lctrl 0.758143241254
+alma SNARC line arabic CD 0 down 2 num_decimal 0.401362272615
+alma SNARC line arabic CD 0 up 2 lctrl 0.597093683102
+alma SNARC line arabic CD 0 down 5 num_decimal 0.387490021631
+alma SNARC line arabic CD 0 up 5 num_decimal 0.47719017537
+alma SNARC line arabic CD 0 up 9 lctrl 0.638575349676
+alma SNARC line arabic CD 0 up 4 lctrl 0.450898726864
+alma SNARC line arabic CD 0 up 9 lctrl 0.562055216731
+alma SNARC line arabic CD 0 down 4 num_decimal 0.487365049235
+alma SNARC line arabic CD 0 down 9 num_decimal 0.408331119806
+alma SNARC line arabic CD 0 down 3 num_decimal 0.436255153668
+alma SNARC line arabic CD 0 down 8 num_decimal 0.360645278924
+alma SNARC line arabic CD 0 up 6 lctrl 0.619070066784
+alma SNARC line arabic CD 0 up 6 lctrl 0.496789948734
+alma SNARC line arabic CD 0 down 8 num_decimal 0.53371997434
+alma SNARC line arabic CD 0 up 7 lctrl 0.466531650283
+alma SNARC line arabic CD 0 down 6 num_decimal 0.288069948146
+alma SNARC line arabic CD 0 up 2 num_decimal 0.512372127271
+alma SNARC line arabic CD 0 down 7 num_decimal 0.490088124612
+alma SNARC line arabic CD 0 down 4 num_decimal 0.388973871985
+alma SNARC line arabic CD 0 up 1 lctrl 0.352539746367
+alma SNARC line arabic CD 0 down 9 num_decimal 0.884737024271
+alma SNARC line arabic CD 0 down 3 num_decimal 0.434861944173
+alma SNARC line arabic CD 0 up 2 lctrl 0.34449370781
+alma SNARC line arabic CD 0 down 1 lctrl 0.38059781671
+alma SNARC line arabic CD 0 up 3 lctrl 0.535613283399
+alma SNARC line arabic CD 0 up 7 lctrl 0.479311311455
+alma SNARC line arabic CD 0 up 8 lctrl 0.392645351716
+alma SNARC line arabic CD 0 up 2 lctrl 0.379850292098
+alma SNARC line arabic CD 0 down 5 num_decimal 0.563598211121
+alma SNARC line arabic CD 0 down 6 num_decimal 0.39223064354
+alma SNARC line arabic CD 0 up 2 lctrl 0.492216609955
+alma SNARC line arabic CD 0 down 8 num_decimal 0.344301227221
+alma SNARC line arabic CD 0 up 5 lctrl 0.56263370839
+alma SNARC line arabic CD 0 up 4 lctrl 0.755942663182
+alma SNARC line arabic CD 0 down 4 num_decimal 0.567027865241
+alma SNARC line arabic CD 0 up 2 lctrl 0.482279362126
+alma SNARC line arabic CD 0 down 4 num_decimal 0.385528469454
+alma SNARC line arabic CD 0 down 2 num_decimal 0.491316500731
+alma SNARC line arabic CD 0 up 7 lctrl 0.423897549932
+alma SNARC line arabic CD 0 up 1 lctrl 0.420618030672
+alma SNARC line arabic CD 0 down 7 num_decimal 0.366758112445
+alma SNARC line arabic CD 0 down 3 num_decimal 0.344334123904
+alma SNARC line arabic CD 0 down 5 num_decimal 0.519120146733
+alma SNARC line arabic CD 0 down 2 num_decimal 0.404636192439
+alma SNARC line arabic CD 0 up 1 lctrl 0.515125299614
+alma SNARC line arabic CD 0 down 5 num_decimal 0.458120948502
+alma SNARC line arabic CD 0 down 2 lctrl 0.28535142231
+alma SNARC line arabic CD 0 up 8 lctrl 0.596861656502
+alma SNARC line arabic CD 0 down 7 num_decimal 0.520275030263
+alma SNARC line arabic CD 0 down 6 lctrl 0.481307160173
+alma SNARC line arabic CD 0 down 5 num_decimal 0.523097495618
+alma SNARC line arabic CD 0 up 2 lctrl 0.560624211048
+alma SNARC line arabic CD 0 down 8 num_decimal 0.417141131316
+alma SNARC line arabic CD 0 up 5 lctrl 0.493723907944
+alma SNARC line arabic CD 0 down 8 num_decimal 0.40672653163
+alma SNARC line arabic CD 0 down 9 num_decimal 0.511494765753
+alma SNARC line arabic CD 0 down 5 num_decimal 0.436886839962
+alma SNARC line arabic CD 0 down 3 num_decimal 0.545740912029
+alma SNARC line arabic CD 0 up 5 lctrl 0.586217829932
+alma SNARC line arabic CD 0 down 9 num_decimal 0.586160785685
+alma SNARC line arabic CD 0 down 8 num_decimal 0.501823491101
+alma SNARC line arabic CD 0 up 4 lctrl 0.366776660574
+alma SNARC line arabic CD 0 up 8 lctrl 0.423536036391
+alma SNARC line arabic CD 0 up 5 lctrl 0.640554050125
+alma SNARC line arabic CD 0 up 9 lctrl 0.557960629671
+alma SNARC line arabic CD 0 down 3 num_decimal 0.59835110629
+alma SNARC line arabic CD 0 down 7 num_decimal 0.378321296297
+alma SNARC line arabic CD 0 down 9 num_decimal 0.410410960055
+alma SNARC line arabic CD 0 down 6 num_decimal 0.42427516185
+alma SNARC line arabic CD 0 down 1 num_decimal 0.584686384378
+alma SNARC line arabic CD 0 down 9 num_decimal 0.42627556011
+alma SNARC line arabic CD 0 up 4 num_decimal 0.492700961108
+alma SNARC line arabic CD 0 up 9 lctrl 0.55797777794
+alma SNARC line arabic CD 0 up 7 lctrl 0.34156380329
+alma SNARC line arabic CD 0 up 8 lctrl 0.814097698248
+alma SNARC line arabic CD 0 up 7 lctrl 0.421204921484
+alma SNARC line arabic CD 0 up 3 lctrl 0.412981100856
+alma SNARC line arabic CD 0 up 1 lctrl 0.534032142858
+alma SNARC line arabic CD 0 up 7 lctrl 0.394618802694
+alma SNARC line arabic CD 0 up 3 lctrl 0.336626501217
+alma SNARC line arabic CD 0 up 4 lctrl 0.304734217554
+alma SNARC line arabic CD 0 down 1 lctrl 0.361398402971
+alma SNARC line arabic CD 0 up 7 lctrl 0.781982487066
+alma SNARC line arabic CD 0 down 3 num_decimal 0.459804628703
+alma SNARC line arabic CD 0 up 6 lctrl 0.428855149959
+alma SNARC line arabic CD 0 down 3 num_decimal 0.327165555354
+alma SNARC line arabic CD 0 up 2 lctrl 0.608279954966
+alma SNARC line arabic CD 0 up 4 lctrl 0.392687347481
+alma SNARC line arabic CD 0 up 8 lctrl 0.364964893291
+alma SNARC line arabic CD 0 down 8 num_decimal 0.461877819622
+alma SNARC line arabic CD 0 up 7 lctrl 0.455282034807
+alma SNARC line arabic CD 0 up 9 lctrl 0.420814360871
+alma SNARC line arabic CD 0 down 1 lctrl 0.345548501434
+alma SNARC line arabic CD 0 up 3 lctrl 0.439617964528
+alma SNARC line arabic CD 0 down 5 num_decimal 0.447363033438
+alma SNARC line arabic CD 0 down 3 num_decimal 0.640861319136
+alma SNARC line arabic CD 0 down 7 num_decimal 0.633560705403
+alma SNARC line arabic CD 0 up 9 lctrl 0.573119000949
+alma SNARC line arabic CD 0 up 5 lctrl 0.453072007688
+alma SNARC line arabic CD 0 down 9 num_decimal 1.06450234494
+alma SNARC line arabic CD 0 up 6 lctrl 0.507499918634
+alma SNARC line arabic CD 0 down 9 num_decimal 0.489301753918
+alma SNARC line arabic CD 0 down 1 num_decimal 0.462917914728
+alma SNARC line arabic CD 0 up 4 lctrl 0.43722280608
+alma SNARC line arabic CD 0 up 7 lctrl 0.50705651335
+alma SNARC line arabic CD 0 up 2 lctrl 0.328662004436
+alma SNARC line arabic CD 0 down 9 num_decimal 0.314381694607
+alma SNARC line arabic CD 0 down 8 num_decimal 0.400043605602
+alma SNARC line arabic CD 0 up 2 lctrl 0.531030845539
+alma SNARC line arabic CD 0 down 9 num_decimal 0.295066792514
+alma SNARC line arabic CD 0 down 3 num_decimal 0.513351328519
+alma SNARC line arabic CD 0 down 3 num_decimal 0.506628156551
+alma SNARC line arabic CD 0 down 6 num_decimal 0.454931020206
+alma SNARC line arabic CD 0 down 5 num_decimal 0.379433484133
+alma SNARC line arabic CD 0 down 1 num_decimal 0.560954227766
+alma SNARC line arabic CD 0 up 5 num_decimal 0.353122437603
+alma SNARC line arabic CD 0 up 8 lctrl 0.494147015273
+alma SNARC line arabic CD 0 up 6 lctrl 0.26012701619
+alma SNARC line arabic CD 0 down 7 num_decimal 0.549947837761
+alma SNARC line arabic CD 0 up 7 lctrl 0.364676522373
+alma SNARC line arabic CD 0 up 8 lctrl 0.439454181045
+alma SNARC line arabic CD 0 down 9 num_decimal 0.436961732409
+alma SNARC line arabic CD 0 down 9 num_decimal 0.533579288528
+alma SNARC line arabic CD 0 down 1 num_decimal 0.412776721467
+alma SNARC line arabic CD 0 down 6 num_decimal 0.408803922124
+alma SNARC line arabic CD 0 down 6 num_decimal 0.378625065663
+alma SNARC line arabic CD 0 up 9 lctrl 0.468860315437
+alma SNARC line arabic CD 0 up 8 lctrl 0.346702335069
+alma SNARC line arabic CD 0 down 1 lctrl 0.378254803003
+alma SNARC line arabic CD 0 up 2 lctrl 0.680629208544
+alma SNARC line arabic CD 0 up 4 lctrl 0.451074409146
+alma SNARC line arabic CD 0 up 4 lctrl 0.451489817253
+alma SNARC line arabic CD 0 down 5 num_decimal 0.445747596355
+alma SNARC line arabic CD 0 up 8 lctrl 0.518945864309
+alma SNARC line arabic CD 0 up 2 lctrl 0.447063463649
+alma SNARC line arabic CD 0 up 6 lctrl 0.493853044922
+alma SNARC line arabic CD 0 down 6 lctrl 0.392879828069
+alma SNARC line arabic CD 0 down 1 num_decimal 1.06199729757
+alma SNARC line arabic CD 0 up 1 lctrl 0.665704263725
+alma SNARC line arabic CD 0 up 7 lctrl 0.729807998863
+alma SNARC line arabic CD 0 up 8 lctrl 0.463799125859
+alma SNARC line arabic CD 0 up 9 lctrl 0.601599128728
+alma SNARC line arabic CD 0 down 4 num_decimal 0.549857896831
+alma SNARC line arabic CD 0 down 8 num_decimal 0.710607885194
+alma SNARC line arabic CD 0 up 7 lctrl 0.519401868321
+alma SNARC line arabic CD 0 down 1 num_decimal 0.330225296779
+alma SNARC line arabic CD 0 down 2 num_decimal 0.523033102112
+alma SNARC line arabic CD 0 up 3 lctrl 0.487213864481
+alma SNARC line arabic CD 0 up 6 lctrl 0.363348406314
+alma SNARC line arabic CD 0 down 1 num_decimal 0.525338669597
+alma SNARC line arabic CD 0 down 3 num_decimal 0.482778761761
+alma SNARC line arabic CD 0 down 8 num_decimal 0.400814227885
+alma SNARC line arabic CD 0 down 8 num_decimal 0.418741519919
+alma SNARC line arabic CD 0 down 4 num_decimal 0.458903469584
+alma SNARC line arabic CD 0 up 6 lctrl 0.507111807774
+alma SNARC line arabic CD 0 down 1 num_decimal 0.560354038294
+alma SNARC line arabic CD 0 up 8 lctrl 0.37803082559
+alma SNARC line arabic CD 0 up 4 lctrl 0.369124923751
+alma SNARC line arabic CD 0 up 2 lctrl 0.374579123696
+alma SNARC line arabic CD 0 down 5 num_decimal 0.419795613612
+alma SNARC line arabic CD 0 up 2 lctrl 0.48275111455
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_17_1012', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'alma', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+alma SNARC line dot DC 0 down 25 lctrl 1.85142633365
+alma SNARC line dot DC 0 down 20 lctrl 0.525120291619
+alma SNARC line dot DC 0 down 5 lctrl 0.444999371814
+alma SNARC line dot DC 0 up 45 num_decimal 0.487493486282
+alma SNARC line dot DC 0 down 5 lctrl 0.570019013583
+alma SNARC line dot DC 0 down 5 lctrl 0.447507918827
+alma SNARC line dot DC 0 down 30 lctrl 0.523169238382
+alma SNARC line dot DC 0 down 40 lctrl 0.398542606978
+alma SNARC line dot DC 0 up 45 num_decimal 0.503953726267
+alma SNARC line dot DC 0 down 5 lctrl 0.384548918242
+alma SNARC line dot DC 0 down 10 lctrl 0.412341715337
+alma SNARC line dot DC 0 up 40 num_decimal 0.39184463247
+alma SNARC line dot DC 0 down 15 lctrl 0.430192365098
+alma SNARC line dot DC 0 down 35 lctrl 0.376114068897
+alma SNARC line dot DC 0 down 15 lctrl 0.479641678137
+alma SNARC line dot DC 0 up 35 num_decimal 0.461926464715
+alma SNARC line dot DC 0 down 35 lctrl 0.324519472211
+alma SNARC line dot DC 0 up 5 num_decimal 0.47662498237
+alma SNARC line dot DC 0 down 20 lctrl 0.362493442535
+alma SNARC line dot DC 0 up 5 num_decimal 0.522303775664
+alma SNARC line dot DC 0 up 5 num_decimal 0.376191411096
+alma SNARC line dot DC 0 up 20 num_decimal 0.700806423672
+alma SNARC line dot DC 0 down 15 lctrl 0.663797656007
+alma SNARC line dot DC 0 up 35 num_decimal 0.525046449065
+alma SNARC line dot DC 0 down 5 lctrl 0.295152183902
+alma SNARC line dot DC 0 up 10 num_decimal 0.581698735683
+alma SNARC line dot DC 0 down 5 lctrl 0.384269296441
+alma SNARC line dot DC 0 up 25 num_decimal 0.343283179893
+alma SNARC line dot DC 0 up 35 lctrl 0.41294575442
+alma SNARC line dot DC 0 up 10 num_decimal 1.54223216589
+alma SNARC line dot DC 0 up 20 num_decimal 0.446804139803
+alma SNARC line dot DC 0 up 15 num_decimal 0.419439349542
+alma SNARC line dot DC 0 down 15 lctrl 0.504189252515
+alma SNARC line dot DC 0 down 45 lctrl 0.573129149925
+alma SNARC line dot DC 0 up 45 num_decimal 0.629213443824
+alma SNARC line dot DC 0 up 45 num_decimal 0.409981203396
+alma SNARC line dot DC 0 down 20 lctrl 0.368898846551
+alma SNARC line dot DC 0 up 25 num_decimal 0.376050725285
+alma SNARC line dot DC 0 down 45 lctrl 0.38240993396
+alma SNARC line dot DC 0 up 25 num_decimal 0.392416124834
+alma SNARC line dot DC 0 up 45 num_decimal 0.444157356731
+alma SNARC line dot DC 0 up 45 num_decimal 0.396449468071
+alma SNARC line dot DC 0 down 35 lctrl 0.389902678315
+alma SNARC line dot DC 0 down 40 lctrl 0.390998067845
+alma SNARC line dot DC 0 up 10 num_decimal 0.45534922803
+alma SNARC line dot DC 0 up 40 lctrl 0.469883262274
+alma SNARC line dot DC 0 down 35 num_decimal 0.344850321844
+alma SNARC line dot DC 0 down 10 lctrl 0.638938963006
+alma SNARC line dot DC 0 up 35 num_decimal 0.426371800404
+alma SNARC line dot DC 0 down 30 lctrl 0.358938501053
+alma SNARC line dot DC 0 up 20 num_decimal 0.459381871338
+alma SNARC line dot DC 0 down 35 lctrl 0.346293576293
+alma SNARC line dot DC 0 up 45 num_decimal 0.444881083742
+alma SNARC line dot DC 0 up 15 num_decimal 0.38643767776
+alma SNARC line dot DC 0 down 45 lctrl 0.478121081489
+alma SNARC line dot DC 0 up 25 num_decimal 0.502541618676
+alma SNARC line dot DC 0 up 35 num_decimal 0.390455972516
+alma SNARC line dot DC 0 up 25 num_decimal 0.376767103036
+alma SNARC line dot DC 0 down 25 lctrl 0.380659410499
+alma SNARC line dot DC 0 up 15 num_decimal 0.456579703938
+alma SNARC line dot DC 0 up 40 num_decimal 0.389706698079
+alma SNARC line dot DC 0 up 20 num_decimal 0.349356117435
+alma SNARC line dot DC 0 down 20 num_decimal 0.369087477528
+alma SNARC line dot DC 0 up 30 lctrl 0.525719781159
+alma SNARC line dot DC 0 up 30 num_decimal 1.15805281038
+alma SNARC line dot DC 0 down 45 lctrl 0.571156398877
+alma SNARC line dot DC 0 down 5 lctrl 0.600364803209
+alma SNARC line dot DC 0 up 15 num_decimal 0.508873530105
+alma SNARC line dot DC 0 down 45 lctrl 0.473426304958
+alma SNARC line dot DC 0 up 10 num_decimal 0.333258440887
+alma SNARC line dot DC 0 down 40 lctrl 0.471654083687
+alma SNARC line dot DC 0 up 5 num_decimal 0.453026162311
+alma SNARC line dot DC 0 down 15 lctrl 0.452590806217
+alma SNARC line dot DC 0 up 30 num_decimal 0.379743202899
+alma SNARC line dot DC 0 up 25 num_decimal 0.428482437546
+alma SNARC line dot DC 0 up 30 num_decimal 0.377100269438
+alma SNARC line dot DC 0 up 20 num_decimal 0.354944703826
+alma SNARC line dot DC 0 up 15 num_decimal 0.32024570322
+alma SNARC line dot DC 0 up 25 num_decimal 0.344408666386
+alma SNARC line dot DC 0 up 20 num_decimal 0.347542250363
+alma SNARC line dot DC 0 up 40 num_decimal 0.432313151219
+alma SNARC line dot DC 0 up 35 num_decimal 0.36830670627
+alma SNARC line dot DC 0 down 15 lctrl 0.520672940132
+alma SNARC line dot DC 0 down 40 lctrl 0.612739555216
+alma SNARC line dot DC 0 up 25 num_decimal 0.567456222041
+alma SNARC line dot DC 0 up 20 num_decimal 0.541301959698
+alma SNARC line dot DC 0 up 20 num_decimal 0.395699843672
+alma SNARC line dot DC 0 up 5 num_decimal 0.354894658874
+alma SNARC line dot DC 0 up 35 num_decimal 0.363105180842
+alma SNARC line dot DC 0 down 35 num_decimal 0.364339156396
+alma SNARC line dot DC 0 down 30 lctrl 0.67987188492
+alma SNARC line dot DC 0 down 5 lctrl 0.316473083689
+alma SNARC line dot DC 0 down 25 lctrl 0.404662789759
+alma SNARC line dot DC 0 up 45 num_decimal 0.43722420594
+alma SNARC line dot DC 0 up 25 num_decimal 0.363900300656
+alma SNARC line dot DC 0 down 20 lctrl 0.482181022044
+alma SNARC line dot DC 0 down 10 lctrl 0.459583101045
+alma SNARC line dot DC 0 up 25 num_decimal 0.363078933489
+alma SNARC line dot DC 0 up 15 num_decimal 0.301725920941
+alma SNARC line dot DC 0 down 40 lctrl 0.578221136398
+alma SNARC line dot DC 0 up 20 num_decimal 0.273251742563
+alma SNARC line dot DC 0 down 30 lctrl 0.355104987662
+alma SNARC line dot DC 0 up 45 num_decimal 0.308189419096
+alma SNARC line dot DC 0 up 15 num_decimal 0.381986826629
+alma SNARC line dot DC 0 up 15 num_decimal 0.396378425236
+alma SNARC line dot DC 0 down 15 lctrl 0.416422653776
+alma SNARC line dot DC 0 up 45 num_decimal 0.318399639396
+alma SNARC line dot DC 0 down 20 lctrl 0.429245710569
+alma SNARC line dot DC 0 up 45 num_decimal 0.324455778635
+alma SNARC line dot DC 0 up 10 num_decimal 0.571882925607
+alma SNARC line dot DC 0 down 20 lctrl 0.47417312964
+alma SNARC line dot DC 0 up 40 num_decimal 0.268989872371
+alma SNARC line dot DC 0 down 20 lctrl 0.411995250279
+alma SNARC line dot DC 0 up 10 num_decimal 0.224341025207
+alma SNARC line dot DC 0 down 5 lctrl 0.32021665615
+alma SNARC line dot DC 0 down 40 lctrl 0.485752061904
+alma SNARC line dot DC 0 down 5 num_decimal 0.428969238452
+alma SNARC line dot DC 0 up 35 num_decimal 0.504321539172
+alma SNARC line dot DC 0 down 40 lctrl 0.437262002128
+alma SNARC line dot DC 0 down 20 lctrl 0.345217784787
+alma SNARC line dot DC 0 up 30 num_decimal 0.447321737602
+alma SNARC line dot DC 0 up 35 num_decimal 0.527079394044
+alma SNARC line dot DC 0 down 15 lctrl 0.30929320778
+alma SNARC line dot DC 0 down 20 lctrl 0.274990717186
+alma SNARC line dot DC 0 down 20 lctrl 0.309735563169
+alma SNARC line dot DC 0 up 10 lctrl 0.466034350437
+alma SNARC line dot DC 0 up 45 num_decimal 0.469209930179
+alma SNARC line dot DC 0 up 40 num_decimal 0.354791419286
+alma SNARC line dot DC 0 up 5 num_decimal 0.396126800611
+alma SNARC line dot DC 0 down 25 lctrl 0.573772735021
+alma SNARC line dot DC 0 down 5 lctrl 0.330493019779
+alma SNARC line dot DC 0 up 25 num_decimal 0.561141458884
+alma SNARC line dot DC 0 up 10 num_decimal 0.50291363116
+alma SNARC line dot DC 0 up 30 num_decimal 0.589512397675
+alma SNARC line dot DC 0 down 5 lctrl 0.474475499146
+alma SNARC line dot DC 0 up 30 num_decimal 0.38160326531
+alma SNARC line dot DC 0 down 30 lctrl 0.652357309766
+alma SNARC line dot DC 0 up 30 lctrl 0.594304464395
+alma SNARC line dot DC 0 up 10 num_decimal 0.550022380243
+alma SNARC line dot DC 0 up 5 num_decimal 0.339251936442
+alma SNARC line dot DC 0 down 15 lctrl 0.440344141292
+alma SNARC line dot DC 0 down 45 lctrl 0.547409893714
+alma SNARC line dot DC 0 down 5 lctrl 0.386608110572
+alma SNARC line dot DC 0 down 20 lctrl 0.348498703906
+alma SNARC line dot DC 0 up 30 num_decimal 0.34608289754
+alma SNARC line dot DC 0 down 10 lctrl 0.419085185258
+alma SNARC line dot DC 0 up 40 num_decimal 0.506653004044
+alma SNARC line dot DC 0 up 40 num_decimal 0.437680909881
+alma SNARC line dot DC 0 up 30 num_decimal 0.376024477931
+alma SNARC line dot DC 0 up 45 num_decimal 0.386018070078
+alma SNARC line dot DC 0 down 10 lctrl 0.256284403718
+alma SNARC line dot DC 0 up 45 num_decimal 0.497177359664
+alma SNARC line dot DC 0 down 25 lctrl 0.315468335019
+alma SNARC line dot DC 0 up 40 num_decimal 0.319409637537
+alma SNARC line dot DC 0 up 40 num_decimal 0.523895765111
+alma SNARC line dot DC 0 up 35 num_decimal 0.275225543504
+alma SNARC line dot DC 0 down 10 lctrl 0.403298627334
+alma SNARC line dot DC 0 up 10 lctrl 0.259326296942
+alma SNARC line dot DC 0 down 25 num_decimal 0.434665264009
+alma SNARC line dot DC 0 down 20 lctrl 1.89777880901
+alma SNARC line dot DC 0 down 45 lctrl 0.388837385748
+alma SNARC line dot DC 0 up 5 num_decimal 0.58777867252
+alma SNARC line dot DC 0 down 30 lctrl 0.43022736157
+alma SNARC line dot DC 0 down 45 lctrl 0.423641725731
+alma SNARC line dot DC 0 up 20 num_decimal 0.406017153169
+alma SNARC line dot DC 0 down 35 lctrl 0.359693374923
+alma SNARC line dot DC 0 down 10 lctrl 0.436358743222
+alma SNARC line dot DC 0 down 10 lctrl 0.720825804718
+alma SNARC line dot DC 0 up 40 num_decimal 0.482976841786
+alma SNARC line dot DC 0 down 45 num_decimal 0.437731304797
+alma SNARC line dot DC 0 down 35 lctrl 0.435750154596
+alma SNARC line dot DC 0 up 25 num_decimal 0.59204124264
+alma SNARC line dot DC 0 up 20 num_decimal 0.57341647095
+alma SNARC line dot DC 0 up 20 num_decimal 0.39733732853
+alma SNARC line dot DC 0 up 15 num_decimal 0.366501588314
+alma SNARC line dot DC 0 up 35 num_decimal 0.407007903254
+alma SNARC line dot DC 0 down 45 lctrl 0.545418594535
+alma SNARC line dot DC 0 down 40 lctrl 0.405758529252
+alma SNARC line dot DC 0 up 35 num_decimal 0.586054046449
+alma SNARC line dot DC 0 up 15 num_decimal 0.641251529783
+alma SNARC line dot DC 0 up 30 num_decimal 0.416014244964
+alma SNARC line dot DC 0 down 10 lctrl 0.481190971892
+alma SNARC line dot DC 0 up 20 num_decimal 0.335125852558
+alma SNARC line dot DC 0 up 45 num_decimal 0.4405096746
+alma SNARC line dot DC 0 up 30 num_decimal 0.439053121494
+alma SNARC line dot DC 0 down 30 lctrl 0.469395061507
+alma SNARC line dot DC 0 up 45 num_decimal 0.538771714871
+alma SNARC line dot DC 0 down 15 lctrl 0.490897243013
+alma SNARC line dot DC 0 down 5 lctrl 0.434378642914
+alma SNARC line dot DC 0 up 35 num_decimal 0.399162044509
+alma SNARC line dot DC 0 down 5 lctrl 0.315824249124
+alma SNARC line dot DC 0 up 40 num_decimal 0.323821292623
+alma SNARC line dot DC 0 up 15 num_decimal 0.503257296503
+alma SNARC line dot DC 0 up 40 num_decimal 0.391247242715
+alma SNARC line dot DC 0 up 5 num_decimal 0.370204914834
+alma SNARC line dot DC 0 down 40 lctrl 0.347041100904
+alma SNARC line dot DC 0 up 45 num_decimal 0.31012682371
+alma SNARC line dot DC 0 up 30 num_decimal 0.433444237149
+alma SNARC line dot DC 0 up 15 num_decimal 0.396289884166
+alma SNARC line dot DC 0 up 25 num_decimal 0.312377796698
+alma SNARC line dot DC 0 down 40 lctrl 0.35561873585
+alma SNARC line dot DC 0 down 5 lctrl 0.348460907719
+alma SNARC line dot DC 0 down 40 lctrl 0.323362138928
+alma SNARC line dot DC 0 down 45 lctrl 0.37274845832
+alma SNARC line dot DC 0 up 40 lctrl 0.412465602843
+alma SNARC line dot DC 0 down 10 lctrl 0.68453236491
+alma SNARC line dot DC 0 down 35 lctrl 0.372583624941
+alma SNARC line dot DC 0 up 15 num_decimal 0.360423051336
+alma SNARC line dot DC 0 down 20 lctrl 0.494288750979
+alma SNARC line dot DC 0 down 15 lctrl 0.380184158428
+alma SNARC line dot DC 0 down 10 lctrl 0.331370381298
+alma SNARC line dot DC 0 up 40 num_decimal 0.383966926936
+alma SNARC line dot DC 0 down 10 lctrl 0.447934175838
+alma SNARC line dot DC 0 up 45 num_decimal 0.335834881053
+alma SNARC line dot DC 0 down 15 lctrl 0.395875525954
+alma SNARC line dot DC 0 up 35 num_decimal 0.281128398201
+alma SNARC line dot DC 0 up 25 lctrl 0.309960240509
+alma SNARC line dot DC 0 down 35 lctrl 1.12101709543
+alma SNARC line dot DC 0 down 25 lctrl 0.481672523325
+alma SNARC line dot DC 0 down 35 lctrl 0.370769757868
+alma SNARC line dot DC 0 down 5 lctrl 0.804751890772
+alma SNARC line dot DC 0 down 40 lctrl 0.473891408052
+alma SNARC line dot DC 0 down 30 lctrl 0.327912030072
+alma SNARC line dot DC 0 up 10 num_decimal 0.593072238664
+alma SNARC line dot DC 0 down 25 lctrl 0.410308770361
+alma SNARC line dot DC 0 up 20 num_decimal 0.28396906172
+alma SNARC line dot DC 0 down 25 lctrl 0.413999148186
+alma SNARC line dot DC 0 down 25 lctrl 0.504772643679
+alma SNARC line dot DC 0 down 45 lctrl 0.328695951013
+alma SNARC line dot DC 0 down 35 lctrl 0.288617642911
+alma SNARC line dot DC 0 up 15 num_decimal 0.621343087549
+alma SNARC line dot DC 0 down 20 lctrl 0.494368542933
+alma SNARC line dot DC 0 up 45 num_decimal 0.385219100654
+alma SNARC line dot DC 0 down 25 lctrl 0.416046791681
+alma SNARC line dot DC 0 down 25 lctrl 0.533071489741
+alma SNARC line dot DC 0 up 40 num_decimal 0.375455785284
+alma SNARC line dot DC 0 up 10 num_decimal 0.626431574376
+alma SNARC line dot DC 0 down 25 lctrl 0.388277792184
+alma SNARC line dot DC 0 down 10 lctrl 0.402998357617
+alma SNARC line dot DC 0 up 25 num_decimal 0.476741870581
+alma SNARC line dot DC 0 down 5 lctrl 0.503225449715
+alma SNARC line dot DC 0 up 25 lctrl 0.398742786791
+alma SNARC line dot DC 0 up 25 num_decimal 0.523857968923
+alma SNARC line dot DC 0 down 40 lctrl 0.815651191577
+alma SNARC line dot DC 0 up 25 num_decimal 0.563838986838
+alma SNARC line dot DC 0 up 45 num_decimal 0.377645164486
+alma SNARC line dot DC 0 up 40 num_decimal 0.392058460904
+alma SNARC line dot DC 0 down 25 lctrl 0.758387866583
+alma SNARC line dot DC 0 down 5 lctrl 0.412940854914
+alma SNARC line dot DC 0 up 30 num_decimal 0.572918821137
+alma SNARC line dot DC 0 up 20 num_decimal 0.585771624932
+alma SNARC line dot DC 0 up 15 num_decimal 0.48503708401
+alma SNARC line dot DC 0 down 45 lctrl 0.685078659817
+alma SNARC line dot DC 0 up 30 lctrl 0.551099221644
+alma SNARC line dot DC 0 up 35 num_decimal 0.519625845733
+alma SNARC line dot DC 0 up 35 num_decimal 0.390224645844
+alma SNARC line dot DC 0 down 25 lctrl 0.574788332597
+alma SNARC line dot DC 0 up 40 lctrl 0.392750691093
+alma SNARC line dot DC 0 down 10 lctrl 0.543400698039
+alma SNARC line dot DC 0 up 10 num_decimal 0.459975761445
+alma SNARC line dot DC 0 down 30 lctrl 0.567574860075
+alma SNARC line dot DC 0 down 25 lctrl 0.515620149708
+alma SNARC line dot DC 0 down 20 lctrl 0.359740270194
+alma SNARC line dot DC 0 up 20 num_decimal 0.413900808104
+alma SNARC line dot DC 0 up 25 lctrl 0.422861304438
+alma SNARC line dot DC 0 down 10 lctrl 0.763659734916
+alma SNARC line dot DC 0 up 35 num_decimal 0.367196618221
+alma SNARC line dot DC 0 up 45 num_decimal 0.492741557015
+alma SNARC line dot DC 0 down 40 lctrl 0.578691138999
+alma SNARC line dot DC 0 up 45 num_decimal 0.331477470498
+alma SNARC line dot DC 0 down 10 lctrl 0.358987496111
+alma SNARC line dot DC 0 down 15 lctrl 0.412441105314
+alma SNARC line dot DC 0 down 20 lctrl 0.413926005562
+alma SNARC line dot DC 0 up 15 num_decimal 0.611895440345
+alma SNARC line dot DC 0 down 45 lctrl 0.457265984725
+alma SNARC line dot DC 0 down 30 lctrl 0.526174385313
+alma SNARC line dot DC 0 down 40 lctrl 0.465533900906
+alma SNARC line dot DC 0 up 40 num_decimal 0.566400378522
+alma SNARC line dot DC 0 up 15 lctrl 0.312004734324
+alma SNARC line dot DC 0 down 5 lctrl 1.06859413228
+alma SNARC line dot DC 0 up 35 num_decimal 0.633298231873
+alma SNARC line dot DC 0 down 20 lctrl 1.03219710292
+alma SNARC line dot DC 0 down 5 lctrl 0.336718541936
+alma SNARC line dot DC 0 up 45 num_decimal 0.471628536261
+alma SNARC line dot DC 0 down 15 lctrl 0.430475136582
+alma SNARC line dot DC 0 up 35 num_decimal 0.330545164521
+alma SNARC line dot DC 0 down 10 num_decimal 0.409261325995
+alma SNARC line dot DC 0 down 10 lctrl 0.607704612989
+alma SNARC line dot DC 0 down 30 num_decimal 0.440309144822
+alma SNARC line dot DC 0 up 30 num_decimal 0.53618057619
+alma SNARC line dot DC 0 down 30 lctrl 0.409458356124
+alma SNARC line dot DC 0 down 40 lctrl 0.458048155844
+alma SNARC line dot DC 0 up 30 num_decimal 0.601338754987
+alma SNARC line dot DC 0 up 5 num_decimal 0.42217292386
+alma SNARC line dot DC 0 up 10 num_decimal 0.444894732367
+alma SNARC line dot DC 0 up 45 num_decimal 0.368560430681
+alma SNARC line dot DC 0 down 10 lctrl 0.445689502214
+alma SNARC line dot DC 0 up 5 num_decimal 0.357126383806
+alma SNARC line dot DC 0 down 10 lctrl 0.285313276157
+alma SNARC line dot DC 0 down 5 lctrl 0.518903518581
+alma SNARC line dot DC 0 down 35 lctrl 0.823643685533
+alma SNARC line dot DC 0 down 15 lctrl 0.372337249788
+alma SNARC line dot DC 0 up 15 num_decimal 0.536883655284
+alma SNARC line dot DC 0 down 40 lctrl 0.448096909426
+alma SNARC line dot DC 0 down 35 lctrl 0.412284671091
+alma SNARC line dot DC 0 down 35 lctrl 0.394476367059
+alma SNARC line dot DC 0 up 15 num_decimal 0.463051601246
+alma SNARC line dot DC 0 down 15 lctrl 0.444330239296
+alma SNARC line dot DC 0 down 10 lctrl 0.473630334382
+alma SNARC line dot DC 0 down 15 lctrl 0.330145854792
+alma SNARC line dot DC 0 up 35 num_decimal 0.392954370553
+alma SNARC line dot DC 0 up 15 num_decimal 0.483025486879
+alma SNARC line dot DC 0 down 10 lctrl 0.519113147438
+alma SNARC line dot DC 0 up 30 num_decimal 0.429655169275
+alma SNARC line dot DC 0 down 5 lctrl 0.592841961889
+alma SNARC line dot DC 0 down 35 lctrl 0.414997947457
+alma SNARC line dot DC 0 down 5 lctrl 0.493536676826
+alma SNARC line dot DC 0 down 10 lctrl 0.356936003005
+alma SNARC line dot DC 0 down 20 lctrl 0.482955843903
+alma SNARC line dot DC 0 up 25 lctrl 0.275029913233
+alma SNARC line dot DC 0 down 35 lctrl 1.41301504743
+alma SNARC line dot DC 0 up 20 num_decimal 0.428654270218
+alma SNARC line dot DC 0 up 35 num_decimal 0.430767007147
+alma SNARC line dot DC 0 up 40 num_decimal 0.353688330531
+alma SNARC line dot DC 0 up 15 num_decimal 0.364570133101
+alma SNARC line dot DC 0 down 40 lctrl 0.439042972517
+alma SNARC line dot DC 0 up 45 num_decimal 0.569277438372
+alma SNARC line dot DC 0 up 25 num_decimal 0.446263444332
+alma SNARC line dot DC 0 up 10 num_decimal 0.365110128643
+alma SNARC line dot DC 0 up 15 num_decimal 0.3835865153
+alma SNARC line dot DC 0 up 40 num_decimal 0.559975726448
+alma SNARC line dot DC 0 down 40 lctrl 0.619788544325
+alma SNARC line dot DC 0 up 20 num_decimal 0.502315891441
+alma SNARC line dot DC 0 up 30 num_decimal 0.464967308048
+alma SNARC line dot DC 0 down 30 lctrl 0.483131526185
+alma SNARC line dot DC 0 down 20 lctrl 0.489520131894
+alma SNARC line dot DC 0 down 30 lctrl 0.419017992035
+alma SNARC line dot DC 0 down 30 lctrl 0.329455374425
+alma SNARC line dot DC 0 down 30 lctrl 0.489920491518
+alma SNARC line dot DC 0 down 30 lctrl 0.437344943763
+alma SNARC line dot DC 0 down 30 lctrl 0.385316390842
+alma SNARC line dot DC 0 up 45 num_decimal 0.380471829416
+alma SNARC line dot DC 0 down 30 lctrl 0.501993923912
+alma SNARC line dot DC 0 up 25 num_decimal 0.312937390265
+alma SNARC line dot DC 0 up 20 num_decimal 0.452150900583
+alma SNARC line dot DC 0 down 35 lctrl 0.51852940631
+alma SNARC line dot DC 0 up 10 num_decimal 0.371786055375
+alma SNARC line dot DC 0 down 20 lctrl 0.815322574717
+alma SNARC line dot DC 0 down 5 lctrl 0.792302946249
+alma SNARC line dot DC 0 down 35 lctrl 0.737559717101
+alma SNARC line dot DC 0 down 5 lctrl 0.438362991092
+alma SNARC line dot DC 0 down 5 lctrl 0.359092835486
+alma SNARC line dot DC 0 down 25 lctrl 0.352754274731
+alma SNARC line dot DC 0 up 5 lctrl 0.405550300251
+alma SNARC line dot DC 0 down 30 lctrl 0.706716627628
+alma SNARC line dot DC 0 down 30 lctrl 0.91460406218
+alma SNARC line dot DC 0 up 10 lctrl 0.384033070264
+alma SNARC line dot DC 0 down 5 lctrl 0.413352063444
+alma SNARC line dot DC 0 down 15 lctrl 0.518574551756
+alma SNARC line dot DC 0 up 25 num_decimal 0.354936654639
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_17_1021', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'alma', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+alma SNARC line arabic DC 0 down 4 lctrl 0.95728785752
+alma SNARC line arabic DC 0 down 3 lctrl 0.368171969856
+alma SNARC line arabic DC 0 up 5 num_decimal 0.454706342865
+alma SNARC line arabic DC 0 down 4 lctrl 1.13391749442
+alma SNARC line arabic DC 0 up 9 num_decimal 0.470279072357
+alma SNARC line arabic DC 0 down 8 lctrl 0.613705807769
+alma SNARC line arabic DC 0 down 6 lctrl 0.43225820676
+alma SNARC line arabic DC 0 down 2 lctrl 0.522559249899
+alma SNARC line arabic DC 0 up 6 num_decimal 0.456356776418
+alma SNARC line arabic DC 0 up 7 num_decimal 0.492484332955
+alma SNARC line arabic DC 0 up 5 num_decimal 0.375386842237
+alma SNARC line arabic DC 0 down 7 lctrl 0.508132654822
+alma SNARC line arabic DC 0 up 1 num_decimal 0.337383824841
+alma SNARC line arabic DC 0 down 6 num_decimal 0.438267100762
+alma SNARC line arabic DC 0 up 2 num_decimal 1.28399145946
+alma SNARC line arabic DC 0 up 6 num_decimal 0.474157381228
+alma SNARC line arabic DC 0 down 9 num_decimal 0.421222769684
+alma SNARC line arabic DC 0 down 4 lctrl 0.383705153336
+alma SNARC line arabic DC 0 down 1 lctrl 0.500813142993
+alma SNARC line arabic DC 0 down 8 lctrl 1.12160468617
+alma SNARC line arabic DC 0 down 3 lctrl 0.433875393666
+alma SNARC line arabic DC 0 down 7 lctrl 0.344126244869
+alma SNARC line arabic DC 0 down 1 lctrl 0.474746371829
+alma SNARC line arabic DC 0 down 2 lctrl 0.378234505049
+alma SNARC line arabic DC 0 down 2 lctrl 0.731555372642
+alma SNARC line arabic DC 0 up 7 num_decimal 0.844383643911
+alma SNARC line arabic DC 0 down 3 lctrl 0.461957961539
+alma SNARC line arabic DC 0 down 4 lctrl 0.501115162537
+alma SNARC line arabic DC 0 down 6 lctrl 0.378431885143
+alma SNARC line arabic DC 0 up 3 num_decimal 0.426511786287
+alma SNARC line arabic DC 0 up 1 num_decimal 0.397771634731
+alma SNARC line arabic DC 0 down 1 lctrl 0.464107444765
+alma SNARC line arabic DC 0 up 6 num_decimal 0.383034270993
+alma SNARC line arabic DC 0 up 5 num_decimal 0.46039116955
+alma SNARC line arabic DC 0 up 4 num_decimal 0.454103003711
+alma SNARC line arabic DC 0 up 1 lctrl 0.534511244541
+alma SNARC line arabic DC 0 up 5 num_decimal 0.344031754397
+alma SNARC line arabic DC 0 up 4 num_decimal 0.361372155619
+alma SNARC line arabic DC 0 up 1 num_decimal 0.373317150965
+alma SNARC line arabic DC 0 up 5 num_decimal 0.387330437727
+alma SNARC line arabic DC 0 up 1 num_decimal 0.460023006681
+alma SNARC line arabic DC 0 up 4 num_decimal 0.404191387299
+alma SNARC line arabic DC 0 down 3 lctrl 0.463240232222
+alma SNARC line arabic DC 0 down 8 lctrl 0.494489630722
+alma SNARC line arabic DC 0 up 2 num_decimal 0.642796273994
+alma SNARC line arabic DC 0 up 2 num_decimal 0.461252432691
+alma SNARC line arabic DC 0 up 1 num_decimal 0.359813412817
+alma SNARC line arabic DC 0 up 2 num_decimal 0.376339096203
+alma SNARC line arabic DC 0 up 7 num_decimal 0.377932135545
+alma SNARC line arabic DC 0 up 4 num_decimal 0.340780232315
+alma SNARC line arabic DC 0 up 9 num_decimal 0.330687600155
+alma SNARC line arabic DC 0 up 9 num_decimal 0.458566453573
+alma SNARC line arabic DC 0 up 1 num_decimal 0.319871940914
+alma SNARC line arabic DC 0 up 5 num_decimal 0.338214291089
+alma SNARC line arabic DC 0 up 3 num_decimal 0.309442292746
+alma SNARC line arabic DC 0 up 3 num_decimal 0.321900336352
+alma SNARC line arabic DC 0 up 5 num_decimal 0.304052836273
+alma SNARC line arabic DC 0 down 6 num_decimal 0.221957415595
+alma SNARC line arabic DC 0 up 6 num_decimal 0.593882406958
+alma SNARC line arabic DC 0 up 3 num_decimal 0.426078879946
+alma SNARC line arabic DC 0 down 2 lctrl 0.549061027195
+alma SNARC line arabic DC 0 down 6 num_decimal 0.462415015445
+alma SNARC line arabic DC 0 up 9 num_decimal 0.644553446784
+alma SNARC line arabic DC 0 up 1 num_decimal 0.410446656455
+alma SNARC line arabic DC 0 down 7 lctrl 0.580748581506
+alma SNARC line arabic DC 0 down 7 lctrl 0.343168741432
+alma SNARC line arabic DC 0 up 1 lctrl 0.442212252894
+alma SNARC line arabic DC 0 down 4 lctrl 0.508173600692
+alma SNARC line arabic DC 0 down 5 lctrl 0.406127392052
+alma SNARC line arabic DC 0 up 9 num_decimal 0.447734695956
+alma SNARC line arabic DC 0 down 2 lctrl 0.520884668782
+alma SNARC line arabic DC 0 up 7 num_decimal 0.288089546169
+alma SNARC line arabic DC 0 up 4 num_decimal 0.424678671156
+alma SNARC line arabic DC 0 down 6 lctrl 0.422615279249
+alma SNARC line arabic DC 0 down 7 lctrl 0.495145114615
+alma SNARC line arabic DC 0 up 2 num_decimal 0.437125165929
+alma SNARC line arabic DC 0 up 1 num_decimal 0.438013026385
+alma SNARC line arabic DC 0 up 4 num_decimal 0.384433779853
+alma SNARC line arabic DC 0 down 1 lctrl 0.548369496935
+alma SNARC line arabic DC 0 up 3 num_decimal 0.681373583475
+alma SNARC line arabic DC 0 down 2 lctrl 0.534620783494
+alma SNARC line arabic DC 0 up 6 num_decimal 0.286140242755
+alma SNARC line arabic DC 0 down 4 lctrl 0.337459067254
+alma SNARC line arabic DC 0 up 6 num_decimal 0.434639016654
+alma SNARC line arabic DC 0 down 9 lctrl 0.362212420878
+alma SNARC line arabic DC 0 up 7 num_decimal 0.332803836733
+alma SNARC line arabic DC 0 up 2 num_decimal 0.439992776728
+alma SNARC line arabic DC 0 up 8 num_decimal 0.417703174635
+alma SNARC line arabic DC 0 up 6 num_decimal 0.355645683134
+alma SNARC line arabic DC 0 down 2 lctrl 0.393746690646
+alma SNARC line arabic DC 0 down 6 lctrl 0.451246241817
+alma SNARC line arabic DC 0 down 5 lctrl 0.297576739385
+alma SNARC line arabic DC 0 down 8 lctrl 0.609177614437
+alma SNARC line arabic DC 0 up 1 lctrl 0.450345782627
+alma SNARC line arabic DC 0 up 5 num_decimal 0.441700954458
+alma SNARC line arabic DC 0 up 5 num_decimal 0.434218709042
+alma SNARC line arabic DC 0 up 5 num_decimal 0.415471449705
+alma SNARC line arabic DC 0 up 4 num_decimal 0.36955468041
+alma SNARC line arabic DC 0 up 1 num_decimal 0.370076477788
+alma SNARC line arabic DC 0 down 4 lctrl 0.570863128454
+alma SNARC line arabic DC 0 down 6 lctrl 0.463303925799
+alma SNARC line arabic DC 0 down 8 lctrl 0.57520724035
+alma SNARC line arabic DC 0 down 3 lctrl 0.438288098645
+alma SNARC line arabic DC 0 down 2 lctrl 0.430266207653
+alma SNARC line arabic DC 0 up 5 num_decimal 0.617332142054
+alma SNARC line arabic DC 0 down 4 lctrl 0.432051027654
+alma SNARC line arabic DC 0 down 6 lctrl 0.50252237062
+alma SNARC line arabic DC 0 up 3 num_decimal 0.398648296319
+alma SNARC line arabic DC 0 up 5 num_decimal 0.458459364374
+alma SNARC line arabic DC 0 up 7 num_decimal 0.472309217615
+alma SNARC line arabic DC 0 up 9 num_decimal 0.405899215064
+alma SNARC line arabic DC 0 up 1 num_decimal 0.388614108268
+alma SNARC line arabic DC 0 up 9 num_decimal 0.396103003013
+alma SNARC line arabic DC 0 up 8 num_decimal 0.413715326809
+alma SNARC line arabic DC 0 down 8 lctrl 0.516633297531
+alma SNARC line arabic DC 0 up 6 num_decimal 0.398670344097
+alma SNARC line arabic DC 0 up 4 num_decimal 0.410552345797
+alma SNARC line arabic DC 0 down 9 lctrl 0.366330805538
+alma SNARC line arabic DC 0 down 8 num_decimal 0.436862692399
+alma SNARC line arabic DC 0 down 4 lctrl 0.556306346503
+alma SNARC line arabic DC 0 up 6 num_decimal 0.498330843335
+alma SNARC line arabic DC 0 up 1 num_decimal 0.478313562076
+alma SNARC line arabic DC 0 up 4 num_decimal 0.40598285663
+alma SNARC line arabic DC 0 up 4 num_decimal 0.445797291342
+alma SNARC line arabic DC 0 down 5 lctrl 0.470714078485
+alma SNARC line arabic DC 0 down 7 lctrl 0.328684052214
+alma SNARC line arabic DC 0 down 2 lctrl 0.377893639426
+alma SNARC line arabic DC 0 up 9 lctrl 0.410581742832
+alma SNARC line arabic DC 0 up 2 num_decimal 0.424360903204
+alma SNARC line arabic DC 0 up 5 num_decimal 0.339504260995
+alma SNARC line arabic DC 0 down 3 lctrl 0.510709094988
+alma SNARC line arabic DC 0 down 7 lctrl 0.451017014935
+alma SNARC line arabic DC 0 up 5 num_decimal 0.381115764476
+alma SNARC line arabic DC 0 down 7 lctrl 0.515894522037
+alma SNARC line arabic DC 0 up 7 num_decimal 0.348428011035
+alma SNARC line arabic DC 0 down 5 lctrl 0.421741417378
+alma SNARC line arabic DC 0 up 4 num_decimal 0.35047110499
+alma SNARC line arabic DC 0 down 1 lctrl 0.550368145372
+alma SNARC line arabic DC 0 up 2 num_decimal 0.307649423556
+alma SNARC line arabic DC 0 down 5 lctrl 0.629052810023
+alma SNARC line arabic DC 0 down 9 lctrl 0.52898740162
+alma SNARC line arabic DC 0 up 4 num_decimal 0.398069454695
+alma SNARC line arabic DC 0 up 4 num_decimal 0.387620208501
+alma SNARC line arabic DC 0 down 7 lctrl 0.55453237541
+alma SNARC line arabic DC 0 up 6 num_decimal 0.504226698738
+alma SNARC line arabic DC 0 down 9 lctrl 0.576715938198
+alma SNARC line arabic DC 0 up 3 num_decimal 0.440568818634
+alma SNARC line arabic DC 0 down 9 lctrl 0.630672796649
+alma SNARC line arabic DC 0 down 8 lctrl 0.514709191579
+alma SNARC line arabic DC 0 up 8 num_decimal 0.428673168311
+alma SNARC line arabic DC 0 up 8 num_decimal 0.348195984436
+alma SNARC line arabic DC 0 up 5 num_decimal 0.586514600001
+alma SNARC line arabic DC 0 down 7 lctrl 0.41210688902
+alma SNARC line arabic DC 0 up 8 num_decimal 0.445033668355
+alma SNARC line arabic DC 0 down 9 lctrl 0.454584905112
+alma SNARC line arabic DC 0 down 8 lctrl 0.461224435516
+alma SNARC line arabic DC 0 up 8 lctrl 0.372536379706
+alma SNARC line arabic DC 0 up 2 num_decimal 0.40986186543
+alma SNARC line arabic DC 0 down 1 lctrl 0.498506175652
+alma SNARC line arabic DC 0 up 1 num_decimal 0.72563221999
+alma SNARC line arabic DC 0 down 2 lctrl 0.438322045222
+alma SNARC line arabic DC 0 up 3 num_decimal 0.521083448735
+alma SNARC line arabic DC 0 up 2 num_decimal 0.457792681609
+alma SNARC line arabic DC 0 down 5 lctrl 0.488662018435
+alma SNARC line arabic DC 0 up 9 num_decimal 0.3832533489
+alma SNARC line arabic DC 0 up 6 num_decimal 0.419810312129
+alma SNARC line arabic DC 0 up 8 num_decimal 0.360433550277
+alma SNARC line arabic DC 0 up 5 num_decimal 0.317891840608
+alma SNARC line arabic DC 0 down 6 lctrl 0.531173281175
+alma SNARC line arabic DC 0 up 5 lctrl 0.397799981871
+alma SNARC line arabic DC 0 up 1 num_decimal 0.342126896501
+alma SNARC line arabic DC 0 down 1 lctrl 0.580758380518
+alma SNARC line arabic DC 0 down 4 num_decimal 0.512877826272
+alma SNARC line arabic DC 0 up 3 num_decimal 1.36304288713
+alma SNARC line arabic DC 0 down 8 lctrl 0.704501351038
+alma SNARC line arabic DC 0 down 8 lctrl 0.778243814111
+alma SNARC line arabic DC 0 up 5 lctrl 0.541791910286
+alma SNARC line arabic DC 0 down 5 lctrl 0.555113316823
+alma SNARC line arabic DC 0 up 5 num_decimal 0.551680862985
+alma SNARC line arabic DC 0 down 7 lctrl 0.440807494564
+alma SNARC line arabic DC 0 up 6 num_decimal 0.296342063903
+alma SNARC line arabic DC 0 down 7 lctrl 0.781136272408
+alma SNARC line arabic DC 0 down 3 lctrl 0.452500865287
+alma SNARC line arabic DC 0 up 7 num_decimal 0.727659565533
+alma SNARC line arabic DC 0 down 4 lctrl 0.406951558934
+alma SNARC line arabic DC 0 down 2 lctrl 0.904955885198
+alma SNARC line arabic DC 0 up 5 num_decimal 0.437690008963
+alma SNARC line arabic DC 0 up 4 lctrl 0.513092354637
+alma SNARC line arabic DC 0 up 4 num_decimal 0.308683919227
+alma SNARC line arabic DC 0 down 9 lctrl 0.476753419418
+alma SNARC line arabic DC 0 down 5 lctrl 0.581457959965
+alma SNARC line arabic DC 0 down 2 lctrl 0.747768537543
+alma SNARC line arabic DC 0 up 2 lctrl 0.358817063299
+alma SNARC line arabic DC 0 up 9 num_decimal 0.564445125709
+alma SNARC line arabic DC 0 down 6 lctrl 0.582932361271
+alma SNARC line arabic DC 0 down 2 lctrl 0.609591622684
+alma SNARC line arabic DC 0 up 3 num_decimal 0.364311509185
+alma SNARC line arabic DC 0 down 3 lctrl 0.547041380876
+alma SNARC line arabic DC 0 down 8 lctrl 0.455628149901
+alma SNARC line arabic DC 0 up 8 num_decimal 0.430491234958
+alma SNARC line arabic DC 0 up 9 num_decimal 0.563041067309
+alma SNARC line arabic DC 0 down 2 lctrl 0.491271355284
+alma SNARC line arabic DC 0 up 3 num_decimal 0.296007497644
+alma SNARC line arabic DC 0 up 4 num_decimal 0.521304976392
+alma SNARC line arabic DC 0 up 9 num_decimal 0.406072097629
+alma SNARC line arabic DC 0 up 4 num_decimal 0.400623847085
+alma SNARC line arabic DC 0 up 9 num_decimal 0.484579330176
+alma SNARC line arabic DC 0 up 5 num_decimal 0.403989807628
+alma SNARC line arabic DC 0 down 8 lctrl 0.310406445511
+alma SNARC line arabic DC 0 up 7 num_decimal 0.717841655669
+alma SNARC line arabic DC 0 down 6 lctrl 0.356249372251
+alma SNARC line arabic DC 0 up 1 num_decimal 0.40940831117
+alma SNARC line arabic DC 0 down 7 lctrl 0.407730930336
+alma SNARC line arabic DC 0 up 7 num_decimal 0.563184902803
+alma SNARC line arabic DC 0 down 9 lctrl 0.30960852598
+alma SNARC line arabic DC 0 down 2 lctrl 0.460847523527
+alma SNARC line arabic DC 0 down 1 num_decimal 0.60997798372
+alma SNARC line arabic DC 0 up 4 lctrl 0.411845465385
+alma SNARC line arabic DC 0 down 6 lctrl 0.732868790181
+alma SNARC line arabic DC 0 up 9 num_decimal 0.296590538845
+alma SNARC line arabic DC 0 up 3 num_decimal 0.45044342278
+alma SNARC line arabic DC 0 down 8 lctrl 0.631385674755
+alma SNARC line arabic DC 0 down 7 lctrl 0.607482385401
+alma SNARC line arabic DC 0 down 6 lctrl 0.474545842051
+alma SNARC line arabic DC 0 up 9 num_decimal 0.566909227206
+alma SNARC line arabic DC 0 up 3 num_decimal 0.547410593641
+alma SNARC line arabic DC 0 down 8 lctrl 0.610915189201
+alma SNARC line arabic DC 0 down 7 lctrl 0.530706778221
+alma SNARC line arabic DC 0 up 7 num_decimal 0.567681949275
+alma SNARC line arabic DC 0 up 3 num_decimal 0.40241426652
+alma SNARC line arabic DC 0 up 7 num_decimal 0.360254368346
+alma SNARC line arabic DC 0 down 7 num_decimal 0.327370984636
+alma SNARC line arabic DC 0 down 7 lctrl 0.504446826537
+alma SNARC line arabic DC 0 up 8 num_decimal 0.388570712645
+alma SNARC line arabic DC 0 up 9 num_decimal 0.408058497302
+alma SNARC line arabic DC 0 down 8 num_decimal 0.447104409521
+alma SNARC line arabic DC 0 down 3 lctrl 0.564515468615
+alma SNARC line arabic DC 0 up 9 num_decimal 0.56275339632
+alma SNARC line arabic DC 0 down 8 lctrl 0.47865792735
+alma SNARC line arabic DC 0 down 3 lctrl 0.479306411948
+alma SNARC line arabic DC 0 down 2 lctrl 0.562134308755
+alma SNARC line arabic DC 0 up 8 num_decimal 0.560516421918
+alma SNARC line arabic DC 0 down 9 lctrl 0.452236641933
+alma SNARC line arabic DC 0 up 9 num_decimal 0.366604127972
+alma SNARC line arabic DC 0 up 2 num_decimal 0.391961870646
+alma SNARC line arabic DC 0 down 9 lctrl 0.360070636878
+alma SNARC line arabic DC 0 down 6 lctrl 0.44239703426
+alma SNARC line arabic DC 0 down 4 lctrl 0.560814241884
+alma SNARC line arabic DC 0 down 3 lctrl 0.306250614625
+alma SNARC line arabic DC 0 down 9 lctrl 0.366032985574
+alma SNARC line arabic DC 0 up 9 num_decimal 0.342845374043
+alma SNARC line arabic DC 0 down 9 lctrl 0.783447439326
+alma SNARC line arabic DC 0 up 8 num_decimal 0.284482459943
+alma SNARC line arabic DC 0 down 4 lctrl 0.478777265314
+alma SNARC line arabic DC 0 down 1 num_decimal 0.264488626322
+alma SNARC line arabic DC 0 down 1 lctrl 0.622892381303
+alma SNARC line arabic DC 0 down 6 lctrl 0.541214118557
+alma SNARC line arabic DC 0 down 4 lctrl 0.407439059771
+alma SNARC line arabic DC 0 down 9 lctrl 0.437209157457
+alma SNARC line arabic DC 0 up 3 num_decimal 0.53383966227
+alma SNARC line arabic DC 0 up 3 num_decimal 0.513313882295
+alma SNARC line arabic DC 0 down 1 lctrl 0.535099185248
+alma SNARC line arabic DC 0 up 2 num_decimal 0.413127386102
+alma SNARC line arabic DC 0 down 3 lctrl 0.332805936521
+alma SNARC line arabic DC 0 down 9 lctrl 0.617294345864
+alma SNARC line arabic DC 0 down 9 lctrl 0.390385279645
+alma SNARC line arabic DC 0 up 8 num_decimal 0.402780679568
+alma SNARC line arabic DC 0 up 8 num_decimal 0.37876995105
+alma SNARC line arabic DC 0 down 6 lctrl 0.623976571962
+alma SNARC line arabic DC 0 up 2 num_decimal 0.33059940905
+alma SNARC line arabic DC 0 up 4 num_decimal 0.354156933272
+alma SNARC line arabic DC 0 down 3 lctrl 0.679102662496
+alma SNARC line arabic DC 0 up 5 num_decimal 0.338963565524
+alma SNARC line arabic DC 0 down 6 lctrl 0.309870649546
+alma SNARC line arabic DC 0 down 3 lctrl 0.573478764667
+alma SNARC line arabic DC 0 up 6 num_decimal 0.58963768504
+alma SNARC line arabic DC 0 down 8 lctrl 0.689025911737
+alma SNARC line arabic DC 0 down 3 lctrl 0.537782714613
+alma SNARC line arabic DC 0 up 7 num_decimal 0.571168297678
+alma SNARC line arabic DC 0 up 2 num_decimal 0.474859760394
+alma SNARC line arabic DC 0 down 4 lctrl 0.424533435804
+alma SNARC line arabic DC 0 down 6 lctrl 0.356333013815
+alma SNARC line arabic DC 0 down 1 lctrl 0.430333050912
+alma SNARC line arabic DC 0 up 9 num_decimal 0.360177726077
+alma SNARC line arabic DC 0 down 3 lctrl 0.76607764107
+alma SNARC line arabic DC 0 up 3 lctrl 0.570864528312
+alma SNARC line arabic DC 0 down 8 lctrl 0.821227879169
+alma SNARC line arabic DC 0 down 8 lctrl 0.428847100769
+alma SNARC line arabic DC 0 down 1 lctrl 0.633624748943
+alma SNARC line arabic DC 0 up 5 num_decimal 0.537362407
+alma SNARC line arabic DC 0 down 2 lctrl 0.534348510952
+alma SNARC line arabic DC 0 down 4 num_decimal 0.354336815133
+alma SNARC line arabic DC 0 up 4 num_decimal 0.38384968876
+alma SNARC line arabic DC 0 down 9 lctrl 0.488992035154
+alma SNARC line arabic DC 0 down 7 lctrl 0.408983104053
+alma SNARC line arabic DC 0 up 2 num_decimal 0.433147817042
+alma SNARC line arabic DC 0 down 3 lctrl 0.4666950838
+alma SNARC line arabic DC 0 down 3 lctrl 0.679831289013
+alma SNARC line arabic DC 0 down 5 lctrl 0.423594830461
+alma SNARC line arabic DC 0 down 4 lctrl 0.320330394679
+alma SNARC line arabic DC 0 up 8 lctrl 0.326133509434
+alma SNARC line arabic DC 0 down 1 lctrl 0.546694565852
+alma SNARC line arabic DC 0 down 8 lctrl 0.438597117482
+alma SNARC line arabic DC 0 down 3 lctrl 0.432762855866
+alma SNARC line arabic DC 0 down 3 lctrl 0.532980498918
+alma SNARC line arabic DC 0 up 1 num_decimal 0.502990273431
+alma SNARC line arabic DC 0 up 1 num_decimal 0.555544123376
+alma SNARC line arabic DC 0 up 6 num_decimal 0.434949785313
+alma SNARC line arabic DC 0 up 1 num_decimal 0.489364747566
+alma SNARC line arabic DC 0 down 2 num_decimal 0.375803300236
+alma SNARC line arabic DC 0 down 8 num_decimal 0.483219367326
+alma SNARC line arabic DC 0 up 1 num_decimal 0.578441264199
+alma SNARC line arabic DC 0 up 4 num_decimal 0.458279132548
+alma SNARC line arabic DC 0 down 7 lctrl 0.614817995605
+alma SNARC line arabic DC 0 up 6 num_decimal 0.625735144609
+alma SNARC line arabic DC 0 up 6 num_decimal 0.412702178986
+alma SNARC line arabic DC 0 up 5 lctrl 0.551548576326
+alma SNARC line arabic DC 0 up 8 num_decimal 0.571643899713
+alma SNARC line arabic DC 0 down 5 lctrl 0.51861339784
+alma SNARC line arabic DC 0 up 2 num_decimal 0.332480469346
+alma SNARC line arabic DC 0 up 5 num_decimal 0.442167807378
+alma SNARC line arabic DC 0 down 7 lctrl 0.600673822046
+alma SNARC line arabic DC 0 down 5 num_decimal 0.358870607899
+alma SNARC line arabic DC 0 up 4 num_decimal 0.407664437042
+alma SNARC line arabic DC 0 down 8 lctrl 0.454559007723
+alma SNARC line arabic DC 0 up 4 num_decimal 0.510875678186
+alma SNARC line arabic DC 0 up 7 num_decimal 0.433220959667
+alma SNARC line arabic DC 0 up 2 num_decimal 0.483429346152
+alma SNARC line arabic DC 0 up 6 num_decimal 0.464927062107
+alma SNARC line arabic DC 0 up 3 num_decimal 0.397064706025
+alma SNARC line arabic DC 0 up 6 num_decimal 0.454833730018
+alma SNARC line arabic DC 0 up 9 num_decimal 0.388579811726
+alma SNARC line arabic DC 0 down 6 lctrl 0.610461634946
+alma SNARC line arabic DC 0 down 2 lctrl 0.499395435969
+alma SNARC line arabic DC 0 down 7 lctrl 0.402327475274
+alma SNARC line arabic DC 0 up 7 num_decimal 0.480220169795
+alma SNARC line arabic DC 0 up 5 num_decimal 0.506168652892
+alma SNARC line arabic DC 0 up 6 num_decimal 0.413793018974
+alma SNARC line arabic DC 0 down 1 lctrl 0.459014758362
+alma SNARC line arabic DC 0 down 7 lctrl 0.374890592284
+alma SNARC line arabic DC 0 down 5 lctrl 0.492025179261
+alma SNARC line arabic DC 0 up 6 num_decimal 0.459200939586
+alma SNARC line arabic DC 0 down 7 lctrl 0.578438114517
+alma SNARC line arabic DC 0 down 1 lctrl 0.483252963937
+alma SNARC line arabic DC 0 down 5 lctrl 0.407452008465
+alma SNARC line arabic DC 0 down 7 lctrl 0.402345323475
+alma SNARC line arabic DC 0 down 5 lctrl 0.40653685076
+alma SNARC line arabic DC 0 down 2 lctrl 0.358490196264
+alma SNARC line arabic DC 0 up 2 lctrl 0.413272271491
+alma SNARC line arabic DC 0 up 3 num_decimal 0.787551125468
+alma SNARC line arabic DC 0 up 9 num_decimal 0.398441467178
+alma SNARC line arabic DC 0 down 7 num_decimal 0.406241480547
+alma SNARC line arabic DC 0 up 2 num_decimal 0.527056296372
+alma SNARC line arabic DC 0 down 8 lctrl 0.651569539212
+alma SNARC line arabic DC 0 up 1 num_decimal 0.515059856212
+alma SNARC line arabic DC 0 up 9 num_decimal 0.639968559171
+alma SNARC line arabic DC 0 up 3 num_decimal 0.440314394293
+alma SNARC line arabic DC 0 down 1 lctrl 0.419907952282
+alma SNARC line arabic DC 0 up 8 num_decimal 0.604190617376
+alma SNARC line arabic DC 0 down 1 lctrl 0.299661829105
+{'participant': u'alma', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_17_1029', 'autopilot': False, 'exp_id': u'SNARC'}
+alma SNARC_only CD 1 num_decimal 0.94505939076
+alma SNARC_only CD 8 lctrl 0.564861933675
+alma SNARC_only CD 3 num_decimal 0.669249056233
+alma SNARC_only CD 4 lctrl 0.440036872282
+alma SNARC_only CD 4 lctrl 0.549337149349
+alma SNARC_only CD 5 num_decimal 0.532527644587
+alma SNARC_only CD 6 lctrl 0.517941815568
+alma SNARC_only CD 3 num_decimal 0.59464183037
+alma SNARC_only CD 5 num_decimal 1.34677722752
+alma SNARC_only CD 1 num_decimal 0.767991948011
+alma SNARC_only CD 9 num_decimal 0.669564024469
+alma SNARC_only CD 6 lctrl 0.601326156258
+alma SNARC_only CD 6 lctrl 0.401102948766
+alma SNARC_only CD 7 num_decimal 0.656378754202
+alma SNARC_only CD 7 num_decimal 1.26503212151
+alma SNARC_only CD 6 lctrl 0.601364652373
+alma SNARC_only CD 3 num_decimal 0.55397698142
+alma SNARC_only CD 6 lctrl 0.882597340058
+alma SNARC_only CD 9 num_decimal 0.604945841213
+alma SNARC_only CD 8 lctrl 0.682242545839
+alma SNARC_only CD 1 num_decimal 0.464809473966
+alma SNARC_only CD 7 num_decimal 0.739169204786
+alma SNARC_only CD 8 lctrl 0.35903264156
+alma SNARC_only CD 5 num_decimal 0.628311584776
+alma SNARC_only CD 3 num_decimal 0.78578870321
+alma SNARC_only CD 6 lctrl 0.517443465827
+alma SNARC_only CD 1 num_decimal 0.518338325579
+alma SNARC_only CD 8 lctrl 0.667737908632
+alma SNARC_only CD 7 num_decimal 0.474641032451
+alma SNARC_only CD 9 lctrl 0.517623697649
+alma SNARC_only CD 5 num_decimal 0.81645751026
+alma SNARC_only CD 4 lctrl 0.466939709131
+alma SNARC_only CD 3 num_decimal 0.47795764797
+alma SNARC_only CD 4 num_decimal 0.663340602101
+alma SNARC_only CD 6 lctrl 0.601349253928
+alma SNARC_only CD 8 lctrl 0.446204650261
+alma SNARC_only CD 9 num_decimal 0.526946407455
+alma SNARC_only CD 2 lctrl 0.613440884486
+alma SNARC_only CD 7 num_decimal 0.454395224242
+alma SNARC_only CD 4 lctrl 0.769776068084
+alma SNARC_only CD 1 num_decimal 0.514780934342
+alma SNARC_only CD 5 num_decimal 0.471670532028
+alma SNARC_only CD 7 num_decimal 0.403026704756
+alma SNARC_only CD 2 lctrl 0.456193342901
+alma SNARC_only CD 3 num_decimal 0.50845672214
+alma SNARC_only CD 5 num_decimal 0.54101358878
+alma SNARC_only CD 9 num_decimal 0.649402557752
+alma SNARC_only CD 9 num_decimal 0.390789138915
+alma SNARC_only CD 4 lctrl 0.657693221639
+alma SNARC_only CD 6 lctrl 0.427062630733
+alma SNARC_only CD 1 num_decimal 0.50219375376
+alma SNARC_only CD 9 num_decimal 0.456792132512
+alma SNARC_only CD 4 lctrl 0.485461241235
+alma SNARC_only CD 2 lctrl 0.424380851191
+alma SNARC_only CD 1 num_decimal 0.432235459055
+alma SNARC_only CD 6 lctrl 0.438017925891
+alma SNARC_only CD 6 lctrl 0.369965189011
+alma SNARC_only CD 9 num_decimal 0.514372175567
+alma SNARC_only CD 9 num_decimal 0.493038677048
+alma SNARC_only CD 9 num_decimal 0.392141402539
+alma SNARC_only CD 7 num_decimal 0.438772449799
+alma SNARC_only CD 2 lctrl 0.507505518068
+alma SNARC_only CD 8 lctrl 0.645286972809
+alma SNARC_only CD 6 lctrl 0.608973585015
+alma SNARC_only CD 5 lctrl 0.365950743866
+alma SNARC_only CD 3 num_decimal 0.571698844173
+alma SNARC_only CD 3 num_decimal 0.379264451181
+alma SNARC_only CD 6 num_decimal 0.394731841294
+alma SNARC_only CD 2 lctrl 0.680644606991
+alma SNARC_only CD 1 num_decimal 0.460728885491
+alma SNARC_only CD 5 num_decimal 0.56938382764
+alma SNARC_only CD 3 num_decimal 0.857956325104
+alma SNARC_only CD 6 lctrl 0.564670502979
+alma SNARC_only CD 3 num_decimal 0.486853750799
+alma SNARC_only CD 4 lctrl 0.621591562491
+alma SNARC_only CD 4 lctrl 0.406657238618
+alma SNARC_only CD 9 num_decimal 0.438746202446
+alma SNARC_only CD 7 num_decimal 0.513715291812
+alma SNARC_only CD 6 lctrl 0.561386784142
+alma SNARC_only CD 4 lctrl 0.580941062093
+alma SNARC_only CD 1 num_decimal 0.470359564237
+alma SNARC_only CD 3 num_decimal 0.553301899503
+alma SNARC_only CD 1 num_decimal 0.673127715068
+alma SNARC_only CD 2 lctrl 0.651235322917
+alma SNARC_only CD 7 lctrl 0.571159198595
+alma SNARC_only CD 3 num_decimal 0.532931503858
+alma SNARC_only CD 1 num_decimal 0.458310279409
+alma SNARC_only CD 6 lctrl 0.610921488567
+alma SNARC_only CD 1 num_decimal 0.606988585201
+alma SNARC_only CD 1 num_decimal 0.480527788772
+alma SNARC_only CD 7 num_decimal 0.500667557677
+alma SNARC_only CD 5 num_decimal 0.541254014533
+alma SNARC_only CD 4 lctrl 0.499306194972
+alma SNARC_only CD 5 num_decimal 0.488997634589
+alma SNARC_only CD 4 lctrl 0.362353806619
+alma SNARC_only CD 4 lctrl 0.491309501438
+alma SNARC_only CD 2 lctrl 0.342717286961
+alma SNARC_only CD 3 lctrl 0.437294548845
+alma SNARC_only CD 2 lctrl 0.550601571831
+alma SNARC_only CD 9 num_decimal 0.431068326758
+alma SNARC_only CD 2 lctrl 0.713195174267
+alma SNARC_only CD 8 lctrl 0.569073058983
+alma SNARC_only CD 9 num_decimal 0.556780198718
+alma SNARC_only CD 2 lctrl 0.519030205804
+alma SNARC_only CD 8 lctrl 0.556684308387
+alma SNARC_only CD 1 num_decimal 0.431345498806
+alma SNARC_only CD 8 lctrl 0.547009884054
+alma SNARC_only CD 1 num_decimal 0.46029002975
+alma SNARC_only CD 5 num_decimal 0.80931473061
+alma SNARC_only CD 4 lctrl 0.648284770481
+alma SNARC_only CD 8 lctrl 0.487209664907
+alma SNARC_only CD 3 num_decimal 0.482773162326
+alma SNARC_only CD 9 num_decimal 0.764407959457
+alma SNARC_only CD 7 num_decimal 0.370282606998
+alma SNARC_only CD 9 num_decimal 0.382557969029
+alma SNARC_only CD 4 lctrl 0.543163771934
+alma SNARC_only CD 5 num_decimal 0.523265478676
+alma SNARC_only CD 1 num_decimal 0.543152573062
+alma SNARC_only CD 4 lctrl 0.552753854774
+alma SNARC_only CD 5 lctrl 0.43860516667
+alma SNARC_only CD 7 num_decimal 0.54722826203
+alma SNARC_only CD 1 num_decimal 0.60923430872
+alma SNARC_only CD 7 num_decimal 0.399472113239
+alma SNARC_only CD 5 num_decimal 0.52730897089
+alma SNARC_only CD 2 lctrl 0.539202521426
+alma SNARC_only CD 8 lctrl 0.557036372882
+alma SNARC_only CD 3 num_decimal 0.458688241291
+alma SNARC_only CD 9 num_decimal 0.744114906012
+alma SNARC_only CD 8 lctrl 0.566908527275
+alma SNARC_only CD 2 lctrl 0.490250158273
+alma SNARC_only CD 6 lctrl 0.480206871136
+alma SNARC_only CD 5 lctrl 0.364058134737
+alma SNARC_only CD 2 lctrl 0.598299311514
+alma SNARC_only CD 8 num_decimal 0.426299357709
+alma SNARC_only CD 2 lctrl 0.776317258405
+alma SNARC_only CD 3 num_decimal 0.573113401513
+alma SNARC_only CD 9 num_decimal 0.490390144154
+alma SNARC_only CD 4 lctrl 0.680119659934
+alma SNARC_only CD 3 num_decimal 0.494605819003
+alma SNARC_only CD 4 lctrl 0.960854347839
+alma SNARC_only CD 5 num_decimal 0.526055397315
+alma SNARC_only CD 9 num_decimal 0.575245036538
+alma SNARC_only CD 2 lctrl 0.545248861652
+alma SNARC_only CD 8 lctrl 0.434381092668
+alma SNARC_only CD 5 num_decimal 0.564769193026
+alma SNARC_only CD 2 lctrl 0.534736621812
+alma SNARC_only CD 2 lctrl 0.478698873219
+alma SNARC_only CD 8 lctrl 0.42704898211
+alma SNARC_only CD 2 lctrl 0.460319426786
+alma SNARC_only CD 7 num_decimal 0.452698595345
+alma SNARC_only CD 1 num_decimal 0.50631423821
+alma SNARC_only CD 1 num_decimal 0.372107672942
+alma SNARC_only CD 3 num_decimal 0.406392315335
+alma SNARC_only CD 5 num_decimal 0.404661389899
+alma SNARC_only CD 6 num_decimal 0.349763476353
+alma SNARC_only CD 2 lctrl 0.400521307425
+alma SNARC_only CD 2 lctrl 0.585425509837
+alma SNARC_only CD 1 num_decimal 0.626769290317
+alma SNARC_only CD 6 lctrl 0.514371125671
+alma SNARC_only CD 8 lctrl 0.408067596383
+alma SNARC_only CD 1 num_decimal 0.554752503209
+alma SNARC_only CD 3 num_decimal 0.551209460526
+alma SNARC_only CD 5 num_decimal 0.534700925413
+alma SNARC_only CD 9 num_decimal 0.56141548125
+alma SNARC_only CD 6 lctrl 0.386001621737
+alma SNARC_only CD 9 num_decimal 0.560654308014
+alma SNARC_only CD 1 num_decimal 0.58728557225
+alma SNARC_only CD 9 num_decimal 0.366372801303
+alma SNARC_only CD 9 num_decimal 0.451124804064
+alma SNARC_only CD 7 lctrl 0.372083875342
+alma SNARC_only CD 9 num_decimal 0.584589444154
+alma SNARC_only CD 7 num_decimal 0.336609002983
+alma SNARC_only CD 2 lctrl 0.555269751047
+alma SNARC_only CD 7 num_decimal 0.478455297782
+alma SNARC_only CD 3 lctrl 0.476630581807
+alma SNARC_only CD 9 num_decimal 0.650288318424
+alma SNARC_only CD 5 num_decimal 0.49599832857
+alma SNARC_only CD 3 num_decimal 0.45559770297
+alma SNARC_only CD 9 num_decimal 0.338714390653
+alma SNARC_only CD 7 num_decimal 0.478765716476
+alma SNARC_only CD 1 num_decimal 0.394925371776
+alma SNARC_only CD 3 lctrl 0.29793475328
+alma SNARC_only CD 5 num_decimal 0.550312500984
+alma SNARC_only CD 1 num_decimal 0.614831644229
+alma SNARC_only CD 4 lctrl 0.704932857521
+alma SNARC_only CD 1 num_decimal 0.542314757557
+alma SNARC_only CD 5 num_decimal 0.621515970115
+alma SNARC_only CD 6 lctrl 0.617409484254
+alma SNARC_only CD 6 lctrl 0.440921933023
+alma SNARC_only CD 3 num_decimal 0.508158902176
+alma SNARC_only CD 3 num_decimal 0.378366791709
+alma SNARC_only CD 6 lctrl 0.545237312817
+alma SNARC_only CD 9 num_decimal 0.554438234905
+alma SNARC_only CD 6 lctrl 0.656154776791
+alma SNARC_only CD 7 num_decimal 0.53424947094
+alma SNARC_only CD 6 lctrl 0.571225341924
+alma SNARC_only CD 5 num_decimal 0.361615031123
+alma SNARC_only CD 3 num_decimal 0.647632436268
+alma SNARC_only CD 8 lctrl 0.668169765078
+alma SNARC_only CD 1 num_decimal 0.450366430545
+alma SNARC_only CD 4 num_decimal 0.426446692851
+alma SNARC_only CD 3 num_decimal 0.738357636632
+alma SNARC_only CD 4 lctrl 0.695934215033
+alma SNARC_only CD 8 num_decimal 0.592975298441
+alma SNARC_only CD 6 lctrl 3.2391749792
+alma SNARC_only CD 3 num_decimal 0.479758916314
+alma SNARC_only CD 8 lctrl 0.614769700476
+alma SNARC_only CD 3 num_decimal 0.59900169068
+alma SNARC_only CD 6 lctrl 0.57463469809
+alma SNARC_only CD 3 num_decimal 0.504994521303
+alma SNARC_only CD 6 lctrl 0.468212530766
+alma SNARC_only CD 6 lctrl 0.454128551135
+alma SNARC_only CD 9 num_decimal 0.518854523521
+alma SNARC_only CD 7 lctrl 0.377855493274
+alma SNARC_only CD 6 num_decimal 1.24455323681
+alma SNARC_only CD 4 lctrl 0.716020439339
+alma SNARC_only CD 9 num_decimal 1.05996540249
+alma SNARC_only CD 4 lctrl 0.51568279339
+alma SNARC_only CD 9 num_decimal 0.529299220174
+alma SNARC_only CD 1 num_decimal 0.51262340193
+alma SNARC_only CD 1 num_decimal 0.380062020746
+alma SNARC_only CD 4 lctrl 0.558320393387
+alma SNARC_only CD 5 num_decimal 1.28432532579
+alma SNARC_only CD 1 num_decimal 0.545865499465
+alma SNARC_only CD 4 lctrl 0.651828163129
+alma SNARC_only CD 9 num_decimal 0.535116333518
+alma SNARC_only CD 9 num_decimal 1.14188514088
+alma SNARC_only CD 7 num_decimal 0.420079784953
+alma SNARC_only CD 7 num_decimal 0.399502560167
+alma SNARC_only CD 2 lctrl 0.435818747679
+alma SNARC_only CD 3 num_decimal 0.459861672951
+alma SNARC_only CD 5 num_decimal 0.638194238112
+alma SNARC_only CD 8 num_decimal 0.469595941249
+alma SNARC_only CD 4 lctrl 0.674034823587
+alma SNARC_only CD 6 lctrl 0.978163952166
+alma SNARC_only CD 4 lctrl 0.631089254648
+alma SNARC_only CD 1 num_decimal 0.550382493926
+alma SNARC_only CD 4 lctrl 0.574754735984
+alma SNARC_only CD 4 lctrl 0.382643360417
+alma SNARC_only CD 4 lctrl 0.35320187959
+alma SNARC_only CD 9 num_decimal 0.476819562746
+alma SNARC_only CD 8 lctrl 0.533913504823
+alma SNARC_only CD 3 num_decimal 0.617441681008
+alma SNARC_only CD 7 num_decimal 0.601194219562
+alma SNARC_only CD 3 num_decimal 0.867347278028
+alma SNARC_only CD 2 lctrl 0.739065265268
+alma SNARC_only CD 4 lctrl 0.608896592777
+alma SNARC_only CD 6 lctrl 0.359641580148
+alma SNARC_only CD 6 lctrl 0.340751185244
+alma SNARC_only CD 6 lctrl 0.406839220264
+alma SNARC_only CD 2 lctrl 0.626475669927
+alma SNARC_only CD 3 num_decimal 0.495222806781
+alma SNARC_only CD 8 lctrl 0.502479674926
+alma SNARC_only CD 7 num_decimal 0.480974693703
+alma SNARC_only CD 5 num_decimal 0.528367264162
+alma SNARC_only CD 7 num_decimal 0.502379235055
+alma SNARC_only CD 8 lctrl 0.494417887956
+alma SNARC_only CD 5 num_decimal 0.520948712323
+alma SNARC_only CD 8 lctrl 1.2527644587
+alma SNARC_only CD 8 lctrl 0.42161298033
+alma SNARC_only CD 2 lctrl 0.456249687219
+alma SNARC_only CD 6 lctrl 0.385790942983
+alma SNARC_only CD 7 num_decimal 0.583266577565
+alma SNARC_only CD 1 num_decimal 0.458527957455
+alma SNARC_only CD 8 num_decimal 0.341931966163
+alma SNARC_only CD 1 num_decimal 0.445857135308
+alma SNARC_only CD 7 num_decimal 0.490922790435
+alma SNARC_only CD 2 lctrl 1.56592652631
+alma SNARC_only CD 3 num_decimal 0.535719322706
+alma SNARC_only CD 1 num_decimal 0.640818973407
+alma SNARC_only CD 7 num_decimal 0.751619199204
+alma SNARC_only CD 2 num_decimal 0.336255538628
+alma SNARC_only CD 2 lctrl 0.532549342399
+alma SNARC_only CD 9 num_decimal 0.499100065759
+alma SNARC_only CD 7 num_decimal 0.520548002734
+alma SNARC_only CD 1 num_decimal 0.582993955059
+alma SNARC_only CD 7 num_decimal 0.425999087991
+alma SNARC_only CD 8 lctrl 0.584409912261
+alma SNARC_only CD 7 num_decimal 0.510471818918
+alma SNARC_only CD 4 num_decimal 0.506746794585
+alma SNARC_only CD 6 lctrl 0.572131400548
+alma SNARC_only CD 2 lctrl 0.63924413223
+alma SNARC_only CD 9 num_decimal 0.577295129786
+alma SNARC_only CD 6 lctrl 0.594892755067
+alma SNARC_only CD 8 num_decimal 0.445919778991
+alma SNARC_only CD 3 num_decimal 0.739760995104
+alma SNARC_only CD 9 num_decimal 0.928080503081
+alma SNARC_only CD 8 lctrl 0.429815803078
+alma SNARC_only CD 9 num_decimal 0.551512879925
+alma SNARC_only CD 1 num_decimal 0.504936427162
+alma SNARC_only CD 5 num_decimal 0.536321961928
+alma SNARC_only CD 9 num_decimal 0.536798963825
+alma SNARC_only CD 1 num_decimal 0.521230083945
+alma SNARC_only CD 5 num_decimal 0.678755847472
+alma SNARC_only CD 1 num_decimal 0.374687262791
+alma SNARC_only CD 1 num_decimal 0.398617849391
+alma SNARC_only CD 7 num_decimal 0.384379185358
+alma SNARC_only CD 3 num_decimal 0.864285086849
+alma SNARC_only CD 5 num_decimal 0.460895468692
+alma SNARC_only CD 5 num_decimal 0.362005941701
+alma SNARC_only CD 8 lctrl 0.58874457511
+alma SNARC_only CD 5 num_decimal 1.20346913014
+alma SNARC_only CD 5 num_decimal 0.495923786088
+alma SNARC_only CD 8 num_decimal 0.359732920935
+alma SNARC_only CD 4 lctrl 0.769825063144
+alma SNARC_only CD 8 lctrl 0.478056338019
+alma SNARC_only CD 2 lctrl 0.514251087778
+alma SNARC_only CD 9 num_decimal 0.540581732332
+alma SNARC_only CD 5 num_decimal 0.394552659363
+alma SNARC_only CD 7 num_decimal 0.307981890026
+alma SNARC_only CD 4 lctrl 0.564352385063
+alma SNARC_only CD 2 lctrl 0.452865528512
+alma SNARC_only CD 7 num_decimal 0.457841326703
+alma SNARC_only CD 7 num_decimal 0.445724498684
+alma SNARC_only CD 2 lctrl 0.458272133255
+alma SNARC_only CD 9 num_decimal 0.422378353143
+alma SNARC_only CD 2 lctrl 0.370146470728
+alma SNARC_only CD 8 lctrl 0.748964716908
+alma SNARC_only CD 3 num_decimal 0.566736694604
+alma SNARC_only CD 9 num_decimal 0.739682952973
+alma SNARC_only CD 5 num_decimal 0.400403019356
+alma SNARC_only CD 7 num_decimal 0.414460051703
+alma SNARC_only CD 2 lctrl 0.644946107184
+alma SNARC_only CD 8 lctrl 0.342470211879
+alma SNARC_only CD 4 lctrl 0.565575161745
+alma SNARC_only CD 3 lctrl 0.37063677128
+alma SNARC_only CD 7 num_decimal 0.787349895762
+alma SNARC_only CD 8 lctrl 0.601432895493
+alma SNARC_only CD 2 lctrl 0.39440427433
+alma SNARC_only CD 8 lctrl 0.375082722907
+alma SNARC_only CD 2 lctrl 0.429934441112
+alma SNARC_only CD 5 num_decimal 0.586401211438
+alma SNARC_only CD 3 num_decimal 0.557550821
+alma SNARC_only CD 8 num_decimal 0.446864333731
+alma SNARC_only CD 1 num_decimal 0.399198440837
+alma SNARC_only CD 4 lctrl 0.546660969241
+alma SNARC_only CD 7 num_decimal 0.535455449317
+alma SNARC_only CD 8 lctrl 0.372373296153
+alma SNARC_only CD 5 num_decimal 0.446464324072
+alma SNARC_only CD 6 lctrl 0.619060967701
+alma SNARC_only CD 2 num_decimal 0.395376126316
+alma SNARC_only CD 3 num_decimal 0.369483637576
+alma SNARC_only CD 6 lctrl 0.412542245114
+alma SNARC_only CD 4 lctrl 0.362253016783
+alma SNARC_only CD 4 lctrl 0.47077987185
+alma SNARC_only CD 6 lctrl 0.566830135182
+alma SNARC_only CD 8 lctrl 0.295782120373
+alma SNARC_only CD 2 lctrl 0.358846810299
+alma SNARC_only CD 7 lctrl 0.372225611047
+alma SNARC_only CD 6 lctrl 0.354551693461
+alma SNARC_only CD 2 lctrl 0.554741654303
+alma SNARC_only CD 5 num_decimal 0.540682522167
+alma SNARC_only CD 1 num_decimal 0.448825885909
+alma SNARC_only CD 4 lctrl 0.59252314404
+alma SNARC_only CD 5 num_decimal 0.459204439232
+alma SNARC_only CD 7 num_decimal 0.530437655361
+alma SNARC_only CD 8 num_decimal 0.422402500708
+alma SNARC_only CD 5 num_decimal 0.443262496978
+alma SNARC_only CD 4 lctrl 0.549955536984
+alma SNARC_only CD 2 lctrl 0.520915465675
+{'participant': u'alma', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_17_1037', 'autopilot': False, 'exp_id': u'SNARC'}
+alma SNARC_only DC 2 num_decimal 0.884570091106
+alma SNARC_only DC 5 lctrl 0.578093399279
+alma SNARC_only DC 3 lctrl 0.504267644608
+alma SNARC_only DC 8 num_decimal 0.603158921424
+alma SNARC_only DC 3 lctrl 0.514037959272
+alma SNARC_only DC 6 num_decimal 0.700554099119
+alma SNARC_only DC 7 lctrl 0.526345518054
+alma SNARC_only DC 7 lctrl 0.398031658508
+alma SNARC_only DC 6 num_decimal 0.529613488479
+alma SNARC_only DC 8 num_decimal 0.502516421218
+alma SNARC_only DC 5 lctrl 0.541745015014
+alma SNARC_only DC 8 num_decimal 0.374668364695
+alma SNARC_only DC 7 lctrl 0.703574644496
+alma SNARC_only DC 8 num_decimal 0.438124665126
+alma SNARC_only DC 6 num_decimal 0.556276249539
+alma SNARC_only DC 9 lctrl 0.552894540586
+alma SNARC_only DC 3 num_decimal 0.4169776978
+alma SNARC_only DC 1 lctrl 0.618531121137
+alma SNARC_only DC 7 lctrl 0.490820600742
+alma SNARC_only DC 5 lctrl 0.92524648889
+alma SNARC_only DC 1 lctrl 0.470510748992
+alma SNARC_only DC 1 lctrl 0.373954786661
+alma SNARC_only DC 7 lctrl 0.400069852954
+alma SNARC_only DC 8 num_decimal 0.414211226798
+alma SNARC_only DC 5 lctrl 0.487583777176
+alma SNARC_only DC 1 lctrl 0.444744247543
+alma SNARC_only DC 5 lctrl 0.43329270243
+alma SNARC_only DC 4 lctrl 0.421799861484
+alma SNARC_only DC 5 lctrl 0.535099885177
+alma SNARC_only DC 8 num_decimal 0.478258967583
+alma SNARC_only DC 2 num_decimal 0.588811068405
+alma SNARC_only DC 5 lctrl 0.720337603952
+alma SNARC_only DC 8 num_decimal 0.500589515546
+alma SNARC_only DC 5 lctrl 0.610605120473
+alma SNARC_only DC 9 lctrl 0.57532692828
+alma SNARC_only DC 4 num_decimal 0.655333059662
+alma SNARC_only DC 3 num_decimal 0.402730284652
+alma SNARC_only DC 6 num_decimal 0.717743315587
+alma SNARC_only DC 2 num_decimal 0.718482091081
+alma SNARC_only DC 4 num_decimal 0.57358830362
+alma SNARC_only DC 9 lctrl 0.423435946484
+alma SNARC_only DC 2 num_decimal 0.665517382571
+alma SNARC_only DC 7 lctrl 0.568450821735
+alma SNARC_only DC 4 num_decimal 0.68160526011
+alma SNARC_only DC 5 lctrl 0.514560806543
+alma SNARC_only DC 2 num_decimal 0.643527700231
+alma SNARC_only DC 1 lctrl 0.57384202803
+alma SNARC_only DC 4 num_decimal 0.624425226717
+alma SNARC_only DC 9 lctrl 0.575553705408
+alma SNARC_only DC 3 lctrl 0.56112116093
+alma SNARC_only DC 8 num_decimal 0.602883849164
+alma SNARC_only DC 2 num_decimal 0.47100594905
+alma SNARC_only DC 6 num_decimal 0.439495126915
+alma SNARC_only DC 5 lctrl 0.588467753027
+alma SNARC_only DC 5 lctrl 0.491035479072
+alma SNARC_only DC 2 num_decimal 0.588691380473
+alma SNARC_only DC 1 lctrl 1.1304402451
+alma SNARC_only DC 4 num_decimal 0.543173920911
+alma SNARC_only DC 4 num_decimal 0.411425857701
+alma SNARC_only DC 2 num_decimal 0.402568600957
+alma SNARC_only DC 8 num_decimal 0.361766565842
+alma SNARC_only DC 8 num_decimal 0.372030680704
+alma SNARC_only DC 1 lctrl 0.379631564156
+alma SNARC_only DC 8 num_decimal 0.455443018571
+alma SNARC_only DC 1 lctrl 0.33137283105
+alma SNARC_only DC 1 lctrl 0.443104662896
+alma SNARC_only DC 4 num_decimal 0.593107935065
+alma SNARC_only DC 2 num_decimal 0.642694784232
+alma SNARC_only DC 8 num_decimal 0.438851541823
+alma SNARC_only DC 5 lctrl 0.571955368301
+alma SNARC_only DC 3 lctrl 0.434185812361
+alma SNARC_only DC 2 num_decimal 0.546851700006
+alma SNARC_only DC 4 num_decimal 0.511529762223
+alma SNARC_only DC 9 lctrl 0.572139799702
+alma SNARC_only DC 8 num_decimal 0.537408252378
+alma SNARC_only DC 5 lctrl 0.481601830455
+alma SNARC_only DC 7 lctrl 0.466542149223
+alma SNARC_only DC 5 num_decimal 0.492991781779
+alma SNARC_only DC 6 num_decimal 0.694238286069
+alma SNARC_only DC 6 num_decimal 0.42375546426
+alma SNARC_only DC 1 lctrl 0.47258323998
+alma SNARC_only DC 1 lctrl 0.386648006548
+alma SNARC_only DC 6 num_decimal 0.54088865138
+alma SNARC_only DC 6 num_decimal 0.399469313519
+alma SNARC_only DC 2 lctrl 0.492077324001
+alma SNARC_only DC 3 lctrl 0.571536110583
+alma SNARC_only DC 1 lctrl 0.573154697347
+alma SNARC_only DC 2 num_decimal 0.693054005504
+alma SNARC_only DC 5 lctrl 0.626321335494
+alma SNARC_only DC 8 num_decimal 0.687287637042
+alma SNARC_only DC 9 lctrl 0.616460729934
+alma SNARC_only DC 4 num_decimal 0.972112362468
+alma SNARC_only DC 8 num_decimal 0.494398989862
+alma SNARC_only DC 9 lctrl 0.580464060198
+alma SNARC_only DC 9 lctrl 0.388668702763
+alma SNARC_only DC 3 num_decimal 0.481283012608
+alma SNARC_only DC 7 lctrl 0.553740405279
+alma SNARC_only DC 2 lctrl 0.282275932474
+alma SNARC_only DC 9 lctrl 0.879634538856
+alma SNARC_only DC 1 lctrl 0.518926266286
+alma SNARC_only DC 9 lctrl 0.405358869559
+alma SNARC_only DC 5 lctrl 0.394664998033
+alma SNARC_only DC 9 lctrl 0.484752912669
+alma SNARC_only DC 6 num_decimal 0.597315560724
+alma SNARC_only DC 9 lctrl 0.657037037814
+alma SNARC_only DC 1 lctrl 0.50465365568
+alma SNARC_only DC 2 num_decimal 0.669796051068
+alma SNARC_only DC 8 num_decimal 0.48144749602
+alma SNARC_only DC 5 lctrl 0.564544515684
+alma SNARC_only DC 8 num_decimal 0.561198853096
+alma SNARC_only DC 2 num_decimal 0.492217309884
+alma SNARC_only DC 1 lctrl 0.580622944175
+alma SNARC_only DC 4 num_decimal 0.460742534115
+alma SNARC_only DC 4 num_decimal 0.546717663523
+alma SNARC_only DC 9 lctrl 0.554493179363
+alma SNARC_only DC 7 lctrl 0.504222849126
+alma SNARC_only DC 5 lctrl 0.976031967175
+alma SNARC_only DC 6 num_decimal 0.671349544398
+alma SNARC_only DC 4 num_decimal 1.12960767907
+alma SNARC_only DC 9 lctrl 0.657284112898
+alma SNARC_only DC 3 lctrl 0.663446291441
+alma SNARC_only DC 5 lctrl 0.53051254781
+alma SNARC_only DC 6 num_decimal 0.759715632679
+alma SNARC_only DC 6 num_decimal 0.508688398775
+alma SNARC_only DC 8 num_decimal 0.532622834988
+alma SNARC_only DC 1 lctrl 0.663043482064
+alma SNARC_only DC 2 num_decimal 0.873836323606
+alma SNARC_only DC 1 lctrl 0.799286141993
+alma SNARC_only DC 1 lctrl 0.431066926902
+alma SNARC_only DC 1 lctrl 0.454491464536
+alma SNARC_only DC 3 lctrl 0.593188776913
+alma SNARC_only DC 1 lctrl 0.403984908122
+alma SNARC_only DC 6 num_decimal 0.592729623218
+alma SNARC_only DC 3 lctrl 0.544569230193
+alma SNARC_only DC 9 lctrl 1.03702101643
+alma SNARC_only DC 3 lctrl 0.372174166236
+alma SNARC_only DC 2 num_decimal 0.757448211347
+alma SNARC_only DC 2 num_decimal 0.394484066283
+alma SNARC_only DC 7 lctrl 0.514526859966
+alma SNARC_only DC 2 num_decimal 0.436824896209
+alma SNARC_only DC 3 lctrl 0.560838739413
+alma SNARC_only DC 2 num_decimal 0.411672232854
+alma SNARC_only DC 5 lctrl 0.458336876725
+alma SNARC_only DC 5 num_decimal 0.344109796526
+alma SNARC_only DC 4 num_decimal 0.494066873354
+alma SNARC_only DC 6 num_decimal 0.576876222032
+alma SNARC_only DC 3 lctrl 0.556293747775
+alma SNARC_only DC 8 num_decimal 0.614951332158
+alma SNARC_only DC 4 num_decimal 0.690234339867
+alma SNARC_only DC 1 lctrl 0.397446167555
+alma SNARC_only DC 4 lctrl 0.40030222952
+alma SNARC_only DC 3 lctrl 0.550413640785
+alma SNARC_only DC 2 num_decimal 0.637658792111
+alma SNARC_only DC 6 num_decimal 0.448206448378
+alma SNARC_only DC 9 lctrl 0.879846967433
+alma SNARC_only DC 8 num_decimal 0.608720910497
+alma SNARC_only DC 5 lctrl 0.544997936957
+alma SNARC_only DC 2 num_decimal 0.613021976735
+alma SNARC_only DC 7 lctrl 0.543921445522
+alma SNARC_only DC 9 lctrl 0.618935330371
+alma SNARC_only DC 3 num_decimal 0.486039032965
+alma SNARC_only DC 2 num_decimal 0.489232460906
+alma SNARC_only DC 4 num_decimal 0.669162264985
+alma SNARC_only DC 8 num_decimal 0.540083032627
+alma SNARC_only DC 4 num_decimal 0.582280726989
+alma SNARC_only DC 7 lctrl 0.517946715074
+alma SNARC_only DC 5 lctrl 0.534445451176
+alma SNARC_only DC 8 num_decimal 0.594737020772
+alma SNARC_only DC 4 num_decimal 0.707693729088
+alma SNARC_only DC 7 lctrl 0.549690613701
+alma SNARC_only DC 1 lctrl 0.510475668529
+alma SNARC_only DC 2 lctrl 0.432288303726
+alma SNARC_only DC 4 num_decimal 0.638789878039
+alma SNARC_only DC 9 lctrl 0.528663334302
+alma SNARC_only DC 7 lctrl 0.463338572305
+alma SNARC_only DC 8 num_decimal 0.484098128703
+alma SNARC_only DC 7 lctrl 0.490172466107
+alma SNARC_only DC 1 lctrl 0.460581900315
+alma SNARC_only DC 7 lctrl 0.378412637085
+alma SNARC_only DC 4 num_decimal 0.555302647728
+alma SNARC_only DC 2 lctrl 0.391620655058
+alma SNARC_only DC 9 lctrl 0.57183918002
+alma SNARC_only DC 7 lctrl 0.427759060498
+alma SNARC_only DC 6 num_decimal 0.51317739606
+alma SNARC_only DC 6 num_decimal 0.491968834944
+alma SNARC_only DC 2 num_decimal 0.383412582842
+alma SNARC_only DC 6 num_decimal 0.369629572857
+alma SNARC_only DC 9 num_decimal 0.403414465653
+alma SNARC_only DC 3 lctrl 0.58202350293
+alma SNARC_only DC 1 lctrl 0.45993376568
+alma SNARC_only DC 6 num_decimal 0.570173348018
+alma SNARC_only DC 6 num_decimal 0.488225262483
+alma SNARC_only DC 8 num_decimal 0.532160531611
+alma SNARC_only DC 3 num_decimal 0.431767206277
+alma SNARC_only DC 6 num_decimal 0.567437323945
+alma SNARC_only DC 2 num_decimal 0.480093832537
+alma SNARC_only DC 7 lctrl 0.395343229637
+alma SNARC_only DC 5 num_decimal 0.750775434299
+alma SNARC_only DC 4 num_decimal 0.666268406832
+alma SNARC_only DC 1 lctrl 0.581951060236
+alma SNARC_only DC 4 num_decimal 0.566565911828
+alma SNARC_only DC 3 lctrl 0.41019573176
+alma SNARC_only DC 6 num_decimal 0.434168314125
+alma SNARC_only DC 7 lctrl 1.10418134331
+alma SNARC_only DC 8 num_decimal 0.644897812055
+alma SNARC_only DC 4 num_decimal 0.65788955184
+alma SNARC_only DC 1 lctrl 0.563947825862
+alma SNARC_only DC 9 lctrl 0.727224909368
+alma SNARC_only DC 7 lctrl 0.478215921925
+alma SNARC_only DC 6 num_decimal 0.622849685609
+alma SNARC_only DC 4 lctrl 0.714531689478
+alma SNARC_only DC 7 lctrl 0.80245682223
+alma SNARC_only DC 8 num_decimal 0.583314872696
+alma SNARC_only DC 3 lctrl 0.582125342658
+alma SNARC_only DC 8 num_decimal 0.590485299557
+alma SNARC_only DC 5 lctrl 0.638063001346
+alma SNARC_only DC 2 num_decimal 0.497838792957
+alma SNARC_only DC 3 lctrl 0.45131938444
+alma SNARC_only DC 9 lctrl 0.62486723214
+alma SNARC_only DC 6 num_decimal 0.486075079329
+alma SNARC_only DC 9 lctrl 1.10593081688
+alma SNARC_only DC 9 lctrl 0.441218703094
+alma SNARC_only DC 6 num_decimal 0.615333843582
+alma SNARC_only DC 8 num_decimal 0.738568315386
+alma SNARC_only DC 8 num_decimal 0.459458163645
+alma SNARC_only DC 2 num_decimal 0.508136154469
+alma SNARC_only DC 7 lctrl 0.447794889886
+alma SNARC_only DC 9 lctrl 0.663425993489
+alma SNARC_only DC 5 lctrl 0.427843052028
+alma SNARC_only DC 1 lctrl 0.538229619544
+alma SNARC_only DC 6 num_decimal 0.915870234487
+alma SNARC_only DC 6 num_decimal 0.499920033066
+alma SNARC_only DC 8 num_decimal 0.477441799994
+alma SNARC_only DC 1 lctrl 0.524584495653
+alma SNARC_only DC 9 lctrl 0.653072637624
+alma SNARC_only DC 9 lctrl 0.504209200502
+alma SNARC_only DC 9 lctrl 0.430121322264
+alma SNARC_only DC 7 lctrl 0.472045344226
+alma SNARC_only DC 7 lctrl 0.431916291242
+alma SNARC_only DC 2 num_decimal 0.518467462556
+alma SNARC_only DC 5 num_decimal 0.431202363241
+alma SNARC_only DC 7 lctrl 0.533269569765
+alma SNARC_only DC 4 num_decimal 0.586904810651
+alma SNARC_only DC 2 num_decimal 0.644118440656
+alma SNARC_only DC 2 num_decimal 0.445936227332
+alma SNARC_only DC 2 num_decimal 0.479684723796
+alma SNARC_only DC 3 lctrl 0.558715153576
+alma SNARC_only DC 9 lctrl 1.05468198532
+alma SNARC_only DC 4 num_decimal 0.548951488243
+alma SNARC_only DC 7 lctrl 0.636416767369
+alma SNARC_only DC 1 lctrl 0.544045682993
+alma SNARC_only DC 3 lctrl 0.743355482598
+alma SNARC_only DC 2 lctrl 0.692533607986
+alma SNARC_only DC 6 num_decimal 0.453529061595
+alma SNARC_only DC 4 num_decimal 0.731117216828
+alma SNARC_only DC 7 lctrl 0.590608137169
+alma SNARC_only DC 9 lctrl 0.572725990583
+alma SNARC_only DC 2 num_decimal 0.6135875197
+alma SNARC_only DC 1 lctrl 0.622588611939
+alma SNARC_only DC 6 num_decimal 0.784426640574
+alma SNARC_only DC 2 num_decimal 0.934123343661
+alma SNARC_only DC 5 lctrl 0.568816884817
+alma SNARC_only DC 4 num_decimal 0.541471692579
+alma SNARC_only DC 3 lctrl 0.598918749045
+alma SNARC_only DC 4 num_decimal 0.499577767581
+alma SNARC_only DC 8 num_decimal 0.480508540713
+alma SNARC_only DC 1 lctrl 0.558656709471
+alma SNARC_only DC 8 num_decimal 0.422758064849
+alma SNARC_only DC 1 lctrl 2.32920339984
+alma SNARC_only DC 2 num_decimal 0.719587629586
+alma SNARC_only DC 5 lctrl 0.969977227796
+alma SNARC_only DC 2 num_decimal 0.594847609618
+alma SNARC_only DC 4 num_decimal 0.456018010584
+alma SNARC_only DC 6 num_decimal 0.870983761286
+alma SNARC_only DC 6 num_decimal 0.433794551818
+alma SNARC_only DC 1 lctrl 0.446267643909
+alma SNARC_only DC 9 lctrl 0.561580664589
+alma SNARC_only DC 1 lctrl 0.427018185215
+alma SNARC_only DC 7 lctrl 0.382754999158
+alma SNARC_only DC 5 num_decimal 0.453718042534
+alma SNARC_only DC 3 lctrl 0.449260192108
+alma SNARC_only DC 2 num_decimal 0.600842155069
+alma SNARC_only DC 9 lctrl 0.648562992423
+alma SNARC_only DC 7 lctrl 0.412743824785
+alma SNARC_only DC 8 num_decimal 0.638855671405
+alma SNARC_only DC 3 lctrl 0.536462647742
+alma SNARC_only DC 7 lctrl 0.475002196028
+alma SNARC_only DC 1 lctrl 0.633717139626
+alma SNARC_only DC 3 lctrl 0.682133706816
+alma SNARC_only DC 8 num_decimal 0.631828730073
+alma SNARC_only DC 6 num_decimal 0.535560788694
+alma SNARC_only DC 5 lctrl 0.671649114187
+alma SNARC_only DC 2 num_decimal 0.549569525912
+alma SNARC_only DC 3 lctrl 0.577000809468
+alma SNARC_only DC 7 lctrl 0.508558911833
+alma SNARC_only DC 3 lctrl 0.430718012089
+alma SNARC_only DC 3 lctrl 0.582830171577
+alma SNARC_only DC 4 num_decimal 0.519996808322
+alma SNARC_only DC 7 lctrl 0.549880644538
+alma SNARC_only DC 5 lctrl 1.27735787846
+alma SNARC_only DC 1 lctrl 0.52913018722
+alma SNARC_only DC 3 lctrl 0.424178571591
+alma SNARC_only DC 9 lctrl 0.48237770221
+alma SNARC_only DC 6 num_decimal 0.412515297832
+alma SNARC_only DC 1 lctrl 0.436065822762
+alma SNARC_only DC 4 num_decimal 0.459099799786
+alma SNARC_only DC 5 lctrl 0.64102895223
+alma SNARC_only DC 8 num_decimal 0.490377895389
+alma SNARC_only DC 3 lctrl 0.640762979054
+alma SNARC_only DC 6 num_decimal 0.446576312779
+alma SNARC_only DC 6 num_decimal 0.456517060255
+alma SNARC_only DC 3 lctrl 0.530361363057
+alma SNARC_only DC 6 num_decimal 0.434763604089
+alma SNARC_only DC 5 lctrl 0.584326620661
+alma SNARC_only DC 6 num_decimal 0.368954840904
+alma SNARC_only DC 1 lctrl 0.525710332113
+alma SNARC_only DC 5 num_decimal 0.537450948072
+alma SNARC_only DC 7 lctrl 0.729297750322
+alma SNARC_only DC 9 lctrl 0.570959018782
+alma SNARC_only DC 9 lctrl 0.480199171914
+alma SNARC_only DC 1 lctrl 0.737389634256
+alma SNARC_only DC 7 lctrl 0.525454157949
+alma SNARC_only DC 5 lctrl 0.586503751098
+alma SNARC_only DC 3 lctrl 0.477641629841
+alma SNARC_only DC 7 lctrl 0.466458507661
+alma SNARC_only DC 4 num_decimal 0.637112497205
+alma SNARC_only DC 5 lctrl 0.595624881231
+alma SNARC_only DC 4 num_decimal 0.37721785758
+alma SNARC_only DC 1 lctrl 0.417645080493
+alma SNARC_only DC 7 lctrl 0.448806987815
+alma SNARC_only DC 8 num_decimal 0.473371360498
+alma SNARC_only DC 3 lctrl 0.554564222197
+alma SNARC_only DC 4 num_decimal 0.564658254216
+alma SNARC_only DC 7 lctrl 0.532055892163
+alma SNARC_only DC 6 num_decimal 0.538673024825
+alma SNARC_only DC 4 num_decimal 1.09662105577
+alma SNARC_only DC 5 lctrl 0.519627945521
+alma SNARC_only DC 4 num_decimal 0.472599338356
+alma SNARC_only DC 3 lctrl 0.654747918674
+alma SNARC_only DC 4 num_decimal 0.493095021367
+alma SNARC_only DC 8 num_decimal 0.653566437824
+alma SNARC_only DC 9 lctrl 0.525925210442
+alma SNARC_only DC 6 num_decimal 0.599314909092
+alma SNARC_only DC 8 num_decimal 0.494768202627
+alma SNARC_only DC 7 lctrl 0.591035794039
+alma SNARC_only DC 9 lctrl 0.825879260077
+alma SNARC_only DC 8 num_decimal 0.562852786297
+alma SNARC_only DC 5 lctrl 0.782772007442
+alma SNARC_only DC 9 lctrl 0.584102293284
+alma SNARC_only DC 3 num_decimal 0.587438856792
+alma SNARC_only DC 9 lctrl 0.106292330418
+alma SNARC_only DC 9 lctrl 0.438639813174
+alma SNARC_only DC 7 lctrl 0.471476301615
+alma SNARC_only DC 5 lctrl 0.451042562358
+alma SNARC_only DC 3 lctrl 0.516342476862
+alma SNARC_only DC 4 lctrl 0.506588960503
+alma SNARC_only DC 7 lctrl 0.563673103567
+alma SNARC_only DC 3 lctrl 0.981842781155
+alma SNARC_only DC 3 lctrl 0.643072046183
+alma SNARC_only DC 8 num_decimal 0.527610290503

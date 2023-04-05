@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'12_17_1309', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'haboscsok', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+haboscsok SNARC line dot DC 0 up 45 num_separator 1.25012683868
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.555849075317
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.594550848007
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.442088842392
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.507706880569
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.348027944565
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.361790895462
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.299013853073
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.466814041138
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.354142189026
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.378043889999
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.369728088379
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.345690011978
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.26707816124
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.408720016479
+haboscsok SNARC line dot DC 0 down 20 num_separator 0.210904836655
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.452173948288
+haboscsok SNARC line dot DC 0 up 30 lctrl 0.37163901329
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.536022186279
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.306792020798
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.346186876297
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.354589939117
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.36066699028
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.314700841904
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.355953931808
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.331623077393
+haboscsok SNARC line dot DC 0 up 30 lctrl 0.28986787796
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.44190788269
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.371527910233
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.275306940079
+haboscsok SNARC line dot DC 0 up 20 lctrl 0.379245042801
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.417247056961
+haboscsok SNARC line dot DC 0 down 5 num_separator 0.403770208359
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.523067951202
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.394098043442
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.339046955109
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.305100917816
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.25609588623
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.306898117065
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.263891935349
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.313501119614
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.396320819855
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.417329072952
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.337712049484
+haboscsok SNARC line dot DC 0 up 30 lctrl 0.329806804657
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.504212856293
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.393759012222
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.457504987717
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.489216089249
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.36798119545
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.442346811295
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.283681869507
+haboscsok SNARC line dot DC 0 up 35 lctrl 0.345007896423
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.643049001694
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.416519165039
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.289572954178
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.330183029175
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.324951887131
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.344484090805
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.500224113464
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.313431978226
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.257970809937
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.260856866837
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.378314971924
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.307107925415
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.280739068985
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.354136943817
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.347069978714
+haboscsok SNARC line dot DC 0 down 45 num_separator 0.352344989777
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.556449890137
+haboscsok SNARC line dot DC 0 up 20 lctrl 0.282911062241
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.5785779953
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.347723960876
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.412078142166
+haboscsok SNARC line dot DC 0 up 45 lctrl 0.433557033539
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.337815999985
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.480485916138
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.311989068985
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.507082939148
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.546980857849
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.328896045685
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.522763967514
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.321840047836
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.265062093735
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.428753137589
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.347362041473
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.307387113571
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.29771900177
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.28281211853
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.21735906601
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.351884126663
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.40154504776
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.313117980957
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.369252920151
+haboscsok SNARC line dot DC 0 down 45 num_separator 0.246794939041
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.286891937256
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.338184118271
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.251482009888
+haboscsok SNARC line dot DC 0 up 45 lctrl 0.368751049042
+haboscsok SNARC line dot DC 0 down 45 num_separator 0.246958971024
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.40864109993
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.376330852509
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.31333899498
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.370450973511
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.304747104645
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.27460193634
+haboscsok SNARC line dot DC 0 up 30 lctrl 0.305783987045
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.529181003571
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.600682973862
+haboscsok SNARC line dot DC 0 down 25 num_separator 0.386394023895
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.307121992111
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.344477891922
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.287900924683
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.272547006607
+haboscsok SNARC line dot DC 0 down 45 num_separator 0.375644922256
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.426959991455
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.480500936508
+haboscsok SNARC line dot DC 0 up 5 lctrl 0.379238843918
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.480441808701
+haboscsok SNARC line dot DC 0 down 25 num_separator 0.282945156097
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.5379550457
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.347733974457
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.299219846725
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.324729204178
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.407876968384
+haboscsok SNARC line dot DC 0 down 10 num_separator 0.275401830673
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.296908855438
+haboscsok SNARC line dot DC 0 down 20 num_separator 0.32967710495
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.408617019653
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.260793924332
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.331851959229
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.383787155151
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.432642936707
+haboscsok SNARC line dot DC 0 up 25 lctrl 0.338442087173
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.538797855377
+haboscsok SNARC line dot DC 0 down 35 num_separator 0.273144006729
+haboscsok SNARC line dot DC 0 up 25 lctrl 0.466641902924
+haboscsok SNARC line dot DC 0 up 10 lctrl 0.539262056351
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.64229798317
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.424566984177
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.29842209816
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.313869953156
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.473257064819
+haboscsok SNARC line dot DC 0 down 15 num_separator 0.274578094482
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.335857868195
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.355203866959
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.368407964706
+haboscsok SNARC line dot DC 0 up 45 lctrl 0.408494949341
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.311182975769
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.444037914276
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.336452007294
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.409777879715
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.290594100952
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.4312748909
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.39568901062
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.345947027206
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.432851076126
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.290879964828
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.439488172531
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.369678974152
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.362460851669
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.424002170563
+haboscsok SNARC line dot DC 0 up 5 lctrl 0.355720996857
+haboscsok SNARC line dot DC 0 up 5 lctrl 0.435903072357
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.559237003326
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.459662914276
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.48265504837
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.327568054199
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.315413951874
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.329751014709
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.392910003662
+haboscsok SNARC line dot DC 0 up 25 lctrl 0.418440818787
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.347222089767
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.280790090561
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.417538881302
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.271771192551
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.451767921448
+haboscsok SNARC line dot DC 0 down 15 num_separator 0.283482074738
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.643586158752
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.239559173584
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.487957000732
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.425410032272
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.451777935028
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.379889011383
+haboscsok SNARC line dot DC 0 up 15 lctrl 0.307250976562
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.35466504097
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.344753026962
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.518889904022
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.410781145096
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.363368988037
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.451593875885
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.432047128677
+haboscsok SNARC line dot DC 0 up 40 lctrl 0.312549829483
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.363521814346
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.387803077698
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.640678167343
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.444298028946
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.418477058411
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.44871711731
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.336908102036
+haboscsok SNARC line dot DC 0 up 15 lctrl 0.25922703743
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.464010000229
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.272714853287
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.393214941025
+haboscsok SNARC line dot DC 0 down 5 num_separator 0.372247934341
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.393771886826
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.474974870682
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.327377080917
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.290363073349
+haboscsok SNARC line dot DC 0 up 20 lctrl 0.275030851364
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.409142017365
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.259901046753
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.361984014511
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.39971280098
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.520270109177
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.612179040909
+haboscsok SNARC line dot DC 0 down 45 num_separator 0.734597921371
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.585110187531
+haboscsok SNARC line dot DC 0 up 15 lctrl 0.410967826843
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.404271125793
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.650181055069
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.441707849503
+haboscsok SNARC line dot DC 0 up 35 lctrl 0.36049413681
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.44272518158
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.418496847153
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.375637054443
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.370948076248
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.25274014473
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.432317018509
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.346293926239
+haboscsok SNARC line dot DC 0 up 20 lctrl 0.362952947617
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.498844861984
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.376863002777
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.324028968811
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.352647781372
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.420342206955
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.431683063507
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.353451967239
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.415454149246
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.321846008301
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.384498119354
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.32172203064
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.399199008942
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.275551080704
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.296664953232
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.401214838028
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.336778879166
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.330591917038
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.346868038177
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.448966026306
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.290993928909
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.356187105179
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.523734092712
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.450827121735
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.313720941544
+haboscsok SNARC line dot DC 0 up 35 lctrl 0.304651021957
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.399115085602
+haboscsok SNARC line dot DC 0 down 20 num_separator 0.2344789505
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.402498006821
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.300565958023
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.368861913681
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.320302963257
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.343957185745
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.320878982544
+haboscsok SNARC line dot DC 0 up 5 lctrl 0.364457130432
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.658621072769
+haboscsok SNARC line dot DC 0 down 5 num_separator 0.355958938599
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.44078207016
+haboscsok SNARC line dot DC 0 down 45 num_separator 0.376199007034
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.419425010681
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.306832075119
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.441093206406
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.308095932007
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.425178050995
+haboscsok SNARC line dot DC 0 up 15 lctrl 0.378875017166
+haboscsok SNARC line dot DC 0 down 20 num_separator 0.505755901337
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.507331848145
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.343889951706
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.602952957153
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.315378904343
+haboscsok SNARC line dot DC 0 down 20 num_separator 0.36096405983
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.372318983078
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.236037969589
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.224047899246
+haboscsok SNARC line dot DC 0 down 20 lctrl 0.274101018906
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.296364068985
+haboscsok SNARC line dot DC 0 up 20 lctrl 0.298789978027
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.354969024658
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.480841875076
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.368500947952
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.321964979172
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.257073879242
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.259459018707
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.2672290802
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.224873065948
+haboscsok SNARC line dot DC 0 up 10 lctrl 0.27610707283
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.337898015976
+haboscsok SNARC line dot DC 0 down 10 num_separator 0.275658130646
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.363126039505
+haboscsok SNARC line dot DC 0 up 40 lctrl 0.361442804337
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.490128040314
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.336708068848
+haboscsok SNARC line dot DC 0 up 35 lctrl 0.400663137436
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.259857177734
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.471213102341
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.361222028732
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.353954076767
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.272314071655
+haboscsok SNARC line dot DC 0 up 25 lctrl 0.266314029694
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.303653001785
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.482813835144
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.23321390152
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.440248966217
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.362071990967
+haboscsok SNARC line dot DC 0 up 35 lctrl 0.233315944672
+haboscsok SNARC line dot DC 0 down 30 lctrl 0.296702861786
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.463590145111
+haboscsok SNARC line dot DC 0 up 15 lctrl 0.323239803314
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.248637914658
+haboscsok SNARC line dot DC 0 down 20 num_separator 0.282446861267
+haboscsok SNARC line dot DC 0 up 35 lctrl 0.288083076477
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.545434951782
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.4353120327
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.383500099182
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.559020042419
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.419013023376
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.376027107239
+haboscsok SNARC line dot DC 0 up 45 lctrl 0.42374587059
+haboscsok SNARC line dot DC 0 up 20 num_separator 0.482510089874
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.400755167007
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.442550182343
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.426757097244
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.467786073685
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.39165520668
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.380038022995
+haboscsok SNARC line dot DC 0 up 40 num_separator 0.415269851685
+haboscsok SNARC line dot DC 0 up 20 lctrl 0.483134031296
+haboscsok SNARC line dot DC 0 up 35 num_separator 0.535109043121
+haboscsok SNARC line dot DC 0 down 10 num_separator 0.283456802368
+haboscsok SNARC line dot DC 0 down 10 lctrl 0.77263212204
+haboscsok SNARC line dot DC 0 up 45 num_separator 0.358428955078
+haboscsok SNARC line dot DC 0 down 15 lctrl 0.395358085632
+haboscsok SNARC line dot DC 0 up 5 num_separator 0.547024965286
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.295557975769
+haboscsok SNARC line dot DC 0 down 40 num_separator 0.239521026611
+haboscsok SNARC line dot DC 0 down 5 lctrl 0.564130067825
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.531131029129
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.265657901764
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.384048938751
+haboscsok SNARC line dot DC 0 down 35 lctrl 0.328634977341
+haboscsok SNARC line dot DC 0 up 25 num_separator 0.39307308197
+haboscsok SNARC line dot DC 0 down 25 lctrl 0.401627063751
+haboscsok SNARC line dot DC 0 up 30 num_separator 0.39218878746
+haboscsok SNARC line dot DC 0 up 15 lctrl 0.315498113632
+haboscsok SNARC line dot DC 0 up 15 num_separator 0.409482002258
+haboscsok SNARC line dot DC 0 down 40 lctrl 0.28125
+haboscsok SNARC line dot DC 0 up 30 lctrl 0.401006937027
+haboscsok SNARC line dot DC 0 down 45 lctrl 0.390238046646
+haboscsok SNARC line dot DC 0 up 10 num_separator 0.339492082596
+haboscsok SNARC line dot DC 0 up 30 lctrl 0.274039983749
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'12_17_1318', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'haboscsok', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+haboscsok SNARC line arabic DC 0 down 6 num_separator 0.943712949753
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.442706823349
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.327677965164
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.313029050827
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.312246084213
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.263984918594
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.272216081619
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.30335021019
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.320335865021
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.249211072922
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.247870922089
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.344610929489
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.281033992767
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.216036081314
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.257067918777
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.424149036407
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.400470018387
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.328668832779
+haboscsok SNARC line arabic DC 0 down 6 num_separator 0.280306100845
+haboscsok SNARC line arabic DC 0 up 5 lctrl 0.352309942245
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.359602928162
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.280000925064
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.288548946381
+haboscsok SNARC line arabic DC 0 up 1 lctrl 0.264152050018
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.295547008514
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.327902078629
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.344626903534
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.328791856766
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.223931074142
+haboscsok SNARC line arabic DC 0 up 8 lctrl 0.232264995575
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.280114889145
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.439275979996
+haboscsok SNARC line arabic DC 0 down 2 num_separator 0.312664031982
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.431761026382
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.486959218979
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.383827924728
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.382530212402
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.52041387558
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.335453987122
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.319808959961
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.361137151718
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.529036045074
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.27131986618
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.304780006409
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.519582986832
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.432911157608
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.432742118835
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.345082998276
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.328764915466
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.352550983429
+haboscsok SNARC line arabic DC 0 up 1 lctrl 0.312333106995
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.503261089325
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.280528068542
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.288303852081
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.264457941055
+haboscsok SNARC line arabic DC 0 down 2 num_separator 0.264374017715
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.359821796417
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.416747093201
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.52006983757
+haboscsok SNARC line arabic DC 0 up 4 lctrl 0.288069963455
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.383544921875
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.295300960541
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.304020881653
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.391445875168
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.343024969101
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.233490943909
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.295566797256
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.344280004501
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.3445789814
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.257348775864
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.304238080978
+haboscsok SNARC line arabic DC 0 down 3 num_separator 0.207047939301
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.463867902756
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.288702011108
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.391474962234
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.392653942108
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.216392993927
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.343849897385
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.271766901016
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.480574846268
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.247543096542
+haboscsok SNARC line arabic DC 0 up 8 lctrl 0.272771835327
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.399192094803
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.279703140259
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.320267915726
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.302839994431
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.327040910721
+haboscsok SNARC line arabic DC 0 down 7 num_separator 0.312623023987
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.31237411499
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.392285108566
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.344546079636
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.319711923599
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.288618087769
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.312306165695
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.304306983948
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.336027145386
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.353162050247
+haboscsok SNARC line arabic DC 0 down 6 num_separator 0.25541305542
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.336119174957
+haboscsok SNARC line arabic DC 0 down 6 num_separator 0.366853952408
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.401021003723
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.27948307991
+haboscsok SNARC line arabic DC 0 up 3 lctrl 0.264117956161
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.463390111923
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.263653993607
+haboscsok SNARC line arabic DC 0 down 2 num_separator 0.271644115448
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.416645050049
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.392066001892
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.367807149887
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.391902923584
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.328191995621
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.311745882034
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.312513828278
+haboscsok SNARC line arabic DC 0 down 5 num_separator 0.255788087845
+haboscsok SNARC line arabic DC 0 up 5 lctrl 0.320250034332
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.335257053375
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.615936994553
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.360131978989
+haboscsok SNARC line arabic DC 0 up 7 lctrl 0.328485012054
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.527787923813
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.415463924408
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.359848976135
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.287929058075
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.343497991562
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.360038995743
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.504521846771
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.382560968399
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.320409059525
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.345016002655
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.36935710907
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.344357967377
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.335891962051
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.336064100266
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.456089019775
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.343473911285
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.384510993958
+haboscsok SNARC line arabic DC 0 down 4 num_separator 0.30340886116
+haboscsok SNARC line arabic DC 0 up 7 lctrl 0.279356002808
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.28827214241
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.519866943359
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.368344068527
+haboscsok SNARC line arabic DC 0 down 4 num_separator 0.391691923141
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.495782136917
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.248252868652
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.303478002548
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.431412935257
+haboscsok SNARC line arabic DC 0 down 5 num_separator 0.232995033264
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.32005405426
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.400597810745
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.53676199913
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.335458993912
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.360019922256
+haboscsok SNARC line arabic DC 0 down 2 num_separator 0.312753915787
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.407743930817
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.232315063477
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.34494805336
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.367630004883
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.415683031082
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.496078968048
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.33583688736
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.360129117966
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.463665962219
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.352597951889
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.303620100021
+haboscsok SNARC line arabic DC 0 down 9 num_separator 0.351480007172
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.463880062103
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.335680961609
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.368407011032
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.351510047913
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.249185085297
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.262936830521
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.288764953613
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.263896942139
+haboscsok SNARC line arabic DC 0 up 9 lctrl 0.26438999176
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.472229003906
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.439865112305
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.328285932541
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.287588119507
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.280497074127
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.536212921143
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.440948963165
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.36798787117
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.415913105011
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.279543876648
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.320502996445
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.50473690033
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.432564020157
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.303838968277
+haboscsok SNARC line arabic DC 0 up 5 lctrl 0.224594116211
+haboscsok SNARC line arabic DC 0 down 8 num_separator 0.382617950439
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.416007041931
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.575760126114
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.288967847824
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.375918149948
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.319652080536
+haboscsok SNARC line arabic DC 0 up 4 lctrl 0.352193832397
+haboscsok SNARC line arabic DC 0 up 7 lctrl 0.295464038849
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.407374858856
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.361144065857
+haboscsok SNARC line arabic DC 0 down 1 num_separator 0.360540866852
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.495774030685
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.351639986038
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.440557956696
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.368777036667
+haboscsok SNARC line arabic DC 0 up 9 lctrl 0.392287015915
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.33584189415
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.51212310791
+haboscsok SNARC line arabic DC 0 down 9 num_separator 0.632206916809
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.527648925781
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.304154157639
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.336888790131
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.455596923828
+haboscsok SNARC line arabic DC 0 up 1 lctrl 0.343936920166
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.264236927032
+haboscsok SNARC line arabic DC 0 up 2 num_separator 1.00695300102
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.320003032684
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.32762503624
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.385270833969
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.33575797081
+haboscsok SNARC line arabic DC 0 up 8 lctrl 0.248325109482
+haboscsok SNARC line arabic DC 0 up 4 lctrl 0.607988834381
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.471833944321
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.343425989151
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.463761091232
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.312157154083
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.25682091713
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.663107156754
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.304923772812
+haboscsok SNARC line arabic DC 0 down 4 num_separator 0.23948597908
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.398563861847
+haboscsok SNARC line arabic DC 0 up 2 lctrl 0.528465986252
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.335777997971
+haboscsok SNARC line arabic DC 0 up 6 lctrl 0.599739074707
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.383207798004
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.272992134094
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.279860973358
+haboscsok SNARC line arabic DC 0 down 9 num_separator 0.352646112442
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.902770996094
+haboscsok SNARC line arabic DC 0 up 5 lctrl 0.416322946548
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.918885946274
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.297168970108
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.297117948532
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.247390031815
+haboscsok SNARC line arabic DC 0 down 4 num_separator 0.136080026627
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.264182806015
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.320825815201
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.328511953354
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.367146015167
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.39213681221
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.320283174515
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.440151929855
+haboscsok SNARC line arabic DC 0 up 5 lctrl 0.288410186768
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.519581079483
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.376420021057
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.368363142014
+haboscsok SNARC line arabic DC 0 down 4 num_separator 0.271541833878
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.367566823959
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.359776973724
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.367326021194
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.368195772171
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.320418834686
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.303683996201
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.367536067963
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.335859060287
+haboscsok SNARC line arabic DC 0 down 8 num_separator 0.247630834579
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.415656805038
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.272071123123
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.464291810989
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.375985860825
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.297311067581
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.399760007858
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.327728033066
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.360323905945
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.408977985382
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.287820100784
+haboscsok SNARC line arabic DC 0 down 9 num_separator 0.280210018158
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.479342937469
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.528242111206
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.343965053558
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.352947950363
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.367254018784
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.264261007309
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.464366912842
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.327368021011
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.335172891617
+haboscsok SNARC line arabic DC 0 up 8 lctrl 0.28840303421
+haboscsok SNARC line arabic DC 0 up 8 lctrl 0.439430952072
+haboscsok SNARC line arabic DC 0 down 2 num_separator 0.358719825745
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.464518070221
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.560188055038
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.337244033813
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.487555980682
+haboscsok SNARC line arabic DC 0 up 3 lctrl 0.280538082123
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.407824039459
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.416189908981
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.296066999435
+haboscsok SNARC line arabic DC 0 up 2 lctrl 0.288694143295
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.430373907089
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.311039924622
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.496240139008
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.447729825974
+haboscsok SNARC line arabic DC 0 down 3 lctrl 0.495899915695
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.350677013397
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.256644964218
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.40071606636
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.47892999649
+haboscsok SNARC line arabic DC 0 up 1 lctrl 0.304956912994
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.479223966599
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.263413906097
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.552390098572
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.59207201004
+haboscsok SNARC line arabic DC 0 down 5 num_separator 0.487584114075
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.416738033295
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.360069036484
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.368587970734
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.304277181625
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.361042976379
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.351938962936
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.457227945328
+haboscsok SNARC line arabic DC 0 down 7 lctrl 0.440963029861
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.408276081085
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.39990901947
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.320359945297
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.471864938736
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.392607927322
+haboscsok SNARC line arabic DC 0 down 5 lctrl 0.296819925308
+haboscsok SNARC line arabic DC 0 down 2 lctrl 0.391947984695
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.400876045227
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.295819044113
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.423350095749
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.408097028732
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.392515897751
+haboscsok SNARC line arabic DC 0 down 4 lctrl 0.496118068695
+haboscsok SNARC line arabic DC 0 up 2 num_separator 0.303621053696
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.415895938873
+haboscsok SNARC line arabic DC 0 up 7 num_separator 0.495833873749
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.327229976654
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.351949930191
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.311939954758
+haboscsok SNARC line arabic DC 0 down 8 lctrl 0.409343957901
+haboscsok SNARC line arabic DC 0 up 1 num_separator 0.367517948151
+haboscsok SNARC line arabic DC 0 down 1 lctrl 0.264399051666
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.320036888123
+haboscsok SNARC line arabic DC 0 up 8 num_separator 0.336140155792
+haboscsok SNARC line arabic DC 0 up 5 num_separator 0.337126016617
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.344470024109
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.296334028244
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.319969892502
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.279597043991
+haboscsok SNARC line arabic DC 0 down 6 lctrl 0.312268018723
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.255167007446
+haboscsok SNARC line arabic DC 0 up 4 num_separator 0.369081020355
+haboscsok SNARC line arabic DC 0 down 6 num_separator 0.336133003235
+haboscsok SNARC line arabic DC 0 down 2 num_separator 0.495949029922
+haboscsok SNARC line arabic DC 0 down 5 num_separator 0.287034034729
+haboscsok SNARC line arabic DC 0 up 9 num_separator 0.495722055435
+haboscsok SNARC line arabic DC 0 down 9 lctrl 0.288230895996
+haboscsok SNARC line arabic DC 0 up 1 lctrl 0.416376113892
+haboscsok SNARC line arabic DC 0 up 6 num_separator 0.407742977142
+haboscsok SNARC line arabic DC 0 up 3 num_separator 0.311737060547
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'12_17_1326', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'haboscsok', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+haboscsok SNARC line dot CD 0 down 5 lctrl 0.967730045319
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.506958007812
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.443394184113
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.466267824173
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.626015901566
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.348057031631
+haboscsok SNARC line dot CD 0 down 45 lctrl 0.304266929626
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.431523799896
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.315106868744
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.278789043427
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.244415998459
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.224127054214
+haboscsok SNARC line dot CD 0 down 20 lctrl 0.211350917816
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.402678012848
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.258990049362
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.44747209549
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.348456859589
+haboscsok SNARC line dot CD 0 up 45 num_separator 0.240243911743
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.514104127884
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.344511032104
+haboscsok SNARC line dot CD 0 down 40 lctrl 0.391545057297
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.343312978745
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.329205036163
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.272329092026
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.439538002014
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.345927000046
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.249871969223
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.380509853363
+haboscsok SNARC line dot CD 0 up 20 num_separator 0.266561031342
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.536063909531
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.281970977783
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.30638217926
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.228218078613
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.406589031219
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.302947044373
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.344341039658
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.299233913422
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.313133001328
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.218131065369
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.260255098343
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.219304800034
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.266087055206
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.24889588356
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.255406856537
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.220170974731
+haboscsok SNARC line dot CD 0 up 45 num_separator 0.255444049835
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.243109941483
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.253435850143
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.504578828812
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.29204416275
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.273497819901
+haboscsok SNARC line dot CD 0 up 25 num_separator 0.321521997452
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.38469004631
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.384716033936
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.304946899414
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.303589105606
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.224889039993
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.367276191711
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.307361841202
+haboscsok SNARC line dot CD 0 down 5 lctrl 0.308876991272
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.417056083679
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.288280010223
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.30411195755
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.275774002075
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.376227855682
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.40163397789
+haboscsok SNARC line dot CD 0 up 35 num_separator 0.345126867294
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.338906049728
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.354313135147
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.306674003601
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.257182121277
+haboscsok SNARC line dot CD 0 down 45 lctrl 0.247670888901
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.34578704834
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.331158876419
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.335961103439
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.326613903046
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.299280881882
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.29145693779
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.306065797806
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.443902015686
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.2430768013
+haboscsok SNARC line dot CD 0 up 35 num_separator 0.288716077805
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.35225892067
+haboscsok SNARC line dot CD 0 down 10 lctrl 0.275017976761
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.334500074387
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.40859413147
+haboscsok SNARC line dot CD 0 up 35 num_separator 0.401057958603
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.849213123322
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.425992012024
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.450963020325
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.456846952438
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.379620075226
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.336268901825
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.368328094482
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.24182510376
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.222963809967
+haboscsok SNARC line dot CD 0 down 10 lctrl 0.210602998734
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.216756105423
+haboscsok SNARC line dot CD 0 down 40 lctrl 0.336626052856
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.259398937225
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.305984973907
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.26627612114
+haboscsok SNARC line dot CD 0 up 30 num_separator 0.257555961609
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.367370843887
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.442456007004
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.234122037888
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.359458208084
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.39205789566
+haboscsok SNARC line dot CD 0 up 35 num_separator 0.338277101517
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.444289922714
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.330214977264
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.39574098587
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.38658285141
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.568042993546
+haboscsok SNARC line dot CD 0 down 10 lctrl 0.476301193237
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.450336933136
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.355592012405
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.386932849884
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.3930311203
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.340224981308
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.307335138321
+haboscsok SNARC line dot CD 0 up 20 num_separator 0.281697034836
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.451126813889
+haboscsok SNARC line dot CD 0 down 40 lctrl 0.25604891777
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.36702299118
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.296447992325
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.27636885643
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.246697187424
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.232659101486
+haboscsok SNARC line dot CD 0 down 10 lctrl 0.235166072845
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.311615943909
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.425340890884
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.319516181946
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.363345146179
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.370610952377
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.355350017548
+haboscsok SNARC line dot CD 0 up 15 num_separator 0.306694030762
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.311780929565
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.321038961411
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.299314022064
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.283778190613
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.417888879776
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.431839942932
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.329404830933
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.344605922699
+haboscsok SNARC line dot CD 0 down 45 lctrl 0.366475105286
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.43324303627
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.332306861877
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.275638103485
+haboscsok SNARC line dot CD 0 down 25 lctrl 0.281779050827
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.281393051147
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.291282892227
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.275501012802
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.257323980331
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.227876186371
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.409750938416
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.449512958527
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.403303861618
+haboscsok SNARC line dot CD 0 up 10 num_separator 0.386623859406
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.180521011353
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.216331005096
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.374773025513
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.323504924774
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.307111978531
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.224869966507
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.3607609272
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.342828035355
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.315443992615
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.341538906097
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.335078954697
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.366647958755
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.315142154694
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.329446077347
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.361341953278
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.287612199783
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.489475011826
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.371490955353
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.319595098495
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.285986185074
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.343468904495
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.274646997452
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.392714977264
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.370065927505
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.331152915955
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.286308050156
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.423006057739
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.29608297348
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.351926088333
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.354540109634
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.313106060028
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.321040868759
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.25594997406
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.284502983093
+haboscsok SNARC line dot CD 0 up 25 num_separator 0.257110118866
+haboscsok SNARC line dot CD 0 down 25 lctrl 0.240929841995
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.342826128006
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.240255117416
+haboscsok SNARC line dot CD 0 down 10 lctrl 0.226740121841
+haboscsok SNARC line dot CD 0 down 30 lctrl 0.23119020462
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.288377046585
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.296654224396
+haboscsok SNARC line dot CD 0 up 35 num_separator 0.392949104309
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.39146399498
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.383913993835
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.297705173492
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.498214960098
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.226109981537
+haboscsok SNARC line dot CD 0 down 45 lctrl 0.240021944046
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.489676952362
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.307621955872
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.35355091095
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.341805934906
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.400685071945
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.435226917267
+haboscsok SNARC line dot CD 0 down 5 lctrl 0.292742967606
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.545800209045
+haboscsok SNARC line dot CD 0 up 45 num_separator 0.295111179352
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.330690860748
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.489562034607
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.355252027512
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.30823802948
+haboscsok SNARC line dot CD 0 down 25 lctrl 0.353347063065
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.410439014435
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.290405988693
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.327228069305
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.298766136169
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.394422054291
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.281231880188
+haboscsok SNARC line dot CD 0 down 45 lctrl 0.343575000763
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.271792888641
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.413568973541
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.334280014038
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.373054027557
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.371489048004
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.323357105255
+haboscsok SNARC line dot CD 0 up 15 num_separator 0.323297977448
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.4009308815
+haboscsok SNARC line dot CD 0 up 35 num_separator 0.312248945236
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.40790104866
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.298622846603
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.397979974747
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.379567861557
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.355525970459
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.370322942734
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.361927986145
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.347717046738
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.371834993362
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.281162023544
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.30627322197
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.274041891098
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.418590068817
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.345978975296
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.344327926636
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.377294063568
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.370620965958
+haboscsok SNARC line dot CD 0 up 45 num_separator 0.302445173264
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.459441184998
+haboscsok SNARC line dot CD 0 down 20 lctrl 0.409854888916
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.425452947617
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.340362071991
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.401000022888
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.377593994141
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.458326101303
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.471544981003
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.400282859802
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.70285487175
+haboscsok SNARC line dot CD 0 down 40 lctrl 0.465131044388
+haboscsok SNARC line dot CD 0 down 15 lctrl 0.282267093658
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.381906032562
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.464565992355
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.44971203804
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.455397844315
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.561964988708
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.363461971283
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.289516210556
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.425477981567
+haboscsok SNARC line dot CD 0 down 25 lctrl 0.290381908417
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.399631023407
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.347351789474
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.35192990303
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.39409995079
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.430558919907
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.827195882797
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.362848997116
+haboscsok SNARC line dot CD 0 up 5 num_separator 0.268568992615
+haboscsok SNARC line dot CD 0 down 25 lctrl 0.393217086792
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.36173915863
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.34237909317
+haboscsok SNARC line dot CD 0 down 15 lctrl 0.347001075745
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.290755987167
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.368552923203
+haboscsok SNARC line dot CD 0 down 30 lctrl 0.352300882339
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.447399139404
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.442311048508
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.347453117371
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.410778999329
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.440540790558
+haboscsok SNARC line dot CD 0 down 45 lctrl 0.263396978378
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.321144104004
+haboscsok SNARC line dot CD 0 up 10 num_separator 0.699458122253
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.606955051422
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.393439054489
+haboscsok SNARC line dot CD 0 down 25 num_separator 0.305047035217
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.601998090744
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.354794025421
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.523969888687
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.352088928223
+haboscsok SNARC line dot CD 0 down 30 lctrl 0.465147018433
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.306094884872
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.35121011734
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.275217056274
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.263477087021
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.296725034714
+haboscsok SNARC line dot CD 0 down 45 num_separator 0.318562984467
+haboscsok SNARC line dot CD 0 down 35 lctrl 0.320241928101
+haboscsok SNARC line dot CD 0 up 35 lctrl 0.374880075455
+haboscsok SNARC line dot CD 0 up 45 num_separator 0.317332983017
+haboscsok SNARC line dot CD 0 up 10 num_separator 0.354499816895
+haboscsok SNARC line dot CD 0 up 45 lctrl 0.479089021683
+haboscsok SNARC line dot CD 0 down 20 num_separator 0.449095964432
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.411849975586
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.551332950592
+haboscsok SNARC line dot CD 0 up 40 num_separator 0.342833995819
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.378560066223
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.392624855042
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.409410953522
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.358958005905
+haboscsok SNARC line dot CD 0 up 20 lctrl 0.370237112045
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.464671850204
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.354403018951
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.344972848892
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.375858068466
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.559679031372
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.36825299263
+haboscsok SNARC line dot CD 0 up 25 lctrl 0.313278913498
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.400245904922
+haboscsok SNARC line dot CD 0 down 40 num_separator 0.494699001312
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.271450042725
+haboscsok SNARC line dot CD 0 down 15 num_separator 0.34556388855
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.290261030197
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.451399087906
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.280815124512
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.400963068008
+haboscsok SNARC line dot CD 0 down 35 num_separator 0.367248058319
+haboscsok SNARC line dot CD 0 up 40 lctrl 0.327478885651
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.386999845505
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.338733911514
+haboscsok SNARC line dot CD 0 up 15 lctrl 0.283396959305
+haboscsok SNARC line dot CD 0 up 15 num_separator 0.298769950867
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.419281005859
+haboscsok SNARC line dot CD 0 down 40 lctrl 0.263254165649
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.457857847214
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.352592945099
+haboscsok SNARC line dot CD 0 up 10 lctrl 0.379915952682
+haboscsok SNARC line dot CD 0 down 5 num_separator 0.307741880417
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.228296041489
+haboscsok SNARC line dot CD 0 down 30 num_separator 0.335795164108
+haboscsok SNARC line dot CD 0 up 30 lctrl 0.241306066513
+haboscsok SNARC line dot CD 0 down 10 num_separator 0.283634185791
+haboscsok SNARC line dot CD 0 up 5 lctrl 0.269132137299
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'12_17_1335', 'exp_id': u'SNARC', 'task': u'line', 'participant': u'haboscsok', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.836148023605
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.326617002487
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.390929937363
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.336282014847
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.344441890717
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.336463928223
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.376620054245
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.352123975754
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.264699935913
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.311610937119
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.352512121201
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.392505884171
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.247200012207
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.216148138046
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.287838935852
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.280812978745
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.392762899399
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.304184913635
+haboscsok SNARC line arabic CD 0 up 6 num_separator 0.352426052094
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.507986068726
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.375374794006
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.400629043579
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.367316007614
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.367648124695
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.352232933044
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.432626008987
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.344493865967
+haboscsok SNARC line arabic CD 0 down 9 lctrl 0.360327959061
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.367073059082
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.344744920731
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.320636987686
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.415561199188
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.527863025665
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.352437019348
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.328020811081
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.312883138657
+haboscsok SNARC line arabic CD 0 down 8 lctrl 0.311718940735
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.32003903389
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.30363202095
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.248296022415
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.336228132248
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.383379936218
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.367547035217
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.320703983307
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.36080789566
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.319296836853
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.272749185562
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.279951810837
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.447559833527
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.360321998596
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.30415892601
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.328076124191
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.41574883461
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.351833105087
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.496050834656
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.279860019684
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.38301897049
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.319259881973
+haboscsok SNARC line arabic CD 0 down 8 lctrl 0.344162940979
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.431740045547
+haboscsok SNARC line arabic CD 0 up 2 lctrl 1.13623595238
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.656311988831
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.352786064148
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.280689954758
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.367390871048
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.304130077362
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.329195022583
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.359918832779
+haboscsok SNARC line arabic CD 0 down 1 lctrl 0.352728843689
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.351782083511
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.384080886841
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.281423091888
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.295104980469
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.273611068726
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.351264953613
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.240329027176
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.368111133575
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.296396970749
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.335654973984
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.36779499054
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.391927957535
+haboscsok SNARC line arabic CD 0 up 5 num_separator 0.327517032623
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.295753002167
+haboscsok SNARC line arabic CD 0 down 5 lctrl 0.312509059906
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.320013999939
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.384546995163
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.36812710762
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.440021038055
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.327628135681
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.391803026199
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.479796886444
+haboscsok SNARC line arabic CD 0 down 2 lctrl 0.280179977417
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.254997968674
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.384672880173
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.335966110229
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.280128002167
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.448497056961
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.511795043945
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.440216064453
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.376280069351
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.488639116287
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.552426099777
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.376089811325
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.448256969452
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.360322952271
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.353199005127
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.535275936127
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.304697990417
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.527395009995
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.248373985291
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.512251853943
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.368947029114
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.287781000137
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.25607085228
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.328248977661
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.344638109207
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.367937803268
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.304769992828
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.246930122375
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.392066001892
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.407881975174
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.400302886963
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.320367097855
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.392638921738
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.319803953171
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.255452156067
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.367728948593
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.33616399765
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.304008960724
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.25620007515
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.288228034973
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.24079990387
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.600050926208
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.351615905762
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.344007015228
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.40789604187
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.457020998001
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.391903877258
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.88933801651
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.311764955521
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.400456905365
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.40030503273
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.320710897446
+haboscsok SNARC line arabic CD 0 up 6 num_separator 0.319801092148
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.28776216507
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.376465082169
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.312129020691
+haboscsok SNARC line arabic CD 0 down 3 lctrl 0.273257017136
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.271125078201
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.368134975433
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.327671051025
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.29617190361
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.320350885391
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.303428888321
+haboscsok SNARC line arabic CD 0 up 9 num_separator 0.271923065186
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.367277145386
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.320008039474
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.296474933624
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.400200128555
+haboscsok SNARC line arabic CD 0 down 1 lctrl 0.272841930389
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.256253004074
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.271988153458
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.337440013885
+haboscsok SNARC line arabic CD 0 down 2 lctrl 0.271862030029
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.392007112503
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.417437076569
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.279542922974
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.328267097473
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.296440124512
+haboscsok SNARC line arabic CD 0 up 7 num_separator 0.264099836349
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.527320861816
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.464339971542
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.304742097855
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.424464941025
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.287554979324
+haboscsok SNARC line arabic CD 0 down 5 lctrl 0.262853145599
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.551208019257
+haboscsok SNARC line arabic CD 0 up 4 num_separator 0.271932125092
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.376409053802
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.328866004944
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.368249893188
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.335844993591
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.335732936859
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.267227888107
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.286718130112
+haboscsok SNARC line arabic CD 0 down 7 lctrl 0.235770940781
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.310994148254
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.379721164703
+haboscsok SNARC line arabic CD 0 up 3 num_separator 0.327711105347
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.375955820084
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.304459810257
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.248924016953
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.376178026199
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.279321193695
+haboscsok SNARC line arabic CD 0 down 2 lctrl 0.359642982483
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.35222196579
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.416127204895
+haboscsok SNARC line arabic CD 0 down 3 lctrl 0.280007839203
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.543102025986
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.352865934372
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.328617095947
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.552078962326
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.408150911331
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.359912157059
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.329011917114
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.304363965988
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.327753067017
+haboscsok SNARC line arabic CD 0 down 2 lctrl 0.351814985275
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.344310045242
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.336549043655
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.312931060791
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.304198026657
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.392331123352
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.368805885315
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.424196958542
+haboscsok SNARC line arabic CD 0 down 5 lctrl 0.289196968079
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.391917943954
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.32904291153
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.295264959335
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.319984197617
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.296016931534
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.297117948532
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.424854040146
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.383413076401
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.367336034775
+haboscsok SNARC line arabic CD 0 down 4 lctrl 0.248688220978
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.151916980743
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.408453941345
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.431849956512
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.296962022781
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.415611028671
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.391947031021
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.423732042313
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.304024934769
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.463840007782
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.432685852051
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.336296081543
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.344130039215
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.3282558918
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.36071395874
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.336625814438
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.305114030838
+haboscsok SNARC line arabic CD 0 down 2 lctrl 0.311925888062
+haboscsok SNARC line arabic CD 0 down 3 lctrl 0.215636014938
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.391522884369
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.369085073471
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.375832080841
+haboscsok SNARC line arabic CD 0 down 7 lctrl 0.280673980713
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.255558013916
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.31968998909
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.392492055893
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.319229841232
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.272698163986
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.296324014664
+haboscsok SNARC line arabic CD 0 down 7 lctrl 0.240607976913
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.383059024811
+haboscsok SNARC line arabic CD 0 up 9 num_separator 0.376913070679
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.448265075684
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.408727169037
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.431027173996
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.439548015594
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.271698951721
+haboscsok SNARC line arabic CD 0 up 2 num_separator 0.28041100502
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.49605178833
+haboscsok SNARC line arabic CD 0 down 9 num_separator 0.42344212532
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.320413827896
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.352720022202
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.288130998611
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.360833883286
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.376433134079
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.335741043091
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.528841018677
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.47144985199
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.37655711174
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.336323976517
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.360015869141
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.279763936996
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.375272989273
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.295892000198
+haboscsok SNARC line arabic CD 0 down 2 lctrl 0.425245046616
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.271162986755
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.328253984451
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.32053899765
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.360500097275
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.336138963699
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.28031206131
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.359623908997
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.303973913193
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.279562950134
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.296732902527
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.392158985138
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.351922988892
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.543866872787
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.367795228958
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.264105081558
+haboscsok SNARC line arabic CD 0 up 1 lctrl 0.296144008636
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.255556106567
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.305121183395
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.377139091492
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.376253128052
+haboscsok SNARC line arabic CD 0 down 1 lctrl 0.304790973663
+haboscsok SNARC line arabic CD 0 down 9 lctrl 0.328423976898
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.479228019714
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.327906131744
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.321098089218
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.287421941757
+haboscsok SNARC line arabic CD 0 down 5 lctrl 0.256557941437
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.351849794388
+haboscsok SNARC line arabic CD 0 down 4 lctrl 0.408708810806
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.271188020706
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.359941959381
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.27240395546
+haboscsok SNARC line arabic CD 0 down 8 num_separator 0.440716981888
+haboscsok SNARC line arabic CD 0 down 1 lctrl 0.376263856888
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.375653028488
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.344811916351
+haboscsok SNARC line arabic CD 0 up 8 lctrl 0.44831609726
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.399408817291
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.319787025452
+haboscsok SNARC line arabic CD 0 down 8 lctrl 0.320441007614
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.367343902588
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.336396932602
+haboscsok SNARC line arabic CD 0 up 4 num_separator 0.31213593483
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.40807890892
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.272589206696
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.320106983185
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.318326950073
+haboscsok SNARC line arabic CD 0 up 7 num_separator 0.272722959518
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.320760011673
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.511229991913
+haboscsok SNARC line arabic CD 0 down 6 num_separator 0.407716989517
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.511780977249
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.416286945343
+haboscsok SNARC line arabic CD 0 down 7 num_separator 0.312608957291
+haboscsok SNARC line arabic CD 0 up 2 num_separator 0.327617168427
+haboscsok SNARC line arabic CD 0 down 4 num_separator 0.296585798264
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.295819997787
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.400441169739
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.344259023666
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.399832010269
+haboscsok SNARC line arabic CD 0 up 2 lctrl 0.279901027679
+haboscsok SNARC line arabic CD 0 up 6 lctrl 0.304363965988
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.344327926636
+haboscsok SNARC line arabic CD 0 down 7 lctrl 0.344968080521
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.256445169449
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.392413139343
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.327601909637
+haboscsok SNARC line arabic CD 0 up 4 lctrl 0.321146965027
+haboscsok SNARC line arabic CD 0 up 1 num_separator 0.304214954376
+haboscsok SNARC line arabic CD 0 up 9 lctrl 0.384340047836
+haboscsok SNARC line arabic CD 0 down 2 num_separator 0.376429080963
+haboscsok SNARC line arabic CD 0 down 3 num_separator 0.423612833023
+haboscsok SNARC line arabic CD 0 up 3 lctrl 0.296042919159
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.448673963547
+haboscsok SNARC line arabic CD 0 down 1 num_separator 0.400822162628
+haboscsok SNARC line arabic CD 0 up 5 lctrl 0.311646938324
+haboscsok SNARC line arabic CD 0 down 5 num_separator 0.311948060989
+haboscsok SNARC line arabic CD 0 up 7 lctrl 0.329299926758
+haboscsok SNARC line arabic CD 0 up 7 num_separator 0.239726066589
+haboscsok SNARC line arabic CD 0 up 8 num_separator 0.248686075211
+{'participant': u'haboscsok', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'12_17_1343', 'autopilot': False, 'exp_id': u'SNARC'}
+haboscsok SNARC_only DC 8 num_separator 1.0217730999
+haboscsok SNARC_only DC 4 num_separator 0.464293003082
+haboscsok SNARC_only DC 7 lctrl 0.792979955673
+haboscsok SNARC_only DC 1 lctrl 0.599557876587
+haboscsok SNARC_only DC 1 lctrl 0.337681055069
+haboscsok SNARC_only DC 3 lctrl 0.336455106735
+haboscsok SNARC_only DC 3 lctrl 0.305546045303
+haboscsok SNARC_only DC 8 lctrl 0.385234832764
+haboscsok SNARC_only DC 2 lctrl 0.466454982758
+haboscsok SNARC_only DC 5 lctrl 0.495479106903
+haboscsok SNARC_only DC 4 num_separator 0.488131046295
+haboscsok SNARC_only DC 1 num_separator 0.385580062866
+haboscsok SNARC_only DC 1 lctrl 0.433179140091
+haboscsok SNARC_only DC 3 num_separator 0.400772094727
+haboscsok SNARC_only DC 4 num_separator 0.369611024857
+haboscsok SNARC_only DC 1 num_separator 0.344206094742
+haboscsok SNARC_only DC 8 num_separator 0.512861967087
+haboscsok SNARC_only DC 9 num_separator 0.408973932266
+haboscsok SNARC_only DC 4 num_separator 0.432974100113
+haboscsok SNARC_only DC 6 num_separator 0.504792928696
+haboscsok SNARC_only DC 7 lctrl 0.266092061996
+haboscsok SNARC_only DC 3 num_separator 0.345353841782
+haboscsok SNARC_only DC 6 num_separator 0.449329137802
+haboscsok SNARC_only DC 4 num_separator 0.425232172012
+haboscsok SNARC_only DC 3 lctrl 0.369544029236
+haboscsok SNARC_only DC 4 num_separator 0.369565010071
+haboscsok SNARC_only DC 3 lctrl 0.393013954163
+haboscsok SNARC_only DC 7 num_separator 0.377194881439
+haboscsok SNARC_only DC 1 lctrl 0.400691986084
+haboscsok SNARC_only DC 7 lctrl 0.2731320858
+haboscsok SNARC_only DC 7 lctrl 0.328743934631
+haboscsok SNARC_only DC 5 lctrl 0.52201294899
+haboscsok SNARC_only DC 8 num_separator 0.374341964722
+haboscsok SNARC_only DC 2 num_separator 0.601241111755
+haboscsok SNARC_only DC 9 lctrl 0.425863981247
+haboscsok SNARC_only DC 6 num_separator 0.385451078415
+haboscsok SNARC_only DC 4 num_separator 0.561448097229
+haboscsok SNARC_only DC 9 lctrl 0.377852916718
+haboscsok SNARC_only DC 4 num_separator 0.385238170624
+haboscsok SNARC_only DC 3 lctrl 0.289266824722
+haboscsok SNARC_only DC 9 lctrl 0.304896116257
+haboscsok SNARC_only DC 9 lctrl 0.304889202118
+haboscsok SNARC_only DC 4 lctrl 0.297600984573
+haboscsok SNARC_only DC 5 num_separator 0.361295938492
+haboscsok SNARC_only DC 3 num_separator 0.368638038635
+haboscsok SNARC_only DC 1 num_separator 0.696428060532
+haboscsok SNARC_only DC 6 lctrl 0.48057103157
+haboscsok SNARC_only DC 8 num_separator 0.560225963593
+haboscsok SNARC_only DC 1 lctrl 0.33703494072
+haboscsok SNARC_only DC 7 lctrl 0.528970956802
+haboscsok SNARC_only DC 2 num_separator 0.472642183304
+haboscsok SNARC_only DC 5 num_separator 0.344352006912
+haboscsok SNARC_only DC 6 num_separator 0.44097495079
+haboscsok SNARC_only DC 5 lctrl 0.426039934158
+haboscsok SNARC_only DC 9 lctrl 0.497419118881
+haboscsok SNARC_only DC 1 num_separator 0.433048963547
+haboscsok SNARC_only DC 4 num_separator 0.360739946365
+haboscsok SNARC_only DC 9 lctrl 0.353243112564
+haboscsok SNARC_only DC 8 num_separator 0.480922937393
+haboscsok SNARC_only DC 4 lctrl 0.304605960846
+haboscsok SNARC_only DC 5 lctrl 0.432088851929
+haboscsok SNARC_only DC 3 lctrl 0.496313095093
+haboscsok SNARC_only DC 2 num_separator 0.417211055756
+haboscsok SNARC_only DC 3 lctrl 0.29794216156
+haboscsok SNARC_only DC 1 lctrl 0.433931112289
+haboscsok SNARC_only DC 4 lctrl 0.401503801346
+haboscsok SNARC_only DC 6 num_separator 0.513028860092
+haboscsok SNARC_only DC 9 lctrl 0.43369603157
+haboscsok SNARC_only DC 2 num_separator 0.488316059113
+haboscsok SNARC_only DC 9 lctrl 0.344987869263
+haboscsok SNARC_only DC 5 lctrl 0.40864610672
+haboscsok SNARC_only DC 3 lctrl 0.585946083069
+haboscsok SNARC_only DC 6 num_separator 0.329012870789
+haboscsok SNARC_only DC 5 num_separator 0.368643045425
+haboscsok SNARC_only DC 5 lctrl 0.481168031693
+haboscsok SNARC_only DC 1 lctrl 0.346344947815
+haboscsok SNARC_only DC 3 num_separator 0.456624031067
+haboscsok SNARC_only DC 5 lctrl 0.536185979843
+haboscsok SNARC_only DC 3 lctrl 0.472407102585
+haboscsok SNARC_only DC 3 lctrl 0.393773794174
+haboscsok SNARC_only DC 7 num_separator 0.369341850281
+haboscsok SNARC_only DC 7 lctrl 0.569573879242
+haboscsok SNARC_only DC 6 num_separator 0.488818883896
+haboscsok SNARC_only DC 8 num_separator 0.505798101425
+haboscsok SNARC_only DC 5 lctrl 0.274027109146
+haboscsok SNARC_only DC 1 num_separator 0.377038002014
+haboscsok SNARC_only DC 6 num_separator 0.383941173553
+haboscsok SNARC_only DC 1 lctrl 0.289058923721
+haboscsok SNARC_only DC 5 num_separator 0.353137016296
+haboscsok SNARC_only DC 7 lctrl 0.688705921173
+haboscsok SNARC_only DC 1 lctrl 0.43371295929
+haboscsok SNARC_only DC 3 lctrl 0.361618995667
+haboscsok SNARC_only DC 1 lctrl 0.312471151352
+haboscsok SNARC_only DC 7 lctrl 0.457112073898
+haboscsok SNARC_only DC 7 lctrl 0.288923025131
+haboscsok SNARC_only DC 7 lctrl 0.336573839188
+haboscsok SNARC_only DC 5 lctrl 0.345396995544
+haboscsok SNARC_only DC 7 lctrl 0.32926607132
+haboscsok SNARC_only DC 2 lctrl 0.288498163223
+haboscsok SNARC_only DC 1 lctrl 0.281357049942
+haboscsok SNARC_only DC 6 num_separator 0.464404821396
+haboscsok SNARC_only DC 6 lctrl 0.304948091507
+haboscsok SNARC_only DC 2 lctrl 0.328071832657
+haboscsok SNARC_only DC 9 lctrl 0.832921028137
+haboscsok SNARC_only DC 4 num_separator 0.528231859207
+haboscsok SNARC_only DC 7 lctrl 0.401814937592
+haboscsok SNARC_only DC 7 lctrl 0.345187902451
+haboscsok SNARC_only DC 1 lctrl 0.40953207016
+haboscsok SNARC_only DC 9 lctrl 0.521182060242
+haboscsok SNARC_only DC 7 lctrl 0.473191022873
+haboscsok SNARC_only DC 7 lctrl 0.30416893959
+haboscsok SNARC_only DC 2 lctrl 0.336687088013
+haboscsok SNARC_only DC 4 num_separator 0.449140071869
+haboscsok SNARC_only DC 9 lctrl 0.360244989395
+haboscsok SNARC_only DC 2 lctrl 0.329101085663
+haboscsok SNARC_only DC 1 lctrl 0.418128013611
+haboscsok SNARC_only DC 1 lctrl 0.352705001831
+haboscsok SNARC_only DC 7 lctrl 0.345249891281
+haboscsok SNARC_only DC 8 lctrl 0.305626153946
+haboscsok SNARC_only DC 5 lctrl 0.535332918167
+haboscsok SNARC_only DC 9 lctrl 0.489034891129
+haboscsok SNARC_only DC 3 num_separator 0.407505989075
+haboscsok SNARC_only DC 8 num_separator 0.48046207428
+haboscsok SNARC_only DC 5 num_separator 0.401074171066
+haboscsok SNARC_only DC 8 num_separator 0.393499851227
+haboscsok SNARC_only DC 4 lctrl 0.537426948547
+haboscsok SNARC_only DC 3 lctrl 0.361773967743
+haboscsok SNARC_only DC 1 lctrl 0.36052107811
+haboscsok SNARC_only DC 8 lctrl 0.385442972183
+haboscsok SNARC_only DC 5 lctrl 0.352375030518
+haboscsok SNARC_only DC 3 num_separator 0.376775979996
+haboscsok SNARC_only DC 8 num_separator 0.496817111969
+haboscsok SNARC_only DC 1 lctrl 0.401146888733
+haboscsok SNARC_only DC 9 lctrl 0.521743059158
+haboscsok SNARC_only DC 7 lctrl 0.449141025543
+haboscsok SNARC_only DC 2 num_separator 0.384598970413
+haboscsok SNARC_only DC 4 num_separator 0.353667020798
+haboscsok SNARC_only DC 4 num_separator 0.345826864243
+haboscsok SNARC_only DC 6 lctrl 0.361783027649
+haboscsok SNARC_only DC 8 lctrl 0.393412828445
+haboscsok SNARC_only DC 6 lctrl 0.349827051163
+haboscsok SNARC_only DC 7 lctrl 0.433194160461
+haboscsok SNARC_only DC 5 lctrl 0.345064878464
+haboscsok SNARC_only DC 9 num_separator 0.52813410759
+haboscsok SNARC_only DC 3 num_separator 0.497045993805
+haboscsok SNARC_only DC 6 num_separator 0.584669113159
+haboscsok SNARC_only DC 8 num_separator 0.433406114578
+haboscsok SNARC_only DC 6 lctrl 0.602412939072
+haboscsok SNARC_only DC 6 num_separator 0.535987854004
+haboscsok SNARC_only DC 1 lctrl 0.392230033875
+haboscsok SNARC_only DC 9 num_separator 0.392230033875
+haboscsok SNARC_only DC 4 num_separator 0.448346138
+haboscsok SNARC_only DC 4 num_separator 0.360346794128
+haboscsok SNARC_only DC 2 lctrl 0.35391497612
+haboscsok SNARC_only DC 5 lctrl 0.527909040451
+haboscsok SNARC_only DC 3 lctrl 0.426723003387
+haboscsok SNARC_only DC 8 num_separator 0.472117185593
+haboscsok SNARC_only DC 5 lctrl 0.424572944641
+haboscsok SNARC_only DC 2 num_separator 0.53617310524
+haboscsok SNARC_only DC 3 lctrl 0.353657007217
+haboscsok SNARC_only DC 5 num_separator 0.385688066483
+haboscsok SNARC_only DC 2 num_separator 0.448668956757
+haboscsok SNARC_only DC 1 lctrl 0.385909795761
+haboscsok SNARC_only DC 3 lctrl 0.368609905243
+haboscsok SNARC_only DC 6 num_separator 0.424775123596
+haboscsok SNARC_only DC 3 lctrl 0.401330947876
+haboscsok SNARC_only DC 9 num_separator 0.409215927124
+haboscsok SNARC_only DC 2 num_separator 0.432646989822
+haboscsok SNARC_only DC 9 lctrl 0.617074012756
+haboscsok SNARC_only DC 4 num_separator 0.496989965439
+haboscsok SNARC_only DC 4 lctrl 0.497370004654
+haboscsok SNARC_only DC 5 lctrl 0.832839012146
+haboscsok SNARC_only DC 2 num_separator 0.50500702858
+haboscsok SNARC_only DC 8 lctrl 0.58557009697
+haboscsok SNARC_only DC 6 lctrl 0.289348840714
+haboscsok SNARC_only DC 9 lctrl 0.471546173096
+haboscsok SNARC_only DC 5 lctrl 0.496922969818
+haboscsok SNARC_only DC 1 lctrl 0.42581987381
+haboscsok SNARC_only DC 1 lctrl 0.442190170288
+haboscsok SNARC_only DC 1 lctrl 0.353412866592
+haboscsok SNARC_only DC 9 lctrl 0.352953195572
+haboscsok SNARC_only DC 4 num_separator 0.385687112808
+haboscsok SNARC_only DC 8 num_separator 0.465365886688
+haboscsok SNARC_only DC 8 num_separator 0.353671073914
+haboscsok SNARC_only DC 9 lctrl 0.497012138367
+haboscsok SNARC_only DC 1 num_separator 0.3843998909
+haboscsok SNARC_only DC 9 lctrl 0.40132188797
+haboscsok SNARC_only DC 6 num_separator 0.625285148621
+haboscsok SNARC_only DC 3 num_separator 0.409113168716
+haboscsok SNARC_only DC 4 num_separator 0.737420797348
+haboscsok SNARC_only DC 2 lctrl 0.472923994064
+haboscsok SNARC_only DC 3 lctrl 0.256455898285
+haboscsok SNARC_only DC 7 lctrl 0.289302825928
+haboscsok SNARC_only DC 9 lctrl 0.265295982361
+haboscsok SNARC_only DC 1 lctrl 0.384774923325
+haboscsok SNARC_only DC 4 lctrl 0.232949018478
+haboscsok SNARC_only DC 8 lctrl 0.304993152618
+haboscsok SNARC_only DC 2 num_separator 0.551930904388
+haboscsok SNARC_only DC 8 lctrl 0.313321113586
+haboscsok SNARC_only DC 9 lctrl 0.392688035965
+haboscsok SNARC_only DC 7 lctrl 0.49706196785
+haboscsok SNARC_only DC 2 num_separator 0.561284065247
+haboscsok SNARC_only DC 6 num_separator 0.537486076355
+haboscsok SNARC_only DC 7 lctrl 0.311939954758
+haboscsok SNARC_only DC 5 num_separator 0.35303401947
+haboscsok SNARC_only DC 4 num_separator 0.463931083679
+haboscsok SNARC_only DC 6 num_separator 0.337862014771
+haboscsok SNARC_only DC 5 lctrl 0.36953997612
+haboscsok SNARC_only DC 3 num_separator 0.385492801666
+haboscsok SNARC_only DC 7 num_separator 0.344631910324
+haboscsok SNARC_only DC 9 num_separator 0.385017156601
+haboscsok SNARC_only DC 4 num_separator 0.473262071609
+haboscsok SNARC_only DC 6 lctrl 0.328277826309
+haboscsok SNARC_only DC 1 lctrl 0.337286949158
+haboscsok SNARC_only DC 5 lctrl 0.448603868484
+haboscsok SNARC_only DC 4 lctrl 0.497444868088
+haboscsok SNARC_only DC 2 lctrl 0.305186033249
+haboscsok SNARC_only DC 3 lctrl 0.521036863327
+haboscsok SNARC_only DC 2 lctrl 0.425457000732
+haboscsok SNARC_only DC 7 lctrl 1.19229888916
+haboscsok SNARC_only DC 8 num_separator 0.513180017471
+haboscsok SNARC_only DC 9 num_separator 0.392522096634
+haboscsok SNARC_only DC 9 lctrl 0.600853919983
+haboscsok SNARC_only DC 3 lctrl 0.609420061111
+haboscsok SNARC_only DC 5 lctrl 0.625547170639
+haboscsok SNARC_only DC 2 num_separator 0.40940618515
+haboscsok SNARC_only DC 8 num_separator 0.505806922913
+haboscsok SNARC_only DC 8 num_separator 0.336539030075
+haboscsok SNARC_only DC 8 num_separator 0.384249925613
+haboscsok SNARC_only DC 7 lctrl 0.44127702713
+haboscsok SNARC_only DC 2 lctrl 0.432861089706
+haboscsok SNARC_only DC 4 num_separator 0.487664937973
+haboscsok SNARC_only DC 4 num_separator 0.384787082672
+haboscsok SNARC_only DC 2 num_separator 0.377002000809
+haboscsok SNARC_only DC 8 num_separator 0.440718889236
+haboscsok SNARC_only DC 1 lctrl 0.417338132858
+haboscsok SNARC_only DC 1 lctrl 0.418040990829
+haboscsok SNARC_only DC 9 lctrl 0.405237197876
+haboscsok SNARC_only DC 9 lctrl 0.360992193222
+haboscsok SNARC_only DC 5 lctrl 0.376039981842
+haboscsok SNARC_only DC 8 lctrl 0.369620084763
+haboscsok SNARC_only DC 4 num_separator 0.5197930336
+haboscsok SNARC_only DC 2 num_separator 0.401263952255
+haboscsok SNARC_only DC 5 lctrl 0.417122125626
+haboscsok SNARC_only DC 7 lctrl 0.521290063858
+haboscsok SNARC_only DC 1 lctrl 0.433077096939
+haboscsok SNARC_only DC 1 lctrl 0.281780004501
+haboscsok SNARC_only DC 3 lctrl 0.753278970718
+haboscsok SNARC_only DC 2 lctrl 0.349949836731
+haboscsok SNARC_only DC 8 num_separator 0.368283987045
+haboscsok SNARC_only DC 1 lctrl 0.386069059372
+haboscsok SNARC_only DC 3 lctrl 0.481835126877
+haboscsok SNARC_only DC 8 num_separator 0.488510131836
+haboscsok SNARC_only DC 9 lctrl 0.298102855682
+haboscsok SNARC_only DC 8 num_separator 0.41694688797
+haboscsok SNARC_only DC 3 lctrl 0.594130992889
+haboscsok SNARC_only DC 8 lctrl 0.513668060303
+haboscsok SNARC_only DC 3 lctrl 0.567209005356
+haboscsok SNARC_only DC 6 lctrl 0.361936807632
+haboscsok SNARC_only DC 7 lctrl 0.352436065674
+haboscsok SNARC_only DC 6 num_separator 0.456306219101
+haboscsok SNARC_only DC 7 lctrl 0.481013059616
+haboscsok SNARC_only DC 2 lctrl 0.520999908447
+haboscsok SNARC_only DC 6 lctrl 0.313096046448
+haboscsok SNARC_only DC 1 lctrl 0.424950838089
+haboscsok SNARC_only DC 6 num_separator 0.688086032867
+haboscsok SNARC_only DC 4 num_separator 0.480122089386
+haboscsok SNARC_only DC 9 lctrl 0.377434015274
+haboscsok SNARC_only DC 6 lctrl 0.464745044708
+haboscsok SNARC_only DC 2 num_separator 0.584224939346
+haboscsok SNARC_only DC 8 num_separator 0.297533035278
+haboscsok SNARC_only DC 6 num_separator 0.345687150955
+haboscsok SNARC_only DC 4 num_separator 0.488760948181
+haboscsok SNARC_only DC 6 num_separator 0.345575809479
+haboscsok SNARC_only DC 8 num_separator 0.313256978989
+haboscsok SNARC_only DC 7 num_separator 0.399928092957
+haboscsok SNARC_only DC 5 lctrl 0.504464864731
+haboscsok SNARC_only DC 5 lctrl 0.42539691925
+haboscsok SNARC_only DC 3 num_separator 0.385096788406
+haboscsok SNARC_only DC 2 num_separator 0.481001853943
+haboscsok SNARC_only DC 5 num_separator 0.345164060593
+haboscsok SNARC_only DC 9 lctrl 0.673835992813
+haboscsok SNARC_only DC 2 num_separator 0.391923904419
+haboscsok SNARC_only DC 7 num_separator 0.344559907913
+haboscsok SNARC_only DC 4 lctrl 0.408792972565
+haboscsok SNARC_only DC 2 num_separator 0.43962597847
+haboscsok SNARC_only DC 3 lctrl 0.537398815155
+haboscsok SNARC_only DC 6 lctrl 0.440656900406
+haboscsok SNARC_only DC 3 lctrl 0.377444028854
+haboscsok SNARC_only DC 6 num_separator 0.41631102562
+haboscsok SNARC_only DC 6 lctrl 0.329627990723
+haboscsok SNARC_only DC 8 lctrl 0.473036050797
+haboscsok SNARC_only DC 8 num_separator 0.432383060455
+haboscsok SNARC_only DC 9 lctrl 1.12088394165
+haboscsok SNARC_only DC 4 num_separator 0.504802942276
+haboscsok SNARC_only DC 4 num_separator 0.472905874252
+haboscsok SNARC_only DC 5 lctrl 0.385781049728
+haboscsok SNARC_only DC 6 num_separator 0.320847988129
+haboscsok SNARC_only DC 7 lctrl 0.529591798782
+haboscsok SNARC_only DC 9 num_separator 0.392845869064
+haboscsok SNARC_only DC 4 lctrl 0.600996017456
+haboscsok SNARC_only DC 7 lctrl 0.536909103394
+haboscsok SNARC_only DC 7 num_separator 0.216264009476
+haboscsok SNARC_only DC 7 lctrl 0.378159046173
+haboscsok SNARC_only DC 9 lctrl 0.288459062576
+haboscsok SNARC_only DC 7 lctrl 0.361725091934
+haboscsok SNARC_only DC 5 num_separator 0.360084056854
+haboscsok SNARC_only DC 1 lctrl 0.513226985931
+haboscsok SNARC_only DC 8 num_separator 0.440226078033
+haboscsok SNARC_only DC 9 num_separator 0.392791032791
+haboscsok SNARC_only DC 5 lctrl 0.568917036057
+haboscsok SNARC_only DC 6 num_separator 0.488471984863
+haboscsok SNARC_only DC 2 num_separator 0.585834980011
+haboscsok SNARC_only DC 2 num_separator 0.43329501152
+haboscsok SNARC_only DC 2 num_separator 0.449320793152
+haboscsok SNARC_only DC 9 lctrl 0.449517011642
+haboscsok SNARC_only DC 7 num_separator 0.464406013489
+haboscsok SNARC_only DC 5 lctrl 0.616880893707
+haboscsok SNARC_only DC 5 lctrl 0.361491918564
+haboscsok SNARC_only DC 3 num_separator 0.417294025421
+haboscsok SNARC_only DC 2 num_separator 0.392524003983
+haboscsok SNARC_only DC 5 lctrl 0.449778079987
+haboscsok SNARC_only DC 5 lctrl 0.400292158127
+haboscsok SNARC_only DC 9 num_separator 0.52114200592
+haboscsok SNARC_only DC 7 num_separator 0.392645120621
+haboscsok SNARC_only DC 2 num_separator 0.416924953461
+haboscsok SNARC_only DC 6 num_separator 0.600698947906
+haboscsok SNARC_only DC 9 lctrl 0.610518932343
+haboscsok SNARC_only DC 3 lctrl 0.37633895874
+haboscsok SNARC_only DC 6 num_separator 0.623553037643
+haboscsok SNARC_only DC 1 lctrl 0.369054079056
+haboscsok SNARC_only DC 6 num_separator 0.537190198898
+haboscsok SNARC_only DC 7 lctrl 0.401880979538
+haboscsok SNARC_only DC 3 num_separator 0.432870149612
+haboscsok SNARC_only DC 7 lctrl 0.457520008087
+haboscsok SNARC_only DC 5 lctrl 0.497433900833
+haboscsok SNARC_only DC 6 num_separator 0.344663858414
+haboscsok SNARC_only DC 8 num_separator 0.417317867279
+haboscsok SNARC_only DC 2 lctrl 0.384734153748
+haboscsok SNARC_only DC 8 num_separator 0.463272809982
+haboscsok SNARC_only DC 2 num_separator 0.344735860825
+haboscsok SNARC_only DC 5 lctrl 0.482444047928
+haboscsok SNARC_only DC 1 lctrl 0.3690969944
+haboscsok SNARC_only DC 9 num_separator 0.376035928726
+haboscsok SNARC_only DC 8 lctrl 0.402145147324
+haboscsok SNARC_only DC 4 lctrl 0.368726968765
+haboscsok SNARC_only DC 4 num_separator 0.400825023651
+haboscsok SNARC_only DC 1 lctrl 0.503968000412
+haboscsok SNARC_only DC 4 lctrl 0.369087219238
+haboscsok SNARC_only DC 2 num_separator 0.335798025131
+haboscsok SNARC_only DC 8 num_separator 0.401577949524
+haboscsok SNARC_only DC 3 lctrl 0.400807142258
+haboscsok SNARC_only DC 1 lctrl 0.36064696312
+haboscsok SNARC_only DC 2 lctrl 0.328757047653
+haboscsok SNARC_only DC 8 num_separator 0.520664930344
+haboscsok SNARC_only DC 4 num_separator 0.440634965897
+haboscsok SNARC_only DC 6 num_separator 0.510915994644
+haboscsok SNARC_only DC 3 lctrl 0.513854980469
+haboscsok SNARC_only DC 6 num_separator 0.824616193771
+haboscsok SNARC_only DC 2 num_separator 0.409376859665
+{'participant': u'haboscsok', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'12_17_1351', 'autopilot': False, 'exp_id': u'SNARC'}
+haboscsok SNARC_only CD 8 lctrl 0.681180000305
+haboscsok SNARC_only CD 4 lctrl 0.455857992172
+haboscsok SNARC_only CD 4 lctrl 0.331291913986
+haboscsok SNARC_only CD 5 num_separator 0.469857931137
+haboscsok SNARC_only CD 9 lctrl 0.33745598793
+haboscsok SNARC_only CD 8 lctrl 0.435107946396
+haboscsok SNARC_only CD 2 lctrl 0.392506837845
+haboscsok SNARC_only CD 4 lctrl 0.377051115036
+haboscsok SNARC_only CD 1 num_separator 0.544435977936
+haboscsok SNARC_only CD 1 num_separator 0.409236907959
+haboscsok SNARC_only CD 6 lctrl 0.367360830307
+haboscsok SNARC_only CD 2 lctrl 0.522023916245
+haboscsok SNARC_only CD 3 lctrl 0.383869171143
+haboscsok SNARC_only CD 2 lctrl 0.328966140747
+haboscsok SNARC_only CD 5 lctrl 0.545938014984
+haboscsok SNARC_only CD 2 lctrl 0.344620227814
+haboscsok SNARC_only CD 7 num_separator 0.631644964218
+haboscsok SNARC_only CD 3 num_separator 0.488968849182
+haboscsok SNARC_only CD 9 num_separator 0.689136981964
+haboscsok SNARC_only CD 2 num_separator 0.481457948685
+haboscsok SNARC_only CD 8 lctrl 0.497063159943
+haboscsok SNARC_only CD 7 num_separator 0.432994842529
+haboscsok SNARC_only CD 7 num_separator 0.329574108124
+haboscsok SNARC_only CD 6 lctrl 0.305593013763
+haboscsok SNARC_only CD 7 num_separator 0.344264984131
+haboscsok SNARC_only CD 8 lctrl 0.304542779922
+haboscsok SNARC_only CD 3 num_separator 0.480304002762
+haboscsok SNARC_only CD 4 lctrl 0.369940042496
+haboscsok SNARC_only CD 1 num_separator 0.456833124161
+haboscsok SNARC_only CD 6 lctrl 0.465495824814
+haboscsok SNARC_only CD 8 lctrl 0.392833948135
+haboscsok SNARC_only CD 3 num_separator 0.368832111359
+haboscsok SNARC_only CD 7 num_separator 0.41720700264
+haboscsok SNARC_only CD 1 lctrl 0.479652881622
+haboscsok SNARC_only CD 2 lctrl 0.520190000534
+haboscsok SNARC_only CD 3 num_separator 0.705729961395
+haboscsok SNARC_only CD 5 lctrl 0.48895907402
+haboscsok SNARC_only CD 9 num_separator 0.544193029404
+haboscsok SNARC_only CD 4 lctrl 0.450156927109
+haboscsok SNARC_only CD 7 num_separator 0.384287118912
+haboscsok SNARC_only CD 5 lctrl 0.458108901978
+haboscsok SNARC_only CD 1 num_separator 0.568129062653
+haboscsok SNARC_only CD 3 num_separator 0.344861984253
+haboscsok SNARC_only CD 6 lctrl 0.441728830338
+haboscsok SNARC_only CD 8 lctrl 0.417577981949
+haboscsok SNARC_only CD 8 lctrl 0.368696928024
+haboscsok SNARC_only CD 1 num_separator 0.49748301506
+haboscsok SNARC_only CD 9 lctrl 0.362143039703
+haboscsok SNARC_only CD 4 lctrl 0.481227874756
+haboscsok SNARC_only CD 2 num_separator 0.377417802811
+haboscsok SNARC_only CD 7 num_separator 0.680665016174
+haboscsok SNARC_only CD 7 num_separator 0.425071001053
+haboscsok SNARC_only CD 4 lctrl 0.520980119705
+haboscsok SNARC_only CD 2 lctrl 0.353312969208
+haboscsok SNARC_only CD 2 lctrl 0.425711870193
+haboscsok SNARC_only CD 6 lctrl 0.297610044479
+haboscsok SNARC_only CD 5 lctrl 0.377353906631
+haboscsok SNARC_only CD 7 lctrl 0.328650951385
+haboscsok SNARC_only CD 3 num_separator 0.472500085831
+haboscsok SNARC_only CD 1 num_separator 0.43304681778
+haboscsok SNARC_only CD 1 num_separator 0.344166994095
+haboscsok SNARC_only CD 4 lctrl 0.4420170784
+haboscsok SNARC_only CD 8 lctrl 0.6096971035
+haboscsok SNARC_only CD 8 lctrl 0.312742948532
+haboscsok SNARC_only CD 4 lctrl 0.401682853699
+haboscsok SNARC_only CD 8 lctrl 0.321307182312
+haboscsok SNARC_only CD 4 lctrl 0.280838012695
+haboscsok SNARC_only CD 8 lctrl 0.281605958939
+haboscsok SNARC_only CD 3 lctrl 0.257260084152
+haboscsok SNARC_only CD 2 num_separator 0.480190038681
+haboscsok SNARC_only CD 4 lctrl 0.536271095276
+haboscsok SNARC_only CD 5 num_separator 0.424376010895
+haboscsok SNARC_only CD 2 num_separator 0.514565944672
+haboscsok SNARC_only CD 7 num_separator 0.528094053268
+haboscsok SNARC_only CD 1 num_separator 0.353397846222
+haboscsok SNARC_only CD 2 lctrl 0.50511097908
+haboscsok SNARC_only CD 9 num_separator 0.584767103195
+haboscsok SNARC_only CD 9 num_separator 0.337555885315
+haboscsok SNARC_only CD 7 num_separator 0.44078707695
+haboscsok SNARC_only CD 5 lctrl 0.337680101395
+haboscsok SNARC_only CD 4 lctrl 0.473245859146
+haboscsok SNARC_only CD 7 lctrl 0.457490205765
+haboscsok SNARC_only CD 8 lctrl 0.337436914444
+haboscsok SNARC_only CD 2 num_separator 0.376677036285
+haboscsok SNARC_only CD 1 num_separator 0.440686941147
+haboscsok SNARC_only CD 1 num_separator 0.361923933029
+haboscsok SNARC_only CD 5 num_separator 0.480776071548
+haboscsok SNARC_only CD 4 lctrl 0.632775068283
+haboscsok SNARC_only CD 4 lctrl 0.328278064728
+haboscsok SNARC_only CD 5 num_separator 0.513564109802
+haboscsok SNARC_only CD 9 num_separator 0.481806993484
+haboscsok SNARC_only CD 6 lctrl 0.378222942352
+haboscsok SNARC_only CD 7 num_separator 0.545868873596
+haboscsok SNARC_only CD 1 lctrl 0.553591966629
+haboscsok SNARC_only CD 8 lctrl 0.535995960236
+haboscsok SNARC_only CD 4 num_separator 0.343889951706
+haboscsok SNARC_only CD 9 num_separator 0.408579111099
+haboscsok SNARC_only CD 6 lctrl 0.408921957016
+haboscsok SNARC_only CD 7 lctrl 0.353538990021
+haboscsok SNARC_only CD 6 num_separator 0.53663611412
+haboscsok SNARC_only CD 3 num_separator 0.320533037186
+haboscsok SNARC_only CD 1 lctrl 0.370102882385
+haboscsok SNARC_only CD 9 lctrl 0.488441944122
+haboscsok SNARC_only CD 3 num_separator 0.760993003845
+haboscsok SNARC_only CD 5 lctrl 0.433470964432
+haboscsok SNARC_only CD 8 lctrl 0.384774923325
+haboscsok SNARC_only CD 5 lctrl 0.369297027588
+haboscsok SNARC_only CD 9 lctrl 0.353204011917
+haboscsok SNARC_only CD 9 num_separator 0.448174953461
+haboscsok SNARC_only CD 1 num_separator 0.520985841751
+haboscsok SNARC_only CD 2 num_separator 0.488983869553
+haboscsok SNARC_only CD 3 num_separator 0.761251926422
+haboscsok SNARC_only CD 7 lctrl 0.304239988327
+haboscsok SNARC_only CD 2 lctrl 0.281115055084
+haboscsok SNARC_only CD 7 num_separator 0.608301877975
+haboscsok SNARC_only CD 5 lctrl 0.384839057922
+haboscsok SNARC_only CD 9 lctrl 0.369010925293
+haboscsok SNARC_only CD 9 num_separator 0.49640083313
+haboscsok SNARC_only CD 3 lctrl 0.473032951355
+haboscsok SNARC_only CD 1 num_separator 0.503492116928
+haboscsok SNARC_only CD 4 lctrl 0.457989931107
+haboscsok SNARC_only CD 6 num_separator 0.425143957138
+haboscsok SNARC_only CD 4 lctrl 1.58605194092
+haboscsok SNARC_only CD 3 num_separator 0.42405796051
+haboscsok SNARC_only CD 7 lctrl 0.417789936066
+haboscsok SNARC_only CD 7 num_separator 0.520214080811
+haboscsok SNARC_only CD 1 num_separator 0.505077838898
+haboscsok SNARC_only CD 6 num_separator 0.36874294281
+haboscsok SNARC_only CD 7 lctrl 0.425560951233
+haboscsok SNARC_only CD 7 num_separator 0.512552976608
+haboscsok SNARC_only CD 2 lctrl 0.482450962067
+haboscsok SNARC_only CD 5 num_separator 0.473526000977
+haboscsok SNARC_only CD 6 lctrl 0.401372909546
+haboscsok SNARC_only CD 5 lctrl 0.424978971481
+haboscsok SNARC_only CD 4 lctrl 0.377867937088
+haboscsok SNARC_only CD 6 lctrl 0.37760591507
+haboscsok SNARC_only CD 4 lctrl 0.424411058426
+haboscsok SNARC_only CD 8 lctrl 0.465021848679
+haboscsok SNARC_only CD 3 num_separator 0.296485185623
+haboscsok SNARC_only CD 8 lctrl 0.384270906448
+haboscsok SNARC_only CD 8 lctrl 0.400934934616
+haboscsok SNARC_only CD 7 lctrl 0.350962877274
+haboscsok SNARC_only CD 3 num_separator 0.431782007217
+haboscsok SNARC_only CD 2 num_separator 0.369065999985
+haboscsok SNARC_only CD 7 num_separator 0.441248178482
+haboscsok SNARC_only CD 5 lctrl 0.401438951492
+haboscsok SNARC_only CD 2 num_separator 0.49657201767
+haboscsok SNARC_only CD 8 lctrl 0.537220954895
+haboscsok SNARC_only CD 9 num_separator 0.465044021606
+haboscsok SNARC_only CD 2 num_separator 0.528914213181
+haboscsok SNARC_only CD 9 num_separator 0.424457073212
+haboscsok SNARC_only CD 4 lctrl 0.473798036575
+haboscsok SNARC_only CD 2 lctrl 0.681260108948
+haboscsok SNARC_only CD 6 lctrl 0.609498977661
+haboscsok SNARC_only CD 6 lctrl 0.425822019577
+haboscsok SNARC_only CD 9 num_separator 0.409417867661
+haboscsok SNARC_only CD 6 lctrl 0.353493928909
+haboscsok SNARC_only CD 2 num_separator 0.457162857056
+haboscsok SNARC_only CD 7 num_separator 0.464495897293
+haboscsok SNARC_only CD 6 lctrl 0.313367843628
+haboscsok SNARC_only CD 9 num_separator 0.433254957199
+haboscsok SNARC_only CD 8 lctrl 0.34571480751
+haboscsok SNARC_only CD 6 lctrl 0.3617811203
+haboscsok SNARC_only CD 2 num_separator 0.584471940994
+haboscsok SNARC_only CD 6 lctrl 0.473274946213
+haboscsok SNARC_only CD 5 num_separator 0.600036859512
+haboscsok SNARC_only CD 3 lctrl 0.394459962845
+haboscsok SNARC_only CD 5 lctrl 0.312499046326
+haboscsok SNARC_only CD 2 num_separator 0.583691120148
+haboscsok SNARC_only CD 4 lctrl 0.7689909935
+haboscsok SNARC_only CD 5 num_separator 0.489222049713
+haboscsok SNARC_only CD 2 num_separator 0.360630989075
+haboscsok SNARC_only CD 1 num_separator 0.432516813278
+haboscsok SNARC_only CD 8 lctrl 0.362491846085
+haboscsok SNARC_only CD 4 num_separator 0.568777799606
+haboscsok SNARC_only CD 3 num_separator 0.457854032516
+haboscsok SNARC_only CD 9 num_separator 0.434247970581
+haboscsok SNARC_only CD 9 num_separator 0.400722026825
+haboscsok SNARC_only CD 9 num_separator 0.336015939713
+haboscsok SNARC_only CD 4 num_separator 0.368775129318
+haboscsok SNARC_only CD 8 lctrl 0.497170209885
+haboscsok SNARC_only CD 2 lctrl 0.625456094742
+haboscsok SNARC_only CD 1 num_separator 0.464411020279
+haboscsok SNARC_only CD 3 num_separator 0.656876087189
+haboscsok SNARC_only CD 9 num_separator 0.513402938843
+haboscsok SNARC_only CD 3 num_separator 0.401772975922
+haboscsok SNARC_only CD 3 num_separator 0.472779989243
+haboscsok SNARC_only CD 9 num_separator 0.457136869431
+haboscsok SNARC_only CD 1 num_separator 0.353598833084
+haboscsok SNARC_only CD 5 lctrl 0.402227878571
+haboscsok SNARC_only CD 7 num_separator 0.446401119232
+haboscsok SNARC_only CD 2 num_separator 0.577826976776
+haboscsok SNARC_only CD 6 lctrl 0.47252202034
+haboscsok SNARC_only CD 2 num_separator 0.376704931259
+haboscsok SNARC_only CD 7 num_separator 0.488288879395
+haboscsok SNARC_only CD 3 num_separator 0.576338768005
+haboscsok SNARC_only CD 1 num_separator 0.568883895874
+haboscsok SNARC_only CD 1 num_separator 0.344892024994
+haboscsok SNARC_only CD 5 num_separator 0.498436927795
+haboscsok SNARC_only CD 2 num_separator 0.360485076904
+haboscsok SNARC_only CD 1 num_separator 0.385066986084
+haboscsok SNARC_only CD 7 num_separator 0.369644165039
+haboscsok SNARC_only CD 5 lctrl 0.361509799957
+haboscsok SNARC_only CD 3 num_separator 0.535273075104
+haboscsok SNARC_only CD 6 lctrl 0.369423866272
+haboscsok SNARC_only CD 6 lctrl 0.447282075882
+haboscsok SNARC_only CD 4 lctrl 0.385396003723
+haboscsok SNARC_only CD 6 lctrl 0.449861049652
+haboscsok SNARC_only CD 9 num_separator 0.480380058289
+haboscsok SNARC_only CD 2 num_separator 0.376918077469
+haboscsok SNARC_only CD 5 num_separator 0.376545906067
+haboscsok SNARC_only CD 8 lctrl 0.441952943802
+haboscsok SNARC_only CD 3 num_separator 0.328783988953
+haboscsok SNARC_only CD 7 num_separator 0.401551008224
+haboscsok SNARC_only CD 7 num_separator 0.368688106537
+haboscsok SNARC_only CD 2 num_separator 0.378116846085
+haboscsok SNARC_only CD 5 lctrl 0.664903879166
+haboscsok SNARC_only CD 8 lctrl 0.361215114594
+haboscsok SNARC_only CD 2 num_separator 0.504740953445
+haboscsok SNARC_only CD 4 lctrl 0.6975710392
+haboscsok SNARC_only CD 5 num_separator 0.568859100342
+haboscsok SNARC_only CD 9 num_separator 0.569339990616
+haboscsok SNARC_only CD 1 num_separator 0.696643829346
+haboscsok SNARC_only CD 9 num_separator 0.608688116074
+haboscsok SNARC_only CD 9 num_separator 0.376533031464
+haboscsok SNARC_only CD 8 lctrl 0.617968082428
+haboscsok SNARC_only CD 9 num_separator 0.519889116287
+haboscsok SNARC_only CD 1 num_separator 0.680844068527
+haboscsok SNARC_only CD 1 num_separator 0.393643140793
+haboscsok SNARC_only CD 4 lctrl 0.465672016144
+haboscsok SNARC_only CD 7 num_separator 0.433079004288
+haboscsok SNARC_only CD 1 num_separator 0.352506160736
+haboscsok SNARC_only CD 9 num_separator 0.35317492485
+haboscsok SNARC_only CD 5 num_separator 0.305538892746
+haboscsok SNARC_only CD 5 num_separator 0.321295022964
+haboscsok SNARC_only CD 8 num_separator 0.329883098602
+haboscsok SNARC_only CD 3 num_separator 0.432706832886
+haboscsok SNARC_only CD 3 num_separator 0.336663007736
+haboscsok SNARC_only CD 1 lctrl 0.433123111725
+haboscsok SNARC_only CD 8 num_separator 0.344420909882
+haboscsok SNARC_only CD 6 lctrl 0.400035142899
+haboscsok SNARC_only CD 5 num_separator 0.43160700798
+haboscsok SNARC_only CD 8 num_separator 0.465412139893
+haboscsok SNARC_only CD 9 num_separator 0.47292304039
+haboscsok SNARC_only CD 9 lctrl 0.697458028793
+haboscsok SNARC_only CD 8 lctrl 0.44855093956
+haboscsok SNARC_only CD 4 num_separator 0.512272834778
+haboscsok SNARC_only CD 7 num_separator 0.399803876877
+haboscsok SNARC_only CD 4 num_separator 0.361858844757
+haboscsok SNARC_only CD 6 lctrl 0.670149087906
+haboscsok SNARC_only CD 3 num_separator 0.425331830978
+haboscsok SNARC_only CD 7 num_separator 0.785085916519
+haboscsok SNARC_only CD 1 num_separator 0.37692117691
+haboscsok SNARC_only CD 3 num_separator 0.672661066055
+haboscsok SNARC_only CD 1 num_separator 0.393674135208
+haboscsok SNARC_only CD 4 lctrl 0.434224128723
+haboscsok SNARC_only CD 1 num_separator 0.449421882629
+haboscsok SNARC_only CD 6 lctrl 0.416451931
+haboscsok SNARC_only CD 5 num_separator 0.400171995163
+haboscsok SNARC_only CD 8 lctrl 0.465891122818
+haboscsok SNARC_only CD 4 lctrl 0.489698171616
+haboscsok SNARC_only CD 7 num_separator 0.44896697998
+haboscsok SNARC_only CD 1 num_separator 0.47354888916
+haboscsok SNARC_only CD 6 num_separator 0.386013031006
+haboscsok SNARC_only CD 9 num_separator 0.593157052994
+haboscsok SNARC_only CD 4 lctrl 0.401273965836
+haboscsok SNARC_only CD 1 num_separator 0.545095920563
+haboscsok SNARC_only CD 4 lctrl 0.313493967056
+haboscsok SNARC_only CD 1 num_separator 0.487920999527
+haboscsok SNARC_only CD 4 lctrl 0.441625118256
+haboscsok SNARC_only CD 6 num_separator 0.50506401062
+haboscsok SNARC_only CD 3 num_separator 0.47330904007
+haboscsok SNARC_only CD 7 lctrl 0.362072944641
+haboscsok SNARC_only CD 6 lctrl 0.319792032242
+haboscsok SNARC_only CD 6 lctrl 0.385552883148
+haboscsok SNARC_only CD 9 num_separator 0.521777153015
+haboscsok SNARC_only CD 6 num_separator 0.569061040878
+haboscsok SNARC_only CD 1 num_separator 0.368576049805
+haboscsok SNARC_only CD 6 lctrl 0.31397485733
+haboscsok SNARC_only CD 5 num_separator 0.480542182922
+haboscsok SNARC_only CD 1 lctrl 0.394035100937
+haboscsok SNARC_only CD 2 lctrl 0.392902851105
+haboscsok SNARC_only CD 7 num_separator 0.544411897659
+haboscsok SNARC_only CD 8 lctrl 0.513571023941
+haboscsok SNARC_only CD 1 lctrl 0.497364044189
+haboscsok SNARC_only CD 2 lctrl 0.352360010147
+haboscsok SNARC_only CD 6 num_separator 0.657634019852
+haboscsok SNARC_only CD 2 num_separator 0.360206842422
+haboscsok SNARC_only CD 6 lctrl 0.561074972153
+haboscsok SNARC_only CD 4 num_separator 0.71994805336
+haboscsok SNARC_only CD 8 lctrl 0.456964969635
+haboscsok SNARC_only CD 5 num_separator 0.512001991272
+haboscsok SNARC_only CD 2 num_separator 0.481877088547
+haboscsok SNARC_only CD 2 num_separator 0.369627952576
+haboscsok SNARC_only CD 7 lctrl 0.40077996254
+haboscsok SNARC_only CD 2 lctrl 1.04133081436
+haboscsok SNARC_only CD 5 num_separator 0.648562908173
+haboscsok SNARC_only CD 6 lctrl 0.409615039825
+haboscsok SNARC_only CD 6 lctrl 0.393058776855
+haboscsok SNARC_only CD 7 num_separator 0.497515916824
+haboscsok SNARC_only CD 8 lctrl 0.409242868423
+haboscsok SNARC_only CD 3 num_separator 0.624428033829
+haboscsok SNARC_only CD 8 lctrl 0.522377967834
+haboscsok SNARC_only CD 9 num_separator 0.495244026184
+haboscsok SNARC_only CD 1 lctrl 0.377157926559
+haboscsok SNARC_only CD 4 num_separator 0.488837957382
+haboscsok SNARC_only CD 2 lctrl 0.488157987595
+haboscsok SNARC_only CD 4 lctrl 0.415813922882
+haboscsok SNARC_only CD 6 lctrl 0.362021923065
+haboscsok SNARC_only CD 7 lctrl 0.440902233124
+haboscsok SNARC_only CD 3 num_separator 0.528996944427
+haboscsok SNARC_only CD 8 lctrl 0.47936296463
+haboscsok SNARC_only CD 9 num_separator 0.593096017838
+haboscsok SNARC_only CD 4 num_separator 0.432158946991
+haboscsok SNARC_only CD 6 lctrl 0.409511089325
+haboscsok SNARC_only CD 3 num_separator 0.400302886963
+haboscsok SNARC_only CD 6 lctrl 0.344312906265
+haboscsok SNARC_only CD 5 num_separator 0.433208942413
+haboscsok SNARC_only CD 5 num_separator 0.481524944305
+haboscsok SNARC_only CD 5 num_separator 0.401696205139
+haboscsok SNARC_only CD 4 num_separator 0.337733983994
+haboscsok SNARC_only CD 9 num_separator 0.536610126495
+haboscsok SNARC_only CD 7 num_separator 0.560883045197
+haboscsok SNARC_only CD 8 lctrl 0.328991889954
+haboscsok SNARC_only CD 9 num_separator 0.608230113983
+haboscsok SNARC_only CD 5 lctrl 0.378075122833
+haboscsok SNARC_only CD 5 num_separator 0.496856927872
+haboscsok SNARC_only CD 4 lctrl 0.314064979553
+haboscsok SNARC_only CD 9 num_separator 0.577502965927
+haboscsok SNARC_only CD 2 num_separator 0.361113071442
+haboscsok SNARC_only CD 3 lctrl 0.504644870758
+haboscsok SNARC_only CD 4 lctrl 0.537084102631
+haboscsok SNARC_only CD 5 num_separator 0.497553110123
+haboscsok SNARC_only CD 3 lctrl 0.481755971909
+haboscsok SNARC_only CD 9 num_separator 0.56098818779
+haboscsok SNARC_only CD 7 num_separator 0.584920167923
+haboscsok SNARC_only CD 1 num_separator 0.321710824966
+haboscsok SNARC_only CD 6 lctrl 0.45064496994
+haboscsok SNARC_only CD 8 lctrl 0.408993005753
+haboscsok SNARC_only CD 8 lctrl 0.351679086685
+haboscsok SNARC_only CD 8 lctrl 0.321258068085
+haboscsok SNARC_only CD 3 num_separator 0.552975893021
+haboscsok SNARC_only CD 8 num_separator 0.368757963181
+haboscsok SNARC_only CD 9 num_separator 0.384328126907
+haboscsok SNARC_only CD 3 num_separator 0.474299192429
+haboscsok SNARC_only CD 5 num_separator 0.40144109726
+haboscsok SNARC_only CD 3 num_separator 0.377085208893
+haboscsok SNARC_only CD 1 num_separator 0.537034988403
+haboscsok SNARC_only CD 5 num_separator 0.432307958603
+haboscsok SNARC_only CD 8 lctrl 0.368788957596
+haboscsok SNARC_only CD 3 num_separator 0.385136842728
+haboscsok SNARC_only CD 1 lctrl 0.369085073471
+haboscsok SNARC_only CD 6 lctrl 0.657314062119
+haboscsok SNARC_only CD 5 num_separator 0.544713020325
+haboscsok SNARC_only CD 3 num_separator 0.418709039688
+haboscsok SNARC_only CD 3 num_separator 0.416953802109
+haboscsok SNARC_only CD 9 num_separator 0.432554006577
+haboscsok SNARC_only CD 7 num_separator 0.445691108704
+haboscsok SNARC_only CD 3 num_separator 0.377081155777
+haboscsok SNARC_only CD 2 lctrl 0.313119888306

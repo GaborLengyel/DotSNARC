@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1319', 'task': u'line', 'participant': u'helus', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+helus SNARC line arabic DC 0 down 4 lctrl 1.21098886023
+helus SNARC line arabic DC 0 up 8 num_decimal 0.526636431954
+helus SNARC line arabic DC 0 down 7 lctrl 0.509989252547
+helus SNARC line arabic DC 0 up 3 num_decimal 0.523783859651
+helus SNARC line arabic DC 0 down 3 lctrl 0.472257325746
+helus SNARC line arabic DC 0 up 2 num_decimal 1.12317120927
+helus SNARC line arabic DC 0 down 4 lctrl 0.501229955262
+helus SNARC line arabic DC 0 down 4 lctrl 0.523984040134
+helus SNARC line arabic DC 0 down 3 lctrl 0.611153904174
+helus SNARC line arabic DC 0 down 2 lctrl 0.460508969438
+helus SNARC line arabic DC 0 down 5 lctrl 0.455111444899
+helus SNARC line arabic DC 0 up 5 num_decimal 0.415921560052
+helus SNARC line arabic DC 0 down 6 lctrl 0.447234061779
+helus SNARC line arabic DC 0 down 1 lctrl 0.623207430734
+helus SNARC line arabic DC 0 down 4 lctrl 0.491955858102
+helus SNARC line arabic DC 0 up 9 num_decimal 0.519498176844
+helus SNARC line arabic DC 0 down 1 lctrl 0.545387606515
+helus SNARC line arabic DC 0 up 7 num_decimal 0.489274069172
+helus SNARC line arabic DC 0 up 7 num_decimal 0.567945360526
+helus SNARC line arabic DC 0 up 2 num_decimal 0.504375799035
+helus SNARC line arabic DC 0 down 3 lctrl 0.479171602638
+helus SNARC line arabic DC 0 down 7 lctrl 0.541123621631
+helus SNARC line arabic DC 0 down 2 lctrl 0.572713646339
+helus SNARC line arabic DC 0 down 8 lctrl 0.613165858318
+helus SNARC line arabic DC 0 up 5 num_decimal 0.510728380614
+helus SNARC line arabic DC 0 up 1 num_decimal 0.509581892227
+helus SNARC line arabic DC 0 up 5 num_decimal 0.652048823045
+helus SNARC line arabic DC 0 down 1 lctrl 0.526703275449
+helus SNARC line arabic DC 0 down 7 lctrl 0.461897284287
+helus SNARC line arabic DC 0 down 9 lctrl 0.53151285724
+helus SNARC line arabic DC 0 down 9 lctrl 0.531157991791
+helus SNARC line arabic DC 0 down 1 lctrl 0.514681595756
+helus SNARC line arabic DC 0 up 5 num_decimal 0.449862655863
+helus SNARC line arabic DC 0 up 4 num_decimal 0.391101276298
+helus SNARC line arabic DC 0 down 8 lctrl 0.467154472513
+helus SNARC line arabic DC 0 up 1 num_decimal 0.431251467671
+helus SNARC line arabic DC 0 down 8 lctrl 0.485887448856
+helus SNARC line arabic DC 0 up 2 num_decimal 0.484240859165
+helus SNARC line arabic DC 0 down 7 lctrl 0.578585374722
+helus SNARC line arabic DC 0 up 7 num_decimal 0.43395705428
+helus SNARC line arabic DC 0 up 3 num_decimal 0.520659713773
+helus SNARC line arabic DC 0 down 7 lctrl 0.431883156183
+helus SNARC line arabic DC 0 down 5 lctrl 0.404692203214
+helus SNARC line arabic DC 0 down 5 lctrl 0.40094441807
+helus SNARC line arabic DC 0 down 7 lctrl 0.46809448101
+helus SNARC line arabic DC 0 down 9 lctrl 0.467128924996
+helus SNARC line arabic DC 0 up 1 num_decimal 0.425062320195
+helus SNARC line arabic DC 0 up 7 num_decimal 0.509937107621
+helus SNARC line arabic DC 0 up 1 num_decimal 0.45271837787
+helus SNARC line arabic DC 0 down 8 lctrl 0.41029690759
+helus SNARC line arabic DC 0 down 7 lctrl 0.438667245733
+helus SNARC line arabic DC 0 up 4 num_decimal 0.395866412407
+helus SNARC line arabic DC 0 up 6 num_decimal 0.43186530791
+helus SNARC line arabic DC 0 up 2 num_decimal 0.524365503021
+helus SNARC line arabic DC 0 down 1 lctrl 0.427800103673
+helus SNARC line arabic DC 0 down 5 lctrl 0.416648439277
+helus SNARC line arabic DC 0 up 3 num_decimal 0.397030749067
+helus SNARC line arabic DC 0 up 8 num_decimal 0.345083206164
+helus SNARC line arabic DC 0 down 4 lctrl 0.379867719865
+helus SNARC line arabic DC 0 up 9 num_decimal 0.407459033857
+helus SNARC line arabic DC 0 down 1 lctrl 0.691878795624
+helus SNARC line arabic DC 0 up 1 num_decimal 0.447403795231
+helus SNARC line arabic DC 0 down 6 lctrl 0.532315329096
+helus SNARC line arabic DC 0 up 3 num_decimal 0.468247066136
+helus SNARC line arabic DC 0 up 4 num_decimal 0.490250824078
+helus SNARC line arabic DC 0 up 3 num_decimal 0.448654223495
+helus SNARC line arabic DC 0 down 7 lctrl 0.405797745596
+helus SNARC line arabic DC 0 up 2 num_decimal 0.434265374264
+helus SNARC line arabic DC 0 up 4 num_decimal 0.471043993864
+helus SNARC line arabic DC 0 up 7 num_decimal 0.404995623685
+helus SNARC line arabic DC 0 down 5 lctrl 0.497377530293
+helus SNARC line arabic DC 0 up 4 num_decimal 0.423910582322
+helus SNARC line arabic DC 0 up 1 num_decimal 0.421091606753
+helus SNARC line arabic DC 0 up 5 num_decimal 0.417875069863
+helus SNARC line arabic DC 0 up 4 num_decimal 0.430218018271
+helus SNARC line arabic DC 0 up 3 num_decimal 0.562942597549
+helus SNARC line arabic DC 0 down 1 lctrl 0.435255077929
+helus SNARC line arabic DC 0 up 7 num_decimal 0.536627609283
+helus SNARC line arabic DC 0 down 3 lctrl 0.44821396636
+helus SNARC line arabic DC 0 up 5 num_decimal 0.389424239547
+helus SNARC line arabic DC 0 up 6 num_decimal 0.441148854181
+helus SNARC line arabic DC 0 down 6 lctrl 0.478505967447
+helus SNARC line arabic DC 0 down 3 lctrl 0.388613018527
+helus SNARC line arabic DC 0 down 1 lctrl 0.408530979505
+helus SNARC line arabic DC 0 up 9 num_decimal 0.348990925733
+helus SNARC line arabic DC 0 down 4 lctrl 0.375816514279
+helus SNARC line arabic DC 0 down 5 lctrl 0.43542936095
+helus SNARC line arabic DC 0 down 4 lctrl 0.432607585652
+helus SNARC line arabic DC 0 down 6 lctrl 0.445392541034
+helus SNARC line arabic DC 0 down 5 lctrl 0.378259276476
+helus SNARC line arabic DC 0 down 3 lctrl 0.398210134241
+helus SNARC line arabic DC 0 up 1 num_decimal 0.330247450416
+helus SNARC line arabic DC 0 down 2 lctrl 0.363962818228
+helus SNARC line arabic DC 0 down 4 lctrl 0.415808521037
+helus SNARC line arabic DC 0 up 3 num_decimal 0.372241262317
+helus SNARC line arabic DC 0 up 6 num_decimal 0.527379759587
+helus SNARC line arabic DC 0 down 8 lctrl 0.382563157473
+helus SNARC line arabic DC 0 up 2 num_decimal 0.402233342582
+helus SNARC line arabic DC 0 down 1 lctrl 0.509913659916
+helus SNARC line arabic DC 0 down 6 lctrl 0.500959781581
+helus SNARC line arabic DC 0 up 7 num_decimal 0.395831415808
+helus SNARC line arabic DC 0 up 8 num_decimal 0.551785683638
+helus SNARC line arabic DC 0 up 3 num_decimal 0.447795057145
+helus SNARC line arabic DC 0 up 8 num_decimal 0.43696151179
+helus SNARC line arabic DC 0 up 8 num_decimal 0.514266886108
+helus SNARC line arabic DC 0 up 8 num_decimal 0.489397607133
+helus SNARC line arabic DC 0 up 2 num_decimal 0.471748475276
+helus SNARC line arabic DC 0 up 7 num_decimal 0.413513094507
+helus SNARC line arabic DC 0 down 9 lctrl 0.466172118147
+helus SNARC line arabic DC 0 down 9 lctrl 0.416177735082
+helus SNARC line arabic DC 0 up 9 num_decimal 0.644569701137
+helus SNARC line arabic DC 0 up 6 num_decimal 0.446987685747
+helus SNARC line arabic DC 0 down 8 lctrl 0.4760947022
+helus SNARC line arabic DC 0 up 9 num_decimal 0.554213747295
+helus SNARC line arabic DC 0 down 8 lctrl 0.602171678591
+helus SNARC line arabic DC 0 up 9 num_decimal 0.443379187025
+helus SNARC line arabic DC 0 down 8 lctrl 0.384209747164
+helus SNARC line arabic DC 0 up 3 num_decimal 0.484197113401
+helus SNARC line arabic DC 0 up 8 num_decimal 0.450573786628
+helus SNARC line arabic DC 0 down 8 lctrl 0.400217888789
+helus SNARC line arabic DC 0 up 1 num_decimal 0.43621468448
+helus SNARC line arabic DC 0 down 2 lctrl 0.489305916097
+helus SNARC line arabic DC 0 up 4 num_decimal 0.455710586568
+helus SNARC line arabic DC 0 down 7 lctrl 0.461178104306
+helus SNARC line arabic DC 0 up 3 num_decimal 0.458957920433
+helus SNARC line arabic DC 0 down 9 lctrl 0.472224078985
+helus SNARC line arabic DC 0 up 6 num_decimal 0.358463453565
+helus SNARC line arabic DC 0 down 9 lctrl 0.425680360029
+helus SNARC line arabic DC 0 down 8 lctrl 0.422477471817
+helus SNARC line arabic DC 0 down 9 lctrl 0.419326028612
+helus SNARC line arabic DC 0 down 6 lctrl 0.46368596016
+helus SNARC line arabic DC 0 up 7 num_decimal 0.60533362077
+helus SNARC line arabic DC 0 down 5 lctrl 0.438539158204
+helus SNARC line arabic DC 0 down 4 lctrl 0.451728324231
+helus SNARC line arabic DC 0 down 6 lctrl 0.425014024891
+helus SNARC line arabic DC 0 down 7 lctrl 0.446160016349
+helus SNARC line arabic DC 0 down 2 lctrl 0.37928467663
+helus SNARC line arabic DC 0 down 6 lctrl 0.44685609857
+helus SNARC line arabic DC 0 up 8 num_decimal 0.468174623209
+helus SNARC line arabic DC 0 down 4 lctrl 0.530110193795
+helus SNARC line arabic DC 0 up 9 num_decimal 0.369693510322
+helus SNARC line arabic DC 0 up 5 num_decimal 0.564946852421
+helus SNARC line arabic DC 0 up 1 num_decimal 0.493295177701
+helus SNARC line arabic DC 0 down 2 lctrl 0.442631309852
+helus SNARC line arabic DC 0 down 3 lctrl 0.480867537524
+helus SNARC line arabic DC 0 up 9 num_decimal 0.43895456777
+helus SNARC line arabic DC 0 up 1 num_decimal 0.452156682557
+helus SNARC line arabic DC 0 up 8 num_decimal 0.545710975042
+helus SNARC line arabic DC 0 down 1 lctrl 0.505694820604
+helus SNARC line arabic DC 0 up 3 num_decimal 0.520460583153
+helus SNARC line arabic DC 0 up 7 num_decimal 0.647670049308
+helus SNARC line arabic DC 0 up 3 num_decimal 0.458109953004
+helus SNARC line arabic DC 0 down 7 lctrl 0.460117007606
+helus SNARC line arabic DC 0 up 5 num_decimal 0.518023070472
+helus SNARC line arabic DC 0 up 8 num_decimal 0.517331187817
+helus SNARC line arabic DC 0 down 4 lctrl 0.508450802299
+helus SNARC line arabic DC 0 up 4 num_decimal 0.419346326642
+helus SNARC line arabic DC 0 up 9 num_decimal 0.663665242202
+helus SNARC line arabic DC 0 up 3 num_decimal 0.466434942558
+helus SNARC line arabic DC 0 up 2 num_decimal 0.528132886277
+helus SNARC line arabic DC 0 up 4 num_decimal 0.455704637134
+helus SNARC line arabic DC 0 down 6 lctrl 0.541297904652
+helus SNARC line arabic DC 0 up 8 num_decimal 0.548895315034
+helus SNARC line arabic DC 0 up 9 num_decimal 0.548938010907
+helus SNARC line arabic DC 0 up 3 num_decimal 0.460889732378
+helus SNARC line arabic DC 0 up 6 num_decimal 0.490501049731
+helus SNARC line arabic DC 0 down 6 lctrl 0.464536727348
+helus SNARC line arabic DC 0 up 6 num_decimal 0.406214205024
+helus SNARC line arabic DC 0 up 9 num_decimal 0.386881387094
+helus SNARC line arabic DC 0 down 6 lctrl 0.47044170252
+helus SNARC line arabic DC 0 up 9 num_decimal 0.452406558237
+helus SNARC line arabic DC 0 down 1 lctrl 0.474008905236
+helus SNARC line arabic DC 0 up 5 num_decimal 0.456060202559
+helus SNARC line arabic DC 0 up 5 num_decimal 0.44566866415
+helus SNARC line arabic DC 0 down 3 lctrl 0.378853168659
+helus SNARC line arabic DC 0 down 3 lctrl 0.406415435456
+helus SNARC line arabic DC 0 down 3 lctrl 0.37847345561
+helus SNARC line arabic DC 0 down 5 lctrl 0.478439473925
+helus SNARC line arabic DC 0 down 7 lctrl 0.47634632769
+helus SNARC line arabic DC 0 up 3 num_decimal 0.410389998549
+helus SNARC line arabic DC 0 up 4 num_decimal 0.382858528727
+helus SNARC line arabic DC 0 up 9 num_decimal 0.490490200784
+helus SNARC line arabic DC 0 down 9 lctrl 0.432821764785
+helus SNARC line arabic DC 0 up 3 num_decimal 0.541553729767
+helus SNARC line arabic DC 0 down 5 lctrl 0.420938321651
+helus SNARC line arabic DC 0 down 6 lctrl 0.473708284495
+helus SNARC line arabic DC 0 up 5 num_decimal 0.424041469581
+helus SNARC line arabic DC 0 up 1 lctrl 0.508634184458
+helus SNARC line arabic DC 0 up 3 num_decimal 0.879553275503
+helus SNARC line arabic DC 0 down 1 lctrl 0.456478411827
+helus SNARC line arabic DC 0 down 3 lctrl 0.504388747766
+helus SNARC line arabic DC 0 down 7 lctrl 0.464324647968
+helus SNARC line arabic DC 0 down 9 lctrl 0.393266165513
+helus SNARC line arabic DC 0 down 7 lctrl 0.42518445829
+helus SNARC line arabic DC 0 down 2 lctrl 0.496854331228
+helus SNARC line arabic DC 0 up 7 num_decimal 0.425033622974
+helus SNARC line arabic DC 0 down 5 lctrl 0.457007560326
+helus SNARC line arabic DC 0 down 9 lctrl 0.584877062211
+helus SNARC line arabic DC 0 up 3 num_decimal 0.384879931924
+helus SNARC line arabic DC 0 up 6 num_decimal 0.432799366972
+helus SNARC line arabic DC 0 down 6 lctrl 0.480719851912
+helus SNARC line arabic DC 0 up 5 num_decimal 0.368678259169
+helus SNARC line arabic DC 0 up 2 num_decimal 0.416373716027
+helus SNARC line arabic DC 0 up 9 num_decimal 0.512528255378
+helus SNARC line arabic DC 0 up 4 num_decimal 0.464430687687
+helus SNARC line arabic DC 0 down 7 lctrl 0.528408659418
+helus SNARC line arabic DC 0 down 2 lctrl 0.504308255564
+helus SNARC line arabic DC 0 down 7 lctrl 0.521272154147
+helus SNARC line arabic DC 0 down 5 lctrl 0.393190222938
+helus SNARC line arabic DC 0 up 6 num_decimal 0.401223340916
+helus SNARC line arabic DC 0 down 1 lctrl 0.585082142265
+helus SNARC line arabic DC 0 down 4 lctrl 0.464726408885
+helus SNARC line arabic DC 0 down 2 lctrl 0.376922056632
+helus SNARC line arabic DC 0 up 1 num_decimal 0.536908281996
+helus SNARC line arabic DC 0 up 2 num_decimal 0.504788758815
+helus SNARC line arabic DC 0 down 7 lctrl 0.528698781156
+helus SNARC line arabic DC 0 down 2 lctrl 0.432666029956
+helus SNARC line arabic DC 0 down 2 lctrl 0.416551848699
+helus SNARC line arabic DC 0 up 2 num_decimal 0.408540778561
+helus SNARC line arabic DC 0 down 5 lctrl 0.456515158265
+helus SNARC line arabic DC 0 up 2 num_decimal 0.48812058146
+helus SNARC line arabic DC 0 down 8 lctrl 0.408287053258
+helus SNARC line arabic DC 0 down 9 lctrl 0.45724763695
+helus SNARC line arabic DC 0 up 2 num_decimal 0.377237725916
+helus SNARC line arabic DC 0 down 2 lctrl 0.409192415129
+helus SNARC line arabic DC 0 down 2 lctrl 0.473068546766
+helus SNARC line arabic DC 0 up 1 num_decimal 0.392998091644
+helus SNARC line arabic DC 0 down 6 lctrl 0.512963613
+helus SNARC line arabic DC 0 down 9 lctrl 0.568873470154
+helus SNARC line arabic DC 0 down 4 lctrl 0.424510423909
+helus SNARC line arabic DC 0 down 8 lctrl 0.488750870107
+helus SNARC line arabic DC 0 down 1 lctrl 0.504659971339
+helus SNARC line arabic DC 0 down 8 lctrl 0.472627589712
+helus SNARC line arabic DC 0 up 1 num_decimal 0.392540686153
+helus SNARC line arabic DC 0 down 5 lctrl 0.50441954477
+helus SNARC line arabic DC 0 up 1 num_decimal 0.440419875114
+helus SNARC line arabic DC 0 down 5 lctrl 0.536326288624
+helus SNARC line arabic DC 0 down 8 lctrl 0.441290590359
+helus SNARC line arabic DC 0 down 5 lctrl 0.46493148891
+helus SNARC line arabic DC 0 down 5 lctrl 0.377182431315
+helus SNARC line arabic DC 0 up 4 num_decimal 0.409077626304
+helus SNARC line arabic DC 0 up 4 num_decimal 0.441017616919
+helus SNARC line arabic DC 0 up 6 num_decimal 0.40095176734
+helus SNARC line arabic DC 0 down 7 num_decimal 0.400897172658
+helus SNARC line arabic DC 0 up 8 num_decimal 0.664821529615
+helus SNARC line arabic DC 0 down 8 lctrl 0.536658406287
+helus SNARC line arabic DC 0 down 8 lctrl 0.440656802064
+helus SNARC line arabic DC 0 down 9 lctrl 0.536259445129
+helus SNARC line arabic DC 0 up 3 num_decimal 0.416555698321
+helus SNARC line arabic DC 0 down 8 lctrl 0.528451705235
+helus SNARC line arabic DC 0 up 3 num_decimal 0.400432067923
+helus SNARC line arabic DC 0 down 7 lctrl 0.480335589324
+helus SNARC line arabic DC 0 up 8 num_decimal 0.561247362552
+helus SNARC line arabic DC 0 down 7 lctrl 0.609249739558
+helus SNARC line arabic DC 0 up 1 num_decimal 0.513174992404
+helus SNARC line arabic DC 0 down 1 lctrl 0.497029314196
+helus SNARC line arabic DC 0 down 9 lctrl 0.519978330121
+helus SNARC line arabic DC 0 down 6 lctrl 0.560887597589
+helus SNARC line arabic DC 0 up 9 num_decimal 0.44093117537
+helus SNARC line arabic DC 0 down 7 lctrl 0.520603369252
+helus SNARC line arabic DC 0 up 3 num_decimal 0.456673692825
+helus SNARC line arabic DC 0 down 9 lctrl 0.496638052282
+helus SNARC line arabic DC 0 down 7 lctrl 0.552560508251
+helus SNARC line arabic DC 0 down 5 lctrl 0.552495414566
+helus SNARC line arabic DC 0 up 5 num_decimal 0.480333839514
+helus SNARC line arabic DC 0 down 3 lctrl 0.464067073073
+helus SNARC line arabic DC 0 up 9 num_decimal 0.369312747411
+helus SNARC line arabic DC 0 up 7 num_decimal 0.529257326794
+helus SNARC line arabic DC 0 down 1 lctrl 0.465162466426
+helus SNARC line arabic DC 0 down 2 lctrl 0.481139811047
+helus SNARC line arabic DC 0 up 6 num_decimal 0.489024193492
+helus SNARC line arabic DC 0 up 5 num_decimal 0.433080039656
+helus SNARC line arabic DC 0 up 8 num_decimal 0.464922739775
+helus SNARC line arabic DC 0 down 1 lctrl 0.44875151405
+helus SNARC line arabic DC 0 up 3 num_decimal 0.472490753018
+helus SNARC line arabic DC 0 down 4 lctrl 0.50467676972
+helus SNARC line arabic DC 0 down 2 lctrl 0.408450837334
+helus SNARC line arabic DC 0 down 8 lctrl 0.480348538083
+helus SNARC line arabic DC 0 up 8 num_decimal 0.504449291853
+helus SNARC line arabic DC 0 down 7 lctrl 0.488414202904
+helus SNARC line arabic DC 0 up 1 num_decimal 0.504306855728
+helus SNARC line arabic DC 0 up 4 num_decimal 0.47321833219
+helus SNARC line arabic DC 0 down 6 num_decimal 0.721234637807
+helus SNARC line arabic DC 0 up 6 num_decimal 0.799888080888
+helus SNARC line arabic DC 0 up 6 num_decimal 0.408798353485
+helus SNARC line arabic DC 0 up 3 num_decimal 0.473017801734
+helus SNARC line arabic DC 0 down 2 lctrl 0.520882292127
+helus SNARC line arabic DC 0 up 2 num_decimal 0.448864553036
+helus SNARC line arabic DC 0 down 1 lctrl 0.400780634023
+helus SNARC line arabic DC 0 down 2 lctrl 0.536720700213
+helus SNARC line arabic DC 0 down 6 lctrl 0.416654038738
+helus SNARC line arabic DC 0 down 9 lctrl 1.03258952743
+helus SNARC line arabic DC 0 down 8 lctrl 0.632175657694
+helus SNARC line arabic DC 0 up 3 num_decimal 1.07237855394
+helus SNARC line arabic DC 0 up 6 num_decimal 0.432351060619
+helus SNARC line arabic DC 0 down 4 lctrl 0.42525725119
+helus SNARC line arabic DC 0 up 4 num_decimal 0.569230435416
+helus SNARC line arabic DC 0 up 2 num_decimal 1.04912786739
+helus SNARC line arabic DC 0 up 1 num_decimal 0.385047215648
+helus SNARC line arabic DC 0 down 8 lctrl 0.376863612328
+helus SNARC line arabic DC 0 down 2 lctrl 0.360852321028
+helus SNARC line arabic DC 0 up 3 num_decimal 0.448508287722
+helus SNARC line arabic DC 0 up 6 num_decimal 0.896754450951
+helus SNARC line arabic DC 0 up 5 num_decimal 0.504633023986
+helus SNARC line arabic DC 0 down 5 lctrl 0.504587528412
+helus SNARC line arabic DC 0 up 5 num_decimal 0.872564455844
+helus SNARC line arabic DC 0 down 2 lctrl 0.416478355823
+helus SNARC line arabic DC 0 down 2 lctrl 0.424351189402
+helus SNARC line arabic DC 0 down 4 lctrl 0.440280238719
+helus SNARC line arabic DC 0 down 9 lctrl 0.496173647494
+helus SNARC line arabic DC 0 down 6 lctrl 0.392887852358
+helus SNARC line arabic DC 0 down 7 lctrl 0.393146827148
+helus SNARC line arabic DC 0 up 6 num_decimal 0.409060128004
+helus SNARC line arabic DC 0 up 4 num_decimal 0.46501268103
+helus SNARC line arabic DC 0 up 2 num_decimal 0.448987391079
+helus SNARC line arabic DC 0 up 2 num_decimal 0.480794044677
+helus SNARC line arabic DC 0 up 1 num_decimal 0.440773340728
+helus SNARC line arabic DC 0 up 6 num_decimal 0.424754350155
+helus SNARC line arabic DC 0 up 1 num_decimal 0.4726706355
+helus SNARC line arabic DC 0 up 6 num_decimal 0.488267917099
+helus SNARC line arabic DC 0 down 8 lctrl 0.360519153473
+helus SNARC line arabic DC 0 up 5 num_decimal 0.408471485309
+helus SNARC line arabic DC 0 up 9 num_decimal 0.584336014901
+helus SNARC line arabic DC 0 down 9 lctrl 0.44840119814
+helus SNARC line arabic DC 0 down 4 lctrl 0.561231614091
+helus SNARC line arabic DC 0 down 4 lctrl 0.401158597204
+helus SNARC line arabic DC 0 down 3 lctrl 0.473157088185
+helus SNARC line arabic DC 0 up 4 num_decimal 0.465037878574
+helus SNARC line arabic DC 0 up 9 num_decimal 0.432675828983
+helus SNARC line arabic DC 0 up 4 num_decimal 0.440907377662
+helus SNARC line arabic DC 0 down 1 lctrl 0.440838084411
+helus SNARC line arabic DC 0 down 6 lctrl 0.416826921894
+helus SNARC line arabic DC 0 down 7 lctrl 0.43269682696
+helus SNARC line arabic DC 0 down 6 lctrl 0.408662216738
+helus SNARC line arabic DC 0 down 3 lctrl 0.376553892478
+helus SNARC line arabic DC 0 up 3 num_decimal 0.432558590401
+helus SNARC line arabic DC 0 up 8 num_decimal 0.368486477848
+helus SNARC line arabic DC 0 down 8 num_decimal 0.488130380516
+helus SNARC line arabic DC 0 down 6 lctrl 0.640306066227
+helus SNARC line arabic DC 0 down 5 lctrl 0.369228405616
+helus SNARC line arabic DC 0 down 2 lctrl 0.465185214212
+helus SNARC line arabic DC 0 up 2 num_decimal 0.42518165856
+helus SNARC line arabic DC 0 up 1 num_decimal 0.449100080121
+helus SNARC line arabic DC 0 up 2 num_decimal 0.473043349222
+helus SNARC line arabic DC 0 up 6 num_decimal 0.46497208497
+helus SNARC line arabic DC 0 up 7 num_decimal 0.424865289358
+helus SNARC line arabic DC 0 up 4 num_decimal 0.432471798878
+helus SNARC line arabic DC 0 up 5 num_decimal 0.432771019754
+helus SNARC line arabic DC 0 up 8 num_decimal 0.464648716472
+helus SNARC line arabic DC 0 up 8 num_decimal 0.536613960634
+helus SNARC line arabic DC 0 down 9 lctrl 0.64852676593
+helus SNARC line arabic DC 0 down 4 lctrl 0.584414407262
+helus SNARC line arabic DC 0 down 7 lctrl 0.552371526632
+helus SNARC line arabic DC 0 up 4 num_decimal 0.472329418728
+helus SNARC line arabic DC 0 up 9 num_decimal 0.433307517495
+helus SNARC line arabic DC 0 down 5 lctrl 0.584883011645
+helus SNARC line arabic DC 0 down 5 lctrl 0.457071954035
+helus SNARC line arabic DC 0 up 4 num_decimal 0.425058470573
+helus SNARC line arabic DC 0 up 7 num_decimal 0.760996366997
+helus SNARC line arabic DC 0 down 9 lctrl 0.536896383128
+{'delay': u'0', 'dateStr': u'05_18_1328', 'task': u'line', 'participant': u'helus', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+helus SNARC line dot DC 0 up 40 num_decimal 1.12607627647
+helus SNARC line dot DC 0 up 45 num_decimal 0.668179102766
+helus SNARC line dot DC 0 down 45 lctrl 0.779251639877
+helus SNARC line dot DC 0 down 20 lctrl 0.486320706666
+helus SNARC line dot DC 0 down 5 lctrl 0.409565128823
+helus SNARC line dot DC 0 down 40 lctrl 0.584817568015
+helus SNARC line dot DC 0 down 5 lctrl 0.423576714791
+helus SNARC line dot DC 0 up 10 num_decimal 0.320305968227
+helus SNARC line dot DC 0 down 25 lctrl 0.413761920296
+helus SNARC line dot DC 0 down 25 lctrl 0.456178141059
+helus SNARC line dot DC 0 up 30 num_decimal 0.41236100666
+helus SNARC line dot DC 0 down 35 lctrl 0.437047603395
+helus SNARC line dot DC 0 up 10 num_decimal 0.399429415556
+helus SNARC line dot DC 0 up 30 num_decimal 0.467393849191
+helus SNARC line dot DC 0 up 10 num_decimal 0.434063793888
+helus SNARC line dot DC 0 up 5 num_decimal 0.459589608974
+helus SNARC line dot DC 0 down 5 lctrl 0.417145040934
+helus SNARC line dot DC 0 up 10 num_decimal 0.681498456135
+helus SNARC line dot DC 0 up 40 num_decimal 0.428187865909
+helus SNARC line dot DC 0 down 20 lctrl 0.442472425289
+helus SNARC line dot DC 0 down 35 lctrl 0.451671629766
+helus SNARC line dot DC 0 down 25 lctrl 0.513952266745
+helus SNARC line dot DC 0 up 10 num_decimal 0.445681962883
+helus SNARC line dot DC 0 up 5 num_decimal 0.367569917056
+helus SNARC line dot DC 0 up 40 num_decimal 0.40573265194
+helus SNARC line dot DC 0 up 15 num_decimal 0.375759469811
+helus SNARC line dot DC 0 up 10 num_decimal 0.407381341443
+helus SNARC line dot DC 0 up 30 num_decimal 0.427366845834
+helus SNARC line dot DC 0 down 15 lctrl 0.540790804022
+helus SNARC line dot DC 0 up 25 num_decimal 0.380595998984
+helus SNARC line dot DC 0 down 45 lctrl 0.40004185593
+helus SNARC line dot DC 0 down 40 lctrl 0.417109344417
+helus SNARC line dot DC 0 down 20 lctrl 0.446780155966
+helus SNARC line dot DC 0 up 30 num_decimal 0.54008632261
+helus SNARC line dot DC 0 up 20 num_decimal 0.436649342184
+helus SNARC line dot DC 0 down 20 lctrl 0.425791299203
+helus SNARC line dot DC 0 down 35 lctrl 0.458473217615
+helus SNARC line dot DC 0 down 10 lctrl 0.357745673449
+helus SNARC line dot DC 0 up 15 num_decimal 0.332830198982
+helus SNARC line dot DC 0 down 5 lctrl 0.367892585666
+helus SNARC line dot DC 0 up 45 num_decimal 0.386191604252
+helus SNARC line dot DC 0 up 25 num_decimal 0.439533061464
+helus SNARC line dot DC 0 up 45 num_decimal 0.420246438996
+helus SNARC line dot DC 0 down 35 lctrl 0.30613584767
+helus SNARC line dot DC 0 down 30 lctrl 0.384897780197
+helus SNARC line dot DC 0 down 35 lctrl 0.408992934535
+helus SNARC line dot DC 0 down 5 lctrl 0.431102382194
+helus SNARC line dot DC 0 down 20 lctrl 0.383546561759
+helus SNARC line dot DC 0 down 5 lctrl 0.359942409617
+helus SNARC line dot DC 0 down 5 lctrl 0.3551433268
+helus SNARC line dot DC 0 up 10 num_decimal 0.337801465037
+helus SNARC line dot DC 0 up 15 num_decimal 0.416542749561
+helus SNARC line dot DC 0 down 10 lctrl 0.393400202476
+helus SNARC line dot DC 0 down 30 lctrl 0.324414918199
+helus SNARC line dot DC 0 down 15 lctrl 0.420118351467
+helus SNARC line dot DC 0 up 30 num_decimal 0.420508213516
+helus SNARC line dot DC 0 up 35 num_decimal 0.37346299339
+helus SNARC line dot DC 0 up 35 num_decimal 0.377419358236
+helus SNARC line dot DC 0 down 15 lctrl 0.374139477499
+helus SNARC line dot DC 0 up 35 num_decimal 0.399682090938
+helus SNARC line dot DC 0 up 40 num_decimal 0.49776809226
+helus SNARC line dot DC 0 down 30 lctrl 0.424534221587
+helus SNARC line dot DC 0 up 45 num_decimal 0.44983010905
+helus SNARC line dot DC 0 down 35 lctrl 0.376716626633
+helus SNARC line dot DC 0 down 35 lctrl 0.380718137079
+helus SNARC line dot DC 0 down 45 lctrl 0.344517311227
+helus SNARC line dot DC 0 down 5 lctrl 0.365441424277
+helus SNARC line dot DC 0 up 5 num_decimal 0.376526245178
+helus SNARC line dot DC 0 up 15 num_decimal 0.38808596984
+helus SNARC line dot DC 0 down 10 lctrl 0.348041468184
+helus SNARC line dot DC 0 up 10 num_decimal 0.406943534035
+helus SNARC line dot DC 0 up 45 num_decimal 0.422527516959
+helus SNARC line dot DC 0 down 10 lctrl 0.417026052513
+helus SNARC line dot DC 0 up 35 num_decimal 0.3691052176
+helus SNARC line dot DC 0 up 40 num_decimal 0.392925998662
+helus SNARC line dot DC 0 down 15 lctrl 0.458483016671
+helus SNARC line dot DC 0 up 45 num_decimal 0.391242662532
+helus SNARC line dot DC 0 down 40 lctrl 0.416638990195
+helus SNARC line dot DC 0 down 30 lctrl 0.414038043382
+helus SNARC line dot DC 0 down 25 lctrl 0.358483051677
+helus SNARC line dot DC 0 up 20 num_decimal 0.32601356259
+helus SNARC line dot DC 0 up 10 num_decimal 0.48979201875
+helus SNARC line dot DC 0 down 15 lctrl 0.62794106995
+helus SNARC line dot DC 0 down 35 lctrl 0.541467988107
+helus SNARC line dot DC 0 up 15 num_decimal 0.614492929104
+helus SNARC line dot DC 0 down 35 lctrl 0.389510331181
+helus SNARC line dot DC 0 down 20 lctrl 0.392601230269
+helus SNARC line dot DC 0 up 20 num_decimal 0.381102749641
+helus SNARC line dot DC 0 down 35 num_decimal 0.508790619235
+helus SNARC line dot DC 0 up 15 num_decimal 0.650845640193
+helus SNARC line dot DC 0 down 40 lctrl 0.386825042573
+helus SNARC line dot DC 0 down 30 lctrl 0.459098606778
+helus SNARC line dot DC 0 up 45 num_decimal 0.510333269049
+helus SNARC line dot DC 0 down 35 lctrl 0.454852820083
+helus SNARC line dot DC 0 down 15 lctrl 0.455285727949
+helus SNARC line dot DC 0 up 25 num_decimal 0.38303771129
+helus SNARC line dot DC 0 down 20 lctrl 0.411084330932
+helus SNARC line dot DC 0 down 40 lctrl 0.394612484495
+helus SNARC line dot DC 0 up 20 num_decimal 0.37084944782
+helus SNARC line dot DC 0 up 10 num_decimal 0.555140457058
+helus SNARC line dot DC 0 down 35 lctrl 0.430396500917
+helus SNARC line dot DC 0 down 35 lctrl 0.422198898916
+helus SNARC line dot DC 0 up 35 num_decimal 0.42168864861
+helus SNARC line dot DC 0 up 25 num_decimal 0.406542473094
+helus SNARC line dot DC 0 down 5 lctrl 0.462982178666
+helus SNARC line dot DC 0 down 20 lctrl 0.419493312336
+helus SNARC line dot DC 0 down 30 lctrl 0.451053239958
+helus SNARC line dot DC 0 down 40 lctrl 0.434711930779
+helus SNARC line dot DC 0 up 25 num_decimal 0.599145873159
+helus SNARC line dot DC 0 down 35 lctrl 0.406720605737
+helus SNARC line dot DC 0 down 25 lctrl 0.486913199013
+helus SNARC line dot DC 0 down 15 lctrl 0.45526647981
+helus SNARC line dot DC 0 down 25 lctrl 0.398704636114
+helus SNARC line dot DC 0 up 10 num_decimal 0.40326014263
+helus SNARC line dot DC 0 down 45 lctrl 0.454027950385
+helus SNARC line dot DC 0 up 35 lctrl 0.406493827817
+helus SNARC line dot DC 0 up 30 num_decimal 0.63443573768
+helus SNARC line dot DC 0 down 10 lctrl 0.386996875866
+helus SNARC line dot DC 0 up 15 num_decimal 0.446827051404
+helus SNARC line dot DC 0 up 30 num_decimal 0.546227174811
+helus SNARC line dot DC 0 down 10 lctrl 0.411822059104
+helus SNARC line dot DC 0 down 30 lctrl 0.387049370736
+helus SNARC line dot DC 0 up 10 num_decimal 0.403592960211
+helus SNARC line dot DC 0 up 30 num_decimal 0.475044454419
+helus SNARC line dot DC 0 up 5 num_decimal 0.383685848181
+helus SNARC line dot DC 0 up 35 num_decimal 0.414672531624
+helus SNARC line dot DC 0 down 35 lctrl 0.390397144831
+helus SNARC line dot DC 0 down 30 lctrl 0.426606719848
+helus SNARC line dot DC 0 up 15 num_decimal 0.415143585764
+helus SNARC line dot DC 0 up 15 num_decimal 0.383051709941
+helus SNARC line dot DC 0 down 45 lctrl 0.421488468099
+helus SNARC line dot DC 0 up 35 num_decimal 0.374426449591
+helus SNARC line dot DC 0 down 30 lctrl 0.370389242598
+helus SNARC line dot DC 0 down 45 lctrl 0.453812721331
+helus SNARC line dot DC 0 down 40 lctrl 0.595108666166
+helus SNARC line dot DC 0 down 40 lctrl 0.474699737999
+helus SNARC line dot DC 0 down 15 lctrl 0.903728222067
+helus SNARC line dot DC 0 up 30 num_decimal 0.419048155658
+helus SNARC line dot DC 0 up 5 num_decimal 0.407744956028
+helus SNARC line dot DC 0 down 5 lctrl 0.46362891575
+helus SNARC line dot DC 0 down 45 lctrl 0.446385744348
+helus SNARC line dot DC 0 down 5 lctrl 0.391435493744
+helus SNARC line dot DC 0 down 15 lctrl 0.527202326863
+helus SNARC line dot DC 0 down 20 lctrl 0.347020617541
+helus SNARC line dot DC 0 up 40 num_decimal 0.394215623121
+helus SNARC line dot DC 0 down 40 lctrl 0.402256440342
+helus SNARC line dot DC 0 up 15 num_decimal 0.430835358158
+helus SNARC line dot DC 0 down 30 lctrl 0.521910492011
+helus SNARC line dot DC 0 down 35 lctrl 0.47003224236
+helus SNARC line dot DC 0 down 35 lctrl 0.486113526858
+helus SNARC line dot DC 0 down 15 lctrl 0.591704897524
+helus SNARC line dot DC 0 down 25 lctrl 0.383371928736
+helus SNARC line dot DC 0 down 30 lctrl 0.426995531976
+helus SNARC line dot DC 0 down 20 lctrl 0.387369239616
+helus SNARC line dot DC 0 down 45 lctrl 0.390535031387
+helus SNARC line dot DC 0 up 45 num_decimal 0.318416852126
+helus SNARC line dot DC 0 down 40 lctrl 0.370567375241
+helus SNARC line dot DC 0 down 15 lctrl 0.383168948494
+helus SNARC line dot DC 0 up 5 num_decimal 0.447452440509
+helus SNARC line dot DC 0 down 30 lctrl 0.378596993571
+helus SNARC line dot DC 0 down 45 lctrl 0.430066483008
+helus SNARC line dot DC 0 up 20 num_decimal 0.482747904491
+helus SNARC line dot DC 0 up 35 num_decimal 0.822213107545
+helus SNARC line dot DC 0 up 40 num_decimal 0.394036090584
+helus SNARC line dot DC 0 down 20 lctrl 0.411452145141
+helus SNARC line dot DC 0 up 10 num_decimal 0.45983808476
+helus SNARC line dot DC 0 down 20 lctrl 0.33949704995
+helus SNARC line dot DC 0 down 45 lctrl 0.414629485807
+helus SNARC line dot DC 0 up 20 num_decimal 0.459343582916
+helus SNARC line dot DC 0 down 45 lctrl 0.534428423387
+helus SNARC line dot DC 0 up 25 num_decimal 0.438991664152
+helus SNARC line dot DC 0 down 45 lctrl 0.470281768066
+helus SNARC line dot DC 0 down 35 lctrl 0.438551756961
+helus SNARC line dot DC 0 up 30 num_decimal 0.498674853996
+helus SNARC line dot DC 0 up 35 num_decimal 0.398472958652
+helus SNARC line dot DC 0 down 45 lctrl 0.454083944933
+helus SNARC line dot DC 0 up 10 num_decimal 0.395000596676
+helus SNARC line dot DC 0 up 5 lctrl 0.439077405812
+helus SNARC line dot DC 0 down 10 lctrl 0.450864958286
+helus SNARC line dot DC 0 down 20 lctrl 0.355486293411
+helus SNARC line dot DC 0 up 25 num_decimal 0.343366623274
+helus SNARC line dot DC 0 down 35 lctrl 0.575201204163
+helus SNARC line dot DC 0 down 15 lctrl 0.407537076244
+helus SNARC line dot DC 0 up 5 num_decimal 0.375689476641
+helus SNARC line dot DC 0 up 40 num_decimal 0.514625251235
+helus SNARC line dot DC 0 down 25 lctrl 0.543036185438
+helus SNARC line dot DC 0 down 20 lctrl 0.347106009227
+helus SNARC line dot DC 0 down 40 lctrl 0.386454428663
+helus SNARC line dot DC 0 up 45 lctrl 0.445914340264
+helus SNARC line dot DC 0 down 25 lctrl 0.374776765471
+helus SNARC line dot DC 0 up 10 num_decimal 0.371140269504
+helus SNARC line dot DC 0 up 5 num_decimal 0.479175452259
+helus SNARC line dot DC 0 up 10 num_decimal 0.563040937966
+helus SNARC line dot DC 0 down 45 lctrl 0.405800195353
+helus SNARC line dot DC 0 up 35 num_decimal 0.454982307449
+helus SNARC line dot DC 0 up 15 num_decimal 0.375725873077
+helus SNARC line dot DC 0 down 25 lctrl 0.44734465098
+helus SNARC line dot DC 0 up 10 num_decimal 0.419635048514
+helus SNARC line dot DC 0 down 30 lctrl 0.426885992667
+helus SNARC line dot DC 0 down 15 lctrl 0.45530602595
+helus SNARC line dot DC 0 down 15 lctrl 0.447362849227
+helus SNARC line dot DC 0 down 20 lctrl 0.347134706448
+helus SNARC line dot DC 0 down 40 lctrl 0.370439987659
+helus SNARC line dot DC 0 down 10 lctrl 0.419264784548
+helus SNARC line dot DC 0 up 5 num_decimal 0.415343066357
+helus SNARC line dot DC 0 down 5 lctrl 0.455358520849
+helus SNARC line dot DC 0 down 30 lctrl 0.474348022195
+helus SNARC line dot DC 0 up 20 num_decimal 0.5466943793
+helus SNARC line dot DC 0 up 45 num_decimal 0.709694161284
+helus SNARC line dot DC 0 up 35 num_decimal 0.431156976876
+helus SNARC line dot DC 0 up 45 num_decimal 0.350449233752
+helus SNARC line dot DC 0 down 5 lctrl 0.367953129782
+helus SNARC line dot DC 0 up 5 num_decimal 0.367748749675
+helus SNARC line dot DC 0 up 35 num_decimal 0.438873025705
+helus SNARC line dot DC 0 down 5 lctrl 0.591673750547
+helus SNARC line dot DC 0 up 10 lctrl 0.643412013829
+helus SNARC line dot DC 0 up 25 num_decimal 0.638021488616
+helus SNARC line dot DC 0 down 45 lctrl 0.486187019706
+helus SNARC line dot DC 0 down 30 lctrl 0.498560765118
+helus SNARC line dot DC 0 down 40 lctrl 0.338209875277
+helus SNARC line dot DC 0 down 45 lctrl 0.382116600929
+helus SNARC line dot DC 0 up 20 num_decimal 0.474703587592
+helus SNARC line dot DC 0 down 40 lctrl 0.434119438461
+helus SNARC line dot DC 0 up 10 num_decimal 0.562919149816
+helus SNARC line dot DC 0 up 25 num_decimal 0.551392321941
+helus SNARC line dot DC 0 up 30 num_decimal 0.723267939873
+helus SNARC line dot DC 0 up 10 num_decimal 0.419733038987
+helus SNARC line dot DC 0 down 30 lctrl 0.411032885953
+helus SNARC line dot DC 0 up 5 num_decimal 0.415769674815
+helus SNARC line dot DC 0 up 15 num_decimal 0.487363955122
+helus SNARC line dot DC 0 down 15 lctrl 0.423313190462
+helus SNARC line dot DC 0 up 25 num_decimal 0.454694985441
+helus SNARC line dot DC 0 up 45 num_decimal 0.454160587455
+helus SNARC line dot DC 0 down 20 lctrl 0.48289629005
+helus SNARC line dot DC 0 down 45 lctrl 0.541036130133
+helus SNARC line dot DC 0 down 20 lctrl 0.802676259453
+helus SNARC line dot DC 0 down 15 lctrl 0.390846851049
+helus SNARC line dot DC 0 down 10 lctrl 0.442960977729
+helus SNARC line dot DC 0 up 40 num_decimal 0.474997209036
+helus SNARC line dot DC 0 down 40 lctrl 0.546584140044
+helus SNARC line dot DC 0 down 30 lctrl 0.403164251969
+helus SNARC line dot DC 0 up 5 num_decimal 0.447778608766
+helus SNARC line dot DC 0 up 5 num_decimal 0.399697139481
+helus SNARC line dot DC 0 down 15 lctrl 0.407296299702
+helus SNARC line dot DC 0 down 40 lctrl 0.38650027418
+helus SNARC line dot DC 0 up 45 num_decimal 0.502382043109
+helus SNARC line dot DC 0 up 15 num_decimal 0.391250711749
+helus SNARC line dot DC 0 down 25 lctrl 0.502841548354
+helus SNARC line dot DC 0 down 20 lctrl 0.354968693806
+helus SNARC line dot DC 0 down 40 lctrl 0.458297184756
+helus SNARC line dot DC 0 up 35 num_decimal 0.510421460465
+helus SNARC line dot DC 0 down 25 lctrl 0.406548772502
+helus SNARC line dot DC 0 up 5 num_decimal 0.359062595264
+helus SNARC line dot DC 0 down 5 lctrl 0.447023032291
+helus SNARC line dot DC 0 up 10 num_decimal 0.363828781265
+helus SNARC line dot DC 0 down 20 lctrl 0.435537850397
+helus SNARC line dot DC 0 up 20 num_decimal 0.579481987428
+helus SNARC line dot DC 0 down 40 lctrl 0.442690804048
+helus SNARC line dot DC 0 up 20 num_decimal 0.49918965387
+helus SNARC line dot DC 0 down 25 lctrl 0.439069356595
+helus SNARC line dot DC 0 down 30 lctrl 0.506819261151
+helus SNARC line dot DC 0 down 10 lctrl 0.387305895769
+helus SNARC line dot DC 0 up 25 num_decimal 0.446763707558
+helus SNARC line dot DC 0 down 25 lctrl 0.454776877479
+helus SNARC line dot DC 0 down 30 lctrl 0.738525404537
+helus SNARC line dot DC 0 down 15 lctrl 0.678816667205
+helus SNARC line dot DC 0 down 30 lctrl 0.394376257464
+helus SNARC line dot DC 0 up 30 num_decimal 0.538300446438
+helus SNARC line dot DC 0 down 30 lctrl 0.339132735418
+helus SNARC line dot DC 0 down 45 lctrl 0.406468630274
+helus SNARC line dot DC 0 up 10 num_decimal 0.411685572413
+helus SNARC line dot DC 0 down 15 lctrl 0.367441479553
+helus SNARC line dot DC 0 up 10 num_decimal 0.483638917736
+helus SNARC line dot DC 0 down 20 lctrl 0.435227780574
+helus SNARC line dot DC 0 down 5 lctrl 0.383636852959
+helus SNARC line dot DC 0 down 20 lctrl 0.411152924236
+helus SNARC line dot DC 0 down 10 lctrl 0.347332437203
+helus SNARC line dot DC 0 down 40 lctrl 0.394322362728
+helus SNARC line dot DC 0 down 40 lctrl 0.354343654646
+helus SNARC line dot DC 0 down 5 lctrl 0.383291086619
+helus SNARC line dot DC 0 down 15 lctrl 0.38297226766
+helus SNARC line dot DC 0 down 10 lctrl 0.371017431462
+helus SNARC line dot DC 0 down 40 lctrl 0.38587523505
+helus SNARC line dot DC 0 up 10 num_decimal 0.44378059794
+helus SNARC line dot DC 0 up 15 num_decimal 0.367711653264
+helus SNARC line dot DC 0 down 40 lctrl 0.410634624714
+helus SNARC line dot DC 0 up 15 num_decimal 0.439610403904
+helus SNARC line dot DC 0 down 25 lctrl 0.391191917472
+helus SNARC line dot DC 0 down 10 lctrl 0.531563602301
+helus SNARC line dot DC 0 up 35 num_decimal 0.478717696853
+helus SNARC line dot DC 0 up 5 lctrl 0.367544719513
+helus SNARC line dot DC 0 up 20 num_decimal 0.563009790989
+helus SNARC line dot DC 0 up 15 num_decimal 0.455106195412
+helus SNARC line dot DC 0 up 45 num_decimal 0.3662981409
+helus SNARC line dot DC 0 down 45 lctrl 0.566142686002
+helus SNARC line dot DC 0 down 15 lctrl 0.446965987852
+helus SNARC line dot DC 0 up 45 num_decimal 0.42993034629
+helus SNARC line dot DC 0 up 25 num_decimal 0.534380128083
+helus SNARC line dot DC 0 down 20 lctrl 0.611518918653
+helus SNARC line dot DC 0 up 25 num_decimal 0.423355186358
+helus SNARC line dot DC 0 up 40 num_decimal 0.488383055897
+helus SNARC line dot DC 0 down 30 lctrl 0.466978789627
+helus SNARC line dot DC 0 up 25 num_decimal 0.535031764652
+helus SNARC line dot DC 0 up 30 num_decimal 0.562929298845
+helus SNARC line dot DC 0 down 15 lctrl 0.439313632814
+helus SNARC line dot DC 0 up 5 num_decimal 0.388914339186
+helus SNARC line dot DC 0 down 15 lctrl 0.439113102359
+helus SNARC line dot DC 0 down 40 lctrl 0.466303355381
+helus SNARC line dot DC 0 up 20 num_decimal 0.370940438937
+helus SNARC line dot DC 0 down 45 lctrl 1.07757554803
+helus SNARC line dot DC 0 up 20 num_decimal 0.818734796165
+helus SNARC line dot DC 0 down 25 lctrl 1.10245112638
+helus SNARC line dot DC 0 down 20 lctrl 1.8754544745
+helus SNARC line dot DC 0 up 45 num_decimal 0.46271340485
+helus SNARC line dot DC 0 up 20 num_decimal 0.467352203268
+helus SNARC line dot DC 0 down 40 lctrl 0.418664942961
+helus SNARC line dot DC 0 down 35 lctrl 0.414729926037
+helus SNARC line dot DC 0 up 35 num_decimal 0.438689993549
+helus SNARC line dot DC 0 up 35 num_decimal 0.390427241888
+helus SNARC line dot DC 0 down 25 lctrl 0.454798925319
+helus SNARC line dot DC 0 up 5 num_decimal 0.439386075741
+helus SNARC line dot DC 0 down 40 lctrl 0.482292248867
+helus SNARC line dot DC 0 down 10 lctrl 0.395092987688
+helus SNARC line dot DC 0 down 45 lctrl 0.413577488245
+helus SNARC line dot DC 0 down 40 lctrl 0.417630793643
+helus SNARC line dot DC 0 up 25 num_decimal 0.430455995083
+helus SNARC line dot DC 0 up 45 num_decimal 0.510847019061
+helus SNARC line dot DC 0 up 15 num_decimal 0.375677227799
+helus SNARC line dot DC 0 down 30 lctrl 0.395089838014
+helus SNARC line dot DC 0 down 5 lctrl 0.391707767238
+helus SNARC line dot DC 0 down 35 lctrl 0.374953498278
+helus SNARC line dot DC 0 down 25 lctrl 0.367046717991
+helus SNARC line dot DC 0 down 40 lctrl 0.43463003877
+helus SNARC line dot DC 0 up 30 num_decimal 0.394764719676
+helus SNARC line dot DC 0 down 35 lctrl 0.54254413335
+helus SNARC line dot DC 0 down 40 lctrl 0.354197018896
+helus SNARC line dot DC 0 down 5 lctrl 0.463253402297
+helus SNARC line dot DC 0 down 45 lctrl 0.390192414779
+helus SNARC line dot DC 0 up 20 num_decimal 0.402407975576
+helus SNARC line dot DC 0 down 10 lctrl 0.410953093728
+helus SNARC line dot DC 0 down 45 lctrl 0.374714121572
+helus SNARC line dot DC 0 down 30 lctrl 0.433312067064
+helus SNARC line dot DC 0 up 40 num_decimal 0.482879141724
+helus SNARC line dot DC 0 down 25 lctrl 0.423339437897
+helus SNARC line dot DC 0 down 25 lctrl 0.391169519658
+helus SNARC line dot DC 0 up 35 num_decimal 0.518742950371
+helus SNARC line dot DC 0 up 5 num_decimal 0.351687763177
+helus SNARC line dot DC 0 up 25 num_decimal 0.42307976319
+helus SNARC line dot DC 0 up 10 num_decimal 0.371395744616
+helus SNARC line dot DC 0 down 25 lctrl 0.406749652902
+helus SNARC line dot DC 0 up 20 num_decimal 0.410992989811
+helus SNARC line dot DC 0 up 25 num_decimal 0.430671924114
+helus SNARC line dot DC 0 up 30 num_decimal 0.410549583001
+helus SNARC line dot DC 0 up 20 num_decimal 0.394798666355
+helus SNARC line dot DC 0 up 40 num_decimal 0.386231850309
+helus SNARC line dot DC 0 down 30 lctrl 0.522286705382
+helus SNARC line dot DC 0 down 25 lctrl 0.463382889662
+helus SNARC line dot DC 0 down 5 lctrl 0.559949688904
+helus SNARC line dot DC 0 down 5 lctrl 0.447936093435
+helus SNARC line dot DC 0 down 25 lctrl 0.399145243195
+{'delay': u'0', 'dateStr': u'05_18_1338', 'task': u'line', 'participant': u'helus', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+helus SNARC line arabic CD 0 up 4 lctrl 0.691110620392
+helus SNARC line arabic CD 0 down 5 num_decimal 0.494027306442
+helus SNARC line arabic CD 0 down 8 num_decimal 0.428768109443
+helus SNARC line arabic CD 0 up 4 lctrl 0.364625653718
+helus SNARC line arabic CD 0 down 6 num_decimal 0.555181053118
+helus SNARC line arabic CD 0 down 3 num_decimal 0.42134393219
+helus SNARC line arabic CD 0 up 6 lctrl 0.445336196542
+helus SNARC line arabic CD 0 down 3 num_decimal 0.394558589731
+helus SNARC line arabic CD 0 up 8 lctrl 0.446506132605
+helus SNARC line arabic CD 0 up 7 lctrl 0.464582572866
+helus SNARC line arabic CD 0 up 8 lctrl 0.385445476888
+helus SNARC line arabic CD 0 down 4 num_decimal 0.365097057802
+helus SNARC line arabic CD 0 down 9 num_decimal 0.363974367094
+helus SNARC line arabic CD 0 down 9 num_decimal 0.355734419252
+helus SNARC line arabic CD 0 down 9 num_decimal 0.350568572147
+helus SNARC line arabic CD 0 up 4 lctrl 0.409301604494
+helus SNARC line arabic CD 0 down 4 lctrl 0.293678460381
+helus SNARC line arabic CD 0 up 2 lctrl 0.882262711733
+helus SNARC line arabic CD 0 up 7 lctrl 0.44846104231
+helus SNARC line arabic CD 0 up 2 lctrl 0.504708616616
+helus SNARC line arabic CD 0 down 3 num_decimal 0.416659638169
+helus SNARC line arabic CD 0 down 3 num_decimal 0.392626777786
+helus SNARC line arabic CD 0 down 3 num_decimal 0.3686009167
+helus SNARC line arabic CD 0 down 9 num_decimal 0.376103136368
+helus SNARC line arabic CD 0 up 1 lctrl 0.437674042449
+helus SNARC line arabic CD 0 down 8 num_decimal 0.352335200179
+helus SNARC line arabic CD 0 up 6 lctrl 0.385247746133
+helus SNARC line arabic CD 0 up 9 lctrl 0.44896534321
+helus SNARC line arabic CD 0 up 6 lctrl 0.393224869564
+helus SNARC line arabic CD 0 down 4 num_decimal 0.369076870353
+helus SNARC line arabic CD 0 up 8 lctrl 0.369030324888
+helus SNARC line arabic CD 0 down 7 num_decimal 0.496953721566
+helus SNARC line arabic CD 0 up 2 lctrl 0.392982693127
+helus SNARC line arabic CD 0 up 5 lctrl 0.344743389258
+helus SNARC line arabic CD 0 down 5 lctrl 0.36877519975
+helus SNARC line arabic CD 0 up 9 lctrl 0.472727679939
+helus SNARC line arabic CD 0 down 1 num_decimal 0.534720294992
+helus SNARC line arabic CD 0 up 2 lctrl 0.480560617434
+helus SNARC line arabic CD 0 up 5 lctrl 0.728502380283
+helus SNARC line arabic CD 0 up 6 lctrl 0.40040407065
+helus SNARC line arabic CD 0 down 9 num_decimal 0.34435352718
+helus SNARC line arabic CD 0 down 7 num_decimal 0.368321293936
+helus SNARC line arabic CD 0 up 8 lctrl 0.37723352632
+helus SNARC line arabic CD 0 down 7 num_decimal 0.345322582842
+helus SNARC line arabic CD 0 up 9 lctrl 0.569126845512
+helus SNARC line arabic CD 0 down 3 num_decimal 0.384775992046
+helus SNARC line arabic CD 0 up 5 lctrl 0.376965102419
+helus SNARC line arabic CD 0 down 1 num_decimal 0.448711617908
+helus SNARC line arabic CD 0 up 1 lctrl 0.360819424212
+helus SNARC line arabic CD 0 up 6 lctrl 0.432804616459
+helus SNARC line arabic CD 0 up 8 lctrl 0.432665330038
+helus SNARC line arabic CD 0 up 4 lctrl 0.400644497247
+helus SNARC line arabic CD 0 down 4 num_decimal 0.400667595008
+helus SNARC line arabic CD 0 down 1 num_decimal 0.336514290335
+helus SNARC line arabic CD 0 up 7 lctrl 0.368190406647
+helus SNARC line arabic CD 0 up 1 lctrl 0.360399115161
+helus SNARC line arabic CD 0 down 7 num_decimal 0.384368981671
+helus SNARC line arabic CD 0 down 7 num_decimal 0.392382851511
+helus SNARC line arabic CD 0 up 6 lctrl 0.361242533021
+helus SNARC line arabic CD 0 up 9 lctrl 0.289195396821
+helus SNARC line arabic CD 0 up 8 lctrl 0.337179225608
+helus SNARC line arabic CD 0 up 7 lctrl 0.417036551487
+helus SNARC line arabic CD 0 up 7 lctrl 0.320966703905
+helus SNARC line arabic CD 0 down 1 num_decimal 0.432652031333
+helus SNARC line arabic CD 0 down 2 num_decimal 0.384876082331
+helus SNARC line arabic CD 0 up 2 lctrl 0.552782386658
+helus SNARC line arabic CD 0 down 1 num_decimal 0.336745617824
+helus SNARC line arabic CD 0 up 2 lctrl 0.360644441273
+helus SNARC line arabic CD 0 down 3 num_decimal 0.528660984855
+helus SNARC line arabic CD 0 up 8 lctrl 0.728511479392
+helus SNARC line arabic CD 0 down 8 num_decimal 0.392493090796
+helus SNARC line arabic CD 0 down 9 num_decimal 0.552424021531
+helus SNARC line arabic CD 0 down 4 num_decimal 0.552000212774
+helus SNARC line arabic CD 0 down 5 num_decimal 0.393277014489
+helus SNARC line arabic CD 0 down 7 num_decimal 0.601257917529
+helus SNARC line arabic CD 0 up 2 lctrl 0.393158725987
+helus SNARC line arabic CD 0 down 9 num_decimal 0.376996599371
+helus SNARC line arabic CD 0 up 7 lctrl 0.288996616175
+helus SNARC line arabic CD 0 down 2 num_decimal 0.38496077407
+helus SNARC line arabic CD 0 up 3 lctrl 0.536849837663
+helus SNARC line arabic CD 0 up 6 lctrl 0.488807564572
+helus SNARC line arabic CD 0 down 9 num_decimal 0.408414790814
+helus SNARC line arabic CD 0 down 2 num_decimal 0.528651185799
+helus SNARC line arabic CD 0 up 4 lctrl 0.376602187782
+helus SNARC line arabic CD 0 down 9 num_decimal 0.360561149369
+helus SNARC line arabic CD 0 up 1 lctrl 0.592428277101
+helus SNARC line arabic CD 0 up 6 lctrl 0.400417369383
+helus SNARC line arabic CD 0 up 3 lctrl 0.512337173976
+helus SNARC line arabic CD 0 down 4 num_decimal 0.441299339494
+helus SNARC line arabic CD 0 down 6 lctrl 0.377283921407
+helus SNARC line arabic CD 0 down 5 lctrl 0.415919810184
+helus SNARC line arabic CD 0 down 5 num_decimal 0.456077700859
+helus SNARC line arabic CD 0 up 8 lctrl 0.425024873839
+helus SNARC line arabic CD 0 down 1 num_decimal 0.824939342157
+helus SNARC line arabic CD 0 up 8 lctrl 0.50483530428
+helus SNARC line arabic CD 0 up 5 lctrl 0.664650746272
+helus SNARC line arabic CD 0 up 7 lctrl 0.400715540338
+helus SNARC line arabic CD 0 up 1 lctrl 0.54460263293
+helus SNARC line arabic CD 0 down 7 num_decimal 0.384548864153
+helus SNARC line arabic CD 0 down 3 num_decimal 0.376125184208
+helus SNARC line arabic CD 0 up 1 lctrl 0.37633376391
+helus SNARC line arabic CD 0 down 7 num_decimal 0.416397863679
+helus SNARC line arabic CD 0 up 8 lctrl 0.504301256267
+helus SNARC line arabic CD 0 down 5 num_decimal 0.449289411656
+helus SNARC line arabic CD 0 down 4 lctrl 0.489173978916
+helus SNARC line arabic CD 0 down 1 num_decimal 0.648163151316
+helus SNARC line arabic CD 0 down 9 num_decimal 0.609078606212
+helus SNARC line arabic CD 0 down 5 num_decimal 0.457022958813
+helus SNARC line arabic CD 0 up 5 lctrl 0.440576659865
+helus SNARC line arabic CD 0 down 8 num_decimal 0.376800968428
+helus SNARC line arabic CD 0 up 9 lctrl 0.896801696363
+helus SNARC line arabic CD 0 up 8 lctrl 0.408087922639
+helus SNARC line arabic CD 0 up 2 lctrl 0.440590658487
+helus SNARC line arabic CD 0 down 5 num_decimal 0.50455043203
+helus SNARC line arabic CD 0 up 1 lctrl 0.424511123827
+helus SNARC line arabic CD 0 down 9 num_decimal 0.448455442878
+helus SNARC line arabic CD 0 down 6 num_decimal 0.432377308054
+helus SNARC line arabic CD 0 up 7 lctrl 0.407981533004
+helus SNARC line arabic CD 0 up 9 lctrl 0.513145245292
+helus SNARC line arabic CD 0 up 1 lctrl 0.425183058425
+helus SNARC line arabic CD 0 up 8 lctrl 0.449137876421
+helus SNARC line arabic CD 0 down 6 num_decimal 0.409035630379
+helus SNARC line arabic CD 0 down 8 num_decimal 0.481006824004
+helus SNARC line arabic CD 0 down 3 num_decimal 0.424911834823
+helus SNARC line arabic CD 0 up 6 lctrl 0.440793638729
+helus SNARC line arabic CD 0 down 9 num_decimal 0.432787118189
+helus SNARC line arabic CD 0 down 3 num_decimal 0.384382630349
+helus SNARC line arabic CD 0 up 6 lctrl 0.368647462194
+helus SNARC line arabic CD 0 up 3 lctrl 0.456505009235
+helus SNARC line arabic CD 0 down 4 num_decimal 0.352539230313
+helus SNARC line arabic CD 0 down 3 num_decimal 0.440479019395
+helus SNARC line arabic CD 0 up 5 lctrl 0.368304845528
+helus SNARC line arabic CD 0 down 5 num_decimal 0.376317315531
+helus SNARC line arabic CD 0 up 2 lctrl 0.368284197553
+helus SNARC line arabic CD 0 up 6 num_decimal 0.41697880713
+helus SNARC line arabic CD 0 down 7 num_decimal 0.647884578444
+helus SNARC line arabic CD 0 up 2 lctrl 0.457084552821
+helus SNARC line arabic CD 0 down 2 num_decimal 0.48902209368
+helus SNARC line arabic CD 0 up 9 lctrl 0.392883652792
+helus SNARC line arabic CD 0 down 5 num_decimal 1.0408350747
+helus SNARC line arabic CD 0 up 3 lctrl 0.408774205833
+helus SNARC line arabic CD 0 down 7 num_decimal 0.416712833015
+helus SNARC line arabic CD 0 up 8 lctrl 0.312621416291
+helus SNARC line arabic CD 0 down 4 lctrl 0.375467598235
+helus SNARC line arabic CD 0 down 6 num_decimal 0.559432789218
+helus SNARC line arabic CD 0 down 2 num_decimal 0.416455258062
+helus SNARC line arabic CD 0 down 2 num_decimal 0.464395691088
+helus SNARC line arabic CD 0 down 5 num_decimal 0.424317592668
+helus SNARC line arabic CD 0 up 3 lctrl 0.409184015938
+helus SNARC line arabic CD 0 up 8 lctrl 0.368222603545
+helus SNARC line arabic CD 0 down 7 num_decimal 0.513262833847
+helus SNARC line arabic CD 0 down 2 num_decimal 0.368771700072
+helus SNARC line arabic CD 0 down 3 num_decimal 0.417040751083
+helus SNARC line arabic CD 0 down 4 num_decimal 0.804945788521
+helus SNARC line arabic CD 0 down 5 num_decimal 0.432853961654
+helus SNARC line arabic CD 0 up 1 lctrl 0.392803160619
+helus SNARC line arabic CD 0 down 1 num_decimal 0.408762306994
+helus SNARC line arabic CD 0 down 9 num_decimal 0.44069144869
+helus SNARC line arabic CD 0 up 1 lctrl 0.400588852674
+helus SNARC line arabic CD 0 up 6 lctrl 0.5925535649
+helus SNARC line arabic CD 0 down 6 num_decimal 0.448224465334
+helus SNARC line arabic CD 0 down 5 num_decimal 0.360427462409
+helus SNARC line arabic CD 0 down 6 num_decimal 0.368392336997
+helus SNARC line arabic CD 0 down 9 num_decimal 0.368341591937
+helus SNARC line arabic CD 0 up 7 lctrl 0.401251338189
+helus SNARC line arabic CD 0 up 4 lctrl 0.401190794073
+helus SNARC line arabic CD 0 up 4 lctrl 0.457026458462
+helus SNARC line arabic CD 0 down 5 num_decimal 0.417000504996
+helus SNARC line arabic CD 0 down 8 num_decimal 0.40071204069
+helus SNARC line arabic CD 0 down 4 num_decimal 0.6009216003
+helus SNARC line arabic CD 0 up 3 lctrl 0.456807729788
+helus SNARC line arabic CD 0 down 7 num_decimal 0.440743243671
+helus SNARC line arabic CD 0 up 9 num_decimal 0.400691042742
+helus SNARC line arabic CD 0 down 2 num_decimal 0.520646065095
+helus SNARC line arabic CD 0 up 4 lctrl 0.384503368579
+helus SNARC line arabic CD 0 up 4 lctrl 0.392389150918
+helus SNARC line arabic CD 0 up 8 lctrl 0.400393571705
+helus SNARC line arabic CD 0 up 9 lctrl 0.400078602339
+helus SNARC line arabic CD 0 down 2 num_decimal 0.423826590471
+helus SNARC line arabic CD 0 up 3 lctrl 0.393190222938
+helus SNARC line arabic CD 0 down 4 num_decimal 0.37724822489
+helus SNARC line arabic CD 0 down 8 num_decimal 0.825152821373
+helus SNARC line arabic CD 0 down 5 num_decimal 0.417048450327
+helus SNARC line arabic CD 0 down 2 num_decimal 0.368983079505
+helus SNARC line arabic CD 0 up 1 lctrl 0.424586716486
+helus SNARC line arabic CD 0 down 8 num_decimal 0.520842046011
+helus SNARC line arabic CD 0 down 8 num_decimal 0.408464835928
+helus SNARC line arabic CD 0 down 5 num_decimal 0.504677469668
+helus SNARC line arabic CD 0 up 9 lctrl 0.312428935023
+helus SNARC line arabic CD 0 up 5 lctrl 0.384558313235
+helus SNARC line arabic CD 0 down 7 num_decimal 0.392468243197
+helus SNARC line arabic CD 0 down 7 num_decimal 0.352407993079
+helus SNARC line arabic CD 0 up 6 lctrl 0.360267177981
+helus SNARC line arabic CD 0 up 6 lctrl 0.29632980231
+helus SNARC line arabic CD 0 down 2 num_decimal 0.345183646394
+helus SNARC line arabic CD 0 down 3 num_decimal 0.320974753122
+helus SNARC line arabic CD 0 down 8 num_decimal 0.769125725608
+helus SNARC line arabic CD 0 up 9 lctrl 0.368984829343
+helus SNARC line arabic CD 0 up 8 lctrl 0.361013305373
+helus SNARC line arabic CD 0 up 6 lctrl 0.416878716846
+helus SNARC line arabic CD 0 up 2 lctrl 0.392892401927
+helus SNARC line arabic CD 0 down 7 num_decimal 0.392807360186
+helus SNARC line arabic CD 0 down 3 num_decimal 0.528758625354
+helus SNARC line arabic CD 0 down 7 num_decimal 0.464724659047
+helus SNARC line arabic CD 0 down 3 num_decimal 0.408328699181
+helus SNARC line arabic CD 0 down 4 num_decimal 0.416536800127
+helus SNARC line arabic CD 0 up 3 lctrl 0.328509169631
+helus SNARC line arabic CD 0 up 2 lctrl 0.376398857596
+helus SNARC line arabic CD 0 up 7 lctrl 0.384301088285
+helus SNARC line arabic CD 0 down 3 num_decimal 0.496313283918
+helus SNARC line arabic CD 0 up 6 lctrl 0.50426835948
+helus SNARC line arabic CD 0 up 9 lctrl 0.497219695651
+helus SNARC line arabic CD 0 down 5 num_decimal 0.393096782005
+helus SNARC line arabic CD 0 up 4 lctrl 0.600628678803
+helus SNARC line arabic CD 0 down 3 num_decimal 0.816974817513
+helus SNARC line arabic CD 0 up 3 lctrl 0.528846116853
+helus SNARC line arabic CD 0 down 5 num_decimal 0.632846192428
+helus SNARC line arabic CD 0 down 3 num_decimal 0.520744755486
+helus SNARC line arabic CD 0 down 1 num_decimal 0.416620791977
+helus SNARC line arabic CD 0 up 2 lctrl 0.384619907272
+helus SNARC line arabic CD 0 up 5 lctrl 0.600504090922
+helus SNARC line arabic CD 0 up 8 lctrl 0.408480934391
+helus SNARC line arabic CD 0 down 2 lctrl 0.464115718351
+helus SNARC line arabic CD 0 down 8 num_decimal 0.624322072254
+helus SNARC line arabic CD 0 up 5 lctrl 0.545233971468
+helus SNARC line arabic CD 0 up 7 lctrl 0.601176375494
+helus SNARC line arabic CD 0 up 2 lctrl 0.697133534064
+helus SNARC line arabic CD 0 up 9 lctrl 0.456949465966
+helus SNARC line arabic CD 0 down 4 num_decimal 0.560960390489
+helus SNARC line arabic CD 0 down 7 num_decimal 0.536852987367
+helus SNARC line arabic CD 0 down 1 num_decimal 0.536837938824
+helus SNARC line arabic CD 0 up 9 lctrl 0.600491142191
+helus SNARC line arabic CD 0 up 9 lctrl 0.376638234273
+helus SNARC line arabic CD 0 up 3 lctrl 0.448562532431
+helus SNARC line arabic CD 0 up 1 lctrl 0.520523927
+helus SNARC line arabic CD 0 down 9 num_decimal 0.456550154835
+helus SNARC line arabic CD 0 up 7 lctrl 0.752359207836
+helus SNARC line arabic CD 0 down 2 num_decimal 0.543789312098
+helus SNARC line arabic CD 0 down 8 num_decimal 0.497253992333
+helus SNARC line arabic CD 0 down 1 num_decimal 0.401269186434
+helus SNARC line arabic CD 0 up 5 lctrl 0.432883708767
+helus SNARC line arabic CD 0 down 4 lctrl 0.408964237344
+helus SNARC line arabic CD 0 up 3 lctrl 0.368024172843
+helus SNARC line arabic CD 0 up 8 lctrl 0.592917879432
+helus SNARC line arabic CD 0 up 4 lctrl 0.576871941506
+helus SNARC line arabic CD 0 down 7 num_decimal 0.488698725181
+helus SNARC line arabic CD 0 down 4 num_decimal 0.552698044834
+helus SNARC line arabic CD 0 up 9 lctrl 0.608522510331
+helus SNARC line arabic CD 0 up 2 lctrl 0.368615265295
+helus SNARC line arabic CD 0 up 6 lctrl 0.560149519442
+helus SNARC line arabic CD 0 down 2 num_decimal 0.544476645184
+helus SNARC line arabic CD 0 up 7 lctrl 0.832342171489
+helus SNARC line arabic CD 0 down 3 num_decimal 0.600305310276
+helus SNARC line arabic CD 0 up 4 lctrl 0.561197667383
+helus SNARC line arabic CD 0 down 1 num_decimal 0.465164566238
+helus SNARC line arabic CD 0 up 1 lctrl 0.537056317582
+helus SNARC line arabic CD 0 up 1 lctrl 0.664882073732
+helus SNARC line arabic CD 0 down 6 num_decimal 0.424887687201
+helus SNARC line arabic CD 0 up 7 lctrl 0.447869949858
+helus SNARC line arabic CD 0 down 8 num_decimal 0.496814435115
+helus SNARC line arabic CD 0 down 2 num_decimal 0.512734035321
+helus SNARC line arabic CD 0 down 6 num_decimal 0.400686143228
+helus SNARC line arabic CD 0 up 7 lctrl 0.44059555803
+helus SNARC line arabic CD 0 up 3 lctrl 0.464512229752
+helus SNARC line arabic CD 0 up 9 lctrl 0.464499280992
+helus SNARC line arabic CD 0 down 5 num_decimal 0.528346365463
+helus SNARC line arabic CD 0 up 5 lctrl 0.57636344101
+helus SNARC line arabic CD 0 down 8 num_decimal 0.5450313412
+helus SNARC line arabic CD 0 down 1 num_decimal 0.529231429333
+helus SNARC line arabic CD 0 down 2 num_decimal 0.481152759778
+helus SNARC line arabic CD 0 up 3 lctrl 0.552990266413
+helus SNARC line arabic CD 0 up 5 lctrl 0.400964016153
+helus SNARC line arabic CD 0 up 5 lctrl 0.592910180188
+helus SNARC line arabic CD 0 down 1 num_decimal 0.600809261232
+helus SNARC line arabic CD 0 down 6 num_decimal 0.400756136398
+helus SNARC line arabic CD 0 down 9 num_decimal 0.488598284981
+helus SNARC line arabic CD 0 down 6 num_decimal 0.488358208328
+helus SNARC line arabic CD 0 up 1 lctrl 0.552426121314
+helus SNARC line arabic CD 0 up 9 lctrl 0.560503335
+helus SNARC line arabic CD 0 up 5 lctrl 0.544411901501
+helus SNARC line arabic CD 0 up 7 lctrl 0.584318866546
+helus SNARC line arabic CD 0 down 5 num_decimal 0.584339864523
+helus SNARC line arabic CD 0 up 8 lctrl 0.520187609713
+helus SNARC line arabic CD 0 down 5 num_decimal 0.425188657886
+helus SNARC line arabic CD 0 down 9 num_decimal 0.529080244043
+helus SNARC line arabic CD 0 up 9 lctrl 0.504692518181
+helus SNARC line arabic CD 0 down 7 num_decimal 0.920917848649
+helus SNARC line arabic CD 0 down 8 num_decimal 0.432836813357
+helus SNARC line arabic CD 0 up 6 lctrl 0.512750833703
+helus SNARC line arabic CD 0 up 6 lctrl 0.496683547855
+helus SNARC line arabic CD 0 down 7 lctrl 0.376615136513
+helus SNARC line arabic CD 0 up 5 lctrl 0.64855721296
+helus SNARC line arabic CD 0 up 4 lctrl 0.464509430021
+helus SNARC line arabic CD 0 up 1 lctrl 0.440420225088
+helus SNARC line arabic CD 0 up 2 lctrl 0.46401422823
+helus SNARC line arabic CD 0 up 5 lctrl 0.457235388138
+helus SNARC line arabic CD 0 down 2 num_decimal 0.529661537439
+helus SNARC line arabic CD 0 up 1 lctrl 0.496172247629
+helus SNARC line arabic CD 0 up 2 lctrl 0.6170959757
+helus SNARC line arabic CD 0 down 8 num_decimal 0.441000118648
+helus SNARC line arabic CD 0 up 8 lctrl 0.624841771642
+helus SNARC line arabic CD 0 down 6 num_decimal 0.448868052714
+helus SNARC line arabic CD 0 down 8 num_decimal 0.488825062872
+helus SNARC line arabic CD 0 up 3 lctrl 0.680371915776
+helus SNARC line arabic CD 0 up 2 lctrl 0.472628639603
+helus SNARC line arabic CD 0 down 1 num_decimal 0.424616113596
+helus SNARC line arabic CD 0 down 4 num_decimal 0.520485780726
+helus SNARC line arabic CD 0 up 6 lctrl 0.488436950662
+helus SNARC line arabic CD 0 up 3 lctrl 0.480318091024
+helus SNARC line arabic CD 0 up 4 lctrl 0.480291843589
+helus SNARC line arabic CD 0 up 5 lctrl 0.441203448863
+helus SNARC line arabic CD 0 down 8 num_decimal 0.505246164277
+helus SNARC line arabic CD 0 up 9 lctrl 0.456823128246
+helus SNARC line arabic CD 0 down 1 lctrl 0.505019036413
+helus SNARC line arabic CD 0 down 7 num_decimal 0.640039742109
+helus SNARC line arabic CD 0 up 6 lctrl 0.496790637437
+helus SNARC line arabic CD 0 down 6 num_decimal 0.520837846416
+helus SNARC line arabic CD 0 down 3 num_decimal 0.568771280115
+helus SNARC line arabic CD 0 down 4 num_decimal 0.536690953129
+helus SNARC line arabic CD 0 up 6 lctrl 0.424786547024
+helus SNARC line arabic CD 0 down 6 num_decimal 0.472588743491
+helus SNARC line arabic CD 0 up 9 lctrl 0.472169134329
+helus SNARC line arabic CD 0 up 1 lctrl 0.456357323623
+helus SNARC line arabic CD 0 down 4 num_decimal 0.440339032997
+helus SNARC line arabic CD 0 up 6 lctrl 0.36028922585
+helus SNARC line arabic CD 0 up 6 lctrl 0.408195362164
+helus SNARC line arabic CD 0 down 1 num_decimal 0.433195178455
+helus SNARC line arabic CD 0 down 1 num_decimal 0.489103985747
+helus SNARC line arabic CD 0 up 4 lctrl 0.681019702752
+helus SNARC line arabic CD 0 down 4 num_decimal 0.472957257618
+helus SNARC line arabic CD 0 down 9 num_decimal 0.560572628252
+helus SNARC line arabic CD 0 up 2 lctrl 0.472778774973
+helus SNARC line arabic CD 0 up 4 lctrl 0.424698705581
+helus SNARC line arabic CD 0 down 1 num_decimal 0.408653817547
+helus SNARC line arabic CD 0 down 5 num_decimal 0.584665682778
+helus SNARC line arabic CD 0 down 9 num_decimal 0.528525198082
+helus SNARC line arabic CD 0 up 1 lctrl 0.384451923601
+helus SNARC line arabic CD 0 down 3 num_decimal 0.544405252149
+helus SNARC line arabic CD 0 down 3 num_decimal 0.624345519958
+helus SNARC line arabic CD 0 down 3 num_decimal 0.352946590661
+helus SNARC line arabic CD 0 up 8 lctrl 0.401163146773
+helus SNARC line arabic CD 0 up 4 lctrl 0.433133234474
+helus SNARC line arabic CD 0 up 7 num_decimal 0.50505473293
+helus SNARC line arabic CD 0 up 2 lctrl 0.5999959404
+helus SNARC line arabic CD 0 down 4 num_decimal 0.536908981914
+helus SNARC line arabic CD 0 down 8 num_decimal 0.568885718996
+helus SNARC line arabic CD 0 down 4 num_decimal 0.416780376429
+helus SNARC line arabic CD 0 up 2 lctrl 0.616768057633
+helus SNARC line arabic CD 0 up 2 lctrl 0.344248537411
+helus SNARC line arabic CD 0 up 6 lctrl 0.648546014039
+helus SNARC line arabic CD 0 down 5 num_decimal 0.552504863648
+helus SNARC line arabic CD 0 up 3 lctrl 0.504407645902
+helus SNARC line arabic CD 0 up 1 lctrl 0.688330141042
+helus SNARC line arabic CD 0 down 3 num_decimal 0.448272410693
+helus SNARC line arabic CD 0 down 7 num_decimal 0.729207211669
+helus SNARC line arabic CD 0 down 4 num_decimal 0.393195122451
+helus SNARC line arabic CD 0 up 1 lctrl 0.465066225792
+helus SNARC line arabic CD 0 up 7 lctrl 0.536434778071
+helus SNARC line arabic CD 0 down 2 num_decimal 0.696936153283
+helus SNARC line arabic CD 0 down 6 num_decimal 0.640861112188
+{'delay': u'0', 'dateStr': u'05_18_1347', 'task': u'line', 'participant': u'helus', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+helus SNARC line dot CD 0 down 20 num_decimal 0.533797084878
+helus SNARC line dot CD 0 down 30 num_decimal 0.436392467207
+helus SNARC line dot CD 0 down 35 num_decimal 0.414195878024
+helus SNARC line dot CD 0 up 35 lctrl 0.322900265659
+helus SNARC line dot CD 0 down 40 num_decimal 0.377965305088
+helus SNARC line dot CD 0 up 25 lctrl 0.362527957914
+helus SNARC line dot CD 0 up 5 lctrl 0.342729335302
+helus SNARC line dot CD 0 up 5 lctrl 0.353545032383
+helus SNARC line dot CD 0 down 15 num_decimal 0.332141466031
+helus SNARC line dot CD 0 up 35 lctrl 0.390404144156
+helus SNARC line dot CD 0 up 30 lctrl 0.366750296875
+helus SNARC line dot CD 0 down 45 num_decimal 0.414267271088
+helus SNARC line dot CD 0 down 5 num_decimal 0.340735229431
+helus SNARC line dot CD 0 down 40 num_decimal 0.498694802081
+helus SNARC line dot CD 0 down 40 num_decimal 0.378235128825
+helus SNARC line dot CD 0 up 10 lctrl 0.359276424453
+helus SNARC line dot CD 0 down 35 num_decimal 0.349946682691
+helus SNARC line dot CD 0 down 45 num_decimal 0.321288322593
+helus SNARC line dot CD 0 down 25 num_decimal 0.348469476507
+helus SNARC line dot CD 0 down 5 num_decimal 0.328306889336
+helus SNARC line dot CD 0 up 40 lctrl 0.381630148302
+helus SNARC line dot CD 0 down 35 num_decimal 0.398441111756
+helus SNARC line dot CD 0 down 5 num_decimal 0.411914100172
+helus SNARC line dot CD 0 down 25 num_decimal 0.447709315486
+helus SNARC line dot CD 0 down 15 num_decimal 0.333769507532
+helus SNARC line dot CD 0 up 35 lctrl 0.407743556163
+helus SNARC line dot CD 0 down 40 num_decimal 0.352687965846
+helus SNARC line dot CD 0 down 40 num_decimal 0.476085253118
+helus SNARC line dot CD 0 down 35 num_decimal 0.359107740864
+helus SNARC line dot CD 0 up 20 lctrl 0.390906695218
+helus SNARC line dot CD 0 up 15 lctrl 0.311710454989
+helus SNARC line dot CD 0 down 30 num_decimal 0.341300424421
+helus SNARC line dot CD 0 up 45 lctrl 0.404143106658
+helus SNARC line dot CD 0 down 35 num_decimal 0.385422729101
+helus SNARC line dot CD 0 down 10 num_decimal 0.402672199853
+helus SNARC line dot CD 0 up 10 lctrl 0.342923216434
+helus SNARC line dot CD 0 up 40 lctrl 0.360684337385
+helus SNARC line dot CD 0 up 40 lctrl 0.396943607542
+helus SNARC line dot CD 0 down 15 num_decimal 0.398538052337
+helus SNARC line dot CD 0 up 30 lctrl 0.438450616843
+helus SNARC line dot CD 0 down 45 num_decimal 0.407519577973
+helus SNARC line dot CD 0 up 10 lctrl 0.329723551404
+helus SNARC line dot CD 0 down 25 num_decimal 0.399788130628
+helus SNARC line dot CD 0 up 10 lctrl 0.560482687026
+helus SNARC line dot CD 0 down 20 num_decimal 0.45389286353
+helus SNARC line dot CD 0 down 20 num_decimal 0.406742653606
+helus SNARC line dot CD 0 down 10 num_decimal 0.403726997174
+helus SNARC line dot CD 0 up 5 lctrl 0.33221320904
+helus SNARC line dot CD 0 up 10 lctrl 0.370525379374
+helus SNARC line dot CD 0 up 30 lctrl 0.42959472895
+helus SNARC line dot CD 0 up 5 lctrl 0.423892734048
+helus SNARC line dot CD 0 down 45 num_decimal 0.331448883459
+helus SNARC line dot CD 0 up 30 lctrl 0.371097923606
+helus SNARC line dot CD 0 down 5 num_decimal 0.483859746251
+helus SNARC line dot CD 0 down 25 num_decimal 0.441881682811
+helus SNARC line dot CD 0 up 5 lctrl 0.367829241819
+helus SNARC line dot CD 0 down 15 num_decimal 0.378696383908
+helus SNARC line dot CD 0 down 10 num_decimal 0.378790874733
+helus SNARC line dot CD 0 down 15 lctrl 0.290411878406
+helus SNARC line dot CD 0 up 40 lctrl 0.468108479661
+helus SNARC line dot CD 0 up 30 lctrl 0.354211017548
+helus SNARC line dot CD 0 down 5 num_decimal 0.343153144058
+helus SNARC line dot CD 0 up 25 lctrl 0.446296153066
+helus SNARC line dot CD 0 up 45 lctrl 0.454581596481
+helus SNARC line dot CD 0 down 20 num_decimal 0.403461023088
+helus SNARC line dot CD 0 down 5 num_decimal 0.471814618853
+helus SNARC line dot CD 0 down 40 num_decimal 0.698850816872
+helus SNARC line dot CD 0 down 40 num_decimal 0.354756614455
+helus SNARC line dot CD 0 down 40 num_decimal 0.306470065145
+helus SNARC line dot CD 0 up 45 lctrl 0.302342566953
+helus SNARC line dot CD 0 up 45 lctrl 0.35830351914
+helus SNARC line dot CD 0 down 5 num_decimal 0.311394085787
+helus SNARC line dot CD 0 down 45 num_decimal 0.373992491834
+helus SNARC line dot CD 0 up 5 lctrl 0.311304494506
+helus SNARC line dot CD 0 up 10 lctrl 0.355090831901
+helus SNARC line dot CD 0 up 35 lctrl 0.382467266812
+helus SNARC line dot CD 0 down 25 num_decimal 0.412078584137
+helus SNARC line dot CD 0 up 30 lctrl 0.802146061062
+helus SNARC line dot CD 0 up 15 lctrl 0.407751955325
+helus SNARC line dot CD 0 down 5 num_decimal 0.383916825696
+helus SNARC line dot CD 0 up 25 num_decimal 0.351148115733
+helus SNARC line dot CD 0 up 5 lctrl 0.510326269723
+helus SNARC line dot CD 0 up 15 lctrl 0.335381100653
+helus SNARC line dot CD 0 down 25 num_decimal 0.454878017626
+helus SNARC line dot CD 0 down 40 num_decimal 0.418462312693
+helus SNARC line dot CD 0 down 40 num_decimal 0.522500534571
+helus SNARC line dot CD 0 up 25 lctrl 0.502864996117
+helus SNARC line dot CD 0 up 10 lctrl 0.339064142085
+helus SNARC line dot CD 0 down 10 num_decimal 0.363217390783
+helus SNARC line dot CD 0 down 25 num_decimal 0.366591412312
+helus SNARC line dot CD 0 down 45 num_decimal 0.379648991191
+helus SNARC line dot CD 0 down 20 num_decimal 0.386691005639
+helus SNARC line dot CD 0 up 20 lctrl 0.394615984143
+helus SNARC line dot CD 0 up 15 lctrl 0.455625544855
+helus SNARC line dot CD 0 down 5 num_decimal 0.447971439979
+helus SNARC line dot CD 0 down 20 num_decimal 0.387532323744
+helus SNARC line dot CD 0 up 15 lctrl 0.8795602748
+helus SNARC line dot CD 0 down 25 lctrl 0.518648459576
+helus SNARC line dot CD 0 down 45 num_decimal 0.629589059507
+helus SNARC line dot CD 0 up 35 lctrl 0.454617642972
+helus SNARC line dot CD 0 down 10 num_decimal 0.403332235583
+helus SNARC line dot CD 0 down 25 num_decimal 0.318820012879
+helus SNARC line dot CD 0 down 40 num_decimal 0.362399870355
+helus SNARC line dot CD 0 up 5 lctrl 0.303231830389
+helus SNARC line dot CD 0 up 25 lctrl 0.414091938146
+helus SNARC line dot CD 0 up 10 lctrl 0.330976429424
+helus SNARC line dot CD 0 up 25 lctrl 0.350588520232
+helus SNARC line dot CD 0 down 25 num_decimal 0.390666618623
+helus SNARC line dot CD 0 up 10 lctrl 0.291839739395
+helus SNARC line dot CD 0 down 10 num_decimal 0.323806677421
+helus SNARC line dot CD 0 up 20 lctrl 0.371410443186
+helus SNARC line dot CD 0 down 15 num_decimal 0.343614049169
+helus SNARC line dot CD 0 down 15 num_decimal 0.383514714864
+helus SNARC line dot CD 0 up 5 lctrl 0.359639339091
+helus SNARC line dot CD 0 down 10 num_decimal 0.355456896272
+helus SNARC line dot CD 0 up 45 num_decimal 0.3824273707
+helus SNARC line dot CD 0 up 15 lctrl 0.39111982449
+helus SNARC line dot CD 0 up 35 lctrl 0.566554245946
+helus SNARC line dot CD 0 down 45 num_decimal 0.390341850201
+helus SNARC line dot CD 0 up 35 lctrl 0.414432105055
+helus SNARC line dot CD 0 up 15 lctrl 0.382976117253
+helus SNARC line dot CD 0 down 5 num_decimal 0.38321654388
+helus SNARC line dot CD 0 up 15 lctrl 0.414814267831
+helus SNARC line dot CD 0 down 20 num_decimal 0.378661037365
+helus SNARC line dot CD 0 up 45 lctrl 0.390713164059
+helus SNARC line dot CD 0 down 35 num_decimal 0.430918650061
+helus SNARC line dot CD 0 down 35 lctrl 0.606994209142
+helus SNARC line dot CD 0 down 40 num_decimal 0.465628271078
+helus SNARC line dot CD 0 down 35 num_decimal 0.422826387861
+helus SNARC line dot CD 0 up 25 lctrl 0.382922572491
+helus SNARC line dot CD 0 down 15 num_decimal 0.422696900467
+helus SNARC line dot CD 0 down 5 num_decimal 0.463562422199
+helus SNARC line dot CD 0 up 45 lctrl 0.502257105283
+helus SNARC line dot CD 0 up 40 lctrl 0.442244247533
+helus SNARC line dot CD 0 down 5 num_decimal 0.623344267457
+helus SNARC line dot CD 0 down 10 num_decimal 0.363023509679
+helus SNARC line dot CD 0 down 35 num_decimal 0.398442511621
+helus SNARC line dot CD 0 down 5 num_decimal 0.439104003221
+helus SNARC line dot CD 0 up 35 lctrl 0.310239898157
+helus SNARC line dot CD 0 down 35 num_decimal 0.391060680238
+helus SNARC line dot CD 0 up 40 lctrl 0.393792864284
+helus SNARC line dot CD 0 up 40 lctrl 0.378869617038
+helus SNARC line dot CD 0 down 40 num_decimal 0.346736095235
+helus SNARC line dot CD 0 up 45 lctrl 0.350508727977
+helus SNARC line dot CD 0 up 35 lctrl 0.366745047359
+helus SNARC line dot CD 0 up 40 lctrl 0.330472128553
+helus SNARC line dot CD 0 up 15 lctrl 0.34327213245
+helus SNARC line dot CD 0 up 25 lctrl 0.310782695306
+helus SNARC line dot CD 0 up 40 lctrl 0.370304900804
+helus SNARC line dot CD 0 up 45 lctrl 0.326200094423
+helus SNARC line dot CD 0 down 30 num_decimal 0.378619041439
+helus SNARC line dot CD 0 down 30 num_decimal 0.394587286923
+helus SNARC line dot CD 0 down 30 num_decimal 0.338384858245
+helus SNARC line dot CD 0 up 25 lctrl 0.358582441986
+helus SNARC line dot CD 0 up 5 lctrl 0.3190495905
+helus SNARC line dot CD 0 down 10 num_decimal 0.379916365142
+helus SNARC line dot CD 0 up 35 lctrl 0.543010637921
+helus SNARC line dot CD 0 down 10 num_decimal 0.475490660989
+helus SNARC line dot CD 0 down 15 lctrl 0.407550724922
+helus SNARC line dot CD 0 down 25 num_decimal 0.470189027081
+helus SNARC line dot CD 0 down 5 num_decimal 0.375669878558
+helus SNARC line dot CD 0 up 45 lctrl 0.398399465805
+helus SNARC line dot CD 0 down 35 num_decimal 0.630551115843
+helus SNARC line dot CD 0 down 45 num_decimal 0.342267730244
+helus SNARC line dot CD 0 up 10 lctrl 0.347185101506
+helus SNARC line dot CD 0 up 25 lctrl 0.382741640089
+helus SNARC line dot CD 0 up 20 lctrl 0.378913712746
+helus SNARC line dot CD 0 down 15 num_decimal 0.551016458572
+helus SNARC line dot CD 0 down 10 num_decimal 0.458914874645
+helus SNARC line dot CD 0 up 30 lctrl 0.473983357719
+helus SNARC line dot CD 0 up 20 lctrl 0.346506867558
+helus SNARC line dot CD 0 down 45 num_decimal 0.53482878441
+helus SNARC line dot CD 0 up 20 lctrl 0.347485722275
+helus SNARC line dot CD 0 up 30 lctrl 0.467006086954
+helus SNARC line dot CD 0 down 40 num_decimal 0.402704746695
+helus SNARC line dot CD 0 down 45 num_decimal 0.366563065094
+helus SNARC line dot CD 0 down 20 num_decimal 0.379214333487
+helus SNARC line dot CD 0 up 5 lctrl 0.423522120138
+helus SNARC line dot CD 0 down 30 num_decimal 0.370734658965
+helus SNARC line dot CD 0 down 30 num_decimal 0.570692593086
+helus SNARC line dot CD 0 up 20 lctrl 0.38686808839
+helus SNARC line dot CD 0 down 25 num_decimal 0.342657592293
+helus SNARC line dot CD 0 down 25 num_decimal 0.35071730768
+helus SNARC line dot CD 0 down 5 num_decimal 0.367177605251
+helus SNARC line dot CD 0 up 35 lctrl 0.486306708044
+helus SNARC line dot CD 0 down 25 num_decimal 0.623586793808
+helus SNARC line dot CD 0 down 15 num_decimal 0.335705519072
+helus SNARC line dot CD 0 up 20 lctrl 0.37146993741
+helus SNARC line dot CD 0 down 15 num_decimal 0.35960609233
+helus SNARC line dot CD 0 up 35 lctrl 0.374996894039
+helus SNARC line dot CD 0 down 10 num_decimal 0.395522045932
+helus SNARC line dot CD 0 down 35 num_decimal 0.382826681831
+helus SNARC line dot CD 0 up 15 lctrl 0.383252240397
+helus SNARC line dot CD 0 up 15 lctrl 0.399194588419
+helus SNARC line dot CD 0 up 25 lctrl 0.438640648354
+helus SNARC line dot CD 0 down 5 num_decimal 0.431448148534
+helus SNARC line dot CD 0 down 15 num_decimal 0.390998736286
+helus SNARC line dot CD 0 down 20 num_decimal 0.418821027764
+helus SNARC line dot CD 0 up 25 lctrl 0.382682845811
+helus SNARC line dot CD 0 up 15 lctrl 0.374763466767
+helus SNARC line dot CD 0 down 30 num_decimal 1.27542598726
+helus SNARC line dot CD 0 down 5 num_decimal 0.359964107483
+helus SNARC line dot CD 0 down 30 num_decimal 0.467336454807
+helus SNARC line dot CD 0 up 15 lctrl 0.455485908431
+helus SNARC line dot CD 0 up 10 lctrl 0.339591190772
+helus SNARC line dot CD 0 up 40 lctrl 0.354667373147
+helus SNARC line dot CD 0 up 10 lctrl 0.299607583176
+helus SNARC line dot CD 0 down 40 num_decimal 0.354483641015
+helus SNARC line dot CD 0 up 20 lctrl 0.4190705535
+helus SNARC line dot CD 0 down 45 num_decimal 0.366178102558
+helus SNARC line dot CD 0 down 25 num_decimal 0.438815981266
+helus SNARC line dot CD 0 up 20 lctrl 0.434959356702
+helus SNARC line dot CD 0 down 25 num_decimal 0.406578519556
+helus SNARC line dot CD 0 up 40 lctrl 0.33811328467
+helus SNARC line dot CD 0 down 35 num_decimal 0.405935982126
+helus SNARC line dot CD 0 down 40 lctrl 0.866115283658
+helus SNARC line dot CD 0 down 30 num_decimal 0.570299581334
+helus SNARC line dot CD 0 up 20 lctrl 0.411537186854
+helus SNARC line dot CD 0 up 30 lctrl 0.610998869262
+helus SNARC line dot CD 0 down 35 num_decimal 0.710919042031
+helus SNARC line dot CD 0 down 40 num_decimal 0.3225712977
+helus SNARC line dot CD 0 down 30 num_decimal 0.330991128023
+helus SNARC line dot CD 0 up 45 lctrl 0.398484507517
+helus SNARC line dot CD 0 down 10 num_decimal 0.371378246346
+helus SNARC line dot CD 0 down 20 num_decimal 0.402952522563
+helus SNARC line dot CD 0 down 45 num_decimal 0.382331480039
+helus SNARC line dot CD 0 down 35 num_decimal 0.350459732756
+helus SNARC line dot CD 0 down 45 num_decimal 0.342064050055
+helus SNARC line dot CD 0 up 30 lctrl 0.386063516722
+helus SNARC line dot CD 0 down 5 num_decimal 0.375077386212
+helus SNARC line dot CD 0 up 10 lctrl 0.346869432251
+helus SNARC line dot CD 0 down 40 num_decimal 0.426922389102
+helus SNARC line dot CD 0 down 15 num_decimal 0.463680360728
+helus SNARC line dot CD 0 up 30 lctrl 0.387099415879
+helus SNARC line dot CD 0 up 35 lctrl 0.374777465389
+helus SNARC line dot CD 0 up 45 num_decimal 0.3425032573
+helus SNARC line dot CD 0 up 30 lctrl 0.433957754198
+helus SNARC line dot CD 0 up 30 lctrl 0.346868732333
+helus SNARC line dot CD 0 down 30 num_decimal 0.402721195103
+helus SNARC line dot CD 0 down 45 num_decimal 0.510181033867
+helus SNARC line dot CD 0 up 45 lctrl 0.390093374415
+helus SNARC line dot CD 0 up 20 lctrl 0.314795754617
+helus SNARC line dot CD 0 up 40 lctrl 0.309266292927
+helus SNARC line dot CD 0 up 5 lctrl 0.42320610091
+helus SNARC line dot CD 0 down 20 num_decimal 0.44254171857
+helus SNARC line dot CD 0 up 10 lctrl 0.610833685321
+helus SNARC line dot CD 0 up 30 lctrl 0.347263493924
+helus SNARC line dot CD 0 down 5 num_decimal 0.39192649597
+helus SNARC line dot CD 0 up 10 lctrl 0.427765107073
+helus SNARC line dot CD 0 down 10 num_decimal 0.41180141113
+helus SNARC line dot CD 0 up 15 lctrl 0.375536891486
+helus SNARC line dot CD 0 down 35 num_decimal 0.374764866632
+helus SNARC line dot CD 0 down 25 num_decimal 0.479073962139
+helus SNARC line dot CD 0 up 30 lctrl 0.506874905725
+helus SNARC line dot CD 0 up 40 lctrl 0.442551167653
+helus SNARC line dot CD 0 down 45 num_decimal 0.422258043196
+helus SNARC line dot CD 0 down 15 num_decimal 0.375071786752
+helus SNARC line dot CD 0 down 20 num_decimal 0.474801228091
+helus SNARC line dot CD 0 up 45 lctrl 0.534081607184
+helus SNARC line dot CD 0 down 35 num_decimal 0.486265412066
+helus SNARC line dot CD 0 up 10 lctrl 0.450919902971
+helus SNARC line dot CD 0 down 25 num_decimal 0.414269020926
+helus SNARC line dot CD 0 up 20 lctrl 0.387518675067
+helus SNARC line dot CD 0 up 5 lctrl 0.511966210091
+helus SNARC line dot CD 0 up 25 lctrl 0.383275338128
+helus SNARC line dot CD 0 up 15 lctrl 0.367537020269
+helus SNARC line dot CD 0 down 30 num_decimal 0.387079117849
+helus SNARC line dot CD 0 down 40 num_decimal 0.392265262955
+helus SNARC line dot CD 0 up 20 lctrl 0.515150550083
+helus SNARC line dot CD 0 down 35 num_decimal 0.494553305238
+helus SNARC line dot CD 0 down 40 num_decimal 0.730545831379
+helus SNARC line dot CD 0 down 25 num_decimal 0.390700565302
+helus SNARC line dot CD 0 down 40 num_decimal 0.482282449811
+helus SNARC line dot CD 0 up 25 lctrl 0.334707066242
+helus SNARC line dot CD 0 down 45 num_decimal 0.525756967545
+helus SNARC line dot CD 0 up 30 lctrl 0.394390606059
+helus SNARC line dot CD 0 down 20 num_decimal 0.403601009457
+helus SNARC line dot CD 0 up 35 lctrl 0.469989196543
+helus SNARC line dot CD 0 up 20 lctrl 0.355474044598
+helus SNARC line dot CD 0 down 40 num_decimal 0.362768734456
+helus SNARC line dot CD 0 down 15 num_decimal 0.359526650078
+helus SNARC line dot CD 0 down 10 lctrl 0.579446640884
+helus SNARC line dot CD 0 up 10 lctrl 0.570414370159
+helus SNARC line dot CD 0 down 10 num_decimal 0.475434666441
+helus SNARC line dot CD 0 up 30 lctrl 0.706687603961
+helus SNARC line dot CD 0 down 35 num_decimal 0.390728562576
+helus SNARC line dot CD 0 up 15 lctrl 0.430957846256
+helus SNARC line dot CD 0 down 15 num_decimal 0.391061380156
+helus SNARC line dot CD 0 up 10 lctrl 0.522937991977
+helus SNARC line dot CD 0 down 10 num_decimal 0.36298396351
+helus SNARC line dot CD 0 up 10 lctrl 0.378967957484
+helus SNARC line dot CD 0 up 15 lctrl 0.510725580883
+helus SNARC line dot CD 0 up 5 lctrl 0.375937952456
+helus SNARC line dot CD 0 down 5 num_decimal 0.41587886418
+helus SNARC line dot CD 0 up 30 lctrl 0.483189211518
+helus SNARC line dot CD 0 down 30 num_decimal 0.475060902827
+helus SNARC line dot CD 0 up 25 lctrl 0.43914354936
+helus SNARC line dot CD 0 down 30 num_decimal 0.38689293596
+helus SNARC line dot CD 0 down 25 num_decimal 0.879008378542
+helus SNARC line dot CD 0 up 45 lctrl 0.427262206038
+helus SNARC line dot CD 0 up 35 lctrl 0.398629743373
+helus SNARC line dot CD 0 up 15 lctrl 0.367052667425
+helus SNARC line dot CD 0 up 45 lctrl 0.342022054159
+helus SNARC line dot CD 0 down 20 num_decimal 0.394846611685
+helus SNARC line dot CD 0 up 15 lctrl 0.390853850375
+helus SNARC line dot CD 0 up 25 lctrl 0.319567890052
+helus SNARC line dot CD 0 up 15 lctrl 0.351799752301
+helus SNARC line dot CD 0 down 45 num_decimal 0.366954676982
+helus SNARC line dot CD 0 up 40 lctrl 0.474931065459
+helus SNARC line dot CD 0 down 35 num_decimal 0.414961603499
+helus SNARC line dot CD 0 down 15 lctrl 0.391432694043
+helus SNARC line dot CD 0 up 25 lctrl 0.565991850686
+helus SNARC line dot CD 0 up 45 lctrl 0.43842261954
+helus SNARC line dot CD 0 up 40 lctrl 0.330749301531
+helus SNARC line dot CD 0 down 45 num_decimal 0.382412322157
+helus SNARC line dot CD 0 up 20 lctrl 0.475099749019
+helus SNARC line dot CD 0 down 45 num_decimal 0.79844832106
+helus SNARC line dot CD 0 up 45 lctrl 0.550203837658
+helus SNARC line dot CD 0 down 15 num_decimal 0.990942181757
+helus SNARC line dot CD 0 up 35 lctrl 0.478217595519
+helus SNARC line dot CD 0 up 5 lctrl 0.695978296513
+helus SNARC line dot CD 0 down 30 num_decimal 0.459218995005
+helus SNARC line dot CD 0 down 20 num_decimal 0.451475298905
+helus SNARC line dot CD 0 up 35 lctrl 0.287072853476
+helus SNARC line dot CD 0 down 40 num_decimal 0.450411052472
+helus SNARC line dot CD 0 down 30 num_decimal 0.555068714079
+helus SNARC line dot CD 0 down 30 num_decimal 0.338784869295
+helus SNARC line dot CD 0 down 5 num_decimal 0.343589901517
+helus SNARC line dot CD 0 up 35 lctrl 0.334650021803
+helus SNARC line dot CD 0 down 30 num_decimal 0.450771167438
+helus SNARC line dot CD 0 down 20 num_decimal 0.658893806685
+helus SNARC line dot CD 0 down 20 num_decimal 0.506899053376
+helus SNARC line dot CD 0 up 5 lctrl 0.439242939698
+helus SNARC line dot CD 0 down 20 num_decimal 0.44271775143
+helus SNARC line dot CD 0 down 20 num_decimal 0.306502961932
+helus SNARC line dot CD 0 down 40 num_decimal 0.339081990358
+helus SNARC line dot CD 0 down 5 num_decimal 0.312013175542
+helus SNARC line dot CD 0 down 20 num_decimal 0.371578076854
+helus SNARC line dot CD 0 down 45 num_decimal 0.326798186201
+helus SNARC line dot CD 0 down 10 num_decimal 0.346886580606
+helus SNARC line dot CD 0 down 10 num_decimal 0.31557687858
+helus SNARC line dot CD 0 down 5 num_decimal 0.351673414611
+helus SNARC line dot CD 0 up 20 lctrl 0.386911834124
+helus SNARC line dot CD 0 up 35 lctrl 0.294702110754
+helus SNARC line dot CD 0 up 10 lctrl 0.291316890303
+helus SNARC line dot CD 0 up 20 lctrl 0.330954731558
+helus SNARC line dot CD 0 down 35 num_decimal 0.422525767121
+helus SNARC line dot CD 0 down 25 num_decimal 0.486735766259
+helus SNARC line dot CD 0 up 20 lctrl 0.362801981217
+helus SNARC line dot CD 0 down 25 num_decimal 0.390581576881
+helus SNARC line dot CD 0 up 10 lctrl 0.394980648649
+helus SNARC line dot CD 0 down 25 num_decimal 0.447515434382
+helus SNARC line dot CD 0 up 30 lctrl 0.338301566342
+helus SNARC line dot CD 0 down 20 num_decimal 0.379552750528
+helus SNARC line dot CD 0 up 30 lctrl 0.587152540713
+helus SNARC line dot CD 0 up 5 num_decimal 0.383830734092
+helus SNARC line dot CD 0 down 15 num_decimal 0.702457215812
+helus SNARC line dot CD 0 up 30 lctrl 0.496617054334
+helus SNARC line dot CD 0 down 40 num_decimal 0.41059192887
+helus SNARC line dot CD 0 up 45 lctrl 0.262335161678
+{'participant': u'helus', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1355', 'autopilot': False, 'exp_id': u'SNARC'}
+helus SNARC_only DC 9 lctrl 0.494412968896
+helus SNARC_only DC 5 lctrl 0.55336612981
+helus SNARC_only DC 8 num_decimal 0.425466880784
+helus SNARC_only DC 7 lctrl 0.515953021968
+helus SNARC_only DC 4 num_decimal 0.381219988252
+helus SNARC_only DC 9 lctrl 0.492890267138
+helus SNARC_only DC 6 num_decimal 0.535480071005
+helus SNARC_only DC 7 lctrl 0.522757409577
+helus SNARC_only DC 3 lctrl 0.50853024458
+helus SNARC_only DC 1 lctrl 0.405881037499
+helus SNARC_only DC 6 num_decimal 0.349749651883
+helus SNARC_only DC 3 lctrl 0.416509152827
+helus SNARC_only DC 2 num_decimal 0.624835822236
+helus SNARC_only DC 3 lctrl 0.494858125574
+helus SNARC_only DC 1 lctrl 0.509201829205
+helus SNARC_only DC 6 num_decimal 0.427858897921
+helus SNARC_only DC 5 lctrl 0.432886158524
+helus SNARC_only DC 9 lctrl 0.525656877289
+helus SNARC_only DC 1 lctrl 0.436866321048
+helus SNARC_only DC 7 lctrl 0.52204592881
+helus SNARC_only DC 3 lctrl 0.417241631541
+helus SNARC_only DC 4 num_decimal 0.492216232757
+helus SNARC_only DC 5 lctrl 0.516097907879
+helus SNARC_only DC 1 lctrl 0.459188897978
+helus SNARC_only DC 3 lctrl 0.448631125764
+helus SNARC_only DC 6 num_decimal 0.470076688041
+helus SNARC_only DC 9 lctrl 0.500032721815
+helus SNARC_only DC 5 lctrl 0.546829466155
+helus SNARC_only DC 8 num_decimal 0.530819924694
+helus SNARC_only DC 1 lctrl 0.498154804634
+helus SNARC_only DC 4 num_decimal 0.481267898576
+helus SNARC_only DC 6 num_decimal 0.375216322689
+helus SNARC_only DC 9 lctrl 0.474827125581
+helus SNARC_only DC 6 num_decimal 0.496753191081
+helus SNARC_only DC 2 num_decimal 0.51920840505
+helus SNARC_only DC 8 num_decimal 0.390442640404
+helus SNARC_only DC 7 lctrl 0.506436748372
+helus SNARC_only DC 1 lctrl 0.473213432677
+helus SNARC_only DC 9 lctrl 0.373333505966
+helus SNARC_only DC 1 lctrl 0.394812664978
+helus SNARC_only DC 7 lctrl 0.430761165393
+helus SNARC_only DC 3 lctrl 0.363401122915
+helus SNARC_only DC 7 lctrl 0.382743389928
+helus SNARC_only DC 7 lctrl 0.33038428711
+helus SNARC_only DC 2 num_decimal 0.484699314547
+helus SNARC_only DC 8 num_decimal 0.387205105595
+helus SNARC_only DC 1 lctrl 0.326735542301
+helus SNARC_only DC 9 num_decimal 0.407588871225
+helus SNARC_only DC 8 num_decimal 0.508559291746
+helus SNARC_only DC 5 lctrl 0.52154267783
+helus SNARC_only DC 4 num_decimal 0.505512138392
+helus SNARC_only DC 4 num_decimal 0.393327059603
+helus SNARC_only DC 3 lctrl 0.457280533738
+helus SNARC_only DC 8 num_decimal 0.441221997025
+helus SNARC_only DC 4 lctrl 0.369099968142
+helus SNARC_only DC 1 lctrl 0.449129127257
+helus SNARC_only DC 7 num_decimal 0.360752580746
+helus SNARC_only DC 5 lctrl 1.55298396701
+helus SNARC_only DC 5 lctrl 0.416848619789
+helus SNARC_only DC 3 lctrl 0.416818522732
+helus SNARC_only DC 5 lctrl 0.496695096721
+helus SNARC_only DC 4 num_decimal 0.424730552477
+helus SNARC_only DC 4 num_decimal 0.321652287152
+helus SNARC_only DC 3 lctrl 0.45749646271
+helus SNARC_only DC 3 lctrl 0.377515248896
+helus SNARC_only DC 6 num_decimal 0.505140824534
+helus SNARC_only DC 2 num_decimal 0.449285562063
+helus SNARC_only DC 3 lctrl 0.441280091385
+helus SNARC_only DC 6 lctrl 0.313198860065
+helus SNARC_only DC 6 num_decimal 0.536157955037
+helus SNARC_only DC 6 num_decimal 0.384990871127
+helus SNARC_only DC 8 num_decimal 0.473023401166
+helus SNARC_only DC 1 lctrl 0.408946039097
+helus SNARC_only DC 9 lctrl 0.544800363685
+helus SNARC_only DC 5 lctrl 0.496508564887
+helus SNARC_only DC 1 lctrl 0.552695245133
+helus SNARC_only DC 7 num_decimal 0.4326838782
+helus SNARC_only DC 6 num_decimal 0.600592982257
+helus SNARC_only DC 6 num_decimal 0.385574964283
+helus SNARC_only DC 3 lctrl 0.449502540927
+helus SNARC_only DC 4 num_decimal 0.641427707014
+helus SNARC_only DC 6 num_decimal 0.545334761671
+helus SNARC_only DC 7 lctrl 0.377243675321
+helus SNARC_only DC 1 lctrl 0.384893230657
+helus SNARC_only DC 5 num_decimal 0.457134947908
+helus SNARC_only DC 4 num_decimal 0.504060129751
+helus SNARC_only DC 9 lctrl 1.22493570251
+helus SNARC_only DC 2 num_decimal 0.448785810702
+helus SNARC_only DC 6 num_decimal 0.504817106063
+helus SNARC_only DC 6 num_decimal 0.480734550481
+helus SNARC_only DC 5 lctrl 0.432708375854
+helus SNARC_only DC 1 lctrl 0.46460707052
+helus SNARC_only DC 9 num_decimal 0.761261641164
+helus SNARC_only DC 8 num_decimal 0.432526393561
+helus SNARC_only DC 9 lctrl 0.521414940245
+helus SNARC_only DC 7 lctrl 0.377254524297
+helus SNARC_only DC 3 lctrl 0.681274477916
+helus SNARC_only DC 2 num_decimal 0.465169465751
+helus SNARC_only DC 8 num_decimal 0.456968714076
+helus SNARC_only DC 8 num_decimal 0.377031246026
+helus SNARC_only DC 8 num_decimal 0.376978051179
+helus SNARC_only DC 6 num_decimal 0.416547649103
+helus SNARC_only DC 2 lctrl 0.352732411498
+helus SNARC_only DC 5 lctrl 0.456797230785
+helus SNARC_only DC 5 lctrl 0.408740259125
+helus SNARC_only DC 7 lctrl 0.504691118316
+helus SNARC_only DC 2 num_decimal 0.472104040673
+helus SNARC_only DC 2 num_decimal 0.473620443052
+helus SNARC_only DC 1 lctrl 0.369497529406
+helus SNARC_only DC 5 lctrl 0.449416099349
+helus SNARC_only DC 5 lctrl 0.345018812426
+helus SNARC_only DC 2 lctrl 0.329251797346
+helus SNARC_only DC 6 num_decimal 0.552237489697
+helus SNARC_only DC 4 num_decimal 0.433164731425
+helus SNARC_only DC 6 num_decimal 0.369133914821
+helus SNARC_only DC 3 lctrl 0.545036590687
+helus SNARC_only DC 2 num_decimal 0.512994060031
+helus SNARC_only DC 2 num_decimal 0.408891794359
+helus SNARC_only DC 2 num_decimal 0.416863668332
+helus SNARC_only DC 7 lctrl 0.496450470557
+helus SNARC_only DC 5 lctrl 0.496639452147
+helus SNARC_only DC 6 lctrl 0.377576842875
+helus SNARC_only DC 5 lctrl 0.424546820374
+helus SNARC_only DC 1 lctrl 0.553621604951
+helus SNARC_only DC 3 lctrl 0.417474008893
+helus SNARC_only DC 8 num_decimal 0.369348443928
+helus SNARC_only DC 2 num_decimal 0.385344686685
+helus SNARC_only DC 5 lctrl 0.545210873708
+helus SNARC_only DC 3 lctrl 0.480886785692
+helus SNARC_only DC 9 lctrl 0.449082931766
+helus SNARC_only DC 5 lctrl 0.457029608166
+helus SNARC_only DC 3 lctrl 0.368806696672
+helus SNARC_only DC 4 num_decimal 0.440808687272
+helus SNARC_only DC 4 num_decimal 0.368810896267
+helus SNARC_only DC 3 lctrl 0.544748568733
+helus SNARC_only DC 4 num_decimal 0.368763300881
+helus SNARC_only DC 9 lctrl 0.46466691469
+helus SNARC_only DC 8 lctrl 0.401030859648
+helus SNARC_only DC 9 lctrl 0.456549804891
+helus SNARC_only DC 5 lctrl 0.417491157219
+helus SNARC_only DC 9 lctrl 0.449364304397
+helus SNARC_only DC 3 lctrl 0.433330615284
+helus SNARC_only DC 1 lctrl 0.65731231065
+helus SNARC_only DC 9 lctrl 0.449153274938
+helus SNARC_only DC 3 lctrl 0.369137064525
+helus SNARC_only DC 1 lctrl 0.449047235248
+helus SNARC_only DC 5 lctrl 0.375906805479
+helus SNARC_only DC 2 num_decimal 0.440886379714
+helus SNARC_only DC 1 lctrl 0.368893138249
+helus SNARC_only DC 6 num_decimal 0.480819942197
+helus SNARC_only DC 4 num_decimal 0.392744716315
+helus SNARC_only DC 8 num_decimal 0.400720089878
+helus SNARC_only DC 8 num_decimal 0.360650740651
+helus SNARC_only DC 1 lctrl 0.385561665578
+helus SNARC_only DC 1 lctrl 0.393558737065
+helus SNARC_only DC 9 lctrl 0.453872215556
+helus SNARC_only DC 4 num_decimal 0.601412952441
+helus SNARC_only DC 5 lctrl 0.473273276846
+helus SNARC_only DC 9 lctrl 0.425267050276
+helus SNARC_only DC 2 num_decimal 0.433200777887
+helus SNARC_only DC 3 lctrl 0.401049407839
+helus SNARC_only DC 1 lctrl 0.521061824635
+helus SNARC_only DC 4 num_decimal 0.512766932137
+helus SNARC_only DC 7 lctrl 0.432900507149
+helus SNARC_only DC 6 num_decimal 0.42490868512
+helus SNARC_only DC 3 lctrl 0.480771646893
+helus SNARC_only DC 7 lctrl 0.512669291638
+helus SNARC_only DC 4 num_decimal 0.401684246055
+helus SNARC_only DC 1 lctrl 0.393542988604
+helus SNARC_only DC 2 num_decimal 0.441607659508
+helus SNARC_only DC 4 num_decimal 0.425217705051
+helus SNARC_only DC 5 lctrl 0.42537343991
+helus SNARC_only DC 2 num_decimal 0.34532888222
+helus SNARC_only DC 8 num_decimal 0.377276922081
+helus SNARC_only DC 9 lctrl 0.417235332134
+helus SNARC_only DC 7 lctrl 0.425093117199
+helus SNARC_only DC 6 num_decimal 0.489032242709
+helus SNARC_only DC 9 lctrl 0.408970536722
+helus SNARC_only DC 9 lctrl 0.416931911663
+helus SNARC_only DC 8 num_decimal 0.424588466296
+helus SNARC_only DC 4 num_decimal 0.512840075011
+helus SNARC_only DC 3 lctrl 0.48060541306
+helus SNARC_only DC 3 lctrl 0.32072837709
+helus SNARC_only DC 1 lctrl 0.345573158469
+helus SNARC_only DC 8 num_decimal 0.353513885435
+helus SNARC_only DC 3 num_decimal 0.377509999409
+helus SNARC_only DC 7 lctrl 0.568366369553
+helus SNARC_only DC 4 num_decimal 0.465381895076
+helus SNARC_only DC 8 num_decimal 0.664970265119
+helus SNARC_only DC 6 num_decimal 0.457192342321
+helus SNARC_only DC 7 lctrl 0.513148045022
+helus SNARC_only DC 2 num_decimal 0.480522121186
+helus SNARC_only DC 9 lctrl 0.536990174005
+helus SNARC_only DC 3 lctrl 0.448654923443
+helus SNARC_only DC 5 lctrl 0.432865860523
+helus SNARC_only DC 8 num_decimal 0.424817693973
+helus SNARC_only DC 7 lctrl 0.624708434654
+helus SNARC_only DC 7 lctrl 0.328321237932
+helus SNARC_only DC 6 num_decimal 0.577578172757
+helus SNARC_only DC 2 num_decimal 0.705649604992
+helus SNARC_only DC 7 lctrl 0.353470489645
+helus SNARC_only DC 1 lctrl 0.457382023858
+helus SNARC_only DC 4 num_decimal 0.441336785851
+helus SNARC_only DC 4 num_decimal 0.361230984156
+helus SNARC_only DC 5 lctrl 0.361167640309
+helus SNARC_only DC 8 num_decimal 0.393126179173
+helus SNARC_only DC 8 num_decimal 0.360791076993
+helus SNARC_only DC 3 lctrl 0.360991257505
+helus SNARC_only DC 1 lctrl 0.416981606861
+helus SNARC_only DC 2 num_decimal 0.328837087698
+helus SNARC_only DC 1 lctrl 0.424699405528
+helus SNARC_only DC 6 num_decimal 0.496795886924
+helus SNARC_only DC 7 lctrl 0.416737680585
+helus SNARC_only DC 3 lctrl 0.400673894386
+helus SNARC_only DC 5 lctrl 0.369614418043
+helus SNARC_only DC 3 lctrl 0.353044931078
+helus SNARC_only DC 2 num_decimal 0.345460119453
+helus SNARC_only DC 8 num_decimal 0.46539519378
+helus SNARC_only DC 2 num_decimal 0.61731995389
+helus SNARC_only DC 2 num_decimal 0.385248446051
+helus SNARC_only DC 5 lctrl 0.377128536522
+helus SNARC_only DC 2 num_decimal 0.552903474832
+helus SNARC_only DC 6 num_decimal 0.585042246123
+helus SNARC_only DC 9 lctrl 0.424953130801
+helus SNARC_only DC 7 lctrl 0.360623793269
+helus SNARC_only DC 7 lctrl 0.368875989923
+helus SNARC_only DC 8 num_decimal 0.336802312289
+helus SNARC_only DC 7 num_decimal 0.408759507263
+helus SNARC_only DC 1 lctrl 0.536646157474
+helus SNARC_only DC 1 lctrl 0.336567135208
+helus SNARC_only DC 2 num_decimal 0.377610089665
+helus SNARC_only DC 1 lctrl 0.42546933057
+helus SNARC_only DC 8 num_decimal 0.473400664428
+helus SNARC_only DC 9 lctrl 0.640971351444
+helus SNARC_only DC 9 lctrl 0.385248796054
+helus SNARC_only DC 4 num_decimal 0.569185989763
+helus SNARC_only DC 5 lctrl 0.489118334342
+helus SNARC_only DC 2 lctrl 0.441002568405
+helus SNARC_only DC 9 lctrl 0.368983779423
+helus SNARC_only DC 3 num_decimal 0.448873652145
+helus SNARC_only DC 1 lctrl 0.512837975228
+helus SNARC_only DC 9 lctrl 0.624758829712
+helus SNARC_only DC 3 lctrl 0.696362909046
+helus SNARC_only DC 4 num_decimal 0.481613664917
+helus SNARC_only DC 5 lctrl 0.593545368349
+helus SNARC_only DC 6 num_decimal 0.553568760079
+helus SNARC_only DC 9 lctrl 0.569414517522
+helus SNARC_only DC 5 num_decimal 0.569265082042
+helus SNARC_only DC 6 num_decimal 0.448273460584
+helus SNARC_only DC 5 lctrl 0.513187941135
+helus SNARC_only DC 6 num_decimal 0.52913343886
+helus SNARC_only DC 5 lctrl 0.408730810042
+helus SNARC_only DC 9 lctrl 0.601003492309
+helus SNARC_only DC 4 num_decimal 0.536885884183
+helus SNARC_only DC 3 lctrl 0.520813698793
+helus SNARC_only DC 4 num_decimal 0.448742064968
+helus SNARC_only DC 2 num_decimal 0.52874812638
+helus SNARC_only DC 1 lctrl 0.520633466338
+helus SNARC_only DC 4 num_decimal 0.417578298744
+helus SNARC_only DC 5 lctrl 0.43353849501
+helus SNARC_only DC 6 num_decimal 0.432498046313
+helus SNARC_only DC 7 lctrl 0.569388270058
+helus SNARC_only DC 1 lctrl 0.457386573427
+helus SNARC_only DC 6 num_decimal 0.529341318615
+helus SNARC_only DC 8 num_decimal 0.673264807672
+helus SNARC_only DC 4 num_decimal 0.473161287751
+helus SNARC_only DC 1 lctrl 0.465079174552
+helus SNARC_only DC 4 lctrl 0.393003691104
+helus SNARC_only DC 9 lctrl 0.400821929972
+helus SNARC_only DC 4 lctrl 0.40055805567
+helus SNARC_only DC 2 num_decimal 1.01684735992
+helus SNARC_only DC 6 lctrl 0.40868916412
+helus SNARC_only DC 9 lctrl 0.464611970034
+helus SNARC_only DC 3 lctrl 1.02556536123
+helus SNARC_only DC 7 lctrl 0.537575667026
+helus SNARC_only DC 4 num_decimal 0.385435327858
+helus SNARC_only DC 7 lctrl 0.481317243772
+helus SNARC_only DC 7 lctrl 0.433213726646
+helus SNARC_only DC 2 num_decimal 0.480917232693
+helus SNARC_only DC 8 num_decimal 0.561161970894
+helus SNARC_only DC 6 num_decimal 0.505082030257
+helus SNARC_only DC 6 num_decimal 0.44900138973
+helus SNARC_only DC 7 lctrl 0.384975122666
+helus SNARC_only DC 7 lctrl 0.528879363585
+helus SNARC_only DC 4 num_decimal 0.392782512645
+helus SNARC_only DC 3 lctrl 0.416733830963
+helus SNARC_only DC 8 num_decimal 0.408745158667
+helus SNARC_only DC 4 lctrl 0.369300148624
+helus SNARC_only DC 4 num_decimal 0.528534997109
+helus SNARC_only DC 3 lctrl 0.449452845758
+helus SNARC_only DC 8 num_decimal 0.465392044105
+helus SNARC_only DC 2 num_decimal 0.545394955814
+helus SNARC_only DC 2 num_decimal 0.441345884959
+helus SNARC_only DC 1 lctrl 0.433135334286
+helus SNARC_only DC 9 lctrl 0.553079507692
+helus SNARC_only DC 7 lctrl 0.601075585291
+helus SNARC_only DC 1 lctrl 0.432653081225
+helus SNARC_only DC 3 lctrl 0.424918134202
+helus SNARC_only DC 1 lctrl 0.576869141776
+helus SNARC_only DC 6 num_decimal 0.872832179797
+helus SNARC_only DC 7 lctrl 0.552696294995
+helus SNARC_only DC 6 num_decimal 0.441641606187
+helus SNARC_only DC 5 lctrl 0.585542697401
+helus SNARC_only DC 4 num_decimal 0.553516615153
+helus SNARC_only DC 2 num_decimal 0.601380405627
+helus SNARC_only DC 2 num_decimal 0.481049169874
+helus SNARC_only DC 1 lctrl 0.369226305804
+helus SNARC_only DC 2 lctrl 0.465202012565
+helus SNARC_only DC 7 lctrl 0.513122847478
+helus SNARC_only DC 1 lctrl 0.481013823301
+helus SNARC_only DC 1 lctrl 0.3769965994
+helus SNARC_only DC 7 lctrl 0.560907195701
+helus SNARC_only DC 2 num_decimal 0.360965709988
+helus SNARC_only DC 9 lctrl 0.49679273722
+helus SNARC_only DC 9 lctrl 0.384383330267
+helus SNARC_only DC 7 num_decimal 0.40067144463
+helus SNARC_only DC 6 num_decimal 0.392661774356
+helus SNARC_only DC 8 num_decimal 0.409606074856
+helus SNARC_only DC 3 lctrl 0.377534497035
+helus SNARC_only DC 8 num_decimal 0.601458098041
+helus SNARC_only DC 7 lctrl 0.393342808093
+helus SNARC_only DC 9 lctrl 0.481297995633
+helus SNARC_only DC 4 num_decimal 0.569238134689
+helus SNARC_only DC 1 lctrl 0.488887706771
+helus SNARC_only DC 9 lctrl 0.41710689466
+helus SNARC_only DC 8 num_decimal 0.624674137973
+helus SNARC_only DC 8 num_decimal 0.424972728913
+helus SNARC_only DC 9 lctrl 0.632825894398
+helus SNARC_only DC 7 lctrl 0.592796791228
+helus SNARC_only DC 8 num_decimal 0.416775126942
+helus SNARC_only DC 3 lctrl 0.448684670526
+helus SNARC_only DC 9 lctrl 0.4416188584
+helus SNARC_only DC 5 lctrl 0.913209499064
+helus SNARC_only DC 5 lctrl 0.361462311645
+helus SNARC_only DC 5 lctrl 0.361358021793
+helus SNARC_only DC 9 num_decimal 0.401306982763
+helus SNARC_only DC 8 num_decimal 0.400235737063
+helus SNARC_only DC 8 num_decimal 0.369211957208
+helus SNARC_only DC 7 lctrl 0.529188733461
+helus SNARC_only DC 4 num_decimal 0.577107118617
+helus SNARC_only DC 2 num_decimal 0.496990817948
+helus SNARC_only DC 9 lctrl 0.560581377387
+helus SNARC_only DC 8 num_decimal 0.39288610252
+helus SNARC_only DC 4 num_decimal 0.640780620015
+helus SNARC_only DC 3 lctrl 0.424689606472
+helus SNARC_only DC 5 lctrl 0.513636947435
+helus SNARC_only DC 5 lctrl 0.425578169961
+helus SNARC_only DC 5 lctrl 0.337502244132
+helus SNARC_only DC 3 lctrl 0.409529782279
+helus SNARC_only DC 2 num_decimal 0.537352738727
+helus SNARC_only DC 6 num_decimal 0.433045393031
+helus SNARC_only DC 8 num_decimal 0.417284327355
+helus SNARC_only DC 6 num_decimal 0.409220062429
+helus SNARC_only DC 2 num_decimal 0.60114277876
+helus SNARC_only DC 2 num_decimal 0.345085305948
+helus SNARC_only DC 6 num_decimal 0.425034672866
+helus SNARC_only DC 8 num_decimal 0.360902016197
+helus SNARC_only DC 4 num_decimal 0.35285699938
+helus SNARC_only DC 8 num_decimal 0.344845929241
+helus SNARC_only DC 7 lctrl 0.520425236609
+{'participant': u'helus', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1404', 'autopilot': False, 'exp_id': u'SNARC'}
+helus SNARC_only CD 4 lctrl 0.534934474126
+helus SNARC_only CD 7 num_decimal 0.340382813738
+helus SNARC_only CD 8 lctrl 0.534953722265
+helus SNARC_only CD 3 num_decimal 0.404969376221
+helus SNARC_only CD 2 lctrl 0.49051014884
+helus SNARC_only CD 9 num_decimal 0.393854108319
+helus SNARC_only CD 4 lctrl 0.368199505756
+helus SNARC_only CD 4 lctrl 0.427477785037
+helus SNARC_only CD 8 lctrl 0.44818736898
+helus SNARC_only CD 2 lctrl 0.493506557134
+helus SNARC_only CD 5 num_decimal 0.407235755585
+helus SNARC_only CD 9 num_decimal 0.472289522615
+helus SNARC_only CD 9 num_decimal 0.341990557237
+helus SNARC_only CD 6 lctrl 0.486029884982
+helus SNARC_only CD 2 lctrl 0.455353621335
+helus SNARC_only CD 9 lctrl 0.349038171116
+helus SNARC_only CD 6 lctrl 0.413709075423
+helus SNARC_only CD 8 lctrl 0.52869738132
+helus SNARC_only CD 4 lctrl 0.456647095387
+helus SNARC_only CD 8 lctrl 0.337480196293
+helus SNARC_only CD 3 num_decimal 0.409293205303
+helus SNARC_only CD 3 num_decimal 0.385496221948
+helus SNARC_only CD 7 lctrl 0.449365704233
+helus SNARC_only CD 3 num_decimal 0.520345794328
+helus SNARC_only CD 5 num_decimal 0.457268634898
+helus SNARC_only CD 5 num_decimal 0.409206063778
+helus SNARC_only CD 7 num_decimal 0.345156699012
+helus SNARC_only CD 2 lctrl 0.457031357975
+helus SNARC_only CD 5 num_decimal 0.577056023612
+helus SNARC_only CD 9 num_decimal 0.624693736056
+helus SNARC_only CD 8 lctrl 0.552875827561
+helus SNARC_only CD 1 lctrl 0.494372722838
+helus SNARC_only CD 8 lctrl 0.680691084737
+helus SNARC_only CD 8 lctrl 0.361634844856
+helus SNARC_only CD 1 num_decimal 0.393517791061
+helus SNARC_only CD 2 lctrl 0.553569110052
+helus SNARC_only CD 5 num_decimal 0.53752807164
+helus SNARC_only CD 3 num_decimal 0.57738849122
+helus SNARC_only CD 7 num_decimal 0.47931193898
+helus SNARC_only CD 6 lctrl 0.681222682964
+helus SNARC_only CD 1 num_decimal 0.785175163182
+helus SNARC_only CD 7 num_decimal 0.873049858579
+helus SNARC_only CD 7 num_decimal 0.441013067379
+helus SNARC_only CD 8 lctrl 0.720869623357
+helus SNARC_only CD 5 num_decimal 0.664891872788
+helus SNARC_only CD 5 num_decimal 0.360748731124
+helus SNARC_only CD 1 num_decimal 0.384676251764
+helus SNARC_only CD 6 lctrl 0.53733174075
+helus SNARC_only CD 2 lctrl 0.545568188943
+helus SNARC_only CD 1 num_decimal 0.417528953578
+helus SNARC_only CD 1 num_decimal 0.337408453284
+helus SNARC_only CD 2 lctrl 0.505361303076
+helus SNARC_only CD 7 num_decimal 0.457315530337
+helus SNARC_only CD 3 num_decimal 0.481248650438
+helus SNARC_only CD 2 lctrl 0.409111922956
+helus SNARC_only CD 7 num_decimal 0.513097999908
+helus SNARC_only CD 3 num_decimal 0.512738934864
+helus SNARC_only CD 9 num_decimal 0.4009923634
+helus SNARC_only CD 4 lctrl 0.528867114801
+helus SNARC_only CD 4 lctrl 0.312833845615
+helus SNARC_only CD 8 lctrl 0.560769309115
+helus SNARC_only CD 3 num_decimal 0.504686918721
+helus SNARC_only CD 8 lctrl 0.472585593787
+helus SNARC_only CD 6 lctrl 0.457585704047
+helus SNARC_only CD 1 num_decimal 0.377551645332
+helus SNARC_only CD 9 num_decimal 0.449173922942
+helus SNARC_only CD 4 lctrl 0.486980742426
+helus SNARC_only CD 7 num_decimal 0.465292303794
+helus SNARC_only CD 7 num_decimal 0.609256738855
+helus SNARC_only CD 8 lctrl 0.449131227098
+helus SNARC_only CD 5 num_decimal 0.553073908261
+helus SNARC_only CD 7 num_decimal 0.416983006697
+helus SNARC_only CD 2 lctrl 0.448956594075
+helus SNARC_only CD 8 lctrl 0.512881370989
+helus SNARC_only CD 1 lctrl 0.416481155553
+helus SNARC_only CD 3 num_decimal 0.456512358534
+helus SNARC_only CD 6 lctrl 0.592702300433
+helus SNARC_only CD 1 num_decimal 0.560615674069
+helus SNARC_only CD 3 num_decimal 0.457491213223
+helus SNARC_only CD 3 num_decimal 0.353526134219
+helus SNARC_only CD 2 lctrl 0.425363640854
+helus SNARC_only CD 5 num_decimal 0.649358984898
+helus SNARC_only CD 5 num_decimal 0.497305787285
+helus SNARC_only CD 8 lctrl 0.448880651471
+helus SNARC_only CD 6 lctrl 0.505169521726
+helus SNARC_only CD 6 lctrl 0.376940954797
+helus SNARC_only CD 1 num_decimal 0.609012112691
+helus SNARC_only CD 9 num_decimal 0.496971569839
+helus SNARC_only CD 2 num_decimal 0.45691481934
+helus SNARC_only CD 1 num_decimal 0.432817915193
+helus SNARC_only CD 6 lctrl 0.392691521498
+helus SNARC_only CD 5 num_decimal 0.512681890425
+helus SNARC_only CD 6 lctrl 0.561261011229
+helus SNARC_only CD 2 lctrl 0.465106471907
+helus SNARC_only CD 2 lctrl 0.497491269227
+helus SNARC_only CD 4 lctrl 0.489354561345
+helus SNARC_only CD 1 num_decimal 0.36133002452
+helus SNARC_only CD 9 lctrl 0.369245903916
+helus SNARC_only CD 4 lctrl 0.488170976547
+helus SNARC_only CD 2 lctrl 0.481086266256
+helus SNARC_only CD 5 num_decimal 0.59310021167
+helus SNARC_only CD 2 lctrl 0.584668132535
+helus SNARC_only CD 1 num_decimal 0.496901926614
+helus SNARC_only CD 7 num_decimal 0.408915242093
+helus SNARC_only CD 4 lctrl 0.432773469482
+helus SNARC_only CD 3 num_decimal 0.55270784389
+helus SNARC_only CD 3 num_decimal 0.424621363112
+helus SNARC_only CD 9 num_decimal 0.473644940677
+helus SNARC_only CD 1 num_decimal 0.449615229969
+helus SNARC_only CD 8 lctrl 0.593457526906
+helus SNARC_only CD 7 num_decimal 0.529065545474
+helus SNARC_only CD 5 num_decimal 0.417226233025
+helus SNARC_only CD 3 num_decimal 0.353261559998
+helus SNARC_only CD 4 num_decimal 0.377138685551
+helus SNARC_only CD 2 num_decimal 0.345102454303
+helus SNARC_only CD 4 lctrl 0.521052375552
+helus SNARC_only CD 4 lctrl 0.392953295988
+helus SNARC_only CD 6 lctrl 0.616948640061
+helus SNARC_only CD 8 lctrl 0.496841032524
+helus SNARC_only CD 8 lctrl 0.352461887815
+helus SNARC_only CD 8 lctrl 0.368687358277
+helus SNARC_only CD 6 lctrl 0.369677761861
+helus SNARC_only CD 5 num_decimal 0.465502283361
+helus SNARC_only CD 3 num_decimal 0.417587047879
+helus SNARC_only CD 3 num_decimal 0.513534057449
+helus SNARC_only CD 4 lctrl 0.465334999637
+helus SNARC_only CD 7 num_decimal 0.446927841578
+helus SNARC_only CD 4 lctrl 0.505245814304
+helus SNARC_only CD 8 lctrl 0.440842983924
+helus SNARC_only CD 7 num_decimal 0.537158857594
+helus SNARC_only CD 5 num_decimal 0.593017969688
+helus SNARC_only CD 5 num_decimal 0.392995291913
+helus SNARC_only CD 2 lctrl 0.488925153128
+helus SNARC_only CD 7 num_decimal 0.504920345993
+helus SNARC_only CD 1 num_decimal 0.440782089863
+helus SNARC_only CD 5 num_decimal 0.360770079016
+helus SNARC_only CD 9 num_decimal 0.440733094641
+helus SNARC_only CD 3 num_decimal 0.464310999349
+helus SNARC_only CD 7 num_decimal 0.361613496905
+helus SNARC_only CD 6 num_decimal 0.369526226626
+helus SNARC_only CD 3 num_decimal 0.44030788602
+helus SNARC_only CD 5 num_decimal 0.521327448747
+helus SNARC_only CD 9 num_decimal 0.609230141446
+helus SNARC_only CD 9 num_decimal 0.369199008477
+helus SNARC_only CD 9 num_decimal 0.393117779982
+helus SNARC_only CD 6 lctrl 0.481082416634
+helus SNARC_only CD 3 num_decimal 0.615963485936
+helus SNARC_only CD 1 num_decimal 0.680966157932
+helus SNARC_only CD 9 num_decimal 0.504892698693
+helus SNARC_only CD 5 lctrl 0.448788960377
+helus SNARC_only CD 9 num_decimal 0.57675610279
+helus SNARC_only CD 6 lctrl 0.528667984181
+helus SNARC_only CD 5 num_decimal 0.577583422244
+helus SNARC_only CD 5 num_decimal 0.473580896913
+helus SNARC_only CD 4 lctrl 0.409456989379
+helus SNARC_only CD 4 lctrl 0.381985363725
+helus SNARC_only CD 7 num_decimal 0.46531225185
+helus SNARC_only CD 9 num_decimal 0.473255428573
+helus SNARC_only CD 1 num_decimal 0.425224354403
+helus SNARC_only CD 2 lctrl 0.465145668073
+helus SNARC_only CD 8 num_decimal 0.369042223727
+helus SNARC_only CD 3 num_decimal 0.593020419445
+helus SNARC_only CD 7 num_decimal 0.568724384677
+helus SNARC_only CD 8 lctrl 0.440835984598
+helus SNARC_only CD 5 num_decimal 0.544881205802
+helus SNARC_only CD 3 num_decimal 0.53666890529
+helus SNARC_only CD 4 lctrl 0.456638696225
+helus SNARC_only CD 1 num_decimal 0.457653947378
+helus SNARC_only CD 7 num_decimal 0.729591824231
+helus SNARC_only CD 9 num_decimal 0.441415878158
+helus SNARC_only CD 7 lctrl 0.393117080064
+helus SNARC_only CD 4 lctrl 0.400337227155
+helus SNARC_only CD 1 lctrl 0.425251301785
+helus SNARC_only CD 5 num_decimal 0.593169504951
+helus SNARC_only CD 8 lctrl 0.505096728826
+helus SNARC_only CD 1 num_decimal 0.393051286461
+helus SNARC_only CD 4 lctrl 0.424939132179
+helus SNARC_only CD 2 lctrl 0.496823184279
+helus SNARC_only CD 4 lctrl 0.416839170706
+helus SNARC_only CD 7 num_decimal 0.472418310062
+helus SNARC_only CD 6 lctrl 0.512729135808
+helus SNARC_only CD 9 num_decimal 0.472662236338
+helus SNARC_only CD 8 lctrl 0.705564913282
+helus SNARC_only CD 7 num_decimal 0.505539435719
+helus SNARC_only CD 6 lctrl 0.713349555415
+helus SNARC_only CD 7 num_decimal 0.529307371937
+helus SNARC_only CD 8 lctrl 0.489248871629
+helus SNARC_only CD 4 lctrl 0.537127710617
+helus SNARC_only CD 6 lctrl 0.456823478249
+helus SNARC_only CD 8 lctrl 0.417036201514
+helus SNARC_only CD 5 num_decimal 0.560971239436
+helus SNARC_only CD 5 num_decimal 0.344963167823
+helus SNARC_only CD 2 lctrl 0.488828912494
+helus SNARC_only CD 8 lctrl 0.472804672463
+helus SNARC_only CD 8 lctrl 0.400714840391
+helus SNARC_only CD 6 lctrl 0.512660542503
+helus SNARC_only CD 2 lctrl 0.457565056044
+helus SNARC_only CD 2 lctrl 0.401237339538
+helus SNARC_only CD 7 num_decimal 0.641521847865
+helus SNARC_only CD 8 num_decimal 0.513345775777
+helus SNARC_only CD 8 lctrl 0.568359020253
+helus SNARC_only CD 2 lctrl 0.457243437355
+helus SNARC_only CD 6 lctrl 0.457141947234
+helus SNARC_only CD 6 lctrl 0.537062616961
+helus SNARC_only CD 2 num_decimal 0.44902063784
+helus SNARC_only CD 1 num_decimal 0.513012958196
+helus SNARC_only CD 4 lctrl 0.424593365839
+helus SNARC_only CD 8 lctrl 0.51279947898
+helus SNARC_only CD 7 num_decimal 0.520757004299
+helus SNARC_only CD 6 lctrl 0.57668785943
+helus SNARC_only CD 9 num_decimal 0.593630760064
+helus SNARC_only CD 9 num_decimal 0.425582019583
+helus SNARC_only CD 1 num_decimal 0.513523558475
+helus SNARC_only CD 6 lctrl 0.409371597663
+helus SNARC_only CD 8 lctrl 0.521329198615
+helus SNARC_only CD 7 num_decimal 0.432932704018
+helus SNARC_only CD 4 lctrl 0.52117941319
+helus SNARC_only CD 9 num_decimal 0.585137436865
+helus SNARC_only CD 3 num_decimal 0.489072838769
+helus SNARC_only CD 1 num_decimal 0.513028356683
+helus SNARC_only CD 3 num_decimal 0.392982693127
+helus SNARC_only CD 8 lctrl 0.504512985644
+helus SNARC_only CD 9 num_decimal 0.504806607059
+helus SNARC_only CD 5 lctrl 0.43228106742
+helus SNARC_only CD 2 lctrl 0.504322604218
+helus SNARC_only CD 4 lctrl 0.4895624411
+helus SNARC_only CD 2 lctrl 1.02554926276
+helus SNARC_only CD 6 lctrl 0.449412949674
+helus SNARC_only CD 2 lctrl 0.417317924119
+helus SNARC_only CD 8 lctrl 0.481297645689
+helus SNARC_only CD 7 num_decimal 0.553242591821
+helus SNARC_only CD 7 num_decimal 0.393201421859
+helus SNARC_only CD 5 num_decimal 0.473100743635
+helus SNARC_only CD 2 lctrl 0.576692758943
+helus SNARC_only CD 3 num_decimal 0.50493854424
+helus SNARC_only CD 6 lctrl 0.512812427711
+helus SNARC_only CD 2 lctrl 0.448818357516
+helus SNARC_only CD 8 lctrl 0.424698705581
+helus SNARC_only CD 5 num_decimal 0.504675019882
+helus SNARC_only CD 1 num_decimal 0.481649361434
+helus SNARC_only CD 1 num_decimal 0.401586255583
+helus SNARC_only CD 1 num_decimal 0.377559694578
+helus SNARC_only CD 4 lctrl 0.57709172013
+helus SNARC_only CD 1 lctrl 0.417330522847
+helus SNARC_only CD 9 num_decimal 0.568343621766
+helus SNARC_only CD 7 num_decimal 0.45718674286
+helus SNARC_only CD 7 num_decimal 0.369140564173
+helus SNARC_only CD 6 lctrl 0.425054970896
+helus SNARC_only CD 8 lctrl 0.43300199724
+helus SNARC_only CD 7 num_decimal 0.360961160419
+helus SNARC_only CD 5 num_decimal 0.504941693944
+helus SNARC_only CD 9 num_decimal 0.472569145408
+helus SNARC_only CD 5 num_decimal 0.424836592167
+helus SNARC_only CD 6 lctrl 0.608581654582
+helus SNARC_only CD 5 num_decimal 0.481635362812
+helus SNARC_only CD 1 num_decimal 0.449570434314
+helus SNARC_only CD 9 num_decimal 0.521507331257
+helus SNARC_only CD 2 num_decimal 0.417463859892
+helus SNARC_only CD 3 num_decimal 0.600297261059
+helus SNARC_only CD 1 num_decimal 0.521295251907
+helus SNARC_only CD 4 lctrl 0.400144395942
+helus SNARC_only CD 6 lctrl 0.849131087074
+helus SNARC_only CD 1 num_decimal 0.577052523935
+helus SNARC_only CD 7 num_decimal 0.616979437036
+helus SNARC_only CD 3 num_decimal 0.528949356783
+helus SNARC_only CD 2 lctrl 0.664724589064
+helus SNARC_only CD 7 num_decimal 0.504777909868
+helus SNARC_only CD 1 num_decimal 0.544660027343
+helus SNARC_only CD 4 lctrl 0.489628584648
+helus SNARC_only CD 4 lctrl 0.473209233081
+helus SNARC_only CD 4 lctrl 0.40944509054
+helus SNARC_only CD 4 lctrl 0.313403940119
+helus SNARC_only CD 9 num_decimal 0.481335791963
+helus SNARC_only CD 1 num_decimal 0.50530460861
+helus SNARC_only CD 2 lctrl 0.561193467816
+helus SNARC_only CD 3 num_decimal 0.401147048338
+helus SNARC_only CD 4 lctrl 0.465073925065
+helus SNARC_only CD 7 num_decimal 0.808585434221
+helus SNARC_only CD 2 lctrl 0.568627094151
+helus SNARC_only CD 9 num_decimal 0.408888994658
+helus SNARC_only CD 7 num_decimal 0.600793162797
+helus SNARC_only CD 7 num_decimal 0.408660466899
+helus SNARC_only CD 6 lctrl 0.664632897999
+helus SNARC_only CD 6 lctrl 0.401574706688
+helus SNARC_only CD 7 num_decimal 0.40157505669
+helus SNARC_only CD 4 lctrl 0.473531901662
+helus SNARC_only CD 6 lctrl 0.481383737293
+helus SNARC_only CD 1 num_decimal 0.489048341144
+helus SNARC_only CD 6 lctrl 0.505274511524
+helus SNARC_only CD 4 lctrl 0.425075268926
+helus SNARC_only CD 1 num_decimal 0.56110807613
+helus SNARC_only CD 6 lctrl 0.561087078153
+helus SNARC_only CD 1 num_decimal 0.377046644513
+helus SNARC_only CD 4 lctrl 0.712884100736
+helus SNARC_only CD 8 lctrl 0.488700125046
+helus SNARC_only CD 2 num_decimal 0.376768771559
+helus SNARC_only CD 4 lctrl 0.528415658744
+helus SNARC_only CD 9 num_decimal 0.672641168378
+helus SNARC_only CD 6 lctrl 0.633537025162
+helus SNARC_only CD 9 num_decimal 0.449527038552
+helus SNARC_only CD 5 num_decimal 0.689458431239
+helus SNARC_only CD 5 num_decimal 0.441353584232
+helus SNARC_only CD 3 num_decimal 0.50524371452
+helus SNARC_only CD 5 num_decimal 0.441194699699
+helus SNARC_only CD 1 num_decimal 0.513176392269
+helus SNARC_only CD 8 lctrl 0.384737145825
+helus SNARC_only CD 5 num_decimal 0.513039905549
+helus SNARC_only CD 8 lctrl 0.480925981858
+helus SNARC_only CD 4 lctrl 0.528856615798
+helus SNARC_only CD 3 num_decimal 0.416778626619
+helus SNARC_only CD 7 num_decimal 0.712755663233
+helus SNARC_only CD 9 num_decimal 0.400658495899
+helus SNARC_only CD 2 lctrl 0.401597104501
+helus SNARC_only CD 3 num_decimal 0.521501381852
+helus SNARC_only CD 3 num_decimal 0.393235718511
+helus SNARC_only CD 3 num_decimal 0.345423373015
+helus SNARC_only CD 2 lctrl 0.465300003038
+helus SNARC_only CD 4 lctrl 0.465270955872
+helus SNARC_only CD 6 lctrl 0.521173463756
+helus SNARC_only CD 3 num_decimal 0.441143254691
+helus SNARC_only CD 3 num_decimal 0.409047179244
+helus SNARC_only CD 1 num_decimal 0.424998976348
+helus SNARC_only CD 2 lctrl 0.472962507105
+helus SNARC_only CD 5 num_decimal 0.528535697056
+helus SNARC_only CD 8 lctrl 0.38479664005
+helus SNARC_only CD 9 num_decimal 0.520757704246
+helus SNARC_only CD 9 num_decimal 0.440704747394
+helus SNARC_only CD 9 num_decimal 0.409615873883
+helus SNARC_only CD 9 num_decimal 0.345573508414
+helus SNARC_only CD 4 lctrl 0.489519395283
+helus SNARC_only CD 6 lctrl 0.425405986753
+helus SNARC_only CD 3 num_decimal 0.505359903211
+helus SNARC_only CD 4 lctrl 0.52097013357
+helus SNARC_only CD 3 num_decimal 0.617236312042
+helus SNARC_only CD 9 num_decimal 0.63312756503
+helus SNARC_only CD 5 num_decimal 0.569071900827
+helus SNARC_only CD 1 num_decimal 0.497011115978
+helus SNARC_only CD 9 num_decimal 0.40093881861
+helus SNARC_only CD 1 num_decimal 0.496869029797
+helus SNARC_only CD 6 lctrl 0.592768443981
+helus SNARC_only CD 5 num_decimal 0.480739799968
+helus SNARC_only CD 9 num_decimal 0.424276646663
+helus SNARC_only CD 8 lctrl 0.337558588682
+helus SNARC_only CD 2 lctrl 0.457462166058
+helus SNARC_only CD 9 num_decimal 0.441041064652
+helus SNARC_only CD 5 lctrl 0.441347984801
+helus SNARC_only CD 2 lctrl 0.488345259597
+helus SNARC_only CD 7 num_decimal 0.593228299229
+helus SNARC_only CD 3 num_decimal 0.489214574947
+helus SNARC_only CD 6 num_decimal 0.44910182993
+helus SNARC_only CD 3 num_decimal 0.480751698808
+helus SNARC_only CD 9 num_decimal 0.441014467244
+helus SNARC_only CD 3 num_decimal 0.480920382397
+helus SNARC_only CD 6 lctrl 0.44880120919
+helus SNARC_only CD 6 lctrl 0.496766139811
+helus SNARC_only CD 1 num_decimal 0.87274853795
+helus SNARC_only CD 3 num_decimal 0.536665055639
+helus SNARC_only CD 8 lctrl 0.520516927703
+helus SNARC_only CD 5 num_decimal 0.641487551184
+helus SNARC_only CD 2 lctrl 0.545075786882
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'helus', 'dateStr': u'05_18_1414'}
+helus resp_prep 1.0 green q 0.473540300853
+helus resp_prep 0.6 green q 0.465939740767
+helus resp_prep 0.3 green q 0.37033499789
+helus resp_prep 0.1 red p 0.443809645134
+helus resp_prep 0.3 red p 0.347112658579
+helus resp_prep 0.8 green q 0.453541147755
+helus resp_prep 0.3 green q 0.397549398564
+helus resp_prep 1.0 green q 0.398289226549
+helus resp_prep 0.6 green q 0.508730775065
+helus resp_prep 0.1 green q 0.417856871645
+helus resp_prep 0.6 red p 0.320345864311
+helus resp_prep 0.3 red p 0.365161101567
+helus resp_prep 0.3 green q 0.41119212046
+helus resp_prep 1.0 red p 0.508313615661
+helus resp_prep 0.6 green q 0.421506316372
+helus resp_prep 0.6 green q 0.348317241325
+helus resp_prep 0.6 red p 0.505524737178
+helus resp_prep 0.8 green q 0.423846538557
+helus resp_prep 0.3 green q 0.439560708764
+helus resp_prep 0.8 red p 0.428345000604
+helus resp_prep 0.8 green q 0.368655861355
+helus resp_prep 0.1 red p 0.434301420755
+helus resp_prep 0.6 red p 0.577103618969
+helus resp_prep 1.0 red p 0.374287863058
+helus resp_prep 0.3 red p 0.44431814563
+helus resp_prep 0.8 red p 0.433080039656
+helus resp_prep 1.0 green q 0.402668700204
+helus resp_prep 1.0 red p 0.371314552525
+helus resp_prep 0.3 red p 0.409535381739
+helus resp_prep 0.1 green q 0.452265871922
+helus resp_prep 0.3 green q 0.435935761634
+helus resp_prep 0.8 red p 0.392322307423
+helus resp_prep 1.0 green q 0.489037492196
+helus resp_prep 0.6 green q 0.425838194642
+helus resp_prep 0.6 green q 0.521034527308
+helus resp_prep 0.8 green q 0.383858031419
+helus resp_prep 0.1 green q 0.465821802238
+helus resp_prep 0.3 red p 0.441917379329
+helus resp_prep 0.3 red p 0.394024891692
+helus resp_prep 1.0 red p 0.282719627256
+helus resp_prep 0.1 red p 0.450228020287
+helus resp_prep 0.6 red p 0.369463232753
+helus resp_prep 1.0 green q 0.337454648805
+helus resp_prep 0.8 red p 0.459448222711
+helus resp_prep 0.6 green q 0.515423523524
+helus resp_prep 1.0 green q 0.463081219059
+helus resp_prep 0.8 red p 0.396281821973
+helus resp_prep 0.1 red p 0.518629561411
+helus resp_prep 1.0 green q 0.369839446153
+helus resp_prep 1.0 green q 0.417823624855
+helus resp_prep 1.0 green q 0.539011227258
+helus resp_prep 0.3 red p 0.509417758178
+helus resp_prep 1.0 green q 0.513035705982
+helus resp_prep 0.6 red p 0.546261821437
+helus resp_prep 0.8 red p 0.449454945541
+helus resp_prep 0.6 red p 0.433034894057
+helus resp_prep 0.1 green q 0.45213568458
+helus resp_prep 0.3 red p 0.483913291042
+helus resp_prep 1.0 red p 0.446605172998
+helus resp_prep 0.8 green q 0.491382613895
+helus resp_prep 0.1 red p 0.496132701461
+helus resp_prep 0.3 green q 0.489163829887
+helus resp_prep 1.0 red p 0.444176059478
+helus resp_prep 0.3 green q 0.484270956222
+helus resp_prep 0.1 green q 0.448525086074
+helus resp_prep 0.3 red p 0.472222329176
+helus resp_prep 0.1 green q 0.468571484555
+helus resp_prep 0.6 red p 0.42821096367
+helus resp_prep 0.1 red p 0.519365889748
+helus resp_prep 0.1 green q 0.51613115464
+helus resp_prep 0.6 green q 0.548941160581
+helus resp_prep 1.0 red p 0.361768531817
+helus resp_prep 0.1 red p 0.547428957769
+helus resp_prep 0.3 red p 0.469345959165
+helus resp_prep 0.6 red p 0.445746006648
+helus resp_prep 0.1 green q 0.489354211371
+helus resp_prep 0.6 green q 0.377337816171
+helus resp_prep 0.1 green q 0.435424461437
+helus resp_prep 0.8 green q 0.335360452649
+helus resp_prep 0.3 red p 0.43654295255
+helus resp_prep 1.0 green q 0.390229861136
+helus resp_prep 0.3 green q 0.452634386049
+helus resp_prep 0.1 red p 0.368083667039
+helus resp_prep 0.3 green q 0.493327024597
+helus resp_prep 0.8 green q 0.43537126662
+helus resp_prep 0.8 red p 0.351777004515
+helus resp_prep 0.8 red p 0.378126989352
+helus resp_prep 1.0 red p 0.378512301832
+helus resp_prep 0.8 red p 0.389652767306
+helus resp_prep 0.6 green q 0.523715616291
+helus resp_prep 0.1 red p 0.473303023959
+helus resp_prep 0.6 red p 0.424942281854
+helus resp_prep 0.1 green q 0.4756733432
+helus resp_prep 0.6 red p 0.299594984419
+helus resp_prep 1.0 green q 0.34611070613
+helus resp_prep 0.1 red p 0.42725590663
+helus resp_prep 0.3 red p 0.466204315017
+helus resp_prep 0.6 green q 0.434094940865
+helus resp_prep 0.8 red p 0.366308989818
+helus resp_prep 0.6 red p 0.516055212036
+helus resp_prep 0.1 red p 0.449500791088
+helus resp_prep 0.8 red p 0.406067219359
+helus resp_prep 0.1 green q 0.504573529761
+helus resp_prep 0.1 green q 0.484862398647
+helus resp_prep 1.0 red p 0.43933638063
+helus resp_prep 0.8 green q 0.452055192436
+helus resp_prep 0.6 green q 0.36367724603
+helus resp_prep 0.8 green q 0.342474210134
+helus resp_prep 0.6 red p 0.427337798668
+helus resp_prep 0.6 red p 0.33847654931
+helus resp_prep 0.8 red p 0.356524992298
+helus resp_prep 0.6 green q 0.457696643221
+helus resp_prep 1.0 green q 0.380115495762
+helus resp_prep 0.3 green q 0.474482759106
+helus resp_prep 0.6 green q 0.418845175445
+helus resp_prep 0.8 red p 0.414838765457
+helus resp_prep 0.1 red p 0.425493828167
+helus resp_prep 0.3 green q 0.416506353096
+helus resp_prep 0.8 green q 0.34047520475
+helus resp_prep 0.3 red p 0.481724604091
+helus resp_prep 0.3 green q 0.402416724712
+helus resp_prep 0.3 green q 0.385342586902
+helus resp_prep 0.8 green q 0.38044901329
+helus resp_prep 1.0 red p 0.324823328439
+helus resp_prep 1.0 red p 0.331648713996
+helus resp_prep 0.8 green q 0.589651297429
+helus resp_prep 1.0 green q 0.323278928787
+helus resp_prep 0.3 red p 0.488100983377
+helus resp_prep 0.8 green q 1.01406758055
+helus resp_prep 1.0 red p 0.350435585104
+helus resp_prep 0.6 green q 0.571596555063
+helus resp_prep 0.1 red p 0.594336641341
+helus resp_prep 1.0 green q 0.367455128231
+helus resp_prep 1.0 red p 0.463626465964
+helus resp_prep 1.0 red p 0.497992420424
+helus resp_prep 0.8 red p 0.543989142636
+helus resp_prep 0.8 red p 0.431247968023
+helus resp_prep 0.1 red p 0.514210891561
+helus resp_prep 0.6 red p 0.419206340273
+helus resp_prep 0.8 green q 0.447283056972
+helus resp_prep 0.8 green q 0.419989214046
+helus resp_prep 1.0 red p 0.492960260308
+helus resp_prep 0.1 red p 0.937852350064
+helus resp_prep 0.6 red p 0.453561095812
+helus resp_prep 0.3 green q 0.469630831416
+helus resp_prep 0.1 green q 0.63400247987
+helus resp_prep 0.1 green q 0.602022943058
+helus resp_prep 0.3 red p 0.477211093501
+helus resp_prep 0.1 green q 0.521665865817
+helus resp_prep 0.3 green q 0.434809921251

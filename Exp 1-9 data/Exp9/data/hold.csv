@@ -1,0 +1,2166 @@
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'DC', 'dateStr': u'03_23_1400', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hold', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hold SNARC color arabic DC 0 up 3 num_decimal 1.98592888009
+hold SNARC color arabic DC 0 up 8 num_decimal 0.827146985321
+hold SNARC color arabic DC 0 up 9 num_decimal 0.552579840893
+hold SNARC color arabic DC 0 up 8 num_decimal 0.495605467571
+hold SNARC color arabic DC 0 up 6 num_decimal 0.460819159882
+hold SNARC color arabic DC 0 up 2 num_decimal 0.441284021712
+hold SNARC color arabic DC 0 up 5 num_decimal 0.38132201707
+hold SNARC color arabic DC 0 down 5 lctrl 0.45624115791
+hold SNARC color arabic DC 0 up 7 num_decimal 0.508754419527
+hold SNARC color arabic DC 0 down 3 lctrl 0.426654660303
+hold SNARC color arabic DC 0 down 2 lctrl 0.445925891559
+hold SNARC color arabic DC 0 up 2 num_decimal 0.378111450656
+hold SNARC color arabic DC 0 down 4 lctrl 0.324602512788
+hold SNARC color arabic DC 0 up 5 num_decimal 0.390155367684
+hold SNARC color arabic DC 0 down 7 lctrl 0.417021454792
+hold SNARC color arabic DC 0 down 8 lctrl 0.596778226594
+hold SNARC color arabic DC 0 up 7 num_decimal 0.556267307591
+hold SNARC color arabic DC 0 up 5 num_decimal 0.651300314028
+hold SNARC color arabic DC 0 up 3 num_decimal 0.380601997007
+hold SNARC color arabic DC 0 down 4 lctrl 0.415341307584
+hold SNARC color arabic DC 0 up 2 num_decimal 0.427233086462
+hold SNARC color arabic DC 0 up 5 num_decimal 0.438951036223
+hold SNARC color arabic DC 0 down 7 lctrl 0.362922341475
+hold SNARC color arabic DC 0 up 9 num_decimal 0.628836893462
+hold SNARC color arabic DC 0 down 5 lctrl 0.437471831843
+hold SNARC color arabic DC 0 down 2 lctrl 0.51352191632
+hold SNARC color arabic DC 0 down 2 lctrl 0.695102538099
+hold SNARC color arabic DC 0 down 6 lctrl 0.456578874422
+hold SNARC color arabic DC 0 down 1 lctrl 0.429558540331
+hold SNARC color arabic DC 0 up 5 num_decimal 0.432964024309
+hold SNARC color arabic DC 0 down 9 lctrl 0.469044861777
+hold SNARC color arabic DC 0 up 3 num_decimal 0.489846813463
+hold SNARC color arabic DC 0 up 4 num_decimal 0.486926665195
+hold SNARC color arabic DC 0 down 2 lctrl 0.46823054619
+hold SNARC color arabic DC 0 up 2 num_decimal 0.569049320475
+hold SNARC color arabic DC 0 up 5 num_decimal 0.608484427081
+hold SNARC color arabic DC 0 down 7 lctrl 0.432687163033
+hold SNARC color arabic DC 0 down 6 lctrl 0.428708374413
+hold SNARC color arabic DC 0 down 8 lctrl 0.440253398847
+hold SNARC color arabic DC 0 up 4 num_decimal 0.548540799529
+hold SNARC color arabic DC 0 up 7 num_decimal 0.419641544489
+hold SNARC color arabic DC 0 up 6 num_decimal 0.423205191852
+hold SNARC color arabic DC 0 up 5 num_decimal 0.394779764247
+hold SNARC color arabic DC 0 down 5 lctrl 0.389729380913
+hold SNARC color arabic DC 0 down 6 lctrl 0.400592645805
+hold SNARC color arabic DC 0 down 6 lctrl 0.364203615653
+hold SNARC color arabic DC 0 up 2 num_decimal 0.526511198579
+hold SNARC color arabic DC 0 down 5 lctrl 0.589146315295
+hold SNARC color arabic DC 0 down 8 num_decimal 0.340909611274
+hold SNARC color arabic DC 0 down 5 lctrl 1.18548921596
+hold SNARC color arabic DC 0 up 7 num_decimal 0.660211691909
+hold SNARC color arabic DC 0 up 1 num_decimal 0.716371147137
+hold SNARC color arabic DC 0 down 5 lctrl 0.497455226199
+hold SNARC color arabic DC 0 down 9 lctrl 0.495078858759
+hold SNARC color arabic DC 0 up 9 num_decimal 0.56589509036
+hold SNARC color arabic DC 0 down 6 lctrl 0.761004256245
+hold SNARC color arabic DC 0 up 9 num_decimal 0.541641561373
+hold SNARC color arabic DC 0 up 2 num_decimal 0.514030449311
+hold SNARC color arabic DC 0 up 9 num_decimal 0.535210788134
+hold SNARC color arabic DC 0 down 8 lctrl 0.531200366822
+hold SNARC color arabic DC 0 up 3 num_decimal 0.488161243527
+hold SNARC color arabic DC 0 down 2 lctrl 0.479483043673
+hold SNARC color arabic DC 0 up 4 num_decimal 0.510602671857
+hold SNARC color arabic DC 0 up 8 num_decimal 0.629346932779
+hold SNARC color arabic DC 0 down 3 lctrl 0.462396877469
+hold SNARC color arabic DC 0 down 5 lctrl 0.767009343996
+hold SNARC color arabic DC 0 down 3 lctrl 0.459012180698
+hold SNARC color arabic DC 0 down 4 lctrl 0.50722008392
+hold SNARC color arabic DC 0 down 4 lctrl 0.393650025668
+hold SNARC color arabic DC 0 up 3 num_decimal 0.452391611369
+hold SNARC color arabic DC 0 down 9 lctrl 0.436060110529
+hold SNARC color arabic DC 0 up 2 num_decimal 0.396425567393
+hold SNARC color arabic DC 0 up 8 num_decimal 0.495574437417
+hold SNARC color arabic DC 0 down 9 lctrl 0.885675577636
+hold SNARC color arabic DC 0 up 9 num_decimal 0.676622123836
+hold SNARC color arabic DC 0 up 1 num_decimal 0.636066919076
+hold SNARC color arabic DC 0 down 7 lctrl 0.421359349653
+hold SNARC color arabic DC 0 up 8 num_decimal 0.550947293319
+hold SNARC color arabic DC 0 up 8 num_decimal 0.458964882302
+hold SNARC color arabic DC 0 up 1 num_decimal 0.555581330322
+hold SNARC color arabic DC 0 down 1 lctrl 0.855418467225
+hold SNARC color arabic DC 0 up 4 num_decimal 0.943732391141
+hold SNARC color arabic DC 0 up 2 num_decimal 0.492069536471
+hold SNARC color arabic DC 0 up 4 num_decimal 0.411090477894
+hold SNARC color arabic DC 0 up 2 num_decimal 0.429818530843
+hold SNARC color arabic DC 0 up 8 num_decimal 0.431188979055
+hold SNARC color arabic DC 0 down 6 lctrl 0.424005046778
+hold SNARC color arabic DC 0 down 8 lctrl 0.488914402566
+hold SNARC color arabic DC 0 down 3 lctrl 0.438888975928
+hold SNARC color arabic DC 0 down 8 lctrl 0.558758456464
+hold SNARC color arabic DC 0 down 1 lctrl 0.578501165277
+hold SNARC color arabic DC 0 down 3 lctrl 0.502464336416
+hold SNARC color arabic DC 0 down 5 lctrl 0.604813831145
+hold SNARC color arabic DC 0 down 4 lctrl 0.407374391143
+hold SNARC color arabic DC 0 down 4 lctrl 0.649858165096
+hold SNARC color arabic DC 0 down 5 lctrl 0.746081162826
+hold SNARC color arabic DC 0 up 1 num_decimal 0.454026870313
+hold SNARC color arabic DC 0 up 4 num_decimal 0.454673080763
+hold SNARC color arabic DC 0 up 8 num_decimal 0.518295438378
+hold SNARC color arabic DC 0 down 3 lctrl 0.483671813039
+hold SNARC color arabic DC 0 down 6 lctrl 0.715006724204
+hold SNARC color arabic DC 0 up 7 num_decimal 0.408818648939
+hold SNARC color arabic DC 0 up 9 num_decimal 0.491240760253
+hold SNARC color arabic DC 0 up 3 num_decimal 0.514140410538
+hold SNARC color arabic DC 0 up 1 num_decimal 0.431286889725
+hold SNARC color arabic DC 0 up 6 num_decimal 0.480607058242
+hold SNARC color arabic DC 0 down 4 lctrl 0.495058975372
+hold SNARC color arabic DC 0 down 3 lctrl 0.742074356691
+hold SNARC color arabic DC 0 up 1 num_decimal 0.63447052316
+hold SNARC color arabic DC 0 up 9 num_decimal 0.707625765514
+hold SNARC color arabic DC 0 up 8 num_decimal 0.449630831572
+hold SNARC color arabic DC 0 up 5 num_decimal 0.60926831502
+hold SNARC color arabic DC 0 down 1 lctrl 0.522856870855
+hold SNARC color arabic DC 0 up 8 num_decimal 0.415804952296
+hold SNARC color arabic DC 0 down 9 lctrl 0.625177444279
+hold SNARC color arabic DC 0 up 7 num_decimal 0.586267440158
+hold SNARC color arabic DC 0 down 1 lctrl 0.485831571947
+hold SNARC color arabic DC 0 down 7 lctrl 0.524748203869
+hold SNARC color arabic DC 0 up 6 num_decimal 0.473990405357
+hold SNARC color arabic DC 0 up 7 num_decimal 0.441131281041
+hold SNARC color arabic DC 0 down 3 lctrl 0.466433508715
+hold SNARC color arabic DC 0 up 7 num_decimal 0.52164217594
+hold SNARC color arabic DC 0 up 6 num_decimal 0.423678778272
+hold SNARC color arabic DC 0 down 8 lctrl 0.449814301101
+hold SNARC color arabic DC 0 up 8 num_decimal 0.385813556379
+hold SNARC color arabic DC 0 down 5 lctrl 0.48444756688
+hold SNARC color arabic DC 0 down 5 lctrl 0.531434749908
+hold SNARC color arabic DC 0 down 7 lctrl 0.447835902902
+hold SNARC color arabic DC 0 down 4 lctrl 0.560362082731
+hold SNARC color arabic DC 0 up 4 num_decimal 0.452923944191
+hold SNARC color arabic DC 0 up 3 num_decimal 0.445521595786
+hold SNARC color arabic DC 0 down 3 lctrl 0.646401767575
+hold SNARC color arabic DC 0 down 2 lctrl 0.663753949557
+hold SNARC color arabic DC 0 down 3 lctrl 0.383532990774
+hold SNARC color arabic DC 0 up 7 num_decimal 0.47462908423
+hold SNARC color arabic DC 0 down 3 lctrl 0.850578064637
+hold SNARC color arabic DC 0 up 3 num_decimal 0.514505843312
+hold SNARC color arabic DC 0 down 6 lctrl 0.576185954371
+hold SNARC color arabic DC 0 up 8 num_decimal 0.483615175486
+hold SNARC color arabic DC 0 down 4 lctrl 0.570129350555
+hold SNARC color arabic DC 0 up 3 num_decimal 0.549438866379
+hold SNARC color arabic DC 0 down 3 lctrl 0.52183769604
+hold SNARC color arabic DC 0 up 4 num_decimal 0.471127798446
+hold SNARC color arabic DC 0 up 1 num_decimal 0.814691542197
+hold SNARC color arabic DC 0 up 5 num_decimal 0.656674857019
+hold SNARC color arabic DC 0 down 5 lctrl 0.536126629537
+hold SNARC color arabic DC 0 up 7 num_decimal 0.524797912367
+hold SNARC color arabic DC 0 up 6 num_decimal 0.434433588249
+hold SNARC color arabic DC 0 down 7 lctrl 0.459152268275
+hold SNARC color arabic DC 0 up 9 num_decimal 0.563334048318
+hold SNARC color arabic DC 0 down 5 lctrl 0.543441611502
+hold SNARC color arabic DC 0 up 9 num_decimal 0.484632241467
+hold SNARC color arabic DC 0 up 6 num_decimal 0.451310376244
+hold SNARC color arabic DC 0 down 2 lctrl 0.51577054798
+hold SNARC color arabic DC 0 up 9 num_decimal 0.521780154682
+hold SNARC color arabic DC 0 down 1 lctrl 0.430913925375
+hold SNARC color arabic DC 0 up 4 num_decimal 0.511989388295
+hold SNARC color arabic DC 0 up 8 num_decimal 0.40604099835
+hold SNARC color arabic DC 0 down 5 lctrl 0.392568188006
+hold SNARC color arabic DC 0 down 4 lctrl 0.395588657062
+hold SNARC color arabic DC 0 up 1 num_decimal 0.542886081384
+hold SNARC color arabic DC 0 up 1 num_decimal 0.514920382047
+hold SNARC color arabic DC 0 up 2 num_decimal 0.608325962414
+hold SNARC color arabic DC 0 down 2 lctrl 0.417528180202
+hold SNARC color arabic DC 0 up 2 num_decimal 0.571199137659
+hold SNARC color arabic DC 0 up 3 num_decimal 0.423362752728
+hold SNARC color arabic DC 0 up 5 num_decimal 0.400672179385
+hold SNARC color arabic DC 0 up 8 num_decimal 0.402382452958
+hold SNARC color arabic DC 0 up 8 num_decimal 0.372052436738
+hold SNARC color arabic DC 0 down 5 lctrl 0.423007864185
+hold SNARC color arabic DC 0 up 4 num_decimal 0.607884611207
+hold SNARC color arabic DC 0 up 5 num_decimal 0.601792157031
+hold SNARC color arabic DC 0 up 7 num_decimal 0.475797685809
+hold SNARC color arabic DC 0 up 2 num_decimal 0.50659345559
+hold SNARC color arabic DC 0 down 5 lctrl 0.440619132889
+hold SNARC color arabic DC 0 down 7 lctrl 0.513241138644
+hold SNARC color arabic DC 0 down 3 lctrl 0.37545340175
+hold SNARC color arabic DC 0 up 9 num_decimal 0.402716554308
+hold SNARC color arabic DC 0 down 4 lctrl 0.436249605336
+hold SNARC color arabic DC 0 up 8 num_decimal 0.429657656074
+hold SNARC color arabic DC 0 down 8 lctrl 0.463635070933
+hold SNARC color arabic DC 0 down 3 lctrl 0.480085570918
+hold SNARC color arabic DC 0 up 5 num_decimal 0.48008135322
+hold SNARC color arabic DC 0 down 7 lctrl 0.431883090423
+hold SNARC color arabic DC 0 down 9 lctrl 0.465078424939
+hold SNARC color arabic DC 0 up 7 num_decimal 0.416969336176
+hold SNARC color arabic DC 0 up 4 num_decimal 0.378642277166
+hold SNARC color arabic DC 0 up 9 num_decimal 0.406349492318
+hold SNARC color arabic DC 0 up 3 num_decimal 0.336307206948
+hold SNARC color arabic DC 0 down 4 lctrl 0.437751103222
+hold SNARC color arabic DC 0 down 8 lctrl 0.558911498389
+hold SNARC color arabic DC 0 down 9 lctrl 0.379678925281
+hold SNARC color arabic DC 0 down 1 lctrl 0.391210995396
+hold SNARC color arabic DC 0 up 2 num_decimal 0.418524760258
+hold SNARC color arabic DC 0 up 6 num_decimal 0.356165600999
+hold SNARC color arabic DC 0 up 4 num_decimal 0.28827765178
+hold SNARC color arabic DC 0 up 6 num_decimal 0.303095001669
+hold SNARC color arabic DC 0 down 6 lctrl 0.405191434955
+hold SNARC color arabic DC 0 up 2 num_decimal 0.399772907491
+hold SNARC color arabic DC 0 up 7 num_decimal 0.362097180405
+hold SNARC color arabic DC 0 up 1 num_decimal 0.397757755127
+hold SNARC color arabic DC 0 down 3 lctrl 0.40809862889
+hold SNARC color arabic DC 0 up 9 num_decimal 0.754828954567
+hold SNARC color arabic DC 0 down 5 lctrl 0.407079755329
+hold SNARC color arabic DC 0 down 6 lctrl 0.609738888801
+hold SNARC color arabic DC 0 up 3 num_decimal 0.402795786649
+hold SNARC color arabic DC 0 up 1 num_decimal 0.917232640597
+hold SNARC color arabic DC 0 up 2 num_decimal 0.46712038976
+hold SNARC color arabic DC 0 down 1 lctrl 0.466050301387
+hold SNARC color arabic DC 0 down 1 lctrl 0.393494272386
+hold SNARC color arabic DC 0 up 1 num_decimal 0.532725363271
+hold SNARC color arabic DC 0 up 7 num_decimal 0.617936271898
+hold SNARC color arabic DC 0 up 8 num_decimal 0.491959575244
+hold SNARC color arabic DC 0 down 8 lctrl 0.442334226682
+hold SNARC color arabic DC 0 up 3 num_decimal 0.587750862222
+hold SNARC color arabic DC 0 up 2 num_decimal 0.566996208901
+hold SNARC color arabic DC 0 up 8 num_decimal 0.402419207123
+hold SNARC color arabic DC 0 down 9 lctrl 0.484592173409
+hold SNARC color arabic DC 0 down 4 lctrl 0.427547605679
+hold SNARC color arabic DC 0 up 8 num_decimal 0.477615209238
+hold SNARC color arabic DC 0 down 9 num_decimal 0.364894714396
+hold SNARC color arabic DC 0 down 1 lctrl 0.856519585752
+hold SNARC color arabic DC 0 down 5 lctrl 0.481119507662
+hold SNARC color arabic DC 0 down 2 lctrl 0.352269961135
+hold SNARC color arabic DC 0 down 7 lctrl 0.404042114256
+hold SNARC color arabic DC 0 down 7 lctrl 0.382670171763
+hold SNARC color arabic DC 0 down 4 lctrl 0.42485039249
+hold SNARC color arabic DC 0 down 3 lctrl 0.313924223752
+hold SNARC color arabic DC 0 down 9 lctrl 0.31938161423
+hold SNARC color arabic DC 0 down 5 lctrl 0.316487374657
+hold SNARC color arabic DC 0 down 1 lctrl 0.370492192451
+hold SNARC color arabic DC 0 down 4 lctrl 0.334157389763
+hold SNARC color arabic DC 0 up 6 num_decimal 0.507256536817
+hold SNARC color arabic DC 0 down 2 lctrl 0.385128784168
+hold SNARC color arabic DC 0 down 1 lctrl 0.492327719388
+hold SNARC color arabic DC 0 up 5 num_decimal 0.499048006954
+hold SNARC color arabic DC 0 up 4 num_decimal 0.585035271943
+hold SNARC color arabic DC 0 up 1 num_decimal 0.372046411459
+hold SNARC color arabic DC 0 up 6 num_decimal 0.391153755307
+hold SNARC color arabic DC 0 up 8 num_decimal 0.586533154667
+hold SNARC color arabic DC 0 down 4 lctrl 0.597042736044
+hold SNARC color arabic DC 0 up 9 num_decimal 0.576408286914
+hold SNARC color arabic DC 0 down 4 lctrl 0.628128923971
+hold SNARC color arabic DC 0 down 1 lctrl 0.669641544489
+hold SNARC color arabic DC 0 down 9 lctrl 0.525468525171
+hold SNARC color arabic DC 0 up 3 num_decimal 0.603537678442
+hold SNARC color arabic DC 0 up 4 num_decimal 0.693851992793
+hold SNARC color arabic DC 0 down 4 lctrl 0.485138364354
+hold SNARC color arabic DC 0 up 6 num_decimal 0.596470636432
+hold SNARC color arabic DC 0 up 1 num_decimal 0.423259419302
+hold SNARC color arabic DC 0 down 6 lctrl 0.712920172373
+hold SNARC color arabic DC 0 up 8 num_decimal 0.97492854028
+hold SNARC color arabic DC 0 down 6 lctrl 0.978828699095
+hold SNARC color arabic DC 0 up 7 num_decimal 1.00678355293
+hold SNARC color arabic DC 0 down 2 lctrl 0.865220079111
+hold SNARC color arabic DC 0 down 3 lctrl 0.480555843431
+hold SNARC color arabic DC 0 down 7 lctrl 0.431896647293
+hold SNARC color arabic DC 0 up 6 num_decimal 0.440101561995
+hold SNARC color arabic DC 0 up 2 num_decimal 0.608851064899
+hold SNARC color arabic DC 0 up 7 num_decimal 0.403373610272
+hold SNARC color arabic DC 0 down 5 lctrl 0.445527319782
+hold SNARC color arabic DC 0 up 6 num_decimal 0.342063752207
+hold SNARC color arabic DC 0 down 4 lctrl 0.378035532238
+hold SNARC color arabic DC 0 down 5 lctrl 0.397566753993
+hold SNARC color arabic DC 0 up 6 num_decimal 0.432831769576
+hold SNARC color arabic DC 0 down 7 lctrl 0.513272771306
+hold SNARC color arabic DC 0 up 9 num_decimal 0.447848857249
+hold SNARC color arabic DC 0 up 4 num_decimal 0.360580318098
+hold SNARC color arabic DC 0 up 2 num_decimal 0.363928863211
+hold SNARC color arabic DC 0 down 9 lctrl 0.463447082439
+hold SNARC color arabic DC 0 up 8 num_decimal 0.639944784401
+hold SNARC color arabic DC 0 up 6 num_decimal 0.360608636853
+hold SNARC color arabic DC 0 down 9 lctrl 0.524502071494
+hold SNARC color arabic DC 0 down 3 lctrl 0.378224424523
+hold SNARC color arabic DC 0 down 9 lctrl 0.398460904427
+hold SNARC color arabic DC 0 down 1 lctrl 0.473149578596
+hold SNARC color arabic DC 0 up 7 num_decimal 0.848068237421
+hold SNARC color arabic DC 0 up 6 num_decimal 0.520676927292
+hold SNARC color arabic DC 0 up 8 num_decimal 0.501859399068
+hold SNARC color arabic DC 0 up 6 num_decimal 0.588513360432
+hold SNARC color arabic DC 0 up 4 num_decimal 0.335762221061
+hold SNARC color arabic DC 0 up 2 num_decimal 0.451904468107
+hold SNARC color arabic DC 0 down 6 lctrl 0.428371561677
+hold SNARC color arabic DC 0 down 3 lctrl 0.381564534284
+hold SNARC color arabic DC 0 down 5 lctrl 0.368437273297
+hold SNARC color arabic DC 0 up 4 num_decimal 0.644332387761
+hold SNARC color arabic DC 0 up 9 num_decimal 0.357430606935
+hold SNARC color arabic DC 0 up 6 num_decimal 0.402352326608
+hold SNARC color arabic DC 0 up 8 num_decimal 0.372258501055
+hold SNARC color arabic DC 0 up 6 num_decimal 0.335686302627
+hold SNARC color arabic DC 0 down 2 lctrl 0.476474926429
+hold SNARC color arabic DC 0 up 4 num_decimal 0.492671159911
+hold SNARC color arabic DC 0 up 6 num_decimal 0.691980543183
+hold SNARC color arabic DC 0 down 6 lctrl 0.643002308876
+hold SNARC color arabic DC 0 up 2 num_decimal 0.595098079371
+hold SNARC color arabic DC 0 up 7 num_decimal 0.461568101251
+hold SNARC color arabic DC 0 down 9 lctrl 0.590218211262
+hold SNARC color arabic DC 0 down 9 lctrl 0.640753978485
+hold SNARC color arabic DC 0 up 2 num_decimal 0.74525690556
+hold SNARC color arabic DC 0 up 7 num_decimal 0.78240602382
+hold SNARC color arabic DC 0 up 6 num_decimal 0.593443840844
+hold SNARC color arabic DC 0 up 1 num_decimal 0.411876474682
+hold SNARC color arabic DC 0 down 2 lctrl 0.470577992324
+hold SNARC color arabic DC 0 up 6 num_decimal 0.710578148981
+hold SNARC color arabic DC 0 down 9 lctrl 0.637032770261
+hold SNARC color arabic DC 0 down 6 lctrl 1.63786696922
+hold SNARC color arabic DC 0 down 2 lctrl 0.590922866875
+hold SNARC color arabic DC 0 up 1 num_decimal 0.737183944337
+hold SNARC color arabic DC 0 down 1 lctrl 0.613687852325
+hold SNARC color arabic DC 0 down 5 lctrl 0.664373648833
+hold SNARC color arabic DC 0 down 8 lctrl 0.558878660668
+hold SNARC color arabic DC 0 down 1 lctrl 0.635474032271
+hold SNARC color arabic DC 0 up 1 num_decimal 1.03682586239
+hold SNARC color arabic DC 0 up 3 num_decimal 1.06133938191
+hold SNARC color arabic DC 0 down 1 lctrl 0.469123792835
+hold SNARC color arabic DC 0 up 7 num_decimal 0.644087761713
+hold SNARC color arabic DC 0 up 9 num_decimal 1.19677334612
+hold SNARC color arabic DC 0 up 9 num_decimal 0.407873283693
+hold SNARC color arabic DC 0 down 4 lctrl 0.402201996054
+hold SNARC color arabic DC 0 down 6 lctrl 0.452215070894
+hold SNARC color arabic DC 0 down 3 lctrl 0.444959437868
+hold SNARC color arabic DC 0 down 9 lctrl 0.37301889043
+hold SNARC color arabic DC 0 up 1 num_decimal 0.480431722812
+hold SNARC color arabic DC 0 up 5 num_decimal 0.375745326193
+hold SNARC color arabic DC 0 up 1 num_decimal 0.403537798935
+hold SNARC color arabic DC 0 down 7 lctrl 0.485617072249
+hold SNARC color arabic DC 0 up 8 num_decimal 0.684787271734
+hold SNARC color arabic DC 0 up 9 num_decimal 0.363979776768
+hold SNARC color arabic DC 0 up 1 num_decimal 0.447984727143
+hold SNARC color arabic DC 0 up 9 num_decimal 0.328558706635
+hold SNARC color arabic DC 0 up 2 num_decimal 0.342578912998
+hold SNARC color arabic DC 0 down 8 lctrl 0.499945471282
+hold SNARC color arabic DC 0 up 8 num_decimal 0.578626490955
+hold SNARC color arabic DC 0 up 5 num_decimal 0.342584637008
+hold SNARC color arabic DC 0 up 9 num_decimal 0.283158580351
+hold SNARC color arabic DC 0 up 3 num_decimal 0.410312012697
+hold SNARC color arabic DC 0 up 5 num_decimal 0.379675008851
+hold SNARC color arabic DC 0 up 4 num_decimal 0.447377078424
+hold SNARC color arabic DC 0 down 5 lctrl 0.511129883176
+hold SNARC color arabic DC 0 down 1 lctrl 0.509400027469
+hold SNARC color arabic DC 0 up 3 num_decimal 0.49199120792
+hold SNARC color arabic DC 0 up 1 num_decimal 0.426611579605
+hold SNARC color arabic DC 0 up 2 num_decimal 0.484638567999
+hold SNARC color arabic DC 0 down 7 lctrl 0.451527286044
+hold SNARC color arabic DC 0 down 7 lctrl 0.411645104221
+hold SNARC color arabic DC 0 up 7 num_decimal 0.45241842384
+hold SNARC color arabic DC 0 up 3 num_decimal 0.5173223569
+hold SNARC color arabic DC 0 up 7 num_decimal 0.370574136163
+hold SNARC color arabic DC 0 up 2 num_decimal 0.461912746832
+hold SNARC color arabic DC 0 down 2 lctrl 0.413752141991
+hold SNARC color arabic DC 0 down 7 lctrl 0.568003935696
+hold SNARC color arabic DC 0 up 4 num_decimal 0.555426782099
+hold SNARC color arabic DC 0 up 6 num_decimal 0.44725295782
+hold SNARC color arabic DC 0 up 2 num_decimal 0.647194693418
+hold SNARC color arabic DC 0 down 1 lctrl 0.631334971404
+hold SNARC color arabic DC 0 down 7 lctrl 0.528163629526
+hold SNARC color arabic DC 0 up 3 num_decimal 0.701012125268
+hold SNARC color arabic DC 0 down 8 lctrl 0.475685615747
+hold SNARC color arabic DC 0 up 3 num_decimal 0.539671899824
+hold SNARC color arabic DC 0 down 8 lctrl 0.487999464953
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'DC', 'dateStr': u'03_23_1411', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hold', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hold SNARC color dot DC 0 down 15 lctrl 2.88325823835
+hold SNARC color dot DC 0 down 35 lctrl 0.858511540806
+hold SNARC color dot DC 0 down 10 lctrl 0.752648709749
+hold SNARC color dot DC 0 up 5 num_decimal 0.700502688487
+hold SNARC color dot DC 0 down 25 lctrl 0.519031726682
+hold SNARC color dot DC 0 up 45 num_decimal 0.4536584249
+hold SNARC color dot DC 0 down 10 lctrl 0.410260195364
+hold SNARC color dot DC 0 up 5 num_decimal 0.533505033512
+hold SNARC color dot DC 0 down 40 lctrl 0.492544327935
+hold SNARC color dot DC 0 down 20 lctrl 0.385872905317
+hold SNARC color dot DC 0 up 35 num_decimal 0.445150740255
+hold SNARC color dot DC 0 up 30 num_decimal 0.361229842456
+hold SNARC color dot DC 0 up 35 num_decimal 0.347390695533
+hold SNARC color dot DC 0 down 5 lctrl 0.397808367416
+hold SNARC color dot DC 0 down 45 lctrl 0.321719721192
+hold SNARC color dot DC 0 down 40 lctrl 0.355465464352
+hold SNARC color dot DC 0 up 45 num_decimal 0.454007890687
+hold SNARC color dot DC 0 down 5 lctrl 0.46661938836
+hold SNARC color dot DC 0 up 45 num_decimal 0.295773391917
+hold SNARC color dot DC 0 down 45 lctrl 0.400874327286
+hold SNARC color dot DC 0 up 30 num_decimal 0.324201229625
+hold SNARC color dot DC 0 down 10 lctrl 0.533697540974
+hold SNARC color dot DC 0 down 5 lctrl 0.41240187845
+hold SNARC color dot DC 0 up 5 num_decimal 0.535664792405
+hold SNARC color dot DC 0 up 20 num_decimal 0.478427717215
+hold SNARC color dot DC 0 up 40 num_decimal 0.379593366422
+hold SNARC color dot DC 0 up 35 num_decimal 0.334160402388
+hold SNARC color dot DC 0 down 20 lctrl 0.391811112524
+hold SNARC color dot DC 0 up 45 num_decimal 0.427265321661
+hold SNARC color dot DC 0 up 30 num_decimal 0.414942434552
+hold SNARC color dot DC 0 up 25 num_decimal 0.434680323146
+hold SNARC color dot DC 0 up 20 num_decimal 0.59866714949
+hold SNARC color dot DC 0 up 45 num_decimal 0.295286851164
+hold SNARC color dot DC 0 up 35 num_decimal 0.328387287649
+hold SNARC color dot DC 0 down 25 lctrl 0.449848343895
+hold SNARC color dot DC 0 down 20 lctrl 0.517962542086
+hold SNARC color dot DC 0 up 30 num_decimal 0.404591317812
+hold SNARC color dot DC 0 up 20 num_decimal 0.287911616484
+hold SNARC color dot DC 0 down 30 lctrl 0.408618007365
+hold SNARC color dot DC 0 up 35 lctrl 0.339953701812
+hold SNARC color dot DC 0 up 20 num_decimal 0.840934314896
+hold SNARC color dot DC 0 down 35 lctrl 0.440088005125
+hold SNARC color dot DC 0 up 20 num_decimal 0.441482855691
+hold SNARC color dot DC 0 down 20 lctrl 0.490802722939
+hold SNARC color dot DC 0 down 45 lctrl 0.465405597235
+hold SNARC color dot DC 0 down 5 lctrl 0.377492052663
+hold SNARC color dot DC 0 down 5 lctrl 0.413361704341
+hold SNARC color dot DC 0 up 10 num_decimal 0.447188186125
+hold SNARC color dot DC 0 up 5 num_decimal 0.423538991949
+hold SNARC color dot DC 0 up 40 num_decimal 0.440761028061
+hold SNARC color dot DC 0 down 5 lctrl 0.481246640906
+hold SNARC color dot DC 0 up 40 num_decimal 0.31946205163
+hold SNARC color dot DC 0 up 20 num_decimal 0.32516497196
+hold SNARC color dot DC 0 up 25 num_decimal 0.378918837159
+hold SNARC color dot DC 0 down 20 lctrl 0.630662852273
+hold SNARC color dot DC 0 down 15 lctrl 0.687353133981
+hold SNARC color dot DC 0 up 5 num_decimal 0.574094883588
+hold SNARC color dot DC 0 up 20 num_decimal 0.553182368138
+hold SNARC color dot DC 0 up 35 num_decimal 0.428286304072
+hold SNARC color dot DC 0 up 40 num_decimal 0.35730076232
+hold SNARC color dot DC 0 down 40 lctrl 0.417058208957
+hold SNARC color dot DC 0 down 45 lctrl 0.441494604966
+hold SNARC color dot DC 0 down 5 lctrl 0.418855547716
+hold SNARC color dot DC 0 down 35 lctrl 0.299746456541
+hold SNARC color dot DC 0 up 20 num_decimal 0.490615336967
+hold SNARC color dot DC 0 down 10 lctrl 0.393325263489
+hold SNARC color dot DC 0 up 45 num_decimal 0.291161949688
+hold SNARC color dot DC 0 down 25 lctrl 0.498039978876
+hold SNARC color dot DC 0 up 40 num_decimal 0.367881140657
+hold SNARC color dot DC 0 up 30 num_decimal 0.85081395405
+hold SNARC color dot DC 0 down 45 lctrl 0.410759690451
+hold SNARC color dot DC 0 down 10 lctrl 0.637097240673
+hold SNARC color dot DC 0 up 35 num_decimal 0.477639009056
+hold SNARC color dot DC 0 up 45 num_decimal 0.364281040398
+hold SNARC color dot DC 0 up 45 num_decimal 0.359241201295
+hold SNARC color dot DC 0 up 5 num_decimal 0.403980957723
+hold SNARC color dot DC 0 up 25 num_decimal 0.309924949208
+hold SNARC color dot DC 0 down 35 lctrl 0.475495217135
+hold SNARC color dot DC 0 down 25 lctrl 0.411551109981
+hold SNARC color dot DC 0 down 10 lctrl 0.404865768985
+hold SNARC color dot DC 0 down 40 lctrl 0.390558458399
+hold SNARC color dot DC 0 up 10 num_decimal 0.480873676555
+hold SNARC color dot DC 0 down 30 lctrl 0.392358508529
+hold SNARC color dot DC 0 down 10 lctrl 0.403666137237
+hold SNARC color dot DC 0 up 30 num_decimal 0.501354179971
+hold SNARC color dot DC 0 down 30 lctrl 0.843368223679
+hold SNARC color dot DC 0 up 10 num_decimal 0.612141466176
+hold SNARC color dot DC 0 up 5 num_decimal 0.510662623317
+hold SNARC color dot DC 0 up 15 num_decimal 0.3645741699
+hold SNARC color dot DC 0 up 35 num_decimal 0.471828537615
+hold SNARC color dot DC 0 up 20 num_decimal 0.471281744147
+hold SNARC color dot DC 0 down 5 lctrl 0.494746564989
+hold SNARC color dot DC 0 down 10 lctrl 0.549839245738
+hold SNARC color dot DC 0 down 20 lctrl 0.63445997893
+hold SNARC color dot DC 0 up 30 num_decimal 0.618574046981
+hold SNARC color dot DC 0 up 35 num_decimal 0.4436383969
+hold SNARC color dot DC 0 up 40 num_decimal 0.371779491892
+hold SNARC color dot DC 0 up 15 num_decimal 0.383726402026
+hold SNARC color dot DC 0 down 10 lctrl 0.562883659222
+hold SNARC color dot DC 0 up 5 num_decimal 0.7834405631
+hold SNARC color dot DC 0 down 45 lctrl 0.505064843979
+hold SNARC color dot DC 0 down 30 lctrl 0.398963412139
+hold SNARC color dot DC 0 down 45 lctrl 0.568538979904
+hold SNARC color dot DC 0 up 35 num_decimal 0.475259628991
+hold SNARC color dot DC 0 up 40 num_decimal 0.394021483706
+hold SNARC color dot DC 0 down 40 lctrl 0.404066817864
+hold SNARC color dot DC 0 down 5 lctrl 0.486761271473
+hold SNARC color dot DC 0 up 30 num_decimal 0.493325805772
+hold SNARC color dot DC 0 down 25 lctrl 0.476431243209
+hold SNARC color dot DC 0 up 20 num_decimal 0.596370315645
+hold SNARC color dot DC 0 up 30 num_decimal 0.447080333746
+hold SNARC color dot DC 0 up 15 num_decimal 0.343445949693
+hold SNARC color dot DC 0 down 45 lctrl 0.63594701617
+hold SNARC color dot DC 0 up 35 num_decimal 0.459656583567
+hold SNARC color dot DC 0 down 35 lctrl 0.42670467007
+hold SNARC color dot DC 0 up 45 num_decimal 0.507690657701
+hold SNARC color dot DC 0 down 35 lctrl 0.553035351477
+hold SNARC color dot DC 0 down 15 lctrl 0.437462492671
+hold SNARC color dot DC 0 up 30 num_decimal 0.454075976275
+hold SNARC color dot DC 0 down 30 lctrl 0.397858678436
+hold SNARC color dot DC 0 up 5 num_decimal 0.832717952188
+hold SNARC color dot DC 0 up 45 num_decimal 0.472421725688
+hold SNARC color dot DC 0 down 20 lctrl 0.423983958317
+hold SNARC color dot DC 0 up 30 num_decimal 0.440782417776
+hold SNARC color dot DC 0 down 45 lctrl 0.528184717987
+hold SNARC color dot DC 0 up 20 num_decimal 0.47789478187
+hold SNARC color dot DC 0 up 15 num_decimal 0.573816214732
+hold SNARC color dot DC 0 down 20 lctrl 0.609783777079
+hold SNARC color dot DC 0 down 10 lctrl 0.42765786816
+hold SNARC color dot DC 0 up 45 num_decimal 0.404961872075
+hold SNARC color dot DC 0 down 20 lctrl 0.4872008151
+hold SNARC color dot DC 0 down 30 lctrl 0.461843154932
+hold SNARC color dot DC 0 up 30 num_decimal 0.421563907643
+hold SNARC color dot DC 0 down 15 lctrl 0.407575936508
+hold SNARC color dot DC 0 down 15 lctrl 0.433702722701
+hold SNARC color dot DC 0 down 35 lctrl 0.313849510392
+hold SNARC color dot DC 0 up 25 num_decimal 0.43977619728
+hold SNARC color dot DC 0 up 45 num_decimal 0.455136424207
+hold SNARC color dot DC 0 down 10 lctrl 0.438923319976
+hold SNARC color dot DC 0 up 15 num_decimal 0.551215417945
+hold SNARC color dot DC 0 up 35 num_decimal 0.474505867402
+hold SNARC color dot DC 0 up 5 num_decimal 0.474527257131
+hold SNARC color dot DC 0 up 30 num_decimal 0.449843222421
+hold SNARC color dot DC 0 down 45 lctrl 0.433809370021
+hold SNARC color dot DC 0 up 40 num_decimal 0.881282551534
+hold SNARC color dot DC 0 up 25 num_decimal 0.464637977522
+hold SNARC color dot DC 0 down 20 lctrl 0.624519183257
+hold SNARC color dot DC 0 up 40 num_decimal 0.489754626804
+hold SNARC color dot DC 0 down 5 lctrl 0.432991138034
+hold SNARC color dot DC 0 down 5 lctrl 0.369396496666
+hold SNARC color dot DC 0 up 20 num_decimal 0.460687507686
+hold SNARC color dot DC 0 down 20 lctrl 0.444272858076
+hold SNARC color dot DC 0 up 5 num_decimal 0.453327938711
+hold SNARC color dot DC 0 up 15 num_decimal 0.374270942048
+hold SNARC color dot DC 0 down 25 lctrl 0.394312504373
+hold SNARC color dot DC 0 up 25 num_decimal 0.389134987781
+hold SNARC color dot DC 0 up 25 num_decimal 0.336220141762
+hold SNARC color dot DC 0 down 30 lctrl 0.396683147788
+hold SNARC color dot DC 0 up 20 num_decimal 0.360135050461
+hold SNARC color dot DC 0 down 30 num_decimal 0.412081333954
+hold SNARC color dot DC 0 up 40 num_decimal 0.597851327606
+hold SNARC color dot DC 0 up 20 num_decimal 0.471621569508
+hold SNARC color dot DC 0 up 10 num_decimal 0.42281023525
+hold SNARC color dot DC 0 down 10 lctrl 0.392069897978
+hold SNARC color dot DC 0 down 45 lctrl 0.498751864827
+hold SNARC color dot DC 0 down 45 lctrl 0.432547376709
+hold SNARC color dot DC 0 down 5 lctrl 0.473854836717
+hold SNARC color dot DC 0 up 20 num_decimal 0.47326134739
+hold SNARC color dot DC 0 down 15 lctrl 0.976693041288
+hold SNARC color dot DC 0 down 25 lctrl 0.636463080751
+hold SNARC color dot DC 0 down 25 lctrl 0.317718639053
+hold SNARC color dot DC 0 down 25 lctrl 0.347403047344
+hold SNARC color dot DC 0 down 45 lctrl 0.351102564586
+hold SNARC color dot DC 0 down 25 lctrl 0.339762098156
+hold SNARC color dot DC 0 up 40 num_decimal 0.496479132082
+hold SNARC color dot DC 0 up 15 num_decimal 0.415793203021
+hold SNARC color dot DC 0 down 15 lctrl 0.457505862578
+hold SNARC color dot DC 0 down 15 lctrl 0.433510516523
+hold SNARC color dot DC 0 down 10 lctrl 0.434390206283
+hold SNARC color dot DC 0 up 35 num_decimal 0.555077316298
+hold SNARC color dot DC 0 down 30 lctrl 0.854752674612
+hold SNARC color dot DC 0 up 25 num_decimal 0.431432400059
+hold SNARC color dot DC 0 down 35 lctrl 0.432042157627
+hold SNARC color dot DC 0 up 45 num_decimal 0.368778303717
+hold SNARC color dot DC 0 up 20 num_decimal 0.492077670584
+hold SNARC color dot DC 0 up 40 num_decimal 0.466660360224
+hold SNARC color dot DC 0 up 10 num_decimal 0.546461176767
+hold SNARC color dot DC 0 up 10 num_decimal 1.32759616937
+hold SNARC color dot DC 0 down 25 lctrl 0.517224747484
+hold SNARC color dot DC 0 up 30 num_decimal 0.498004128516
+hold SNARC color dot DC 0 up 20 num_decimal 0.519836703068
+hold SNARC color dot DC 0 down 15 lctrl 0.493891277583
+hold SNARC color dot DC 0 down 45 num_decimal 0.73179795334
+hold SNARC color dot DC 0 up 45 num_decimal 0.656288938335
+hold SNARC color dot DC 0 down 25 lctrl 0.464604236011
+hold SNARC color dot DC 0 down 25 lctrl 0.384642243429
+hold SNARC color dot DC 0 down 40 lctrl 0.370906128665
+hold SNARC color dot DC 0 down 30 lctrl 0.373508142555
+hold SNARC color dot DC 0 up 35 num_decimal 0.488750816425
+hold SNARC color dot DC 0 down 45 lctrl 0.503395843523
+hold SNARC color dot DC 0 down 10 lctrl 0.525769487533
+hold SNARC color dot DC 0 down 40 lctrl 0.419078181527
+hold SNARC color dot DC 0 down 5 lctrl 0.612581009787
+hold SNARC color dot DC 0 down 25 lctrl 0.462736100293
+hold SNARC color dot DC 0 up 30 num_decimal 0.575404175266
+hold SNARC color dot DC 0 up 20 num_decimal 0.666994039799
+hold SNARC color dot DC 0 down 10 lctrl 0.667025371222
+hold SNARC color dot DC 0 up 30 num_decimal 0.530103767233
+hold SNARC color dot DC 0 up 40 num_decimal 0.687431763799
+hold SNARC color dot DC 0 down 10 lctrl 0.454352837536
+hold SNARC color dot DC 0 down 15 lctrl 0.726963576017
+hold SNARC color dot DC 0 up 10 num_decimal 0.580359660569
+hold SNARC color dot DC 0 up 5 num_decimal 0.528227798684
+hold SNARC color dot DC 0 down 15 lctrl 0.413896447251
+hold SNARC color dot DC 0 up 30 num_decimal 0.503425668634
+hold SNARC color dot DC 0 down 25 lctrl 0.5501293626
+hold SNARC color dot DC 0 up 30 num_decimal 0.498691612098
+hold SNARC color dot DC 0 up 45 num_decimal 0.45657435547
+hold SNARC color dot DC 0 up 5 num_decimal 0.473071852583
+hold SNARC color dot DC 0 down 15 lctrl 0.40858697721
+hold SNARC color dot DC 0 down 20 lctrl 0.44267164194
+hold SNARC color dot DC 0 up 15 num_decimal 0.507462902402
+hold SNARC color dot DC 0 up 35 num_decimal 0.47333877215
+hold SNARC color dot DC 0 down 35 lctrl 0.463404303009
+hold SNARC color dot DC 0 up 45 num_decimal 0.543362680415
+hold SNARC color dot DC 0 up 30 num_decimal 0.548067815645
+hold SNARC color dot DC 0 down 10 lctrl 0.440395294019
+hold SNARC color dot DC 0 up 25 num_decimal 0.441728686797
+hold SNARC color dot DC 0 up 25 num_decimal 0.426570607757
+hold SNARC color dot DC 0 up 45 num_decimal 0.499364333751
+hold SNARC color dot DC 0 up 5 num_decimal 0.345750917651
+hold SNARC color dot DC 0 down 45 lctrl 0.470043249399
+hold SNARC color dot DC 0 down 15 lctrl 0.517673630267
+hold SNARC color dot DC 0 up 35 num_decimal 0.47408168824
+hold SNARC color dot DC 0 up 25 num_decimal 0.569369262434
+hold SNARC color dot DC 0 down 10 lctrl 0.580431060036
+hold SNARC color dot DC 0 down 35 lctrl 0.518734379482
+hold SNARC color dot DC 0 up 30 num_decimal 0.547665628721
+hold SNARC color dot DC 0 up 15 num_decimal 0.392103940758
+hold SNARC color dot DC 0 down 25 lctrl 0.42736443739
+hold SNARC color dot DC 0 up 35 num_decimal 0.452632019733
+hold SNARC color dot DC 0 down 15 lctrl 0.404219257252
+hold SNARC color dot DC 0 down 35 lctrl 0.485384797998
+hold SNARC color dot DC 0 down 5 lctrl 0.40438826615
+hold SNARC color dot DC 0 up 45 num_decimal 0.525968020273
+hold SNARC color dot DC 0 up 10 num_decimal 0.362743692138
+hold SNARC color dot DC 0 down 40 lctrl 0.502660760292
+hold SNARC color dot DC 0 down 5 lctrl 0.748425596335
+hold SNARC color dot DC 0 down 10 lctrl 0.368871092913
+hold SNARC color dot DC 0 up 45 num_decimal 0.452014128052
+hold SNARC color dot DC 0 up 20 num_decimal 0.38063423222
+hold SNARC color dot DC 0 up 10 num_decimal 0.399342401768
+hold SNARC color dot DC 0 up 40 num_decimal 0.361155731604
+hold SNARC color dot DC 0 up 35 num_decimal 0.340490553586
+hold SNARC color dot DC 0 down 5 lctrl 0.473606595493
+hold SNARC color dot DC 0 up 15 num_decimal 0.569626240307
+hold SNARC color dot DC 0 up 10 num_decimal 0.444708786541
+hold SNARC color dot DC 0 down 10 lctrl 0.484709967495
+hold SNARC color dot DC 0 down 45 lctrl 0.482759586812
+hold SNARC color dot DC 0 up 40 num_decimal 0.513577047575
+hold SNARC color dot DC 0 up 20 num_decimal 0.640155066401
+hold SNARC color dot DC 0 down 15 lctrl 0.53744827304
+hold SNARC color dot DC 0 down 15 lctrl 0.622120522312
+hold SNARC color dot DC 0 down 30 lctrl 0.430898560924
+hold SNARC color dot DC 0 up 15 num_decimal 0.487319512962
+hold SNARC color dot DC 0 down 45 lctrl 0.461442173051
+hold SNARC color dot DC 0 down 10 lctrl 0.541662348551
+hold SNARC color dot DC 0 down 25 lctrl 0.394778559188
+hold SNARC color dot DC 0 down 15 lctrl 0.389524521655
+hold SNARC color dot DC 0 up 20 num_decimal 0.440420600178
+hold SNARC color dot DC 0 down 40 lctrl 0.41666626498
+hold SNARC color dot DC 0 down 15 lctrl 0.386732410436
+hold SNARC color dot DC 0 down 10 lctrl 0.350079774609
+hold SNARC color dot DC 0 up 40 num_decimal 0.538074901371
+hold SNARC color dot DC 0 down 40 lctrl 0.406675760809
+hold SNARC color dot DC 0 up 40 num_decimal 0.351838852876
+hold SNARC color dot DC 0 up 20 num_decimal 0.588194322263
+hold SNARC color dot DC 0 up 30 num_decimal 0.45545636618
+hold SNARC color dot DC 0 up 25 num_decimal 0.455042429981
+hold SNARC color dot DC 0 up 30 num_decimal 0.359033028129
+hold SNARC color dot DC 0 up 40 num_decimal 0.346754426777
+hold SNARC color dot DC 0 up 10 num_decimal 0.383853836523
+hold SNARC color dot DC 0 down 40 lctrl 0.41742575058
+hold SNARC color dot DC 0 up 20 num_decimal 0.451103408137
+hold SNARC color dot DC 0 up 5 num_decimal 0.619692638807
+hold SNARC color dot DC 0 up 15 num_decimal 0.413649712355
+hold SNARC color dot DC 0 up 30 num_decimal 0.447560849221
+hold SNARC color dot DC 0 down 15 lctrl 0.455933266494
+hold SNARC color dot DC 0 down 15 lctrl 1.27252186571
+hold SNARC color dot DC 0 down 5 lctrl 0.880442929818
+hold SNARC color dot DC 0 up 40 num_decimal 0.50304185877
+hold SNARC color dot DC 0 up 25 num_decimal 0.405628568464
+hold SNARC color dot DC 0 down 15 lctrl 0.391874076624
+hold SNARC color dot DC 0 up 30 num_decimal 0.569468076908
+hold SNARC color dot DC 0 up 35 num_decimal 0.452795003366
+hold SNARC color dot DC 0 up 40 num_decimal 0.556024489109
+hold SNARC color dot DC 0 up 40 num_decimal 0.471673085587
+hold SNARC color dot DC 0 down 35 lctrl 0.518429500706
+hold SNARC color dot DC 0 up 15 num_decimal 0.476515295755
+hold SNARC color dot DC 0 down 15 lctrl 0.924448205551
+hold SNARC color dot DC 0 up 20 num_decimal 0.538466845348
+hold SNARC color dot DC 0 down 10 lctrl 0.871182688672
+hold SNARC color dot DC 0 down 5 lctrl 1.15916600589
+hold SNARC color dot DC 0 down 35 lctrl 0.650473947928
+hold SNARC color dot DC 0 down 15 lctrl 0.370702173197
+hold SNARC color dot DC 0 down 5 lctrl 0.366608603115
+hold SNARC color dot DC 0 down 20 lctrl 0.370576244997
+hold SNARC color dot DC 0 up 30 num_decimal 0.48583970606
+hold SNARC color dot DC 0 up 40 num_decimal 0.428513456849
+hold SNARC color dot DC 0 up 5 num_decimal 0.502499283
+hold SNARC color dot DC 0 down 5 lctrl 0.412529614216
+hold SNARC color dot DC 0 down 5 lctrl 0.550523415412
+hold SNARC color dot DC 0 up 20 num_decimal 1.03421842576
+hold SNARC color dot DC 0 down 35 lctrl 0.818863742068
+hold SNARC color dot DC 0 down 45 lctrl 1.01188243969
+hold SNARC color dot DC 0 up 40 num_decimal 0.517210286824
+hold SNARC color dot DC 0 up 15 lctrl 0.530749375175
+hold SNARC color dot DC 0 up 30 num_decimal 0.663388818066
+hold SNARC color dot DC 0 down 5 lctrl 0.520056022986
+hold SNARC color dot DC 0 down 25 lctrl 0.453744285027
+hold SNARC color dot DC 0 down 5 lctrl 0.374416151113
+hold SNARC color dot DC 0 up 35 num_decimal 0.521533118517
+hold SNARC color dot DC 0 up 10 num_decimal 0.478879612652
+hold SNARC color dot DC 0 down 10 lctrl 0.438176186188
+hold SNARC color dot DC 0 up 25 num_decimal 0.431476987069
+hold SNARC color dot DC 0 down 25 lctrl 0.576805352379
+hold SNARC color dot DC 0 down 30 lctrl 0.939771075791
+hold SNARC color dot DC 0 up 35 num_decimal 0.640219235574
+hold SNARC color dot DC 0 down 40 lctrl 0.456840069994
+hold SNARC color dot DC 0 down 25 lctrl 0.641583658507
+hold SNARC color dot DC 0 up 25 num_decimal 0.578101388455
+hold SNARC color dot DC 0 up 40 num_decimal 0.452949551604
+hold SNARC color dot DC 0 up 20 num_decimal 0.357332696265
+hold SNARC color dot DC 0 down 35 lctrl 0.408783401101
+hold SNARC color dot DC 0 down 35 lctrl 0.37840518271
+hold SNARC color dot DC 0 down 45 lctrl 0.413323745117
+hold SNARC color dot DC 0 up 25 num_decimal 0.568028036796
+hold SNARC color dot DC 0 up 40 num_decimal 0.466156044917
+hold SNARC color dot DC 0 up 30 num_decimal 0.376973879233
+hold SNARC color dot DC 0 down 15 lctrl 0.596941210213
+hold SNARC color dot DC 0 down 10 lctrl 0.535579836054
+hold SNARC color dot DC 0 down 10 lctrl 0.396243302908
+hold SNARC color dot DC 0 down 5 lctrl 0.391592997665
+hold SNARC color dot DC 0 up 40 num_decimal 0.521919941006
+hold SNARC color dot DC 0 down 10 lctrl 0.495504544262
+hold SNARC color dot DC 0 up 25 num_decimal 1.37485810484
+hold SNARC color dot DC 0 down 35 lctrl 0.489605802577
+hold SNARC color dot DC 0 down 40 lctrl 0.407045712549
+hold SNARC color dot DC 0 up 15 num_decimal 0.648504286379
+hold SNARC color dot DC 0 up 15 num_decimal 0.521435810369
+hold SNARC color dot DC 0 up 35 num_decimal 0.342374656262
+hold SNARC color dot DC 0 up 10 num_decimal 0.395772427859
+hold SNARC color dot DC 0 up 30 num_decimal 0.325907285529
+hold SNARC color dot DC 0 up 45 num_decimal 0.299191528946
+hold SNARC color dot DC 0 down 35 lctrl 0.408806598396
+hold SNARC color dot DC 0 down 20 lctrl 0.41067744547
+hold SNARC color dot DC 0 down 25 lctrl 0.372389550743
+hold SNARC color dot DC 0 down 25 lctrl 0.416356264715
+hold SNARC color dot DC 0 up 40 num_decimal 0.457501946163
+hold SNARC color dot DC 0 down 25 lctrl 0.522183546665
+{'background_stim_color': u'random', 'notation': u'arabic', 'response_buttons': u'CD', 'dateStr': u'03_23_1420', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hold', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hold SNARC color arabic CD 0 up 4 lctrl 1.33707241654
+hold SNARC color arabic CD 0 up 1 lctrl 0.386945705075
+hold SNARC color arabic CD 0 down 8 num_decimal 0.405855419973
+hold SNARC color arabic CD 0 down 5 num_decimal 0.321244327206
+hold SNARC color arabic CD 0 up 5 lctrl 0.370653368489
+hold SNARC color arabic CD 0 up 8 lctrl 0.413021276443
+hold SNARC color arabic CD 0 up 1 lctrl 0.352115111629
+hold SNARC color arabic CD 0 up 1 lctrl 0.314793670579
+hold SNARC color arabic CD 0 up 6 lctrl 0.348236945036
+hold SNARC color arabic CD 0 down 8 num_decimal 0.398461205681
+hold SNARC color arabic CD 0 up 9 lctrl 0.345774114947
+hold SNARC color arabic CD 0 down 2 num_decimal 0.435596767085
+hold SNARC color arabic CD 0 up 3 lctrl 0.455705209941
+hold SNARC color arabic CD 0 up 9 lctrl 0.412122305803
+hold SNARC color arabic CD 0 down 6 num_decimal 0.391388740929
+hold SNARC color arabic CD 0 up 2 lctrl 0.794284245829
+hold SNARC color arabic CD 0 down 9 num_decimal 0.599107898175
+hold SNARC color arabic CD 0 up 4 lctrl 0.607179353072
+hold SNARC color arabic CD 0 up 4 lctrl 0.303347460576
+hold SNARC color arabic CD 0 up 9 lctrl 0.336301784206
+hold SNARC color arabic CD 0 down 8 num_decimal 0.450421347297
+hold SNARC color arabic CD 0 down 5 num_decimal 1.32676468178
+hold SNARC color arabic CD 0 up 7 lctrl 0.480214813011
+hold SNARC color arabic CD 0 down 1 num_decimal 0.620945895454
+hold SNARC color arabic CD 0 down 6 num_decimal 0.477654373506
+hold SNARC color arabic CD 0 down 2 num_decimal 0.434469137355
+hold SNARC color arabic CD 0 down 1 num_decimal 0.30256869414
+hold SNARC color arabic CD 0 up 8 lctrl 0.63964382204
+hold SNARC color arabic CD 0 up 1 lctrl 0.344582014804
+hold SNARC color arabic CD 0 down 6 num_decimal 0.418425644515
+hold SNARC color arabic CD 0 down 8 num_decimal 0.358119898112
+hold SNARC color arabic CD 0 up 9 lctrl 0.384319590084
+hold SNARC color arabic CD 0 up 5 lctrl 0.299241237444
+hold SNARC color arabic CD 0 up 6 lctrl 0.260249590894
+hold SNARC color arabic CD 0 up 3 lctrl 0.308210457952
+hold SNARC color arabic CD 0 down 2 num_decimal 0.573407399992
+hold SNARC color arabic CD 0 down 5 num_decimal 0.388926513377
+hold SNARC color arabic CD 0 down 9 num_decimal 0.359798237725
+hold SNARC color arabic CD 0 up 2 lctrl 0.457944502428
+hold SNARC color arabic CD 0 down 7 num_decimal 0.366415191878
+hold SNARC color arabic CD 0 down 6 num_decimal 0.465053721317
+hold SNARC color arabic CD 0 down 5 num_decimal 0.437867390996
+hold SNARC color arabic CD 0 up 8 lctrl 0.377949069574
+hold SNARC color arabic CD 0 down 2 num_decimal 0.436455368399
+hold SNARC color arabic CD 0 up 3 lctrl 0.456538505096
+hold SNARC color arabic CD 0 down 2 num_decimal 0.261048843269
+hold SNARC color arabic CD 0 down 1 num_decimal 0.372936042942
+hold SNARC color arabic CD 0 up 3 lctrl 0.407538579806
+hold SNARC color arabic CD 0 up 9 num_decimal 0.27486419036
+hold SNARC color arabic CD 0 up 4 lctrl 0.789871336325
+hold SNARC color arabic CD 0 down 8 num_decimal 1.14495750978
+hold SNARC color arabic CD 0 down 4 num_decimal 0.501391837926
+hold SNARC color arabic CD 0 up 3 lctrl 0.483806477889
+hold SNARC color arabic CD 0 up 1 lctrl 0.458648254236
+hold SNARC color arabic CD 0 down 1 num_decimal 0.866510391177
+hold SNARC color arabic CD 0 up 2 lctrl 0.57803059151
+hold SNARC color arabic CD 0 up 1 lctrl 0.356953706636
+hold SNARC color arabic CD 0 down 7 num_decimal 0.352814947008
+hold SNARC color arabic CD 0 down 1 num_decimal 0.405470103811
+hold SNARC color arabic CD 0 up 6 lctrl 0.415257857559
+hold SNARC color arabic CD 0 down 3 num_decimal 0.281203379447
+hold SNARC color arabic CD 0 down 9 num_decimal 0.464487646983
+hold SNARC color arabic CD 0 down 6 num_decimal 0.512089709082
+hold SNARC color arabic CD 0 down 5 num_decimal 0.318689009175
+hold SNARC color arabic CD 0 down 9 num_decimal 0.340403187132
+hold SNARC color arabic CD 0 up 5 lctrl 0.441575946141
+hold SNARC color arabic CD 0 down 3 num_decimal 0.442713216311
+hold SNARC color arabic CD 0 down 4 num_decimal 0.363337181479
+hold SNARC color arabic CD 0 up 1 lctrl 0.463911028404
+hold SNARC color arabic CD 0 up 6 lctrl 0.439640929922
+hold SNARC color arabic CD 0 up 3 lctrl 0.320789720412
+hold SNARC color arabic CD 0 down 4 num_decimal 0.438285846147
+hold SNARC color arabic CD 0 up 9 lctrl 1.4152590626
+hold SNARC color arabic CD 0 down 4 num_decimal 0.423683899746
+hold SNARC color arabic CD 0 down 5 num_decimal 0.425664708062
+hold SNARC color arabic CD 0 down 4 num_decimal 0.355067495097
+hold SNARC color arabic CD 0 up 5 lctrl 0.447232170613
+hold SNARC color arabic CD 0 down 2 num_decimal 0.503483209977
+hold SNARC color arabic CD 0 up 8 lctrl 0.436939800304
+hold SNARC color arabic CD 0 up 5 lctrl 0.476669542739
+hold SNARC color arabic CD 0 up 8 lctrl 0.347595253537
+hold SNARC color arabic CD 0 down 9 num_decimal 0.479671333451
+hold SNARC color arabic CD 0 down 9 num_decimal 0.375579329935
+hold SNARC color arabic CD 0 down 3 num_decimal 0.427396371349
+hold SNARC color arabic CD 0 down 4 num_decimal 0.380946642588
+hold SNARC color arabic CD 0 down 1 num_decimal 0.335313639531
+hold SNARC color arabic CD 0 down 3 num_decimal 0.348601775288
+hold SNARC color arabic CD 0 down 4 num_decimal 0.376254160452
+hold SNARC color arabic CD 0 up 7 lctrl 0.435491927346
+hold SNARC color arabic CD 0 down 7 num_decimal 0.620838645613
+hold SNARC color arabic CD 0 down 3 num_decimal 0.406705284637
+hold SNARC color arabic CD 0 up 1 lctrl 0.385173672461
+hold SNARC color arabic CD 0 up 4 lctrl 0.467942839445
+hold SNARC color arabic CD 0 down 8 num_decimal 0.427257187548
+hold SNARC color arabic CD 0 up 2 lctrl 0.460236817307
+hold SNARC color arabic CD 0 up 8 lctrl 0.756499762603
+hold SNARC color arabic CD 0 down 1 num_decimal 0.39309449555
+hold SNARC color arabic CD 0 up 2 lctrl 0.380376651839
+hold SNARC color arabic CD 0 down 7 num_decimal 0.311948536939
+hold SNARC color arabic CD 0 down 2 num_decimal 0.358546186122
+hold SNARC color arabic CD 0 up 5 lctrl 0.427202056308
+hold SNARC color arabic CD 0 up 6 lctrl 0.524487912102
+hold SNARC color arabic CD 0 down 4 num_decimal 0.370569014674
+hold SNARC color arabic CD 0 down 5 num_decimal 0.390506641052
+hold SNARC color arabic CD 0 down 5 num_decimal 0.321275658629
+hold SNARC color arabic CD 0 down 9 num_decimal 0.262099650776
+hold SNARC color arabic CD 0 down 6 num_decimal 0.254856670814
+hold SNARC color arabic CD 0 up 2 lctrl 0.478685598879
+hold SNARC color arabic CD 0 down 3 num_decimal 0.550437555285
+hold SNARC color arabic CD 0 up 2 lctrl 0.418463001202
+hold SNARC color arabic CD 0 up 7 lctrl 0.467987426455
+hold SNARC color arabic CD 0 down 6 num_decimal 0.419461087586
+hold SNARC color arabic CD 0 up 5 lctrl 0.428798150955
+hold SNARC color arabic CD 0 down 8 num_decimal 0.366083199377
+hold SNARC color arabic CD 0 up 4 lctrl 0.481684075683
+hold SNARC color arabic CD 0 down 6 num_decimal 0.336488266388
+hold SNARC color arabic CD 0 down 1 num_decimal 0.341695608062
+hold SNARC color arabic CD 0 down 9 num_decimal 0.314237537925
+hold SNARC color arabic CD 0 up 7 lctrl 0.36695144113
+hold SNARC color arabic CD 0 up 1 lctrl 0.586255389615
+hold SNARC color arabic CD 0 down 9 num_decimal 0.381489218373
+hold SNARC color arabic CD 0 down 2 num_decimal 0.384116839661
+hold SNARC color arabic CD 0 up 2 lctrl 0.426900491409
+hold SNARC color arabic CD 0 up 4 lctrl 0.476640621418
+hold SNARC color arabic CD 0 down 6 num_decimal 0.40466814005
+hold SNARC color arabic CD 0 up 4 lctrl 0.407245751587
+hold SNARC color arabic CD 0 down 1 num_decimal 0.545432662766
+hold SNARC color arabic CD 0 down 4 num_decimal 0.36613682429
+hold SNARC color arabic CD 0 up 9 lctrl 0.433595472845
+hold SNARC color arabic CD 0 down 1 num_decimal 0.442006150595
+hold SNARC color arabic CD 0 up 6 lctrl 0.659688095751
+hold SNARC color arabic CD 0 down 8 num_decimal 0.315437470927
+hold SNARC color arabic CD 0 up 3 lctrl 0.617131898034
+hold SNARC color arabic CD 0 down 3 num_decimal 0.35513859331
+hold SNARC color arabic CD 0 up 1 lctrl 0.37544948532
+hold SNARC color arabic CD 0 down 5 num_decimal 0.323496272758
+hold SNARC color arabic CD 0 down 3 num_decimal 0.425171840776
+hold SNARC color arabic CD 0 down 9 num_decimal 0.314769569479
+hold SNARC color arabic CD 0 down 2 num_decimal 0.320256182531
+hold SNARC color arabic CD 0 down 1 num_decimal 0.309725813961
+hold SNARC color arabic CD 0 up 6 lctrl 0.396436111623
+hold SNARC color arabic CD 0 up 8 lctrl 0.407434643872
+hold SNARC color arabic CD 0 up 3 lctrl 0.297845483103
+hold SNARC color arabic CD 0 down 2 num_decimal 0.400517932416
+hold SNARC color arabic CD 0 down 6 num_decimal 0.298410051109
+hold SNARC color arabic CD 0 up 5 lctrl 0.441040901962
+hold SNARC color arabic CD 0 down 1 lctrl 0.417036819228
+hold SNARC color arabic CD 0 up 3 lctrl 0.954509193354
+hold SNARC color arabic CD 0 up 3 lctrl 0.390284308509
+hold SNARC color arabic CD 0 up 1 lctrl 0.361463924288
+hold SNARC color arabic CD 0 up 3 lctrl 0.325859384597
+hold SNARC color arabic CD 0 up 2 lctrl 0.307518756672
+hold SNARC color arabic CD 0 up 7 lctrl 0.338042485397
+hold SNARC color arabic CD 0 up 1 lctrl 0.343197708469
+hold SNARC color arabic CD 0 up 8 lctrl 0.307819417765
+hold SNARC color arabic CD 0 up 4 lctrl 0.306462827692
+hold SNARC color arabic CD 0 up 7 lctrl 0.440072941943
+hold SNARC color arabic CD 0 down 1 num_decimal 0.505025679711
+hold SNARC color arabic CD 0 down 7 num_decimal 0.41538649713
+hold SNARC color arabic CD 0 down 9 num_decimal 0.561399634636
+hold SNARC color arabic CD 0 down 6 num_decimal 0.397396238783
+hold SNARC color arabic CD 0 down 4 num_decimal 0.359965740296
+hold SNARC color arabic CD 0 down 5 num_decimal 0.371630667665
+hold SNARC color arabic CD 0 up 9 lctrl 0.487545460681
+hold SNARC color arabic CD 0 up 9 lctrl 0.542148889304
+hold SNARC color arabic CD 0 up 2 lctrl 0.283426704977
+hold SNARC color arabic CD 0 down 2 num_decimal 0.498453915105
+hold SNARC color arabic CD 0 down 7 num_decimal 0.400064229398
+hold SNARC color arabic CD 0 down 1 num_decimal 0.394689686422
+hold SNARC color arabic CD 0 down 3 num_decimal 0.389820663797
+hold SNARC color arabic CD 0 down 9 num_decimal 0.375723032688
+hold SNARC color arabic CD 0 up 7 lctrl 0.499470077295
+hold SNARC color arabic CD 0 up 8 lctrl 0.577339794036
+hold SNARC color arabic CD 0 down 4 num_decimal 0.485400463702
+hold SNARC color arabic CD 0 down 2 num_decimal 0.852321778468
+hold SNARC color arabic CD 0 down 7 num_decimal 0.39631168975
+hold SNARC color arabic CD 0 down 5 num_decimal 0.39158998504
+hold SNARC color arabic CD 0 down 1 num_decimal 0.354747251869
+hold SNARC color arabic CD 0 up 5 lctrl 0.414460111497
+hold SNARC color arabic CD 0 up 6 lctrl 0.327945032652
+hold SNARC color arabic CD 0 up 7 lctrl 0.309359778665
+hold SNARC color arabic CD 0 down 7 num_decimal 0.540015942868
+hold SNARC color arabic CD 0 up 7 lctrl 0.631744388651
+hold SNARC color arabic CD 0 down 7 num_decimal 0.488919524054
+hold SNARC color arabic CD 0 up 4 lctrl 0.415463620608
+hold SNARC color arabic CD 0 up 5 lctrl 0.401017427488
+hold SNARC color arabic CD 0 up 7 lctrl 0.338959230605
+hold SNARC color arabic CD 0 up 5 lctrl 0.350948920153
+hold SNARC color arabic CD 0 up 5 lctrl 0.395513943688
+hold SNARC color arabic CD 0 down 9 num_decimal 0.430512943494
+hold SNARC color arabic CD 0 down 4 num_decimal 0.375361817612
+hold SNARC color arabic CD 0 down 7 num_decimal 0.458791053199
+hold SNARC color arabic CD 0 up 7 lctrl 0.411148019251
+hold SNARC color arabic CD 0 up 5 lctrl 0.453737958494
+hold SNARC color arabic CD 0 down 6 num_decimal 0.349783632468
+hold SNARC color arabic CD 0 down 7 num_decimal 0.378003899561
+hold SNARC color arabic CD 0 up 1 lctrl 0.381664553803
+hold SNARC color arabic CD 0 down 2 num_decimal 0.295771283068
+hold SNARC color arabic CD 0 up 6 num_decimal 0.510120047533
+hold SNARC color arabic CD 0 up 7 lctrl 0.844641363728
+hold SNARC color arabic CD 0 down 4 num_decimal 0.581873510251
+hold SNARC color arabic CD 0 down 5 num_decimal 0.480609468359
+hold SNARC color arabic CD 0 up 4 lctrl 0.543061718068
+hold SNARC color arabic CD 0 up 4 lctrl 0.404057177424
+hold SNARC color arabic CD 0 up 7 lctrl 0.366185930267
+hold SNARC color arabic CD 0 down 9 num_decimal 0.425093512225
+hold SNARC color arabic CD 0 up 2 lctrl 0.442746957837
+hold SNARC color arabic CD 0 down 2 num_decimal 0.715002807774
+hold SNARC color arabic CD 0 down 6 num_decimal 0.961060170783
+hold SNARC color arabic CD 0 down 4 num_decimal 0.36479318855
+hold SNARC color arabic CD 0 up 6 lctrl 0.376485832167
+hold SNARC color arabic CD 0 down 8 num_decimal 0.387674763013
+hold SNARC color arabic CD 0 down 9 num_decimal 0.485921951025
+hold SNARC color arabic CD 0 up 9 lctrl 0.445392353693
+hold SNARC color arabic CD 0 up 1 lctrl 1.01444739816
+hold SNARC color arabic CD 0 down 8 num_decimal 0.416182435612
+hold SNARC color arabic CD 0 down 2 num_decimal 0.321857398667
+hold SNARC color arabic CD 0 up 4 lctrl 0.6794006782
+hold SNARC color arabic CD 0 down 7 num_decimal 0.535637076158
+hold SNARC color arabic CD 0 up 9 lctrl 0.348104690318
+hold SNARC color arabic CD 0 down 1 num_decimal 0.479800876798
+hold SNARC color arabic CD 0 up 8 lctrl 0.375795938482
+hold SNARC color arabic CD 0 down 6 num_decimal 0.363351943393
+hold SNARC color arabic CD 0 down 4 num_decimal 0.864211448512
+hold SNARC color arabic CD 0 up 3 lctrl 0.527410771741
+hold SNARC color arabic CD 0 down 5 num_decimal 1.43724377529
+hold SNARC color arabic CD 0 up 5 lctrl 0.526432267507
+hold SNARC color arabic CD 0 up 3 lctrl 0.62009904343
+hold SNARC color arabic CD 0 down 5 num_decimal 0.461080656707
+hold SNARC color arabic CD 0 up 3 lctrl 0.429492864874
+hold SNARC color arabic CD 0 up 6 lctrl 0.415394329975
+hold SNARC color arabic CD 0 up 9 lctrl 0.505091957704
+hold SNARC color arabic CD 0 down 7 num_decimal 0.46363476968
+hold SNARC color arabic CD 0 up 5 lctrl 0.559836678964
+hold SNARC color arabic CD 0 up 8 lctrl 0.403676681468
+hold SNARC color arabic CD 0 up 9 lctrl 0.30959717439
+hold SNARC color arabic CD 0 up 5 lctrl 0.322755164263
+hold SNARC color arabic CD 0 down 5 num_decimal 0.472444621715
+hold SNARC color arabic CD 0 up 1 lctrl 0.439696362417
+hold SNARC color arabic CD 0 up 2 lctrl 0.368431549286
+hold SNARC color arabic CD 0 up 6 lctrl 0.420442303192
+hold SNARC color arabic CD 0 up 5 lctrl 0.325566556363
+hold SNARC color arabic CD 0 up 5 lctrl 0.330521439129
+hold SNARC color arabic CD 0 down 8 num_decimal 0.415978178877
+hold SNARC color arabic CD 0 up 1 lctrl 0.473273096679
+hold SNARC color arabic CD 0 up 3 lctrl 0.352864956774
+hold SNARC color arabic CD 0 up 5 lctrl 0.373320756582
+hold SNARC color arabic CD 0 down 3 num_decimal 0.489100884748
+hold SNARC color arabic CD 0 up 8 lctrl 0.415932386793
+hold SNARC color arabic CD 0 down 9 num_decimal 0.401145765791
+hold SNARC color arabic CD 0 down 8 num_decimal 0.555468055216
+hold SNARC color arabic CD 0 down 8 num_decimal 0.407272262775
+hold SNARC color arabic CD 0 down 7 num_decimal 0.465910816332
+hold SNARC color arabic CD 0 up 8 lctrl 0.441751582839
+hold SNARC color arabic CD 0 up 9 lctrl 0.386282322579
+hold SNARC color arabic CD 0 up 6 lctrl 0.300936749103
+hold SNARC color arabic CD 0 up 2 lctrl 0.298800488774
+hold SNARC color arabic CD 0 up 3 lctrl 0.441215634855
+hold SNARC color arabic CD 0 up 4 lctrl 0.322248438853
+hold SNARC color arabic CD 0 down 1 num_decimal 0.439802105961
+hold SNARC color arabic CD 0 down 8 num_decimal 0.464243924711
+hold SNARC color arabic CD 0 up 4 lctrl 0.383679404898
+hold SNARC color arabic CD 0 up 9 lctrl 0.354572820244
+hold SNARC color arabic CD 0 up 8 lctrl 0.407256597071
+hold SNARC color arabic CD 0 down 8 num_decimal 0.529938674779
+hold SNARC color arabic CD 0 up 2 lctrl 0.503645591074
+hold SNARC color arabic CD 0 up 7 lctrl 0.429596198301
+hold SNARC color arabic CD 0 down 2 num_decimal 0.407101145043
+hold SNARC color arabic CD 0 up 6 lctrl 0.377301654065
+hold SNARC color arabic CD 0 up 6 lctrl 0.420579378144
+hold SNARC color arabic CD 0 up 6 lctrl 0.382545749904
+hold SNARC color arabic CD 0 up 8 lctrl 0.457475133691
+hold SNARC color arabic CD 0 down 6 num_decimal 0.4582270877
+hold SNARC color arabic CD 0 up 2 lctrl 0.386244664624
+hold SNARC color arabic CD 0 up 4 lctrl 0.413444551828
+hold SNARC color arabic CD 0 up 6 lctrl 0.703202311779
+hold SNARC color arabic CD 0 down 7 num_decimal 0.445343247717
+hold SNARC color arabic CD 0 down 6 num_decimal 0.350509376527
+hold SNARC color arabic CD 0 down 6 num_decimal 0.34652817779
+hold SNARC color arabic CD 0 up 9 lctrl 0.447073404677
+hold SNARC color arabic CD 0 down 8 num_decimal 0.512178883102
+hold SNARC color arabic CD 0 down 2 num_decimal 0.414499878287
+hold SNARC color arabic CD 0 up 3 lctrl 0.383940600455
+hold SNARC color arabic CD 0 up 3 lctrl 0.330534995985
+hold SNARC color arabic CD 0 down 6 num_decimal 0.44694687397
+hold SNARC color arabic CD 0 up 2 lctrl 0.40746898792
+hold SNARC color arabic CD 0 down 9 num_decimal 0.393370453021
+hold SNARC color arabic CD 0 up 3 lctrl 0.468552597013
+hold SNARC color arabic CD 0 up 5 lctrl 0.387698562845
+hold SNARC color arabic CD 0 up 6 lctrl 0.334653269674
+hold SNARC color arabic CD 0 down 3 num_decimal 0.499701447756
+hold SNARC color arabic CD 0 up 2 lctrl 0.330135520417
+hold SNARC color arabic CD 0 up 7 lctrl 0.368035688894
+hold SNARC color arabic CD 0 down 3 num_decimal 0.427623825366
+hold SNARC color arabic CD 0 up 4 lctrl 0.508955061116
+hold SNARC color arabic CD 0 up 7 lctrl 0.443570311312
+hold SNARC color arabic CD 0 up 7 lctrl 0.340750845353
+hold SNARC color arabic CD 0 down 3 num_decimal 0.424641014266
+hold SNARC color arabic CD 0 down 1 num_decimal 0.363555898861
+hold SNARC color arabic CD 0 down 7 num_decimal 0.335794155006
+hold SNARC color arabic CD 0 down 4 num_decimal 0.404744661006
+hold SNARC color arabic CD 0 up 5 lctrl 0.399224607696
+hold SNARC color arabic CD 0 down 7 num_decimal 0.401333151778
+hold SNARC color arabic CD 0 up 7 num_decimal 0.475584089916
+hold SNARC color arabic CD 0 down 5 num_decimal 0.802908519487
+hold SNARC color arabic CD 0 down 8 num_decimal 0.469577797106
+hold SNARC color arabic CD 0 up 8 lctrl 0.381354854791
+hold SNARC color arabic CD 0 up 5 lctrl 0.344521460822
+hold SNARC color arabic CD 0 up 8 lctrl 0.381843504394
+hold SNARC color arabic CD 0 up 3 lctrl 0.336651551275
+hold SNARC color arabic CD 0 down 9 num_decimal 0.42984353572
+hold SNARC color arabic CD 0 down 1 num_decimal 0.511052157162
+hold SNARC color arabic CD 0 up 2 lctrl 0.436992822695
+hold SNARC color arabic CD 0 down 8 num_decimal 0.332876115572
+hold SNARC color arabic CD 0 up 5 lctrl 0.345187554689
+hold SNARC color arabic CD 0 up 1 lctrl 0.510143546097
+hold SNARC color arabic CD 0 up 4 lctrl 0.379998565986
+hold SNARC color arabic CD 0 up 6 lctrl 0.375638678874
+hold SNARC color arabic CD 0 down 3 num_decimal 0.498655460469
+hold SNARC color arabic CD 0 up 4 lctrl 0.424311733135
+hold SNARC color arabic CD 0 up 1 lctrl 0.377838505825
+hold SNARC color arabic CD 0 up 4 lctrl 0.373113788475
+hold SNARC color arabic CD 0 up 9 lctrl 0.320391751171
+hold SNARC color arabic CD 0 down 7 num_decimal 0.486053000714
+hold SNARC color arabic CD 0 up 9 lctrl 0.524462605958
+hold SNARC color arabic CD 0 down 2 num_decimal 0.378311489709
+hold SNARC color arabic CD 0 down 9 num_decimal 0.421825705736
+hold SNARC color arabic CD 0 down 8 num_decimal 0.398986006912
+hold SNARC color arabic CD 0 down 3 num_decimal 0.345475261434
+hold SNARC color arabic CD 0 down 9 num_decimal 0.422128776932
+hold SNARC color arabic CD 0 down 4 num_decimal 0.391584261029
+hold SNARC color arabic CD 0 up 9 lctrl 0.410872061766
+hold SNARC color arabic CD 0 down 2 num_decimal 0.389546212638
+hold SNARC color arabic CD 0 up 6 lctrl 0.511441691022
+hold SNARC color arabic CD 0 up 4 lctrl 0.46070799361
+hold SNARC color arabic CD 0 down 6 num_decimal 0.451832164836
+hold SNARC color arabic CD 0 down 8 num_decimal 0.387878417227
+hold SNARC color arabic CD 0 up 3 lctrl 0.606116495022
+hold SNARC color arabic CD 0 up 3 lctrl 0.39995246059
+hold SNARC color arabic CD 0 up 5 lctrl 0.330305433119
+hold SNARC color arabic CD 0 down 8 num_decimal 0.54398268096
+hold SNARC color arabic CD 0 up 7 lctrl 0.540258158828
+hold SNARC color arabic CD 0 up 3 lctrl 0.633515216221
+hold SNARC color arabic CD 0 up 6 lctrl 0.369852308519
+hold SNARC color arabic CD 0 up 8 lctrl 0.420725491
+hold SNARC color arabic CD 0 down 7 num_decimal 0.534711895569
+hold SNARC color arabic CD 0 down 2 num_decimal 0.419125781176
+hold SNARC color arabic CD 0 down 7 num_decimal 0.492098156508
+hold SNARC color arabic CD 0 up 1 lctrl 0.507485497175
+hold SNARC color arabic CD 0 up 3 lctrl 0.401643152043
+hold SNARC color arabic CD 0 up 4 lctrl 0.331348407752
+hold SNARC color arabic CD 0 up 1 lctrl 0.392198838803
+hold SNARC color arabic CD 0 up 2 lctrl 0.355287116283
+hold SNARC color arabic CD 0 up 2 lctrl 0.351693643825
+hold SNARC color arabic CD 0 down 7 num_decimal 0.74700453582
+hold SNARC color arabic CD 0 down 8 num_decimal 0.807691079463
+hold SNARC color arabic CD 0 up 4 lctrl 0.361745003247
+hold SNARC color arabic CD 0 down 3 num_decimal 0.478244247672
+hold SNARC color arabic CD 0 up 9 lctrl 0.509843788794
+hold SNARC color arabic CD 0 down 1 num_decimal 0.604363140752
+{'background_stim_color': u'random', 'notation': u'dot', 'response_buttons': u'CD', 'dateStr': u'03_23_1429', 'exp_id': u'SNARC', 'task': u'color', 'participant': u'hold', 'range_in_instr': True, 'interactive_setting': True, 'delay': u'0', 'autopilot': False}
+hold SNARC color dot CD 0 up 30 lctrl 2.13786245025
+hold SNARC color dot CD 0 up 15 lctrl 0.334790344612
+hold SNARC color dot CD 0 down 20 num_decimal 0.392625126828
+hold SNARC color dot CD 0 down 15 num_decimal 0.3395918842
+hold SNARC color dot CD 0 down 30 num_decimal 0.27740806037
+hold SNARC color dot CD 0 up 40 lctrl 0.406177470781
+hold SNARC color dot CD 0 down 30 num_decimal 0.377400769779
+hold SNARC color dot CD 0 up 30 lctrl 0.403870996495
+hold SNARC color dot CD 0 down 5 num_decimal 0.383386877918
+hold SNARC color dot CD 0 up 45 lctrl 0.450612047163
+hold SNARC color dot CD 0 up 10 lctrl 0.487038434003
+hold SNARC color dot CD 0 down 35 num_decimal 0.436627992443
+hold SNARC color dot CD 0 down 40 num_decimal 0.369094931782
+hold SNARC color dot CD 0 up 25 lctrl 0.419588522098
+hold SNARC color dot CD 0 down 30 num_decimal 0.399358971277
+hold SNARC color dot CD 0 up 30 lctrl 0.554650425751
+hold SNARC color dot CD 0 up 25 lctrl 0.40977847483
+hold SNARC color dot CD 0 down 10 num_decimal 0.501086356613
+hold SNARC color dot CD 0 down 20 num_decimal 0.323017564879
+hold SNARC color dot CD 0 up 30 lctrl 0.404467799744
+hold SNARC color dot CD 0 up 45 lctrl 0.536043179512
+hold SNARC color dot CD 0 down 20 num_decimal 0.486882078185
+hold SNARC color dot CD 0 down 40 num_decimal 0.332388671042
+hold SNARC color dot CD 0 up 25 lctrl 0.382244185006
+hold SNARC color dot CD 0 down 45 num_decimal 0.505577895921
+hold SNARC color dot CD 0 down 35 num_decimal 0.431926773657
+hold SNARC color dot CD 0 down 10 num_decimal 0.427985040456
+hold SNARC color dot CD 0 down 35 num_decimal 0.351963274763
+hold SNARC color dot CD 0 down 10 num_decimal 0.570267630552
+hold SNARC color dot CD 0 down 45 num_decimal 0.35401668759
+hold SNARC color dot CD 0 down 35 num_decimal 0.308608728446
+hold SNARC color dot CD 0 up 10 lctrl 0.477715530025
+hold SNARC color dot CD 0 down 20 num_decimal 0.546448222434
+hold SNARC color dot CD 0 up 20 lctrl 0.393215000993
+hold SNARC color dot CD 0 down 45 num_decimal 0.468494754386
+hold SNARC color dot CD 0 down 45 num_decimal 0.401818186205
+hold SNARC color dot CD 0 up 10 lctrl 0.413057126818
+hold SNARC color dot CD 0 up 15 lctrl 1.27997723651
+hold SNARC color dot CD 0 up 25 lctrl 0.407905217653
+hold SNARC color dot CD 0 down 10 num_decimal 0.659170524857
+hold SNARC color dot CD 0 up 20 lctrl 0.556539649901
+hold SNARC color dot CD 0 up 25 lctrl 0.547613811374
+hold SNARC color dot CD 0 up 5 lctrl 0.418396120687
+hold SNARC color dot CD 0 down 15 num_decimal 0.445842140281
+hold SNARC color dot CD 0 down 5 num_decimal 0.538111655536
+hold SNARC color dot CD 0 down 25 num_decimal 0.432779048439
+hold SNARC color dot CD 0 up 15 lctrl 0.548829108811
+hold SNARC color dot CD 0 down 20 num_decimal 0.37991059701
+hold SNARC color dot CD 0 down 45 num_decimal 0.462429413936
+hold SNARC color dot CD 0 down 40 num_decimal 0.331255919824
+hold SNARC color dot CD 0 down 10 num_decimal 0.356948585148
+hold SNARC color dot CD 0 down 15 num_decimal 0.39127908097
+hold SNARC color dot CD 0 down 45 num_decimal 0.306580621764
+hold SNARC color dot CD 0 down 5 num_decimal 0.403785136383
+hold SNARC color dot CD 0 up 35 lctrl 0.447358701349
+hold SNARC color dot CD 0 down 40 num_decimal 0.532187908961
+hold SNARC color dot CD 0 down 10 num_decimal 0.450824438027
+hold SNARC color dot CD 0 up 5 lctrl 0.415236769099
+hold SNARC color dot CD 0 down 40 num_decimal 0.547313451534
+hold SNARC color dot CD 0 up 30 lctrl 0.466340719518
+hold SNARC color dot CD 0 up 15 lctrl 0.510673770055
+hold SNARC color dot CD 0 up 5 lctrl 0.613116656503
+hold SNARC color dot CD 0 down 45 num_decimal 0.469155425526
+hold SNARC color dot CD 0 up 5 lctrl 0.697848254713
+hold SNARC color dot CD 0 up 25 lctrl 0.428420667653
+hold SNARC color dot CD 0 down 25 num_decimal 0.447972977869
+hold SNARC color dot CD 0 up 20 lctrl 0.396548784222
+hold SNARC color dot CD 0 down 15 num_decimal 0.487179124117
+hold SNARC color dot CD 0 down 40 num_decimal 0.460680277363
+hold SNARC color dot CD 0 up 20 lctrl 0.481049011971
+hold SNARC color dot CD 0 down 10 num_decimal 0.462336022203
+hold SNARC color dot CD 0 down 30 num_decimal 0.642681161858
+hold SNARC color dot CD 0 down 45 num_decimal 0.356086368673
+hold SNARC color dot CD 0 down 20 num_decimal 0.334335737818
+hold SNARC color dot CD 0 up 15 num_decimal 0.352156987268
+hold SNARC color dot CD 0 up 5 lctrl 0.589109561144
+hold SNARC color dot CD 0 up 5 lctrl 0.360249831894
+hold SNARC color dot CD 0 up 10 lctrl 0.308232148935
+hold SNARC color dot CD 0 down 40 num_decimal 0.441680183358
+hold SNARC color dot CD 0 down 25 num_decimal 0.371561678301
+hold SNARC color dot CD 0 down 25 num_decimal 0.351589707861
+hold SNARC color dot CD 0 up 20 lctrl 0.394656547418
+hold SNARC color dot CD 0 up 20 lctrl 0.373493380626
+hold SNARC color dot CD 0 up 5 lctrl 0.377165482903
+hold SNARC color dot CD 0 up 20 lctrl 0.324523280447
+hold SNARC color dot CD 0 down 5 num_decimal 0.570445376085
+hold SNARC color dot CD 0 up 30 lctrl 0.693604956628
+hold SNARC color dot CD 0 down 10 num_decimal 0.588730872769
+hold SNARC color dot CD 0 down 35 num_decimal 0.487236364206
+hold SNARC color dot CD 0 up 15 lctrl 0.61421777503
+hold SNARC color dot CD 0 up 25 lctrl 0.359412921563
+hold SNARC color dot CD 0 down 30 num_decimal 0.644133553782
+hold SNARC color dot CD 0 up 20 lctrl 0.452947744008
+hold SNARC color dot CD 0 up 40 lctrl 1.18072021285
+hold SNARC color dot CD 0 down 45 num_decimal 0.390733793829
+hold SNARC color dot CD 0 down 35 num_decimal 0.464487044446
+hold SNARC color dot CD 0 up 45 lctrl 0.383815274792
+hold SNARC color dot CD 0 down 40 num_decimal 0.385550553241
+hold SNARC color dot CD 0 down 40 num_decimal 0.420239552783
+hold SNARC color dot CD 0 down 20 num_decimal 0.389094317201
+hold SNARC color dot CD 0 down 15 num_decimal 0.400459186014
+hold SNARC color dot CD 0 down 45 num_decimal 0.369305816319
+hold SNARC color dot CD 0 up 30 lctrl 0.452914002497
+hold SNARC color dot CD 0 down 10 num_decimal 0.476665325041
+hold SNARC color dot CD 0 up 45 lctrl 0.419461991376
+hold SNARC color dot CD 0 up 10 lctrl 0.492513900303
+hold SNARC color dot CD 0 down 35 num_decimal 0.402964494278
+hold SNARC color dot CD 0 up 45 lctrl 0.484056225439
+hold SNARC color dot CD 0 up 30 lctrl 0.402419207123
+hold SNARC color dot CD 0 up 25 lctrl 0.389032859428
+hold SNARC color dot CD 0 up 40 lctrl 0.373913944655
+hold SNARC color dot CD 0 down 25 num_decimal 0.450565652573
+hold SNARC color dot CD 0 up 10 lctrl 0.394572193603
+hold SNARC color dot CD 0 down 15 num_decimal 0.581557785976
+hold SNARC color dot CD 0 down 25 num_decimal 0.536729156782
+hold SNARC color dot CD 0 down 35 num_decimal 0.388715327557
+hold SNARC color dot CD 0 down 35 num_decimal 0.375131350927
+hold SNARC color dot CD 0 up 40 lctrl 0.44221161239
+hold SNARC color dot CD 0 up 10 lctrl 0.483047293572
+hold SNARC color dot CD 0 up 10 lctrl 0.442442681582
+hold SNARC color dot CD 0 up 25 lctrl 0.443363945727
+hold SNARC color dot CD 0 up 5 lctrl 0.38831163432
+hold SNARC color dot CD 0 down 10 num_decimal 0.423105774869
+hold SNARC color dot CD 0 up 20 lctrl 0.664653824002
+hold SNARC color dot CD 0 up 5 lctrl 0.42451237471
+hold SNARC color dot CD 0 down 15 num_decimal 0.458562394109
+hold SNARC color dot CD 0 down 40 num_decimal 0.457424822671
+hold SNARC color dot CD 0 down 15 num_decimal 0.394071794741
+hold SNARC color dot CD 0 down 40 num_decimal 0.404307226243
+hold SNARC color dot CD 0 down 45 num_decimal 0.413612054399
+hold SNARC color dot CD 0 up 25 lctrl 0.440231707878
+hold SNARC color dot CD 0 up 30 lctrl 0.520577209041
+hold SNARC color dot CD 0 up 40 lctrl 0.517589878989
+hold SNARC color dot CD 0 down 45 num_decimal 0.434379662052
+hold SNARC color dot CD 0 down 30 num_decimal 0.587103747952
+hold SNARC color dot CD 0 down 35 num_decimal 0.557063848595
+hold SNARC color dot CD 0 up 35 lctrl 0.384629289096
+hold SNARC color dot CD 0 up 15 lctrl 0.460022618863
+hold SNARC color dot CD 0 up 20 lctrl 0.403772784572
+hold SNARC color dot CD 0 down 45 num_decimal 0.517761297975
+hold SNARC color dot CD 0 up 5 lctrl 0.491819186398
+hold SNARC color dot CD 0 up 20 lctrl 0.458470207435
+hold SNARC color dot CD 0 down 5 num_decimal 0.643187887283
+hold SNARC color dot CD 0 up 40 lctrl 0.499355898384
+hold SNARC color dot CD 0 up 40 lctrl 0.480904405427
+hold SNARC color dot CD 0 down 40 num_decimal 0.447100518417
+hold SNARC color dot CD 0 down 25 num_decimal 0.671764549217
+hold SNARC color dot CD 0 down 10 num_decimal 0.511759825415
+hold SNARC color dot CD 0 up 30 lctrl 0.374305286095
+hold SNARC color dot CD 0 down 10 num_decimal 0.441400008189
+hold SNARC color dot CD 0 up 20 lctrl 0.530044719577
+hold SNARC color dot CD 0 up 40 lctrl 0.423315153079
+hold SNARC color dot CD 0 up 15 lctrl 0.401130401355
+hold SNARC color dot CD 0 down 25 num_decimal 0.48346815884
+hold SNARC color dot CD 0 up 25 lctrl 0.530832523946
+hold SNARC color dot CD 0 up 45 lctrl 0.43029482862
+hold SNARC color dot CD 0 up 35 lctrl 0.383348014919
+hold SNARC color dot CD 0 up 25 lctrl 0.338400085311
+hold SNARC color dot CD 0 down 15 num_decimal 0.439813855235
+hold SNARC color dot CD 0 down 20 num_decimal 0.999492973322
+hold SNARC color dot CD 0 down 10 num_decimal 0.674231597019
+hold SNARC color dot CD 0 up 10 lctrl 0.585729383325
+hold SNARC color dot CD 0 down 45 num_decimal 0.524039029304
+hold SNARC color dot CD 0 down 5 num_decimal 0.697440343778
+hold SNARC color dot CD 0 up 40 lctrl 0.366291071259
+hold SNARC color dot CD 0 down 5 num_decimal 0.577958288253
+hold SNARC color dot CD 0 up 10 lctrl 0.621388150466
+hold SNARC color dot CD 0 up 15 lctrl 0.478665715491
+hold SNARC color dot CD 0 down 35 num_decimal 0.485094982389
+hold SNARC color dot CD 0 up 30 lctrl 0.51559611634
+hold SNARC color dot CD 0 up 15 lctrl 1.55351195054
+hold SNARC color dot CD 0 down 5 num_decimal 0.333927826869
+hold SNARC color dot CD 0 down 5 num_decimal 0.546418698592
+hold SNARC color dot CD 0 up 45 lctrl 0.406967986521
+hold SNARC color dot CD 0 down 5 num_decimal 0.617629886794
+hold SNARC color dot CD 0 up 15 lctrl 0.451697198732
+hold SNARC color dot CD 0 up 10 lctrl 0.530764137104
+hold SNARC color dot CD 0 down 5 num_decimal 0.440146751542
+hold SNARC color dot CD 0 up 10 lctrl 0.473461085174
+hold SNARC color dot CD 0 down 10 num_decimal 0.513372188303
+hold SNARC color dot CD 0 down 5 num_decimal 1.85601677676
+hold SNARC color dot CD 0 down 30 lctrl 0.344020158154
+hold SNARC color dot CD 0 down 20 num_decimal 0.621042902349
+hold SNARC color dot CD 0 up 25 lctrl 0.447037554317
+hold SNARC color dot CD 0 up 35 lctrl 0.590950884391
+hold SNARC color dot CD 0 up 25 lctrl 0.402432763993
+hold SNARC color dot CD 0 up 35 lctrl 0.371357120297
+hold SNARC color dot CD 0 down 20 num_decimal 0.470629809672
+hold SNARC color dot CD 0 up 25 lctrl 0.734605127756
+hold SNARC color dot CD 0 down 5 num_decimal 0.419806335689
+hold SNARC color dot CD 0 up 45 lctrl 0.43616645658
+hold SNARC color dot CD 0 up 30 lctrl 0.500789310681
+hold SNARC color dot CD 0 up 15 lctrl 0.394850862445
+hold SNARC color dot CD 0 up 5 lctrl 0.373508142555
+hold SNARC color dot CD 0 down 30 num_decimal 0.448873153553
+hold SNARC color dot CD 0 down 5 num_decimal 0.497026226803
+hold SNARC color dot CD 0 down 35 num_decimal 0.471665554011
+hold SNARC color dot CD 0 up 25 lctrl 0.511136209723
+hold SNARC color dot CD 0 up 40 lctrl 1.74018452999
+hold SNARC color dot CD 0 down 30 num_decimal 0.408902400231
+hold SNARC color dot CD 0 up 15 lctrl 0.507245691333
+hold SNARC color dot CD 0 up 10 lctrl 0.481543988106
+hold SNARC color dot CD 0 down 20 num_decimal 0.488876443356
+hold SNARC color dot CD 0 down 40 lctrl 0.534847765477
+hold SNARC color dot CD 0 down 10 num_decimal 0.763957844785
+hold SNARC color dot CD 0 down 15 num_decimal 0.327835975215
+hold SNARC color dot CD 0 up 35 lctrl 0.620749772846
+hold SNARC color dot CD 0 down 40 num_decimal 0.461664806862
+hold SNARC color dot CD 0 up 30 lctrl 0.374268833184
+hold SNARC color dot CD 0 up 30 lctrl 0.393414136255
+hold SNARC color dot CD 0 up 45 lctrl 0.427556041061
+hold SNARC color dot CD 0 up 45 lctrl 0.476558075185
+hold SNARC color dot CD 0 down 5 num_decimal 1.65253971258
+hold SNARC color dot CD 0 down 20 num_decimal 0.50063265361
+hold SNARC color dot CD 0 up 30 lctrl 0.626368339363
+hold SNARC color dot CD 0 down 20 lctrl 0.748125839018
+hold SNARC color dot CD 0 up 35 lctrl 1.25595748809
+hold SNARC color dot CD 0 down 30 num_decimal 0.343954783952
+hold SNARC color dot CD 0 up 35 lctrl 1.17991101877
+hold SNARC color dot CD 0 up 40 lctrl 0.343086542198
+hold SNARC color dot CD 0 down 35 num_decimal 0.523469641063
+hold SNARC color dot CD 0 down 10 num_decimal 0.441067714419
+hold SNARC color dot CD 0 up 10 lctrl 0.521638862032
+hold SNARC color dot CD 0 up 5 lctrl 1.4475436772
+hold SNARC color dot CD 0 up 5 lctrl 0.511755908985
+hold SNARC color dot CD 0 down 15 num_decimal 0.477350097237
+hold SNARC color dot CD 0 up 20 lctrl 0.48504919032
+hold SNARC color dot CD 0 up 35 lctrl 0.427005933685
+hold SNARC color dot CD 0 down 35 num_decimal 0.491917699605
+hold SNARC color dot CD 0 up 5 lctrl 0.522944237309
+hold SNARC color dot CD 0 down 5 lctrl 0.424469293997
+hold SNARC color dot CD 0 down 35 num_decimal 0.769623709682
+hold SNARC color dot CD 0 up 20 lctrl 0.549608779067
+hold SNARC color dot CD 0 up 30 lctrl 1.20200750027
+hold SNARC color dot CD 0 up 25 lctrl 0.372039783673
+hold SNARC color dot CD 0 down 20 num_decimal 0.575552095703
+hold SNARC color dot CD 0 up 20 lctrl 0.499513760529
+hold SNARC color dot CD 0 down 10 num_decimal 0.353447600617
+hold SNARC color dot CD 0 up 10 lctrl 0.566005654109
+hold SNARC color dot CD 0 down 45 num_decimal 0.481281286222
+hold SNARC color dot CD 0 up 35 lctrl 0.471394416745
+hold SNARC color dot CD 0 down 10 num_decimal 0.503365717159
+hold SNARC color dot CD 0 up 10 lctrl 0.453488210958
+hold SNARC color dot CD 0 down 25 num_decimal 0.461913349354
+hold SNARC color dot CD 0 up 45 lctrl 0.557360894541
+hold SNARC color dot CD 0 down 5 num_decimal 0.361891417371
+hold SNARC color dot CD 0 up 35 lctrl 0.605820051627
+hold SNARC color dot CD 0 down 25 num_decimal 0.528322696715
+hold SNARC color dot CD 0 up 5 lctrl 0.453489416017
+hold SNARC color dot CD 0 up 5 lctrl 0.41353613598
+hold SNARC color dot CD 0 down 25 num_decimal 0.407601543906
+hold SNARC color dot CD 0 down 25 num_decimal 0.402252608343
+hold SNARC color dot CD 0 up 5 lctrl 0.484815108488
+hold SNARC color dot CD 0 up 35 lctrl 0.730032548527
+hold SNARC color dot CD 0 down 20 num_decimal 0.439641231191
+hold SNARC color dot CD 0 up 15 lctrl 0.865041731027
+hold SNARC color dot CD 0 up 40 lctrl 0.52030908443
+hold SNARC color dot CD 0 down 45 num_decimal 0.429059346512
+hold SNARC color dot CD 0 up 35 lctrl 0.493939781023
+hold SNARC color dot CD 0 down 15 num_decimal 0.556174819663
+hold SNARC color dot CD 0 down 20 num_decimal 0.448629431296
+hold SNARC color dot CD 0 down 35 num_decimal 0.423890566584
+hold SNARC color dot CD 0 up 40 lctrl 0.552780783721
+hold SNARC color dot CD 0 down 30 num_decimal 0.636330524751
+hold SNARC color dot CD 0 up 25 lctrl 0.405643932914
+hold SNARC color dot CD 0 up 10 lctrl 0.44762110195
+hold SNARC color dot CD 0 down 40 num_decimal 0.575086342156
+hold SNARC color dot CD 0 up 45 lctrl 0.481602131986
+hold SNARC color dot CD 0 up 35 lctrl 0.464261096742
+hold SNARC color dot CD 0 down 40 num_decimal 0.423299186106
+hold SNARC color dot CD 0 down 40 num_decimal 0.384284944783
+hold SNARC color dot CD 0 down 30 num_decimal 0.563603980539
+hold SNARC color dot CD 0 up 40 lctrl 0.431575500275
+hold SNARC color dot CD 0 down 30 num_decimal 0.400052178855
+hold SNARC color dot CD 0 down 35 num_decimal 0.329618250791
+hold SNARC color dot CD 0 up 45 lctrl 0.838498598518
+hold SNARC color dot CD 0 up 15 lctrl 0.431763187516
+hold SNARC color dot CD 0 down 5 num_decimal 0.752543267474
+hold SNARC color dot CD 0 up 45 lctrl 0.428016070611
+hold SNARC color dot CD 0 down 20 num_decimal 0.421731410228
+hold SNARC color dot CD 0 up 30 lctrl 0.398766084472
+hold SNARC color dot CD 0 down 25 num_decimal 0.313239752824
+hold SNARC color dot CD 0 up 40 lctrl 0.415172599955
+hold SNARC color dot CD 0 up 25 lctrl 0.440634497339
+hold SNARC color dot CD 0 up 30 lctrl 0.400961994994
+hold SNARC color dot CD 0 down 15 num_decimal 0.459717740086
+hold SNARC color dot CD 0 down 30 num_decimal 0.562398624781
+hold SNARC color dot CD 0 up 40 lctrl 0.662376572305
+hold SNARC color dot CD 0 up 30 lctrl 0.430171310538
+hold SNARC color dot CD 0 up 10 lctrl 0.432172002242
+hold SNARC color dot CD 0 down 15 num_decimal 0.505558012519
+hold SNARC color dot CD 0 down 30 num_decimal 0.494587799069
+hold SNARC color dot CD 0 down 30 num_decimal 0.500954403149
+hold SNARC color dot CD 0 up 30 lctrl 0.458622646838
+hold SNARC color dot CD 0 up 5 lctrl 0.507299014978
+hold SNARC color dot CD 0 up 45 lctrl 0.47319928708
+hold SNARC color dot CD 0 down 40 num_decimal 0.511935160845
+hold SNARC color dot CD 0 up 10 lctrl 0.430636160308
+hold SNARC color dot CD 0 down 40 num_decimal 0.438565418794
+hold SNARC color dot CD 0 up 5 lctrl 0.463520590769
+hold SNARC color dot CD 0 up 25 lctrl 0.49616280527
+hold SNARC color dot CD 0 up 30 lctrl 0.486788083945
+hold SNARC color dot CD 0 down 35 num_decimal 0.420221476961
+hold SNARC color dot CD 0 up 40 lctrl 0.452917015122
+hold SNARC color dot CD 0 up 35 lctrl 0.452727821583
+hold SNARC color dot CD 0 down 5 num_decimal 0.389476018201
+hold SNARC color dot CD 0 up 15 lctrl 0.464695820148
+hold SNARC color dot CD 0 down 20 num_decimal 0.368676777871
+hold SNARC color dot CD 0 up 25 lctrl 0.476139921288
+hold SNARC color dot CD 0 up 15 lctrl 0.579382060125
+hold SNARC color dot CD 0 up 25 lctrl 0.391541782854
+hold SNARC color dot CD 0 up 5 lctrl 0.338354293257
+hold SNARC color dot CD 0 up 30 lctrl 0.326943933629
+hold SNARC color dot CD 0 down 15 num_decimal 0.524699700429
+hold SNARC color dot CD 0 down 35 num_decimal 0.498003224726
+hold SNARC color dot CD 0 up 40 lctrl 0.407692224268
+hold SNARC color dot CD 0 down 15 num_decimal 0.401998944377
+hold SNARC color dot CD 0 up 45 lctrl 0.387794967217
+hold SNARC color dot CD 0 up 15 lctrl 0.534710087988
+hold SNARC color dot CD 0 down 20 num_decimal 0.475786237788
+hold SNARC color dot CD 0 up 40 lctrl 0.466607036549
+hold SNARC color dot CD 0 up 35 lctrl 0.457784531449
+hold SNARC color dot CD 0 up 20 lctrl 0.658512565104
+hold SNARC color dot CD 0 up 30 lctrl 0.330321098823
+hold SNARC color dot CD 0 down 10 num_decimal 0.608374465854
+hold SNARC color dot CD 0 down 35 num_decimal 0.433801537176
+hold SNARC color dot CD 0 up 20 lctrl 0.362156830612
+hold SNARC color dot CD 0 up 45 lctrl 0.422170652586
+hold SNARC color dot CD 0 down 45 num_decimal 0.447213191015
+hold SNARC color dot CD 0 down 45 num_decimal 0.422167639947
+hold SNARC color dot CD 0 up 35 lctrl 0.519104331208
+hold SNARC color dot CD 0 down 25 num_decimal 1.46872220843
+hold SNARC color dot CD 0 up 35 lctrl 0.467510526156
+hold SNARC color dot CD 0 down 15 num_decimal 0.731315630284
+hold SNARC color dot CD 0 down 15 num_decimal 0.520428686083
+hold SNARC color dot CD 0 down 45 num_decimal 0.389804395571
+hold SNARC color dot CD 0 up 15 lctrl 0.424719041548
+hold SNARC color dot CD 0 up 15 lctrl 0.610741494122
+hold SNARC color dot CD 0 up 20 lctrl 0.396622292537
+hold SNARC color dot CD 0 down 15 num_decimal 0.607929198217
+hold SNARC color dot CD 0 down 40 num_decimal 0.5134716053
+hold SNARC color dot CD 0 down 35 num_decimal 0.439229403812
+hold SNARC color dot CD 0 down 25 num_decimal 0.400651090938
+hold SNARC color dot CD 0 up 40 lctrl 0.50571858605
+hold SNARC color dot CD 0 down 10 num_decimal 0.88847552173
+hold SNARC color dot CD 0 up 10 lctrl 0.607587866543
+hold SNARC color dot CD 0 down 25 num_decimal 0.562261549858
+hold SNARC color dot CD 0 down 35 num_decimal 1.14224041319
+hold SNARC color dot CD 0 up 30 lctrl 0.466566667223
+hold SNARC color dot CD 0 up 45 lctrl 0.536976192932
+hold SNARC color dot CD 0 up 25 lctrl 0.382401143346
+hold SNARC color dot CD 0 up 45 lctrl 0.521136655589
+hold SNARC color dot CD 0 down 15 num_decimal 0.430769620099
+hold SNARC color dot CD 0 up 20 lctrl 0.663256262065
+hold SNARC color dot CD 0 down 20 lctrl 0.463941154783
+hold SNARC color dot CD 0 down 45 num_decimal 0.614563023148
+hold SNARC color dot CD 0 up 5 lctrl 0.400469428976
+hold SNARC color dot CD 0 up 20 lctrl 0.506660637373
+hold SNARC color dot CD 0 up 25 num_decimal 0.552490064321
+hold SNARC color dot CD 0 down 45 num_decimal 0.80423317563
+{'participant': u'hold', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'03_23_1437', 'autopilot': False, 'exp_id': u'SNARC'}
+hold SNARC_only DC 9 lctrl 2.97570429409
+hold SNARC_only DC 2 num_decimal 1.10455655199
+hold SNARC_only DC 4 num_decimal 0.532706082406
+hold SNARC_only DC 7 lctrl 0.547380332064
+hold SNARC_only DC 7 lctrl 0.482497487465
+hold SNARC_only DC 8 num_decimal 0.847457576063
+hold SNARC_only DC 9 lctrl 0.893934117252
+hold SNARC_only DC 1 lctrl 0.868786136562
+hold SNARC_only DC 4 num_decimal 1.07542707131
+hold SNARC_only DC 6 num_decimal 2.09476699066
+hold SNARC_only DC 3 lctrl 0.810510304422
+hold SNARC_only DC 2 num_decimal 1.31162588361
+hold SNARC_only DC 2 num_decimal 0.728624442359
+hold SNARC_only DC 7 lctrl 0.827472048768
+hold SNARC_only DC 2 num_decimal 0.912875464841
+hold SNARC_only DC 6 num_decimal 0.495860336596
+hold SNARC_only DC 8 num_decimal 0.573043172277
+hold SNARC_only DC 4 num_decimal 0.588246742132
+hold SNARC_only DC 2 num_decimal 0.924164113952
+hold SNARC_only DC 4 num_decimal 0.971940306423
+hold SNARC_only DC 7 lctrl 0.428758384165
+hold SNARC_only DC 4 num_decimal 0.488188959775
+hold SNARC_only DC 8 num_decimal 0.501648514532
+hold SNARC_only DC 4 num_decimal 0.523549174657
+hold SNARC_only DC 5 lctrl 0.705874821346
+hold SNARC_only DC 4 num_decimal 0.868261636613
+hold SNARC_only DC 1 lctrl 1.11490766873
+hold SNARC_only DC 8 num_decimal 0.607461335821
+hold SNARC_only DC 1 lctrl 0.863695986453
+hold SNARC_only DC 6 num_decimal 0.733485933408
+hold SNARC_only DC 8 num_decimal 0.744708003258
+hold SNARC_only DC 9 lctrl 0.587871367665
+hold SNARC_only DC 2 num_decimal 0.595699702826
+hold SNARC_only DC 6 num_decimal 0.459130276024
+hold SNARC_only DC 4 num_decimal 0.551902299005
+hold SNARC_only DC 7 lctrl 0.599030172161
+hold SNARC_only DC 1 lctrl 0.599210629065
+hold SNARC_only DC 3 lctrl 0.607401083107
+hold SNARC_only DC 9 lctrl 0.615600575053
+hold SNARC_only DC 4 num_decimal 0.576104010659
+hold SNARC_only DC 7 lctrl 0.919624372473
+hold SNARC_only DC 7 lctrl 0.503205746179
+hold SNARC_only DC 2 num_decimal 1.50126621099
+hold SNARC_only DC 7 lctrl 0.451049783209
+hold SNARC_only DC 6 num_decimal 0.511580573555
+hold SNARC_only DC 2 num_decimal 0.533479727368
+hold SNARC_only DC 3 lctrl 0.667931873453
+hold SNARC_only DC 6 num_decimal 0.949931191397
+hold SNARC_only DC 8 num_decimal 0.550370373487
+hold SNARC_only DC 1 lctrl 0.437398323527
+hold SNARC_only DC 3 lctrl 1.32136874908
+hold SNARC_only DC 8 num_decimal 0.682940826999
+hold SNARC_only DC 3 lctrl 1.46896050796
+hold SNARC_only DC 5 lctrl 1.24136698971
+hold SNARC_only DC 2 num_decimal 0.536849360957
+hold SNARC_only DC 9 lctrl 0.639577845315
+hold SNARC_only DC 7 lctrl 0.960553144105
+hold SNARC_only DC 3 lctrl 0.55295039514
+hold SNARC_only DC 2 num_decimal 0.576002183559
+hold SNARC_only DC 7 lctrl 0.759508783653
+hold SNARC_only DC 4 num_decimal 0.659542284149
+hold SNARC_only DC 9 lctrl 0.780688821193
+hold SNARC_only DC 8 num_decimal 0.561429760986
+hold SNARC_only DC 8 num_decimal 0.456443908333
+hold SNARC_only DC 7 lctrl 0.860969851943
+hold SNARC_only DC 9 lctrl 0.659000310901
+hold SNARC_only DC 5 lctrl 0.684220293595
+hold SNARC_only DC 6 num_decimal 0.566448210375
+hold SNARC_only DC 7 lctrl 0.709831617743
+hold SNARC_only DC 4 num_decimal 0.936429459733
+hold SNARC_only DC 8 num_decimal 0.616402840067
+hold SNARC_only DC 9 lctrl 0.705049961558
+hold SNARC_only DC 7 lctrl 1.05134978153
+hold SNARC_only DC 8 num_decimal 0.646506607314
+hold SNARC_only DC 6 num_decimal 0.559055201127
+hold SNARC_only DC 6 num_decimal 0.550116709521
+hold SNARC_only DC 8 num_decimal 0.429159064777
+hold SNARC_only DC 2 lctrl 0.520903477547
+hold SNARC_only DC 1 lctrl 0.729795152787
+hold SNARC_only DC 9 lctrl 0.591257872016
+hold SNARC_only DC 5 lctrl 0.522368522536
+hold SNARC_only DC 4 num_decimal 0.455805530713
+hold SNARC_only DC 2 num_decimal 0.89653944505
+hold SNARC_only DC 5 lctrl 0.439906343163
+hold SNARC_only DC 1 lctrl 0.576155828006
+hold SNARC_only DC 5 lctrl 0.41154357839
+hold SNARC_only DC 8 num_decimal 0.565646849136
+hold SNARC_only DC 1 lctrl 0.593109438225
+hold SNARC_only DC 2 num_decimal 0.731913337295
+hold SNARC_only DC 1 lctrl 1.16100793167
+hold SNARC_only DC 5 lctrl 0.677633767074
+hold SNARC_only DC 6 num_decimal 0.524905463477
+hold SNARC_only DC 9 lctrl 1.6104908428
+hold SNARC_only DC 1 lctrl 0.645160260188
+hold SNARC_only DC 9 lctrl 3.3744203688
+hold SNARC_only DC 7 lctrl 0.505800831015
+hold SNARC_only DC 1 lctrl 0.575648198806
+hold SNARC_only DC 5 lctrl 0.459710208495
+hold SNARC_only DC 8 num_decimal 0.563481968769
+hold SNARC_only DC 3 lctrl 0.671826910795
+hold SNARC_only DC 8 num_decimal 0.655731600622
+hold SNARC_only DC 7 lctrl 0.519993661423
+hold SNARC_only DC 4 num_decimal 2.70987650602
+hold SNARC_only DC 8 num_decimal 0.420471525766
+hold SNARC_only DC 5 lctrl 0.629502686061
+hold SNARC_only DC 4 num_decimal 0.407448501996
+hold SNARC_only DC 3 lctrl 0.458047233304
+hold SNARC_only DC 6 num_decimal 0.490099874922
+hold SNARC_only DC 7 lctrl 0.385286947567
+hold SNARC_only DC 7 lctrl 0.428173028951
+hold SNARC_only DC 1 lctrl 0.557209358929
+hold SNARC_only DC 4 num_decimal 0.649668369006
+hold SNARC_only DC 6 num_decimal 0.416924146644
+hold SNARC_only DC 4 num_decimal 0.434604103459
+hold SNARC_only DC 2 num_decimal 0.419010698475
+hold SNARC_only DC 1 lctrl 0.444008951148
+hold SNARC_only DC 1 lctrl 0.388247465162
+hold SNARC_only DC 3 lctrl 0.830935375343
+hold SNARC_only DC 6 num_decimal 0.432509718768
+hold SNARC_only DC 5 lctrl 0.521851554164
+hold SNARC_only DC 4 num_decimal 1.13584368274
+hold SNARC_only DC 6 num_decimal 0.460816749779
+hold SNARC_only DC 4 num_decimal 0.44476512284
+hold SNARC_only DC 7 lctrl 0.485042562534
+hold SNARC_only DC 3 lctrl 0.60436735845
+hold SNARC_only DC 5 lctrl 0.478867562095
+hold SNARC_only DC 3 lctrl 0.566263837041
+hold SNARC_only DC 7 lctrl 0.617309944835
+hold SNARC_only DC 5 lctrl 0.434608321142
+hold SNARC_only DC 9 lctrl 0.387433450858
+hold SNARC_only DC 6 num_decimal 0.70235154331
+hold SNARC_only DC 6 num_decimal 0.396424663617
+hold SNARC_only DC 9 num_decimal 0.455531682077
+hold SNARC_only DC 3 lctrl 0.935749206474
+hold SNARC_only DC 8 num_decimal 0.740056492956
+hold SNARC_only DC 2 num_decimal 1.01744316361
+hold SNARC_only DC 2 num_decimal 0.403390179767
+hold SNARC_only DC 2 num_decimal 0.373763312848
+hold SNARC_only DC 6 num_decimal 0.688977848695
+hold SNARC_only DC 2 num_decimal 0.455744374209
+hold SNARC_only DC 7 lctrl 0.75201997257
+hold SNARC_only DC 9 lctrl 0.436832550447
+hold SNARC_only DC 8 num_decimal 0.590097103282
+hold SNARC_only DC 6 num_decimal 0.697501500283
+hold SNARC_only DC 4 num_decimal 0.591264499817
+hold SNARC_only DC 3 lctrl 0.570407718144
+hold SNARC_only DC 7 lctrl 0.998402700294
+hold SNARC_only DC 9 lctrl 0.800501423175
+hold SNARC_only DC 2 num_decimal 0.546127677924
+hold SNARC_only DC 3 lctrl 0.750649825641
+hold SNARC_only DC 3 lctrl 0.547192343569
+hold SNARC_only DC 8 num_decimal 0.687509188545
+hold SNARC_only DC 9 lctrl 1.08617193958
+hold SNARC_only DC 2 num_decimal 0.517013260425
+hold SNARC_only DC 2 num_decimal 0.498305090863
+hold SNARC_only DC 8 num_decimal 0.519922864463
+hold SNARC_only DC 3 lctrl 0.460908032648
+hold SNARC_only DC 5 num_decimal 0.581003159663
+hold SNARC_only DC 6 num_decimal 0.479480332302
+hold SNARC_only DC 1 lctrl 0.478925705975
+hold SNARC_only DC 1 lctrl 0.390148438601
+hold SNARC_only DC 3 lctrl 0.521028501942
+hold SNARC_only DC 9 lctrl 0.414579110628
+hold SNARC_only DC 6 num_decimal 1.00022173002
+hold SNARC_only DC 2 lctrl 0.682183148994
+hold SNARC_only DC 1 lctrl 1.04952864294
+hold SNARC_only DC 1 lctrl 0.353911546597
+hold SNARC_only DC 8 num_decimal 0.542494739944
+hold SNARC_only DC 4 num_decimal 0.651597058692
+hold SNARC_only DC 7 lctrl 0.523280146241
+hold SNARC_only DC 8 num_decimal 0.560939605071
+hold SNARC_only DC 2 num_decimal 0.773348834351
+hold SNARC_only DC 9 lctrl 0.599736936609
+hold SNARC_only DC 6 num_decimal 1.62545490806
+hold SNARC_only DC 6 num_decimal 0.330775705632
+hold SNARC_only DC 9 lctrl 0.495361745299
+hold SNARC_only DC 5 lctrl 0.582558282462
+hold SNARC_only DC 1 lctrl 0.601615616542
+hold SNARC_only DC 1 lctrl 0.372272057924
+hold SNARC_only DC 5 lctrl 1.36726927424
+hold SNARC_only DC 4 num_decimal 0.96266891851
+hold SNARC_only DC 2 lctrl 0.446804376275
+hold SNARC_only DC 2 num_decimal 0.399941615105
+hold SNARC_only DC 8 num_decimal 0.46625726948
+hold SNARC_only DC 8 num_decimal 0.361735664061
+hold SNARC_only DC 3 lctrl 0.454089533145
+hold SNARC_only DC 1 lctrl 0.678146517748
+hold SNARC_only DC 8 num_decimal 0.589575314705
+hold SNARC_only DC 3 lctrl 0.424739527472
+hold SNARC_only DC 5 lctrl 0.810746193834
+hold SNARC_only DC 1 lctrl 0.421129485519
+hold SNARC_only DC 7 lctrl 0.414479994899
+hold SNARC_only DC 6 lctrl 0.400388087786
+hold SNARC_only DC 8 num_decimal 0.674821169916
+hold SNARC_only DC 9 lctrl 0.762006259058
+hold SNARC_only DC 2 num_decimal 0.549830207834
+hold SNARC_only DC 4 num_decimal 0.554241611011
+hold SNARC_only DC 5 lctrl 0.670138629459
+hold SNARC_only DC 7 lctrl 1.03732234484
+hold SNARC_only DC 4 num_decimal 1.47857172124
+hold SNARC_only DC 1 lctrl 0.622366955955
+hold SNARC_only DC 4 num_decimal 0.631741074758
+hold SNARC_only DC 3 lctrl 0.616570342652
+hold SNARC_only DC 1 lctrl 0.466326258858
+hold SNARC_only DC 5 lctrl 0.681001291814
+hold SNARC_only DC 9 lctrl 0.544318589891
+hold SNARC_only DC 6 num_decimal 0.565350104487
+hold SNARC_only DC 5 lctrl 0.592770516654
+hold SNARC_only DC 8 num_decimal 0.604093509814
+hold SNARC_only DC 9 lctrl 0.846433882281
+hold SNARC_only DC 2 num_decimal 1.59903679995
+hold SNARC_only DC 3 num_decimal 0.553203757838
+hold SNARC_only DC 2 num_decimal 0.661378485922
+hold SNARC_only DC 7 lctrl 0.541087838821
+hold SNARC_only DC 8 num_decimal 0.66643971474
+hold SNARC_only DC 4 num_decimal 0.697869945696
+hold SNARC_only DC 7 lctrl 0.776524152912
+hold SNARC_only DC 3 lctrl 1.1803098918
+hold SNARC_only DC 2 num_decimal 0.511881234648
+hold SNARC_only DC 4 num_decimal 0.702230134077
+hold SNARC_only DC 4 num_decimal 0.38824686264
+hold SNARC_only DC 8 num_decimal 0.511383245888
+hold SNARC_only DC 3 lctrl 0.645912816719
+hold SNARC_only DC 5 lctrl 0.590332992695
+hold SNARC_only DC 4 num_decimal 0.697401179496
+hold SNARC_only DC 2 lctrl 0.567227278094
+hold SNARC_only DC 9 lctrl 0.593759565119
+hold SNARC_only DC 5 lctrl 0.404859743707
+hold SNARC_only DC 8 num_decimal 0.575458402731
+hold SNARC_only DC 3 lctrl 0.539156136496
+hold SNARC_only DC 8 num_decimal 0.664038041155
+hold SNARC_only DC 8 num_decimal 0.512000233779
+hold SNARC_only DC 7 lctrl 1.78999274557
+hold SNARC_only DC 3 lctrl 0.968735765287
+hold SNARC_only DC 1 lctrl 0.507747897791
+hold SNARC_only DC 7 lctrl 0.634387976927
+hold SNARC_only DC 9 lctrl 0.675114600686
+hold SNARC_only DC 6 num_decimal 0.522520359387
+hold SNARC_only DC 5 lctrl 0.576383282038
+hold SNARC_only DC 1 lctrl 0.723997635694
+hold SNARC_only DC 7 lctrl 0.569796755502
+hold SNARC_only DC 5 lctrl 0.5658029037
+hold SNARC_only DC 5 lctrl 0.521503594675
+hold SNARC_only DC 5 lctrl 0.391129051699
+hold SNARC_only DC 1 lctrl 0.538156242532
+hold SNARC_only DC 8 lctrl 0.574969150606
+hold SNARC_only DC 2 num_decimal 0.602111797722
+hold SNARC_only DC 6 num_decimal 0.604025122986
+hold SNARC_only DC 9 lctrl 0.741745979336
+hold SNARC_only DC 8 num_decimal 1.07478598232
+hold SNARC_only DC 3 lctrl 0.834344474468
+hold SNARC_only DC 9 lctrl 0.731209284218
+hold SNARC_only DC 9 lctrl 0.504026388284
+hold SNARC_only DC 7 lctrl 0.702343409197
+hold SNARC_only DC 9 lctrl 0.667749910222
+hold SNARC_only DC 1 lctrl 0.443467580422
+hold SNARC_only DC 6 num_decimal 0.572214998596
+hold SNARC_only DC 1 lctrl 1.02269629735
+hold SNARC_only DC 5 lctrl 0.68877148311
+hold SNARC_only DC 2 num_decimal 1.06334037487
+hold SNARC_only DC 8 lctrl 0.775588126839
+hold SNARC_only DC 6 num_decimal 0.666837382712
+hold SNARC_only DC 9 lctrl 0.930390630456
+hold SNARC_only DC 6 num_decimal 0.815821280776
+hold SNARC_only DC 4 num_decimal 0.561825922647
+hold SNARC_only DC 6 num_decimal 0.517793533203
+hold SNARC_only DC 1 lctrl 0.555067073336
+hold SNARC_only DC 4 lctrl 0.471543240972
+hold SNARC_only DC 5 lctrl 0.399391206476
+hold SNARC_only DC 5 lctrl 0.489929660966
+hold SNARC_only DC 8 num_decimal 0.440496518597
+hold SNARC_only DC 7 lctrl 0.633106702764
+hold SNARC_only DC 6 num_decimal 0.706374918969
+hold SNARC_only DC 5 lctrl 0.792167567648
+hold SNARC_only DC 5 lctrl 0.674408740029
+hold SNARC_only DC 6 num_decimal 0.553965051018
+hold SNARC_only DC 1 lctrl 0.49424948002
+hold SNARC_only DC 8 num_decimal 0.589438541021
+hold SNARC_only DC 8 num_decimal 0.448160363827
+hold SNARC_only DC 7 lctrl 0.695914744807
+hold SNARC_only DC 1 lctrl 0.541511415475
+hold SNARC_only DC 9 lctrl 0.76280400512
+hold SNARC_only DC 4 num_decimal 1.28705542527
+hold SNARC_only DC 2 lctrl 0.676666409592
+hold SNARC_only DC 9 lctrl 0.532656976415
+hold SNARC_only DC 7 lctrl 0.922045326923
+hold SNARC_only DC 7 lctrl 0.47999127541
+hold SNARC_only DC 5 lctrl 0.82317241437
+hold SNARC_only DC 3 lctrl 0.553166099882
+hold SNARC_only DC 6 num_decimal 0.79679588064
+hold SNARC_only DC 1 lctrl 1.07207671858
+hold SNARC_only DC 6 num_decimal 0.647379066751
+hold SNARC_only DC 6 num_decimal 0.551442871991
+hold SNARC_only DC 8 num_decimal 1.13997581456
+hold SNARC_only DC 2 num_decimal 2.20831596047
+hold SNARC_only DC 1 lctrl 0.530333028844
+hold SNARC_only DC 3 lctrl 0.640191218044
+hold SNARC_only DC 2 num_decimal 0.865509894706
+hold SNARC_only DC 1 lctrl 0.752523986608
+hold SNARC_only DC 7 lctrl 0.788297233914
+hold SNARC_only DC 4 num_decimal 0.919679202445
+hold SNARC_only DC 4 num_decimal 0.453490922315
+hold SNARC_only DC 2 num_decimal 1.12591704646
+hold SNARC_only DC 3 lctrl 0.579590534529
+hold SNARC_only DC 2 num_decimal 0.711198149525
+hold SNARC_only DC 7 lctrl 5.76492851618
+hold SNARC_only DC 2 num_decimal 0.504185154205
+hold SNARC_only DC 4 num_decimal 5.46993057682
+hold SNARC_only DC 5 lctrl 0.573930092389
+hold SNARC_only DC 4 num_decimal 0.648723907565
+hold SNARC_only DC 5 lctrl 0.60883901437
+hold SNARC_only DC 3 lctrl 1.10753906184
+hold SNARC_only DC 3 lctrl 0.562112424348
+hold SNARC_only DC 6 num_decimal 0.710622736005
+hold SNARC_only DC 2 num_decimal 0.748589784984
+hold SNARC_only DC 3 lctrl 1.87202321418
+hold SNARC_only DC 9 lctrl 0.599383253109
+hold SNARC_only DC 4 num_decimal 0.569104752969
+hold SNARC_only DC 9 lctrl 0.644373058356
+hold SNARC_only DC 6 num_decimal 0.941702778131
+hold SNARC_only DC 9 lctrl 1.5787650722
+hold SNARC_only DC 2 num_decimal 0.622649541227
+hold SNARC_only DC 9 lctrl 0.536634861259
+hold SNARC_only DC 1 lctrl 0.509051465458
+hold SNARC_only DC 1 lctrl 0.451705031577
+hold SNARC_only DC 3 lctrl 0.531498617813
+hold SNARC_only DC 1 lctrl 0.616611615755
+hold SNARC_only DC 5 lctrl 0.802296954353
+hold SNARC_only DC 5 lctrl 0.379527088415
+hold SNARC_only DC 6 num_decimal 0.558883179605
+hold SNARC_only DC 1 lctrl 0.434158835822
+hold SNARC_only DC 7 lctrl 0.715196821548
+hold SNARC_only DC 5 lctrl 0.464439746065
+hold SNARC_only DC 9 lctrl 0.680367131892
+hold SNARC_only DC 5 lctrl 0.487238171787
+hold SNARC_only DC 3 lctrl 0.41362440621
+hold SNARC_only DC 7 lctrl 0.352318464575
+hold SNARC_only DC 5 lctrl 0.371931328758
+hold SNARC_only DC 9 lctrl 0.639665513037
+hold SNARC_only DC 3 lctrl 0.560950751838
+hold SNARC_only DC 4 num_decimal 0.701439015815
+hold SNARC_only DC 3 lctrl 0.659277774699
+hold SNARC_only DC 4 num_decimal 0.955354539081
+hold SNARC_only DC 4 num_decimal 0.60796143343
+hold SNARC_only DC 1 lctrl 0.489556696601
+hold SNARC_only DC 7 lctrl 1.03262112605
+hold SNARC_only DC 3 lctrl 0.481623822969
+hold SNARC_only DC 3 lctrl 0.360705643747
+hold SNARC_only DC 5 lctrl 0.404099354331
+hold SNARC_only DC 8 num_decimal 0.534311214971
+hold SNARC_only DC 3 lctrl 0.394817723471
+hold SNARC_only DC 9 lctrl 0.934533005246
+hold SNARC_only DC 3 lctrl 0.642959830715
+hold SNARC_only DC 4 num_decimal 0.562914388109
+hold SNARC_only DC 7 lctrl 0.535155054356
+hold SNARC_only DC 9 lctrl 0.820195026026
+hold SNARC_only DC 6 num_decimal 0.877728243344
+hold SNARC_only DC 5 lctrl 0.597643756962
+hold SNARC_only DC 9 lctrl 0.503924259916
+hold SNARC_only DC 6 num_decimal 0.518399976863
+{'participant': u'hold', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'03_23_1447', 'autopilot': False, 'exp_id': u'SNARC'}
+hold SNARC_only CD 2 lctrl 0.689324904379
+hold SNARC_only CD 3 num_decimal 0.5874595403
+hold SNARC_only CD 4 lctrl 0.651106300254
+hold SNARC_only CD 7 num_decimal 0.564583689833
+hold SNARC_only CD 6 lctrl 0.580125578723
+hold SNARC_only CD 3 num_decimal 0.467540049984
+hold SNARC_only CD 6 lctrl 0.544256228313
+hold SNARC_only CD 1 num_decimal 0.647014537783
+hold SNARC_only CD 1 num_decimal 0.44762200574
+hold SNARC_only CD 4 lctrl 0.419987395129
+hold SNARC_only CD 5 num_decimal 0.703687346206
+hold SNARC_only CD 4 lctrl 0.666161949688
+hold SNARC_only CD 5 num_decimal 1.42776059905
+hold SNARC_only CD 4 lctrl 0.599529968502
+hold SNARC_only CD 4 lctrl 0.911687883665
+hold SNARC_only CD 7 num_decimal 0.583037592878
+hold SNARC_only CD 5 num_decimal 0.902793979069
+hold SNARC_only CD 7 num_decimal 0.526151791084
+hold SNARC_only CD 7 num_decimal 0.324524786774
+hold SNARC_only CD 3 lctrl 0.421567522819
+hold SNARC_only CD 5 num_decimal 0.660388232413
+hold SNARC_only CD 3 num_decimal 0.388627961118
+hold SNARC_only CD 4 lctrl 0.527598458983
+hold SNARC_only CD 2 lctrl 0.637597639536
+hold SNARC_only CD 1 num_decimal 0.622494089213
+hold SNARC_only CD 6 lctrl 0.640636184413
+hold SNARC_only CD 5 num_decimal 2.56199312396
+hold SNARC_only CD 1 num_decimal 0.630396836495
+hold SNARC_only CD 3 num_decimal 0.439275798402
+hold SNARC_only CD 9 num_decimal 0.592148708543
+hold SNARC_only CD 6 lctrl 0.571262704281
+hold SNARC_only CD 2 lctrl 0.51080843489
+hold SNARC_only CD 5 num_decimal 0.564788247822
+hold SNARC_only CD 5 num_decimal 0.408760505059
+hold SNARC_only CD 4 lctrl 0.482758683022
+hold SNARC_only CD 5 num_decimal 0.506078596067
+hold SNARC_only CD 1 lctrl 0.616094044861
+hold SNARC_only CD 3 num_decimal 0.825044466517
+hold SNARC_only CD 8 lctrl 0.642052725962
+hold SNARC_only CD 6 lctrl 0.931417336891
+hold SNARC_only CD 4 lctrl 0.400339885615
+hold SNARC_only CD 6 lctrl 0.434864395211
+hold SNARC_only CD 7 num_decimal 0.443215121515
+hold SNARC_only CD 4 lctrl 0.540528693557
+hold SNARC_only CD 8 lctrl 0.537337106769
+hold SNARC_only CD 7 num_decimal 0.486350649167
+hold SNARC_only CD 2 lctrl 0.565376013154
+hold SNARC_only CD 5 num_decimal 1.7611678424
+hold SNARC_only CD 5 num_decimal 0.42978719942
+hold SNARC_only CD 3 num_decimal 0.751133654994
+hold SNARC_only CD 1 num_decimal 0.923127767106
+hold SNARC_only CD 7 num_decimal 0.504278847191
+hold SNARC_only CD 6 lctrl 0.542482388119
+hold SNARC_only CD 8 lctrl 0.603290341009
+hold SNARC_only CD 8 lctrl 0.397614956179
+hold SNARC_only CD 8 lctrl 0.352032264127
+hold SNARC_only CD 1 num_decimal 0.652512297573
+hold SNARC_only CD 5 num_decimal 0.564623757891
+hold SNARC_only CD 4 lctrl 0.543885071544
+hold SNARC_only CD 2 lctrl 0.732462842148
+hold SNARC_only CD 9 num_decimal 0.817556860507
+hold SNARC_only CD 5 num_decimal 2.21080982072
+hold SNARC_only CD 8 lctrl 0.525427854591
+hold SNARC_only CD 1 num_decimal 1.14719047573
+hold SNARC_only CD 8 lctrl 0.567571019885
+hold SNARC_only CD 9 num_decimal 0.619436865993
+hold SNARC_only CD 3 num_decimal 0.620928723423
+hold SNARC_only CD 9 num_decimal 0.421661818342
+hold SNARC_only CD 2 lctrl 0.479437552873
+hold SNARC_only CD 1 num_decimal 0.671290360289
+hold SNARC_only CD 2 lctrl 1.1110298034
+hold SNARC_only CD 7 num_decimal 0.556809582122
+hold SNARC_only CD 5 num_decimal 0.785424986563
+hold SNARC_only CD 8 lctrl 0.548330517515
+hold SNARC_only CD 1 num_decimal 0.592642178352
+hold SNARC_only CD 8 lctrl 0.883874623731
+hold SNARC_only CD 7 num_decimal 0.490501459324
+hold SNARC_only CD 9 num_decimal 0.929621203177
+hold SNARC_only CD 1 num_decimal 0.51123472293
+hold SNARC_only CD 6 lctrl 0.532993487883
+hold SNARC_only CD 8 num_decimal 0.457504657548
+hold SNARC_only CD 9 num_decimal 0.4898715171
+hold SNARC_only CD 8 lctrl 0.529169548754
+hold SNARC_only CD 7 num_decimal 0.454361574186
+hold SNARC_only CD 4 lctrl 0.406621533359
+hold SNARC_only CD 6 lctrl 0.376178543273
+hold SNARC_only CD 1 num_decimal 0.483793222287
+hold SNARC_only CD 8 lctrl 0.490538213475
+hold SNARC_only CD 1 lctrl 0.449783873482
+hold SNARC_only CD 4 lctrl 0.626467756359
+hold SNARC_only CD 8 lctrl 0.515942268248
+hold SNARC_only CD 4 lctrl 0.433465628244
+hold SNARC_only CD 1 num_decimal 0.658542691468
+hold SNARC_only CD 7 num_decimal 0.618577963411
+hold SNARC_only CD 4 lctrl 0.403604980733
+hold SNARC_only CD 7 num_decimal 0.430284585658
+hold SNARC_only CD 2 lctrl 0.688206011298
+hold SNARC_only CD 7 num_decimal 0.511650466709
+hold SNARC_only CD 8 lctrl 0.533533954818
+hold SNARC_only CD 2 lctrl 0.458698565257
+hold SNARC_only CD 5 num_decimal 0.571178049198
+hold SNARC_only CD 3 num_decimal 0.55018841027
+hold SNARC_only CD 6 lctrl 0.506575379768
+hold SNARC_only CD 8 num_decimal 0.816488579701
+hold SNARC_only CD 5 num_decimal 0.570363131119
+hold SNARC_only CD 3 num_decimal 0.52580684422
+hold SNARC_only CD 9 num_decimal 0.595383978565
+hold SNARC_only CD 6 lctrl 0.398741983372
+hold SNARC_only CD 5 num_decimal 0.513107076331
+hold SNARC_only CD 6 lctrl 0.831758126282
+hold SNARC_only CD 7 num_decimal 0.488334470108
+hold SNARC_only CD 7 num_decimal 0.487571369347
+hold SNARC_only CD 3 num_decimal 0.574413620488
+hold SNARC_only CD 9 num_decimal 0.529367478957
+hold SNARC_only CD 1 num_decimal 0.542966518755
+hold SNARC_only CD 2 lctrl 0.490746989177
+hold SNARC_only CD 7 num_decimal 0.521566558775
+hold SNARC_only CD 9 num_decimal 0.726828007406
+hold SNARC_only CD 4 lctrl 0.548849293467
+hold SNARC_only CD 4 lctrl 0.409412740803
+hold SNARC_only CD 2 lctrl 0.427543689249
+hold SNARC_only CD 5 num_decimal 0.509569638889
+hold SNARC_only CD 3 num_decimal 0.603542498662
+hold SNARC_only CD 9 num_decimal 0.58124507434
+hold SNARC_only CD 3 num_decimal 0.336212308903
+hold SNARC_only CD 7 num_decimal 0.372958336447
+hold SNARC_only CD 4 num_decimal 0.336721444415
+hold SNARC_only CD 4 lctrl 0.565222368692
+hold SNARC_only CD 3 lctrl 0.47212980123
+hold SNARC_only CD 9 num_decimal 0.935166562631
+hold SNARC_only CD 9 num_decimal 0.379884688344
+hold SNARC_only CD 2 lctrl 0.599590522485
+hold SNARC_only CD 8 num_decimal 0.521659046703
+hold SNARC_only CD 9 num_decimal 0.527436077886
+hold SNARC_only CD 5 num_decimal 0.652658711697
+hold SNARC_only CD 1 num_decimal 0.636155189335
+hold SNARC_only CD 3 num_decimal 0.693469689271
+hold SNARC_only CD 4 lctrl 0.516526418403
+hold SNARC_only CD 4 lctrl 0.378076202833
+hold SNARC_only CD 2 lctrl 0.645132543941
+hold SNARC_only CD 9 num_decimal 0.478302692805
+hold SNARC_only CD 6 lctrl 0.669321000008
+hold SNARC_only CD 3 num_decimal 0.41999402293
+hold SNARC_only CD 5 num_decimal 0.717096288674
+hold SNARC_only CD 3 num_decimal 0.458568720642
+hold SNARC_only CD 7 num_decimal 0.402559595968
+hold SNARC_only CD 8 num_decimal 0.381191569919
+hold SNARC_only CD 2 lctrl 0.672249884912
+hold SNARC_only CD 8 lctrl 1.31155086897
+hold SNARC_only CD 7 num_decimal 0.550201364604
+hold SNARC_only CD 4 lctrl 0.490678602335
+hold SNARC_only CD 1 num_decimal 0.657544906353
+hold SNARC_only CD 6 lctrl 0.905363757745
+hold SNARC_only CD 5 num_decimal 0.711104757807
+hold SNARC_only CD 5 num_decimal 0.469267194319
+hold SNARC_only CD 8 lctrl 0.508748394263
+hold SNARC_only CD 1 num_decimal 0.635076364299
+hold SNARC_only CD 6 lctrl 1.22044573759
+hold SNARC_only CD 9 num_decimal 0.741731217408
+hold SNARC_only CD 9 num_decimal 0.546949223834
+hold SNARC_only CD 5 num_decimal 0.767499801164
+hold SNARC_only CD 3 num_decimal 0.538945854496
+hold SNARC_only CD 6 lctrl 0.663396349657
+hold SNARC_only CD 1 num_decimal 0.639676057268
+hold SNARC_only CD 7 num_decimal 1.28815292864
+hold SNARC_only CD 9 num_decimal 0.423078058608
+hold SNARC_only CD 2 lctrl 0.408694829603
+hold SNARC_only CD 8 num_decimal 0.634556082019
+hold SNARC_only CD 1 num_decimal 0.491831839478
+hold SNARC_only CD 8 num_decimal 0.39450591561
+hold SNARC_only CD 2 lctrl 0.685682627212
+hold SNARC_only CD 3 num_decimal 0.740810254545
+hold SNARC_only CD 7 num_decimal 0.522163964532
+hold SNARC_only CD 3 num_decimal 0.711911240505
+hold SNARC_only CD 3 num_decimal 0.366460080157
+hold SNARC_only CD 6 lctrl 0.514499818033
+hold SNARC_only CD 1 num_decimal 0.551962250465
+hold SNARC_only CD 2 lctrl 0.380217885904
+hold SNARC_only CD 9 num_decimal 0.432070777679
+hold SNARC_only CD 6 lctrl 0.3357477604
+hold SNARC_only CD 2 lctrl 0.516896370129
+hold SNARC_only CD 9 num_decimal 0.586695535763
+hold SNARC_only CD 2 lctrl 0.365031789348
+hold SNARC_only CD 7 num_decimal 0.352544412279
+hold SNARC_only CD 3 num_decimal 0.596385981364
+hold SNARC_only CD 9 num_decimal 0.57561174591
+hold SNARC_only CD 8 lctrl 0.570704764061
+hold SNARC_only CD 2 lctrl 0.71033713808
+hold SNARC_only CD 6 lctrl 0.628657340349
+hold SNARC_only CD 3 num_decimal 0.470640956424
+hold SNARC_only CD 3 num_decimal 0.438579276932
+hold SNARC_only CD 2 lctrl 0.542925848174
+hold SNARC_only CD 4 lctrl 1.03632455973
+hold SNARC_only CD 9 num_decimal 0.493639722452
+hold SNARC_only CD 2 lctrl 0.468514035267
+hold SNARC_only CD 2 lctrl 0.372517286509
+hold SNARC_only CD 9 num_decimal 0.511690836036
+hold SNARC_only CD 2 lctrl 0.390241529065
+hold SNARC_only CD 5 num_decimal 0.809457086812
+hold SNARC_only CD 1 num_decimal 0.275602888752
+hold SNARC_only CD 4 lctrl 0.538459916264
+hold SNARC_only CD 9 num_decimal 0.447822044793
+hold SNARC_only CD 7 num_decimal 0.512374403188
+hold SNARC_only CD 6 lctrl 0.766975903738
+hold SNARC_only CD 6 lctrl 0.482361617571
+hold SNARC_only CD 9 num_decimal 0.513230293145
+hold SNARC_only CD 6 lctrl 0.807869728786
+hold SNARC_only CD 1 num_decimal 0.753864007187
+hold SNARC_only CD 5 lctrl 0.662147310679
+hold SNARC_only CD 1 num_decimal 0.574627517664
+hold SNARC_only CD 3 num_decimal 0.425952716076
+hold SNARC_only CD 7 num_decimal 0.411775551373
+hold SNARC_only CD 6 lctrl 0.55796763947
+hold SNARC_only CD 6 lctrl 0.522396841319
+hold SNARC_only CD 7 num_decimal 0.504513531559
+hold SNARC_only CD 3 num_decimal 1.4225324702
+hold SNARC_only CD 3 num_decimal 0.344553997274
+hold SNARC_only CD 7 num_decimal 0.461382824113
+hold SNARC_only CD 8 lctrl 0.549443686599
+hold SNARC_only CD 6 lctrl 0.977703780736
+hold SNARC_only CD 9 num_decimal 0.557134645554
+hold SNARC_only CD 3 num_decimal 0.944951605008
+hold SNARC_only CD 8 lctrl 0.750104538485
+hold SNARC_only CD 1 num_decimal 1.56286437834
+hold SNARC_only CD 3 num_decimal 0.542884575058
+hold SNARC_only CD 5 num_decimal 0.69880205534
+hold SNARC_only CD 7 num_decimal 0.385464391846
+hold SNARC_only CD 8 lctrl 0.508787558545
+hold SNARC_only CD 4 lctrl 1.66687383561
+hold SNARC_only CD 5 num_decimal 0.522358279573
+hold SNARC_only CD 1 lctrl 0.559692072435
+hold SNARC_only CD 8 lctrl 0.499561058896
+hold SNARC_only CD 6 lctrl 0.625601924708
+hold SNARC_only CD 3 num_decimal 0.427471687246
+hold SNARC_only CD 9 num_decimal 0.628861597084
+hold SNARC_only CD 5 num_decimal 0.462117003568
+hold SNARC_only CD 7 num_decimal 0.437882454164
+hold SNARC_only CD 2 lctrl 0.533922886156
+hold SNARC_only CD 8 num_decimal 0.69847548558
+hold SNARC_only CD 1 num_decimal 0.592512936259
+hold SNARC_only CD 9 num_decimal 0.739874228457
+hold SNARC_only CD 8 num_decimal 0.391962949405
+hold SNARC_only CD 5 num_decimal 0.842591264794
+hold SNARC_only CD 2 lctrl 0.467393334591
+hold SNARC_only CD 1 num_decimal 0.907080056582
+hold SNARC_only CD 4 lctrl 0.600850406947
+hold SNARC_only CD 2 lctrl 0.427377692991
+hold SNARC_only CD 3 num_decimal 0.605458234015
+hold SNARC_only CD 1 lctrl 0.503061742158
+hold SNARC_only CD 2 lctrl 0.333527146257
+hold SNARC_only CD 6 lctrl 0.473689141727
+hold SNARC_only CD 1 num_decimal 0.577677209279
+hold SNARC_only CD 3 num_decimal 0.965682458496
+hold SNARC_only CD 3 num_decimal 0.433690069636
+hold SNARC_only CD 5 lctrl 0.546883247094
+hold SNARC_only CD 2 lctrl 1.13582530567
+hold SNARC_only CD 6 lctrl 1.14049428924
+hold SNARC_only CD 9 num_decimal 0.553531231402
+hold SNARC_only CD 4 lctrl 0.821512150564
+hold SNARC_only CD 5 num_decimal 0.495522017562
+hold SNARC_only CD 5 num_decimal 0.501881391319
+hold SNARC_only CD 8 lctrl 1.25183409292
+hold SNARC_only CD 7 num_decimal 0.564504457507
+hold SNARC_only CD 2 lctrl 0.50448039257
+hold SNARC_only CD 5 num_decimal 0.654584087504
+hold SNARC_only CD 6 lctrl 2.02237033012
+hold SNARC_only CD 4 lctrl 0.463248248459
+hold SNARC_only CD 5 num_decimal 0.495931434809
+hold SNARC_only CD 9 num_decimal 0.574255155836
+hold SNARC_only CD 1 num_decimal 0.857726749076
+hold SNARC_only CD 6 lctrl 0.529586196339
+hold SNARC_only CD 6 lctrl 0.51922302907
+hold SNARC_only CD 8 num_decimal 0.508096158534
+hold SNARC_only CD 7 num_decimal 0.50665822727
+hold SNARC_only CD 2 lctrl 0.56059104306
+hold SNARC_only CD 9 num_decimal 0.628244609179
+hold SNARC_only CD 9 num_decimal 0.397803547196
+hold SNARC_only CD 4 lctrl 0.456357746923
+hold SNARC_only CD 7 num_decimal 0.656764633575
+hold SNARC_only CD 1 num_decimal 1.16133118753
+hold SNARC_only CD 2 lctrl 0.509534391051
+hold SNARC_only CD 3 num_decimal 0.67604098632
+hold SNARC_only CD 3 num_decimal 0.458930839523
+hold SNARC_only CD 5 num_decimal 0.475279512393
+hold SNARC_only CD 7 num_decimal 0.442719844126
+hold SNARC_only CD 3 num_decimal 0.611392524806
+hold SNARC_only CD 6 num_decimal 0.452941116208
+hold SNARC_only CD 4 lctrl 1.18142034952
+hold SNARC_only CD 9 num_decimal 0.560795902333
+hold SNARC_only CD 2 lctrl 0.516915349741
+hold SNARC_only CD 5 num_decimal 0.626179748346
+hold SNARC_only CD 6 num_decimal 0.643649423146
+hold SNARC_only CD 8 num_decimal 0.980436241764
+hold SNARC_only CD 6 lctrl 0.647426967684
+hold SNARC_only CD 7 num_decimal 0.487566247873
+hold SNARC_only CD 7 num_decimal 0.494859237588
+hold SNARC_only CD 4 lctrl 0.75744874301
+hold SNARC_only CD 8 lctrl 0.737689163434
+hold SNARC_only CD 6 lctrl 0.374414042264
+hold SNARC_only CD 9 num_decimal 0.474449832371
+hold SNARC_only CD 9 num_decimal 0.473887975735
+hold SNARC_only CD 7 num_decimal 0.369301899889
+hold SNARC_only CD 4 lctrl 0.740985891214
+hold SNARC_only CD 6 num_decimal 0.47289802348
+hold SNARC_only CD 1 num_decimal 0.639542296209
+hold SNARC_only CD 1 num_decimal 0.38486096081
+hold SNARC_only CD 3 num_decimal 0.491239555195
+hold SNARC_only CD 5 num_decimal 0.522176015089
+hold SNARC_only CD 1 num_decimal 0.391340538743
+hold SNARC_only CD 2 lctrl 0.530622543185
+hold SNARC_only CD 1 num_decimal 0.992000547092
+hold SNARC_only CD 4 lctrl 0.498147228747
+hold SNARC_only CD 9 num_decimal 0.960558265579
+hold SNARC_only CD 8 lctrl 0.860506508499
+hold SNARC_only CD 9 num_decimal 0.581088417253
+hold SNARC_only CD 4 lctrl 0.704408270045
+hold SNARC_only CD 4 lctrl 0.52701671893
+hold SNARC_only CD 3 num_decimal 0.604510458666
+hold SNARC_only CD 9 num_decimal 0.687060305747
+hold SNARC_only CD 2 lctrl 0.462414350754
+hold SNARC_only CD 5 num_decimal 0.471025971332
+hold SNARC_only CD 5 num_decimal 0.471065738137
+hold SNARC_only CD 9 num_decimal 0.710567303497
+hold SNARC_only CD 1 num_decimal 0.540443134683
+hold SNARC_only CD 1 num_decimal 0.385754809977
+hold SNARC_only CD 4 lctrl 0.843304054521
+hold SNARC_only CD 4 lctrl 0.444089388533
+hold SNARC_only CD 3 num_decimal 0.533465266708
+hold SNARC_only CD 8 lctrl 0.994121141717
+hold SNARC_only CD 5 num_decimal 0.484600307536
+hold SNARC_only CD 6 lctrl 1.07509809143
+hold SNARC_only CD 4 lctrl 1.21110023884
+hold SNARC_only CD 7 num_decimal 0.725506062634
+hold SNARC_only CD 6 lctrl 1.72371143523
+hold SNARC_only CD 7 num_decimal 0.569484345135
+hold SNARC_only CD 5 num_decimal 0.692601447503
+hold SNARC_only CD 8 lctrl 0.715601418589
+hold SNARC_only CD 4 lctrl 0.617289458896
+hold SNARC_only CD 2 lctrl 0.466150019638
+hold SNARC_only CD 3 num_decimal 0.529597343106
+hold SNARC_only CD 8 lctrl 0.622959240238
+hold SNARC_only CD 8 lctrl 0.472390996802
+hold SNARC_only CD 7 num_decimal 0.391514970397
+hold SNARC_only CD 2 lctrl 0.498496393266
+hold SNARC_only CD 1 num_decimal 0.720570460733
+hold SNARC_only CD 2 lctrl 0.542613739075
+hold SNARC_only CD 2 lctrl 0.411903588407
+hold SNARC_only CD 1 num_decimal 0.598552970579
+hold SNARC_only CD 8 lctrl 0.496161901479
+hold SNARC_only CD 7 num_decimal 0.655363757745
+hold SNARC_only CD 6 lctrl 0.631606108655
+hold SNARC_only CD 6 lctrl 0.672264948094
+hold SNARC_only CD 8 lctrl 1.03110486626
+hold SNARC_only CD 8 lctrl 0.296246375801
+hold SNARC_only CD 2 lctrl 0.478931731253
+hold SNARC_only CD 9 num_decimal 0.518456011894
+hold SNARC_only CD 4 lctrl 0.516214309289
+hold SNARC_only CD 9 num_decimal 0.473628286491
+hold SNARC_only CD 4 lctrl 0.56956086609
+hold SNARC_only CD 7 num_decimal 0.453706627071

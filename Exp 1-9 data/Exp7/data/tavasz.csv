@@ -1,0 +1,2317 @@
+{'delay': u'0', 'dateStr': u'05_18_1207', 'task': u'line', 'participant': u'tavasz', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+tavasz SNARC line arabic CD 0 up 4 lctrl 1.95530585098
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.585215829255
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.545454100036
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.503121171176
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.419230137952
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.655507886288
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.759494313214
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.831576096069
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.691888244677
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.629805688397
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.620179175545
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.405662308796
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.583806166484
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.691192862374
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.566755126376
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.59119744692
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.688309843041
+tavasz SNARC line arabic CD 0 up 1 lctrl 1.07600560086
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.545442201226
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.553236642416
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.537314942369
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.473210632947
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.527142482664
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.48624546401
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.620692925557
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.598259059479
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.476671096083
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.637209917622
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.503464487731
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.63026869332
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.41626522658
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.548531000502
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.452686880919
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.442324389733
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.49556575669
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.43784832547
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.433172080695
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.440279188828
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.421498967073
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.466329252842
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.480256497045
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.966303530353
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.401037858945
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.469001242745
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.459122404456
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.424399484706
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.477308034082
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.443468428362
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.456715338747
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.542207466118
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.461819941818
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.483425088576
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.401833331533
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.405833442113
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.482055321918
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.51266299226
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.58342680338
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.568254380429
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.856687551452
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.552661648398
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.424623812869
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.50146023283
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.724295439839
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.480261746503
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.638624129933
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.553019313578
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.449041985761
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.478252592118
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.572087907261
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.596380092378
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.8538388288
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.59741004213
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.638315460004
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.60098599401
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.538182857912
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.680711032794
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.516924177413
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.428208163939
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.496556160273
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.463381139853
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.460990172607
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.474312675651
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.416565147374
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.468886803865
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.434989103815
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.456189689925
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.461813292495
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.475419967872
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.497361431859
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.504177368333
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.510711932206
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.573733797006
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.526173077058
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.445316948404
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.402529763727
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.550586000434
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.478652253223
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.516444374138
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.499766047753
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.530259279272
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.786168016552
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.495838030183
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.550561152893
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.59858277798
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.48776291628
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.574173704168
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.526552090159
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.701807679026
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.505410648271
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.456517258048
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.454191034514
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.459698798339
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.561342203349
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.649702301482
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.548196083109
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.86819898081
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.524186320457
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.522743060952
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.690557674214
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.470189027081
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.556149058888
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.524149923993
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.547305419808
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.499324390781
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.434142536222
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.518947330478
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.477824583795
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.484136919258
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.52251523314
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.537654759333
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.505298309232
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.400167493703
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.588142944267
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.508819666429
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.467700069392
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.409363198502
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.486155172781
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.548526800936
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.58828433053
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.453281823022
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.546648883726
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.682869972603
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.606097596406
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.495279484545
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.460593661206
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.515260789369
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.458416873123
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.480075914616
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.430022037355
+tavasz SNARC line arabic CD 0 down 8 lctrl 0.330848341924
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.739724037849
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.665179544769
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.54513178143
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.757012004877
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.600946447841
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.640839764237
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.616767357686
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.544691524265
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.736559295969
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.440546912781
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.520269151806
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.54438320428
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.432292966259
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.505245464359
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.545185676165
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.481162558804
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.529051196878
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.400967865775
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.50469426802
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.472879565175
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.592739746789
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.552662348317
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.512637444743
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.416422011331
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.496470768558
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.464472683583
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.536280443106
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.471939206705
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.505301808851
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.457193742186
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.521056575148
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.672909592249
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.584971902979
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.560803255823
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.536445976992
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.536710201268
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.472359515814
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.568566200061
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.480477675505
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.616465337109
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.49636962841
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.568205035233
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.545289616042
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.633223805664
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.561030383687
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.480741549807
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.608888224728
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.696796516859
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.552759288868
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.472698632802
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.488667928177
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.472559346352
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.512475760479
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.41639891357
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.584044493269
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.441345185041
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.464208109363
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.50520311849
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.489079488121
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.473005202948
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.464972084941
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.432910656149
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.480836040602
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.408445937792
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.448603128491
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.400603551243
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.496482667397
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.408516630909
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.464484932396
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.440333083563
+tavasz SNARC line arabic CD 0 up 6 num_decimal 0.441273442033
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.720230585546
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.528904911102
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.657102331083
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.480949779536
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.50493854424
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.448837255681
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.424778497807
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.488724972645
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.392587931565
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.408567375969
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.456246734393
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.448512137344
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.40841444087
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.424343840132
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.408308051206
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.561176669464
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.417143991042
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.497049262252
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.465023879922
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.728654615465
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.440859082359
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.528830018389
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.552707493916
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.712598178565
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.44062600506
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.496495616157
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.42447647723
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.536442827317
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.68803966933
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.528280921862
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.497185398999
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.449094130687
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.401036809082
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.416951159801
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.448888350744
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.528837017715
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.456751035264
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.439590105903
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.456651644956
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.464588872273
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.552472666779
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.656418147701
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.504405196145
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.712298957689
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.633272450941
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.553155100351
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.496793437167
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.561019884713
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.456944566453
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.496829133685
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.608774485823
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.592729247815
+tavasz SNARC line arabic CD 0 up 7 lctrl 1.13662424963
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.592489171191
+tavasz SNARC line arabic CD 0 down 4 num_decimal 1.44849918861
+tavasz SNARC line arabic CD 0 down 1 num_decimal 2.17597966839
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.673199014069
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.601123530621
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.520878442505
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.432937953505
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.504819205846
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.52086129415
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.472721380589
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.480600863521
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.400302230584
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.464549326134
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.456509558804
+tavasz SNARC line arabic CD 0 down 8 lctrl 0.65637755167
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.640294167359
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.553263939772
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.625227084151
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.449138226395
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.48094557994
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.58466778259
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.560935892892
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.608799683367
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.512755033298
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.448644424469
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.440572460269
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.400603201299
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.456474562205
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.456418567628
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.416074145178
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.432239421498
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.481209104299
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.377218127804
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.473084995174
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.449078032252
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.448944695236
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.440926975745
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.440874480875
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.520446934504
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.624712284276
+tavasz SNARC line arabic CD 0 down 3 num_decimal 0.448561832512
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.592557414522
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.42451602337
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.368456730735
+tavasz SNARC line arabic CD 0 down 6 num_decimal 0.36835944021
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.480292193562
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.753205075482
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.632836743345
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.529057496256
+tavasz SNARC line arabic CD 0 down 9 num_decimal 0.481000174623
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.632889238215
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.560851901071
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.512702538399
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.472751477646
+tavasz SNARC line arabic CD 0 down 7 num_decimal 0.472642988199
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.528642786638
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.559743209014
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.400413869706
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.98432327612
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.545227322116
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.521227708494
+tavasz SNARC line arabic CD 0 up 5 lctrl 0.465146018018
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.393072284409
+tavasz SNARC line arabic CD 0 down 1 num_decimal 0.497076909582
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.456908519933
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.48861753309
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.792702930368
+tavasz SNARC line arabic CD 0 up 3 lctrl 1.30468663876
+tavasz SNARC line arabic CD 0 up 3 lctrl 0.408592573513
+tavasz SNARC line arabic CD 0 up 1 lctrl 0.544512691675
+tavasz SNARC line arabic CD 0 up 8 lctrl 0.544443048449
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.672351746558
+tavasz SNARC line arabic CD 0 up 5 lctrl 1.76823471233
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.641179231199
+tavasz SNARC line arabic CD 0 down 8 num_decimal 0.600738918089
+tavasz SNARC line arabic CD 0 down 2 num_decimal 0.593023919122
+tavasz SNARC line arabic CD 0 down 5 num_decimal 0.472977555648
+tavasz SNARC line arabic CD 0 up 9 lctrl 0.568841273314
+tavasz SNARC line arabic CD 0 up 2 lctrl 0.464778553811
+tavasz SNARC line arabic CD 0 down 2 num_decimal 1.21669750451
+tavasz SNARC line arabic CD 0 down 4 num_decimal 0.592537466495
+tavasz SNARC line arabic CD 0 up 4 lctrl 0.720603299269
+tavasz SNARC line arabic CD 0 up 7 lctrl 1.10445888093
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.584037493973
+tavasz SNARC line arabic CD 0 up 7 lctrl 0.536234247586
+tavasz SNARC line arabic CD 0 up 6 lctrl 0.409190665261
+{'delay': u'0', 'dateStr': u'05_18_1217', 'task': u'line', 'participant': u'tavasz', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'CD', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+tavasz SNARC line dot CD 0 up 45 lctrl 2.38382723441
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.748183764314
+tavasz SNARC line dot CD 0 up 30 lctrl 0.692211963149
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.700970210572
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.515198845387
+tavasz SNARC line dot CD 0 up 20 lctrl 0.532034656411
+tavasz SNARC line dot CD 0 up 30 lctrl 0.419914671307
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.501460932777
+tavasz SNARC line dot CD 0 up 35 lctrl 0.45981043746
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.438658496598
+tavasz SNARC line dot CD 0 up 15 lctrl 0.62430142425
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.425956483145
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.418663543125
+tavasz SNARC line dot CD 0 up 45 lctrl 0.444045172189
+tavasz SNARC line dot CD 0 up 20 lctrl 0.47860395789
+tavasz SNARC line dot CD 0 up 25 lctrl 0.568503556162
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.829217325692
+tavasz SNARC line dot CD 0 up 25 lctrl 0.521616520651
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.420935871894
+tavasz SNARC line dot CD 0 up 40 lctrl 0.450100632705
+tavasz SNARC line dot CD 0 up 25 lctrl 0.700333972462
+tavasz SNARC line dot CD 0 up 20 lctrl 0.460835837614
+tavasz SNARC line dot CD 0 up 45 lctrl 0.390306503657
+tavasz SNARC line dot CD 0 up 45 lctrl 0.49092310862
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.422533816338
+tavasz SNARC line dot CD 0 up 30 lctrl 0.579900546698
+tavasz SNARC line dot CD 0 up 25 lctrl 0.776823926193
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.416130489699
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.492031450733
+tavasz SNARC line dot CD 0 up 35 lctrl 0.394527442753
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.419973815558
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.483666215092
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.435131539969
+tavasz SNARC line dot CD 0 up 35 lctrl 0.520907139697
+tavasz SNARC line dot CD 0 up 30 lctrl 0.501069670863
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.528546895948
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.387382538291
+tavasz SNARC line dot CD 0 up 30 lctrl 0.447988938278
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.390735911875
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.394217022986
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.378063995478
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.327132403647
+tavasz SNARC line dot CD 0 up 30 lctrl 0.485547281947
+tavasz SNARC line dot CD 0 up 35 lctrl 0.568376868498
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.91375124632
+tavasz SNARC line dot CD 0 up 35 lctrl 0.555269944452
+tavasz SNARC line dot CD 0 up 10 lctrl 0.392807010241
+tavasz SNARC line dot CD 0 up 40 lctrl 0.395451702789
+tavasz SNARC line dot CD 0 up 25 lctrl 0.397133989027
+tavasz SNARC line dot CD 0 up 45 lctrl 0.280859208346
+tavasz SNARC line dot CD 0 up 25 lctrl 0.419277733308
+tavasz SNARC line dot CD 0 up 30 lctrl 0.412581135228
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.438068804011
+tavasz SNARC line dot CD 0 up 10 lctrl 0.41492940663
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.363550558366
+tavasz SNARC line dot CD 0 up 5 lctrl 0.371542380366
+tavasz SNARC line dot CD 0 up 25 lctrl 0.430710070359
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.427166315349
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.389813051705
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.341809624835
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.340633389365
+tavasz SNARC line dot CD 0 up 45 lctrl 0.442186153174
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.36092161428
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.436605946423
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.410428844742
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.418756284082
+tavasz SNARC line dot CD 0 up 30 lctrl 0.415946057648
+tavasz SNARC line dot CD 0 up 40 lctrl 0.404902532726
+tavasz SNARC line dot CD 0 up 40 lctrl 0.385964826302
+tavasz SNARC line dot CD 0 up 35 lctrl 0.20263027394
+tavasz SNARC line dot CD 0 up 5 lctrl 0.259207866096
+tavasz SNARC line dot CD 0 up 10 lctrl 0.303460708092
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.456556104269
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.362949666858
+tavasz SNARC line dot CD 0 up 45 lctrl 0.365007816494
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.350204607559
+tavasz SNARC line dot CD 0 up 40 lctrl 0.2960421303
+tavasz SNARC line dot CD 0 up 5 lctrl 0.383553561056
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.374887004757
+tavasz SNARC line dot CD 0 down 5 lctrl 0.335036734177
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.52325366126
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.402687948314
+tavasz SNARC line dot CD 0 up 30 lctrl 0.450651829044
+tavasz SNARC line dot CD 0 up 35 lctrl 0.390477287059
+tavasz SNARC line dot CD 0 up 20 lctrl 0.346704598283
+tavasz SNARC line dot CD 0 up 40 lctrl 0.370048725774
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.439176096232
+tavasz SNARC line dot CD 0 up 10 lctrl 0.426876543585
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.35173605851
+tavasz SNARC line dot CD 0 up 35 lctrl 0.343029256095
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.355544037797
+tavasz SNARC line dot CD 0 up 10 lctrl 0.363671296625
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.315212214104
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.434674484422
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.450559438032
+tavasz SNARC line dot CD 0 up 25 lctrl 0.446992585261
+tavasz SNARC line dot CD 0 up 40 lctrl 0.394302414672
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.371382795885
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.422444225056
+tavasz SNARC line dot CD 0 up 15 lctrl 0.454990006721
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.462384436862
+tavasz SNARC line dot CD 0 up 45 lctrl 0.525858807669
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.437717788183
+tavasz SNARC line dot CD 0 up 25 lctrl 0.374485593813
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.382130949554
+tavasz SNARC line dot CD 0 up 20 lctrl 0.403487620497
+tavasz SNARC line dot CD 0 up 15 lctrl 0.383569309517
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.471105237928
+tavasz SNARC line dot CD 0 up 40 lctrl 0.394535142026
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.383363179601
+tavasz SNARC line dot CD 0 up 45 lctrl 0.470313964935
+tavasz SNARC line dot CD 0 up 20 lctrl 0.387078067957
+tavasz SNARC line dot CD 0 up 5 lctrl 0.391487288696
+tavasz SNARC line dot CD 0 up 25 lctrl 0.412305362057
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.395151432022
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.474443212966
+tavasz SNARC line dot CD 0 up 25 lctrl 0.470594287646
+tavasz SNARC line dot CD 0 up 5 lctrl 0.423097611434
+tavasz SNARC line dot CD 0 up 20 lctrl 0.426609519549
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.583380607917
+tavasz SNARC line dot CD 0 up 15 lctrl 0.471616188181
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.48291098862
+tavasz SNARC line dot CD 0 up 45 lctrl 0.574612211494
+tavasz SNARC line dot CD 0 up 10 lctrl 0.475548055372
+tavasz SNARC line dot CD 0 up 25 lctrl 0.359056295856
+tavasz SNARC line dot CD 0 up 5 lctrl 0.343567503704
+tavasz SNARC line dot CD 0 up 15 lctrl 0.375145979517
+tavasz SNARC line dot CD 0 up 30 lctrl 0.458392725472
+tavasz SNARC line dot CD 0 up 35 lctrl 0.382311531954
+tavasz SNARC line dot CD 0 up 45 lctrl 0.262151079602
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.386790395976
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.514531460358
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.343113947863
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.43884677827
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.429813107708
+tavasz SNARC line dot CD 0 up 10 num_decimal 0.410684319882
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.549949412409
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.502963686478
+tavasz SNARC line dot CD 0 up 40 lctrl 0.53061589456
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.495399872831
+tavasz SNARC line dot CD 0 up 30 lctrl 0.474771481007
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.391001535987
+tavasz SNARC line dot CD 0 up 45 lctrl 0.366061213921
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.406482628925
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.412094332627
+tavasz SNARC line dot CD 0 up 20 lctrl 0.43490756175
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.431144728034
+tavasz SNARC line dot CD 0 up 20 lctrl 0.402642802714
+tavasz SNARC line dot CD 0 up 30 lctrl 0.410238463286
+tavasz SNARC line dot CD 0 up 40 lctrl 0.410041432449
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.415356365032
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.614909038588
+tavasz SNARC line dot CD 0 up 5 lctrl 0.447728913598
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.466521034163
+tavasz SNARC line dot CD 0 up 30 lctrl 0.498921230028
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.494638346951
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.403473271872
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.479492171435
+tavasz SNARC line dot CD 0 up 15 lctrl 0.502967186156
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.514559107658
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.506250916485
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.350063571328
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.382303132792
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.394247120043
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.371043328953
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.346456122497
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.36725039818
+tavasz SNARC line dot CD 0 up 5 lctrl 0.447844402341
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.759088352759
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.49146975542
+tavasz SNARC line dot CD 0 up 45 lctrl 0.518106712319
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.438837679161
+tavasz SNARC line dot CD 0 up 40 lctrl 0.442352736951
+tavasz SNARC line dot CD 0 up 40 lctrl 0.410364101059
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.443222402304
+tavasz SNARC line dot CD 0 up 5 lctrl 0.463269850705
+tavasz SNARC line dot CD 0 up 15 lctrl 0.35889811127
+tavasz SNARC line dot CD 0 up 15 lctrl 0.581585982611
+tavasz SNARC line dot CD 0 up 25 lctrl 0.438456216274
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.515555810649
+tavasz SNARC line dot CD 0 up 10 lctrl 0.411840607325
+tavasz SNARC line dot CD 0 up 30 lctrl 0.403131705127
+tavasz SNARC line dot CD 0 up 5 lctrl 0.359777225676
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.430299910309
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.414839815348
+tavasz SNARC line dot CD 0 up 20 lctrl 0.411190370593
+tavasz SNARC line dot CD 0 up 15 lctrl 0.455275578919
+tavasz SNARC line dot CD 0 up 45 lctrl 0.414326415339
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.406291547522
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.422380181291
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.383281987481
+tavasz SNARC line dot CD 0 up 10 lctrl 0.411029736249
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.389878845308
+tavasz SNARC line dot CD 0 up 5 lctrl 0.41504734513
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.568084646977
+tavasz SNARC line dot CD 0 up 35 lctrl 0.415047345159
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.499247398286
+tavasz SNARC line dot CD 0 up 20 lctrl 0.427418640786
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.430820659618
+tavasz SNARC line dot CD 0 up 25 lctrl 0.415035096346
+tavasz SNARC line dot CD 0 up 45 lctrl 0.454517202743
+tavasz SNARC line dot CD 0 up 10 lctrl 0.427359846508
+tavasz SNARC line dot CD 0 up 20 lctrl 0.37892421172
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.461381784495
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.511323322658
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.398342771339
+tavasz SNARC line dot CD 0 up 15 lctrl 0.461424480338
+tavasz SNARC line dot CD 0 up 40 lctrl 0.39397309674
+tavasz SNARC line dot CD 0 up 40 lctrl 0.473872768489
+tavasz SNARC line dot CD 0 up 30 lctrl 0.355359255773
+tavasz SNARC line dot CD 0 up 15 lctrl 0.375487196317
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.467810658651
+tavasz SNARC line dot CD 0 up 20 lctrl 0.363340578799
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.351484083047
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.375190425228
+tavasz SNARC line dot CD 0 up 40 lctrl 0.442348537355
+tavasz SNARC line dot CD 0 up 10 lctrl 0.347387381829
+tavasz SNARC line dot CD 0 up 25 lctrl 0.342872821348
+tavasz SNARC line dot CD 0 up 10 lctrl 0.291302891652
+tavasz SNARC line dot CD 0 up 40 lctrl 0.330273347878
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.463342993549
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.418777981977
+tavasz SNARC line dot CD 0 up 15 lctrl 0.470917656145
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.478329584614
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.687033167313
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.511128391663
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.399345073733
+tavasz SNARC line dot CD 0 up 5 lctrl 0.375865159527
+tavasz SNARC line dot CD 0 down 25 lctrl 0.367165706411
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.906302921416
+tavasz SNARC line dot CD 0 up 40 lctrl 0.49043175648
+tavasz SNARC line dot CD 0 up 20 lctrl 0.426839447173
+tavasz SNARC line dot CD 0 up 30 lctrl 0.530755880929
+tavasz SNARC line dot CD 0 up 45 lctrl 0.382099452603
+tavasz SNARC line dot CD 0 up 45 lctrl 0.318142828793
+tavasz SNARC line dot CD 0 up 10 lctrl 0.339153383422
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.599234764493
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.705000768183
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.518146258459
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.442779695411
+tavasz SNARC line dot CD 0 up 5 lctrl 0.567923312658
+tavasz SNARC line dot CD 0 up 45 lctrl 0.534705946397
+tavasz SNARC line dot CD 0 up 40 lctrl 0.386851989955
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.731260111846
+tavasz SNARC line dot CD 0 up 5 lctrl 0.639645680494
+tavasz SNARC line dot CD 0 up 35 lctrl 0.462742801988
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.455214684858
+tavasz SNARC line dot CD 0 up 20 lctrl 0.586964958959
+tavasz SNARC line dot CD 0 up 35 lctrl 0.374358206231
+tavasz SNARC line dot CD 0 up 15 lctrl 0.926994657086
+tavasz SNARC line dot CD 0 up 25 lctrl 0.702709191275
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.979032491188
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.517780194088
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.343051303935
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.375296814862
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.3867270521
+tavasz SNARC line dot CD 0 up 45 lctrl 0.554055212706
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.411029036302
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.38310875438
+tavasz SNARC line dot CD 0 up 10 lctrl 0.411389151268
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.382458867622
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.410799108708
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.383048210235
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.383060109103
+tavasz SNARC line dot CD 0 up 45 lctrl 0.493872621475
+tavasz SNARC line dot CD 0 up 5 lctrl 0.407185360498
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.618623227027
+tavasz SNARC line dot CD 0 down 30 num_decimal 1.03432045892
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.431948599784
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.779202994599
+tavasz SNARC line dot CD 0 up 20 lctrl 0.466761110816
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.482957884058
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.494588651811
+tavasz SNARC line dot CD 0 up 30 lctrl 0.714808563411
+tavasz SNARC line dot CD 0 up 25 lctrl 0.438860076974
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.430676473654
+tavasz SNARC line dot CD 0 up 20 lctrl 0.434927509807
+tavasz SNARC line dot CD 0 up 35 lctrl 0.406372039695
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.438546157529
+tavasz SNARC line dot CD 0 down 15 lctrl 0.310856538097
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.642979105964
+tavasz SNARC line dot CD 0 down 35 num_decimal 1.11827308612
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.45143050325
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.418844825472
+tavasz SNARC line dot CD 0 up 5 lctrl 0.471777872444
+tavasz SNARC line dot CD 0 up 5 lctrl 0.575701655442
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.578577325505
+tavasz SNARC line dot CD 0 up 30 lctrl 0.522783307038
+tavasz SNARC line dot CD 0 up 30 lctrl 0.512227984582
+tavasz SNARC line dot CD 0 up 40 lctrl 0.402331683028
+tavasz SNARC line dot CD 0 up 25 lctrl 0.31884311061
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.578304352064
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.470321314206
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.366792992718
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.378099342022
+tavasz SNARC line dot CD 0 up 45 num_decimal 0.412146127579
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.770284812781
+tavasz SNARC line dot CD 0 up 15 lctrl 0.447394346178
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.54757104395
+tavasz SNARC line dot CD 0 down 35 num_decimal 0.46285549103
+tavasz SNARC line dot CD 0 down 10 num_decimal 0.443578317645
+tavasz SNARC line dot CD 0 up 10 lctrl 0.523468190368
+tavasz SNARC line dot CD 0 up 45 lctrl 0.494333876617
+tavasz SNARC line dot CD 0 up 30 lctrl 0.402481468453
+tavasz SNARC line dot CD 0 up 20 lctrl 0.441159003181
+tavasz SNARC line dot CD 0 up 40 lctrl 0.351859946415
+tavasz SNARC line dot CD 0 up 10 lctrl 0.467200668005
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.58292810194
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.521999383345
+tavasz SNARC line dot CD 0 up 5 lctrl 0.447086726112
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.459497567907
+tavasz SNARC line dot CD 0 up 10 lctrl 0.491594693245
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.459145852161
+tavasz SNARC line dot CD 0 up 10 lctrl 0.435755529179
+tavasz SNARC line dot CD 0 up 40 lctrl 0.394609684765
+tavasz SNARC line dot CD 0 up 35 lctrl 0.414709628007
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.487669475377
+tavasz SNARC line dot CD 0 up 40 lctrl 0.423378284118
+tavasz SNARC line dot CD 0 up 10 lctrl 0.459261340904
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.618292509229
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.506908502459
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.486049483094
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.447214813612
+tavasz SNARC line dot CD 0 up 20 lctrl 0.554658204026
+tavasz SNARC line dot CD 0 up 35 lctrl 0.478071309743
+tavasz SNARC line dot CD 0 up 20 lctrl 0.530480807676
+tavasz SNARC line dot CD 0 up 35 lctrl 0.62296385449
+tavasz SNARC line dot CD 0 up 25 lctrl 0.471248723916
+tavasz SNARC line dot CD 0 up 10 lctrl 0.387542122771
+tavasz SNARC line dot CD 0 up 15 lctrl 0.399428715609
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.503629321698
+tavasz SNARC line dot CD 0 up 10 lctrl 1.12343683344
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.767511332786
+tavasz SNARC line dot CD 0 up 15 lctrl 0.367049167777
+tavasz SNARC line dot CD 0 up 25 lctrl 0.446704563306
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.622875663074
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.450449898693
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.541791006632
+tavasz SNARC line dot CD 0 down 40 num_decimal 0.417904117057
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.49150020245
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.42376464649
+tavasz SNARC line dot CD 0 up 10 lctrl 0.499655108579
+tavasz SNARC line dot CD 0 down 5 num_decimal 1.00774719581
+tavasz SNARC line dot CD 0 up 45 lctrl 0.574461026234
+tavasz SNARC line dot CD 0 up 15 lctrl 0.623230878497
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.598207264527
+tavasz SNARC line dot CD 0 down 30 num_decimal 0.970473374415
+tavasz SNARC line dot CD 0 up 15 lctrl 0.471061492164
+tavasz SNARC line dot CD 0 up 35 lctrl 0.50238029327
+tavasz SNARC line dot CD 0 down 15 num_decimal 0.654917843756
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.962674733601
+tavasz SNARC line dot CD 0 up 5 lctrl 0.543026736326
+tavasz SNARC line dot CD 0 up 20 lctrl 0.498465924349
+tavasz SNARC line dot CD 0 down 45 num_decimal 0.574637059064
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.551297131227
+tavasz SNARC line dot CD 0 down 5 num_decimal 0.423719150946
+tavasz SNARC line dot CD 0 up 45 lctrl 0.502512580395
+tavasz SNARC line dot CD 0 up 10 lctrl 0.427397292864
+tavasz SNARC line dot CD 0 down 20 num_decimal 0.443127211562
+tavasz SNARC line dot CD 0 down 25 num_decimal 0.390948691143
+{'delay': u'0', 'dateStr': u'05_18_1225', 'task': u'line', 'participant': u'tavasz', 'interactive_setting': True, 'notation': u'arabic', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+tavasz SNARC line arabic DC 0 up 9 num_decimal 1.42742703998
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.785046025791
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.686838936235
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.905012247065
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.643998906715
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.617526783783
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.463934436004
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.561255061824
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.553529913857
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.481335791963
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.675065732357
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.834687643161
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.513941767771
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.460608359776
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.758754835202
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.643894616864
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.87825315207
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.550440064661
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.782525921095
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.788644725428
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.626697990956
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.57265100244
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.709177611541
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.469862858852
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.455181438097
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.580663822388
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.429199617414
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.610286338633
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.723679149844
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.432288766693
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.461136458354
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.554689700948
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.890643345861
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.635490535002
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.443416983355
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.530623243831
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.738265029882
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.470976100478
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.509134635737
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.523869601282
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.5551453566
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.450946850324
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.528694231616
+tavasz SNARC line arabic DC 0 down 8 lctrl 1.04792153483
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.477065857616
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.418947715429
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.38342302377
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.419070903445
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.375432251662
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.363040308002
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.406232403271
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.450604233687
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.479728048493
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.414190278592
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.554648055026
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.386632561305
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.462182506511
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.435858769139
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.368839243514
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.484180665022
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.394628232927
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.462296945392
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.43619263664
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.489429104084
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.471791871067
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.517851587152
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.508988699963
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.555824990442
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.515818285116
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.411016087572
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.447073077434
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.564647981519
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.469063186698
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.402988569054
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.430930198927
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.491766176565
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.466125572653
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.408183813299
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.708586519118
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.464251855068
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.502187462058
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.380962063326
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.504587528412
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.447368798632
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.45260043937
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.394072137075
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.510205881466
+tavasz SNARC line arabic DC 0 down 6 num_decimal 0.412995844847
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.684017510881
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.48927021955
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.481163258752
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.409186465724
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.513032206305
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.40092866958
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.384909329092
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.384704948956
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.616799554584
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.512430964824
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.464547226322
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.472576844651
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.448462792148
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.58441335737
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.66435362518
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.600366204337
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.592827238288
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.761186048534
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.528733077837
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.512966412702
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.368818595511
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.366530168278
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.40078028405
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.496792387246
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.464617919439
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.504544132622
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.568520354544
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.536189801904
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.544319510518
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.752275565988
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.505245114386
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.54523327155
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.441100908851
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.497039113252
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.432896307553
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.424919184094
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.424565718538
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.560711564729
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.488672127773
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.424643410981
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.400506610691
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.576487328974
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.4965208137
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.560045229591
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.424330541427
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.767944240652
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.464231907012
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.409039480001
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.392952946044
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.416918263014
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.480906383775
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.488806864654
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.496719594346
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.368649212003
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.431630830717
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.568576699065
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.656473442301
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.424366937892
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.464350195514
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.561269760394
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.465153367317
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.945172587439
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.537025870522
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.525232718588
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.600937698706
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.832813925575
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.488714473642
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.824666368717
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.520595670008
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.480543469108
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.792232576176
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.416379315488
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.488224521338
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.409210263373
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.52921463098
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.513089950691
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.377067292487
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.488987097109
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.44065645209
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.520867593557
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.48877046819
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.456692240987
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.520551924274
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.584499448974
+tavasz SNARC line arabic DC 0 down 9 lctrl 1.0885291317
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.376396057836
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.44833855427
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.432963151048
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.393193022639
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.337179575581
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.38502901743
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.424994776753
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.520915888832
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.408840349381
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.440796438459
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.736751427234
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.464004779147
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.376551792695
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.384467672091
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.368470379413
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.528318718192
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.424379186705
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.44125104422
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.457219289703
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.54520737406
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.456756284781
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.616978737118
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.51290551867
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.472877465392
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.552753689437
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.528693531669
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.51264269423
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.576521275652
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.448452293174
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.640070189169
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.544394053257
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.456243584689
+tavasz SNARC line arabic DC 0 up 2 lctrl 0.433186079346
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.568183337367
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.497157751699
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.417008904187
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.432986948726
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.440949373588
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.392624678003
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.384531365853
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.408692313795
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.376370860322
+tavasz SNARC line arabic DC 0 down 3 num_decimal 0.352625671891
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.736513450422
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.7444664262
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.616265856515
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.912258991593
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.544879106019
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.753152930585
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.633020825422
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.496812685305
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.528908760753
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.448763062916
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.44876341286
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.664689592464
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.472665386042
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.57621785521
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.464452735527
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.456309378293
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.528273572592
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.425275099464
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.593192602711
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.497128704534
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.409040529892
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.392907100468
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.504588578304
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.44087588074
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.448784060864
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.480614512169
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.384628306434
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.464590272139
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.408519080665
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.408388193435
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.448412747006
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.359967257187
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.625237583125
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.465229309921
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.44114325472
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.569083449722
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.488937051967
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.520907139697
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.760877378605
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.608741239033
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.527689829381
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.344627550512
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.41657669624
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.496462019422
+tavasz SNARC line arabic DC 0 down 2 lctrl 0.440362130757
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.432284917042
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.480218700715
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.53728834496
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.497203247272
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.640839064319
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.473009752488
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.480935080966
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.448862803198
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.520688410994
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.432581338217
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.68071803209
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.680521351227
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.440491618123
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.528182581445
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.496419323579
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.376316615584
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.37622317468
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.393297312519
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.489219124516
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.465019680356
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.448988090997
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.376896509115
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.440542713157
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.47278962392
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.448759563267
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.472676234989
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.432485097583
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.456559953891
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.488464947935
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.528419508366
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.352344299288
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.472886564472
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.393161875691
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.345206744125
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.409047879191
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.569026405283
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.568931564514
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.464909441071
+tavasz SNARC line arabic DC 0 up 9 num_decimal 0.496821084467
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.984730286495
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.544377954822
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.576558722008
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.592504569679
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.536441427423
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.552349478763
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.480213101255
+tavasz SNARC line arabic DC 0 down 3 lctrl 1.15321893414
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.537162707216
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.545076136827
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.576694508811
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.464891242853
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.408833350055
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.408781905076
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.432645731926
+tavasz SNARC line arabic DC 0 down 3 lctrl 0.472634938982
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.440563711134
+tavasz SNARC line arabic DC 0 down 8 lctrl 0.440394327597
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.512448463123
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.54410113176
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.656292509928
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.457193742186
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.449197370646
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.65709568173
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.489049391035
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.584922557784
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.704873380571
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.480754148564
+tavasz SNARC line arabic DC 0 down 7 lctrl 0.528405509744
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.720660343708
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.584560693009
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.48044302885
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.568389817257
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.624328371632
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.505300059012
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.393238518242
+tavasz SNARC line arabic DC 0 up 7 num_decimal 0.425161710504
+tavasz SNARC line arabic DC 0 up 2 num_decimal 0.472774575377
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.456730037316
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.376981550828
+tavasz SNARC line arabic DC 0 up 6 num_decimal 0.43287565955
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.392741916585
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.400817030459
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.480654408282
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.608526709926
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.456562053674
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.40815616597
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.440452421957
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.49636227914
+tavasz SNARC line arabic DC 0 up 8 num_decimal 0.392292560311
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.57720510909
+tavasz SNARC line arabic DC 0 down 5 lctrl 0.569172691059
+tavasz SNARC line arabic DC 0 up 1 num_decimal 0.353096376086
+tavasz SNARC line arabic DC 0 up 3 num_decimal 0.376982250804
+tavasz SNARC line arabic DC 0 down 6 lctrl 0.441003268352
+tavasz SNARC line arabic DC 0 down 1 lctrl 0.45657640227
+tavasz SNARC line arabic DC 0 down 9 lctrl 0.400771184912
+tavasz SNARC line arabic DC 0 down 4 lctrl 0.41672893145
+tavasz SNARC line arabic DC 0 up 5 num_decimal 0.456690841151
+tavasz SNARC line arabic DC 0 up 4 num_decimal 0.440637903899
+{'delay': u'0', 'dateStr': u'05_18_1235', 'task': u'line', 'participant': u'tavasz', 'interactive_setting': True, 'notation': u'dot', 'response_buttons': u'DC', 'autopilot': False, 'exp_id': u'SNARC', 'range_in_instr': True}
+tavasz SNARC line dot DC 0 up 35 num_decimal 1.48213476417
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.525452497182
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.373116527102
+tavasz SNARC line dot DC 0 down 35 lctrl 0.392862654815
+tavasz SNARC line dot DC 0 up 40 lctrl 0.49710805653
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.455231483211
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.686455373565
+tavasz SNARC line dot DC 0 down 30 lctrl 0.554280940734
+tavasz SNARC line dot DC 0 down 35 lctrl 0.430424498161
+tavasz SNARC line dot DC 0 down 10 lctrl 0.378908813233
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.402530113672
+tavasz SNARC line dot DC 0 down 5 lctrl 0.47901236813
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.427307351638
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.375592536089
+tavasz SNARC line dot DC 0 down 30 lctrl 0.418884721585
+tavasz SNARC line dot DC 0 down 15 lctrl 0.447515434382
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.391690968885
+tavasz SNARC line dot DC 0 down 25 lctrl 0.446977186744
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.359021299286
+tavasz SNARC line dot DC 0 down 25 lctrl 0.382723441871
+tavasz SNARC line dot DC 0 down 20 lctrl 0.410941894806
+tavasz SNARC line dot DC 0 down 20 lctrl 0.402781739191
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.418694690074
+tavasz SNARC line dot DC 0 down 25 lctrl 0.470599537133
+tavasz SNARC line dot DC 0 down 5 lctrl 0.423091662029
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.658765719156
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.534555810998
+tavasz SNARC line dot DC 0 down 45 lctrl 0.518585115729
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.879375842778
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.527730425441
+tavasz SNARC line dot DC 0 down 5 lctrl 0.471749875142
+tavasz SNARC line dot DC 0 down 25 lctrl 0.494795831619
+tavasz SNARC line dot DC 0 down 30 lctrl 0.482892790373
+tavasz SNARC line dot DC 0 down 40 lctrl 0.426397090225
+tavasz SNARC line dot DC 0 up 10 lctrl 0.363330779743
+tavasz SNARC line dot DC 0 down 30 lctrl 0.570604051696
+tavasz SNARC line dot DC 0 down 40 lctrl 0.810291518137
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.58266632742
+tavasz SNARC line dot DC 0 down 25 lctrl 0.654575927038
+tavasz SNARC line dot DC 0 down 10 lctrl 0.586902315059
+tavasz SNARC line dot DC 0 down 35 lctrl 0.559206361271
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.755006700114
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.786796205386
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.57064219797
+tavasz SNARC line dot DC 0 down 45 lctrl 0.702555556229
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.73427681817
+tavasz SNARC line dot DC 0 down 20 lctrl 1.09905225725
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.539255503478
+tavasz SNARC line dot DC 0 down 40 lctrl 0.674301756721
+tavasz SNARC line dot DC 0 down 40 lctrl 0.642088792665
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.635089824005
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.682237934147
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.59435028999
+tavasz SNARC line dot DC 0 down 25 lctrl 0.830365913862
+tavasz SNARC line dot DC 0 down 25 lctrl 0.711113623111
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.671459333418
+tavasz SNARC line dot DC 0 down 40 lctrl 1.04242811963
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.831214231293
+tavasz SNARC line dot DC 0 down 35 lctrl 0.734549441608
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.656911599654
+tavasz SNARC line dot DC 0 down 10 lctrl 0.659209475969
+tavasz SNARC line dot DC 0 down 5 lctrl 0.655243312067
+tavasz SNARC line dot DC 0 down 5 lctrl 0.807121876685
+tavasz SNARC line dot DC 0 up 40 num_decimal 1.16185049384
+tavasz SNARC line dot DC 0 down 5 lctrl 0.646977466735
+tavasz SNARC line dot DC 0 down 25 lctrl 0.591439273383
+tavasz SNARC line dot DC 0 down 40 lctrl 0.610892829573
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.598819704901
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.639344709809
+tavasz SNARC line dot DC 0 down 35 lctrl 0.588289580017
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.563414351607
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.597394293669
+tavasz SNARC line dot DC 0 down 10 lctrl 0.658778317942
+tavasz SNARC line dot DC 0 down 30 lctrl 0.506379004015
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.605975808256
+tavasz SNARC line dot DC 0 down 10 lctrl 0.627008060779
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.566810421005
+tavasz SNARC line dot DC 0 down 15 lctrl 0.503728012089
+tavasz SNARC line dot DC 0 down 30 lctrl 0.603366462252
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.586979657528
+tavasz SNARC line dot DC 0 down 5 lctrl 0.719795227924
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.587328223599
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.591316785285
+tavasz SNARC line dot DC 0 down 20 lctrl 0.5391690619
+tavasz SNARC line dot DC 0 down 5 lctrl 0.575450379896
+tavasz SNARC line dot DC 0 up 20 return 0.610943924607
+tavasz SNARC line dot DC 0 up 30 num_decimal 1.83447451392
+tavasz SNARC line dot DC 0 up 10 num_decimal 1.20290884684
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.662769679388
+tavasz SNARC line dot DC 0 down 10 lctrl 0.730841202603
+tavasz SNARC line dot DC 0 down 35 lctrl 0.5909531707
+tavasz SNARC line dot DC 0 down 15 lctrl 0.655696517933
+tavasz SNARC line dot DC 0 down 40 lctrl 0.482741255139
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.587604346714
+tavasz SNARC line dot DC 0 down 45 lctrl 0.55046491223
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.44476715193
+tavasz SNARC line dot DC 0 down 5 lctrl 0.463443433779
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.482340194169
+tavasz SNARC line dot DC 0 down 15 lctrl 0.45508764722
+tavasz SNARC line dot DC 0 down 45 lctrl 0.510160035919
+tavasz SNARC line dot DC 0 down 20 lctrl 0.578803053504
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.631087963586
+tavasz SNARC line dot DC 0 down 30 lctrl 0.82628461119
+tavasz SNARC line dot DC 0 down 10 lctrl 0.57164800007
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.502624219545
+tavasz SNARC line dot DC 0 down 35 lctrl 0.614921637374
+tavasz SNARC line dot DC 0 down 5 lctrl 0.703736691241
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.519009974378
+tavasz SNARC line dot DC 0 down 35 lctrl 0.646658297832
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.635368396906
+tavasz SNARC line dot DC 0 down 40 lctrl 0.802458580642
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.666578708566
+tavasz SNARC line dot DC 0 down 5 lctrl 0.559228409111
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.562089030631
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.494061953068
+tavasz SNARC line dot DC 0 down 40 lctrl 0.49807781211
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.64304979911
+tavasz SNARC line dot DC 0 down 5 lctrl 0.462722503959
+tavasz SNARC line dot DC 0 down 15 lctrl 0.679609690007
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.559509781713
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.598413394444
+tavasz SNARC line dot DC 0 down 30 lctrl 0.554803089937
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.502728859341
+tavasz SNARC line dot DC 0 down 35 lctrl 0.686722747545
+tavasz SNARC line dot DC 0 down 30 lctrl 0.626500260201
+tavasz SNARC line dot DC 0 down 10 lctrl 0.539090669539
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.586177535617
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.470111684612
+tavasz SNARC line dot DC 0 down 5 lctrl 0.663082898885
+tavasz SNARC line dot DC 0 down 20 lctrl 0.571475116885
+tavasz SNARC line dot DC 0 down 30 lctrl 0.531278380047
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.767695414863
+tavasz SNARC line dot DC 0 down 35 lctrl 0.686953375087
+tavasz SNARC line dot DC 0 down 40 lctrl 0.786741960677
+tavasz SNARC line dot DC 0 down 35 lctrl 0.502789753431
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.551575704099
+tavasz SNARC line dot DC 0 down 20 lctrl 0.675122776796
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.514761038008
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.497997319966
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.551221538597
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.407226306532
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.378715632047
+tavasz SNARC line dot DC 0 down 15 lctrl 0.502816700784
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.507132830622
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.407495080348
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.435406613164
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.351440687256
+tavasz SNARC line dot DC 0 down 15 lctrl 0.479460674513
+tavasz SNARC line dot DC 0 down 20 lctrl 0.547117838083
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.498511769867
+tavasz SNARC line dot DC 0 down 15 lctrl 0.487138577038
+tavasz SNARC line dot DC 0 down 45 lctrl 0.470405656
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.470649582247
+tavasz SNARC line dot DC 0 down 5 lctrl 0.455314775114
+tavasz SNARC line dot DC 0 down 10 lctrl 0.482996380306
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.838301741343
+tavasz SNARC line dot DC 0 up 45 num_decimal 1.45153934264
+tavasz SNARC line dot DC 0 up 5 num_decimal 1.24695975846
+tavasz SNARC line dot DC 0 down 35 lctrl 0.558991832135
+tavasz SNARC line dot DC 0 down 10 lctrl 0.635617922613
+tavasz SNARC line dot DC 0 down 5 lctrl 0.535698799707
+tavasz SNARC line dot DC 0 down 45 lctrl 0.702442867187
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.53115869168
+tavasz SNARC line dot DC 0 down 45 lctrl 0.654265857214
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.771254568361
+tavasz SNARC line dot DC 0 down 35 lctrl 0.574444227852
+tavasz SNARC line dot DC 0 down 25 lctrl 0.590690346318
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.610441373545
+tavasz SNARC line dot DC 0 down 40 lctrl 0.578123069718
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.554978072876
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.551356975397
+tavasz SNARC line dot DC 0 down 30 lctrl 0.754075790726
+tavasz SNARC line dot DC 0 down 35 lctrl 0.726982128283
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.667119055986
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.726585966855
+tavasz SNARC line dot DC 0 down 15 lctrl 0.703226790851
+tavasz SNARC line dot DC 0 down 5 lctrl 0.719360920222
+tavasz SNARC line dot DC 0 down 25 lctrl 0.606817826279
+tavasz SNARC line dot DC 0 down 15 lctrl 0.590891576692
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.5990076366
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.538926885463
+tavasz SNARC line dot DC 0 down 15 lctrl 0.654782756872
+tavasz SNARC line dot DC 0 down 10 lctrl 0.451847662625
+tavasz SNARC line dot DC 0 down 25 lctrl 0.510293722909
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.575840591919
+tavasz SNARC line dot DC 0 down 25 lctrl 0.583113583882
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.455159740202
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.459424775006
+tavasz SNARC line dot DC 0 down 25 lctrl 0.559042227251
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.495252887136
+tavasz SNARC line dot DC 0 down 30 lctrl 0.482749654329
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.391334003623
+tavasz SNARC line dot DC 0 down 15 lctrl 0.43097289477
+tavasz SNARC line dot DC 0 down 25 lctrl 0.622691580968
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.57878695507
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.474009605183
+tavasz SNARC line dot DC 0 down 35 lctrl 0.831175385072
+tavasz SNARC line dot DC 0 down 40 lctrl 0.441725248034
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.478793639457
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.451693677634
+tavasz SNARC line dot DC 0 down 10 lctrl 0.555594712874
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.471067791543
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.422737846471
+tavasz SNARC line dot DC 0 down 45 lctrl 0.534437522496
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.643062397896
+tavasz SNARC line dot DC 0 down 30 lctrl 0.666714495368
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.59027458675
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.430609280185
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.466097925382
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.366819590097
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.358105088468
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.451233122469
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.415315069084
+tavasz SNARC line dot DC 0 down 40 lctrl 0.570836429077
+tavasz SNARC line dot DC 0 down 30 lctrl 0.507003343228
+tavasz SNARC line dot DC 0 down 20 lctrl 0.555294792051
+tavasz SNARC line dot DC 0 down 45 lctrl 0.606356221222
+tavasz SNARC line dot DC 0 down 25 lctrl 0.430976744392
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.622723077919
+tavasz SNARC line dot DC 0 down 15 lctrl 0.535029664868
+tavasz SNARC line dot DC 0 down 10 lctrl 0.547180132009
+tavasz SNARC line dot DC 0 down 5 lctrl 0.607233935763
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.566049595072
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.582661077933
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.490284770785
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.515211794118
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.455455811403
+tavasz SNARC line dot DC 0 down 5 lctrl 0.711803755898
+tavasz SNARC line dot DC 0 down 5 lctrl 0.559699813224
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.562460344488
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.67869907865
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.678223824914
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.446249607601
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.411241115682
+tavasz SNARC line dot DC 0 down 15 lctrl 0.599047532713
+tavasz SNARC line dot DC 0 down 35 lctrl 0.558374492248
+tavasz SNARC line dot DC 0 down 20 lctrl 0.52262127283
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.562680473056
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.499309692212
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.455433413561
+tavasz SNARC line dot DC 0 down 40 lctrl 0.68293611618
+tavasz SNARC line dot DC 0 down 35 lctrl 0.790858609922
+tavasz SNARC line dot DC 0 down 40 lctrl 0.634712910716
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.702429568482
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.490681982104
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.402815685869
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.370242956822
+tavasz SNARC line dot DC 0 down 20 lctrl 0.722936522128
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.638214319828
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.798133701697
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.479078161734
+tavasz SNARC line dot DC 0 down 15 lctrl 0.606808027253
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.582840260497
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.455399466853
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.407843996392
+tavasz SNARC line dot DC 0 down 25 lctrl 0.639036739769
+tavasz SNARC line dot DC 0 down 25 lctrl 0.447162318742
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.442143807304
+tavasz SNARC line dot DC 0 down 45 lctrl 0.566340066784
+tavasz SNARC line dot DC 0 down 45 lctrl 0.574218499823
+tavasz SNARC line dot DC 0 down 45 lctrl 0.430199820054
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.539176061226
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.419024707924
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.34705841387
+tavasz SNARC line dot DC 0 down 35 lctrl 0.454193134297
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.362095050048
+tavasz SNARC line dot DC 0 down 20 lctrl 0.41950276139
+tavasz SNARC line dot DC 0 down 35 lctrl 0.431207021989
+tavasz SNARC line dot DC 0 down 45 lctrl 0.436375318852
+tavasz SNARC line dot DC 0 down 5 lctrl 0.359823071223
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.419085951959
+tavasz SNARC line dot DC 0 down 10 lctrl 0.459550762753
+tavasz SNARC line dot DC 0 down 45 lctrl 0.478406577109
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.511458759487
+tavasz SNARC line dot DC 0 down 20 lctrl 0.443014872522
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.446259756631
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.534234892228
+tavasz SNARC line dot DC 0 down 35 lctrl 0.574403981795
+tavasz SNARC line dot DC 0 down 10 lctrl 0.595081718784
+tavasz SNARC line dot DC 0 down 10 lctrl 1.00284942263
+tavasz SNARC line dot DC 0 down 15 lctrl 0.69571337229
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.68206120134
+tavasz SNARC line dot DC 0 down 25 lctrl 0.407350194466
+tavasz SNARC line dot DC 0 down 30 lctrl 0.731032633979
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.638581084117
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.443471228064
+tavasz SNARC line dot DC 0 down 30 lctrl 0.402696697478
+tavasz SNARC line dot DC 0 down 40 lctrl 0.36239672068
+tavasz SNARC line dot DC 0 down 20 lctrl 0.387033272302
+tavasz SNARC line dot DC 0 down 45 lctrl 0.365978621994
+tavasz SNARC line dot DC 0 down 20 lctrl 0.39480006622
+tavasz SNARC line dot DC 0 down 40 lctrl 0.402249441016
+tavasz SNARC line dot DC 0 up 40 lctrl 0.426158763439
+tavasz SNARC line dot DC 0 down 20 lctrl 0.522568777931
+tavasz SNARC line dot DC 0 down 15 lctrl 0.430653725867
+tavasz SNARC line dot DC 0 down 5 lctrl 0.439984867466
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.451570139645
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.498795242282
+tavasz SNARC line dot DC 0 down 20 lctrl 0.651385637582
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.411346105451
+tavasz SNARC line dot DC 0 down 5 lctrl 0.375552989921
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.39094554144
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.882656773378
+tavasz SNARC line dot DC 0 down 35 lctrl 0.774393062835
+tavasz SNARC line dot DC 0 down 15 lctrl 1.43896296696
+tavasz SNARC line dot DC 0 down 10 lctrl 0.419055154984
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.398090445873
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.550303227967
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.433898260002
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.490964054654
+tavasz SNARC line dot DC 0 down 5 lctrl 0.6878737855
+tavasz SNARC line dot DC 0 down 45 lctrl 0.518476276338
+tavasz SNARC line dot DC 0 down 35 lctrl 0.566695982154
+tavasz SNARC line dot DC 0 down 10 lctrl 0.555358835845
+tavasz SNARC line dot DC 0 down 20 lctrl 0.562980743824
+tavasz SNARC line dot DC 0 down 35 lctrl 0.52665358028
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.574180003576
+tavasz SNARC line dot DC 0 down 25 lctrl 0.646793384658
+tavasz SNARC line dot DC 0 down 30 lctrl 0.602534943231
+tavasz SNARC line dot DC 0 down 30 lctrl 0.482551923575
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.546453602728
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.621987449529
+tavasz SNARC line dot DC 0 down 20 lctrl 0.739439515542
+tavasz SNARC line dot DC 0 down 5 lctrl 0.767902944644
+tavasz SNARC line dot DC 0 down 10 lctrl 0.555675205018
+tavasz SNARC line dot DC 0 down 35 lctrl 0.526730222802
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.607449164818
+tavasz SNARC line dot DC 0 up 35 num_decimal 0.686750744819
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.654979787709
+tavasz SNARC line dot DC 0 down 15 lctrl 0.703074555699
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.610971571907
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.722650599957
+tavasz SNARC line dot DC 0 down 20 lctrl 0.6268061304
+tavasz SNARC line dot DC 0 down 20 lctrl 0.690308498451
+tavasz SNARC line dot DC 0 up 40 num_decimal 0.609876528528
+tavasz SNARC line dot DC 0 down 30 lctrl 0.635128670227
+tavasz SNARC line dot DC 0 down 20 lctrl 0.731429845298
+tavasz SNARC line dot DC 0 down 20 lctrl 0.539392340143
+tavasz SNARC line dot DC 0 down 5 lctrl 0.495708192815
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.65563912355
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.64341481356
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.655143571785
+tavasz SNARC line dot DC 0 up 45 num_decimal 0.629991170368
+tavasz SNARC line dot DC 0 down 25 lctrl 0.694813259935
+tavasz SNARC line dot DC 0 down 45 lctrl 0.990139709873
+tavasz SNARC line dot DC 0 down 45 lctrl 0.509992402251
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.55056080292
+tavasz SNARC line dot DC 0 up 30 num_decimal 0.506237267808
+tavasz SNARC line dot DC 0 down 10 lctrl 0.515745492157
+tavasz SNARC line dot DC 0 down 45 lctrl 1.14272205601
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.663797529298
+tavasz SNARC line dot DC 0 up 25 num_decimal 0.679253424692
+tavasz SNARC line dot DC 0 up 10 num_decimal 0.603449054237
+tavasz SNARC line dot DC 0 up 15 num_decimal 0.583314814285
+tavasz SNARC line dot DC 0 down 45 lctrl 0.686308387871
+tavasz SNARC line dot DC 0 down 15 lctrl 0.574917731748
+tavasz SNARC line dot DC 0 up 5 num_decimal 0.695314761106
+tavasz SNARC line dot DC 0 up 20 num_decimal 0.848735625594
+tavasz SNARC line dot DC 0 down 15 lctrl 0.61479494971
+tavasz SNARC line dot DC 0 down 30 lctrl 0.698374513246
+{'participant': u'tavasz', 'response_buttons': u'CD', 'range_in_instr': True, 'dateStr': u'05_18_1244', 'autopilot': False, 'exp_id': u'SNARC'}
+tavasz SNARC_only CD 3 num_decimal 2.10218690211
+tavasz SNARC_only CD 3 num_decimal 0.589816131396
+tavasz SNARC_only CD 9 num_decimal 0.667214946618
+tavasz SNARC_only CD 9 num_decimal 0.545650080981
+tavasz SNARC_only CD 4 lctrl 0.613981278933
+tavasz SNARC_only CD 1 num_decimal 0.902256965288
+tavasz SNARC_only CD 4 lctrl 0.756592045771
+tavasz SNARC_only CD 6 lctrl 0.757936964859
+tavasz SNARC_only CD 1 num_decimal 0.831044847786
+tavasz SNARC_only CD 5 num_decimal 0.674493188068
+tavasz SNARC_only CD 5 num_decimal 0.489404956432
+tavasz SNARC_only CD 2 lctrl 1.52236439782
+tavasz SNARC_only CD 1 num_decimal 0.976693668868
+tavasz SNARC_only CD 4 lctrl 0.62779268439
+tavasz SNARC_only CD 2 lctrl 0.501709758537
+tavasz SNARC_only CD 3 num_decimal 0.51653956488
+tavasz SNARC_only CD 8 lctrl 0.91980425705
+tavasz SNARC_only CD 1 num_decimal 0.893352782092
+tavasz SNARC_only CD 2 lctrl 0.734094485902
+tavasz SNARC_only CD 6 lctrl 0.753993898688
+tavasz SNARC_only CD 1 num_decimal 0.583881759114
+tavasz SNARC_only CD 5 num_decimal 0.704955622583
+tavasz SNARC_only CD 2 lctrl 0.54891806285
+tavasz SNARC_only CD 7 num_decimal 0.641254123911
+tavasz SNARC_only CD 6 lctrl 0.575322292367
+tavasz SNARC_only CD 3 num_decimal 0.607728087663
+tavasz SNARC_only CD 9 num_decimal 0.489304866176
+tavasz SNARC_only CD 7 num_decimal 0.479731898115
+tavasz SNARC_only CD 7 num_decimal 0.477779438166
+tavasz SNARC_only CD 8 lctrl 0.675463993568
+tavasz SNARC_only CD 3 num_decimal 0.726927883574
+tavasz SNARC_only CD 8 lctrl 0.867352063273
+tavasz SNARC_only CD 7 num_decimal 0.49935098819
+tavasz SNARC_only CD 3 num_decimal 0.626120897126
+tavasz SNARC_only CD 1 num_decimal 0.588191239571
+tavasz SNARC_only CD 2 lctrl 0.644890619908
+tavasz SNARC_only CD 6 lctrl 0.687356185867
+tavasz SNARC_only CD 6 lctrl 0.600825359666
+tavasz SNARC_only CD 9 num_decimal 0.516203597595
+tavasz SNARC_only CD 7 num_decimal 0.610645753652
+tavasz SNARC_only CD 3 num_decimal 0.628868829604
+tavasz SNARC_only CD 7 num_decimal 0.446926441713
+tavasz SNARC_only CD 1 num_decimal 0.740132798092
+tavasz SNARC_only CD 6 lctrl 0.744903533632
+tavasz SNARC_only CD 5 num_decimal 0.52572337084
+tavasz SNARC_only CD 3 num_decimal 0.564750171558
+tavasz SNARC_only CD 2 lctrl 0.580999089725
+tavasz SNARC_only CD 8 lctrl 0.662044899917
+tavasz SNARC_only CD 3 num_decimal 0.536907232075
+tavasz SNARC_only CD 8 lctrl 0.624554449605
+tavasz SNARC_only CD 1 num_decimal 0.63457677394
+tavasz SNARC_only CD 8 lctrl 0.612556217675
+tavasz SNARC_only CD 3 num_decimal 0.518122810754
+tavasz SNARC_only CD 9 num_decimal 0.637292859552
+tavasz SNARC_only CD 6 lctrl 0.775265527889
+tavasz SNARC_only CD 2 lctrl 0.532556105667
+tavasz SNARC_only CD 1 num_decimal 0.540501732146
+tavasz SNARC_only CD 8 lctrl 0.668042266101
+tavasz SNARC_only CD 1 num_decimal 0.590850980661
+tavasz SNARC_only CD 8 lctrl 0.511666639271
+tavasz SNARC_only CD 3 num_decimal 0.582538939838
+tavasz SNARC_only CD 2 lctrl 0.559287553362
+tavasz SNARC_only CD 8 lctrl 0.550412067387
+tavasz SNARC_only CD 5 num_decimal 0.55928370374
+tavasz SNARC_only CD 1 num_decimal 0.614961883461
+tavasz SNARC_only CD 5 num_decimal 0.496874279284
+tavasz SNARC_only CD 4 lctrl 0.631277645094
+tavasz SNARC_only CD 6 lctrl 0.569246533851
+tavasz SNARC_only CD 8 lctrl 0.48163886246
+tavasz SNARC_only CD 7 num_decimal 0.439616353338
+tavasz SNARC_only CD 5 num_decimal 0.484895995382
+tavasz SNARC_only CD 6 lctrl 0.579244010616
+tavasz SNARC_only CD 4 lctrl 0.444004576158
+tavasz SNARC_only CD 1 num_decimal 0.552987116709
+tavasz SNARC_only CD 1 num_decimal 0.42527019995
+tavasz SNARC_only CD 8 lctrl 0.589997413743
+tavasz SNARC_only CD 1 num_decimal 0.470839963731
+tavasz SNARC_only CD 6 lctrl 0.580785960483
+tavasz SNARC_only CD 1 num_decimal 0.557679459918
+tavasz SNARC_only CD 2 lctrl 0.565636635292
+tavasz SNARC_only CD 3 num_decimal 0.549414314533
+tavasz SNARC_only CD 5 num_decimal 0.509983303113
+tavasz SNARC_only CD 9 num_decimal 0.46850289125
+tavasz SNARC_only CD 8 lctrl 0.522330101172
+tavasz SNARC_only CD 1 num_decimal 0.770027587831
+tavasz SNARC_only CD 7 num_decimal 0.495585354773
+tavasz SNARC_only CD 6 lctrl 0.510051546473
+tavasz SNARC_only CD 9 num_decimal 0.58081605754
+tavasz SNARC_only CD 3 num_decimal 0.733645129658
+tavasz SNARC_only CD 4 lctrl 0.506433248724
+tavasz SNARC_only CD 3 num_decimal 0.665249887912
+tavasz SNARC_only CD 4 lctrl 0.571663048584
+tavasz SNARC_only CD 1 num_decimal 0.908432464086
+tavasz SNARC_only CD 4 lctrl 0.437636596092
+tavasz SNARC_only CD 8 lctrl 0.569623097195
+tavasz SNARC_only CD 8 lctrl 0.4111791717
+tavasz SNARC_only CD 7 num_decimal 0.503565627907
+tavasz SNARC_only CD 2 lctrl 0.430374453048
+tavasz SNARC_only CD 9 num_decimal 0.491181033547
+tavasz SNARC_only CD 7 num_decimal 0.489621585351
+tavasz SNARC_only CD 2 lctrl 0.527668831433
+tavasz SNARC_only CD 7 num_decimal 0.463149112416
+tavasz SNARC_only CD 4 lctrl 0.47679148434
+tavasz SNARC_only CD 1 num_decimal 0.626804730564
+tavasz SNARC_only CD 3 num_decimal 0.580801009026
+tavasz SNARC_only CD 7 num_decimal 0.805585876224
+tavasz SNARC_only CD 9 num_decimal 0.507960850024
+tavasz SNARC_only CD 2 lctrl 0.730075127183
+tavasz SNARC_only CD 9 num_decimal 0.439181695663
+tavasz SNARC_only CD 3 num_decimal 0.483911891177
+tavasz SNARC_only CD 8 lctrl 0.594776548503
+tavasz SNARC_only CD 3 num_decimal 0.523974941025
+tavasz SNARC_only CD 8 lctrl 0.6351566675
+tavasz SNARC_only CD 9 num_decimal 0.461162005871
+tavasz SNARC_only CD 9 num_decimal 0.506770965847
+tavasz SNARC_only CD 1 num_decimal 0.649554265896
+tavasz SNARC_only CD 9 num_decimal 0.499993175676
+tavasz SNARC_only CD 1 num_decimal 0.722732142021
+tavasz SNARC_only CD 8 lctrl 0.590737591701
+tavasz SNARC_only CD 3 num_decimal 0.679966305266
+tavasz SNARC_only CD 4 lctrl 0.618717717822
+tavasz SNARC_only CD 2 lctrl 0.484731161414
+tavasz SNARC_only CD 5 num_decimal 0.515115553513
+tavasz SNARC_only CD 9 num_decimal 0.562348355394
+tavasz SNARC_only CD 6 lctrl 0.6107118972
+tavasz SNARC_only CD 5 num_decimal 0.548381915025
+tavasz SNARC_only CD 3 num_decimal 0.532376223186
+tavasz SNARC_only CD 2 lctrl 0.515594656841
+tavasz SNARC_only CD 7 num_decimal 0.507158728084
+tavasz SNARC_only CD 1 lctrl 0.481899937033
+tavasz SNARC_only CD 6 lctrl 1.93786004934
+tavasz SNARC_only CD 7 num_decimal 0.664803331398
+tavasz SNARC_only CD 4 lctrl 0.568644942425
+tavasz SNARC_only CD 5 num_decimal 0.576578670065
+tavasz SNARC_only CD 5 num_decimal 0.689580569306
+tavasz SNARC_only CD 4 lctrl 0.785535278148
+tavasz SNARC_only CD 6 lctrl 0.609036610287
+tavasz SNARC_only CD 4 lctrl 0.44926596398
+tavasz SNARC_only CD 7 num_decimal 0.521239607304
+tavasz SNARC_only CD 2 lctrl 0.545131081482
+tavasz SNARC_only CD 2 lctrl 0.441040364705
+tavasz SNARC_only CD 2 lctrl 0.361042702483
+tavasz SNARC_only CD 7 num_decimal 0.536844938149
+tavasz SNARC_only CD 2 lctrl 0.504904247558
+tavasz SNARC_only CD 3 num_decimal 0.536835489067
+tavasz SNARC_only CD 8 lctrl 0.591676200303
+tavasz SNARC_only CD 1 num_decimal 0.808699523099
+tavasz SNARC_only CD 4 lctrl 0.721566055552
+tavasz SNARC_only CD 5 num_decimal 0.897579320648
+tavasz SNARC_only CD 2 lctrl 0.545385156758
+tavasz SNARC_only CD 7 num_decimal 0.633325295785
+tavasz SNARC_only CD 8 lctrl 1.00127317605
+tavasz SNARC_only CD 4 lctrl 0.593188403116
+tavasz SNARC_only CD 3 num_decimal 0.681131341844
+tavasz SNARC_only CD 3 num_decimal 0.571803734929
+tavasz SNARC_only CD 4 lctrl 0.608919021732
+tavasz SNARC_only CD 3 num_decimal 0.600835158693
+tavasz SNARC_only CD 4 lctrl 0.552756489138
+tavasz SNARC_only CD 5 num_decimal 0.416768127616
+tavasz SNARC_only CD 2 lctrl 0.696650231112
+tavasz SNARC_only CD 1 num_decimal 0.369592020201
+tavasz SNARC_only CD 1 num_decimal 0.441350084555
+tavasz SNARC_only CD 7 num_decimal 0.481539822096
+tavasz SNARC_only CD 9 num_decimal 0.577418238332
+tavasz SNARC_only CD 6 lctrl 0.609282636346
+tavasz SNARC_only CD 8 lctrl 0.729284554138
+tavasz SNARC_only CD 7 num_decimal 0.48121295392
+tavasz SNARC_only CD 8 lctrl 0.529081643908
+tavasz SNARC_only CD 1 num_decimal 0.609048509155
+tavasz SNARC_only CD 7 num_decimal 0.400693842472
+tavasz SNARC_only CD 5 num_decimal 0.640904857923
+tavasz SNARC_only CD 9 num_decimal 0.480770946946
+tavasz SNARC_only CD 3 num_decimal 0.560757060302
+tavasz SNARC_only CD 5 num_decimal 0.512683640263
+tavasz SNARC_only CD 6 lctrl 0.536602411768
+tavasz SNARC_only CD 3 num_decimal 0.545589536836
+tavasz SNARC_only CD 5 num_decimal 0.585525199131
+tavasz SNARC_only CD 1 lctrl 0.585351615999
+tavasz SNARC_only CD 8 lctrl 1.43198534622
+tavasz SNARC_only CD 7 num_decimal 0.505206968082
+tavasz SNARC_only CD 6 lctrl 0.769095628551
+tavasz SNARC_only CD 2 lctrl 0.601003142336
+tavasz SNARC_only CD 2 lctrl 0.472917361476
+tavasz SNARC_only CD 5 num_decimal 0.496934823401
+tavasz SNARC_only CD 4 lctrl 0.640827865427
+tavasz SNARC_only CD 4 lctrl 0.920760713954
+tavasz SNARC_only CD 8 lctrl 0.784640765225
+tavasz SNARC_only CD 5 num_decimal 0.593302492023
+tavasz SNARC_only CD 4 lctrl 0.785517429875
+tavasz SNARC_only CD 7 num_decimal 0.633422936284
+tavasz SNARC_only CD 4 lctrl 0.601367456868
+tavasz SNARC_only CD 2 lctrl 0.601180225116
+tavasz SNARC_only CD 6 lctrl 0.66520544223
+tavasz SNARC_only CD 8 lctrl 0.705158952798
+tavasz SNARC_only CD 5 num_decimal 0.545022242091
+tavasz SNARC_only CD 1 num_decimal 0.824999886245
+tavasz SNARC_only CD 5 num_decimal 0.584414757206
+tavasz SNARC_only CD 5 num_decimal 0.608724090707
+tavasz SNARC_only CD 7 num_decimal 0.696712175064
+tavasz SNARC_only CD 2 lctrl 0.60854000863
+tavasz SNARC_only CD 7 num_decimal 1.10554272542
+tavasz SNARC_only CD 7 num_decimal 0.825506286958
+tavasz SNARC_only CD 7 num_decimal 0.505385100754
+tavasz SNARC_only CD 4 lctrl 0.657307761081
+tavasz SNARC_only CD 5 num_decimal 0.76923281519
+tavasz SNARC_only CD 8 lctrl 0.712816557323
+tavasz SNARC_only CD 9 num_decimal 0.673090174678
+tavasz SNARC_only CD 1 num_decimal 1.04905542446
+tavasz SNARC_only CD 1 num_decimal 0.552898225375
+tavasz SNARC_only CD 4 lctrl 0.664799481747
+tavasz SNARC_only CD 8 lctrl 0.560695116321
+tavasz SNARC_only CD 9 num_decimal 0.680646289082
+tavasz SNARC_only CD 8 lctrl 0.601483295584
+tavasz SNARC_only CD 4 lctrl 0.553555461374
+tavasz SNARC_only CD 1 num_decimal 0.657140127412
+tavasz SNARC_only CD 6 lctrl 0.665285234485
+tavasz SNARC_only CD 5 num_decimal 0.689207155694
+tavasz SNARC_only CD 8 lctrl 0.705170851608
+tavasz SNARC_only CD 7 num_decimal 0.769109627174
+tavasz SNARC_only CD 1 num_decimal 1.28107408746
+tavasz SNARC_only CD 3 num_decimal 0.560939042596
+tavasz SNARC_only CD 4 lctrl 0.592550065252
+tavasz SNARC_only CD 3 num_decimal 1.04081932624
+tavasz SNARC_only CD 5 num_decimal 0.600376003422
+tavasz SNARC_only CD 5 num_decimal 0.576588819094
+tavasz SNARC_only CD 6 lctrl 0.881551930914
+tavasz SNARC_only CD 2 lctrl 0.529459257144
+tavasz SNARC_only CD 9 num_decimal 0.48140368535
+tavasz SNARC_only CD 2 lctrl 0.472898113367
+tavasz SNARC_only CD 2 lctrl 0.473217282299
+tavasz SNARC_only CD 9 num_decimal 0.641183080821
+tavasz SNARC_only CD 1 num_decimal 0.609122001973
+tavasz SNARC_only CD 7 num_decimal 0.568689738051
+tavasz SNARC_only CD 8 lctrl 0.552916423592
+tavasz SNARC_only CD 2 lctrl 0.520851845067
+tavasz SNARC_only CD 9 num_decimal 0.552795335359
+tavasz SNARC_only CD 1 num_decimal 1.40837839438
+tavasz SNARC_only CD 9 num_decimal 0.696581987722
+tavasz SNARC_only CD 6 lctrl 0.72153910817
+tavasz SNARC_only CD 2 lctrl 0.641473902535
+tavasz SNARC_only CD 8 lctrl 0.689366040227
+tavasz SNARC_only CD 7 num_decimal 0.472972306161
+tavasz SNARC_only CD 4 lctrl 0.569173041004
+tavasz SNARC_only CD 9 num_decimal 0.521145816427
+tavasz SNARC_only CD 9 num_decimal 0.561073429504
+tavasz SNARC_only CD 4 lctrl 0.608999513875
+tavasz SNARC_only CD 7 num_decimal 0.744955678558
+tavasz SNARC_only CD 2 lctrl 0.576767651655
+tavasz SNARC_only CD 1 num_decimal 1.016836161
+tavasz SNARC_only CD 2 lctrl 0.712629675487
+tavasz SNARC_only CD 9 num_decimal 0.905249173986
+tavasz SNARC_only CD 6 lctrl 0.545176227082
+tavasz SNARC_only CD 6 lctrl 0.633418736688
+tavasz SNARC_only CD 4 lctrl 0.977292460593
+tavasz SNARC_only CD 6 lctrl 0.729236608808
+tavasz SNARC_only CD 8 lctrl 0.553163149569
+tavasz SNARC_only CD 8 lctrl 0.449064033601
+tavasz SNARC_only CD 2 lctrl 1.25703387774
+tavasz SNARC_only CD 9 num_decimal 0.816949269967
+tavasz SNARC_only CD 3 num_decimal 1.46387704156
+tavasz SNARC_only CD 5 num_decimal 0.656611328886
+tavasz SNARC_only CD 6 lctrl 0.752623782086
+tavasz SNARC_only CD 5 num_decimal 0.601565187622
+tavasz SNARC_only CD 3 num_decimal 0.649551466166
+tavasz SNARC_only CD 8 lctrl 0.64138851082
+tavasz SNARC_only CD 6 lctrl 0.457334428502
+tavasz SNARC_only CD 8 lctrl 0.385242846591
+tavasz SNARC_only CD 6 lctrl 0.353168819012
+tavasz SNARC_only CD 9 num_decimal 0.448857203766
+tavasz SNARC_only CD 3 lctrl 0.473034250113
+tavasz SNARC_only CD 4 lctrl 1.08897113867
+tavasz SNARC_only CD 9 num_decimal 0.520889291423
+tavasz SNARC_only CD 9 num_decimal 0.440776840376
+tavasz SNARC_only CD 5 num_decimal 0.496710495208
+tavasz SNARC_only CD 5 num_decimal 0.424694505986
+tavasz SNARC_only CD 6 lctrl 0.585651186848
+tavasz SNARC_only CD 6 lctrl 0.481545421557
+tavasz SNARC_only CD 9 num_decimal 0.457223489298
+tavasz SNARC_only CD 9 num_decimal 0.465452938166
+tavasz SNARC_only CD 6 lctrl 0.449349255854
+tavasz SNARC_only CD 8 lctrl 0.465265706385
+tavasz SNARC_only CD 6 lctrl 0.537232350442
+tavasz SNARC_only CD 1 num_decimal 0.673208463151
+tavasz SNARC_only CD 8 lctrl 0.577046224556
+tavasz SNARC_only CD 9 num_decimal 0.472966356727
+tavasz SNARC_only CD 4 lctrl 0.496956521267
+tavasz SNARC_only CD 5 num_decimal 0.576590918849
+tavasz SNARC_only CD 1 num_decimal 1.06485358652
+tavasz SNARC_only CD 6 lctrl 1.75268327628
+tavasz SNARC_only CD 7 num_decimal 0.665599853848
+tavasz SNARC_only CD 2 lctrl 0.561477990093
+tavasz SNARC_only CD 3 num_decimal 0.665410872258
+tavasz SNARC_only CD 2 lctrl 0.561306156858
+tavasz SNARC_only CD 1 num_decimal 0.729152267042
+tavasz SNARC_only CD 7 num_decimal 0.585193081439
+tavasz SNARC_only CD 9 num_decimal 0.632785648311
+tavasz SNARC_only CD 4 lctrl 0.753011194349
+tavasz SNARC_only CD 6 lctrl 0.600902002188
+tavasz SNARC_only CD 3 num_decimal 0.744906333362
+tavasz SNARC_only CD 7 num_decimal 0.736806021945
+tavasz SNARC_only CD 9 num_decimal 0.832551101164
+tavasz SNARC_only CD 7 num_decimal 0.873537011154
+tavasz SNARC_only CD 2 lctrl 0.656305458659
+tavasz SNARC_only CD 6 lctrl 0.697301867651
+tavasz SNARC_only CD 3 num_decimal 0.824970139161
+tavasz SNARC_only CD 9 num_decimal 0.665272985672
+tavasz SNARC_only CD 1 num_decimal 0.768870250467
+tavasz SNARC_only CD 2 lctrl 0.688649659976
+tavasz SNARC_only CD 3 num_decimal 1.03264867165
+tavasz SNARC_only CD 5 num_decimal 0.744563366752
+tavasz SNARC_only CD 2 lctrl 0.848859863501
+tavasz SNARC_only CD 3 num_decimal 0.720811878971
+tavasz SNARC_only CD 7 num_decimal 0.672752807499
+tavasz SNARC_only CD 6 lctrl 0.680351967749
+tavasz SNARC_only CD 5 num_decimal 0.673501384648
+tavasz SNARC_only CD 5 num_decimal 0.66539547377
+tavasz SNARC_only CD 5 num_decimal 0.593377384706
+tavasz SNARC_only CD 4 lctrl 0.78522660819
+tavasz SNARC_only CD 6 lctrl 0.985150595603
+tavasz SNARC_only CD 9 num_decimal 0.625146242004
+tavasz SNARC_only CD 4 lctrl 0.680983656232
+tavasz SNARC_only CD 5 num_decimal 0.78502187811
+tavasz SNARC_only CD 1 num_decimal 0.840527524648
+tavasz SNARC_only CD 3 num_decimal 0.720785631507
+tavasz SNARC_only CD 8 lctrl 0.768654671469
+tavasz SNARC_only CD 6 lctrl 1.38453976504
+tavasz SNARC_only CD 9 num_decimal 0.689567620575
+tavasz SNARC_only CD 4 lctrl 0.465402893024
+tavasz SNARC_only CD 6 lctrl 0.537357988214
+tavasz SNARC_only CD 6 lctrl 0.40122649062
+tavasz SNARC_only CD 5 num_decimal 0.505204168381
+tavasz SNARC_only CD 7 num_decimal 0.552818083175
+tavasz SNARC_only CD 5 num_decimal 0.513097299961
+tavasz SNARC_only CD 8 lctrl 0.544991445087
+tavasz SNARC_only CD 3 num_decimal 0.696924604388
+tavasz SNARC_only CD 1 num_decimal 0.720920718391
+tavasz SNARC_only CD 2 lctrl 0.48875576962
+tavasz SNARC_only CD 4 lctrl 0.536674154777
+tavasz SNARC_only CD 4 lctrl 0.416620442003
+tavasz SNARC_only CD 5 num_decimal 0.521629469353
+tavasz SNARC_only CD 7 num_decimal 0.53724599909
+tavasz SNARC_only CD 2 lctrl 0.521391142567
+tavasz SNARC_only CD 3 num_decimal 0.537329640967
+tavasz SNARC_only CD 9 num_decimal 0.625277829211
+tavasz SNARC_only CD 4 lctrl 0.505153073347
+tavasz SNARC_only CD 7 num_decimal 0.505172321486
+tavasz SNARC_only CD 8 lctrl 0.545042890095
+tavasz SNARC_only CD 4 lctrl 0.4729565577
+tavasz SNARC_only CD 9 num_decimal 0.568930864596
+tavasz SNARC_only CD 2 lctrl 0.712564581831
+tavasz SNARC_only CD 7 num_decimal 0.520829797199
+tavasz SNARC_only CD 3 num_decimal 0.776708087447
+tavasz SNARC_only CD 7 num_decimal 0.640639933728
+tavasz SNARC_only CD 6 lctrl 0.673547930113
+tavasz SNARC_only CD 3 num_decimal 0.721494312544
+tavasz SNARC_only CD 9 num_decimal 0.721392122505
+tavasz SNARC_only CD 4 lctrl 0.633267201425
+tavasz SNARC_only CD 5 num_decimal 0.60926548799
+tavasz SNARC_only CD 8 lctrl 0.616824752098
+tavasz SNARC_only CD 4 lctrl 0.729069675057
+{'participant': u'tavasz', 'response_buttons': u'DC', 'range_in_instr': True, 'dateStr': u'05_18_1254', 'autopilot': False, 'exp_id': u'SNARC'}
+tavasz SNARC_only DC 6 num_decimal 1.19807021786
+tavasz SNARC_only DC 4 num_decimal 0.546328314958
+tavasz SNARC_only DC 3 lshift 0.690331946185
+tavasz SNARC_only DC 1 lctrl 1.16051817356
+tavasz SNARC_only DC 2 num_decimal 0.733541539725
+tavasz SNARC_only DC 9 lctrl 1.77404834639
+tavasz SNARC_only DC 2 num_decimal 0.809211873217
+tavasz SNARC_only DC 1 lctrl 1.01713223217
+tavasz SNARC_only DC 9 lctrl 1.02506700973
+tavasz SNARC_only DC 3 lctrl 0.616910493758
+tavasz SNARC_only DC 5 lctrl 0.5872582304
+tavasz SNARC_only DC 8 num_decimal 0.716962953651
+tavasz SNARC_only DC 5 lctrl 0.632425883348
+tavasz SNARC_only DC 9 lctrl 0.625661741826
+tavasz SNARC_only DC 2 num_decimal 0.497619006812
+tavasz SNARC_only DC 2 num_decimal 0.425531274552
+tavasz SNARC_only DC 5 lctrl 0.545468798635
+tavasz SNARC_only DC 6 num_decimal 0.641364013194
+tavasz SNARC_only DC 6 num_decimal 0.409303004359
+tavasz SNARC_only DC 9 lctrl 0.545228022034
+tavasz SNARC_only DC 3 lctrl 0.825123774208
+tavasz SNARC_only DC 8 num_decimal 0.688733651798
+tavasz SNARC_only DC 5 lctrl 0.528960905649
+tavasz SNARC_only DC 1 lctrl 0.640940204466
+tavasz SNARC_only DC 8 num_decimal 0.504847903067
+tavasz SNARC_only DC 6 num_decimal 0.536754296976
+tavasz SNARC_only DC 4 num_decimal 0.512704988185
+tavasz SNARC_only DC 3 lctrl 0.672617370699
+tavasz SNARC_only DC 8 num_decimal 0.753554691444
+tavasz SNARC_only DC 8 num_decimal 0.689273299242
+tavasz SNARC_only DC 1 lctrl 0.585381013167
+tavasz SNARC_only DC 1 lctrl 0.529259776551
+tavasz SNARC_only DC 4 num_decimal 0.545268618094
+tavasz SNARC_only DC 3 lctrl 0.505191219621
+tavasz SNARC_only DC 7 lctrl 1.077329172
+tavasz SNARC_only DC 1 lctrl 0.656991741853
+tavasz SNARC_only DC 1 lctrl 0.440947973722
+tavasz SNARC_only DC 7 lctrl 0.512785830302
+tavasz SNARC_only DC 1 lctrl 0.566994503082
+tavasz SNARC_only DC 3 lctrl 0.536709501321
+tavasz SNARC_only DC 6 num_decimal 0.424689256499
+tavasz SNARC_only DC 2 num_decimal 0.361614896799
+tavasz SNARC_only DC 9 lctrl 0.521540228045
+tavasz SNARC_only DC 4 num_decimal 0.593444928149
+tavasz SNARC_only DC 4 num_decimal 0.425389188371
+tavasz SNARC_only DC 2 num_decimal 0.52133514802
+tavasz SNARC_only DC 8 num_decimal 0.465272355737
+tavasz SNARC_only DC 6 num_decimal 0.464874094498
+tavasz SNARC_only DC 5 lctrl 0.497092658043
+tavasz SNARC_only DC 6 num_decimal 0.505016586627
+tavasz SNARC_only DC 2 num_decimal 0.576960482897
+tavasz SNARC_only DC 5 lctrl 0.584863063559
+tavasz SNARC_only DC 3 lctrl 0.62484632121
+tavasz SNARC_only DC 9 lctrl 0.568689388077
+tavasz SNARC_only DC 9 lctrl 0.400635048165
+tavasz SNARC_only DC 1 lctrl 0.617587677843
+tavasz SNARC_only DC 1 lctrl 0.393252866837
+tavasz SNARC_only DC 4 num_decimal 0.577518328617
+tavasz SNARC_only DC 5 lctrl 0.513404920028
+tavasz SNARC_only DC 1 lctrl 0.665337029437
+tavasz SNARC_only DC 8 num_decimal 0.521298401611
+tavasz SNARC_only DC 8 num_decimal 0.441147104342
+tavasz SNARC_only DC 1 lctrl 0.577088570426
+tavasz SNARC_only DC 1 lctrl 0.385057014704
+tavasz SNARC_only DC 7 lctrl 0.504840903741
+tavasz SNARC_only DC 5 lctrl 0.456580951839
+tavasz SNARC_only DC 2 num_decimal 0.576420485449
+tavasz SNARC_only DC 6 num_decimal 0.432776269212
+tavasz SNARC_only DC 6 num_decimal 0.432725174207
+tavasz SNARC_only DC 2 num_decimal 0.456556454243
+tavasz SNARC_only DC 1 lctrl 0.545545091183
+tavasz SNARC_only DC 4 num_decimal 0.617568079761
+tavasz SNARC_only DC 2 num_decimal 0.433398508641
+tavasz SNARC_only DC 8 num_decimal 0.601394754223
+tavasz SNARC_only DC 3 lctrl 0.593001871282
+tavasz SNARC_only DC 8 num_decimal 0.649238596612
+tavasz SNARC_only DC 1 lctrl 0.473088494822
+tavasz SNARC_only DC 9 lctrl 0.641027345962
+tavasz SNARC_only DC 9 lctrl 0.393006140861
+tavasz SNARC_only DC 2 num_decimal 0.52885871561
+tavasz SNARC_only DC 8 num_decimal 0.456899770797
+tavasz SNARC_only DC 1 lctrl 0.520738456136
+tavasz SNARC_only DC 6 num_decimal 0.584781521524
+tavasz SNARC_only DC 3 lctrl 0.576372890093
+tavasz SNARC_only DC 4 num_decimal 0.449637627782
+tavasz SNARC_only DC 9 lctrl 0.632534022821
+tavasz SNARC_only DC 5 lctrl 0.601426601119
+tavasz SNARC_only DC 1 lctrl 0.393362056202
+tavasz SNARC_only DC 9 lctrl 0.329268245725
+tavasz SNARC_only DC 5 lctrl 0.465187314025
+tavasz SNARC_only DC 2 num_decimal 0.393203171669
+tavasz SNARC_only DC 5 lctrl 0.529107191396
+tavasz SNARC_only DC 3 lctrl 0.736775574915
+tavasz SNARC_only DC 2 num_decimal 0.584934456623
+tavasz SNARC_only DC 3 lctrl 0.48082484171
+tavasz SNARC_only DC 9 lctrl 0.488807914546
+tavasz SNARC_only DC 3 lctrl 0.344699993439
+tavasz SNARC_only DC 7 lctrl 0.424226951494
+tavasz SNARC_only DC 6 num_decimal 0.401659048512
+tavasz SNARC_only DC 1 lctrl 0.529583495052
+tavasz SNARC_only DC 3 lctrl 0.537512673152
+tavasz SNARC_only DC 1 lctrl 0.505077830661
+tavasz SNARC_only DC 8 num_decimal 0.54536415881
+tavasz SNARC_only DC 2 num_decimal 0.481334392098
+tavasz SNARC_only DC 7 lctrl 0.521144066617
+tavasz SNARC_only DC 5 lctrl 0.673136370169
+tavasz SNARC_only DC 8 num_decimal 0.505015186791
+tavasz SNARC_only DC 7 lctrl 0.561000286631
+tavasz SNARC_only DC 6 num_decimal 0.496894577314
+tavasz SNARC_only DC 4 num_decimal 0.512871921936
+tavasz SNARC_only DC 5 lctrl 0.560450490157
+tavasz SNARC_only DC 5 lctrl 0.584690880351
+tavasz SNARC_only DC 3 lctrl 0.537572517322
+tavasz SNARC_only DC 9 lctrl 0.569558353483
+tavasz SNARC_only DC 5 lctrl 0.601564837678
+tavasz SNARC_only DC 2 num_decimal 0.457420520106
+tavasz SNARC_only DC 9 lctrl 0.513303779881
+tavasz SNARC_only DC 2 num_decimal 0.39332041028
+tavasz SNARC_only DC 1 lctrl 0.473233380733
+tavasz SNARC_only DC 9 lctrl 0.584819667827
+tavasz SNARC_only DC 9 lctrl 0.401060956734
+tavasz SNARC_only DC 2 num_decimal 0.512998259597
+tavasz SNARC_only DC 8 num_decimal 0.456942816614
+tavasz SNARC_only DC 5 lctrl 0.528839117527
+tavasz SNARC_only DC 4 num_decimal 0.392751365667
+tavasz SNARC_only DC 8 num_decimal 0.472705632099
+tavasz SNARC_only DC 2 num_decimal 0.376709977281
+tavasz SNARC_only DC 9 lctrl 0.480580565491
+tavasz SNARC_only DC 4 num_decimal 0.489234523033
+tavasz SNARC_only DC 9 lctrl 0.513517609041
+tavasz SNARC_only DC 3 lctrl 0.89740153795
+tavasz SNARC_only DC 9 lctrl 0.449312509445
+tavasz SNARC_only DC 8 lctrl 0.409096524469
+tavasz SNARC_only DC 9 lctrl 0.696116183099
+tavasz SNARC_only DC 6 num_decimal 0.489114484692
+tavasz SNARC_only DC 4 num_decimal 1.64902301761
+tavasz SNARC_only DC 8 num_decimal 1.19292571867
+tavasz SNARC_only DC 8 num_decimal 0.53647152448
+tavasz SNARC_only DC 3 lctrl 0.536658406316
+tavasz SNARC_only DC 5 lctrl 0.512693089317
+tavasz SNARC_only DC 5 lctrl 0.537579866621
+tavasz SNARC_only DC 8 num_decimal 0.769560033339
+tavasz SNARC_only DC 9 lctrl 2.64939223169
+tavasz SNARC_only DC 9 lctrl 0.513161693729
+tavasz SNARC_only DC 8 num_decimal 0.593174404465
+tavasz SNARC_only DC 6 num_decimal 0.553050110553
+tavasz SNARC_only DC 7 lctrl 0.448006436578
+tavasz SNARC_only DC 6 num_decimal 0.601002092444
+tavasz SNARC_only DC 4 num_decimal 0.480890985258
+tavasz SNARC_only DC 9 lctrl 0.480786695407
+tavasz SNARC_only DC 2 num_decimal 0.472779124946
+tavasz SNARC_only DC 4 num_decimal 0.496754590946
+tavasz SNARC_only DC 3 lctrl 0.480638309877
+tavasz SNARC_only DC 9 lctrl 0.409518233384
+tavasz SNARC_only DC 7 lctrl 0.52949110404
+tavasz SNARC_only DC 1 lctrl 0.405791446217
+tavasz SNARC_only DC 2 num_decimal 0.473384915997
+tavasz SNARC_only DC 7 lctrl 0.617286007211
+tavasz SNARC_only DC 2 num_decimal 0.473182285728
+tavasz SNARC_only DC 4 num_decimal 0.481145060534
+tavasz SNARC_only DC 9 lctrl 0.657114579895
+tavasz SNARC_only DC 7 lctrl 0.5850282475
+tavasz SNARC_only DC 1 lctrl 0.480724401481
+tavasz SNARC_only DC 4 num_decimal 0.608879475592
+tavasz SNARC_only DC 7 lctrl 0.496836482984
+tavasz SNARC_only DC 6 num_decimal 0.768730264099
+tavasz SNARC_only DC 4 num_decimal 0.696637282352
+tavasz SNARC_only DC 5 lctrl 0.72158425377
+tavasz SNARC_only DC 4 num_decimal 0.569522656966
+tavasz SNARC_only DC 5 lctrl 0.553400776436
+tavasz SNARC_only DC 4 num_decimal 0.425028373487
+tavasz SNARC_only DC 1 lctrl 0.777227086946
+tavasz SNARC_only DC 7 lctrl 0.609144399787
+tavasz SNARC_only DC 6 num_decimal 0.689097966329
+tavasz SNARC_only DC 8 num_decimal 0.473068546795
+tavasz SNARC_only DC 9 lctrl 1.00898782504
+tavasz SNARC_only DC 3 lctrl 0.576833795203
+tavasz SNARC_only DC 7 lctrl 0.592845086532
+tavasz SNARC_only DC 6 num_decimal 0.576681910024
+tavasz SNARC_only DC 6 num_decimal 0.456350674271
+tavasz SNARC_only DC 3 lctrl 0.537581616431
+tavasz SNARC_only DC 3 lctrl 0.457542308257
+tavasz SNARC_only DC 3 lctrl 0.417458260432
+tavasz SNARC_only DC 5 lctrl 0.617368599167
+tavasz SNARC_only DC 2 num_decimal 0.505314407637
+tavasz SNARC_only DC 5 lctrl 0.569204887899
+tavasz SNARC_only DC 5 lctrl 0.441134505556
+tavasz SNARC_only DC 6 num_decimal 0.64909651046
+tavasz SNARC_only DC 9 lctrl 0.640685079299
+tavasz SNARC_only DC 7 lctrl 0.504929445131
+tavasz SNARC_only DC 5 lctrl 0.424844641355
+tavasz SNARC_only DC 8 lctrl 0.384789640724
+tavasz SNARC_only DC 4 num_decimal 0.528746026568
+tavasz SNARC_only DC 4 num_decimal 0.424669308442
+tavasz SNARC_only DC 1 lctrl 0.497586109996
+tavasz SNARC_only DC 2 num_decimal 0.473572497693
+tavasz SNARC_only DC 4 num_decimal 0.465514532145
+tavasz SNARC_only DC 8 num_decimal 0.401089303952
+tavasz SNARC_only DC 6 num_decimal 0.465355997585
+tavasz SNARC_only DC 7 lctrl 0.521230508224
+tavasz SNARC_only DC 7 lctrl 0.473190334917
+tavasz SNARC_only DC 4 num_decimal 0.641163482738
+tavasz SNARC_only DC 8 num_decimal 0.705001818074
+tavasz SNARC_only DC 6 num_decimal 0.512974461919
+tavasz SNARC_only DC 7 lctrl 1.15282312265
+tavasz SNARC_only DC 5 lctrl 0.416794725024
+tavasz SNARC_only DC 7 lctrl 0.624429861753
+tavasz SNARC_only DC 3 lctrl 0.584611788043
+tavasz SNARC_only DC 3 lctrl 0.489585188887
+tavasz SNARC_only DC 4 num_decimal 0.609571358218
+tavasz SNARC_only DC 5 lctrl 0.5614916388
+tavasz SNARC_only DC 9 lctrl 0.593326639646
+tavasz SNARC_only DC 5 lctrl 0.465307352337
+tavasz SNARC_only DC 2 num_decimal 1.02519089766
+tavasz SNARC_only DC 7 lctrl 0.809156578587
+tavasz SNARC_only DC 6 num_decimal 0.480719501968
+tavasz SNARC_only DC 9 lctrl 0.632984778931
+tavasz SNARC_only DC 1 lctrl 0.544881905749
+tavasz SNARC_only DC 4 num_decimal 0.464833498467
+tavasz SNARC_only DC 8 num_decimal 0.528771924059
+tavasz SNARC_only DC 4 num_decimal 0.368674409547
+tavasz SNARC_only DC 2 num_decimal 0.432285267045
+tavasz SNARC_only DC 8 num_decimal 0.37760589004
+tavasz SNARC_only DC 3 lctrl 0.521565075614
+tavasz SNARC_only DC 6 num_decimal 0.457126198773
+tavasz SNARC_only DC 1 lctrl 0.441317887715
+tavasz SNARC_only DC 2 num_decimal 0.449319158768
+tavasz SNARC_only DC 9 lctrl 0.473184385482
+tavasz SNARC_only DC 7 lctrl 0.513096600072
+tavasz SNARC_only DC 8 num_decimal 0.503555478848
+tavasz SNARC_only DC 4 num_decimal 0.4090846256
+tavasz SNARC_only DC 2 num_decimal 0.552974867896
+tavasz SNARC_only DC 2 num_decimal 0.400848527381
+tavasz SNARC_only DC 4 num_decimal 0.472504401696
+tavasz SNARC_only DC 6 num_decimal 0.43277241959
+tavasz SNARC_only DC 1 lctrl 0.528708230238
+tavasz SNARC_only DC 7 lctrl 0.512543303921
+tavasz SNARC_only DC 1 lctrl 0.42554947274
+tavasz SNARC_only DC 9 lctrl 0.481502025767
+tavasz SNARC_only DC 9 lctrl 0.441412028536
+tavasz SNARC_only DC 3 lctrl 0.673336900654
+tavasz SNARC_only DC 4 num_decimal 0.593290593155
+tavasz SNARC_only DC 8 num_decimal 0.416915463284
+tavasz SNARC_only DC 4 num_decimal 0.441140104987
+tavasz SNARC_only DC 7 lctrl 0.58502264804
+tavasz SNARC_only DC 2 num_decimal 0.473035300005
+tavasz SNARC_only DC 6 lctrl 0.432896307553
+tavasz SNARC_only DC 6 num_decimal 0.400907321688
+tavasz SNARC_only DC 6 num_decimal 0.376826515916
+tavasz SNARC_only DC 5 lctrl 0.560721363756
+tavasz SNARC_only DC 5 lctrl 0.536707051564
+tavasz SNARC_only DC 7 lctrl 0.689290447568
+tavasz SNARC_only DC 5 lctrl 0.537560968427
+tavasz SNARC_only DC 3 lctrl 0.657440048206
+tavasz SNARC_only DC 8 num_decimal 0.51337377305
+tavasz SNARC_only DC 2 num_decimal 0.40126428692
+tavasz SNARC_only DC 7 lctrl 0.49721689595
+tavasz SNARC_only DC 8 num_decimal 0.481210854137
+tavasz SNARC_only DC 4 num_decimal 0.425077368709
+tavasz SNARC_only DC 5 lctrl 0.441037914949
+tavasz SNARC_only DC 9 lctrl 0.463931986218
+tavasz SNARC_only DC 5 lctrl 0.37689790898
+tavasz SNARC_only DC 1 lctrl 0.440850333223
+tavasz SNARC_only DC 9 lctrl 0.432764020428
+tavasz SNARC_only DC 5 lctrl 0.384720697446
+tavasz SNARC_only DC 5 lctrl 0.369694210269
+tavasz SNARC_only DC 4 num_decimal 0.425613516505
+tavasz SNARC_only DC 4 num_decimal 0.329565366817
+tavasz SNARC_only DC 6 num_decimal 0.417511805223
+tavasz SNARC_only DC 3 lctrl 0.537110912235
+tavasz SNARC_only DC 6 num_decimal 0.417348721123
+tavasz SNARC_only DC 1 lctrl 0.472858217254
+tavasz SNARC_only DC 3 lctrl 0.529091792909
+tavasz SNARC_only DC 7 lctrl 0.44114780426
+tavasz SNARC_only DC 7 lctrl 0.361043052486
+tavasz SNARC_only DC 3 lctrl 0.537017821334
+tavasz SNARC_only DC 3 lctrl 0.400947567774
+tavasz SNARC_only DC 8 num_decimal 0.536839688662
+tavasz SNARC_only DC 6 num_decimal 0.480543819052
+tavasz SNARC_only DC 7 lctrl 0.584685630834
+tavasz SNARC_only DC 3 lctrl 0.824667068664
+tavasz SNARC_only DC 8 num_decimal 0.553576809296
+tavasz SNARC_only DC 6 num_decimal 0.881553680752
+tavasz SNARC_only DC 7 lctrl 0.817390926997
+tavasz SNARC_only DC 4 num_decimal 0.729275805003
+tavasz SNARC_only DC 7 lctrl 0.425260750868
+tavasz SNARC_only DC 8 num_decimal 0.945150889573
+tavasz SNARC_only DC 4 num_decimal 0.560759510059
+tavasz SNARC_only DC 8 num_decimal 0.456963464618
+tavasz SNARC_only DC 2 num_decimal 0.504942743806
+tavasz SNARC_only DC 3 lctrl 0.656807309802
+tavasz SNARC_only DC 1 lctrl 0.648861683323
+tavasz SNARC_only DC 5 lctrl 0.616685465677
+tavasz SNARC_only DC 4 num_decimal 0.536668555316
+tavasz SNARC_only DC 3 lctrl 0.617575779004
+tavasz SNARC_only DC 8 num_decimal 0.56951565764
+tavasz SNARC_only DC 1 lctrl 0.64112218676
+tavasz SNARC_only DC 7 lctrl 0.689313545299
+tavasz SNARC_only DC 3 lctrl 0.673259908159
+tavasz SNARC_only DC 5 lctrl 0.44911477869
+tavasz SNARC_only DC 6 num_decimal 0.825140222587
+tavasz SNARC_only DC 9 lctrl 0.640974501119
+tavasz SNARC_only DC 7 lctrl 0.808927000966
+tavasz SNARC_only DC 3 lctrl 1.04889304028
+tavasz SNARC_only DC 1 lctrl 0.480738750077
+tavasz SNARC_only DC 2 num_decimal 1.02443777098
+tavasz SNARC_only DC 4 num_decimal 0.536591562792
+tavasz SNARC_only DC 8 num_decimal 0.553543912509
+tavasz SNARC_only DC 6 num_decimal 0.673564378521
+tavasz SNARC_only DC 9 lctrl 0.673347749602
+tavasz SNARC_only DC 7 lctrl 0.625308626215
+tavasz SNARC_only DC 4 num_decimal 0.457225239108
+tavasz SNARC_only DC 2 num_decimal 0.529128889291
+tavasz SNARC_only DC 2 num_decimal 0.441093559552
+tavasz SNARC_only DC 5 lctrl 0.784709008556
+tavasz SNARC_only DC 7 lctrl 0.52092953751
+tavasz SNARC_only DC 8 num_decimal 0.49682318425
+tavasz SNARC_only DC 2 num_decimal 0.512834125606
+tavasz SNARC_only DC 1 lctrl 0.552732341515
+tavasz SNARC_only DC 6 num_decimal 0.464688962529
+tavasz SNARC_only DC 1 lctrl 0.577548775618
+tavasz SNARC_only DC 6 num_decimal 0.417503756005
+tavasz SNARC_only DC 1 lctrl 0.48149677628
+tavasz SNARC_only DC 9 lctrl 1.04908342173
+tavasz SNARC_only DC 9 lctrl 0.497267640982
+tavasz SNARC_only DC 2 num_decimal 0.537170756434
+tavasz SNARC_only DC 7 lctrl 0.489167329564
+tavasz SNARC_only DC 7 lctrl 0.473038449709
+tavasz SNARC_only DC 2 num_decimal 0.513046904874
+tavasz SNARC_only DC 7 lctrl 0.432942503045
+tavasz SNARC_only DC 6 num_decimal 0.51284742431
+tavasz SNARC_only DC 3 lctrl 0.872788434033
+tavasz SNARC_only DC 5 lctrl 0.808419200388
+tavasz SNARC_only DC 8 num_decimal 0.592628107668
+tavasz SNARC_only DC 1 lctrl 0.67351993281
+tavasz SNARC_only DC 5 lctrl 1.20951760348
+tavasz SNARC_only DC 8 num_decimal 0.673375396902
+tavasz SNARC_only DC 7 lctrl 0.664530707931
+tavasz SNARC_only DC 3 lctrl 2.48896364938
+tavasz SNARC_only DC 9 lctrl 0.712975441827
+tavasz SNARC_only DC 6 num_decimal 0.800976824918
+tavasz SNARC_only DC 2 num_decimal 0.720508108527
+tavasz SNARC_only DC 6 num_decimal 0.464815650193
+tavasz SNARC_only DC 1 lctrl 0.496607605222
+tavasz SNARC_only DC 3 lctrl 0.521609871299
+tavasz SNARC_only DC 7 lctrl 0.481586017617
+tavasz SNARC_only DC 8 num_decimal 0.513532657613
+tavasz SNARC_only DC 2 num_decimal 0.46554637904
+tavasz SNARC_only DC 1 lctrl 0.473384216049
+tavasz SNARC_only DC 4 num_decimal 0.529317170964
+tavasz SNARC_only DC 1 lctrl 0.528867114801
+tavasz SNARC_only DC 7 lctrl 1.10507727074
+tavasz SNARC_only DC 3 lctrl 1.21705726947
+tavasz SNARC_only DC 2 num_decimal 0.624962859874
+tavasz SNARC_only DC 3 lctrl 1.07286115698
+tavasz SNARC_only DC 6 num_decimal 0.520764703542
+tavasz SNARC_only DC 7 lctrl 0.488730572077
+tavasz SNARC_only DC 9 lctrl 0.696666679491
+tavasz SNARC_only DC 4 num_decimal 2.03360197882
+tavasz SNARC_only DC 5 lctrl 0.737059747218
+{'autopilot': False, 'exp_id': u'Response preparation', 'participant': u'tavasz', 'dateStr': u'05_18_1304'}
+tavasz resp_prep 0.6 red p 1.60386376386
+tavasz resp_prep 0.3 green q 0.865538189857
+tavasz resp_prep 1.0 red p 0.510295122775
+tavasz resp_prep 1.0 red p 0.521835599298
+tavasz resp_prep 0.1 red p 0.503423191753
+tavasz resp_prep 0.1 green q 0.539774502948
+tavasz resp_prep 0.8 green q 0.610242942843
+tavasz resp_prep 0.3 green q 0.606672940397
+tavasz resp_prep 0.3 green q 0.570583753666
+tavasz resp_prep 0.1 red p 0.481511474849
+tavasz resp_prep 0.1 red p 0.445432437147
+tavasz resp_prep 0.1 red p 0.456071401451
+tavasz resp_prep 0.1 red p 0.427508232067
+tavasz resp_prep 0.8 red p 0.623035597469
+tavasz resp_prep 1.0 red p 0.605375966668
+tavasz resp_prep 1.0 green q 0.659422255238
+tavasz resp_prep 0.1 green q 0.58856920278
+tavasz resp_prep 0.1 red p 0.571447819559
+tavasz resp_prep 0.8 red p 0.57101001218
+tavasz resp_prep 0.8 red p 0.538991629146
+tavasz resp_prep 0.6 green q 0.628959120833
+tavasz resp_prep 0.3 green q 0.721910421998
+tavasz resp_prep 0.1 red p 0.620618032845
+tavasz resp_prep 0.3 red p 0.592638256669
+tavasz resp_prep 1.0 red p 0.614116015815
+tavasz resp_prep 0.3 green q 0.626652845356
+tavasz resp_prep 0.6 green q 0.47098554956
+tavasz resp_prep 0.1 green q 0.483476533554
+tavasz resp_prep 1.0 green q 0.51778404371
+tavasz resp_prep 0.6 red p 0.495371525583
+tavasz resp_prep 1.0 red p 0.466536782653
+tavasz resp_prep 0.6 green q 0.610565261479
+tavasz resp_prep 0.3 red p 0.687023018283
+tavasz resp_prep 0.8 green q 0.61776441065
+tavasz resp_prep 0.8 red p 0.538968881359
+tavasz resp_prep 0.8 red p 0.538126863335
+tavasz resp_prep 1.0 green q 0.678568541334
+tavasz resp_prep 0.6 green q 0.508135133045
+tavasz resp_prep 0.6 green q 0.469329510786
+tavasz resp_prep 0.1 red p 0.577742306778
+tavasz resp_prep 0.3 green q 0.540520980285
+tavasz resp_prep 0.6 green q 0.518607863545
+tavasz resp_prep 0.1 green q 0.532224687922
+tavasz resp_prep 0.8 red p 0.562523688335
+tavasz resp_prep 0.6 green q 0.644934365642
+tavasz resp_prep 0.8 green q 0.494957515883
+tavasz resp_prep 0.8 red p 0.556968679099
+tavasz resp_prep 0.1 red p 0.523246311961
+tavasz resp_prep 1.0 red p 0.526514993748
+tavasz resp_prep 0.1 green q 0.484142518719
+tavasz resp_prep 0.1 green q 0.440054160717
+tavasz resp_prep 0.8 green q 0.484102622606
+tavasz resp_prep 1.0 red p 0.382920472679
+tavasz resp_prep 0.8 red p 0.466149720334
+tavasz resp_prep 1.0 green q 0.572487918311
+tavasz resp_prep 1.0 green q 0.505699370173
+tavasz resp_prep 1.0 red p 0.429213266092
+tavasz resp_prep 0.8 green q 0.433696679625
+tavasz resp_prep 0.3 green q 0.625460161478
+tavasz resp_prep 0.3 green q 0.590183245688
+tavasz resp_prep 0.1 red p 0.821312995191
+tavasz resp_prep 0.1 green q 0.482081219379
+tavasz resp_prep 0.8 green q 0.455386168149
+tavasz resp_prep 0.6 red p 0.591318535153
+tavasz resp_prep 1.0 red p 0.508882310329
+tavasz resp_prep 0.6 red p 0.614068070456
+tavasz resp_prep 1.0 red p 0.556483626307
+tavasz resp_prep 0.6 green q 0.454886066844
+tavasz resp_prep 0.3 red p 0.783310194762
+tavasz resp_prep 0.3 green q 0.608155746042
+tavasz resp_prep 0.8 red p 0.688890086545
+tavasz resp_prep 0.1 green q 0.570898723003
+tavasz resp_prep 0.1 green q 0.584913808649
+tavasz resp_prep 0.6 green q 0.42734164829
+tavasz resp_prep 1.0 green q 0.524872253678
+tavasz resp_prep 0.6 green q 0.446449788113
+tavasz resp_prep 0.6 green q 0.430095180258
+tavasz resp_prep 1.0 green q 0.455650742399
+tavasz resp_prep 1.0 green q 0.506068234245
+tavasz resp_prep 0.3 red p 0.40377739229
+tavasz resp_prep 1.0 green q 0.820418482239
+tavasz resp_prep 1.0 red p 0.680049947114
+tavasz resp_prep 0.1 green q 0.497656103194
+tavasz resp_prep 0.6 red p 0.59403042114
+tavasz resp_prep 0.6 green q 0.701273980987
+tavasz resp_prep 0.1 red p 0.439257638296
+tavasz resp_prep 1.0 green q 0.600408200262
+tavasz resp_prep 0.3 red p 0.76443443232
+tavasz resp_prep 0.8 green q 0.50516532216
+tavasz resp_prep 0.6 red p 0.610453972331
+tavasz resp_prep 0.3 green q 0.398823624506
+tavasz resp_prep 0.3 green q 0.437745785457
+tavasz resp_prep 0.8 green q 0.393997944309
+tavasz resp_prep 0.8 green q 0.421573859785
+tavasz resp_prep 0.6 red p 0.428414993803
+tavasz resp_prep 0.6 green q 0.427616721514
+tavasz resp_prep 0.1 red p 0.47081126651
+tavasz resp_prep 0.8 green q 0.475601250218
+tavasz resp_prep 0.8 red p 0.489193926973
+tavasz resp_prep 0.6 red p 0.465966688149
+tavasz resp_prep 0.6 green q 0.490001648344
+tavasz resp_prep 0.3 red p 0.683176542778
+tavasz resp_prep 0.8 green q 0.477959320648
+tavasz resp_prep 0.3 red p 0.566808321222
+tavasz resp_prep 0.6 red p 0.465575426235
+tavasz resp_prep 0.6 red p 0.345582957496
+tavasz resp_prep 0.6 red p 0.406787799206
+tavasz resp_prep 0.6 red p 0.421180848061
+tavasz resp_prep 0.1 green q 0.495893674757
+tavasz resp_prep 1.0 red p 0.386771147838
+tavasz resp_prep 1.0 green q 0.891138897627
+tavasz resp_prep 1.0 green q 0.45678848165
+tavasz resp_prep 0.8 red p 0.469938801456
+tavasz resp_prep 0.8 red p 0.531564652192
+tavasz resp_prep 0.1 green q 0.521161214972
+tavasz resp_prep 0.1 red p 0.485964091378
+tavasz resp_prep 1.0 red p 0.504353751166
+tavasz resp_prep 0.3 green q 0.394023841771
+tavasz resp_prep 0.6 red p 0.472343067406
+tavasz resp_prep 0.1 red p 0.420712593623
+tavasz resp_prep 0.8 red p 0.504272209102
+tavasz resp_prep 0.3 red p 0.545956651098
+tavasz resp_prep 0.1 green q 0.479928578949
+tavasz resp_prep 0.3 red p 0.464380292571
+tavasz resp_prep 1.0 green q 0.602722175012
+tavasz resp_prep 0.1 red p 0.762342335976
+tavasz resp_prep 0.8 green q 0.638744518219
+tavasz resp_prep 0.3 green q 0.403606258915
+tavasz resp_prep 0.8 green q 0.367099912837
+tavasz resp_prep 0.8 red p 0.449897302489
+tavasz resp_prep 0.3 green q 0.593890784745
+tavasz resp_prep 0.1 green q 0.664993712853
+tavasz resp_prep 0.3 red p 0.502426838735
+tavasz resp_prep 0.3 red p 0.407902090723
+tavasz resp_prep 0.6 red p 0.398715135088
+tavasz resp_prep 0.6 green q 0.645114248124
+tavasz resp_prep 0.3 green q 0.426346345164
+tavasz resp_prep 0.8 red p 0.558666013851
+tavasz resp_prep 0.3 red p 0.569504808722
+tavasz resp_prep 1.0 green q 0.502662715793
+tavasz resp_prep 0.8 green q 0.37304443412
+tavasz resp_prep 0.3 red p 0.523206765822
+tavasz resp_prep 1.0 red p 0.431142278278
+tavasz resp_prep 0.3 red p 0.422691300977
+tavasz resp_prep 0.8 green q 0.483114318806
+tavasz resp_prep 0.6 red p 0.483474083798
+tavasz resp_prep 0.1 green q 0.51176882931
+tavasz resp_prep 1.0 red p 0.643132391066
+tavasz resp_prep 1.0 green q 0.434328718082
+tavasz resp_prep 0.3 red p 0.585898612771
